@@ -46,11 +46,11 @@ h2{font:500 24px/1.2 var(--serif)}
 .skills h3,.job h3{font:600 16px/1.35 var(--sans)}
 .skills p{color:var(--muted);margin-top:6px;font-size:16px;line-height:1.55}
 .jobs{list-style:none;display:flex;flex-direction:column}
-.job{display:grid;grid-template-columns:1fr 128px;gap:8px 32px;padding:20px 0;border-top:1px solid var(--rule)}
+.job{display:grid;grid-template-columns:1fr;gap:8px;padding:20px 0;border-top:1px solid var(--rule)}
 .job:first-child{padding-top:0;border-top:0}
 .job .title{font-weight:400;color:var(--muted)}
-.job .when{font-size:14px;color:var(--muted);text-align:right;font-variant-numeric:tabular-nums;padding-top:2px}
-.job p{grid-column:1/2;max-width:62ch;font-size:16px}
+
+.job p{max-width:62ch;font-size:16px}
 .job .stat{display:inline;font-weight:600;color:var(--accent)}
 .fit p{max-width:62ch}
 .fit p+p{margin-top:12px;color:var(--muted)}
@@ -66,11 +66,8 @@ footer a{font-weight:500}
  .hooks{flex-direction:column}
  section{padding:32px 0;gap:20px}
  .skills{grid-template-columns:1fr;gap:20px}
- .job{grid-template-columns:1fr}
- .job{gap:4px}
- .job .when{text-align:left;grid-row:2;padding:0 0 4px}
+ 
  .hook .big{font-size:52px}
- .job p{grid-column:1;grid-row:3}
  footer{flex-direction:column;gap:8px}
 }
 @media print{
@@ -88,7 +85,7 @@ footer a{font-weight:500}
  h2{font-size:13pt}
  .skills{gap:10pt 20pt}.skills p,.job p{font-size:9pt;margin-top:2pt}
  .skills h3,.job h3{font-size:9.5pt}
- .job{padding:5pt 0;grid-template-columns:1fr 90pt}.job .when{font-size:8.5pt}
+ .job{padding:5pt 0}
  footer{display:none}
  .job{row-gap:2pt}
  a{color:var(--ink)}
@@ -130,14 +127,10 @@ footer a{font-weight:500}
  <section>
   <h2>Experience</h2>
   <ol class="jobs">
-   <li class="job"><h3>Erber Auto <span class="title">· Director of Business Development</span></h3><span class="when">2025 – now</span>
-    <p>Started in marketing and fleet sales, then built the shop’s operating software: a customer portal, caller pop-ups with call context, repair follow-ups, a shared data service, and a pricing engine modeled to raise gross profit on eligible parts by <span class="stat">about 48%</span>.</p></li>
-   <li class="job"><h3>Tenicor <span class="title">· Marketing Lead</span></h3><span class="when">2024 – 2025</span>
-    <p>Helped lead marketing and owned content strategy and production.</p></li>
-   <li class="job"><h3>Werkz Holsters <span class="title">· Marketing &amp; Creative Director</span></h3><span class="when">2022 – 2024</span>
-    <p>Led brand and creative work. My market research set the direction for one of their premier product lines.</p></li>
-   <li class="job"><h3>Northwoods Collective <span class="title">· Documentary Filmmaker &amp; Photographer</span></h3><span class="when">2017 – 2022</span>
-    <p>Made documentaries and photography for magazines and YouTube channels.</p></li>
+   <li class="job"><h3>Erber Auto <span class="title">· Director of Business Development</span></h3>    <p>Started in marketing and fleet sales, then built the shop’s operating software: a customer portal, caller pop-ups with call context, repair follow-ups, a shared data service, and a pricing engine modeled to raise gross profit on eligible parts by <span class="stat">about 48%</span>.</p></li>
+   <li class="job"><h3>Tenicor <span class="title">· Marketing Lead</span></h3>    <p>Helped lead marketing and owned content strategy and production.</p></li>
+   <li class="job"><h3>Werkz Holsters <span class="title">· Marketing &amp; Creative Director</span></h3>    <p>Led brand and creative work. My market research set the direction for one of their premier product lines.</p></li>
+   <li class="job"><h3>Northwoods Collective <span class="title">· Documentary Filmmaker &amp; Photographer</span></h3>    <p>Made documentaries and photography for magazines and YouTube channels.</p></li>
   </ol>
  </section>
 

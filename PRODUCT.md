@@ -19,7 +19,7 @@ Wil Sensing finds the jobs a business does by hand that are worth handing off, m
 "Hand off the busywork. Keep the decisions." A third line on speed is undecided and is not on the site. No timeline promise. Reliability is the edge. Internal line: "the layer that makes AI reliable" (not stated as an absolute on the site). Public wording: AI only where it helps; plain automation where the work has to be exact. Lightweight and fast: no six-month study, no slide deck.
 
 ## Operating Context
-Fit call (free, 30 minutes, no commitment; can end in a no) → Job map (short, paid; every applicable job, each with a measure and a baseline where possible; a scope, a price, and a timeline sized to that set; the owner keeps it) → Build (retire, then plain automation, then AI only for messy input; tested before trust) → Run and govern (monthly, stoppable, living job-list review). The fee credit toward the build is not confirmed and is not promised on the site. No prices are published.
+Fit call (free, 30 minutes, no commitment; can end in a no) → Job map (free, short; every applicable job, each with a measure and a baseline where possible; the owner keeps it) → Build (the first paid step; price sized to the jobs on the map, no amount published; retire, then plain automation, then AI only for messy input; tested before trust) → Run and govern (monthly, stoppable, living job-list review). No prices are published. There is no map fee and no fee credit.
 
 ## Capabilities and Constraints
 - Three pages: Home, How we work, Our Work, in `mockups/site/`. Words also live in `site-content-v1.md`. The live `index.html` is the previous site and is not this copy.

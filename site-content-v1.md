@@ -7,13 +7,13 @@ Markers: **[TBD]** = the proposition leaves it open. Do not invent it on the pag
 ## Decisions now in force
 
 - Positioning: "Hand off the busywork. Keep the decisions." A third line on speed is [TBD]. It is not on the site. No "in weeks" or other timeline promise.
-- Flow: free 30-minute fit call (no commitment; can end in a no) → short paid Job map of every applicable job, not one job and not a set number → build, cheap-first, AI only where it helps → monthly run-and-govern, with a living job list. The first list is never the final one.
+- Flow: free 30-minute fit call (no commitment; can end in a no) → free short Job map of every applicable job, not one job and not a set number → build, the first paid step, cheap-first, AI only where it helps → monthly run-and-govern, with a living job list. The first list is never the final one. Wil decided the Job map is free on 2026-10-26.
 - Measure test, shown as a template, not a result: Improve [measure] from [baseline] to [target] by [date].
 - Lightweight and fast: no six-month study, no slide deck.
 - Who we serve is [TBD]. No industry, size, or geography targeting on the page.
 - Plain language, a product for trades, and "one loop" are judgment calls. They are not stated as rules.
 - "Audit" is not used. "We" for the business. About stays personal. No team size. "Streamline" stays out.
-- No prices (the Job map says it includes a price sized to the jobs; no amount). The fee credit toward the build is [TBD] and is not promised on the page.
+- No prices on the page. The fit call and the Job map are free. The build is the first paid step, and its price is sized to the jobs on the map. No amounts. There is no fee credit, because the map is free.
 - Proof: one shop, unnamed. $217K found and stopped, not recovered. ~48% labeled modeled. The $300+/mo scheduling figure stays off. No invented results.
 - Design: B v3, light, dark bands. Less is more. Hero is the headline, the call button, and the draft card. Contact only in the close.
 
@@ -21,6 +21,8 @@ Markers: **[TBD]** = the proposition leaves it open. Do not invent it on the pag
 
 ### Hero
 **Hand off the busywork. Keep the decisions.**
+
+The call and the Job map are both free. You only pay to build.
 
 [Book a free 30-minute call. No commitment.]
 
@@ -69,9 +71,9 @@ We find the jobs worth handing off, however many apply. Each one gets a measure 
 
 **1. Fit call.** Free. 30 minutes. No commitment. We talk about how the work runs and where the hand work piles up. It ends in a Job map, a no and why, or not yet.
 
-**2. Job map.** Short, and paid. No six-month study and no slide deck. We try to find every job worth handing off. There is no set number. Each measurable job gets: Improve [measure] from [baseline] to [target] by [date]. If we can't write that sentence, the job stays off the build. You keep the map: the jobs, the measures and baselines, what the system does and what a person still does, the order to build them, and a scope, a price, and a timeline sized to that set. It is a starting list. New jobs show up later.
+**2. Job map.** Free, and short. No six-month study and no slide deck. We try to find every job worth handing off. There is no set number. Each measurable job gets: Improve [measure] from [baseline] to [target] by [date]. If we can't write that sentence, the job stays off the build. You keep the map: the jobs, the measures and baselines, what the system does and what a person still does, and the order to build them. It is a starting list. New jobs show up later.
 
-**3. Build.** Sized to the jobs on the map. Retire what isn't needed. Plain automation where the work has to be exact. AI only for messy input, like emails, notes, and photos. Tested on real work before it's trusted. How much it does on its own matches the stakes. Something new is written down: handled inside the job, agreed as a change before going on, or added to the list. The build stays on what was scoped.
+**3. Build.** The first paid step. The price is sized to the jobs on the map. Retire what isn't needed. Plain automation where the work has to be exact. AI only for messy input, like emails, notes, and photos. Tested on real work before it's trusted. How much it does on its own matches the stakes. Something new is written down: handled inside the job, agreed as a change before going on, or added to the list. The build stays on what was scoped.
 
 **4. Run and govern.** Monthly, and you can stop. We watch each job against its measure, report it, and review the list: what's new, what changed, and what's next. A job that keeps passing can take on more. New jobs from the list get a short map of their own.
 
@@ -120,7 +122,7 @@ Three examples, each tagged **Synthetic placeholder** on the page. Not clients a
 - "Build for growth" / "Accelerate growth."
 - "It helps if the job repeats" and "probably not a fit if nothing repeats." A one-off job can still be a fit.
 - The job-word parade on Home (quotes, contracting, invoices, and the rest). Who we serve is being redefined.
-- Job map fee credited toward the build. The proposition marks that [TBD].
+- Job map fee, and any credit toward the build. Wil decided on 2026-10-26 that the map is free, so there is no fee and no credit. The build is the first paid step.
 - "A private site you can click through." The proposition doesn't specify that format.
 - The $300+/mo scheduling figure. Still left off on purpose.
 
@@ -128,8 +130,8 @@ Three examples, each tagged **Synthetic placeholder** on the page. Not clients a
 
 1. Third positioning line, and any speed promise, once timelines are set per business.
 2. Confirm the fit call is always free. The page says free, matching the working flow. The proposition still marks the confirm [TBD].
-3. Job map length, fee, and whether the fee is credited toward the scoped build. No amounts on the site.
-4. How a build price and timeline are set. The page says they are sized to the scoped jobs and gives no duration.
+3. How long the free Job map takes. No fee, and no amount on the site.
+4. How the build price and timeline are set. The page says the price is sized to the jobs on the map and gives no amount and no duration.
 5. Who we serve.
 6. Growth figures. "Build for growth" was removed rather than waiting on them.
 7. Shop story fact check, and the $217K time period (not stated).

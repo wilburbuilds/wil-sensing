@@ -1,0 +1,24 @@
+URL: https://go.sustain-media.com/twitter
+Fetched: 2026-10-26T03:41:46Z
+HTTP status: 302
+Final URL: https://go.sustain-media.com/twitter
+Content-Type: 
+Via: curl-head-then-get (no body followed into the challenge; redirect target recorded from the Location header; not submitted)
+Title: 
+Meta description: 
+Canonical: 
+Robots: 
+H1: 
+
+HEAD/GET response headers for the short link, without following into the SiteGround challenge.
+
+HTTP/2 302
+server: Caddy
+server: cloudflare
+location: https://sustain-media.com/
+cache-control: no-store
+content-length: 0
+
+A second short link, https://go.sustain-media.com/f0295fde, returned the same Location: https://sustain-media.com/
+
+Headless Chrome, same morning, saved a 403 Forbidden body at the final URL https://go.sustain-media.com/twitter (see twitter.txt). It did not render a market-audit form.

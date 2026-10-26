@@ -1,0 +1,960 @@
+URL: https://www.sustain-media.com/full-home-service-seo-playbook.html
+Fetched: 2026-10-26T03:40:00Z
+HTTP status: 200
+Final URL: https://www.sustain-media.com/full-home-service-seo-playbook.html
+Content-Type: text/html
+Via: markdown-extract (Chrome on this network received a SiteGround challenge or 403; this body is the readable extract of the live page)
+Title: The Home Service SEO Guide
+Meta description: 
+Canonical: 
+Robots: 
+H1: The Home Service SEO Guide.
+
+Sustain Media 
+
+2026 Edition · Free guide
+
+# The Home Service SEO Guide.
+
+The exact system Sustain Media installs for home service brands. Google Business Profile, reviews, website, links, AI search, tracking, and multi-location expansion, in the order we run it.
+
+▶WATCH THE FULL WALKTHROUGH Book a free consultation → 
+
+What's inside
+
+10 sections · 8 copy-paste LLM prompts
+
+01Start Here 06Pillar 3: The Website 02Proof It Works 07Citations and Links 03How Google Decides Local Rankings 08Pillar 4: AI Search 04Pillar 1: The Google Business Profile Build 09Tracking: How You Know It's Working 05Pillar 2: The Review Velocity System 10The Multi-Location Playbook 06Pillar 3: The Website 
+
+## Start Here.
+
+* This doc is **the system we install for clients**, start to finish.
+* It's written for owners already running a real operation. Trucks, techs, a front office, marketing spend that isn't working hard enough.
+* **Follow it top to bottom. The order matters.** It's the order we run on every new client.
+* Every LLM prompt in the video is written out in here. Copy, paste, run.
+* Watch the full video walkthrough for the live screen work: watch the walkthrough →
+
+## Proof this strategy actually works.
+
+Before the how, the receipts. One plumbing company we run this exact system for. Same scan you just saw, before and after.
+
+The before and after
+
+"sewer line repair near me" · 133 pins · 9 mi radius
+
+BEFOREavg rank 8.69 · invisible in 23% of the metro
+
+Before: geo-grid scan averaging rank 8.69, red and orange across most of the metro 
+
+AFTERavg rank 1.53 · top 3 across 94% of the metro
+
+After: geo-grid scan averaging rank 1.53, ranked number one across nearly the whole metro 
+
+$859,816.11
+
+in sales attributed to **just two Google Business Profiles** over the last 12 months, pulled straight from their ServiceTitan.
+
+ServiceTitan campaign report: two Google Business Profile campaigns summing to $859,816.11 in total sales 
+
+The map flip itself took under nine months. The rest of this doc is the system that did it, in the order we ran it.
+
+## How Google Decides Local Rankings in 2026.
+
+If you skip this section, nothing else will stick. Three factors decide who ranks, and every factor maps to a specific part of this system. None of this is theory. Each one tells you exactly what to build.
+
+70%+
+
+of local leads come from **the Map Pack**, the top 3 profiles above the regular results. Someone with a burst pipe at 8pm is not reading blog posts. **They call the first number they see.**
+
+FACTOR 1
+
+Relevance
+
+Does Google understand exactly what you do, and where you do it?
+
+* Controlled by your categories, your services, your website content, and your business name.
+* This factor is why Pillar 1 and the website pillar exist.
+
+Built by: Pillar 1 + the website
+
+FACTOR 2
+
+Proximity
+
+How close is your address to the searcher?
+
+* A profile ranks in a circle around its pin, and that circle only stretches so far, no matter how good the SEO gets.
+* **One pin owns a circle. Nobody owns a metro with one pin.**
+* You can't fake this factor. You expand past it. That's the multi-location playbook at the end of this doc.
+
+Beaten by: the multi-location playbook
+
+FACTOR 3
+
+Reputation
+
+Has this business proven itself?
+
+* Reviews, citations, links, time in business.
+* And your brand. How known your name is, on and off Google. This one gets its own payoff in the AI pillar.
+* This factor is why the review engine and the links section exist.
+
+Built by: reviews + links + the AI pillar
+
+### The first move: see your market the way Google sees it.
+
+* Before you touch a single setting, run a heat map scan of your market with a tool like **Local Dominator**.
+* One scan shows where you rank street by street, across your entire service area, for the keyword that pays you.
+* Most owners have never seen this picture. It's usually green right around the shop and red everywhere the money is.
+* **Everything in this doc exists to turn that grid green.** Run the scan now so you can watch it happen.
+
+Geo-grid scan, where you actually rank
+
+"water heater repair" · your metro
+
+Geo-grid scan of a metro: number-one rankings clustered near the office pin, falling to invisible across town 
+
+The scan: your rank at every point in the metro
+
+The Map Pack in Google search results: three plumbers listed under the map 
+
+What the searcher sees: a 1 on the grid = the top listing here
+
+Top 3, you get the call Page one, below the fold Invisible ★Ranked #1 at that spot 
+
+You've seen the right side before: the Map Pack's top three are the three pins on the map, in order. **Not in the top three at that spot? Not shown.** Everything below exists to turn the grid green.
+
+## The Google Business Profile Build.
+
+The single biggest lever in local SEO, and where we start on every new client. Read a step, then watch it done live in the video.
+
+STEP 1
+
+### Lock the primary category.
+
+* **One category, and it follows your revenue**, not what sounds impressive.
+* Some trades barely have a choice. A plumber picks Plumber and moves on.
+* HVAC is where it gets interesting, because there are plenty of categories to pick from.
+* Split revenue between heating and cooling, and want to rank for both? **HVAC Contractor.**
+* Mostly furnaces, heaters, and heat pumps? **Heating Contractor.**
+* Mostly AC repairs, installs, and replacements? **Air Conditioning Repair Service.**
+
+STEP 2
+
+### Add secondary categories.
+
+* Fill every slot that genuinely fits. The HVAC shop above runs four secondaries behind the primary.
+* A plumber adds drain cleaning, water heater installation, sewer line repair, emergency plumber.
+* **Relevant only. No stuffing.**
+
+A real HVAC category build
+
+PRIMARY CATEGORY
+
+HVAC Contractor PRIMARY 
+
+SECONDARY CATEGORIES
+
+Heating Contractor
+
+Air Conditioning Contractor
+
+Air Conditioning Repair Service
+
+Heating Equipment Supplier
+
+One revenue-aligned primary, four real secondaries. Nothing stuffed.
+
+STEP 3
+
+### Build out every service, with descriptions.
+
+* **Every single service you offer gets its own entry** and a real description.
+* Mention what Google expects to see around that service. Equipment, problems solved, related terms, your city.
+* Match the language on your profile to the language on your website.
+* Don't write 20 of these by hand. Run the prompt:
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+You are a local SEO specialist for home service businesses. I run a
+[TRADE] company in [CITY, STATE]. List every service my Google Business
+Profile should include, ranked by likely search volume. For each one give
+me: the exact service name to enter, and a description under 300 characters
+that names the service, my city, and the specific terms customers and
+Google associate with that service (equipment, problems solved, related
+searches). Format it as a table I can work down while editing my profile.
+
+STEP 4
+
+### Settle the storefront question.
+
+* **A physical address beats a service-area profile every time**, in almost every market.
+* The check: search your keyword, count how many of the top 10 run a real storefront. That tells you what your market requires.
+* Small-town exception: if nobody in the top 10 has an office, a service-area profile can still win.
+
+STEP 5
+
+### Add a realistic service area.
+
+* List the towns, cities, and zips you actually serve, and **do this even if you have a physical-location profile.** The two aren't either/or: the address anchors your pin, the service area tells Google everywhere else you work.
+* The one hard rule: **everything you list needs to be within about a two-hour drive** of your location.
+* Keep it realistic. The areas your trucks actually roll to, not a whole state pasted in.
+
+STEP 6
+
+### Add products.
+
+* Load your main services as products, with pricing context. Starting-at numbers or ranges.
+* Photos of your real jobs work a little better here if you have them. Ideally one for every service you offer.
+* Same play as the services section. Don't write these by hand:
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+I run a [TRADE] company in [CITY, STATE]. Build my Google Business Profile
+products section. Turn my main services into product entries. For each one
+give me: the product name a customer would actually search, a starting-at
+price or price range that's realistic for my market, a description under
+300 characters that names the service and my city, and which real job
+photo to pair with it. Rank the 10 highest-value entries first and format
+it all as a table.
+
+Notice the output is different from the services prompt. **Products want prices and photos.**
+
+STEP 7
+
+### The name. (The Exact Match Name Strategy.)
+
+* **Google gives relevance credit to names that match what people search.**
+* You'll see tiny profiles named just "\[City\] AC Repair" with no brand attached. That's a profile built to game the system, and it tells you the signal works.
+* The real-brand version: your brand plus your primary keyword. Johnson's AC Repair.
+* Want more? Add one or two keywords, not five. Johnson's Heating, Cooling, and Plumbing Repair. Stuffing reads as spam and gets flagged.
+* **The line you do not cross: file a real DBA for the new name first.** Faking it gets the name reverted or the profile suspended.
+* One contractor runs this for his two main services and outranks shops with four times his reviews.
+
+✓ THE PLAY
+
+Johnson's AC Repair
+
+Brand + primary keyword
+
+✓ THE MAX
+
+Johnson's Heating, Cooling, and Plumbing Repair
+
+One or two keywords, DBA filed
+
+✕ THE FLAG
+
+Johnson's AC Heating Cooling Plumbing Drains & More
+
+Stuffing reads as spam, reverted or suspended
+
+### The advanced version: two verticals, two profiles.
+
+* Common problem: your shop runs two verticals, say plumbing and HVAC, and your profile only ranks for one of them. We see it all the time.
+* **The fix:** a second profile, with a real DBA, optimized entirely around the second vertical's keywords. The original stays focused on the first.
+* **The cost:** reviews don't transfer. The new profile rebuilds them from zero, which is exactly what the review engine in the next pillar is for.
+* **The payoff:** two profiles, each ranking hard for its own lane, instead of one profile splitting the difference.
+
+STEP 8
+
+### Set 24/7 hours, and actually answer.
+
+* **After-hours calls are the emergencies, and emergencies are the best tickets.** Set your hours to 24/7 if you can actually answer.
+* Tommy Mello stands in front of entire rooms of contractors and tells them the same thing: without 24/7 hours and someone answering the phone, a person or an AI agent, you're missing about 30% of your leads.
+* And a huge share of homeowners search for this stuff between 6 and 10 at night, scrolling on the couch, finally off work.
+* Bigger shops can support around-the-clock answering. Smaller shops usually can't, and most never run the math on what that gap costs.
+* **The rule either way: never post hours you don't answer.** A missed call teaches Google, and the customer, not to send the next one.
+
+\~30%
+
+of leads missed without 24/7 hours and a phone that gets answered, person or AI agent.
+
+Watch Tommy Mello's talk:
+
+STEP 9
+
+### Opening date equals founding date.
+
+* Operating since 1998 with a profile created in 2021? **Set the date to 1998.**
+* Aged profiles with consistent history outrank new ones. This is accuracy, not a trick. Google asks when the business opened, not when the profile did.
+
+### The ongoing work. (What "optimized" means month to month.)
+
+* **New photos every month.** Team, trucks, finished jobs. Authentic, high quality, geotagged. Google has never seen your job photos before, and that's the point.
+* **Reply to every review.** Mention the service and the city in the reply.
+* **Posts: we still recommend them, for the right reason.**
+* We've tested posts across dozens of clients, and they don't move rankings in any real way. Don't pay anyone for posts as a ranking strategy.
+* Do them anyway. An active profile is an activity signal, and the customer comparing three shops picks the one that looks alive.
+* Posts also pick up a second job later in this doc: the Learn More button can point at your BBB and Yelp pages to keep your citations indexed.
+
+## The Review Velocity System.
+
+Look at the profiles that sit at the top of the Map Pack and pull the most calls in any market. Almost every one of them is also getting the most reviews each month. That is not a coincidence. **It's one of the biggest needle movers in this entire system.**
+
+60/mo
+
+20/mo
+
+A shop doing **60 reviews a month** typically outranks a shop doing 20\. Velocity, not total, is the metric almost nobody tracks.
+
+### Which review numbers matter, in order.
+
+1
+
+**Velocity.** How many you're generating right now. A profile stacking reviews this month beats a bigger total that went quiet six months ago. Recency is the metric almost nobody tracks.
+
+2
+
+**What the review says.** "Five stars" is fine. "ABC Plumbing cleared our drain in Metairie same day" ranks you for the service and the city.
+
+3
+
+**Who leaves it.** Reviews from Local Guide accounts carry extra weight.
+
+4
+
+**Your rating.** The Map Pack is full of 4.7s and up.
+
+5
+
+**Total count.** The thing everyone obsesses over. It's fifth for a reason.
+
+6
+
+**Photos in reviews.** Customer photos get pinned and trusted. If your work is visible, ask for the picture.
+
+### The system that produces velocity.
+
+* **The ask happens in person, before the tech leaves the job site.** Highest-converting request that exists.
+* Make it part of closing the job, not an optional extra. The biggest operators are moving to mandatory: no close-out without the ask.
+* We've live trained sales teams at eight-figure home service brands on this exact ask.
+
+The ask script
+
+"If you were happy with the work, it would mean a lot if you left us a review. You can scan this QR code, it just takes 20 seconds."
+
+* **QR code card in every tech's hand and every truck.** Scanning to review takes 30 seconds.
+* **The photo play:** the best companies we work with train techs to have the customer take a photo of the tech in front of the new system, sometimes with the customer in it. People see those reviews, and it builds your brand and authority more than anything else can.
+* **Pay for it. $25 per review.** One shop went from 5 reviews a month to 35 on that incentive alone.
+* Stack a competition on top of the cash. Top three techs every week or every month, depending on how many jobs your shop runs.
+* Have good prizes:
+
+Paid date night with the wife Flat screen TV PS5 for the kids Cash 
+
+* Now the part nobody wants to hear. **The system is easy. The training is the work.**
+* A tech won't go out of his way for $25 if the ask isn't second nature. You drill it until it is.
+* And it's bigger than a script. It's culture. **Do good work, then get the review that proves it.** In the shops that win, that sentence is the job description.
+
+### The backstop, when the tech doesn't get it.
+
+* **Automation runs the follow-up.** Text at 12 hours, email at 24 if there's still no review.
+* At 48 hours, it becomes a phone call, and that call belongs to your CSRs.
+* Give the office the same deal: $25 per review they recover, with their own competitions.
+* The setup is one spreadsheet: every customer from the trailing seven days who hasn't left a review. CSRs work the list.
+* For a CSR, $25 a review is awesome money for what's already their job: calling customers and taking care of them.
+* Owner calls only make sense in a small shop. Past that, this belongs to the team.
+* **The ramp rule: don't jump from 2 a month to 30 overnight.** Google filters spikes. Build toward a steady monthly number.
+* One more reason this matters: reviews are no longer just a Google Maps play. AI engines read them across every platform. That's Pillar 4.
+
+The review machine
+
+From job close to posted review, with the backstop built in
+
+JOB DONE · THE ASK
+
+In-person ask, before the tech leaves the site
+
+Customer scans the QR card · 20 seconds
+
+The photo play: customer snaps the tech with the finished job
+
+Review posted?
+
+Yes
+
+Tech earns **$25** \+ leaderboard points
+
+Not yet
+
+12 HR · automated SMS
+
+24 HR · automated email
+
+48 HR · CSR phone call, off the seven-day spreadsheet
+
+CSR earns **$25** per recovered review
+
+Review lands → velocity builds
+
+The ramp rule applies to the whole machine: build toward a steady monthly number. Google filters spikes.
+
+Who installs this
+
+## Why isn't your agency already doing this?
+
+If you're watching this and you run a home service business, you might be wondering why none of this is happening internally, or why the agency you're paying isn't doing it for you.
+
+Fair question. This is exactly what Sustain Media does for home service companies doing **over $2M a year**.
+
+And we only take on **one trade in every major metro**, so if we rank you, your competitors can't hire us.
+
+If you want our help running this full system for you, and booking you more jobs from search results, book a consultation at the first link in the description below.
+
+On that call I'll pull up your market and tell you straight whether it's worth doing.
+
+BOOK MY FREE CONSULTATION 
+
+Okay. Back to the system.
+
+## The Website.
+
+Your website and your profile are one system, not two projects. Google reads the site behind the GBP to decide how high that profile deserves to rank, so the site is a big part of why you rank in the first place, and it's what keeps you there. It's also what turns the click into a booked job. **We build it in seven parts.**
+
+PART A
+
+### The bridge. Where your profile's website button points.
+
+* Every GBP has a website button, and where it points matters more than most agencies realize.
+* **One location:** point it at a homepage fully optimized for your service and your city.
+* **Multiple locations:** each profile points at its own city page. Never all of them at the homepage.
+* The reason: one homepage cannot be optimized for the same keyword in three different cities. Each profile needs a landing page built for its own area.
+* **Remember this rule. It comes back in the multi-location playbook.**
+
+PART B
+
+### Match the site to the profile. (The on-page basics.)
+
+Google is reading the same business from two places, your profile and your website, and checking that they tell the same story. Most of on-page SEO for a home service company is exactly that: **your GBP says what you do. Your website confirms it, page by page.**
+
+The profile → website map
+
+Primary category + main city
+
+→
+
+Title tag + H1 of the page your profile points at · Plumber in Houston, TX
+
+Secondary categories
+
+→
+
+Worked into the copy and the H2 headings (a drain cleaning H2 on the homepage, if that's a secondary); the important ones get their own section or page
+
+Every major GBP service
+
+→
+
+A dedicated service page optimized around it · Water Heater Replacement in Houston
+
+Core cities you serve
+
+→
+
+A location page per city: primary category + city · Plumber in Katy, TX
+
+Once those rank and index
+
+→
+
+High-value service-location combos · Water Heater Replacement in Katy, TX
+
+* The rest of the on-page floor: **one H1 per page, and it names the service and the city.**
+* Title tags lead with the keyword, then the brand name after a vertical bar: Top-Rated Plumber in Houston | Johnson Plumbing. Keep it under about 60 characters.
+* Clean URLs: /water-heater-replacement-houston, not /services?id=14.
+* A meta description that sells the click: service, city, proof, offer.
+* Real alt text on job photos, one more place Google reads "water heater install, Houston."
+* Internal links keep the homepage, service pages, and location pages reinforcing each other. More on the structure below.
+
+PART C
+
+### The conversion layer.
+
+Most home service websites convert **under 1%** of visitors. A well-built one runs **3 to 5%**. Same traffic, triple the calls.
+
+What it looks like built right, a real client's site (name and city blurred)
+
+A real client website above the fold: rating bar, service headline, trust checkmarks, phone number twice, and a service request form
+
+Everything before a single scroll: 4.9 rating bar across the top, the service in the headline, proof checkmarks, the phone number twice, and the request form already open
+
+1
+
+**Say the service and the city in the headline.** "AC Repair in Austin" beats anything clever.
+
+2
+
+**A big tap-to-call button**, sticky on mobile, phone number top right on every page.
+
+3
+
+**Show your rating and review count near the top.** "4.9 from 300+ reviews."
+
+4
+
+**A row of 2 or 3 reassurances above the call to action.** Licensed and insured, same-day service, financing.
+
+5
+
+**A lead form with a real offer.** "Claim your $50 off" beats "schedule service."
+
+If you want to watch my Masterclass on website conversion rate:
+
+PART D
+
+### The sitemap. Service pages, then staged location pages.
+
+Home Page Services Locations About Us Photos / Our Work Plumbing Drain Cleaning Water Heater Repair Sewer Line Repair Scottsdale Phoenix Glendale Mesa 
+
+Service pages link to their related location pages, and back. Clean internal links, no orphan pages.
+
+* The structure: Homepage → one thorough page per service → one real page per city you serve. Clean internal links, no orphan pages.
+* The old version of this course taught building 50 to 100 location pages out of the gate. **We were wrong, and the data made it clear.**
+* What actually works is staging it.
+* **Stage 1:** 8 to 10 deep location pages for your core cities. Google reads 50 near-identical pages as duplicate content and ranks none of them.
+* **Stage 2:** once those rank, expand into service-location pages. Not "roofing company in Saratoga County" but "metal roofing in Saratoga Springs." That's where the buyer with a specific job is searching, and almost none of your competitors have the page.
+
+### What makes a location page real instead of thin.
+
+* Answers to local questions with local pricing. "What does a water heater cost in Austin? Usually $1,200 to $2,500 installed."
+* Content about the actual place. Neighborhoods, common home types, the problems your trade sees there.
+* Photos and reviews from jobs in that specific area.
+* A map embed plus driving directions from nearby towns. It reads as helpful to Google because it is helpful.
+* The next level, and a few of the larger shops we work with run this: tools that automatically push new job photos and reviews from that area's GBP onto that area's location page.
+* Google and the language models read that as live, trustworthy, local proof. Fresh photos and fresh reviews from real jobs in that zip, updating on their own. **It tells them this company does good work, and does it there.**
+
+### Where the local information comes from.
+
+How to find information your competitors don't have
+
+* Local Reddit threads: questions and complaints about the service in that city or neighborhood.
+* Google, forums, Facebook groups, community boards, the questions people keep asking.
+* Interview the owner and the techs: what changes from one part of the metro to another?
+* Real jobs completed in that city: common problems, unusual installs, home ages, equipment, project costs, permitting, access issues, before-and-afters.
+* Customer interviews from that area: why they called, what surprised them, what the job involved.
+* CRM and job data, but only when it ties back to a specific zip, city, or job address.
+
+Don't ask Claude to rewrite the five pages already ranking. **Give Google and AI information that could only come from a company that actually works there.**
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+I'm building a location page for [SERVICE] in [CITY / NEIGHBORHOOD]. Below
+is my research: questions from Reddit and local groups, notes from
+interviews with the owner and techs, notes from real jobs we've done in
+this area, pricing examples, common home and property types, and the photos
+and reviews I have from this area. Using ONLY what I've supplied, do not
+invent local facts, tell me: (1) the local questions worth answering on
+the page, (2) genuinely location-specific sections to add, (3) useful
+pricing or project-detail sections, (4) FAQs, (5) the full page outline top
+to bottom, and (6) anything in my research that's too generic and should be
+left out.
+
+MY RESEARCH: [PASTE]
+
+PART E
+
+### Indexation. The 2026 problem nobody warns you about.
+
+* Getting pages indexed has quietly become one of the trickiest parts of good SEO in 2026.
+* Here's the tension. You want more pages so you can rank for more keywords. Google punishes duplicate, thin, spammed-out pages. A lot of larger companies with big websites are struggling with exactly this.
+* **The rule underneath it is simple: you can't rank on Google if you're not indexed on Google.**
+
+The indexation checklist
+
+✓Submit the page in Google Search Console
+
+✓Unique content on every page
+
+✓Submit the sitemap
+
+✓Good internal linking
+
+✓Re-upload the sitemap weekly
+
+✓External links pointing at the page
+
+The next part helps here too. Tool pages and smart internal links feed indexation. That's part of why we build them, not the whole reason.
+
+PART F
+
+### Tool pages. (The traffic play almost nobody runs.)
+
+* **AI made these cheap to build.** What used to take a dev team now takes an afternoon.
+* The types that work:
+
+Estimate calculators for installs & replacements Maintenance plan calculators "Do we service your area?" checker Full project budget guides 
+
+* **Why they rank:** they're genuinely helpful, and Google wants to rank helpful content.
+* **Why they compound:** strategic internal links from these pages back to your location and service pages feed those pages authority and help them get indexed quicker.
+* A fencing company we work with runs this play. Their organic traffic went vertical.
+
+The fencing company, three months into SEO
+
+CRM revenue dashboard: $934,685 in sales, 140 jobs won, $6,676.32 average job size
+
+Google Search Console: clicks and impressions climbing steadily over three months 
+
+Their Search Console over the same stretch: clicks and impressions climbing week over week
+
+$934,685 in total company sales, 140 jobs won, $6,676 average ticket in the three months since we started working together. That's total growth, not all of it from SEO, and three months is faster than typical. The honest version is still a monster.
+
+PART G
+
+### The content gap analysis. (How we outrank a page that's beating us.)
+
+* **Stop guessing why a competitor outranks you. Audit the gap directly.**
+* Pull the page structure and every heading from the top 5 ranking pages for your keyword, then run yours against them:
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+I want my page to outrank the current top 5 results for [KEYWORD].
+Below I've pasted the page structure and every heading (H1, H2, H3) from
+each of the top 5 ranking pages, followed by my page. Tell me: (1) which
+sections most of the top 5 include that my page is missing, (2) what
+heading changes I should make, (3) which keywords and related terms appear
+across their headings that mine never use, (4) my final page outline, top
+to bottom.
+
+TOP 5 PAGES: [PASTE]
+MY PAGE: [PASTE]
+
+### The linking rules and the rest of the technical floor.
+
+* Homepage links to every service page. Service pages link to location pages and back. Navigation carries the full set.
+* **Blog posts exist to link into your money pages, not to rank on their own.** Two hundred posts and zero leads is a real pattern. Don't build it.
+* Site loads in under 3 seconds on a phone.
+* LocalBusiness and Service schema on the money pages. A floor, not magic.
+* Canonical tags so Google isn't choosing between duplicate versions of your pages.
+
+## Citations and Links.
+
+Most of what agencies bill under this section is filler. Here's the part that matters and the part you can skip.
+
+### Citations. (The foundation, not the win.)
+
+* A citation is your name, address, and phone number listed somewhere Google trusts.
+* **The era of 500 junk directory submissions is dead.** There's a core that actually matters:
+
+YelpAI-CRITICAL BBBAI-CRITICAL Angi Thumbtack Facebook Apple Maps Your trade's big directories 
+
+* **BBB deserves its own line.** It's one of the strongest trust signals on the internet, and the AI engines read it too. You'll see it again in the next pillar.
+* After the core, go local and targeted: your chamber, county and city directories, local business associations.
+* Finding them is simple. Search "small business directory in \[YOUR CITY\]" and work the results. Or run the prompt:
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+I run a [TRADE] company in [CITY, STATE]. Build me a list of 50 real
+citation opportunities: the major national directories every local business
+needs, the top industry directories for [TRADE], and local directories,
+chambers, and business associations for my city, county, and state. For
+each one: name, URL, free or paid, and a priority ranking. Skip low-quality
+spam directories. Format as a table I can paste into a spreadsheet.
+
+* **The rule that matters more than the count: NAP identical everywhere**, down to the suite number and the abbreviations.
+* Moved offices? Updating your GBP is not enough. The old address lives on in dozens of directories, and the mismatch is a trust killer.
+* Multiple locations get treated as separate businesses. Unique NAP per location, its own citations.
+* $10 Fiverr packages hurt more than they help.
+
+### The part nobody checks: are your citations even indexed?
+
+* **If your citation pages aren't indexed on Google, they're pointless.** They do nothing for you.
+* The common version: a company runs Bright Local, submits 75 citations, and only 10 or 15 ever get indexed. You paid for 75\. You think you have 75.
+* The fix is linking. Strategically link out from blog articles to your citation pages.
+* Even GBP posts help here: the Learn More button pointing at your BBB or Yelp page keeps those primary citations crawled and indexed.
+* **Indexed citations are the only ones that show up, and showing up is the entire point.** That's where the trust and authority come from.
+
+### Backlinks. (Where the trust actually comes from.)
+
+* A backlink is another website vouching for yours.
+* **The high-value sources for a local shop:** your suppliers and vendors, trade associations, your chamber (worth it under $500 a year), local news, sponsorships, press releases.
+
+The partnership pitch that works
+
+"I'll send customers your way, let's link to each other's sites."
+
+Pitch it to service businesses in your market that don't compete with you.
+
+* Evaluate any link on four things:
+
+Is the site relevant? Does it get real traffic? Is it a clean, real website? What's the domain rating? 
+
+### The sponsorship play, executed.
+
+* Don't search for "places to sponsor." **Look for local organizations and events actively asking for sponsors**, then check whether the website is worth getting a link from.
+* Where to look:
+
+Local charitiesYouth sports leaguesFestivals & racesNeighborhood organizationsSchools & universitiesIndustry eventsNonprofitsCommunity events 
+
+* Run the same four checks above on the organization's site before you pay.
+* A few hundred dollars for a permanent link from a strong local site is often a very good buy. **Good backlinks frequently cost money, "just earn them naturally" is not a strategy.**
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+Find local organizations, charities, events, schools, universities, sports
+leagues, festivals, and nonprofits in [CITY / METRO] that are currently
+looking for sponsors and appear to link to sponsors from their websites.
+For each: the organization or event, URL, the sponsorship page, estimated
+cost if public, whether sponsors appear to get a website link, relevance to
+a [TRADE] company, estimated website authority and quality, and a
+recommendation: pursue, investigate, or skip. Prioritize real local
+organizations with real websites, not generic sponsorship marketplaces.
+
+$500–$1,500/mo
+
+**Budget honesty:** that's what link building takes in competitive markets. The $200 a month plan is why the last agency didn't work.
+
+## AI Search.
+
+The newest pillar, and the one with the most garbage advice orbiting it. Our strategy here has changed in the last year, so **ignore anything older than this doc, including our own old advice**.
+
+* There are plenty of AI search tools now, and people are starting to use all of them.
+* The two that matter for local right now: **ChatGPT, and Google's AI Mode with AI Overviews**. They're already recommending specific local businesses by name. The rest don't have the volume yet.
+
+The truth the "GEO package" sellers won't say
+
+**There is no cheat code.** The models recommend businesses that look like the known, trusted brand in their market. So the strategy is exactly that: build a brand, or at minimum, look like the brand everywhere the models read. Then run the accelerators.
+
+### Accelerator 1. Reddit, way more than before.
+
+* Local subreddit presence gets indexed and cited by AI tools constantly.
+
+### Accelerator 2. Reviews on every platform, not just Google.
+
+* Google reviews rank you on Maps. The models also read Yelp, BBB, Angi, and the rest.
+* You don't need hundreds anywhere. **You need a real, current presence everywhere they look.**
+* This is the payoff of the multi-platform ask from Pillar 2.
+
+### Accelerator 3. BBB and Yelp first, then the rest of the citation core.
+
+* The two biggest citations for AI search are the Better Business Bureau and Yelp. ChatGPT and Google's AI Mode pull heavily from both.
+* A bare listing isn't the play. You want a good profile on each: real photos, real reviews, complete info.
+* Behind those two, the core citations from the last section, complete and consistent. **To a model, a business that exists cleanly across 15 trusted platforms reads as the safe recommendation.**
+
+### Accelerator 4. AI trust content. (The FAQ play, upgraded.)
+
+* A homeowner spends 20 or 30 seconds on your site. **An AI system reads far more of it**, which makes information that builds trust far more valuable than it used to be.
+* Real questions with real answers, on your service pages, location pages, and profile. The models lift answers from pages built like this. **Publish answers worth citing.**
+
+The questions worth answering with real experience
+
+✓What does this actually cost in this market?
+
+✓What makes the price go up or down?
+
+✓When would you repair instead of replace?
+
+✓When would you tell someone not to buy yet?
+
+✓What can go wrong during this kind of job?
+
+✓What has gone wrong before, and how did you fix it?
+
+✓How long does the work normally take?
+
+✓Which equipment or material options change the job?
+
+✓What should the homeowner know before booking?
+
+✓What changes when a job gets complicated?
+
+* The material comes from the research method in the website pillar: Reddit and local questions, owner and tech interviews, customer interviews, real job information. **Don't fill the site with generic AI-written FAQs every competitor already has.**
+
+### Accelerator 5. Trusted lists and awards. (Get on the pages the models already believe.)
+
+* When someone asks for "the best plumber in Dallas," the answer doesn't have to come from your website. **The models pull from third-party pages that already compare, rank, review, or recognize companies.**
+* Four ways to get your brand into those pages:
+
+A · Publish legitimate list content
+
+Useful "best of" and comparison pages, on your site, LinkedIn, Medium, or Reddit where it's genuinely useful. Not a hundred fake "we're #1" pages.
+
+B · Get on existing lists
+
+Pages already ranking or getting cited for "Best \[TRADE\] in \[CITY\]": local publications, trade directories, established list articles. Some placements are free, some are paid, that's the market.
+
+C · Win real awards
+
+Local "Best Of" programs, trade awards, manufacturer and dealer awards, community awards. Many charge application or badge fees, check the site has real visibility and a legitimate footprint before paying.
+
+D · Promote the recognition
+
+Put legitimate awards on your own site: trust sections, relevant service and location pages, about content. Outside pages say it, your site confirms it, that consistency is what the models read.
+
+**The line:** don't fabricate awards, and don't dress a paid directory profile up as an independently judged award.
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+For a [TRADE] company in [CITY, STATE], find: (1) "best of" list articles
+currently ranking, (2) local and trade directories with strong visibility,
+(3) legitimate award programs, (4) local publications that publish annual
+rankings, and (5) paid opportunities worth investigating. For each: the
+site, URL, type (listicle / directory / award / publication), free or paid,
+visible pricing if available, whether the site itself appears to rank and
+get traffic, how I apply or get included, and a priority. End with the 10
+best opportunities.
+
+### Accelerator 6. A visible brand. (Where all of this is heading.)
+
+* Here's my theory on the future of this whole game, and where our agency is heading as a company: more social presence, more social content.
+* We're already running it: Reddit, Quora, and the lists and awards above.
+* **Press releases still have a job, but they're not the shortcut they used to be.** A few years ago syndicated PR placements carried real weight; today they're one supporting tactic in the mix, behind trusted directories, real awards, "best of" pages, local mentions, and reviews.
+* Instagram, TikTok, and YouTube Shorts all get indexed and rank on Google.
+
+The chain
+
+Presence on other platforms → Builds the brand → Branded search volume → Models learn people look for you → The moat 
+
+A brand the models trust because the internet keeps proving it exists, authority beyond your own website.
+
+What it looks like when it works
+
+Who's the best electrician in Atlanta for a panel upgrade?
+
+AI
+
+Based on consistent reviews and local presence, Brightline El Electric is a strong choice, 4.9 on Google across 480 reviews, an A+ BBB rating, active on Yelp, and frequently recommended in Atlanta subreddits for panel work…
+
+Sources: Google reviews Yelp BBB Local Reddit threads 
+
+A real client shows up in answers like this by name. The signals the model read: reviews everywhere, clean citations, a brand that keeps proving it exists.
+
+**The window: this channel is still uncrowded.** The shops building the brand signals now compound ahead of everyone who waits.
+
+## Tracking: How You Know It's Working.
+
+What you measure, you can improve. Shops that guess where leads come from stay stuck, and they keep paying for marketing that doesn't work.
+
+* **The setup:** a unique tracking number on your GBP, and dynamic number insertion on your website so the displayed number swaps by traffic source while your real number stays consistent everywhere it's printed.
+* Every lead source lands in the CRM, and revenue gets attributed back to the channel that produced it. **A phone number becomes a dollar amount.**
+* Watch the trend lines too: organic traffic in Search Console or Ahrefs, and a monthly geo-grid scan in Local Dominator so you can see your map coverage change.
+
+The weekly scorecard · a spreadsheet is fine if you don't have a CRM
+
+Calls Form leads Booked jobs Revenue Cost per lead 
+
+Don't want to read reports? Don't. Feed them to Claude:
+
+Copy this prompt into an LLM (ChatGPT, Claude, etc.) Copy prompt 
+
+Attached are my call tracking export and lead reports for the last
+[X] days. Tell me: leads by source, which source produced the most booked
+jobs, my cost per lead by channel [include spend if you have it], and the
+one channel I should double down on plus the one I should cut. Explain it
+like I'm an owner, not a marketer.
+
+### The two numbers that decide everything.
+
+LTV : CAC
+
+**The long-term number.** Everything a customer spends with you over the years they stay, repeat jobs, memberships, referrals, divided by what it cost to acquire them. **This is the number that tells you whether to spend more, not less.**
+
+ROAS
+
+**The short-term number.** Return on ad spend: what a campaign collected right away, divided by what it cost. $10K in jobs on $2K of spend is a 5x ROAS. Run it on anything paid.
+
+Same denominator, different horizon: ROAS grades what the spend got you right now. LTV:CAC grades the whole relationship. A job that only breaks even on ROAS can still be a big win on LTV:CAC.
+
+**When those two are healthy and your radius is won, you don't add more SEO to the same profile. You add a location.**
+
+## The Multi-Location Playbook.
+
+The section this whole doc has been building toward. One profile, however strong, owns a circle, not a metro. **This is how seven-figure shops become eight-figure brands.**
+
+### Why one pin caps you.
+
+* **Proximity decays with distance.** You lose the far side of town no matter how good the SEO gets.
+* Google also filters same-category profiles that sit too close together. Two of your own listings landing in the same Map Pack can get both taken down.
+* So the ceiling isn't effort. **It's geography. The answer is more real pins.**
+
+1 pin = 1 circle
+
+**One pin owns a circle. Nobody owns a metro with one pin.** The red dots are the demand you never see.
+
+15 pins = the metro
+
+**What A1 Garage Door actually runs in Phoenix:** fifteen profiles across one metro, under the brand alone, before counting their roll-ups. That's the whole game on one screen.
+
+* Take A1 Garage Door in Phoenix. If they ran one profile, that circle is all they'd own.
+* We broke this exact strategy down brand by brand in the $100M home service video. Roto-Rooter, A1 Garage Door, the whole list.
+▶ Watch the deep dive I Studied Every $100M+ Home Service Brand. Here's Their Google Strategy. 
+
+STEP 1
+
+### Map the demand from your own job data.
+
+* **Pull closed jobs by zip from your CRM.** Find where the best tickets cluster.
+* High-ticket residential follows wealthy suburbs and older housing stock. Commercial follows the corridors.
+* Big private equity buyers pay six figures for exactly this analysis. Your CRM gives it to you free.
+
+STEP 2
+
+### Scout the competition from inside those zips.
+
+* **Run the Map Pack search from that neighborhood, not from your office.** Proximity means the results you see at your desk are not the results customers see there.
+* Count review velocity, not totals. A surname-only shop sitting on reviews from 2023 is a soft target.
+* **Never plant next to a fortress.** Breaking into a pack against a 2,500-review leader can take a year and a half.
+
+STEP 3
+
+### The radius check.
+
+* The new pin sits outside the circle you already own, and outside your other pins' circles.
+
+✓
+
+Strong demand
+
+proven by your own job data
+
+✓
+
+Weak competitor profiles
+
+low velocity, stale reviews
+
+✓
+
+Outside your circle
+
+and outside your other pins'
+
+ALL THREE, OR YOU DON'T OPEN.
+
+### The setup checklist.
+
+✓**A real staffed address, lease and all.** The suspension graveyard is full of virtual offices and techs' houses.
+
+✓**Ready for video verification:** signage up, wrapped vehicle on site, utility bill in hand.
+
+✓A unique local phone number and real posted hours, answered 24/7.
+
+✓**The full Pillar 1 build on the new profile:** exact categories, every service, territory photos.
+
+✓**A dedicated city page on the site** with matching name, address, and phone. This is the bridge rule from Pillar 3 paying off.
+
+✓The core directories live in week one.
+
+✓**One brand per trade in each metro.** This is the legitimate version of the game. The fake-listing guys get burned every year, and their reviews die with them.
+
+### The launch.
+
+* **Don't open quiet.** Run the first two weeks cheap or free for friends and family, so the profile has reviews before the doors open.
+* The honest timeline: **90 to 180 days to hold top three** in a competitive metro, tracked weekly on a geo-grid from day one.
+
+**Anyone promising the Map Pack in 30 days is lying to you.**
+
+The part no other agency will build
+
+This is exactly what Sustain Media does for home service companies doing over $2M a year. **We take seven-figure shops into eight figures on this playbook**, and it's the part no other agency will build for you.
+
+And we only take on one trade in every major metro, so if we rank you, your competitors can't hire us.
+
+If you want our help running this full system for you, and booking you more jobs from search results, book a consultation with us at the first link in the description below.
+
+BOOK MY FREE CONSULTATION 
+
+Sustain Media 
+
+Watch the walkthrough Book a consultation → 
+
+© 2026 Sustain Media. The Home Service SEO Guide, companion doc to the video walkthrough.

@@ -4,7 +4,7 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 398. Other companies are added when their teardown is committed.
+Saved pages in this index: 419. Other companies are added when their teardown is committed.
 
 ## agencyva (16 saved pages)
 
@@ -297,6 +297,32 @@ Saved pages in this index: 398. Other companies are added when their teardown is
 | https://schemaoperations.com/writing/you-dont-need-ai/ | 200 | https://schemaoperations.com/writing/you-dont-need-ai/ | `research/ai-specialists/schema-operations/pages/writing__you-dont-need-ai.txt` | You don't need AI. You need competent people running a clear system. — Schema Ops |
 | https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | 200 | https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | `research/ai-specialists/schema-operations/pages/writing__you-trained-the-new-hire-on-the-software.txt` | You trained the new hire on the software. You never trained them on the decisions. — Schema Ops |
 | https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | 200 | https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | `research/ai-specialists/schema-operations/pages/writing__your-best-customers-will-leave-if-you-get-hit-by-a-bus.txt` | Your best customers will leave if you get hit by a bus — Schema Ops |
+
+## sustain-media (21 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://web.archive.org/web/20260424051810id_/https://sustain-media.com/ | 200 | https://web.archive.org/web/20260424051810id_/https://sustain-media.com/ | `research/ai-specialists/sustain-media/pages/archive-2026-04-24-home.txt` | Rank #1 on Google / Local Business SEO / Sustain Media |
+| https://sustain-media.com/blog | 202 | https://sustain-media.com/blog | `research/ai-specialists/sustain-media/pages/blog.txt` | Robot Challenge Screen |
+| https://sustain-media.com/careers | 202 | https://sustain-media.com/careers | `research/ai-specialists/sustain-media/pages/careers.txt` | Robot Challenge Screen |
+| https://sustain-media.com/contact | 202 | https://sustain-media.com/contact | `research/ai-specialists/sustain-media/pages/contact.txt` | Robot Challenge Screen |
+| https://www.sustain-media.com/full-home-service-seo-playbook.html | 200 | https://www.sustain-media.com/full-home-service-seo-playbook.html | `research/ai-specialists/sustain-media/pages/full-home-service-seo-playbook.txt` | The Home Service SEO Guide |
+| https://go.sustain-media.com/twitter | 302 | https://go.sustain-media.com/twitter | `research/ai-specialists/sustain-media/pages/go-twitter-headers.txt` |  |
+| https://www.sustain-media.com/home-services-seo.html | 200 | https://www.sustain-media.com/home-services-seo.html | `research/ai-specialists/sustain-media/pages/home-services-seo.txt` | Home Service Business SEO / Sustain Media |
+| https://www.sustain-media.com/ | 202 | https://www.sustain-media.com/ | `research/ai-specialists/sustain-media/pages/index.txt` | Robot Challenge Screen |
+| https://sustain-media.com/privacy-policy | 200 | https://sustain-media.com/privacy-policy | `research/ai-specialists/sustain-media/pages/privacy-policy.txt` | Privacy Policy / Sustain Media |
+| https://sustain-media.com/privacy | 202 | https://sustain-media.com/privacy | `research/ai-specialists/sustain-media/pages/privacy.txt` | Robot Challenge Screen |
+| https://www.sustain-media.com/robots.txt | 200 | https://www.sustain-media.com/robots.txt | `research/ai-specialists/sustain-media/pages/robots.txt.txt` |  |
+| https://cal.com/sustainmedia/email-booking | 200 | https://cal.com/sustainmedia/email-booking | `research/ai-specialists/sustain-media/pages/sustainmedia__email-booking.txt` | Email Booking / Noah Igler / Cal.com |
+| https://cal.com/sustainmedia/free-consultation | 200 | https://cal.com/sustainmedia/free-consultation | `research/ai-specialists/sustain-media/pages/sustainmedia__free-consultation.txt` | Free Google Consultation / Noah Igler / Cal.com |
+| https://cal.com/sustainmedia/free-google-strategy-consultation | 200 | https://cal.com/sustainmedia/free-google-strategy-consultation | `research/ai-specialists/sustain-media/pages/sustainmedia__free-google-strategy-consultation.txt` | More Phone Calls From Google / Noah Igler / Cal.com |
+| https://cal.com/sustainmedia/lead-magnet-consultation | 200 | https://cal.com/sustainmedia/lead-magnet-consultation | `research/ai-specialists/sustain-media/pages/sustainmedia__lead-magnet-consultation.txt` | More Calls From Google w/ Noah / Noah Igler / Cal.com |
+| https://cal.com/sustainmedia?redirect=false | 200 | https://cal.com/sustainmedia?redirect=false | `research/ai-specialists/sustain-media/pages/sustainmedia__redirect-false.txt` | Noah Igler / Cal.com |
+| https://cal.com/sustainmedia/sdr-phone-disco | 200 | https://cal.com/sustainmedia/sdr-phone-disco | `research/ai-specialists/sustain-media/pages/sustainmedia__sdr-phone-disco.txt` | SDR Phone Disco / Noah Igler / Cal.com |
+| https://cal.com/sustainmedia/twitter-free-google-consultation | 200 | https://cal.com/sustainmedia/twitter-free-google-consultation | `research/ai-specialists/sustain-media/pages/sustainmedia__twitter-free-google-consultation.txt` | Twitter - Free Google Consultation / Noah Igler / Cal.com |
+| https://cal.com/sustainmedia/youtube-free-google-consultation | 200 | https://cal.com/sustainmedia/youtube-free-google-consultation | `research/ai-specialists/sustain-media/pages/sustainmedia__youtube-free-google-consultation.txt` | Youtube - Free Google Consultation / Noah Igler / Cal.com |
+| https://go.sustain-media.com/twitter | 200 | https://go.sustain-media.com/twitter | `research/ai-specialists/sustain-media/pages/twitter.txt` | 403 - Forbidden |
+| https://www.sustain-media.com/ | 200 | https://www.sustain-media.com/ | `research/ai-specialists/sustain-media/pages/www-home.txt` | Grow Your Revenue From Google / Sustain Media |
 
 ## tenex (80 saved pages)
 

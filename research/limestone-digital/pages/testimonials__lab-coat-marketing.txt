@@ -1,0 +1,153 @@
+URL: https://limestonedigital.com/testimonials/lab-coat-marketing
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/testimonials/lab-coat-marketing
+Content-Type: text/html; charset=UTF-8
+Title: Labcoat Marketing: Self-storage Industry | Limestone Digital
+Meta description: Lab Coat Marketing had the vision but no in-house engineers. Read how the founders built a self-storage reservation platform with Limestone Digital.
+Canonical: https://limestonedigital.com/testimonials/lab-coat-marketing
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Testimonial: Lab Coat Marketing
+
+Labcoat Marketing: Self-storage Industry | Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Back to case studies
+Testimonial: Lab Coat Marketing
+A closer look at how our collaboration helped this company achieve meaningful results.
+00:55
+Company
+Lab Coat Marketing
+Dates
+07/2023 – Present
+Services Provided
+Development
+Lab Coat Marketing needed to decide how to build a software product while working under tight timelines and real delivery pressure. They had experience working both with internal developers and external teams, and understood the trade-offs — hiring a single developer meant relying on one perspective, while they had a clear vision of what they wanted to build. They chose Limestone Digital based on prior experience and early alignment around that vision, including help in defining the right technology approach and team. Over time, the Limestone team became fully integrated into their workflow, operating not as an external vendor, but as part of their internal team.
+Joe Evans & Chris Carroll
+Founders, Lab Coat Marketing
+The Limestone team allows you to be as involved as you want to be — while still having the support in place to get things done
+— Joe Evans,
+Co-Founder & CMO, Lab Coat Marketing
+Engagement overview
+Lab Coat Marketing partnered with Limestone Digital to build a custom reservation and rental platform for the self-storage industry, working with third-party management software APIs and delivering a specific user experience without internal development capabilities. The engagement involved executing a software initiative outside the company’s core expertise, under tight timelines and with business impact tied directly to the outcome. Instead of relying on a single internal hire, the team worked with Limestone Digital to access a broader engineering capability and ensure continuity beyond individual contributors.
+Short Clips
+Highlights
+The Challenge
+The team needed to build a reservation and booking system, but did not have the internal technical capability — leading to a decision between hiring developers or working with an external partner.
+Co-Founder
+00:55
+The Launch
+The product launch was tied to real revenue, requiring continuous involvement — with both teams working in parallel to ensure everything functioned correctly.
+Co-Founder
+01:26
+Who This Is For
+A strong fit for companies with a clear vision and growth ambitions, but without the ability to build software internally.
+Co-Founder
+00:55
+Unexpected Contribution
+The team contributed beyond execution — bringing ideas, recommendations, and input on how to improve results, data, and overall system performance.
+Co-Founder
+01:01
+Part of the Team
+Over time, the Limestone team became an essential part of the client’s team — contributing to ideas and helping fill gaps in knowledge and execution.
+Co-Founder
+00:14
+A True Partner
+The relationship is described as a partnership — where trust and responsibility go beyond a typical vendor setup.
+Co-Founder
+00:55
+Client
+About the client — Lab Coat Marketing
+Lab Coat Marketing
+is a digital marketing agency working with law firms and self-storage operators. The company focuses on building and managing marketing systems that support client acquisition and performance across different channels. Their services include SEO, paid advertising, website design and development, creative, and intake optimization, with an emphasis on measurable growth and lead quality. Lab Coat Marketing positions itself as a specialized partner that builds custom strategies around each client’s goals, market, and stage of growth.
+They become an essential part of your team. They’re contributing to your ideas, thinking through how to achieve your goals, and helping fill in gaps you didn’t even know existed.
+— Joe Evans,
+Co-Founder & CMO, Lab Coat Marketing
+Contact
+Ready to strengthen your engineering capabilities?
+Leave blank
+Full Name
+Email
+Text
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+
+----- FORMS -----
+Form 1: id= name=tm-contact method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_form_id' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave blank' name='ld_hp' type=text optional placeholder=''
+  field: label='Full Name' name='name' type=text required placeholder='Full name'
+  field: label='Email' name='email' type=email required placeholder='Email address'
+  field: label='Text' name='text' type=textarea required placeholder='Text...'
+  button: LET’S TALK
+
+Form 2: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Lab Coat Marketing","item":"https://limestonedigital.com/testimonials/lab-coat-marketing"}]}
+
+{"@context":"https://schema.org","@type":"Review","reviewBody":"The Limestone team allows you to be as involved as you want to be — while still having the support in place to get things done — Joe Evans, Co-Founder & CMO, Lab Coat Marketing","datePublished":"2026-06-18T09:12:37+00:00","author":{"@type":"Person","name":"Joe Evans & Chris Carroll"},"itemReviewed":{"@type":"Organization","@id":"https://limestonedigital.com/#organization","name":"Limestone Digital"},"publisher":{"@type":"Organization","name":"Lab Coat Marketing"}}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Testimonial: Lab Coat Marketing","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/3a7370a0c6c47fb8f3ffa36d135c20aefa24aa5e.png","uploadDate":"2026-06-18T09:12:37+00:00","contentUrl":"https://youtu.be/dztrhgE7K4E","embedUrl":"https://www.youtube.com/embed/dztrhgE7K4E","description":"A closer look at how our collaboration helped this company achieve meaningful results.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"The Challenge","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/a3156b330bc864c0395b0b4eea796b2d49b09aef.png","uploadDate":"2026-06-18T09:12:37+00:00","contentUrl":"https://youtu.be/Y-aDr9lIQIo","embedUrl":"https://www.youtube.com/embed/Y-aDr9lIQIo","description":"The team needed to build a reservation and booking system, but did not have the internal technical capability — leading to a decision between hiring developers or working with an external partner.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"The Launch","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/1b8f5e959f0fbdfc6caee3a576fc3afc84d49582.png","uploadDate":"2026-06-18T09:12:37+00:00","contentUrl":"https://youtu.be/mT41K1yLyeA","embedUrl":"https://www.youtube.com/embed/mT41K1yLyeA","description":"The product launch was tied to real revenue, requiring continuous involvement — with both teams working in parallel to ensure everything functioned correctly.","duration":"PT1M26S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Who This Is For","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/a58c2336e046682c10932f99a60f316c59d51797.png","uploadDate":"2026-06-18T09:12:37+00:00","contentUrl":"https://youtu.be/iE6OuzayfWA","embedUrl":"https://www.youtube.com/embed/iE6OuzayfWA","description":"A strong fit for companies with a clear vision and growth ambitions, but without the ability to build software internally.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Unexpected Contribution","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/6579f45e30c80dc383d086383329e04f7f91065a.png","uploadDate":"2026-06-18T09:12:37+00:00","contentUrl":"https://youtu.be/2AA26UoLoMA","embedUrl":"https://www.youtube.com/embed/2AA26UoLoMA","description":"The team contributed beyond execution — bringing ideas, recommendations, and input on how to improve results, data, and overall system performance.","duration":"PT1M1S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Part of the Team","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/74eb9b7cb63d6088827b3324af247ce46d7aa873.png","uploadDate":"2026-06-18T09:12:37+00:00","contentUrl":"https://youtu.be/CPjAy6CpT0M","embedUrl":"https://www.youtube.com/embed/CPjAy6CpT0M","description":"Over time, the Limestone team became an essential part of the client’s team — contributing to ideas and helping fill gaps in knowledge and execution.","duration":"PT0M14S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"A True Partner","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/193183c730b5eac6883d4439a8ec0b68b99517f1.png","uploadDate":"2026-06-18T09:12:37+00:00","contentUrl":"https://youtu.be/DR4YrLsT3W4","embedUrl":"https://www.youtube.com/embed/DR4YrLsT3W4","description":"The relationship is described as a partnership — where trust and responsibility go beyond a typical vendor setup.","duration":"PT0M55S"}

@@ -1,0 +1,153 @@
+URL: https://limestonedigital.com/testimonials/prodege
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/testimonials/prodege
+Content-Type: text/html; charset=UTF-8
+Title: Prodege: Fully Managed B2B Delivery | Limestone Digital
+Meta description: Prodege handed its B2B platforms to Limestone Digital. Their CTO on full delivery ownership, faster team scaling, and near-zero internal involvement.
+Canonical: https://limestonedigital.com/testimonials/prodege
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Testimonial: Prodege
+
+Prodege: Fully Managed B2B Delivery | Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Back to case studies
+Testimonial: Prodege
+A closer look at how our collaboration helped this company achieve meaningful results.
+00:55
+Company
+Prodege
+Dates
+11/2023 – Present
+Services Provided
+Development
+Prodege needed a way to support its B2B platforms without pulling focus from core consumer products. What started as a cautious outsourcing decision quickly evolved into a low-touch, fully managed collaboration. With Limestone Digital taking ownership of delivery and maintenance, internal involvement dropped significantly while systems remained consistently up to date. Over time, the partnership proved reliable not just in execution, but in reducing operational overhead and simplifying day-to-day management.
+Shane O’Neill
+CTO, Prodege
+As time went on, it was almost zero involvement from me because they were managing everything — just a check-in once in a while to make sure everything was going fine.
+— Shane O’Neill
+, Prodege
+Engagement overview
+Prodege partnered with Limestone Digital to support the development and maintenance of its B2B web platforms, allowing internal teams to stay focused on core consumer products. Limestone took full ownership of delivery and ongoing updates, operating with minimal oversight and a proactive approach to system maintenance.
+In parallel, they supported team scaling through a structured recruitment process, providing pre-vetted engineers who became productive quickly. The collaboration also included solving complex technical and operational challenges, enabling consistent delivery without disrupting business operations.
+Highlights
+Efficient hiring process
+Structured candidate evaluation, including technical assessments and recorded interviews, reduced screening time and improved hiring accuracy.
+SVP Technology
+00:55
+Faster team scaling
+Pre-vetted developers were delivered faster than internal recruitment, enabling rapid team expansion without delays.
+Chief Technology Officer
+01:26
+Immediate productivity
+New engineers integrated quickly and began contributing at the level of internal team members within a short time.
+Chief Technology Officer
+00:55
+Full delivery ownership
+Systems were maintained and updated proactively, without requiring constant oversight or follow-ups from internal teams.
+Chief Technology Officer
+01:01
+Stability during disruption
+Secure cloud-based environments were implemented rapidly, ensuring uninterrupted development during critical external events.
+Chief Technology Officer
+00:14
+Complex QA automation
+Robust test automation was introduced for a highly complex product, improving reliability across workflows and systems.
+SVP Technology
+00:55
+Client
+About the client — Prodege
+Prodege is a global consumer marketing and insights platform built on a network of proprietary loyalty programs and engaged user communities. It enables brands and agencies to gather real-time consumer feedback, access targeted audiences, and drive customer acquisition through data-driven engagement.
+By combining performance marketing with large-scale consumer insights, Prodege helps organizations better understand behavior, optimize campaigns, and scale growth.
+With other vendors, we had to remind them to keep things updated. With Limestone, they were always on top of it — everything stayed up to date without us having to ask.
+— Peretz Hildeshaim
+, Prodege
+Contact
+Ready to strengthen your engineering capabilities?
+Leave blank
+Full Name
+Email
+Text
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+
+----- FORMS -----
+Form 1: id= name=tm-contact method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_form_id' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave blank' name='ld_hp' type=text optional placeholder=''
+  field: label='Full Name' name='name' type=text required placeholder='Full name'
+  field: label='Email' name='email' type=email required placeholder='Email address'
+  field: label='Text' name='text' type=textarea required placeholder='Text...'
+  button: LET’S TALK
+
+Form 2: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Prodege","item":"https://limestonedigital.com/testimonials/prodege"}]}
+
+{"@context":"https://schema.org","@type":"Review","reviewBody":"As time went on, it was almost zero involvement from me because they were managing everything — just a check-in once in a while to make sure everything was going fine. — Shane O’Neill , Prodege","datePublished":"2026-06-18T09:24:53+00:00","author":{"@type":"Person","name":"Shane O’Neill"},"itemReviewed":{"@type":"Organization","@id":"https://limestonedigital.com/#organization","name":"Limestone Digital"},"publisher":{"@type":"Organization","name":"Prodege"}}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Testimonial: Prodege","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/85e7b1a137494c13ba57c9a62d760e0003c94c43.png","uploadDate":"2026-06-18T09:24:53+00:00","contentUrl":"https://youtu.be/sh-25NnWCXA","embedUrl":"https://www.youtube.com/embed/sh-25NnWCXA","description":"A closer look at how our collaboration helped this company achieve meaningful results.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Efficient hiring process","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/43481eca7eb4b71dceb5cb4190bab07cf8f3b924.png","uploadDate":"2026-06-18T09:24:53+00:00","contentUrl":"https://youtu.be/Ri0rmB6KAJc","embedUrl":"https://www.youtube.com/embed/Ri0rmB6KAJc","description":"Structured candidate evaluation, including technical assessments and recorded interviews, reduced screening time and improved hiring accuracy.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Faster team scaling","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/e214b564c332e460abfac10a52600dc30ce3746d.png","uploadDate":"2026-06-18T09:24:53+00:00","contentUrl":"https://youtu.be/0Rwx_AptoUc","embedUrl":"https://www.youtube.com/embed/0Rwx_AptoUc","description":"Pre-vetted developers were delivered faster than internal recruitment, enabling rapid team expansion without delays.","duration":"PT1M26S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Immediate productivity","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/57c80a99b2264a5ac9ea050e995c721c53fa2eec.png","uploadDate":"2026-06-18T09:24:53+00:00","contentUrl":"https://youtu.be/rq-M2FTqDPE","embedUrl":"https://www.youtube.com/embed/rq-M2FTqDPE","description":"New engineers integrated quickly and began contributing at the level of internal team members within a short time.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Full delivery ownership","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/67650493b910e4889e9dadf79f8653eee7f8ebfa.png","uploadDate":"2026-06-18T09:24:53+00:00","contentUrl":"https://youtu.be/GcVianFeGhA","embedUrl":"https://www.youtube.com/embed/GcVianFeGhA","description":"Systems were maintained and updated proactively, without requiring constant oversight or follow-ups from internal teams.","duration":"PT1M1S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Stability during disruption","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/f41e7ed97c137d7f2871bdaf3514fe25018dcc97.png","uploadDate":"2026-06-18T09:24:53+00:00","contentUrl":"https://youtu.be/IHKWnbxcRlM","embedUrl":"https://www.youtube.com/embed/IHKWnbxcRlM","description":"Secure cloud-based environments were implemented rapidly, ensuring uninterrupted development during critical external events.","duration":"PT0M14S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Complex QA automation","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/d845989f04aa4313cbe719f57f8ce69feb7ab99a.png","uploadDate":"2026-06-18T09:24:53+00:00","contentUrl":"https://youtu.be/f7c8HiA4hcI","embedUrl":"https://www.youtube.com/embed/f7c8HiA4hcI","description":"Robust test automation was introduced for a highly complex product, improving reliability across workflows and systems.","duration":"PT0M55S"}

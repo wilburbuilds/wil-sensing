@@ -1,0 +1,52 @@
+URL: https://limestonedigital.com/llms.txt
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/llms.txt
+Content-Type: text/plain
+
+# Limestone Digital
+
+> AI-powered software engineering company headquartered in Prague, Czech Republic (Limestone Digital s.r.o.). We embed AI Velocity Pods inside engineering teams to ship 20-40% faster in 60 days, guaranteed. We also build production AI systems that serve customers directly. Founded 2017. Verified Clutch reviews, 4.9/5 rating.
+
+## Company Overview
+
+Limestone Digital is a Velocity Partner, not a body shop or consultancy. We combine senior engineering talent with AI-augmented workflows and structured delivery governance to measurably improve software delivery speed. Every engagement is verified by DORA metrics: lead time, deploy frequency, change-fail rate, and mean time to recovery.
+
+Founded by Mark Ajzenstadt (CEO). Registered as Limestone Digital s.r.o., Pernerova 697/35, Prague, 18600, Czech Republic. Engineering teams across multiple time zones serving clients in the US, UK, Germany, Austria, Israel, South Africa, Canada, and Australia.
+
+## Core Services
+
+- AI Velocity Pod: Two-person strike unit (Senior Engineer + AI Delivery Architect) with AI-assisted workflows. Embeds inside your team. Guaranteed minimum 15% velocity uplift or you don't pay.
+- AI Productivity Accelerator: Embeds the Velocity Framework inside your existing engineering org to lift productivity 20-40% in 60 days, verified by DORA-style metrics.
+- Production AI Engineering: End-to-end AI systems for production: LLM integration, RAG pipelines, multi-agent orchestration, safety monitoring, multi-tenant data isolation.
+- Legacy Vendor Rescue: Replace underperforming vendors without a rewrite. Reproducible build in 5 days, release plan in 10, first increment shipped in 30.
+- Custom Software Development: Full-stack web and mobile apps using React, Node.js, .NET, Python, TypeScript on AWS, Azure, GCP.
+- IT Staff Augmentation: Senior developers who integrate with your team in week one.
+
+## Key Pages
+
+- [Homepage](https://limestonedigital.com/): Company overview, services, proof metrics, client testimonials
+- [Customer Success](https://limestonedigital.com/customer-success): Case studies and client results
+- [Private Equity](https://limestonedigital.com/private-equity): PE-specific value creation through engineering velocity
+- [Team](https://limestonedigital.com/team): Leadership, history, company culture
+- [Insights](https://limestonedigital.com/insights): Articles on engineering velocity, AI, and software delivery
+- [Contact](https://limestonedigital.com/contact): Contact form and booking link
+
+## Proven Results
+
+- 42% faster delivery for a logistics platform
+- 85% incident reduction for a martech platform in 3 months
+- 35% faster cycles and 40% higher sprint predictability for industrial software
+- Guaranteed minimum 15% velocity uplift, typical 20-40% in 60 days
+
+## Technical Expertise
+
+AI/ML: LLM integration, RAG pipeline architecture, multi-agent orchestration, MLOps, AI safety and monitoring, production AI deployment.
+Languages and frameworks: React, Node.js, Python, .NET, TypeScript, Angular, Vue.js, Ruby on Rails.
+Cloud and DevOps: AWS, Azure, GCP, CI/CD automation, infrastructure-as-code, DORA metrics dashboards, Kubernetes.
+
+## Contact
+
+- Email: contact@limestonedigital.com
+- LinkedIn: https://www.linkedin.com/company/limestone-digital
+- Clutch: https://clutch.co/profile/limestone-digital

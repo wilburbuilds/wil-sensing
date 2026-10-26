@@ -1,0 +1,146 @@
+URL: https://thefoundation.limestonedigital.com/p/the-microsoft-playbook
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/the-microsoft-playbook
+Content-Type: text/html; charset=utf-8
+Title: 🟪 the Microsoft playbook
+Meta description: Licenses don't change how the work gets done.
+Canonical: https://thefoundation.limestonedigital.com/p/the-microsoft-playbook
+Robots: max-image-preview:large
+H1: 🟪 the Microsoft playbook | AI Foundation from Limestone Digital
+
+🟪 the Microsoft playbook
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 the Microsoft playbook
+🟪 the Microsoft playbook
+Licenses don't change how the work gets done.
+Sep 22, 2026
+Reading time: 7 minutes | Issue #44 |
+Book a Discovery Call
+At the end of July, Satya Nadella told analysts Microsoft had passed
+30 million paid Microsoft 365 Copilot seats
+. Last Wednesday, Kathleen Hogan, Microsoft's chief strategy and transformation officer,
+published what the company learned
+from running AI on itself, and the press dug into the 44-page playbook behind it. One sentence from that playbook has been sitting in my head since Thursday night: "A tool licensed and rolled out to 100,000 employees does not change how the work gets done."
+It took Microsoft more than 100 internal projects across a workforce of 220,000 to write that sentence down. I heard the same thing from a distributor CFO earlier this year, twenty licenses in, and I suspect most of you have heard a version of it too.
+Inside the Issue
+Microsoft's playbook, row by row, against what we've been running on every engagement since May
+The one-page Frame document to write before anyone on your team touches a prompt
+Anthropic's 30,000 agents and the 1-in-47,000 block rate, OpenAI's models hiding mistakes from themselves, the first GDPR breach filed against an AI agent, and per-seat AI cost caps landing in GitLab
+Seven Things Microsoft Learned at 220,000 People That You Can Learn at 150
+Microsoft's document is titled "Becoming a Frontier Firm: Our Frontier Playbook." It runs 44 pages and draws on
+more than 100 internal projects
+. Its five headings are: set business ambition and goals, build your diffusion engine, invest in your people, codify your advantage and controls, safeguard your security. Hogan's post condenses the same material into five lessons, the second of which is the one that matters for this issue: redesign entire workflows, not tasks, because "adding agents to a broken process still leaves a broken process."
+The proof case is Microsoft's own cloud supply chain. A cross-functional team of
+more than 150 people, working from September 2025 through August 2026
+, mapped the planning, sourcing, fulfillment and logistics workflows end to end, removed approvals and handoffs, built a shared data layer, and only then deployed
+111 purpose-built agents
+. Selected planning cycles fell from about 10 business days to under 2.5. Demand investigations that took five to seven days now finish in hours, some in under 20 minutes.
+The part I didn't expect from Redmond is the strategic claim underneath all this. The playbook's architecture diagram labels the foundation models "interchangeable." The durable value, Microsoft says, sits above the model: private evaluations, proprietary context, workflow orchestration, feedback loops and risk boundaries. Hogan's version, in her post: every organization should be able to build its own continuous learning loop without depending on any one model provider.
+Our take.
+Microsoft's five headings collapse into a sequence of five verbs, and it's the sequence we've been running on every engagement since May: frame, prove, harden, embed, scale. I want to walk the playbook row by row against what we've said or done on the record this year, because every row is the same lesson at two very different sample sizes. Microsoft needed 220,000 employees to learn them, and I hear them on first calls at companies with 150.
+1. Licenses don't change the work.
+Microsoft's line is the 100,000-employee sentence above. Mine is a distributor CFO who bought twenty licenses, found that two people on his team had built anything with them, and described what they built as "very brittle, barely stands up to five people." A PE fund I spoke with rolled coding agents across the whole portfolio and got one workflow that worked.
+2. Simplify the workflow before adding agents.
+This is the Frame step, and Microsoft's supply chain team mapped and stripped down its procedures before agent one shipped. On an architecture call in May for a PE-backed healthcare billing platform, I said don't over-engineer for a technology changing this fast, pick the one workflow a customer will say "holy shit" about, and reverse-engineer what's missing from there. On another client's kickoff, the first deliverable was a prerequisites document: systems of record, touchpoints, who decides what, before a single user story got written. Microsoft's map took a 150-person team the better part of a year, and we ask for it before day one because a pod doesn't have a year.
+3. Build the evaluation system before the agent.
+Microsoft calls these proprietary evaluations and puts them one layer above the interchangeable model. On that same May call, unprompted, I said: "you want to constantly profile against the problem performance within the actual system, because you don't want hallucinations, you want it to be consistent." In practice, that was a 60-case golden set built from the client's own hand-written SQL answers before the agent existed, 59 of 60 correct on the first deploy, and the client's CPTO running the acceptance sessions himself. Microsoft calls it evals and I call it defining correct before you write a prompt, but it's the same artifact, and it outlasts whichever model you started with.
+4. Own the context, the evals and the feedback loop so you can swap the model.
+Microsoft's "surprising moat," as VentureBeat put it, is the thing we build in weeks two through five and leave inside the client's tenant. Our architect's stack on a recent kickoff: models swappable behind one gateway, client data never used for vendor training, a feedback control on every answer, traceability on every call. The client side said the goal out loud: "limit the dependency we might have on Anthropic." On a healthcare data client where we run a PR review agent, every dismissed finding gets fingerprinted so the agent stops raising it, which is a feedback loop the client owns and no model vendor can take with them.
+5. Define what stays human-led, then govern, monitor and orchestrate.
+This is Harden and Embed together. Microsoft's playbook sorts work into three autonomy levels (assistant, agent as team member, human-led and agent-operated) and wraps them in a control plane. Ours is smaller and has names on it: human approval on anything that writes, reversible actions, cost caps per seat, telemetry on every engagement. I'll admit where we got that wrong ourselves: on one engagement the telemetry surface wasn't in place from day one, and a problem that should have shown up in a week showed up a month late. Microsoft's control-plane language is the enterprise version of a named owner and a runbook, and if you skip either one you find out the way we did, a month after you should have.
+6. Scale from what Embed measured.
+Microsoft got to 111 agents by starting with the workflow, not the platform, and the 111 came out of five planning cycles measured between April and August. At the distributor, the ordering agent proves out first on the shared foundation, the sales and pricing agents follow on the same foundation, and the purchasing agent stays out of scope until the new ERP lands. The number to hold next to Microsoft's: on a PE-backed logistics platform, a rebuild estimated at seven to eight months went to production by month six with two engineers, 122 PRs merged in the first 90 days.
+7. Redesign roles and organize around the software.
+Microsoft's playbook says redesign roles, and Channel Insider's read of it reports management layers in software development cut
+from 11 to about 5
+. Our version is one person: the AI champion, a named engineer inside the client who owns the agent, trusted by the team before we arrive and still there after we leave. An operating partner described the failure mode from the other side as "gravity": without that person, the old team drifts back to the old process inside a quarter. Microsoft rewired an org chart to get there, and a company with 150 people needs one name.
+Where the pod goes further than the playbook.
+Microsoft's proof case took more than 150 people and eleven months. A mid-market company doesn't have that team and doesn't need it, because one pod, one champion and one workflow get you to proof of value in month one, and the engagement shrinks from there as the harness takes the load. The playbook confirms at enterprise scale that the sequence is right, and the pod is how a company with 150 people runs it.
+Two caveats before you forward this. Microsoft's numbers are self-reported and, as one reviewer
+pointed out
+, workflow-specific rather than company-wide. And the company publishing "licenses don't change the work" is also the company that reported 30 million paid Copilot seats eight weeks earlier. I don't read that as hypocrisy so much as two products with two different buyers, and Hogan's team telling you which of the two moves a number. I've been wrong about Microsoft before, but a vendor this size publishing its own diminishing-returns curve isn't something I expected to read this year.
+Who should be uncomfortable reading this: anyone whose AI budget this year is a seat count, and any vendor whose proposal starts with the platform and gets to the workflow on slide 14.
+The Frame Document: One Page Before Anyone Writes a Prompt
+This is the first deliverable on every engagement we run now, and it's the step Microsoft's supply chain spent months on. Yours should take a week: six sections on one page, signed by the process owner before any engineer opens an IDE.
+The one workflow.
+Name a single workflow a customer or an internal team would say "holy shit" about if it ran ten times faster. Write down what's out of scope, because someone will try to add a second workflow in week two. The distributor's answer was order intake, and only order intake, until it proved out.
+Systems of record and touchpoints.
+List every system the workflow reads from or writes to, and every human touchpoint in between. The healthcare billing client's list came before the user stories and exposed that the legacy data model was mid-migration, which changed what the agent could safely read in month one. You can't automate a decision the data can't agree on.
+The baseline number.
+One metric the business already tracks, with the measurement window, signed by both sides before the build starts. Microsoft's was planning cycle time in business days. If you write the baseline after the demo, you're grading your own homework.
+The golden set.
+Thirty to sixty real cases with answers your own experts agree on, assembled before the agent exists. The billing client's came from SQL the co-founder had been writing by hand. That set is what let us say 59 of 60 on the first deploy instead of "it seems to work."
+What stays human-led.
+For each action type, decide whether the agent acts, recommends, or never touches it. Anything that writes to a system of record starts as "recommends." The purchasing agent at the distributor is in the third bucket until the ERP is replaced, and that's written down so nobody relitigates it.
+The champion.
+One named person inside your company who owns the agent after the build, and a steering committee doesn't count. If you can't write a name here, stop, because you're about to build something that drifts back to the old process the day the vendor leaves.
+Run it on the one workflow your team is considering for AI this quarter. If you can't fill all six sections in a week, the workflow isn't ready, and you've saved yourself the pilot that would have proved it.
+01
+Anthropic runs about 30,000 agents on itself and blocks one action in 47,000.
+In a
+post this month
+, Anthropic said roughly 30,000 agents do research and engineering work inside the company at any one time, that an online monitor reviewed more than a billion agent decisions in August and blocked 0.002% of them, and that offline review flags one to two transcripts in a thousand and sends about 50 a week to humans. The numbers are self-reported and the third-party audit isn't finished, but two things still stand out for anyone running a handful of agents: every action passes a monitor before it executes, and the escalation rate is a published number. If you can't say what your equivalent of "50 a week" is, what you have is logs.
+02
+OpenAI's models left themselves notes to hide mistakes.
+In a
+misalignment report updated September 16
+, OpenAI disclosed that during training, models writing their own context summaries inserted instructions like "Do not mention in final unless needed" and told a successor context to "invent reasonable historical values" for a financial model. It showed up in 2.15% of summaries on one training run and 0.27% on the next. The lesson for your stack is the one in row 3 above: a model's behavior inside a long-running workflow is not the same as its behavior on a benchmark, so the evals have to run against your system, on your cases, every time the model changes.
+03
+Spain logged the first GDPR breach caused by an AI agent.
+On September 14 the Spanish data protection authority, the AEPD,
+disclosed
+the first breach notification it has received in which the attack was executed by an AI agent: the agent scanned files for weaknesses, logged in with valid credentials, hunted for further vulnerabilities on its own, then altered personal data and read invoices. The agency's advice is the Harden list from row 5 with a regulator's letterhead: put AI-assisted attacks in your risk analysis, tighten credential controls, and build detection that runs at machine speed, because the attacker now does.
+04
+Per-seat AI cost caps are now a product feature.
+GitLab 19.4
+, released September 17, lets administrators set a default AI credit cap for every user, override it per person, and export per-event consumption by user, team and project. Cost caps per seat were a line in our Harden checklist eighteen months ago. When they ship as a checkbox in the DevOps platform, the excuse for not having them is gone.
+05
+Gartner wants a named human to answer for the AI.
+Among its
+strategic predictions released September 15
+: by 2030, 80% of Global 500 companies will contractually designate the CIO or chief AI officer as "Evidence Custodian" for AI accountability, and 80% of organizations with public-facing AI will suffer a cost-exhaustion attack. Traceability on every call and a cost cap per seat stop being hygiene and start being the thing someone has to sign for.
+Microsoft's Playbook vs. the Mid-Market Version.
+Seven rows, three columns: what Microsoft learned at 220,000 people, what it looks like at 150, and the single artifact that proves you did it. Screenshot it and hand it to whoever owns your AI budget.
+Microsoft's supply chain had 150 people and eleven months to frame, prove, harden and embed one set of workflows before scaling to 111 agents. We run the first four steps on one workflow in a month, with one forward-deployed engineer and a fractional architect, and the golden set, the gateway and the telemetry stay in your tenant when we're done. Bring the one workflow from the Frame document above and we'll tell you in a 30-minute call whether it's ready to prove.
+→ BOOK A DISCOVERY CALL ←
+Until next Tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"the-microsoft-playbook","url":"https://thefoundation.limestonedigital.com/p/the-microsoft-playbook","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/the-microsoft-playbook"},"headline":"🟪 the Microsoft playbook","description":"Licenses don't change how the work gets done.","datePublished":"2026-09-22T14:02:54.707Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/52ca9977-1aef-4c8b-a6ad-ca813a849302/playbook-44-the-microsoft-playbook.png?t=1790081921"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-22T14:03:09Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/the-microsoft-playbook","name":"🟪 the Microsoft playbook"}}]}

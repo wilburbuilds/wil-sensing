@@ -1,0 +1,118 @@
+URL: https://limestonedigital.com/blog/the-real-reason-digital-transformation-fails
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/join-the-30-club
+Content-Type: text/html; charset=utf-8
+Title: Join the 30% club
+Meta description: Episode 2
+Canonical: https://thefoundation.limestonedigital.com/p/join-the-30-club
+Robots: max-image-preview:large
+H1: Join the 30% club | AI Foundation from Limestone Digital
+
+Join the 30% club
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+Join the 30% club
+Join the 30% club
+Episode 2
+Jul 30, 2025
+Hi there,
+Did you know that up to 70% of digital transformation projects fail?
+It’s true.
+Want to be a part of the 30% that succeed?
+Keep reading.
+Inside the Issue
+The Practical Toolkit:
+David Antoline, shares a three-pillar philosophy that can help organizations succeed with digital transformation.
+Industry Radar:
+Warning — don’t mess up cloud adoption.
+Field Notes:
+F
+AI reality check - why everyone's calling us this week
+Digital Chat:
+Which legacy system are you itching to update/replace?
+The Practical Toolkit
+When you invest heavily in a lofty project like digital transformation, you expect to see success.
+Yet, the majority of digital transformation projects fail.
+“60-70% of all digital transformation projects have failed over the last 10 years,” observes David Antoline.
+The reality he’s uncovered is that digital transformation projects don’t fail due to technology choice.
+They fail because organizations
+select and implement these new tools before preparing an adequate data foundation
+and understanding their business reality.
+The platform-first fallacy
+The platform-first approach to transformation is rooted in the urgency surrounding modernization and AI readiness.
+Under pressure to keep up with their more agile competitors, organizations select tools that promise enhancement — from cloud computing platforms to AI development platforms to business applications — without evaluating their data foundation first.
+Additionally, organizations often assume that overhauling their entire tech ecosystem in one go is the fastest way to move forward and gain a competitive advantage.
+By taking this extensive, platform-first approach, organizations with compromised foundations only discover their data issues after multi-year implementation projects have started.
+The discovery forces them to pause to get their data in order or abandon the project entirely, sometimes months or years in.
+The three pillars of strategic digital transformation
+Drawing from his decades of experience helping companies modernize their tech ecosystems, David shares that organizations must break with the “platform-first” mindset to succeed.
+He’s learned that successful transformation endeavors rest on three key pillars.
+Pillar 1:
+Fix Your Data Foundation
+Pillar 2:
+Amplify Your Edge
+Pillar 3:
+Sprint to Value
+Want to learn more about David’s three-pillar philosophy? Check out our recent
+playbook
+.
+Industry Radar
+How can your organization grow in turbulent times? Transformation is key, and it requires getting your whole team on board. (
+McKinsey Quarterly
+)
+With AI and ML demand surging, you can’t afford to mess up cloud adoption. (
+IT Pro
+)
+Only 12% of organizations report their data is of sufficient quality and accessibility for AI. A new study from Precisely and Drexel University reveals the sobering reality of AI readiness. (
+Precisely
+)
+Strategy drives digital maturity - only 15% of companies at early stages of digital maturity say they have a clear and coherent digital strategy, while more than 80% of digitally mature organizations do.(
+MIT Sloan Management Review
+)
+Thank you for joining us for
+another
+edition of The Foundation.
+You’ll hear from us again in two weeks, with more insights from the industry experts.
+Looking to level up your tech this year? Let's talk about how to amplify your edge.
+Book a Call
+Creating a solid data foundation is a key component of David’s three-pillar philosophy. Want to learn more about how to get everything in order?
+Check out our detailed, step-by-step guide
+.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"join-the-30-club","url":"https://thefoundation.limestonedigital.com/p/join-the-30-club","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/join-the-30-club"},"headline":"Join the 30% club","description":"Episode 2","datePublished":"2025-07-30T18:04:10.193Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/1924257e-d8fc-4774-9e4a-84aaf13febac/playbook-02-join-the-30-club.png?t=1788798055"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:20:10Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/join-the-30-club","name":"Join the 30% club"}}]}

@@ -1,0 +1,73 @@
+URL: https://careers.limestonedigital.com/v/227172-automation-qa-engineer
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/227172-automation-qa-engineer
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Automation QA Engineer
+Meta description: Requirements:&nbsp; 5+ years in software testing, with 3+ years focused on test automation Strong C# / .NET for building and maintaining automation frameworks Hands-on experience with xUnit or NUni...
+Canonical: 
+Robots: 
+H1: Automation QA Engineer
+
+Limestone digital s.r.o. - Automation QA Engineer
+Job openings
+Automation QA Engineer
+Full-time
+·
+Central Europe
+Requirements:
+5+ years in software testing, with 3+ years focused on test automation
+Strong C# / .NET for building and maintaining automation frameworks
+Hands-on experience with xUnit or NUnit
+UI automation with Selenium WebDriver and BDD with SpecFlow
+API testing with RestSharp and Postman
+Experience integrating automation into CI/CD and enforcing quality gates with SonarQube
+Docker and containerised / virtualised test environments
+WireMock or similar tools for service mocking
+Solid understanding of QA methodologies, testing principles, SDLC/STLC, and risk-based testing
+Experience with issue-tracking and test management tools (ClickUp preferred)
+Proven ownership of test strategy and framework architecture, not only script writing
+Experience mentoring QA engineers and reviewing automation work
+Clear communication with engineering, DevOps, and product stakeholders
+Strong ownership, reliability, and independent delivery (proactive updates, follow-through without chasing, honest estimates, proper failure investigation)
+Nice-to-Have:
+CI/CD experience (Azure DevOps, GitHub Actions, or similar)
+Performance testing tools
+Security testing tools
+Test reporting / dashboards
+Experience testing Angular frontends
+Mentoring or leading other QA engineers (strong plus for senior)
+Responsibilities:
+Own automation strategy and delivery for a modular .NET platform with Angular portals
+Design, build, and maintain automated tests in C# / .NET across UI, API, and integration layers
+Develop and evolve frameworks with xUnit or NUnit, Selenium WebDriver, and SpecFlow
+Create and maintain API test suites with RestSharp and Postman
+Integrate tests into CI/CD, keep suites stable, and support SonarQube quality gates
+Set up and manage containerised test environments with Docker
+Use WireMock (or similar) to mock external dependencies
+Define coverage expectations and release readiness criteria with the team
+Investigate failures properly and distinguish test issues from real product bugs
+Mentor QA colleagues and raise the quality of automation work
+Track work and report issues in ClickUp
+Work closely with developers, DevOps, QA lead, and product in an Agile setup
+About project
+The project is a next-generation property management and operations platform used by multiple stakeholders across a large organisation. It includes interconnected Angular portals (tenant, manager, and integrator) on a modular .NET architecture in Azure, with API-driven communication and real-time sync between services.
+The goal is to modernise legacy systems into a scalable, maintainable platform with strong automation, CI/CD, and consistent quality across environments. The team works in Agile across backend, frontend, QA, DevOps, and product.
+This Senior QA Automation Engineer owns test automation across UI, API, and integration layers, keeps delivery quality high, and works closely with the wider team so releases are stable and predictable.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

@@ -1,0 +1,64 @@
+URL: https://careers.limestonedigital.com/v/244442-senior-full-stack-engineer-typescript-nodejs
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/244442-senior-full-stack-engineer-typescript-nodejs
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Senior Full-Stack Engineer (TypeScript / Node.js)
+Meta description: Requirements:&nbsp; Must-Have:&nbsp; 5+ years of commercial software development on production systems, 5+ years of TypeScript and Node.js, 5+ years of React; Strong TypeScript and Node.js: REST AP...
+Canonical: 
+Robots: 
+H1: Senior Full-Stack Engineer (TypeScript / Node.js)
+
+Limestone digital s.r.o. - Senior Full-Stack Engineer (TypeScript / Node.js)
+Job openings
+Senior Full-Stack Engineer (TypeScript / Node.js)
+Full-time
+·
+South America
+Requirements:
+Must-Have:
+5+ years of commercial software development on production systems, 5+ years of TypeScript and Node.js, 5+ years of React;
+Strong TypeScript and Node.js: REST API design, OpenAPI, background jobs, queues, and schedulers;
+PostgreSQL: schema design, migrations, query performance;
+React for web applications;
+Hands-on experience with at least one major cloud (AWS, Azure, or GCP): containers, managed databases, object storage, IAM, secrets management;
+Third-party API integrations: OAuth 2.0, webhooks with signature verification, retries, and idempotent processing;
+Authentication and authorization: managed identity providers, MFA, role-based access control;
+AI-assisted engineering: daily, hands-on use of AI coding assistants (e.g., Claude Code, Cursor) for code, tests, and infrastructure, with strong habits for reviewing and verifying what they produce;
+Able to own features end to end with minimal supervision.
+Nice-to-Have:
+React Native, especially Expo (development builds, EAS, push notifications, deep links), plus App Store and Google Play releases (a very strong plus);
+Apple HealthKit, Android Health Connect, or wearable data SDKs (e.g., Terra);
+HealthTech experience: HIPAA, PHI, FHIR, LOINC, health records APIs (e.g. Flexpa);
+AWS in particular: ECS/Fargate, RDS, Cognito, SES, KMS, CloudFront, WAF;
+Infrastructure as code (Terraform, AWS CDK or similar);
+Multi-tenant SaaS, including PostgreSQL row-level security;
+Greenfield or startup projects with direct client communication.
+Responsibilities:
+Deliver MVP features end-to-end across the backend API, the clinician portal, the admin console, and the patient mobile app;
+Build and maintain the wearable and health records integrations: connection flows, webhook ingestion, token lifecycle, scheduled pulls, and normalizing lab data (LOINC codes, units, reference ranges, de-duplication);
+Implement the multi-tenant data model with clinic-level isolation, patient sign-in (passkeys, one-time codes) and staff sign-in with roles and MFA;
+Build the deterministic rules engine and the clinician workflow: review queues, nudge approval, patient invitations, and the audit ledger behind every approval;
+Set up and evolve the cloud environments, infrastructure as code, CI/CD, monitoring and HIPAA safeguards, with the Tech Lead;
+Write and maintain automated tests, including a regression suite of approved patient cases for the rules engine, and work with QA on test coverage;
+Support the security review, penetration test fixes, app store submissions, production go-live and pilot clinic onboarding;
+Take part in planning, estimation, demos and client acceptance testing, and raise risks early.
+About the project:
+A greenfield build for a US digital health startup. The product is a patient engagement platform for longevity and wellness clinics. It keeps patients engaged between visits so they don’t drop off when a treatment course ends. The platform pulls wearable data and health records (labs, medications, conditions) into one record per patient. A deterministic rules engine, configured per clinic, then flags patients who need attention and drafts a nudge for each one. A clinician approves every nudge before the patient sees it, and every action is recorded in an audit ledger.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

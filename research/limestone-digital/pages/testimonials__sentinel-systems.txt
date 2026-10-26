@@ -1,0 +1,154 @@
+URL: https://limestonedigital.com/testimonials/sentinel-systems
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/testimonials/sentinel-systems
+Content-Type: text/html; charset=UTF-8
+Title: Sentinel Systems: Legacy to Cloud | Limestone Digital
+Meta description: Sentinel Systems moved from a legacy Windows platform to the cloud with Limestone Digital. Their CTO on lower support load and faster feature releases.
+Canonical: https://limestonedigital.com/testimonials/sentinel-systems
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Testimonial: Sentinel Systems
+
+Sentinel Systems: Legacy to Cloud | Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Back to case studies
+Testimonial: Sentinel Systems
+A closer look at how our collaboration helped this company achieve meaningful results.
+Company
+Sentinel Systems
+Dates
+03/2022 – Present
+Services Provided
+UI/UX
+Development
+Sentinel Systems needed to transition from a legacy Windows-based platform to a fully cloud-based solution to keep up with evolving technology. Having worked with Limestone Digital before, they already had a positive experience, which made it the first team they turned to when defining the next step. The decision was driven by alignment in how both sides approach partnerships — focusing not only on delivery, but on understanding business goals and working toward them together. Prior collaboration, clear communication, and relevant experience in cloud development made Limestone a confident and natural choice.
+Dee Jay Skinner
+Chief Technology Officer
+I want to focus on the project, not on managing developers. Limestone handles everything around the team, which makes my job much easier.
+— Dee Jay Skinner,
+Chief Technology Officer
+Engagement overview
+The engagement focused on modernizing Sentinel’s existing product and supporting its transition from a legacy desktop system toward a cloud-based architecture. Limestone Digital worked closely with a small internal team, taking ownership of development, team coordination, and delivery processes, allowing the client to stay focused on product direction rather than day-to-day execution.
+The collaboration evolved over time, with the team scaling from a small setup to a larger structure. Limestone ensured continuity throughout by managing team changes and maintaining stable delivery, while helping improve operational efficiency and enabling faster release cycles.
+Short Clips
+Highlights
+Focus on the Project
+Limestone handles developer sourcing, coordination, and delivery, removing the need to manage the team internally. This allows the client to stay focused on the product instead of dealing with hiring and day-to-day execution.
+Chief Technology Officer
+00:55
+Reduced Support, Faster Releases
+Moving to the cloud significantly reduced support workload by eliminating issues tied to individual installations. At the same time, deployments became much faster, enabling quicker feature releases and more consistent value delivery.
+Chief Technology Officer
+01:26
+Ahead of the Curve with AI
+Limestone was already working with AI and testing it in real workflows before it became widely adopted. This gave confidence that the team stays ahead of new technologies and knows how to apply them in practice.
+Chief Technology Officer
+00:55
+Built on Trust and Consistency
+After four years of collaboration, the partnership is defined by open communication and a shared focus on business success. This level of consistency removed the need to consider alternative vendors.
+Chief Technology Officer
+01:01
+Who This Is For
+A strong fit for companies moving from legacy desktop systems to the cloud. Limestone’s experience helps ensure a smooth transition without disrupting ongoing operations.
+Chief Technology Officer
+00:14
+Clear and Honest Partner
+Limestone is seen as a trustworthy partner that is transparent about what they can and cannot do, and communicates clearly when solving problems.
+Chief Technology Officer
+00:55
+Client
+About the client — Sentinel Systems
+Sentinel Systems
+is a provider of access control and management software for the self-storage industry, with over 35 years of experience. The company develops gate access systems alongside software that enables facility operators to manage tenant access, reservations, payments, and unit inventory. Their solutions are designed to support the day-to-day operations and security of self-storage facilities. Sentinel’s products are used by storage operators to control facility access and manage customer activity across their properties. The company focuses on providing reliable systems that support ongoing operations and help ensure consistent performance in real-world environments.
+Our support hours have gone down drastically, and we can deliver new features to customers much faster.
+— Dee Jay Skinner,
+— Dee Jay Skinner, Chief Technology Officer
+Contact
+Ready to strengthen your engineering capabilities?
+Leave blank
+Full Name
+Email
+Text
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+
+----- FORMS -----
+Form 1: id= name=tm-contact method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_form_id' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave blank' name='ld_hp' type=text optional placeholder=''
+  field: label='Full Name' name='name' type=text required placeholder='Full name'
+  field: label='Email' name='email' type=email required placeholder='Email address'
+  field: label='Text' name='text' type=textarea required placeholder='Text...'
+  button: LET’S TALK
+
+Form 2: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Sentinel Systems","item":"https://limestonedigital.com/testimonials/sentinel-systems"}]}
+
+{"@context":"https://schema.org","@type":"Review","reviewBody":"I want to focus on the project, not on managing developers. Limestone handles everything around the team, which makes my job much easier. — Dee Jay Skinner, Chief Technology Officer","datePublished":"2026-06-18T09:38:00+00:00","author":{"@type":"Person","name":"Dee Jay Skinner"},"itemReviewed":{"@type":"Organization","@id":"https://limestonedigital.com/#organization","name":"Limestone Digital"},"publisher":{"@type":"Organization","name":"Sentinel Systems"}}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Testimonial: Sentinel Systems","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/a268d31073c6ffaa0cff066955f78988d568eae2.png","uploadDate":"2026-06-18T09:38:00+00:00","contentUrl":"https://youtu.be/w71WgwP4zcA","embedUrl":"https://www.youtube.com/embed/w71WgwP4zcA","description":"A closer look at how our collaboration helped this company achieve meaningful results."}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Focus on the Project","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/6fe28b1cf0b1febf36c094e600681a1351ca0dba.png","uploadDate":"2026-06-18T09:38:00+00:00","contentUrl":"https://youtu.be/hKoCle_kwcY","embedUrl":"https://www.youtube.com/embed/hKoCle_kwcY","description":"Limestone handles developer sourcing, coordination, and delivery, removing the need to manage the team internally. This allows the client to stay focused on the product instead of dealing with hiring and day-to-day execution.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Reduced Support, Faster Releases","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/e37242534ec1a0861d0788d5c673a18c31ef712e.png","uploadDate":"2026-06-18T09:38:00+00:00","contentUrl":"https://youtu.be/C97UQbPVYFc","embedUrl":"https://www.youtube.com/embed/C97UQbPVYFc","description":"Moving to the cloud significantly reduced support workload by eliminating issues tied to individual installations. At the same time, deployments became much faster, enabling quicker feature releases and more consistent value delivery.","duration":"PT1M26S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Ahead of the Curve with AI","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/60c78fe0d4eb5093578efa5a3575e07c7918555a.png","uploadDate":"2026-06-18T09:38:00+00:00","contentUrl":"https://youtu.be/qnbT4szNZ2I","embedUrl":"https://www.youtube.com/embed/qnbT4szNZ2I","description":"Limestone was already working with AI and testing it in real workflows before it became widely adopted. This gave confidence that the team stays ahead of new technologies and knows how to apply them in practice.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Built on Trust and Consistency","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/9474c065b786b7e2ce83412e255b26fc9e92593f.png","uploadDate":"2026-06-18T09:38:00+00:00","contentUrl":"https://youtu.be/C6qhSMu-X_Q","embedUrl":"https://www.youtube.com/embed/C6qhSMu-X_Q","description":"After four years of collaboration, the partnership is defined by open communication and a shared focus on business success. This level of consistency removed the need to consider alternative vendors.","duration":"PT1M1S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Who This Is For","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/4a77072976be01881867a09662dc801fb226d5e4.png","uploadDate":"2026-06-18T09:38:00+00:00","contentUrl":"https://youtu.be/SWL7kph4nJ8","embedUrl":"https://www.youtube.com/embed/SWL7kph4nJ8","description":"A strong fit for companies moving from legacy desktop systems to the cloud. Limestone’s experience helps ensure a smooth transition without disrupting ongoing operations.","duration":"PT0M14S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Clear and Honest Partner","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/a268d31073c6ffaa0cff066955f78988d568eae2-1.png","uploadDate":"2026-06-18T09:38:00+00:00","contentUrl":"https://youtu.be/nAnZ9NoFW5Y","embedUrl":"https://www.youtube.com/embed/nAnZ9NoFW5Y","description":"Limestone is seen as a trustworthy partner that is transparent about what they can and cannot do, and communicates clearly when solving problems.","duration":"PT0M55S"}

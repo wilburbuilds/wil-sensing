@@ -1,0 +1,140 @@
+URL: https://limestonedigital.com/blog/ai-governance-is-not-sexy
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/ai-governance-is-not-sexy
+Content-Type: text/html; charset=utf-8
+Title: AI transformation is a governance problem.
+Meta description: AI governance is not sexy. But it's a must-have for Production AI.
+Canonical: https://thefoundation.limestonedigital.com/p/ai-governance-is-not-sexy
+Robots: max-image-preview:large
+H1: 🟪 AI governance is not sexy | AI Foundation from Limestone Digital
+
+AI transformation is a governance problem.
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 AI governance is not sexy
+🟪 AI governance is not sexy
+but it's a must-have for production AI.
+Jun 30, 2026
+Reading time: 7 minutes | Issue #32 |
+Book a Call
+AI transformation is a governance problem.. which is too boring for the hype-makers to talk about. Nonetheless, it’s a must-have foundation.
+A PE operating partner called me about a portfolio company last quarter. Healthcare, about 50 people. The CTO had given the board a full AI update the month before: Copilot rolled out to all engineers, new hire leading AI strategy, blog post about their AI-first culture.
+The operating partner was thrilled. Then two quarterly metrics came back flat.
+He asked me to go in and look. Read the deep dive below.
+Inside the Issue
+Why 75% of executives admit their AI strategy is “for show” and what the engineering org looks like underneath
+A four-layer governance audit you can run on your stack this week
+The Great American AI Act, Uber’s budget collapse, and the code quality data nobody wants to see
+The Board Deck Looked Like Transformation
+Copilot licenses were active on every machine. Usage was near zero. The engineers tried it for a week, hit friction with their legacy codebase, and stopped. Nobody followed up.
+The AI strategy hire had been there three months and produced a 40-page document no one read. The “AI-first culture” was a Slack channel with nine members, two of whom had posted. Both posts were the strategy hire talking to himself.
+The worst part: they’d shipped a customer-facing chatbot into their compliance workflow with no evaluation framework and no hallucination detection. Healthcare compliance. Answering regulatory questions with zero verification.
+The board deck looked like transformation. The engineering org looked identical to six months ago.
+Our read:
+This isn’t one company. I’ve assessed more than a dozen engineering orgs in the last year and the pattern repeats. Company buys the tools, CTO presents the deck, press release goes out. Underneath, the engineering org does the same thing it did 18 months ago with more expensive software licenses nobody opens.
+Writer’s 2026 enterprise survey put numbers on it: 75% of executives admit their AI strategy is “more for show” than actual internal guidance. 54% say AI adoption is tearing their company apart. Only 29% see significant ROI despite 59% spending over $1M annually. The governance gap underneath those numbers is worse: 36% have no formal plan for supervising AI agents. 35% admit they couldn’t shut down a rogue agent if one emerged.
+Meanwhile, the “1 engineer = 10” narrative keeps circulating. Like proper propaganda, there’s
+a bit of truth and a bunch of lies.
+The truth:
+AI tools produce individual productivity gains.
+The lie:
+those gains translate to organizational performance without governance infrastructure underneath them.
+New telemetry across 22,000 developers from Faros AI tells a more complicated story.
+Engineers produce 30% more code while median PR review time is up 441%. Bugs per developer are up 54%. Incidents per PR have more than tripled. And 31% more PRs are merging with zero human review.
+Speed without governance is exposure with better marketing.
+What governed AI actually looks like
+Governance isn’t a policy document or a compliance checklist. It’s four layers that build on each other in order. Most companies are missing three of them.
+Layer 1: Interception.
+Every LLM call goes through one gateway. Network policy blocks direct egress so agents have no choice. Without a choke point, you’re blind. At a ~300-engineer asset manager with 580 Copilot users, one engineer caught a single user making 24,000 LLM requests in 24 hours from CLI. The only way he found it was by writing his own GitHub-pull script, because no interception layer existed. That’s 24,000 unmonitored model calls in a single day from a single person at a company that believed its AI deployment was governed. It wasn’t.
+Layer 2: Control.
+Who can do what, and what gets validated before it ships. Per-model cost policy, role-based access, deterministic verifier gates where the AI plans and acts while scripts validate each step before code advances. Without this layer, “90% AI-generated code” is a liability metric. With it, you know what the AI did, why, and whether it was right.
+Layer 3: Tracing.
+OpenTelemetry on every action, full audit trail across both LLM calls and infrastructure. When something goes wrong, you can reconstruct exactly what happened. When the board asks “did we have governance over this,” you answer with data.
+Layer 4: Impact measurement.
+Does adoption connect to business impact? Not “licenses activated.” Actual usage mapped to velocity, quality, and delivery performance. The healthcare company’s Copilot deployment would have surfaced the near-zero usage in week two if a measurement layer existed. Instead, the board saw “100% deployed” for a quarter before anyone checked whether anyone was using it.
+And this matters now because regulators noticed before most companies did. In the last six weeks: Colorado replaced its broad AI Act with the narrower SB 26-189 (signed May 14, pivoting away from the EU model). Congress dropped the Great American AI Act, a 269-page bipartisan discussion draft proposing the first federal AI governance framework with $100M/year for a Center for AI Standards and Innovation. EU AI Act high-risk enforcement provisions go live in August. Three jurisdictions, three different models, all converging on the same demand: prove you governed it. With evidence. Not a deck.
+At one of our clients, 2 engineers shipped 122 merged PRs in 3 months at $200/dev/month in AI costs. Because all four layers existed underneath. Intercept, control, trace, measure. In that order.
+Here’s who should be uncomfortable.
+If your board saw an AI update in the last quarter that included “Copilot deployed across X% of engineers” as a success metric, ask what happened next. Was usage sustained? Did code quality improve or degrade? Can anyone on your team show you every LLM call that left your network last week? If the answer to any of those is “we don’t know,” you’ve built the deck without the infrastructure. And three regulatory frameworks are about to ask for the receipts.
+The Four-Layer Governance Audit
+After assessing a dozen engineering orgs, the pattern became clear enough to codify. Four layers. Each builds on the one below it. Skip one and the layers above collapse.
+Run this on your stack today:
+Layer 1 (Interception): Can you see every LLM call leaving your network?
+Check: does a network policy block direct egress to model APIs? Can you pull a report of all LLM usage by user for last week? If you’re relying on vendor-provided dashboards alone, you’re seeing what they want you to see. The 24,000-request user was invisible to every vendor dashboard. A custom script caught it.
+Layer 2 (Control): Does the AI have scoped credentials?
+Check: do your AI agents use the same database credentials as your dev team? If yes, you’ve given an LLM the same write access as your senior engineer. Separate credentials, minimum permissions, transaction limits. The fintech client in Issue 31 overwrote 340 records because nobody scoped separate agent permissions.
+Layer 3 (Tracing): Can you reconstruct what the agent did last Tuesday?
+Check: if a compliance officer asked you to show every action an AI agent took on a specific date, could you produce that report? Full audit trail means telemetry on every action, not just logging the prompt and response.
+Layer 4 (Measurement): Can you connect AI adoption to a delivery metric?
+Check: can you show that AI usage improved or degraded deployment frequency, change failure rate, or cycle time? “Licenses activated” is a procurement metric, not a performance metric. DORA’s 2026 ROI report found that AI adoption actually shows a negative $344K downtime impact when change failure rates rise from 5% to 6%. If you’re not measuring quality alongside speed, you’re only seeing half the picture.
+Score each layer green, yellow, or red. More than one red means you’re not ready for production AI. Any red in Layers 1 or 2 means you’re dangerously not ready.
+01  Uber burned its entire 2026 AI budget by April.
+5,000 engineers, $500-$2,000/month each in token costs. The company gamified adoption through internal leaderboards ranking teams by AI usage. Uber’s COO publicly questioned whether the spending connected to consumer value: “That link is not there yet.” Uber capped each employee at $1,500/month per tool. Walmart, Amazon, and Cisco followed with similar controls. Governance isn’t optional when your AI bill has no ceiling.
+Source: Forbes —
+forbes.com
+| Fortune —
+fortune.com
+02  Congress dropped a 269-page federal AI governance framework.
+The Great American AI Act (June 4) proposes codifying the Center for AI Standards and Innovation with $100M/year, requires frontier labs with $500M+ revenue to submit to independent audits every six months, and includes a three-year preemption of state laws related to AI development. It’s a discussion draft, not law. But the compliance infrastructure it describes doesn’t exist at most mid-market companies, and the direction is clear.
+Source: FedScoop —
+fedscoop.com
+| DLA Piper —
+dlapiper.com
+03  Colorado pivoted away from the EU AI model.
+Governor Polis signed SB 26-189 on May 14, replacing the broader Colorado AI Act with a narrower framework focused on automated decision-making in consequential decisions. The original law’s effective date was June 30. Colorado went from bellwether for EU-style state regulation to the strongest signal that the EU template won’t dominate US state frameworks. The patchwork is growing, not shrinking.
+Source: Carpe Datum Law —
+carpedatumlaw.com
+| DLA Piper —
+dlapiper.com
+04  DORA’s 2026 ROI report: AI amplifies your engineering culture, good or bad.
+The report models AI adoption as a J-curve: throughput dips before it climbs because of the “verification tax” on reviewing AI-generated code. Their conclusion: “The greatest returns come not from the tools but from a strategic focus on the underlying organizational system.” A quality internal platform is the single biggest differentiator between orgs that convert AI speed into delivery performance and ones that just go faster into worse outcomes.
+Source: InfoQ —
+infoq.com
+| Google Cloud DORA —
+cloud.google.com
+If the governance audit surfaced more reds than greens, I should mention: we built a measurement system that we deploy into every engagement for free.
+The client keeps it whether they work with us or not.
+It maps velocity, quality, and AI adoption to business impact before we touch anything. If the number doesn’t move, that’s visible too. We’ve picked up three engagements in the last year from companies that spent $500K-$2M on transformation programs that didn’t land. The decks were beautiful. The code wasn’t.
+Six diagnostic slots open next month.
+Book a Call
+Until next Tuesday,
+— Mark Ajzenstadt
+Founder, Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"ai-governance-is-not-sexy","url":"https://thefoundation.limestonedigital.com/p/ai-governance-is-not-sexy","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/ai-governance-is-not-sexy"},"headline":"🟪 AI governance is not sexy","description":"but it's a must-have for production AI.","datePublished":"2026-06-30T18:11:41.703Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b4ac6fd8-4961-461d-97f6-0b3845fc4351/playbook-32-ai-governance-is-not-sexy.png?t=1788797032"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:01:21Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/ai-governance-is-not-sexy","name":"🟪 AI governance is not sexy"}}]}

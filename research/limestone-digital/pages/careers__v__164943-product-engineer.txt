@@ -1,0 +1,85 @@
+URL: https://careers.limestonedigital.com/v/164943-product-engineer
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/164943-product-engineer
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Product Engineer
+Meta description: About Limestone Digital:&nbsp; Limestone Digital is a software development company headquartered in Prague, Czech Republic. Since 2016, we have built dedicated engineering teams for clients in the ...
+Canonical: 
+Robots: 
+H1: Product Engineer
+
+Limestone digital s.r.o. - Product Engineer
+Job openings
+Product Engineer
+Full-time
+·
+Brazil, South America
+About Limestone Digital:
+Limestone Digital is a software development company headquartered in Prague, Czech Republic. Since 2016, we have built dedicated engineering teams for clients in the United States and Europe, in logistics, fintech, healthcare, and other industries. Our engineers work inside the client's product team, in the client's time zone, on software that real businesses depend on.
+About the project:
+Our partner specialises in logistics delivery management, managing the final mile delivery of products. The solution can be easily integrated with multiple ERPs, Ordering, and Internal Systems. With its internal algorithms, the system can operate, analyse, and deliver the best possible data-driven information to the user.
+The role:
+We are hiring Product Engineers: senior full-stack engineers who own outcomes, not tickets.
+You join a client's product team as someone trusted to take a problem from a conversation with a product manager to a feature running in production. You talk to the people who need the software, propose what to build, design it, build it, test it, ship it, and keep it running. You use AI tools heavily, and you are accountable for every line they produce.
+This is not a role for someone who wants a groomed backlog and a tech lead to make the calls. Our clients bring us in because they need engineers who make good decisions with incomplete information and communicate them clearly.
+Why "Product Engineer":
+We deliberately do not call this role "Node.js/React.js developer" or something similar. When AI writes a large share of the code, fluency in one framework is no longer the scarce skill. The scarce skills are knowing what to build and why, how it should behave at the edges, and how to explain that to the people who depend on it. We hire for those. Technologies are listed below, so you know what you will touch. None of them is a gate.
+What you will do:
+Own features and, over time, whole product areas: discovery with product managers and stakeholders, design, implementation, release, and operation;
+Facilitate technical conversations with client product managers, technical leaders and engineers. Run the meeting when nobody else does. Write decisions down so they stick;
+Design APIs, data models and services that other teams depend on, and evolve them without breaking the people who integrated yesterday;
+Work across the stack: backend services, frontend applications, data stores, messaging, cloud infrastructure and the glue between them;
+Use AI coding tools as a first-class part of your workflow, with the judgement to know when their output is wrong, insecure, or badly designed;
+Raise problems early, propose options with trade-offs, and push back when something should not be built;
+Leave the codebase, the documentation, and the team better than you found them.
+What we look for:
+Fundamentals and judgement over specific technologies:
+Ownership and agency. You have taken products or product areas from idea to production and stayed accountable after release. You notice things that are nobody's job and make them yours;
+Communication in English. Advanced (B2/C1 or equivalent). You can run a meeting with a US product manager, disagree respectfully with a client tech lead, and write a design document people actually read;
+Engineering fundamentals. Data modelling, API design, concurrency and consistency, testing, debugging, performance, security basics. You can explain why, not only how;
+System design at the scale of a real product. Failure modes, consistency versus availability, idempotency, event-driven integration, and what changes when one instance becomes many;
+Full-stack capability. Comfortable on backend and frontend and in the infrastructure underneath. Depth in one is expected; refusing to touch the others is not;
+Deliberate AI use. You use AI tools daily and can describe your setup, what you delegate, what you never delegate, and how you verify the output;
+Product sense. You ask who the user is and what problem this solves before you ask which library to use.
+We do not require experience with any particular framework or language. We do expect you to become productive in the ones below within weeks, because you have done that before.
+This Role Is Not For You If:
+You have less than 4 years of professional software engineering experience;
+You haven't worked hands-on with large-scale, production-grade products;
+You're looking for a slow-paced corporate environment;
+You want a narrowly defined role with limited customer or product involvement;
+You need detailed specifications before you can make progress;
+You avoid ownership and accountability;
+You consider a feature finished without checking whether it solves the user’s problem.
+Technologies you will interact with:
+Our current engagements run on TypeScript with Node.js and React, and C# with .NET, over relational and document databases, message brokers, and Azure. Which of these you touch first depends on the team you join. Experience with them helps. The ability to pick them up quickly matters more.
+How we hire:
+1. A conversation with our recruitment team;
+2. A take-home assignment: a small service in the logistics domain plus a short technical design document. AI tools are allowed and expected;
+3. One 90-minute technical interview in English: your take-home, engineering fundamentals, system design, and how you work with AI;
+4. An optional 30-minute follow-up, only if we need to close a specific gap;
+5. Offer.
+What we offer:
+Real ownership: you work directly with client product teams, not through layers of coordination;
+Long-term engagements with established companies in the United States and Europe, in a time zone that overlaps with theirs;
+An international team, minimal bureaucracy, and short paths to decisions;
+An engineering culture that expects and supports serious use of AI tools;
+Flexible working arrangements, remote by default;
+Room to grow into technical leadership as engagements expand.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

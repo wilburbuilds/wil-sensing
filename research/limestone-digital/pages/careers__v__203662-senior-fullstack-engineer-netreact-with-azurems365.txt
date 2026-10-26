@@ -1,0 +1,66 @@
+URL: https://careers.limestonedigital.com/v/203662-senior-fullstack-engineer-netreact-with-azurems365
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/203662-senior-fullstack-engineer-netreact-with-azurems365
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Senior Fullstack Engineer (.NET/React) with Azure/MS365
+Meta description: Senior Fullstack Engineer (.NET/React) with Azure/MS365 Requirements 5+ years of C# / .NET development, including modern .NET: production backend services, dependency injection, unit and integratio...
+Canonical: 
+Robots: 
+H1: Senior Fullstack Engineer (.NET/React) with Azure/MS365
+
+Limestone digital s.r.o. - Senior Fullstack Engineer (.NET/React) with Azure/MS365
+Job openings
+Senior Fullstack Engineer (.NET/React) with Azure/MS365
+Full-time
+·
+Central Europe
+Senior Fullstack Engineer (.NET/React) with Azure/MS365
+Requirements
+5+ years of C# / .NET development, including modern .NET: production backend services, dependency injection, unit and integration tests
+Azure Functions (isolated worker): HTTP and Timer triggers, managed identity, Key Vault, Application Insights; Bicep or Terraform; CI/CD (Azure DevOps or GitHub Actions)
+SQL Server / Azure SQL with Entity Framework Core: schema design from requirements, migrations, concurrency, history and audit tables
+Microsoft Entra ID: app registrations, an API protected with scopes and app roles, server-side token validation, delegated vs application permissions
+Microsoft Graph from .NET: SharePoint / OneDrive files, mail, permissions, throttling and retry
+Third-party REST and SOAP integrations behind testable interfaces
+React + TypeScript at a working production level (forms, validation, non-trivial screens)
+Agile remote teamwork; English B2+
+Nice-to-have
+Daily hands-on use of AI-assisted development tools (Claude Code, Cursor, GitHub Copilot or similar): agentic coding workflows, MCP servers and custom tool integrations, project-level instructions and context (CLAUDE.md, rules files), and reviewing and testing AI-generated code before it ships
+SPFx web parts (learnable for a strong React developer)
+SharePoint Online: sites, lists, libraries, permissions; PnP PowerShell
+Document generation in .NET: Word templates (Open XML SDK), PDF conversion and merge
+Regulated-industry systems (aviation, HR): audit trails, electronic records, retention
+Multi-entity solutions; admin-configurable reference data and rules
+Durable Functions / Logic Apps
+Responsibilities
+Build an Entra-protected .NET API on Azure Functions over Azure SQL
+Turn the agreed data model into the database and import the reference data
+Implement the validation rules that run before a document is issued
+Build the document pipeline: fill Word templates, convert to PDF, merge, file in SharePoint via Graph, email to partners
+Integrate third-party systems over SOAP and REST
+Secure the application: app roles, token validation, managed identity, least-privilege Graph permissions
+Build the screens as SPFx / React web parts in the SharePoint intranet
+Infrastructure as code and CI/CD for Functions, SPFx and database migrations
+Contribute to the existing SharePoint intranet alongside the current developer
+Technical documentation and handover
+About the Project
+The scope of the project is the delivery of a work order management application for the Client’s aircraft maintenance (CAMO) department, built as an extension of the company-wide SharePoint intranet. The application replaces a manual, document-based process. It holds aircraft, maintenance facility, contract and warranty data in a central database, generates work order documents from that data, and tracks every work order through its lifecycle. The platform runs entirely on the Microsoft 365 and Azure ecosystem the Client already operates. That means Azure SQL for structured data, SharePoint Online for documents and hosting, SPFx web parts for the user interface, and Azure Functions with the Microsoft Graph API for backend logic, integrations and document generation.
+The engineer hired into this role will own the backend and data side of the solution end-to-end.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

@@ -1,0 +1,69 @@
+URL: https://careers.limestonedigital.com/v/245122-engagement-lead-and-principal-ai-architect
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/245122-engagement-lead-and-principal-ai-architect
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Engagement Lead and Principal AI Architect
+Meta description: Requirements:&nbsp; - 12+ years in software engineering and architecture, including at least 2 years designing LLM or agentic systems that reached production - Has designed an enterprise AI platfor...
+Canonical: 
+Robots: 
+H1: Engagement Lead and Principal AI Architect
+
+Limestone digital s.r.o. - Engagement Lead and Principal AI Architect
+Job openings
+Engagement Lead and Principal AI Architect
+Part-time
+·
+Central Europe
+Requirements:
+- 12+ years in software engineering and architecture, including at least 2 years designing LLM or agentic systems that reached production
+- Has designed an enterprise AI platform or shared AI services: model gateway, retrieval with access control, evaluation, tracing, cost control
+- Hands-on: reads and reviews code, writes decision records, runs a spike to get evidence
+- Deep Azure knowledge (Azure OpenAI or Microsoft Foundry, networking, identity) and working knowledge of AWS (Bedrock, VPC, IAM)
+- Has worked with a client's architecture board or design authority: brings options and evidence, challenges assumptions without redrawing the client's architecture
+- Security and data handling in regulated settings: data residency, confidential or privileged data, separation between businesses or clients, audit trails
+- Turns a use case into requirements, acceptance criteria and an evaluation plan with thresholds the client signs
+- Has led a delivery team of 4 or more engineers on a fixed-scope, milestone-based engagement, with risks, dependencies and change control
+- Comfortable with client executives: steering meetings, written status, direct talks about scope and dates
+- Coaches client engineers so they can run the system after handover
+- English C1 or higher, daily direct work with a US client
+- Based in the EU (Poland or Czechia preferred) or in Brazil
+Nice-to-Have:
+- Financial services, risk advisory, valuation, legal or compliance clients
+- Professional services or consulting background, or work for a private equity backed company
+- Build-and-transfer engagements where the client team took over the system
+- AI operating model work: intake, prioritisation, golden path, review by risk tier
+- Unit economics for AI: cost per task, model routing, caching, budgets
+- Architect certifications such as AZ-305 or AWS Solutions Architect Professional
+- EU AI Act, NIST AI RMF or ISO/IEC 42001
+- Public talks, posts or open-source work on LLM evaluation or AI platforms
+Responsibilities:
+- Lead the pod day to day and own the plan, risks and dependencies, kept in the client's tools
+- Run Track 1: validate the client's reference architecture and data readiness for use case 1, prepare product selection evidence against the client's criteria, and get the final reference architecture and implementation plan agreed by day 45
+- In weeks 1 and 2, test the client's key assumptions (one gateway across two clouds, data residency against model deployment types, walls between businesses, review by pattern, managed against self-hosted components) and bring the evidence to the design authority
+- Keep the decision records and the assumption log, and push for decisions within 3 business days
+- Agree the acceptance plan with the product owner by day 10: metrics, thresholds, golden set design, who runs the evaluation
+- Get gates 2 to 5 (days 14, 28, 33 and 45) met and evidenced, and prepare each milestone sign-off
+- Run the weekly 30-minute steering with the client sponsor and the daily sync with the product owner
+- Make sure client engineers lead components from week 3, run them from week 5, and pass the independence check on day 45
+- Deliver the final readout: architecture, roadmap and cost range for the next use cases
+About project
+The client is a US global risk and financial advisory firm (the name is confidential, see Additional information). It runs an AI Factory programme and has asked us for a 45-day proof of value. We build the first AI use case and the shared AI services (model gateway, agent and prompt registry, evaluation harness, provenance logging, data quality profiling) on the client's own Azure and AWS architecture, together with the client's engineers, and hand everything over by day 45. Part of our fee depends on the client's own evaluation results.
+This role leads the pod and the work with the client's design authority. It owns Track 1: validating the client's reference architecture and data readiness for use case 1, product decisions, and the final reference architecture, roadmap and implementation plan. It tests the client's assumptions with evidence, keeps the decision records, and is the day-to-day lead for the client's product owner and sponsor.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

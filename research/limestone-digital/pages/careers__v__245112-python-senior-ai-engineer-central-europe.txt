@@ -1,0 +1,70 @@
+URL: https://careers.limestonedigital.com/v/245112-python-senior-ai-engineer-central-europe
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/245112-python-senior-ai-engineer-central-europe
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Python Senior AI Engineer (Central Europe)
+Meta description: Requirements:&nbsp; - 5+ years of software engineering, mainly in Python, with code review and CI as daily practice - 2+ years building LLM applications that reached production: agents with tool ca...
+Canonical: 
+Robots: 
+H1: Python Senior AI Engineer (Central Europe)
+
+Limestone digital s.r.o. - Python Senior AI Engineer (Central Europe)
+Job openings
+Python Senior AI Engineer (Central Europe)
+Full-time
+·
+Central Europe
+Requirements:
+- 5+ years of software engineering, mainly in Python, with code review and CI as daily practice
+- 2+ years building LLM applications that reached production: agents with tool calling, structured outputs, RAG
+- Hands-on Azure OpenAI (Microsoft Foundry) or Amazon Bedrock, and ready to work across both clouds
+- Retrieval done properly: chunking, embeddings, hybrid search, reranking, access control enforced in the index
+- Evaluation first: builds golden sets and automated evals together with the agent, knows the limits of LLM-as-judge
+- Prompts, configs and agent definitions versioned in Git and released through CI, basic Terraform
+- Careful with confidential client data: least privilege, private networking, PII handling, nothing leaves the client tenant
+- Works within a client's architecture and standards, explains trade-offs to client architects with evidence, writes decision records
+- Pairs with and coaches client engineers, writes runbooks that someone else can follow
+- English C1 or higher, daily direct work with a US client
+- Based in the EU (Poland or Czechia preferred) or in Brazil
+Nice-to-Have:
+- MCP servers and clients in production
+- Document extraction and report generation: Azure AI Document Intelligence, Amazon Textract, tables and scanned PDFs, answers with citations
+- Microsoft Foundry agents, Bedrock Agents or Knowledge Bases, Azure AI Search, OpenSearch
+- LLM gateways: Azure API Management AI gateway, LiteLLM, Envoy AI Gateway
+- Tracing: OpenTelemetry GenAI conventions, Langfuse, MLflow Tracing
+- Guardrails: Azure AI Content Safety, Prompt Shields, Bedrock Guardrails, Presidio
+- Financial services, valuation, risk advisory, legal or compliance domain (privileged data, information barriers, data residency)
+- Consulting or build-and-transfer projects where the client team took over the system
+- Durable workflows: Temporal, Azure Durable Functions, AWS Step Functions
+- Governed use of AI coding tools (Claude Code, GitHub Copilot)
+Responsibilities:
+- Build the use case 1 agent on the client's shared services: model calls through the gateway, tools, retrieval and human sign-off steps
+- Get a thin working version running in the client's environment by day 14
+- Set up the agent and prompt registry: Git as the system of record, one manifest per agent and prompt (owner, purpose, risk tier, model, tools, data scope, eval suite), CI checks
+- Build retrieval for use case 1 with access enforced in the data, and add cross-engagement leak cases to the evaluation set
+- With the data and evaluation engineer, run every prompt or model change through the evaluation harness and close gaps before the client runs its own evaluation on a sealed hold-out set (days 29 to 33)
+- Write decision records for the client's design authority and runbooks for operating the agent
+- Pair daily with client engineers: we drive in weeks 1 and 2, pair in weeks 3 and 4, the client drives in weeks 5 and 6
+- By day 45: client engineers onboard a second use case without us, all code sits in client repos, nothing depends on Limestone accounts
+About project:
+The client is a US global risk and financial advisory firm (the name is confidential, see Additional information). It runs an AI Factory programme and has asked us for a 45-day proof of value. We build the first AI use case and the shared AI services (model gateway, agent and prompt registry, evaluation harness, provenance logging, data quality profiling) on the client's own Azure and AWS architecture, together with the client's engineers, and hand everything over by day 45. Part of our fee depends on the client's own evaluation results.
+This role builds the use case 1 agent with its tools and retrieval, sets up the agent and prompt registry, and pairs with client engineers so they can run and extend the work without us.
+Use case 1 is not confirmed yet. The client's most detailed example so far is private asset valuation: data extraction from documents, scoping and report generation.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

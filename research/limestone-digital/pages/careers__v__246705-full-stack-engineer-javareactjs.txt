@@ -1,0 +1,54 @@
+URL: https://careers.limestonedigital.com/v/246705-full-stack-engineer-javareactjs
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/246705-full-stack-engineer-javareactjs
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Full-stack Engineer (Java+React.js)
+Meta description: Role Scope &amp; Requirements Core Technology Stack: Strong production expertise with Java (17/21) and Spring Boot in microservices architectures. Messaging &amp; Data Layer: Hands-on experience wi...
+Canonical: 
+Robots: 
+H1: Full-stack Engineer (Java+React.js)
+
+Limestone digital s.r.o. - Full-stack Engineer (Java+React.js)
+Job openings
+Full-stack Engineer (Java+React.js)
+Full-time
+·
+Central Europe
+Role Scope & Requirements
+Core Technology Stack: Strong production expertise with Java (17/21) and Spring Boot in microservices architectures.
+Messaging & Data Layer: Hands-on experience with event-driven design using Apache Kafka, MongoDB / Amazon DocumentDB, and Redis (caching and distributed locks).
+Frontend & Tooling: Working knowledge of React with TypeScript for back-office interfaces and internal dashboards.
+Integrations & Security: Proficiency in REST API design and external provider integrations (callbacks, digital signatures, HMAC).
+Testing & Infrastructure: Solid experience with Spring Boot test tooling for integration testing, alongside Docker, Kubernetes basics, and GitLab CI/CD pipelines.
+AI-Augmented Engineering: Daily hands-on practice with AI coding tools (Cursor, Claude, GitHub Copilot, or similar) to accelerate delivery.
+Nice-to-Have Experience:
+Domain knowledge in FinTech (PSP integrations, digital wallets, bonus engine mechanics, fraud/KYC flows).
+Performance optimisation (JVM tuning, MongoDB query optimisation) and load testing using Gatling.
+Secondary technology exposure: Node.js (NestJS), SingleStore, or analytical databases.
+Key Responsibilities
+Service Development: Build and support Java/Spring Boot services for payment processing, wallet mechanics, player modules, and bonus workflows.
+Internal Dashboards: Deliver and refine related operational and back-office screens using React with TypeScript.
+External Integrations: Integrate, maintain, and optimise third-party payment providers and game aggregators.
+System Reliability: Enhance financial transaction systems with a focus on latency, resilient error handling, retry strategies, and idempotency.
+Quality & Verification: Maintain high code quality through unit/integration test coverage and participation in technical code reviews.
+Process & AI Efficiency: Leverage modern AI-assisted engineering practices to streamline implementation, reduce manual operational work, and support overall project goals.
+Project Overview
+The platform handles real-time player operations, payments, bonuses, and loyalty systems, while serving internal teams for compliance, risk, CRM, and analytics. As the platform scales into new markets and launches additional brands, our consultants collaborate directly with the client’s project teams to strengthen delivery capacity, elevate system reliability and performance, and replace manual processes through automation and AI-assisted engineering practices.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

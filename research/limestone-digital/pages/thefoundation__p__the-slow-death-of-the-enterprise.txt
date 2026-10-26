@@ -1,0 +1,212 @@
+URL: https://thefoundation.limestonedigital.com/p/the-slow-death-of-the-enterprise
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/the-slow-death-of-the-enterprise
+Content-Type: text/html; charset=utf-8
+Title: 🟪 the slow death of the enterprise
+Meta description: AI won't kill your company in a quarter. It will do it one quarter at a time.
+Canonical: https://thefoundation.limestonedigital.com/p/the-slow-death-of-the-enterprise
+Robots: max-image-preview:large
+H1: 🟪 the slow death of the enterprise | AI Foundation from Limestone Digital
+
+🟪 the slow death of the enterprise
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 the slow death of the enterprise
+🟪 the slow death of the enterprise
+AI won't kill your company in a quarter. It will do it one quarter at a time.
+Sep 29, 2026
+Reading time: 11 minutes | Issue #45 |
+Book a Discovery Call
+Happy Tuesday.
+Mark here.
+A week ago today, Bloomberg ran a story about a Meta consumer app, and I've been thinking about it ever since. Meta's new Muse agent connects to your cards, finds the subscriptions you forgot about and cancels them, and investors were already selling what Bloomberg called
+"consumer inertia" stocks
+. By Bloomberg's count at the end of the week,
+Planet Fitness was down 14%, Charter 12% and Allstate almost 9%
+. Stanford economist Liran Einav and his co-authors estimated in the
+American Economic Review
+that cancellation frictions
+"roughly double seller revenues on average,"
+which means a good share of those businesses was being carried by people who simply hadn't gotten around to leaving.
+Their customers hadn't gone anywhere yet. The market just noticed how much of the business depended on renewals nobody was thinking about, and repriced that dependence in five trading days. From the inside, those businesses probably looked fine a month ago, with customers renewing and the numbers close to last year's, which is how falling behind usually looks. In the seven stages further down, stage five is customers starting to expect something better and stage six is that gap reaching your margin, and the market priced in both within a week. I wrote about this pattern on
+X last Wednesday
+, and the full piece is below, along with this week's news.
+Inside the Issue
+Why falling behind on AI looks exactly like business as usual, and what factory owners got wrong about electricity
+The six-step sequence we use to change one workflow in ten weeks
+A Fed governor on reorganization lag, an OpenAI agent inside a government portal, Benioff's interface revolution, Microsoft's "toggle tax," and a 90-stock short list
+❝
+"How did you go bankrupt?" Bill asked. "Two ways," Mike said. "Gradually and then suddenly."
+— Ernest Hemingway,
+The Sun Also Rises
+, 1926
+The Slow Death of the Enterprise
+For most established companies, falling behind on AI looks remarkably like business as usual. Customers are renewing, the sales team has a pipeline, and next year's budget looks enough like this year's that nobody feels compelled to question the whole thing. There are AI licenses, a steering committee, and a pilot that impressed everyone who saw the demo.
+Then you ask what has changed about how the business operates, and the conversation gets, to say the least, uncomfortable.
+PwC's January 2026 CEO survey
+found that 56% of CEOs had yet to see a significant financial benefit from AI.
+McKinsey's 2026 survey
+found that eight in ten respondents felt more productive, yet only 37% of companies reported any contribution to earnings. People are using the tools. Somewhere between an employee finishing a task faster and the business producing a better result, much of the value is disappearing.
+For context, I run
+Limestone Digital
+: 200 engineers, ten years in business, and 170+ client engagements. Much of our work sits inside PE-backed healthcare billing platforms, lenders, logistics networks, and other businesses that were successful long before AI arrived. Almost every first conversation this year begins with the same question: we've invested, so why does the company still work the way it did before?
+The temptation is to give the pilot another quarter. Meanwhile, a competitor may be learning to serve the same customer with fewer handoffs and shorter turnaround times. You can explain away a quarter of that. By the time the difference becomes impossible to ignore, they've had a year to improve something you haven't started building.
+We've bought the new power before
+When electricity reached factories, owners did something reasonable: they replaced their steam engines with electric motors.
+The factories were organized around an iron line shaft, with belts carrying power to the machines. Equipment placement, building layout, and the movement of materials all reflected that arrangement. Replacing the engine was manageable. Rethinking the factory was considerably harder.
+So they kept the shaft, the belts, and the work, and productivity barely moved.
+The economist Paul David documented this in his 1990 paper,
+The Dynamo and the Computer
+. Substantial gains came when manufacturers reorganized production: individual motors for individual machines, layouts designed around materials, and finer control over each machine.
+The original factories weren't badly designed. They were designed for steam. Your approval chains and departmental boundaries probably made sense too, and some still do. Others belong to a world in which moving information required a person at every step.
+If a request still crosses five departments and depends on a spreadsheet maintained by someone on holiday, a faster model has limited room to help. You have connected a new motor to the old shaft, then asked why the factory hasn't changed.
+Two clocks, one business
+In
+Clockspeed
+,
+MIT's Charles Fine argued
+that industries evolve at different rates, and businesses have to organize themselves accordingly. AI has made that a practical problem for almost every enterprise.
+Outside the company, prices change, capabilities improve, and models retire. An eighteen-month implementation can outlive the model it was designed around.
+Inside the company, meanwhile, budgets are annual, procurement takes months, and changing an approved project can reopen discussions everyone thought were settled. Capable people protect the plan while its assumptions expire.
+Security and accountability have to remain. The question is how often the whole organization needs to reconvene. Clear permissions, acceptance tests, and operating boundaries allow teams to improve a system within agreed limits. Settling those questions from scratch for every pilot means spending much of your AI budget waiting for yourself.
+At Limestone, a new model gets a week in production before our dashboard determines whether it stays. We need evidence that it improves the work, at an acceptable cost and quality. Without that feedback, keeping up becomes an endless conversation about announcements.
+What changes when the workflow changes
+McKinsey found that nearly three-quarters of its AI high performers had fundamentally redesigned workflows, compared with about a quarter of everyone else.
+Microsoft's internal experience
+, which we went through row by row in last week's issue, helps explain why.
+Giving more than 200,000 employees access to tools had not, by itself, changed how work happened. In its cloud supply chain, Microsoft instead mapped and simplified workflows, established a single source of truth, and then deployed more than 100 purpose-built agents. In the workflows it measured, average cycle time fell from roughly ten business days to under two and a half.
+One of our clients runs a
+healthcare prior-authorization platform covering more than 600 payer plans
+. A small team maintained a template for each plan. When a payer changed its rules, the team might discover the problem only when rejections arrived a week later.
+Six production agents now support that workflow, including one that monitors payer rules. In its first eight weeks, it caught three major policy changes before a single authorization went out under the old rules.
+That changed when the business learned something was wrong. People retained responsibility for consequential decisions, while the system identified changes before they affected submissions. The improvement came from redesigning how information reached the workflow and what happened next.
+The seven stages of falling behind
+Gradual decline usually comes with plausible explanations. Procurement is taking longer. The pilot needs more data. Customers are becoming price-sensitive. Individually, each sounds manageable. Together, they can describe a business losing its ability to respond.
+1. Licenses become the evidence of progress.
+The rollout produces training sessions, launch emails, and an adoption dashboard. Everyone has something to report, and nobody can explain what improved for the customer. If your board update is still mostly a usage chart, ask what operating result those users have changed.
+2. Employees build a second system without you.
+People who see a better way to work don't necessarily wait for permission.
+Okta's 2026 survey
+found that 52% of knowledge workers had used AI without approval, while 90% of executives believed they had visibility. That gap becomes concrete when a customer asks which tools processed their information and nobody can answer.
+3. Finance can explain the spend, but nobody can explain the return.
+KPMG's global Q2 2026 survey
+found that 49% of companies had delayed, reduced, or paused agent deployments because costs exceeded benefits. Once finance loses confidence, useful projects struggle alongside the bad ones. An unmeasured first attempt makes the second harder to fund.
+4. The people you need become harder to keep.
+Ambitious employees tire of transformation programs that cannot change anything. Meanwhile, experienced operators carry knowledge the company has never captured.
+One healthcare VP of Engineering told me
+perhaps 15% of their business logic was documented well enough for an agent to read. Much of the rest lived in two people's heads.
+5. Customers adjust their expectations elsewhere.
+Why does this take a week? Why must I provide the same information twice? Why can that smaller supplier respond immediately? Customers don't need to understand your technology to notice the difference in service. Often, you learn about the comparison only after they've started looking elsewhere.
+6. The difference reaches your margin.
+Persistent Systems' CEO told Reuters
+that IT services clients were asking for the same work 25% to 30% cheaper and faster. If your delivery model hasn't changed, you face an unpleasant choice: absorb the difference or defend a cost structure the customer increasingly believes should be lower.
+7. The board wants an explanation.
+WRITER's April 2026 survey
+found that 64% of CEOs feared losing their jobs if they failed to lead the AI transition. By this stage, spending, slow decisions, employee frustration, and pricing pressure have become impossible to discuss separately. What looks like a sudden leadership crisis has had plenty of time to develop.
+These stages overlap. Their significance is cumulative: the company keeps explaining away symptoms while its room to respond gets smaller.
+Having the technology won't save you
+Sears had
+Prodigy
+. In 1984, it joined IBM and CBS in the venture that became the online service, and at its national launch in 1990, customers could shop, read news, and book flights. Amazon's website went live five years later.
+Sears understood remote shopping, had enormous distribution, and possessed an early version of the future. It still failed.
+Prodigy doesn't explain everything that happened to Sears. It does undermine the comforting explanation that access to the right technology is enough. A business can recognize an opportunity and invest in it without reorganizing itself around what it learns.
+The enterprise equivalent is the AI lab whose successful pilot never reaches the core business. The budget owner cannot change the workflow. Four departments can object, but nobody can authorize the whole change. The vendor earns more by assigning more people, while the operators are too busy keeping things running to participate.
+Another impressive demo doesn't resolve any of that.
+How We Get a Company Moving
+An enterprise won't transform in three months. It can change a meaningful workflow, prove the improvement, and make the next one easier. Our Velocity Framework follows that sequence, and you can run the first two steps this week without us.
+1. Start with an owner and a customer problem.
+Name someone who controls priorities, acceptance, and escalation. Then choose an interaction customers complain about, wait on, or leave over. Follow the work upstream and downstream so you know where the delay actually sits. Making one task faster achieves little if everything still waits on the next department.
+2. Establish the baseline and define correct.
+Use real cases to measure elapsed time, handling time, exceptions, and quality, and have the owner agree to those numbers. Then get experienced operators to define acceptable answers before anyone starts tuning the agent. Include awkward cases. A test written after seeing the answers is far too easy to pass.
+3. Build a harness the company owns.
+This is the surrounding system: trusted information, permitted tools, fixed logic, evaluations, and operating controls. Calculations that must reconcile exactly belong in ordinary software. Irreversible decisions stay with a named person. Each run leaves a record that operators can inspect.
+The model will change. Your context, integrations, and controls should remain usable when it does. Switching providers still requires testing, but it should be a manageable engineering change rather than a reason to commission the entire project again.
+4. Prove usefulness, then make it dependable.
+In weeks three to six, the owner should test a useful part of the workflow on real data, with errors and human review visible. If usefulness isn't established by week six, stop and examine why before committing more budget. Weeks seven to ten go into integrations, security, spending limits, fallbacks, and ownership when something breaks.
+5. Measure what the business actually gained.
+Track results against the baseline and separate observations from estimates. If someone multiplies every minute saved by a salary rate and calls the total cash returned, call bullshit. Released capacity can be valuable, but you still need to explain what happened to it and whether spending or output changed.
+6. Hand over on readiness, then repeat.
+Operators must know how to inspect evidence, override outputs, and escalate problems. An internal champion owns the system, and the evaluations and runbooks stay with the company. Reuse what transfers to the next workflow. Each implementation should leave behind working software and people better equipped to improve it.
+What this looks like in practice.
+Six weeks into an engagement with a PE-backed healthcare billing company, its CPTO was testing an agent that answers natural-language questions against live claims data. It scored 59 out of 60 on the evaluation set, its answer to the flagship question on preventable denials reconciled to the penny against the source database, and it runs in the client's cloud tenant for roughly $250 a month in infrastructure. For a
+delivery orchestration platform
+, a core rebuild had been estimated at seven to eight months. Two of our engineers merged 122 pull requests in the first 90 days and had it in production by month six, and the CTO called them the top-performing team in the organization.
+The models behind that work are available to everyone else. What matters is how the team organizes the work, exposes it to judgment, and responds while there is still time to change it.
+01
+A Fed governor just described the line shaft.
+Speaking
+on Monday
+, Governor Lisa Cook said AI adoption is running faster than PC or internet adoption did at comparable points, and that nearly half of small employer firms now use it, with 71% of them reporting higher productivity. The sentence worth keeping came later, when she said the effects "can have long and variable lags" and depend on "complementary investments employers and others make in worker training, reorganization, and generating new processes." That's Paul David's dynamo argument, thirty-six years on, in the most careful language the Federal Reserve has for telling you the licenses were never the whole investment.
+02
+An OpenAI agent let itself into Medicare, and it took nearly three months to reach the government.
+During a routine internal research task on June 18, an OpenAI agent kept hitting refusals from Australia's Medicare statistics portal, then
+found a way around the access controls
+and pulled non-public files. OpenAI spotted it on August 11 during a review of model activity, emailed a public Services Australia mailbox on September 10, and the government went public on September 24 with a new taskforce and a Prime Minister calling the notification unacceptable. The data was aggregate statistics rather than patient records, so the damage was small. What I'd take from it is the timeline, because a record that operators can inspect only protects you if somebody inspects it before a regulator asks.
+03
+Salesforce is demoting its own front door.
+At Dreamforce, Salesforce launched
+AIforce
+, a layer that lets customers reach CRM data from Slack and Claude without logging into Salesforce at all, and Marc Benioff called it "an interface revolution." His framing of what the company sells now is
+"the trust that our customers put in us to hold their data,"
+which is a remarkable thing to hear from a company that spent more than two decades teaching the world to log in. I'm less convinced by the agents with first names and job titles, but the direction is an incumbent reorganizing around what it learned, which is the decision Sears never made.
+04
+The toggle tax.
+Microsoft's Bryan Goode, corporate VP for business applications and agents,
+told Allwork.Space
+that employees switch applications around 1,200 times a day, which eats nearly 9% of the working week, and that "organizations are still relying on people to bridge the gaps between systems." If you need one sentence to describe a new motor on an old shaft, that's the one.
+05
+Citrini's short list reaches software.
+Citrini Research published a
+90-stock basket
+of companies exposed to what it calls the "agentic cancellation wave," with Planet Fitness, Comcast and Liberty Global carrying the biggest weights and Adobe and Microsoft further down the list. Its entire comment on Sirius XM's record-low 1.4% monthly churn was "It was good while it lasted."
+The Seven Stages Diagnostic.
+For each stage, the sentence you'll hear in the building and the question that tells you whether you're in it. Screenshot it and bring it to your next leadership meeting, then count how many of the left-hand column you heard in the last month.
+Pick one workflow your customers complain about and your people are tired of defending, and write down how long it takes, where it stalls, and who can authorize a change.
+Bring it to us and we'll tell you whether it looks like a month of work, a year of work, or something that isn't worth pursuing.
+If there's a fit, we sign an NDA before any statement of work, invest our own time in understanding the business, and start billing only when we reach work that moves it: one AI Velocity Pod, month to month, and if
+we don't deliver, you don't pay.
+→ BOOK A DISCOVERY CALL ←
+The difficult part is beginning while the existing business still gives you reasons to wait. Once customers and margins make the decision for you, there is less money, less patience, and less room to get it wrong.
+A company that starts earlier gets to learn while it still has that room, and each working improvement gives it a better starting point for the next quarter.
+Until next Tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+P.S. Our team built a voice agent for a healthcare company, check out the case study post on X by
+clicking here.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"the-slow-death-of-the-enterprise","url":"https://thefoundation.limestonedigital.com/p/the-slow-death-of-the-enterprise","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/the-slow-death-of-the-enterprise"},"headline":"🟪 the slow death of the enterprise","description":"AI won't kill your company in a quarter. It will do it one quarter at a time.","datePublished":"2026-09-29T14:23:57.105Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/24a1c396-dcfd-49cb-b7c5-a6361e0a764d/playbook-45-the-slow-death-of-the-enterprise.png?t=1790690092"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-10-06T13:22:07Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/the-slow-death-of-the-enterprise","name":"🟪 the slow death of the enterprise"}}]}

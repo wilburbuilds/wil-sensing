@@ -1,0 +1,164 @@
+URL: https://limestonedigital.com/blog/technical-due-diligence-a-checklist-for-software-deals
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/blog/technical-due-diligence-a-checklist-for-software-deals
+Content-Type: text/html; charset=UTF-8
+Title: Technical Due Diligence: A Checklist for Software Deals
+Meta description: A technical due diligence checklist for software deals: code, team, security, and AI readiness, plus the key technical due diligence questions to ask.
+Canonical: https://limestonedigital.com/blog/technical-due-diligence-a-checklist-for-software-deals
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Technical Due Diligence: A Checklist for Software Deals
+
+Technical Due Diligence: A Checklist for Software Deals
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+←
+Back to Blog
+Technical Due Diligence: A Checklist for Software Deals
+A technical due diligence checklist for software deals: code, team, security, and AI readiness, plus the key technical due diligence questions to ask.
+8-MINUTE READ
+SEPTEMBER 17, 2026
+What's on this page
+What Is Technical Due Diligence?
+Why Tech Due Diligence Matters in Software Deals
+Technical Due Diligence Checklist: Architecture and Code
+Team, Process, and Delivery Performance
+Security, Compliance, and IP Ownership
+AI Readiness and Scalability
+How to Choose Technical Due Diligence Services
+A software company can look great in the data room. Because revenue grows every quarter, churn is low, and the pitch deck mentions “proprietary AI” on every other slide. Then the deal closes. The new owners find out that the core product runs on a framework nobody has updated since 2017, that only one engineer understands how billing works, and that last year’s penetration test found issues nobody ever fixed.
+Technical due diligence is how investors see a product’s real state before they sign. It turns vague impressions like “the tech seems solid” into specific risks with a price tag attached.
+Let’s discover what the review includes, walk through a practical technical due diligence checklist, list the questions worth asking, and explain what to look for in a partner.
+What Is Technical Due Diligence?
+Technical due diligence is an independent review of a company’s technology, engineering team, and delivery process before an investment or acquisition. The goal is simple: determine whether the product can support the growth plan, and what it will cost to fix what can’t.
+Financial due diligence checks the numbers. Legal due diligence checks contracts, liabilities, and ownership. The technical review checks what actually produces the revenue. The three overlap more than people expect. Hosting costs show up in gross margin. Open-source licenses are a legal question with a technical answer. A security breach is both a legal risk and a financial one.
+Most reviews take two to four weeks and run alongside the other workstreams. Scope depends on deal size and how central the software is to the investment thesis. Reviewers usually get access to the code, architecture documents, and delivery data, and they interview the CTO and senior engineers.
+The output is a risk report ranked by severity, with cost and time estimates for fixing each major issue. A good report also feeds straight into the post-close plan, so the new owners know what to tackle first.
+Why Tech Due Diligence Matters in Software Deals
+Hidden technical problems change a company’s value. An outdated architecture can mean a year of rework before new features ship. Key-person risk means one resignation can stall the roadmap. Security gaps can block enterprise sales. Any of these can justify a lower price, an escrow, or specific conditions in the deal terms.
+Good tech due diligence also shapes the value creation plan. The findings tell operating partners what to fix in the first 100 days after close, what can wait, and where the quickest wins are.
+Skipping it gets expensive. Surprise rewrites eat the budget, roadmaps slip by quarters, and the growth targets built into the model get missed. Our founder, Mark Ajzenstadt, has noticed a simple pattern: every deal he’s seen with full technical diligence ends in one of two ways. The firm either walked away knowing why, or closed knowing exactly what it bought.
+Technical Due Diligence Checklist: Architecture and Code
+Start the technical due diligence checklist with architecture, because it decides how far the product can grow without a major rebuild:
+Scalability:
+Can the system handle five or ten times the current load, and what breaks first?
+Cloud setup:
+How is infrastructure managed, and do hosting costs grow faster than revenue?
+Dependencies:
+Which frameworks, libraries, and third-party services does the product rely on, and are any of them outdated or unsupported?
+Single points of failure:
+Is there one database, server, or vendor that takes everything down if it fails?
+Then move on to the code. Check test coverage and how much of it tests anything meaningful. Look at the size and type of tech debt, and whether the team tracks it. Review onboarding and core-system documentation. Most importantly, find out how easy the codebase is to change. How long does a small feature take? How often does a change break something else? Our article on
+measuring and paying down technical debt
+explains which numbers to look at.
+Technical due diligence software and static code analysis tools speed this up. They scan the whole codebase in hours and report complexity, duplication, outdated dependencies, license issues, and known vulnerabilities. Experienced engineers still need to read the code, though. A tool can count problems, but it can’t tell you whether an architecture choice was a smart trade-off or a dead end. Tools also miss the “proprietary AI” that turns out to be a thin layer of glue code around a public model API. We’ve opened codebases where that layer came to about 600 lines.
+Team, Process, and Delivery Performance
+Software is only as strong as the people who maintain it. These technical due diligence questions help you understand the team:
+How is the team structured, and who owns which parts of the system?
+What’s the mix of senior and junior engineers, and how many are contractors?
+What was engineering turnover over the last two years?
+If one specific person left tomorrow, what would stop working?
+The last question matters most. Key-person dependency is one of the most common findings in software deals, especially at founder-led companies.
+Next, review delivery metrics: cycle time, deployment frequency, change-fail rate, and incident history. Together, they show how fast and how safely the team ships. Our
+DORA metrics guide
+explains how to read them. If the company doesn’t track these numbers at all, that’s a finding in itself.
+Finally, look at how the team plans, reviews, and releases work. A process that runs smoothly with 15 engineers may fall apart at 40. Ask whether it can support the growth plan in your investment thesis.
+Security, Compliance, and IP Ownership
+Security issues can hurt valuation quickly, and they’re often easy to find if you look. Check these basics:
+access controls, including who has admin rights and how access is removed when people leave.
+vulnerability management and how quickly critical issues get patched.
+past security incidents and how the team handled them.
+recent penetration test results and whether the findings were actually fixed.
+Compliance status matters as much. If the growth plan depends on selling to hospitals, banks, or large enterprises, the company will need SOC 2, HIPAA, or GDPR readiness. A gap here can delay sales by six to twelve months while the company catches up. Estimate that time and cost before signing.
+Then confirm IP ownership. All code written by employees and contractors should be legally assigned to the company, so check contractor agreements for missing clauses. Review open-source licenses too. A copyleft license in the wrong place can force the company to publish parts of its own code, and nobody wants to discover that after close.
+AI Readiness and Scalability
+AI readiness is now part of almost every software deal. Buyers want to know whether the product can use AI to grow faster and cut costs, and whether a competitor with better AI could replace it. Add these technical due diligence questions to your review:
+How does the company use AI today, both in the product and in engineering?
+Is the data clean, accessible, and owned by the company?
+Who governs AI use, and what policies are in place?
+How much faster does the team ship with AI tools, and can they prove it with data?
+For deals built on an “AI-powered” story, go one step further. Mark recommends scoring every AI deal on four points: model dependency, data moat, talent concentration, and substitution risk. It all comes down to one blunt question: could someone rebuild this product in a weekend?
+Then estimate what it will take to make the product AI-native after close, including data cleanup, new integrations, and team training.
+How to Choose Technical Due Diligence Services
+Look for technical due diligence services run by people who still build and ship software themselves. Engineers who write production code spot problems faster and estimate fixes more accurately. Industry knowledge matters too. A healthcare platform needs reviewers who understand HIPAA, and a lending product needs people who know how audit trails should work. Turnaround should fit your deal timeline, which usually means two to four weeks.
+The final report should go further than the technical due diligence checklist. A list of risks is useful. A clear post-close action plan is far more useful, because it spells out what to fix first, how long it will take, what it will cost, and who will do the work.
+That’s where Limestone Digital fits in. More than half of our business comes from private equity, and we
+work with sponsors and portfolio companies
+both before and after the deal. Our engineers assess the codebase, the team, and the delivery process. After close, the same people can join the portfolio company’s team and deliver the value creation plan. We measure progress weekly against a baseline; contracts are month-to-month, and if there’s no measured uplift, there’s no invoice.
+Evaluating a software deal right now?
+Book a discovery call
+, and we’ll help you see what’s really behind the product before you sign.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+[CLOSE]
+THE AI FOUNDATION | NEWSLETTER
+Struggling with enterprise AI?
+Subscribe to get hands-on enterprise AI implementation tips, workflows, and news, every week.
+3000+
+decision makers read it to ship smarter and faster.
+Leave this field empty
+Work Email
+Subscribe
+One email a week. Unsubscribe anytime.
+You're in.
+Hands-on enterprise AI tips and workflows, in your inbox every week. The next issue is already on its way.
+Written by the team that ships it. Not a content farm.
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+Form 2: id=ld-nlp-form name= method= action=
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Work Email' name='email' type=email required placeholder='Work email'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://limestonedigital.com/blog"},{"@type":"ListItem","position":3,"name":"Technical Due Diligence: A Checklist for Software Deals","item":"https://limestonedigital.com/blog/technical-due-diligence-a-checklist-for-software-deals"}]}
+
+{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://limestonedigital.com/blog/technical-due-diligence-a-checklist-for-software-deals"},"headline":"Technical Due Diligence: A Checklist for Software Deals","datePublished":"2026-09-17T08:00:00+00:00","dateModified":"2026-10-16T05:32:55+00:00","author":{"@type":"Person","name":"seobruv"},"publisher":{"@id":"https://limestonedigital.com/#organization"},"description":"A technical due diligence checklist for software deals: code, team, security, and AI readiness, plus the key technical due diligence questions to ask.","image":"https://limestonedigital.com/wp-content/uploads/2026/09/lattice.png"}

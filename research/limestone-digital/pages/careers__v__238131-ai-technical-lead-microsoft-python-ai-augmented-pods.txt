@@ -1,0 +1,92 @@
+URL: https://careers.limestonedigital.com/v/238131-ai-technical-lead-microsoft-python-ai-augmented-pods
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/238131-ai-technical-lead-microsoft-python-ai-augmented-pods
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - AI Technical Lead (Microsoft + Python), AI-Augmented Pods
+Meta description: Requirements: MICROSOFT (hard gate) 5 + years on the Microsoft stack, with real depth in at least two of: Dynamics 365 and Dataverse, Power Platform (Power Automate, Power Apps, Power Pages, enviro...
+Canonical: 
+Robots: 
+H1: AI Technical Lead (Microsoft + Python), AI-Augmented Pods
+
+Limestone digital s.r.o. - AI Technical Lead (Microsoft + Python), AI-Augmented Pods
+Job openings
+AI Technical Lead (Microsoft + Python), AI-Augmented Pods
+Contractor
+·
+Central Europe
+Requirements:
+MICROSOFT (hard gate)
+5 + years on the Microsoft stack, with real depth in at least two of: Dynamics 365 and Dataverse, Power Platform (Power Automate, Power Apps, Power Pages, environments, DLP, ALM), Azure application development.
+Azure delivered inside a customer tenant under their governance: managed identities, Key Vault, Functions or Container Apps, VNets and private endpoints, and a security review passed rather than worked around.
+Azure DevOps end to end, including standing up CI/CD from nothing.
+Copilot Studio or Azure AI Foundry in a real client deployment, not a sandbox.
+PYTHON AND AGENTS (hard gate, and where most Microsoft leads fail)
+Production Python written in the last two years, and the ability to review someone else's Python. Typing, tests, packaging, async. Scripting does not count.
+At least one LLM or agent system taken to production and kept running: tool and function calling, MCP, orchestration and state, fallbacks, human in the loop.
+Evaluation discipline. Has built golden sets from real cases, run regression suites, measured against a baseline, and used the numbers to change or stop a workflow.
+Observability for LLM systems: traces, token and cost telemetry, alerting.
+LEADERSHIP
+Has led engineers technically, not only managed them: set standards, reviewed code, mentored, owned architecture decisions and lived with the consequences.
+Can hold an architecture conversation with a client's security and architecture function and come out with an approval.
+Says no with a reason and a written alternative. Keeps a decision log.
+COMMERCIAL AND PRACTICAL
+Be able to travel to Rotterdam and other client sites in two-day blocks.
+English C1, spoken and written.
+Available at half allocation or hourly, and comfortable holding two or three accounts at once.
+Nice-to-Have:
+Financial services or another regulated domain: asset management, insurance, payments, pharma or life sciences.
+Snowflake specifics: Cortex, semantic models, dbt, MCP over Snowflake.
+Microsoft certifications: PL-600, PL-400, AI-102, AZ-204, AZ-305, DP-203.
+Semantic Kernel, AutoGen or an equivalent orchestration framework.
+Power Platform governance at scale: environment strategy, DLP, managed solutions, centre of excellence toolkit.
+Experience turning business-user scripts and citizen-developer tooling into governed services.
+Compliance evidence work: DORA, EU AI Act, ISO 27001, SOC 2.
+Knowledge graph and ontology work, Neo4j, data lineage tooling.
+C# or .NET for integration work inside Microsoft estates.
+Presales support: shaping the technical answer in an RFP, running a discovery session, defending an architecture in front of a buying committee.
+Written enablement: playbooks, runbooks, training plans, certification paths.
+Responsibilities:
+ARCHITECTURE AND STANDARDS
+Own the deployment architecture for each pod inside the client's tenant, and get it approved by their architecture and security functions before build starts.
+Decide what belongs in the harness and what stays a script. Decide where an agent runs, who owns it, how it is versioned and how it retires.
+Keep the architecture decision log current and visible to the client at all times.
+Set the engineering standard across the pods: Python conventions, repo layout, CI/CD, secret handling, how client tools are registered behind the connector.
+EVALUATION AND QUALITY
+Make sure every workflow has a golden set built from real cases before anyone calls it done. Where the client cannot produce acceptance criteria, say so and hold the workflow.
+Review evaluation sets and traces, not only code. Pick the serving model by evaluation and lock it centrally.
+Own the failure profile that goes to the client, with observed results kept separate from modelled.
+PEOPLE
+Review the forward-deployed engineers' work weekly. Unblock them on architecture, Azure and client politics.
+Grow the bench: training plans, pairing, certification paths, so the next pod starts further along than the last.
+CLIENT AND COMMERCIAL
+Be the technical counterpart for the client's AI Hub, architecture, security and IT policy people.
+Join phase gates and quarterly operating-model reviews. On site for gates.
+Support presales: shape technical answers in proposals, size pods, sanity-check what we commit to before it is signed.
+Write the monthly market brief that goes to clients: which developments to ignore, test or adopt, with the practical consequence for their stack.
+LIMESTONE
+Feed the reusable parts (connector pattern, query guard, evaluation harness, trace dashboards, runbook templates) into the AI Factory.
+About the Project:
+This is a shared technical lead over our AI-augmented pods, not a single-account role. The pods today:
+Global Asset Management Client. Part B of their RFP: execution support and technical advice for an AI-powered COO domain. Their operations teams have built more than 120 Python tools that run on laptops, on top of Snowflake with managed data products, semantic models and Cortex. Azure and Foundry exist but sit unused because the IT policy path felt heavier than a laptop. We host one value stream at a time inside their Azure tenant on Microsoft Foundry and wrap it in an agent harness: MCP connector over the existing Python tools, read-only query guard over Snowflake, trusted context, golden sets and evaluation, traces and cost telemetry, human in the loop.
+Enterprise Biotech/Pharma Client. Power Platform and Dataverse consolidation, governance and security review, agentic AI on Power Platform.
+Major Financial Services Client. Copilot Studio harness, change assurance agent, Microsoft 365 estate.
+WHAT THE LEAD DOES. Owns the technical decisions that create future cost or lock-in across these pods: deployment architecture inside client tenants, where an agent runs and who owns it, what belongs in the harness and what stays a script, how evaluation is set up, and when to tell a client a workflow is not worth automating yet. Sets the engineering standard the forward-deployed engineers work to, reviews their code and their evaluation sets, and is the person the client's architecture and security functions talk to.
+WHY THE PROFILE IS UNUSUAL. Most Microsoft solution leads cannot write production Python and have no evaluation practice. Most AI engineers have never worked inside a governed enterprise Azure tenant and do not know Dynamics 365 or Power Platform. We need both halves in one person, because our clients are Microsoft estates and our harness is Python.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

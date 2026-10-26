@@ -1,0 +1,238 @@
+URL: https://limestonedigital.com/blog/the-ai-burnout
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/the-ai-burnout
+Content-Type: text/html; charset=utf-8
+Title: 🟪 the AI burnout
+Meta description: Jevons Paradox, explained
+Canonical: https://thefoundation.limestonedigital.com/p/the-ai-burnout
+Robots: max-image-preview:large
+H1: 🟪 the AI burnout | AI Foundation from Limestone Digital
+
+🟪 the AI burnout
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 the AI burnout
+🟪 the AI burnout
+Jevons Paradox, explained
+Aug 4, 2026
+Reading time: 7 minutes | Issue 37 |
+Book a Call
+Happy Tuesday, Mark here.
+On July 27,
+Gergely Orosz posted a short observation
+about a hiring problem. CTOs, Heads of Engineering and VPEs at startups and mid-sized companies are leaving, often a few months after being hired, and taking career breaks.
+About 2.8 million views by the time of the screenshot below.
+Four days later
+he narrowed it
+. Engineering leaders at AI-native startups, the ones doing well in the press, quitting over 70-plus hour weeks and equity that looks large until you read the liquidation preferences. His words: "it is just too much for folks who have things like a partner, a life, want sleep."
+The reply that stuck with me came from someone outside that group entirely:
+❝
+"Don't even have to be all that high-flying. Just managing the transition to LLM-driven engineering basically means having to be so directly involved in so many things while also doing my normal job. It is not great. I basically have two full-time jobs."
+That is the AI productivity story told from inside the role that absorbs it.
+Set that next to the hiring data and something odd shows up. Engineering has held up better than any other function in tech, and at the same time the people running engineering are walking out.
+The mechanism connecting those two facts is 161 years old. It is called the Jevons Paradox, and it comes from a book about coal.
+Graphic sources:
+The Coal Question, Ch. VII
+|
+Bessen, IMF Finance & Development
+|
+Pichai, Google blog, April 22, 2026
+|
+SignalFire State of Talent Report 2026
+Inside the Issue
+The Jevons Paradox explained, and why cheaper engineering produced more work rather than less
+Where that work landed, plus the V.U.E. standard and a reallocation exercise for one meeting
+Alphabet versus Microsoft, MCP's biggest revision since remote MCP, EU high-risk deadlines slipping 16 months, AI infrastructure skills up 366%
+The Coal Question, Reopened
+Orosz listed
+eight reasons
+those leaders are walking,
+reproduced in full here
+.
+The first three are specifically about AI.
+❝
+1. "Realizing the role they were hired into is just a sh*t one to do right now. Thanks to AI, often unrealistic expectations."
+2. "Realize the company they hired doesn't have a future/strategy to come out winning w AI."
+3. "Realize they will not get the AI-native experience they know they need to get to thrive long-term, and the setup won't allow them to get it, so it would be career suicide."
+The remaining five are more familiar. The predecessor left for the same reasons. Fractional work pays well in New York and San Francisco. Starting something is easier than it used to be. Burnout, plus a reasonable moment to take a few months off.
+Reason 3 is the one worth sitting with, because it is not a complaint about workload. It is a bet about employability. These are people calculating that staying somewhere without an AI strategy costs them more than leaving does.
+The load numbers line up with the first three
+LeadDev surveyed 600 engineering leaders
+for its 2026 report. 45% are working more hours than a year ago. 37% are doing more hands-on technical work. Roughly one in three managers is considering going back to being an individual contributor.
+SignalFire's data
+suggests why. Engineering managers at large tech companies now cover about 12 engineers, up 14% since 2019, and about 15 at early-stage startups, up 34%. In the same dataset, engineering manager roles are flat or declining as a share of hiring while senior IC and staff roles grow. More engineers per manager, fewer managers, and a new mandate on top that nobody added to the org chart.
+DX
+put a pace on it. Across more than 500 organizations, AI-generated code went from 34% of the total in Q1 2026 to over half in Q2, while its Developer Experience Index slipped from 67 to 65 and median quarterly AI spend climbed from roughly $1,500 to roughly $44,000. More output, a worse experience producing it, and a new budget line someone has to defend to a CFO. Details in THE SIGNAL below.
+Read together, that is not a productivity story going wrong. It is a productivity story working, with the second-order effects landing on people who were not given more hours to absorb them. Which is where the coal comes in.
+What the Jevons Paradox actually says
+The paradox fits in one sentence. Make a resource cheaper to use and total consumption of it goes up rather than down, because the lower cost opens uses that were previously not worth it.
+William Stanley Jevons published
+The Coal Question
+in 1865, into a Britain frightened that its coal was running out. Better engines burning less coal per unit of work was supposed to be the reassuring part. Chapter VII is titled "Of the Economy of Fuel," and it is blunt. "It is wholly a confusion of ideas to suppose that the economical use of fuel is equivalent to a diminished consumption. The very contrary is the truth." His hard number was Scottish iron. Coal burned per ton of iron had fallen to under a third of its former amount, and total Scottish coal consumption had risen tenfold. Efficiency up, consumption up tenfold.
+It has repeated since. The precedents everyone reaches for are real, and messier than the circulating versions.
+1. ATMs and tellers.
+James Bessen's research
+is the actual source, and the number is narrower than the retelling. ATMs cut the tellers needed to run an average urban branch from 20 to 13 between 1988 and 2004, and banks answered by opening 43% more urban branches. Teller employment rose, peaked around 2007, then started falling. BLS counts
+347,400 tellers in 2024
+and projects a further 13% decline through 2034. Jevons bought tellers two decades, not immunity.
+2. Spreadsheets and accountants.
+The line going around says accounting employment rose 31% in the decade after Lotus 1-2-3. I went looking and could not source that figure to anything, so here is what BLS actually publishes. As of 2024 there are
+1,579,800 accountants and auditors
+in the US, projected up 5% through 2034, and
+1,613,400 bookkeeping, accounting and auditing clerks
+, projected down 6%. Two occupations, one profession, moving in opposite directions for four decades. The work grew. Its bottom rung shrank.
+3. Compilers and programmers.
+BLS counts 1,895,500 software developers, QA analysts and testers
+in the US as of 2024 and projects 287,900 more by 2034, naming AI as a driver of that growth rather than a headwind.
+The aggregate says the volume went up
+SignalFire published its State of Talent Report
+on June 22, tracking hiring at 12 large tech companies and a set of early-stage startups against a 2019 baseline. Engineers are now 55% of all hiring at those large companies, up from 46% in 2019. Total hiring at those firms runs 25% below 2019. Engineering is down 11%.
+Every other function
+took a harder hit
+. At those same companies design hiring is down 48%, product management 39%, marketing 36%. At early-stage startups engineering hiring is up 7% against 2019. And in the layoffs SignalFire examined, Block among them, engineers were under 30% of those let go despite being a larger share of the workforce.
+Our read
+Across hundreds of client engagements in 10 years, the mechanism has been duller than the theory. When a feature gets 2x cheaper to build, the CFO does not usually cut the team in half. The CFO approves the two features that missed the ROI bar last quarter. Three things follow from that.
+1. Freed capacity goes to the backlog, not to severance.
+A PE-backed logistics platform estimated seven to eight months to rebuild its core system. We shipped it in three and a half with two engineers. Nobody was let go. Six engineers moved onto three product lines that had been parked in the "someday" column for two years. The savings turned into scope.
+2. Agents create engineering work downstream.
+A healthcare billing company put seven agents into production. Zero engineers replaced, four hired to maintain, extend and supervise them. Their claims domain carries more than 300 denial codes, and an agent that handles 280 correctly while hallucinating on the other 20 is worse than no agent, because now a person has to find the 20.
+On a PE-backed adtech platform we run, the same effect showed up as a bottleneck we created ourselves. AI-assisted development raised implementation throughput faster than our validation capacity could follow, and QA became the constraint. We flagged it in the monthly memo before the client asked, ran a retrospective, and wrote a tiered quality strategy against it. Between January and early April we tracked 101 defects and caught 73 before production, a 72% catch rate that climbed from 64% in January to 86% by early April.
+Google's DORA program
+found the same shape at scale last September:
+AI adoption correlates positively with delivery throughput and negatively with delivery stability.
+3. The shape of the team changes before the size does.
+SignalFire found
+front-end engineering's share of engineering hiring down about 25%
+, the steepest drop of any specialty. On that same adtech platform, we replaced a departing front-end developer in June with a different structure: two full-stack engineers instead of a split front-end and back-end pair. Same headcount, different shape. That was not a response to a report. The front-end work had stopped being a full job.
+Where this argument is weakest
+3 findings complicate it, and one of them goes straight at the opening.
+LHH's 2026 research
+across 2,530 companies points the same way from the other end. Organizations with more than 50% executive churn fell from 43% in 2025 to 19% in 2026, so broad executive turnover is going down. What Orosz describes may be specific to startups and the mid-market rather than general. And an engineering manager writing for
+LeadDev in June
+argued the flattening of the EM layer is driven by cost-cutting reorgs rather than by AI, with most companies not having decided which model they are building at all.
+The demand side is also unsettled.
+Indeed's software development postings index
+closed July 24 at 75.48 against a February 2020 baseline of 100, still a quarter below pre-pandemic after six years.
+Challenger, Gray & Christmas
+counted 139,156 announced tech job cuts in the first half of 2026, up 83% year over year, with 101,743 announced cuts across all sectors naming AI, while total US announced cuts fell 40%. A
+Federal Reserve Board working paper
+in March put coder employment growth roughly three percentage points lower per year since ChatGPT. And an
+NBER paper
+in December estimated preliminary short-run price elasticities of demand for LLM inference at just above one, reading that as "limited scope for Jevons-Paradox effects." If demand for software is less elastic than it looks from here, the vendors are right and I am wrong.
+What holds up across all of it is narrower. The volume of engineering work in the companies we see has gone up, and the entry point into it has moved up too. Entry-level hiring is down about 65% at large tech companies and 76% at startups.
+Stanford's Digital Economy Lab
+found software developers aged 22 to 25 down nearly 20% from a late-2022 peak while overall employment kept growing, and
+84% of the engineering leaders LeadDev surveyed
+expect AI to make it harder for juniors to get in at all.
+The floor rose. I do not have a good answer for who rebuilds the ladder, and we have not solved it either.
+Source: SignalFire State of Talent Report 2026.
+Three roles to write into your next req, and one standard to hire against
+None of the capabilities below existed as a job three years ago. All three are net new demand, and none of them is junior work, which is the part that makes the good news hard to act on.
+1. Engineers who build the infrastructure around the agent.
+Gateways, observability, orchestration, sandboxed execution, rollback. Call it the 85% of a working agent that is not the model, which is consistent with the 73/27 split we have been publishing since Issue 11. Concrete version: on that adtech platform, the MCP service that lets an agent operate the product went live in June. It was only possible because versioned APIs, a scoped API-key type with its own authorization gating, and published Swagger docs shipped in March. Three months of plumbing bought one month of agent.
+2. Engineers who can evaluate AI output.
+We hire against a standard we call V.U.E. Can the engineer
+Verify
+the output,
+Understand
+it, and
+Explain
+it with the agent switched off? That is a higher bar than writing the code themselves, and it is the bar that matters when the code was drafted by something that does not signal when it is guessing.
+Sonar surveyed 1,149 professional developers
+in October 2025: 38% said reviewing AI-generated code takes more effort than reviewing a colleague's, and 96% said they do not fully trust that AI code is functionally correct. Duolingo's CEO described the cost
+on a podcast in May
+: "It kind of doesn't work, but even worse. It's so hard to figure out why it didn't work that you spend about as much time as you saved." In the same stretch he
+removed the internal policy that graded staff on AI usage
+and named a roughly 20% slop rate in scaled AI output.
+3. Engineers who know the domain well enough to catch confident wrongness.
+The 300-plus denial codes again. A model is most dangerous where it is fluent and wrong, and the practical detector is someone who has worked the domain. In regulated work we pair that with a deterministic verification layer around the agent: tests, static analysis, type checking, custom validators, and an automated PR review agent that checks every change against the written spec before a human sees it. On a PE-backed lending platform, that harness is what made AI-assisted work safe to merge into live payment infrastructure.
+Run this in one meeting
+Take the last four quarters of shipped features and sort them into three piles.
+(a) Would have shipped anyway.
+(b) Shipped because tooling made it cheap enough to clear the bar.
+(c) Still in the backlog.
+If pile (b) is empty, the tooling spend has not changed what ships yet, which is roughly the gap
+Gartner described in June
+: 84% of finance organizations have implemented or plan to implement AI while only 7% report high or very high impact, from a survey of 183 CFOs. Worth noting the survey was fielded in June 2026 and covers finance functions specifically, so treat it as directional rather than as a verdict on engineering.
+If pile (c) is long and your headcount plan is flat or falling, the efficiency has been taken as margin rather than spent on the backlog. That may well be the right call for your business. It is worth making on purpose rather than by default.
+And one question the Orosz thread earns: who on your team picked up the AI enablement work, and what came off their plate when they did? If the answer is nobody and nothing, you have the LeadDev number inside your own org.
+01
+Alphabet and Microsoft filed opposite conclusions nine days apart.
+Alphabet
+: 198,933 employees on June 30, up 6.3% year over year, R&D up 32% to $18.2B in the quarter.
+Microsoft
+: product R&D down to 77,000, second consecutive annual decline, with the Chief People Officer saying the eliminated roles "were not being directly replaced by AI" while AI "is changing how work gets done." Either filing on its own supports a different 2027 plan.
+02
+MCP shipped its most important revision since remote MCP launched, and it is an operations release.
+The July 28 revision
+makes the protocol core stateless so any request can hit any instance behind a load balancer, adds header-based gateway routing, RFC 9207 issuer validation, mid-call user confirmation, a Tasks extension for long-running work, and a formal 12-month deprecation policy. Roots, Sampling, Logging and legacy HTTP+SSE are deprecated. Agent tooling just grew enterprise auth, load balancing and caching semantics, which is the job description of the infrastructure roles the hiring data says are growing fastest.
+03
+EU high-risk AI deadlines slipped 16 months. The transparency ones did not.
+Regulation (EU) 2026/1744
+entered into force July 27. Annex III standalone high-risk obligations move to December 2, 2027, and embedded Annex I to August 2, 2028. Article 50 transparency duties applied on August 2, two days ago. If you staffed a compliance push for this month, you just got 16 months back on the part you were worried about and inherited the part nobody scheduled.
+04
+"AI infrastructure" is now a job-posting keyword, up 366% year over year.
+Dice's July report
+has 75% of US tech postings requiring some AI fluency, up 178% year over year, with
+tech postings overall up 27%
+. Fastest-growing skill terms: enterprise integration 638%, agentic AI 587%, AI agents 503%, responsible AI 495%, AI infrastructure 366%, vector databases 353%, observability 251%. Worth holding against
+Indeed's software development index at 75.48
+, still a quarter below February 2020. Different taxonomies, different baselines, both true, and the gap between them is most of the argument.
+05
+AI-written code passed half of all code in a single quarter, and developer experience went down.
+DX's Q2 2026 report
+, across more than 500 organizations, has AI-generated code jumping from 34% to over 50% of the total in one quarter, four to six hours saved per developer per week, and median quarterly AI spend climbing from about $1,500 to about $44,000. Over the same four quarters its Developer Experience Index fell from 67 to 65, pull requests nearly doubled in size, and change confidence dropped 6.1%. Faster in, heavier to review.
+The
+Jevons Reallocation Worksheet
+. One page, three columns: what got cheaper, where the freed capacity went, and who absorbed the new work that came with it.
+Fill it in for your last two quarters.
+A blank middle column means the efficiency became margin.
+A blank third column usually means one person is quietly carrying it.
+Two questions worth answering before your next headcount conversation: where did last year's efficiency gain actually go, and who picked up the AI enablement work without dropping anything.
+That's what
+a discovery call with us
+covers. Five slots left in August.
+» Book a Call «
+Until next tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+P.S. The best AI use cases rarely surface inside engineering, because nobody in engineering is sitting in the finance or legal workflow all day. Give a department head a working agent and within a fortnight they will find a process you did not know was still manual. That is usually the first thing
+a discovery call
+turns up.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"the-ai-burnout","url":"https://thefoundation.limestonedigital.com/p/the-ai-burnout","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/the-ai-burnout"},"headline":"🟪 the AI burnout","description":"Jevons Paradox, explained","datePublished":"2026-08-04T14:23:19.182Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/8ef31b41-ebab-44b2-aca2-d0ad836f160d/playbook-37-the-ai-burnout.png?t=1788796721"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T15:58:39Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/the-ai-burnout","name":"🟪 the AI burnout"}}]}

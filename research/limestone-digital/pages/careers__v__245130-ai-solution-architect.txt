@@ -1,0 +1,86 @@
+URL: https://careers.limestonedigital.com/v/245130-ai-solution-architect
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/245130-ai-solution-architect
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - AI Solution Architect
+Meta description: Requirements:&nbsp; Solution Architecture: Strong experience designing end-to-end enterprise solutions, including integrations, APIs, authentication, data flows, and cloud infrastructure. Azure Clo...
+Canonical: 
+Robots: 
+H1: AI Solution Architect
+
+Limestone digital s.r.o. - AI Solution Architect
+Job openings
+AI Solution Architect
+Full-time
+·
+Central Europe
+Requirements:
+Solution Architecture: Strong experience designing end-to-end enterprise solutions, including integrations, APIs, authentication, data flows, and cloud infrastructure.
+Azure Cloud: Hands-on experience with Azure Functions, App Services, Storage, Key Vault, Entra ID, networking, and identity management.
+Generative AI & Agentic Systems: Practical experience building LLM-powered applications, AI agents, tool calling, RAG, and multi-step workflows.
+AI-Assisted Development: Strong experience with tools such as Cursor, GitHub Copilot, or Claude Code, including agent instructions, skills, and automated development workflows.
+Software Engineering: Strong development background in at least one language (Python, C#, or TypeScript), with experience building production-ready applications.
+Integration & Automation: Experience connecting enterprise systems using REST APIs, MCP, webhooks, and workflow automation.
+Rapid Prototyping: Ability to turn ambiguous business requirements into working prototypes quickly, validate assumptions, and iterate based on feedback.
+Security & Governance: Understanding of enterprise security, RBAC, managed identities, secrets management, and secure AI solution design.
+Technical Ownership: Ability to independently drive technical initiatives from discovery through implementation and deployment.
+Communication: Strong English communication skills, comfortable working directly with business stakeholders and explaining technical decisions.
+Nice-to-Have:
+Microsoft AI Ecosystem: Experience with Azure AI Foundry, Azure AI Search, Azure OpenAI, Microsoft Copilot Studio, and Microsoft Graph API.
+Agentic Frameworks: Familiarity with Semantic Kernel, LangGraph, AutoGen, or similar agent orchestration frameworks.
+AI Development Workflows: Experience designing reusable AI agent skills, custom instructions, MCP servers, and agentic SDLC workflows.
+Infrastructure as Code: Experience with Terraform, Bicep, ARM templates, and automated cloud provisioning.
+DevOps & CI/CD: Experience with GitLab CI/CD, GitHub Actions, Docker, and automated deployment pipelines.
+Enterprise Integrations: Experience integrating SharePoint, Salesforce, Jira, Confluence, Microsoft Teams, and other enterprise platforms.
+AI Evaluation & Observability: Knowledge of LLM evaluation, prompt optimization, tracing, monitoring, and cost management.
+Enterprise Architecture: Experience working in regulated industries such as financial services, with security, compliance, and governance constraints.
+Technical Enablement: Experience mentoring engineers, creating reusable engineering standards, and enabling teams to adopt new technologies.
+Innovation & R&D: Experience exploring emerging AI technologies, running technical experiments, and turning successful prototypes into reusable solutions
+Responsibilities:
+Solution Architecture: Design end-to-end AI-powered solutions, defining architecture, technology choices, integrations, and deployment approaches.
+Hands-on AI Development: Build prototypes, AI agents, automations, and production-ready solutions using modern AI technologies.
+Agentic AI & SDLC: Design and improve AI-assisted development workflows, reusable agent skills, engineering standards, and automation frameworks.
+Cloud Architecture: Design, deploy, and optimize Azure infrastructure for AI applications, ensuring scalability, security, and cost efficiency.
+Rapid Prototyping & Innovation: Transform business ideas into working prototypes, validate assumptions, and iterate quickly based on feedback.
+Enterprise Integrations: Connect AI solutions with enterprise platforms, internal APIs, databases, and business systems.
+Technical Leadership: Own technical decisions, proactively identify challenges, and drive solutions from concept through delivery.
+Stakeholder Collaboration: Work directly with business stakeholders, understand their challenges, and translate business needs into practical technical solutions.
+Security & Engineering Standards: Establish reusable patterns, architecture guidelines, security guardrails, and development best practices.
+Continuous Improvement: Research emerging AI technologies, evaluate new tools, and identify opportunities to accelerate engineering and business processes.
+Knowledge Sharing: Mentor engineers, document reusable solutions, and help teams adopt AI-assisted development practices.
+End-to-End Ownership: Take responsibility for technical outcomes, troubleshoot blockers, and proactively coordinate across teams to ensure delivery.
+About the role
+Looking for a highly proactive, hands-on AI Solution Architect with a strong engineering mindset and a passion for emerging AI technologies.
+The ideal candidate is someone who:
+- Takes initiative, challenges existing approaches, and proactively identifies opportunities for improvement.
+- Is comfortable working in a fast-paced R&D environment with evolving requirements and ambiguity.
+- Has a strong builder mentality — prefers experimenting, prototyping, and validating ideas rather than spending excessive time on theoretical discussions.
+- Is genuinely passionate about AI, actively explores new tools and technologies, and applies them in practice.
+- Can work independently, make technical decisions, and take ownership without requiring constant guidance.
+- Thinks beyond individual tasks and focuses on creating scalable, reusable solutions that benefit multiple teams.
+- Balances speed of delivery with engineering quality, security, and maintainability.
+- Enjoys collaborating with both technical and non-technical stakeholders.
+About project:
+A Dutch asset manager in Rotterdam. Limestone is bidding Part B of their RFP, execution support and technical advice for building an AI-powered COO domain. Part A (strategy and operating-model design) goes to a separate partner.
+The COO domain runs the operational side of the business front to back: onboarding of new mandates and funds, trade processing, the investment book of records, oversight of JP Morgan middle and back office, client reporting, vendor management and procurement. Their stated goal is to double the business with a flat workforce.
+Where they are now. Around 20 business technologists, with a core team of six, have built more than 120 Python tools that encode real business logic (LDI cash-flow matching that pushes orders over an API, report assembly, reconciliations). The tools are compiled to executables, deployed through SharePoint and started by a self-built local scheduler. Data sits in Snowflake with managed data products, semantic models and Cortex. Azure and Foundry exist but are unused because the IT policy path felt heavier than a laptop. Nothing runs headless, nothing is traced, there is no cost telemetry and no old-versus-new measurement, so nobody can answer the COO's question about the efficiency gain.
+What we deliver. One AI Velocity Pod embedded with their core team, working inside the client's own Azure tenant and Azure DevOps. We take one value stream at a time (corporate client onboarding and KYC first, then custom client and fund reporting, private markets data, speed of insight across the domain), map it, host it on Microsoft Foundry and wrap it in an agent harness: an MCP connector over the existing Python tools, a read-only query guard over Snowflake, trusted context, golden sets and evaluation, traces and cost telemetry, human in the loop. Old and new run in parallel and the delta is measured. The harness stays with the client.
+How this role contributes. This role is the pod. One forward-deployed engineer per value stream, full time on a single client, paired daily with the client's technologists. The first twelve weeks run as Frame, Prove, Harden, Embed, with a demonstration on real cases every week. The account starts at 1.5 FTE and can grow to three or four engineers through 2027, one per value stream, each added at a phase gate.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

@@ -1,0 +1,52 @@
+URL: https://careers.limestonedigital.com/v/188415-ai-productivity-lead-technologist
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/188415-ai-productivity-lead-technologist
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - AI Productivity Lead / Technologist
+Meta description: We are looking for an experienced AI Productivity Lead / Technologist to provide technical oversight across two parallel engineering streams: Stabilisation and acceleration of legacy Python-based a...
+Canonical: 
+Robots: 
+H1: AI Productivity Lead / Technologist
+
+Limestone digital s.r.o. - AI Productivity Lead / Technologist
+Job openings
+AI Productivity Lead / Technologist
+Full-time
+·
+Remote
+We are looking for an experienced AI Productivity Lead / Technologist to provide technical oversight across two parallel engineering streams:
+Stabilisation and acceleration of legacy Python-based automation systems
+Architecture and development of a next-generation AI-powered automation platform
+This is a high-leverage, strategic role focused on ensuring engineering excellence, AI-native productivity, and architectural alignment across both pods.
+Requirements
+Strong architectural judgment across Python and JS/TS ecosystems
+Deep hands-on experience with AI-assisted development practices and tooling
+Proven ability to define technical standards and review engineering work
+Strategic mindset with the ability to see system-level alignment across multiple initiatives
+Senior-level communication and stakeholder management skills
+Responsibilities
+Provide architectural oversight across Python and JavaScript/TypeScript ecosystems
+Establish and enforce engineering standards across both teams
+Guide and optimise AI-assisted development workflows (Cursor, Copilot, Claude, etc.)
+Conduct technical reviews and provide strategic direction
+Ensure alignment between legacy stabilisation (V1) and new platform architecture (V2)
+Identify convergence opportunities between both streams
+Act as a technical sounding board for senior engineers and client stakeholders
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

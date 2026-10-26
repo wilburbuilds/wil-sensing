@@ -1,0 +1,104 @@
+URL: https://limestonedigital.com/devint
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/devint
+Content-Type: text/html; charset=UTF-8
+Title: Dev Intelligence - Limestone Digital
+Meta description: 
+Canonical: https://limestonedigital.com/devint
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: 
+
+Dev Intelligence - Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+The worst number finds you first.
+Opinionated verdicts
+Great, Good, Needs attention. The product takes a position so the read is not yours to invent.
+Labeled semantics
+Business hours, calendar hours, logged hours: the unit is part of the number, every time. Drift erodes trust faster than missing features.
+Honest about gaps
+When data is stale or missing, the dashboard says so. No empty-state cheerleading.
+“We’ve given out GitHub Copilot to everyone… from an audit perspective, we’ve lost complete track.”
+—
+— VP Engineering · 580-person engineering org
+Built for the metric you'll defend in a 1:1.
+Cycle time p50
+How long work actually takes to ship. The unit is part of the number: business hours, calendar hours, logged hours.
+Review load p95
+Who carries the review queue, and when concentration becomes a bottleneck. Two reviewers at 71% is a 1:1, not a curiosity.
+AI assist hours
+Where AI usage actually lands, across Cursor, Anthropic, and OpenAI. Adoption you can see, not survey.
+AI spend & intensity
+Total spend, spend per commit, spend per merged PR, lines accepted, and an intensity score per person. The cost side of adoption, not just the usage side.
+Identity resolution
+The same engineer across GitHub, Jira, and AI providers, resolved into one activity story.
+Weekly pulse
+One read per week with a verdict on top. Not forty charts you have to interpret yourself.
+UNDER THE HOOD
+Three sources in. Three outputs out. One engine.
+Sources route through the engine. Identity resolved, metrics computed, three ways out.
+Book a Demo
+“You guys are at a more formalized, productized end of where we are headed.”
+—
+— VP Engineering · 580-person org · after a DevInt demo
+FAQ
+What tech leaders ask about Dev Intelligence.
+What sources does it support?
+Version control: GitHub and Bitbucket. Issue tracking: Jira and ClickUp. AI usage: Cursor, Anthropic, and OpenAI. Three sources, one read.
+Does it require code changes?
+What will our security team want to know?
+How fresh is the data?
+Is it standalone or part of an engagement?
+How is this different from Copilot's dashboard?
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://limestonedigital.com/#person","name":"Limestone Digital"},{"@type":"WebSite","@id":"https://limestonedigital.com/#website","url":"https://limestonedigital.com","name":"Limestone Digital","publisher":{"@id":"https://limestonedigital.com/#person"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg","url":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg","width":"1200","height":"630","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://limestonedigital.com/devint#webpage","url":"https://limestonedigital.com/devint","name":"Dev Intelligence - Limestone Digital","datePublished":"2026-08-20T15:52:18+00:00","dateModified":"2026-08-28T12:47:48+00:00","isPartOf":{"@id":"https://limestonedigital.com/#website"},"primaryImageOfPage":{"@id":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://limestonedigital.com/author/serhii-demidov","name":"Serhii Demidov","url":"https://limestonedigital.com/author/serhii-demidov","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/8ba52ef9cdb7fb6f387097e613db553fcae3ea2f1db3be9faeabafb66234714f?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/8ba52ef9cdb7fb6f387097e613db553fcae3ea2f1db3be9faeabafb66234714f?s=96&amp;d=mm&amp;r=g","caption":"Serhii Demidov","inLanguage":"en-US"}},{"@type":"Article","headline":"Dev Intelligence - Limestone Digital","datePublished":"2026-08-20T15:52:18+00:00","dateModified":"2026-08-28T12:47:48+00:00","author":{"@id":"https://limestonedigital.com/author/serhii-demidov","name":"Serhii Demidov"},"publisher":{"@id":"https://limestonedigital.com/#person"},"name":"Dev Intelligence - Limestone Digital","@id":"https://limestonedigital.com/devint#richSnippet","isPartOf":{"@id":"https://limestonedigital.com/devint#webpage"},"image":{"@id":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://limestonedigital.com/devint#webpage"}}]}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Dev Intelligence","item":"https://limestonedigital.com/devint"}]}

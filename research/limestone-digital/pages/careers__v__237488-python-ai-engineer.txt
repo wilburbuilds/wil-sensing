@@ -1,0 +1,92 @@
+URL: https://careers.limestonedigital.com/v/237488-python-ai-engineer
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/237488-python-ai-engineer
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Python AI Engineer
+Meta description: Requirements:&nbsp; ENGINEERING &nbsp;5 + years of commercial software engineering, of which at least 12 months building LLM or agent systems that reached production. Demos and pilots do not count....
+Canonical: 
+Robots: 
+H1: Python AI Engineer
+
+Limestone digital s.r.o. - Python AI Engineer
+Job openings
+Python AI Engineer
+Full-time
+·
+Central Europe
+Requirements:
+ENGINEERING
+5 + years of commercial software engineering, of which at least 12 months building LLM or agent systems that reached production. Demos and pilots do not count.
+Strong production Python: typing, tests, packaging, async, API clients, error handling. Able to own a service end to end.
+Strong SQL and comfort with a columnar warehouse. Snowflake preferred, any equivalent accepted.
+AGENT ENGINEERING
+Tool and function calling, MCP servers and clients, orchestration and state, retries and fallbacks, structured output, retrieval and context assembly, human-in-the-loop and approval flows.
+Evaluation as a first-class skill: building golden sets from real cases, regression suites, judges, measuring against a baseline instead of asserting quality.
+Observability: tracing, structured logging, token and cost telemetry, dashboards and alerts.
+MICROSOFT
+Hands-on Azure work inside a customer tenant: resource groups, managed identities, Key Vault, App Service or Container Apps or Functions, basic networking.
+Azure AI Foundry or Azure OpenAI in production.
+Azure DevOps: repos, pipelines, work items. Able to set up CI/CD from scratch.
+WAYS OF WORKING
+Forward-deployed or embedded experience, or clear readiness for it: sitting inside a client team, running working sessions with business users, demonstrating on real cases every week, taking questions at a phase-gate review.
+Brownfield mindset. Wraps, connects and improves what already works instead of proposing a rewrite.
+Worked in a regulated or otherwise controlled environment: security review path, access control, audit trail, data boundaries, handling of sensitive data.
+Explains a failure as clearly as a result. Writes short, readable updates.
+English C1 or better, spoken and written. Daily client contact in English.
+EU residence, within one hour of CET, able to travel to Rotterdam every two weeks.
+Full-time availability on one client, no parallel projects.
+Nice-to-Have:
+Financial services domain: asset management, fund or client onboarding, KYC and AML, trade processing, reconciliation, client reporting, or payments.
+Snowflake specifics: Cortex, semantic models, dbt, data products, MCP over Snowflake.
+Microsoft certifications: AI-102, AZ-204, DP-203 or Azure Solutions Architect Expert.
+Copilot Studio, Power Platform, Microsoft Graph, Semantic Kernel or AutoGen.
+Experience turning business-user scripts into governed services, working alongside citizen developers or business technologists rather than a professional engineering team.
+Knowledge graph and ontology work, Neo4j, data lineage tooling.
+Compliance evidence work: DORA, EU AI Act, ISO 27001, SOC 2.
+Data engineering: orchestration (Airflow or similar), event-driven pipelines, file-based integrations.
+.NET or C# for integration inside Microsoft-heavy estates.
+Enablement experience: running trainings, pairing with non-engineers, writing playbooks and runbooks.
+Dutch language.
+Responsibilities:
+DELIVERY, THE FIRST TWELVE WEEKS
+Frame (weeks 1 to 2). Map the value stream with the client team. Inventory systems of record, the 120-plus Python tools, data lineage and access. Agree the baseline, the real cases and the success criteria. Propose the deployment architecture for the client architecture team to approve.
+Prove (weeks 3 to 6). Build the smallest useful slice on real data, hosted in the client tenant, with visible assumptions, traces, errors and human review.
+Harden (weeks 7 to 10). Integration, security and architecture review, evaluation suite, observability, fallbacks, cost controls, CI/CD in Azure DevOps, operating ownership.
+Embed (weeks 11 to 12). Enable users, transfer the harness, monitor adoption, close real failure patterns. Old and new run in parallel and the delta is measured.
+ENGINEERING
+Register the client's existing Python tools behind an MCP connector so agents and people call the same interfaces.
+Build and maintain the query guard, trusted context, prompt templates, evaluation harness, trace and cost dashboards, approval queues.
+Turn the client's quality rules into a golden set. Run a fast subset on every change and the full set nightly. Pick the serving model by evaluation, not by preference.
+Get through the client's security and architecture review before anything goes live. Nothing is called production until it runs on real cases.
+CLIENT WORK
+Pair daily with the client's business technologists. Run the weekly demonstration on real cases.
+Teach the team to read traces, tune evaluations and extend the harness. Write a playbook per workflow so they run the next one without us. Target split: workflow one 70 percent Limestone, workflow two 35 percent, workflow three 10 percent.
+Bring the outside-in view. Name the risk, propose the alternative, keep the architecture decision log current, say no with reasons.
+Report honestly. Observed results kept separate from modelled, failure profile presented with the same weight as the wins.
+On site in Rotterdam in two-day blocks every two weeks, weekly during Frame and at every phase gate.
+LIMESTONE
+Feed the reusable parts (connector pattern, query guard, evaluation harness, trace dashboards, runbook templates) back into the AI Factory so the next pod starts further along.
+About the Project:
+Client:a Dutch asset manager in Rotterdam. Limestone is bidding Part B of their RFP, execution support and technical advice for building an AI-powered COO domain. Part A (strategy and operating-model design) goes to a separate partner.
+The COO domain runs the operational side of the business front to back: onboarding of new mandates and funds, trade processing, the investment book of records, oversight of JP Morgan middle and back office, client reporting, vendor management and procurement. Their stated goal is to double the business with a flat workforce.
+Where they are now. Around 20 business technologists, with a core team of six, have built more than 120 Python tools that encode real business logic (LDI cash-flow matching that pushes orders over an API, report assembly, reconciliations). The tools are compiled to executables, deployed through SharePoint and started by a self-built local scheduler. Data sits in Snowflake with managed data products, semantic models and Cortex. Azure and Foundry exist but are unused because the IT policy path felt heavier than a laptop. Nothing runs headless, nothing is traced, there is no cost telemetry and no old-versus-new measurement, so nobody can answer the COO's question about the efficiency gain.
+What we deliver. One AI Velocity Pod embedded with their core team, working inside the client's own Azure tenant and Azure DevOps. We take one value stream at a time (corporate client onboarding and KYC first, then custom client and fund reporting, private markets data, speed of insight across the domain), map it, host it on Microsoft Foundry and wrap it in an agent harness: an MCP connector over the existing Python tools, a read-only query guard over Snowflake, trusted context, golden sets and evaluation, traces and cost telemetry, human in the loop. Old and new run in parallel and the delta is measured. The harness stays with the client.
+How this role contributes. This role is the pod. One forward-deployed engineer per value stream, full time on a single client, paired daily with the client's technologists. The first twelve weeks run as Frame, Prove, Harden, Embed, with a demonstration on real cases every week. The account starts at 1.5 FTE and can grow to three or four engineers through 2027, one per value stream, each added at a phase gate.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

@@ -47,7 +47,7 @@ At one local auto repair shop:
 ### About
 **Meet Wil.**
 
-Wil was hired full-time at a local auto repair shop for business development and marketing. He works from the operations side, not IT. Once inside, he saw what AI and custom code could do, built it, and in his words it changed their business dramatically for the better.
+Wil was hired full-time at a local auto repair shop for business development and marketing. Once inside, he saw what AI and custom code could do, built it, and in his words it changed their business dramatically for the better.
 
 The person who maps the work is the person who builds it and runs it. Ten years in brand and content is why what we build is easy to use.
 

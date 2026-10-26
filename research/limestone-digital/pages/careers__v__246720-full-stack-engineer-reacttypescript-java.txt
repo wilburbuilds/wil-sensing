@@ -1,0 +1,54 @@
+URL: https://careers.limestonedigital.com/v/246720-full-stack-engineer-reacttypescript-java
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/246720-full-stack-engineer-reacttypescript-java
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Full-stack Engineer (React/TypeScript, Java)
+Meta description: Role Scope &amp; Requirements Frontend Core Stack: Strong production expertise with React, TypeScript, React Router v7 / Remix, Vite, and TanStack Query. UI &amp; Styling: Hands-on experience with ...
+Canonical: 
+Robots: 
+H1: Full-stack Engineer (React/TypeScript, Java)
+
+Limestone digital s.r.o. - Full-stack Engineer (React/TypeScript, Java)
+Job openings
+Full-stack Engineer (React/TypeScript, Java)
+Full-time
+·
+Central Europe
+Role Scope & Requirements
+Frontend Core Stack: Strong production expertise with React, TypeScript, React Router v7 / Remix, Vite, and TanStack Query.
+UI & Styling: Hands-on experience with Tailwind CSS and modern component libraries (Radix, shadcn/ui, or Chakra UI) for responsive, mobile-first, and PWA interfaces.
+Web Performance & Optimisation: Proven experience optimising Core Web Vitals, bundle sizes, caching strategies, and rendering performance.
+Backend Integration: Practical knowledge of Java with Spring Boot sufficient to build and modify REST endpoints end-to-end.
+Testing Tooling: Solid unit and component testing skills using Vitest or Jest.
+AI-Augmented Engineering: Daily hands-on practice with AI coding tools (Cursor, Claude, GitHub Copilot, or similar) to accelerate delivery.
+Nice-to-Have Experience:
+End-to-end testing with Playwright or Cypress.
+Real-time technologies (Centrifugo, WebSockets, Firebase Cloud Messaging).
+Secondary exposure to Node.js (NestJS for CMS backends).
+Key Responsibilities
+End-to-End Feature Delivery: Build and maintain features across the player-facing web application (React, PWA) and back-office consoles, including necessary updates to underlying Spring Boot APIs.
+Frontend Performance: Drive optimisations for page load speed, rendering, and overall application performance under high user loads.
+Global Rollout Support: Enable multi-brand and multi-market expansions through theming, localisation, and feature flag management.
+Quality Assurance: Expand automated end-to-end test coverage to reduce manual regression efforts.
+Technical Collaboration: Participate in code reviews, technical releases, and project alignment activities within the client's team.
+Process & AI Efficiency: Leverage modern AI-assisted engineering workflows to increase shipping velocity and minimise repetitive tasks.
+Project Overview
+The platform handles real-time player operations, payments, bonuses, and loyalty systems, while serving internal teams for compliance, risk, CRM, and analytics. As the platform scales into new markets and launches additional brands, our consultants collaborate directly with the client’s project teams to strengthen delivery capacity, elevate system reliability and performance, and replace manual processes through automation and AI-assisted engineering practices.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

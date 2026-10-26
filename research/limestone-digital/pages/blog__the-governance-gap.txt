@@ -1,0 +1,100 @@
+URL: https://limestonedigital.com/blog/the-governance-gap
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/the-governance-gap
+Content-Type: text/html; charset=utf-8
+Title: The Governance Gap: Why the EU AI Act Is Becoming an Engineering Problem
+Meta description: The EU AI Act is shifting AI governance from legal review to operational control. Discover why observability, traceability, and runtime visibility are becoming critical for production AI systems.
+Canonical: https://thefoundation.limestonedigital.com/p/the-governance-gap
+Robots: max-image-preview:large
+H1: The Governance Gap | AI Foundation from Limestone Digital
+
+The Governance Gap: Why the EU AI Act Is Becoming an Engineering Problem
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+The Governance Gap
+The Governance Gap
+Episode 26
+May 22, 2026
+Hi there,
+This week, the European Commission published 167 pages of draft guidance explaining how organizations should classify high-risk AI systems under the EU AI Act.
+Most coverage focused on legal definitions and delayed enforcement timelines. But the more important takeaway is operational.
+The draft guidelines make one thing very clear: regulators are no longer evaluating AI systems only at launch. They increasingly expect organizations to understand how those systems behave after deployment — as models evolve, data changes, integrations expand, and decisions influence real users in production environments.
+For many companies, that visibility still does not exist.
+Inside the Issue
+Why classification is only the beginning
+The operational burden hidden inside the EU AI Act
+Why AI governance is becoming an engineering problem
+The growing importance of runtime visibility and traceability
+What mature AI teams are building now
+Classification Is Not the Hard Part
+The new guidance gives organizations far more clarity around what may qualify as “high-risk” AI under Annex III categories, including systems used in hiring, education, insurance, biometric identification, credit scoring, and critical infrastructure.
+The Commission also introduced important exemptions for systems performing “narrow procedural tasks” or supportive functions that do not materially influence outcomes. That distinction matters because many companies are currently trying to determine whether their AI features trigger the heavier compliance obligations attached to high-risk systems.
+But the difficult part is not the classification exercise itself.
+Most organizations can document intended use cases, map workflows, and complete legal assessments. The harder challenge begins after deployment, when systems continue changing in production.
+A recommendation engine may use updated models six months later. A support assistant may start relying on different external tools. A hiring workflow may gradually shift from “supportive” to materially influencing decisions as adoption increases internally.
+The EU AI Act is forcing companies to confront something uncomfortable: many enterprises still cannot clearly explain how their AI systems behave once they are operating at scale.
+Not theoretically. Operationally.
+Can teams identify which model version generated a specific output months later? Can they reconstruct what data was available at the time? Can they explain why performance degraded for one customer segment but not another? Can they prove meaningful human oversight actually happened?
+Those questions sit underneath almost every major requirement inside the AI Act.
+Governance Is Becoming Operational Infrastructure
+One of the biggest misconceptions around AI governance is that it primarily lives in policy documents, legal reviews, or approval processes. The draft guidelines point in a different direction.
+In practice, continuous compliance depends on runtime infrastructure: telemetry, traceability, monitoring, identity controls, audit logging, resilience testing, and incident response systems capable of operating continuously alongside production AI environments. That is a very different operational model from traditional software governance.
+Most governance processes were designed for systems that changed slowly after release. AI systems behave differently. Inputs evolve, models are updated, prompts change, external dependencies shift, and outputs become increasingly difficult to evaluate manually at scale.
+This is one reason industry groups had been pushing for clearer guidance. The International Association of Privacy Professionals (IAPP) noted that uncertainty around classification had already slowed implementation planning across the market. But clearer definitions do not solve the deeper operational problem many organizations face: fragmented visibility into production AI systems. And that fragmentation is growing faster than most governance processes can adapt.
+The Real Risk Is Operational Fragmentation
+Reuters reported this month that parts of the AI Act timeline were delayed partly because both governments and companies were struggling with implementation readiness. That detail matters because it reflects a broader reality inside enterprise AI.
+The challenge is no longer simply understanding the regulation. The challenge is maintaining operational control once AI systems become deeply embedded across products, workflows, vendors, and teams.
+Many organizations already have dozens of AI systems operating simultaneously across departments with different monitoring standards, different ownership structures, and different levels of oversight. Some are internally developed. Others come from external vendors or APIs integrated directly into workflows. Over time, visibility starts breaking down. That is where governance becomes difficult — not because companies refuse to comply, but because they no longer have a clean operational picture of what is actually happening inside production environments.
+Closing
+The most important question raised by the EU AI Act is not whether a system qualifies as “high-risk.” It is whether organizations can still clearly understand, monitor, and control the AI systems already operating inside their business. Because once AI systems become deeply embedded across products, workflows, vendors, and teams, governance stops being a documentation exercise. It becomes an operational challenge. And for many companies, that challenge is arriving faster than expected.
+Sources & Further Reading
+European Commission — Draft Guidelines on High-Risk AI Systems
+https://digital-strategy.ec.europa.eu/en/library/draft-commission-guidelines-classification-high-risk-ai-systems
+Reuters — EU Lawmakers Reach Deal on Delayed AI Rules
+https://www.reuters.com/world/eu-countries-lawmakers-strike-provisional-deal-watered-down-ai-rules-2026-05-07/
+IAPP — European Commission Delivers Draft High-Risk AI Guidelines
+https://iapp.org/news/a/european-commission-delivers-draft-high-risk-ai-guidelines-after-delays/
+European Commission — EU AI Act Overview
+https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+Thank you for joining us for another edition of The Foundation.
+We help organizations design and build AI systems with production-grade observability, operational control, and long-term scalability in mind from the start.
+Book a Call
+P.S. We want to make sure this newsletter hits the mark. So reply to this email and let us know what you think.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"the-governance-gap","url":"https://thefoundation.limestonedigital.com/p/the-governance-gap","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/the-governance-gap"},"headline":"The Governance Gap","description":"Episode 26","datePublished":"2026-05-22T16:23:19.548Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/f48c0b9d-d2b9-4dff-8ac9-8e51e640fb4a/playbook-26-the-governance-gap-the-eu-ai-act.png?t=1788797277"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:07:58Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/the-governance-gap","name":"The Governance Gap"}}]}

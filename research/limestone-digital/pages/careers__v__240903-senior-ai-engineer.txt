@@ -1,0 +1,63 @@
+URL: https://careers.limestonedigital.com/v/240903-senior-ai-engineer
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/240903-senior-ai-engineer
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Senior AI Engineer
+Meta description: Requirements:&nbsp; Must-Have:&nbsp; Strong middle or senior-level, 7+ years of hands-on software development; Azure experience, including Microsoft Foundry; Agentic or LLM development experience (...
+Canonical: 
+Robots: 
+H1: Senior AI Engineer
+
+Limestone digital s.r.o. - Senior AI Engineer
+Job openings
+Senior AI Engineer
+Full-time
+·
+Brazil, South America
+Requirements:
+Must-Have:
+Strong middle or senior-level, 7+ years of hands-on software development;
+Azure experience, including Microsoft Foundry;
+Agentic or LLM development experience (a non-commercial project is acceptable);
+Strong SQL and relational data modelling;
+Infrastructure as code and CI/CD;
+Client-facing: runs working sessions and explains trade-offs to non-technical people;
+Fluent English (B2 or higher).
+Nice-to-Have:
+LLM features in production with evaluation design;
+Terraform;
+Forecasting or time-series work on transactional data;
+Cloud to on-premise connectivity (VPN, private endpoints);
+AI guardrails and LLM cost optimisation;
+B2B commerce integrations.
+Responsibilities:
+Own the technical build end-to-end, working to the AI Lead's architecture;
+Set up the Azure environment as code, with model guardrails and spend limits;
+Build a secure read-only connection to the client's on-premises SQL Server, working with their IT provider;
+Model the client's order, product, pricing, and unit of measure data;
+Build the recommendation engine in Python (order cadence, quantity forecasting, order assembly);
+Build the LLM layer that writes the order explanation, with token and cost controls;
+Build the evaluation harness and run it in CI on every change;
+Deliver the portal API and the integration spec for the client's design partner;
+Join client sessions and answer their technical stakeholder directly;
+Write runbooks and hand the platform over to the client's technical owner.
+About the Project:
+The client is a US medical supply distributor whose customers, mostly skilled nursing facilities, order through a B2B web portal. We are building an AI agent in that portal that proposes the full order from the facility's purchase history, with correct quantities and units of measure. It adds a short explanation and passes the order to the cart for the customer to approve. It runs on a new governed Azure AI foundation that more agents will reuse in the future.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

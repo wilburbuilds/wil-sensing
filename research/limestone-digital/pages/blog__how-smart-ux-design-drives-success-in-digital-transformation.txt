@@ -1,0 +1,138 @@
+URL: https://limestonedigital.com/blog/how-smart-ux-design-drives-success-in-digital-transformation
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/blog/how-smart-ux-design-drives-success-in-digital-transformation
+Content-Type: text/html; charset=UTF-8
+Title: Don't Lose Sight of the Human Experience in Digital Transformation
+Meta description: Discover how human-centered UX design drives adoption, improves data quality, and turns digital transformation into measurable business success.
+Canonical: https://limestonedigital.com/blog/how-smart-ux-design-drives-success-in-digital-transformation
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Don’t Lose Sight of the Human Experience in Digital Transformation
+
+Don't Lose Sight of the Human Experience in Digital Transformation
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+←
+Back to Blog
+Don’t Lose Sight of the Human Experience in Digital Transformation
+Discover how human-centered UX design drives adoption, improves data quality, and turns digital transformation into measurable business success.
+5-MINUTE READ
+SEPTEMBER 23, 2025
+What's on this page
+Data architecture isn’t the sole determinant of data quality
+Build systems with the human user in mind
+Quality UX is an asset in the rush for AI
+On the road to digital transformation, mid-market organizations pump investment dollars into sophisticated, new technologies, only to watch user adoption tank.
+And with the use of those tools go their hopes of increased efficiency and better business outcomes.
+“Technology alone doesn’t create transformation,” says Anastasia Milokhina, the UX/UI design team lead at Limestone Digital. “People also need to be willing and able to use it.”
+Anastasia has learned that the avoidance causes deeper damage than most organizations realize. When users don’t want to use new systems, the tech investment isn’t the only thing that takes a hit.
+Data quality also suffers, putting organizations at a massive disadvantage in the race for AI.
+Data architecture isn’t the sole determinant of data quality
+Many executives assume that data quality is purely a back-end issue, says Anastasia. As a result, they invest in system integrations and database improvements to ensure that clean data flows throughout their organization.
+This assumption causes them to overlook non-architectural factors that impact data quality, like user behavior. “Most data quality issues originate at the point of entry when people actually interact with the tool,” Anastasia explains. But much of the time, users aren’t the ones to blame. Rather, usability (or the lack thereof) is the culprit.
+When users find new tools to be cumbersome and complicated, they create workarounds out of necessity, which takes a toll on data collection.
+For example, when users must move through several screens to complete a single task, there’s a higher likelihood that they’ll make errors. And if users are overwhelmed by fields, they might input minimal information to move faster, or avoid entering information entirely.
+Even if everything on the back-end works perfectly, these workarounds leave organizations with incomplete and incorrect information. And flawed data fuels flawed decision-making, undermining business performance and growth.
+Build systems with the human user in mind
+Organizations need to ensure new systems are intuitive to use. Data quality and truly successful transformation depend on it.
+But many teams get lost in technical requirements and lose sight of the human experience.
+Not Anastasia and the team at Limestone. When helping clients modernize their existing systems, like inventory and enterprise resource planning platforms (ERP), they keep human users in mind throughout the development process by asking four key questions. The effort has paid off, helping companies achieve adoption rates as high as 80%.
+So whether it’s to guide their own development efforts or hold external partners accountable, organizations should keep these questions in mind as they pursue digital transformation.
+Question 1: “What do users do?”
+Organizational charts aren’t always the best way to understand how people go about their day-to-day work.
+“Users don’t think in departments, they think in tasks,” Anastasia observes. “If the system doesn’t match their mental model, they waste time trying to figure out where to go to actually find what they are looking for.” Systems that mirror internal organizational structure create endless nested menus and terminology that feels logical to the company but confusing to end users.
+To avoid creating confusion, the team at Limestone conducts user interviews to map real workflows before building anything. They can use this knowledge to make sure that anything they build blends smoothly into people’s daily routines.
+Question 2: “What solution do users really need?”
+In many cases, organizations know exactly what type of tool they need to build or update, e.g., an ERP, a CRM, or an inventory tracking platform.
+However, determining the right specifications can be tricky. Simply asking users isn’t always the best way forward, as it’s difficult for people to articulate their needs in the abstract. It’s far more helpful to have something tangible that users can see and react to.
+The Limestone team provides users with low- to mid-fidelity wireframes of different screens to pinpoint necessary features and functionality. This exercise helps users get a sense of what the interface layout will look like and allows them to share whether it would disrupt or enhance their workflows. The designs are intentionally unpolished so the team can adjust them quickly following each round of user feedback.
+This rapid, iterative process allows the Limestone team to gauge what users actually need before moving into production.
+Question 3: “Where will adoption break down?”
+While wireframes help teams refine product specifications and workflows, the team needs to go further to understand how people will move through the solution when completing real work.
+But waiting until the full product is developed to test these interactions is risky. Failure at that stage would be far more costly, as it would disrupt real business operations and force the team to spend additional resources rolling back changes and reworking the solution.
+That’s why Anastasia and the Limestone team take wireframes that have been refined through user feedback and turn them into clickable prototypes using tools like Figma.
+“Ideally, we test them with real users, or at a minimum, with key stakeholders, focusing on whether the flow feels intuitive,” Anastasia shares. This hands-on testing surfaces issues that wireframes can’t predict, like confusing transitions between screens that interrupt daily tasks.
+Question 4: “How will this scale across the organization?”
+If a solution works for one person, or even a group of people, that doesn’t mean it will work for the organization as a whole. Teams need to ensure that the tool is intuitive for every person, regardless of their role, to prevent costly data quality issues.
+The payoff is significant. “Good UX will just transform their internal tools into enablers, not roadblockers,” Anastasia shares. “And when this scales across hundreds or thousands of employees, the impact is huge.”
+Considering scale early on can help teams avoid sinking resources into a solution that works for a few power users but breaks down when deployed across different teams with different use cases.
+Quality UX is an asset in the rush for AI
+Poor user adoption is a symptom of a much larger problem: deteriorating data quality that undermines critical decision-making. Addressing it requires prioritizing the front-end just as heavily as the back-end during the development process.
+“Organizations need to view UX not as a cosmetic layer, just to make things prettier, but as a strategic enabler,” Anastasia says. “When people feel the system really helps them, adoption and data quality follow naturally.”
+She notes that UX should become even more critical as AI and emerging technologies are introduced, because one of the biggest challenges with AI is trust. Users need to understand why an AI system is making a recommendation or decision. Otherwise, they won’t want to use it.
+UX can help create trust around the actions taken by an AI system. “UX can connect a complex algorithm with human understanding,” Anastasia explains. “For example, designing a transparent interface that explains AI suggestions can dramatically increase adoption.”
+Many organizations have entered the race for AI. But in the rush to embrace the technology, they must prioritize the humans who will use it; otherwise, they’ll fall behind.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+[CLOSE]
+THE AI FOUNDATION | NEWSLETTER
+Struggling with enterprise AI?
+Subscribe to get hands-on enterprise AI implementation tips, workflows, and news, every week.
+3000+
+decision makers read it to ship smarter and faster.
+Leave this field empty
+Work Email
+Subscribe
+One email a week. Unsubscribe anytime.
+You're in.
+Hands-on enterprise AI tips and workflows, in your inbox every week. The next issue is already on its way.
+Written by the team that ships it. Not a content farm.
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+Form 2: id=ld-nlp-form name= method= action=
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Work Email' name='email' type=email required placeholder='Work email'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://limestonedigital.com/blog"},{"@type":"ListItem","position":3,"name":"Don&#8217;t Lose Sight of the Human Experience in Digital Transformation","item":"https://limestonedigital.com/blog/how-smart-ux-design-drives-success-in-digital-transformation"}]}
+
+{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://limestonedigital.com/blog/how-smart-ux-design-drives-success-in-digital-transformation"},"headline":"Don&#8217;t Lose Sight of the Human Experience in Digital Transformation","datePublished":"2025-09-23T00:00:00+00:00","dateModified":"2026-10-23T19:02:31+00:00","author":{"@type":"Person","name":"Alexandra Korneyeva"},"publisher":{"@id":"https://limestonedigital.com/#organization"},"description":"Discover how human-centered UX design drives adoption, improves data quality, and turns digital transformation into measurable business success.","image":"https://limestonedigital.com/wp-content/uploads/2025/09/68d29eeede498a3c5c11cc38_Thumbnails_5_playbook-2.png"}

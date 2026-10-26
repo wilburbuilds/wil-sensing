@@ -1,0 +1,54 @@
+URL: https://careers.limestonedigital.com/v/246740-tech-lead-java-react-aws
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/246740-tech-lead-java-react-aws
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Tech Lead (Java, React, AWS)
+Meta description: Role Scope &amp; Requirements Experience &amp; Technical Breadth: 8+ years of commercial software development, including 2+ years leading engineering consultants within client environments, strong ...
+Canonical: 
+Robots: 
+H1: Tech Lead (Java, React, AWS)
+
+Limestone digital s.r.o. - Tech Lead (Java, React, AWS)
+Job openings
+Tech Lead (Java, React, AWS)
+Full-time
+·
+Central Europe
+Role Scope & Requirements
+Experience & Technical Breadth: 8+ years of commercial software development, including 2+ years leading engineering consultants within client environments, strong Java (17/21) & Spring Boot microservices expertise, hands-on React & TypeScript, and 2+ years with AWS.
+Architecture & Data: Event-driven architecture using Apache Kafka, MongoDB or PostgreSQL, and Redis.
+Cloud & Containers: Production AWS experience with EKS or managed Kubernetes environments.
+Technical Leadership & Coordination: 2+ years coordinating technical pods (3+ specialists): technical roadmap planning, code reviews, mentoring, and unblocking delivery paths.
+Production Ownership & Stakeholder Alignment: Hands-on experience with incident response, SLO management, postmortems, and technical communications with CTO-level client stakeholders.
+AI Tooling & Process Setup: Daily use of AI coding tools (Cursor, Claude, Copilot, or similar) and experience defining team-wide AI workflows.
+Nice-to-Have Experience:
+Infrastructure & Quality tooling: Terraform, Helm, ArgoCD, GitLab CI, JaCoCo, SonarQube, and disaster recovery exercises.
+Experience scaling new technical consultancy streams inside client projects.
+Key Responsibilities
+Technical Pod Coordination: Lead an AI-augmented pod of 3 Senior Full-stack Consultants embedded in the client's project stream through technical planning, code reviews, and architectural guidance.
+Technical Point of Contact: Serve as the primary technical contact for the client’s CTO and Tech Leads, participating directly in architectural review forums.
+Delivery & Quality Ownership: Track and optimise pod delivery metrics (lead time, deployment frequency, change failure rate) aligned with client business objectives.
+30/60/90-Day Execution: Establish quality gates, end-to-end test strategies, autoscaling policies, and initial disaster recovery exercises within the project roadmap.
+AI Workflow Standardisation: Define and embed AI-assisted engineering standards for the pod in compliance with client security protocols.
+Hands-on Development: Spend approximately 50% of time delivering production code for critical systems (e.g., payments and high-performance services).
+Incident Escalation: Act as a secondary technical escalation contact for critical incidents in the pod's delivery domain.
+Project Overview
+The platform handles real-time player operations, payments, bonuses, and loyalty systems, while serving internal teams for compliance, risk, CRM, and analytics. As the platform scales into new markets and launches additional brands, our consultants collaborate directly with the client’s project teams to strengthen delivery capacity, elevate system reliability and performance, and replace manual processes through automation and AI-assisted engineering practices.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

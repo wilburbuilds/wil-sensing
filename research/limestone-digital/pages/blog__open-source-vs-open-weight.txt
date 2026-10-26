@@ -1,0 +1,115 @@
+URL: https://limestonedigital.com/blog/open-source-vs-open-weight
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/open-source-vs-open-weight
+Content-Type: text/html; charset=utf-8
+Title: 🟪 open source vs open weight
+Meta description: a big difference
+Canonical: https://thefoundation.limestonedigital.com/p/open-source-vs-open-weight
+Robots: max-image-preview:large
+H1: 🟪 open source vs open weight | AI Foundation from Limestone Digital
+
+🟪 open source vs open weight
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 open source vs open weight
+🟪 open source vs open weight
+a big difference
+Jul 28, 2026
+Reading time: 9 minutes | Issue 36 |
+Book a Call
+Happy Tuesday, Mark here.
+On Friday,
+Jensen Huang made the first post of his life on X
+, and he spent it on somebody else’s argument: a three-page letter called Open Weights and American AI Leadership, published as a PDF on NVIDIA’s own servers.
+I read it twice, the second time with a pen, because the signatories are right about most of what they claim and still leave your compliance officer with nothing to say.
+Inside the Issue
+The verb the letter’s own definition leaves out, and the concession in paragraph six that proves it matters
+A provenance memo you can write in an afternoon, before somebody asks you for it
+The six companies that signed nothing, Amodei answering on Monday, and the alliance built on Tuesday
+The letter went up on 24 July with 25 signatures and reached 77 on the copy in front of me, at the same address that served every earlier version. Mozilla and the Linux Foundation signed alongside NVIDIA and Meta, Hugging Face and Ollama alongside Palantir and SpaceX. Most of the ten paragraphs deserve your agreement. The argument breaks in two places, and the signatories put one of them there themselves.
+Open source vs open weights
+The signatories borrow the history and the moral authority of open-source software while the thing they are defending is open weights, and their own definition shows the distance. An open weight model, they write, is one anyone can “download, inspect, modify, and run on their own infrastructure.”
+Four verbs, and the one they left out is rebuild.
+Open source lets you reconstruct the artifact from what somebody published, whereas weights hand you the compiled output and fine-tuning only patches the executable. Under the definition the signatories chose, a lab can release weights while withholding the training data, the training code, the recipe and any account of where the thing came from. So take it to your auditor: you standardize on an open-weight model, your compliance officer asks what it trained on, and you can produce the weights while having nothing to say about the rest. In healthcare, in financial services, in anything with a regulator attached, the conversation ends there.
+A stricter standard already exists. OSAID 1.0, published by the Open Source Initiative in October 2024, requires data information alongside code and parameters, and Llama still does not meet it. Mozilla and the Linux Foundation built their institutions on reproducibility and signed anyway.
+The concession
+Paragraph six gives ground, acknowledging that published weights leave the developer’s control for good and that “modified versions are difficult to trace or reverse.” The signatories raise it to argue against prohibition, and on that policy question they are right. But the people who wrote the definition in paragraph two have admitted four paragraphs later that the artifact it produces cannot be traced. They frame it as something Washington should legislate around, and it reaches your company as something you have to document.
+What kind of transparency
+Paragraph seven is the strongest passage. Closed models can be breached or fail where outsiders never see it, the signatories argue, and concentrating capability behind a few creates single points of failure, whereas open weights let a broad community examine behavior and build safeguards.
+Every mechanism in that paragraph inspects behavior. Benchmarking, evaluation and red teaming all work by running the model and recording the output, and none of them inspects how it was built. In open-source software, transparency means reading the source. In paragraph seven it means running the binary and taking careful notes. A red team can tell you a model produces a bad output on a given prompt, and it cannot tell you whether the model learned from your competitor’s documents, from clinical records, or from another lab’s outputs. That second question is the one arriving in procurement questionnaires this year.
+Paragraph five promises customers they can own the value they build. That operational control is real and we help clients build it, whereas evidentiary control is a separate thing the letter’s definition cannot produce.
+Paragraph nine
+Near the end the signatories ask policymakers to “be careful not to conflate legitimate model-development techniques with misappropriation,” arguing that distillation is a widely used technique. None of the factories, hospitals and classrooms the letter invokes has any stake in that sentence, while it carries enormous value for anyone accused of training on a rival’s outputs.
+The calendar explains it. On 21 July, Treasury Secretary Scott Bessent told Fox Business the government could sanction foreign models built on stolen American work, and on the 22nd the White House OSTP director, Michael Kratsios, posted that Moonshot AI had “distilled Anthropic’s Fable for the development of its K3 model.” Bessent followed with sanctions and Entity List designations on the table, the mechanism the government used against Huawei in 2019. The letter published on the 24th, forty-eight hours later.
+So paragraph nine asks Washington to separate legitimate technique from unlawful extraction, while paragraph two makes that distinction untestable. It stopped being theoretical on 23 July, when TechCrunch reported that independent researchers doubted the government’s own claim, since the timeline did not support industrial-scale distillation and Kratsios had published no evidence. A federal agency made a provenance claim about a specific model, and the experts who examined it could neither confirm nor refute it, because no rule required anybody to disclose the one thing they needed.
+Check what K3 was that week. Moonshot launched it through its API on 16 July, held the weights back for ten days and released them on 27 July, so the letter defending downloadable models arrived three days before the download existed. The weights are public now, all four verbs satisfied, and nobody can still say what it learned from.
+Companies that didn’t sign
+Six companies appear on no version of the list. Anthropic and Amazon read as one position, since Amazon is Anthropic’s largest investor and Anthropic runs on Amazon silicon. Oracle is the odd one, because a company pouring capital into AI datacenters has NVIDIA’s exact interest and stayed off anyway. So did Thinking Machines, which publishes open-weight models of its own and declined to sign a letter defending them.
+Anthropic’s absence stopped being unexplained on Monday, when Dario Amodei published the company’s position and said it has not advocated banning open-weight models as a category. He named three priorities instead: keeping advanced chips away from authoritarian governments, stopping industrial-scale distillation, and requiring safety testing for every sufficiently capable model, open or closed.
+Set those against paragraph seven. Safety testing is behavioral testing, so the letter’s transparency runs the model and watches the output, and the loudest holdout’s remedy runs the model and watches the output. Across 77 signatories and the most prominent holdout, nobody in this argument proposes that any lab disclose what its model trained on. When the signatories do want open training data they ask Washington to pay for it, listing “shared training assets (datasets, tools, evaluation frameworks)” among their recommended public investments. Your auditor’s question belongs to neither side.
+The pattern held again on Monday, when NVIDIA launched the Open Secure AI Alliance with 36 other companies to build open tooling for AI vulnerabilities, saying it would work toward audit standards for the AI software stack. NVIDIA is contributing tooling that tracks what an agent does, Microsoft a system that hunts software flaws, Hugging Face a model file format that stops hidden code executing on load. Every one of those inspects a running system or the container it arrived in, and none of them records what a model was trained on.
+Open weights are good, and the sovereignty, freedom from lock-in and defensive security the signatories claim for them are real. The clearest proof came from outside the letter, when a rogue OpenAI red-team agent attacked Hugging Face and the team said restrictions kept them from using closed models for the analysis, so they ran a Chinese open-weight model instead.
+Restricting open weights this early would be a mistake. The signatories are right about all of it, which is what makes the letter such effective cover.
+What the Answer Looks Like
+We are running an AI enablement engagement inside a US healthcare data and analytics company, a multi-team product organization building enterprise SaaS in a regulated domain. Client name withheld, engagement ongoing. It belongs in this issue because the parts of their stack that determine control turned out to sit in neither the weights nor the vendor contract.
+Their engineers already had AI tools and no shared way to use them, and the symptoms were organizational rather than technical. Adoption ran uneven with no way to tell which teams had leaned in, every team improvised a practice that transferred to nobody, and both spend and data egress stayed invisible. They needed an operating practice installed on their own perimeter, so that expanding it later becomes an installation rather than a rebuild. As of July 2026 we have four capabilities installed, one in flight and seven proposed. The four that are in:
+1. Knowledge base.
+A method core plus three project profiles, covering spec-driven and test-driven development, review discipline and an explicit statement of where the human decides. We taught it through workshops instead of handing over slides, so the practice transfers to people and outlives the engagement.
+2. AI toolkit.
+We configured the organization’s coding assistant once and shipped it as an internal marketplace plugin, carrying a growing library of scaffolding, security, test and review commands. A single install gives every engineer the org standard.
+3. Velocity Pod.
+An AI-augmented senior engineer sits inside the client team as AI Champion, running a migration off a legacy platform that had outgrown its original architecture, applying the standards on real work in full view rather than advising from outside.
+4. Agentic foundation.
+The first resident agent in the delivery pipeline runs on Fargate and Bedrock and reviews pull requests in an advisory capacity, never merging. Its operating rule is the one that matters for anyone putting an agent near untrusted input: the diff is data, never instructions. The human stays on the merge button.
+Seven more are mapped onto empty sockets, including a code graph for agent context, an LLM gateway for keys, budgets, routing and audit, trace capture, and metadata-only developer telemetry.
+Notice where the control sits in that list. The gateway turns the choice of provider into a routing decision they can change per call, reaching the letter’s own conclusion through infrastructure instead of licensing. Their sovereignty comes from four things: everything runs on their perimeter, every key and budget passes a control plane they own, every agent run is traced and costed, and the developer telemetry is metadata-only by design. Drop an open-weight model into an organization missing those four and you have not made it sovereign, you have made it unmonitored.
+The provenance question survives the whole exercise, though. You can install the practice, own the perimeter and route every call through your own gateway while still having nothing to say about what the model underneath learned from. The gateway gives you the place to record that answer and enforce a policy against it, and somebody on your team still has to write the answer down.
+What we tell clients:
+run the open-weight model, because the benefits the signatories describe hold up. Your data stays inside your perimeter, and no vendor sunsets the model out from under you in eighteen months. Understand the limit of what you have bought, though, because moving the model inside your walls relocates the provenance question without answering it.
+So write the answer down before you ship: what the model is, what the public record says about its training, what nobody outside the lab knows, and which compensating controls cover the gap, meaning the gateway, the traces, the review gate and the human on the merge button. That document costs you an afternoon before launch and a quarter once an auditor has asked for it.
+If you want a second opinion on whether your provenance answer survives an audit, reply with it and we will read it.
+Where the gap is small I will tell you so and it can end there, and where it is not, our two-week diagnostic maps the controls that close it and hands you the memo.
+One slot open this week.
+Book a Discovery Call
+Until next Tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+P.S.
+NVIDIA DGX Spark spark arrived at the office yesterday, we will be testing out open source models and report on it a little later.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"open-source-vs-open-weight","url":"https://thefoundation.limestonedigital.com/p/open-source-vs-open-weight","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/open-source-vs-open-weight"},"headline":"🟪 open source vs open weight","description":"a big difference","datePublished":"2026-07-28T18:26:04.790Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/565e122d-5f28-44c5-b5dc-9597f8542425/playbook-36-open-source-vs-open-weight.png?t=1788796758"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T15:59:20Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/open-source-vs-open-weight","name":"🟪 open source vs open weight"}}]}

@@ -1,0 +1,161 @@
+URL: https://limestonedigital.com/case-studies
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/case-studies
+Content-Type: text/html; charset=UTF-8
+Title: Case Studies - Limestone Digital
+Meta description: See real case studies from Limestone Digital - how AI-native engineering teams help companies build, scale, and modernize faster.
+Canonical: https://limestonedigital.com/case-studies
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Case Studies
+
+Case Studies - Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Case Studies
+Real results from teams we've helped build, scale, and succeed.
+Autonomous AI Voice Agent for RCM: 61,246 Patient Calls
+How Limestone helped a US healthtech company deliver 420+ hours of patient conversations through AI, at $0.071 per connected call.
+Healthcare RCM
+AI Voice Agent
+Autonomous Agents
+Read case study
+Freight Audit & Pay: Legacy to Production in 6 Months
+How AI-augmented engineers rebuilt the invoicing backbone of a U.S. delivery orchestration platform, and kept building.
+Logistics
+FinTech
+Brownfield
+Read case study
+Freight Audit & Pay: Legacy to Production in 6 Months
+How AI-augmented engineers rebuilt the invoicing backbone of a U.S. delivery orchestration platform, and kept building.
+Logistics
+FinTech
+Brownfield
+Read case study
+Prior-Auth Automation: POC to Production
+How Limestone shipped supervised automation inside payer portals for a PE-backed healthcare platform
+Healthcare
+Prior Auth
+Automation
+UX/UI Design
+Read case study
+Funding Infrastructure, Built to Scale
+How Fox Funding replaced manual operations with automated ACH, underwriting, and syndication, inside a live production stack.
+Financial Services
+AI-Driven Development
+Brownfield
+Read case study
+An Affiliate Marketing Platform Built From Scratch
+How Brown Boots went from zero in-house engineering to owning a multi-tenant adtech platform, with one managed delivery team accountable end to end.
+AdTech
+Multi-Tenant SaaS
+Managed Delivery
+Read case study
+Loan Assessment, Automated End to End
+How mBanc replaced a failing vendor and automated application processing, with a 7-developer Limestone team, in a one-year engagement.
+FinTech
+Mortgage Lending
+Managed Delivery
+Read case study
+Ingenetix Quality & Compliance System
+How a Vienna-based IVD manufacturer digitized production and quality control under IVDR and ISO 13485.
+Healthcare
+Biotech / IVD
+Compliance
+Read case study
+46 Years of Access Control, Modernized
+Partners with Sentinel Systems since 2022, Limestone rebuilt Anyware's experience, established reliable delivery, and keeps shipping.
+Access Control
+Self-Storage
+Product Partnership
+Read case study
+Tournament Platform for Rival Games
+From early concept to a production-ready, high-load tournament platform
+E-gaming
+Managed Delivery
+Read case study
+IoT Water Quality Monitoring Platform
+ColiMinder is an IoT solution for water quality monitoring and reflecting probing results in real-time.
+IoT
+Managed Delivery
+Read case study
+Load more
+Testimonials
+What our clients say
+Dee Jay Skinner
+Sentinel Systems
+Testimonial
+Sentinel Systems
+I want to focus on the project, not on managing developers. Limestone handles everything around the team, which makes my job much easier. — Dee Jay Skinner, Chief Technology Officer
+Shane O’Neill
+Prodege
+Testimonial
+Prodege
+As time went on, it was almost zero involvement from me because they were managing everything — just a check-in once in a while to make sure everything was going fine. — Shane O’Neill , Prodege
+Paul Valentine
+Johnson Controls
+Testimonial
+Johnson Controls
+Limestone Digital became an essential part of our development team. — Paul Valentine , Johnson Controls
+Joe Evans & Chris Carroll
+Lab Coat Marketing
+Testimonial
+Lab Coat Marketing
+The Limestone team allows you to be as involved as you want to be — while still having the support in place to get things done — Joe Evans, Co-Founder & CMO, Lab Coat Marketing
+1
+/
+2
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://limestonedigital.com/#person","name":"Limestone Digital"},{"@type":"WebSite","@id":"https://limestonedigital.com/#website","url":"https://limestonedigital.com","name":"Limestone Digital","publisher":{"@id":"https://limestonedigital.com/#person"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg","url":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg","width":"1200","height":"630","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://limestonedigital.com/case-studies#webpage","url":"https://limestonedigital.com/case-studies","name":"Case Studies - Limestone Digital","datePublished":"2026-08-13T15:02:39+00:00","dateModified":"2026-10-23T19:02:13+00:00","isPartOf":{"@id":"https://limestonedigital.com/#website"},"primaryImageOfPage":{"@id":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://limestonedigital.com/author/admin","name":"admin","url":"https://limestonedigital.com/author/admin","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f902dd1057bf13e38c9c605b1c4e57c6f276852284078db49ee1ddcd46b8c705?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/f902dd1057bf13e38c9c605b1c4e57c6f276852284078db49ee1ddcd46b8c705?s=96&amp;d=mm&amp;r=g","caption":"admin","inLanguage":"en-US"},"sameAs":["https://limestonedigital.com"]},{"@type":"Article","headline":"Case Studies - Limestone Digital","datePublished":"2026-08-13T15:02:39+00:00","dateModified":"2026-10-23T19:02:13+00:00","author":{"@id":"https://limestonedigital.com/author/admin","name":"admin"},"publisher":{"@id":"https://limestonedigital.com/#person"},"description":"See real case studies from Limestone Digital - how AI-native engineering teams help companies build, scale, and modernize faster.","name":"Case Studies - Limestone Digital","@id":"https://limestonedigital.com/case-studies#richSnippet","isPartOf":{"@id":"https://limestonedigital.com/case-studies#webpage"},"image":{"@id":"https://limestonedigital.com/wp-content/uploads/2026/09/LimestoneDigital_OpenGraph_v2.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://limestonedigital.com/case-studies#webpage"}}]}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Case Studies","item":"https://limestonedigital.com/case-studies"}]}

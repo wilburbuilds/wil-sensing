@@ -1,0 +1,134 @@
+URL: https://limestonedigital.com/blog/not-every-codebase-deserves-loops
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/not-every-codebase-deserves-loops
+Content-Type: text/html; charset=utf-8
+Title: 🟪 not every codebase deserves loops
+Meta description: AI-powered code loops are accelerating development, but not every legacy codebase is ready. Explore the brownfield problem transforming how teams implement automation.
+Canonical: https://thefoundation.limestonedigital.com/p/not-every-codebase-deserves-loops
+Robots: max-image-preview:large
+H1: 🟪 not every codebase deserves loops | AI Foundation from Limestone Digital
+
+🟪 not every codebase deserves loops
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 not every codebase deserves loops
+🟪 not every codebase deserves loops
+The brownfield problem nobody's talking about.
+Jun 9, 2026
+Reading time: 6 minutes | Issue #29 |
+Book a Call
+Happy Tuesday.
+Mark here. I usually let the team write these. This one's from me directly.
+Peter Steinberger
+posted this
+on Saturday:
+Same week,
+Boris Cherny
+, the creator of Claude Code at Anthropic, said it even more directly:
+"I don't prompt Claude anymore. What I mostly use now is loops. I create loops, they do the rest of my job."
+What neither of them mentioned is what happens when you point those loops at a codebase that's been accumulating shortcuts for a decade.
+Inside the Issue
+Agent loops on greenfield projects are magic. On brownfield projects, they're a copy machine for every mistake your team ever made
+Why your legacy codebase is the actual prompt, and what the agent learns from it when nobody's watching
+Three platform announcements in 14 days: Microsoft made OpenAI optional, Google built an agent stack from scratch, Anthropic nearly tripled in value. What all three mean for your architecture
+Your Brownfield Codebase is the Prompt. The Agent Can't Tell the Good Parts from the Bad.
+An agent loop shipped four features in a week on a client's codebase. Fast. Clean PRs. CI passed. The team was thrilled.
+All four features replicated a security pattern the team had been trying to deprecate for two years.
+The agent didn't make an error. It did exactly what agent loops do. It read the codebase, identified the dominant pattern, and followed it. The dominant pattern happened to be the one the team was migrating away from, because the old pattern existed in 40+ files and the new one existed in 6. From the agent's perspective, the old way was how things were done. It learned the wrong lesson and nobody caught it until a security review two weeks later.
+This is the thing nobody is talking about in the agent loop conversation.
+Steinberger's tweet is right. Boris Cherny is right. Loops are the future.
+But most of the excitement is built on an assumption that the codebase the loop operates on is clean, well-documented, and coherent.
+In other words, greenfield. Most codebases are not greenfield. Most codebases are ten years of accumulated decisions, half of which the current team would reverse if they had the time.
+On a brownfield project, your legacy code becomes the agent's training data. If the code is full of deprecated patterns, undocumented workarounds, and security shortcuts that survived three refactors, the agent treats all of it as "how things are done here." It doesn't distinguish between a pattern your team wrote last month and a pattern your team has been trying to kill since 2022. It just sees frequency.
+I had a conversation with a COO last quarter that reframed how I think about this entirely. His company had started running agent loops on their core product. The agents were productive. Shipping fast. But the output was getting worse in ways that were hard to pinpoint.
+Subtle things: API calls structured in a way the team had moved away from, error handling patterns that worked but violated the newer resilience standards, naming conventions from an era before their current architecture. The agents were learning from the codebase. The codebase was teaching them the wrong things.
+His question stopped me: "We spent three years cleaning up technical debt. Are the agents putting it back?"
+The answer, in his case, was yes. Quietly. Feature by feature. PR by PR. Each one passing CI, each one approved by a reviewer who didn't catch the pattern because it technically worked.
+This is different from the "88% of agents fail to reach production" problem. That's an infrastructure gap. This is worse: agents that reach production and succeed by every visible metric while silently propagating the patterns you've been trying to eliminate. The failure mode isn't a crash. It's regression dressed up as velocity.
+The codebase is the prompt. Step zero is cleaning the prompt.
+When we take on a brownfield engagement, the first thing we do is what we call Step Zero. Before any agent runs, before any loop gets designed, we scan the codebase and produce AI-ready documentation. We map which patterns are current and which are deprecated. We build a structured representation of services, APIs, dependencies, and conventions that tells the agent not just what exists, but what's sanctioned.
+Without Step Zero, you're handing the agent a codebase and saying "learn from this." With ten years of accumulated decisions in that codebase, you're asking the agent to learn from every mistake your team ever made alongside every good decision. The agent can't tell the difference. That's your job. And it has to happen before the first loop runs, not after the security review catches it.
+The observation underneath all of this is simple: on greenfield, the agent's context is whatever you write in the prompt and the system instructions. You control it. On brownfield, the codebase itself becomes the dominant context. It outweighs your prompt. It outweighs your system instructions. If the codebase says "do it the old way" in 40 files and your prompt says "do it the new way" in one paragraph, the agent follows the codebase. The code wins. Every time.
+88% of agent projects fail before production. That number gets cited constantly. But I'm starting to think the scarier number is the percentage that reach production while silently replicating exactly the patterns the team was trying to move away from. Nobody's measuring that yet. I see it in our engagements. The features ship. The velocity looks great. The codebase gets worse.
+Our read:
+The market is obsessed with agent loops. The tweets get millions of views. The excitement is real and it's justified. But almost all of it assumes a clean codebase. The moment you point an agent loop at a real production system with real technical debt, the loop becomes an amplifier. Good codebase, it amplifies good patterns. Bad codebase, it amplifies bad ones. The agent doesn't have an opinion about which is which. That's the part Steinberger's tweet doesn't cover.
+And while your codebase stays the same, everything above it is moving.
+Three platform announcements in 14 days. All three reinforce the same point: the model layer is temporary. Your codebase is permanent. Step Zero matters more than model selection.
+01 Microsoft launched 7 in-house models and made OpenAI optional.
+At Build on June 2, Microsoft unveiled its MAI model family: MAI-Thinking-1 (reasoning), MAI-Code-1-Flash (5B params, 51% SWE Bench Pro at Haiku-class cost), plus image, transcription, and voice models. Independent blind raters preferred MAI over Sonnet 4.6 on quality. Suleyman claimed McKinsey's fine-tuned MAI outperformed GPT-5.5 at 10x better cost efficiency. Background: On April 27, Microsoft restructured its OpenAI deal. Made the IP license non-exclusive, eliminated revenue share, removed the AGI clause, let OpenAI serve customers on any cloud. Microsoft is building its own escape hatch. If you built agent loops on GPT-4 Turbo six months ago, the model underneath is changing. Your loop doesn't change. Your codebase doesn't change. The only stable layer is the one you control.
+Sources:
+CNBC
+,
+Microsoft AI
+,
+Microsoft Blog
+02 Google built an agent platform from scratch. Not a wrapper.
+Antigravity 2.0 shipped at I/O on May 19: standalone desktop app, CLI, SDK, Managed Agents API. ADK 2.0 is a code-first multi-agent framework with graph-based sub-agent hierarchies. Model-agnostic by design. Works with Claude, Cursor, any model on Google Cloud inference. Parallel agent execution, background automation, $100/month AI Ultra plan. Gemini Enterprise Agent Platform sits on top as the governance layer. Google agrees: the infrastructure underneath the loop is the product. But their platform orchestrates agents. It doesn't tell those agents which patterns in your brownfield codebase are deprecated and which are current. That's still your problem.
+Sources:
+Google Developers Blog
+,
+Google Cloud Blog
+03 Anthropic nearly tripled in value in three months. Enterprise is voting with money.
+Series H: $65B raised at a $965B valuation, passing OpenAI's $852B from March. Anthropic was $380B in February. ARR crossed $47B, up from $30B six weeks prior. 300K+ business customers, 80% of revenue from enterprise. 1,000+ customers spending $1M+/year, doubled from 500+ in under two months. Claude Code went from GA to $2.5B ARR in nine months. IPO filed confidentially June 1. Boris Cherny built the product. But Anthropic's infrastructure is what makes his loops safe. That's the gap between his setup and yours.
+Sources:
+CNBC
+,
+Anthropic
+,
+TechCrunch
+The thread connecting all three: Microsoft is decoupling from a single model vendor. Google built model-agnostic agent infrastructure. Anthropic's revenue proves enterprise is already multi-model. The model layer is commoditizing. None of these announcements scan your brownfield codebase. None flag deprecated patterns. None tell the agent what to ignore. The model shifts. The platform shifts. Your codebase stays.
+Download the checklist
++ actionable prompts by clicking
+here
+.
+Before your team designs its first agent loop on an existing codebase, ask one question:
+What's in your codebase that you wouldn't want an agent to learn from?
+If you can't answer that in detail, you're not ready for agent loops.
+You're ready for Step Zero.
+That's the first thing we do on every brownfield engagement.
+Scan the codebase. Document what's current. Flag what's deprecated.
+Build the structured context that tells the agent what to follow and what to ignore.
+It takes two weeks. It prevents months of silent regression.
+Two slots open this month.
+BOOK A CALL →
+Until next Tuesday,
+— Mark Ajzenstadt
+Founder, Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"not-every-codebase-deserves-loops","url":"https://thefoundation.limestonedigital.com/p/not-every-codebase-deserves-loops","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/not-every-codebase-deserves-loops"},"headline":"🟪 not every codebase deserves loops","description":"The brownfield problem nobody's talking about.","datePublished":"2026-06-09T16:42:08.525Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/fb508cff-0bd4-42cf-826a-32de271087cd/playbook-29-not-every-codebase-deserves-loops.png?t=1788797106"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:05:07Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/not-every-codebase-deserves-loops","name":"🟪 not every codebase deserves loops"}}]}

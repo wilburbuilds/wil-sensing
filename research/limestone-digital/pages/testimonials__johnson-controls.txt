@@ -1,0 +1,152 @@
+URL: https://limestonedigital.com/testimonials/johnson-controls
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/testimonials/johnson-controls
+Content-Type: text/html; charset=UTF-8
+Title: Johnson Controls: Industrial Software | Limestone Digital
+Meta description: Johnson Controls modernized its industrial refrigeration control software with Limestone Digital. Paul Valentine on safety-critical delivery since 2022.
+Canonical: https://limestonedigital.com/testimonials/johnson-controls
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Testimonial: Johnson Controls
+
+Johnson Controls: Industrial Software | Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Back to case studies
+Testimonial: Johnson Controls
+A closer look at how our collaboration helped this company achieve meaningful results.
+00:55
+Company
+Johnson Controls
+Dates
+01/2022 – Present
+Services Provided
+Development
+Johnson Controls had a mature hardware platform and software suite for industrial refrigeration control systems, but the software was out of date and required modernization. They engaged an external partner and turned to Limestone Digital for first-class technical support. The collaboration focused on building software for real industrial environments, where quality, security, and reliability are critical due to operational and human risks. Limestone maintained high standards through structured processes and delivered a product that meets their exact needs and can be inserted directly into their production process path with minimal effort — helping the company move forward and continue development.
+Paul Valentine
+Manager of CSD, Johnson Controls
+Limestone Digital became an essential part of our development team.
+— Paul Valentine
+, Johnson Controls
+Engagement overview
+The engagement involved close collaboration with a small internal team, where Limestone Digital contributed not only to development but also to defining detailed requirements and refining the existing system. This included working with an existing codebase and ensuring correct interaction with hardware. The delivery approach evolved over time — starting with a tailored process and gradually transitioning to agile as the client’s internal capabilities matured. Throughout the project, the team adapted to personnel changes and organizational shifts, maintaining continuity and supporting long-term product development.
+Highlights
+Working With the Team
+Limestone worked with the existing codebase and helped refine detailed requirements so the product could interface properly with the hardware, helping a small, stretched team get the project off to a strong start.
+Paul Valentine
+00:55
+Communication & Delivery Model
+The team introduced an adaptable approach, starting with a tailored process and later transitioning to full agile as the client became more experienced.
+Paul Valentine
+01:26
+Positive Surprise
+The biggest surprise was how easy it was to move forward, with Limestone doing the heavy lifting. Despite changes and challenges, the team adapted quickly and kept progress on track
+Paul Valentine
+00:55
+Who This Partnership Is For
+Relevant for smaller teams building products that require strong infrastructure, security, and integration with existing systems.
+Paul Valentine
+01:01
+Summary
+Limestone Digital became an essential part of the development team.
+Paul Valentine
+00:14
+Recommendation
+Recommended for Limestone Digital’s adaptability and ability to bring top-notch developers with the right skills onto the product — a strength described as their superpower.
+Paul Valentine
+00:55
+Client
+About the client — Johnson Controls
+Johnson Controls International
+is a global leader in smart, healthy, and sustainable building technologies and industrial control systems. Through its industrial refrigeration and controls solutions, the company operates software-driven platforms where reliability, safety, and operational precision are essential.
+The biggest surprise was how easy it was to move forward, with Limestone doing the heavy lifting. Despite changes and challenges, the team adapted quickly and kept progress on track.
+— Paul Valentine
+, Johnson Controls
+Contact
+Ready to strengthen your engineering capabilities?
+Leave blank
+Full Name
+Email
+Text
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+
+----- FORMS -----
+Form 1: id= name=tm-contact method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_form_id' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave blank' name='ld_hp' type=text optional placeholder=''
+  field: label='Full Name' name='name' type=text required placeholder='Full name'
+  field: label='Email' name='email' type=email required placeholder='Email address'
+  field: label='Text' name='text' type=textarea required placeholder='Text...'
+  button: LET’S TALK
+
+Form 2: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Johnson Controls","item":"https://limestonedigital.com/testimonials/johnson-controls"}]}
+
+{"@context":"https://schema.org","@type":"Review","reviewBody":"Limestone Digital became an essential part of our development team. — Paul Valentine , Johnson Controls","datePublished":"2026-06-18T09:18:32+00:00","author":{"@type":"Person","name":"Paul Valentine"},"itemReviewed":{"@type":"Organization","@id":"https://limestonedigital.com/#organization","name":"Limestone Digital"},"publisher":{"@type":"Organization","name":"Johnson Controls"}}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Testimonial: Johnson Controls","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/0ee8017a1b0dc2677adc724321f2a49e332a2ecd-1.png","uploadDate":"2026-06-18T09:18:32+00:00","contentUrl":"https://youtu.be/AFNhwnYhbX8","embedUrl":"https://www.youtube.com/embed/AFNhwnYhbX8","description":"A closer look at how our collaboration helped this company achieve meaningful results.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Working With the Team","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/0642fe49c7b7899d66484f0487fdff00064ec86d.png","uploadDate":"2026-06-18T09:18:32+00:00","contentUrl":"https://youtu.be/kKs5jLPJ5MI","embedUrl":"https://www.youtube.com/embed/kKs5jLPJ5MI","description":"Limestone worked with the existing codebase and helped refine detailed requirements so the product could interface properly with the hardware, helping a small, stretched team get the project off to a strong start.","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Communication & Delivery Model","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/bb157d4fb820ac076f3d8b2ae5961c67d0ab3226.png","uploadDate":"2026-06-18T09:18:32+00:00","contentUrl":"https://youtu.be/z58HEc-6vZY","embedUrl":"https://www.youtube.com/embed/z58HEc-6vZY","description":"The team introduced an adaptable approach, starting with a tailored process and later transitioning to full agile as the client became more experienced.","duration":"PT1M26S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Positive Surprise","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/a441ee1b131891e3873f5e7f499b7c3a06985388.png","uploadDate":"2026-06-18T09:18:32+00:00","contentUrl":"https://youtu.be/mHS0k2aQTGg","embedUrl":"https://www.youtube.com/embed/mHS0k2aQTGg","description":"The biggest surprise was how easy it was to move forward, with Limestone doing the heavy lifting. Despite changes and challenges, the team adapted quickly and kept progress on track","duration":"PT0M55S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Who This Partnership Is For","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/000b8d3e7373dbb2e5615045dbd2857380d8f0d6.png","uploadDate":"2026-06-18T09:18:32+00:00","contentUrl":"https://youtu.be/y3Nu9QKgO9Y","embedUrl":"https://www.youtube.com/embed/y3Nu9QKgO9Y","description":"Relevant for smaller teams building products that require strong infrastructure, security, and integration with existing systems.","duration":"PT1M1S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Summary","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/5736643671ef5a20c1f761610164b261bd585eef.png","uploadDate":"2026-06-18T09:18:32+00:00","contentUrl":"https://youtu.be/JZPBpmf1R1Q","embedUrl":"https://www.youtube.com/embed/JZPBpmf1R1Q","description":"Limestone Digital became an essential part of the development team.","duration":"PT0M14S"}
+
+{"@context":"https://schema.org","@type":"VideoObject","name":"Recommendation","thumbnailUrl":"https://limestonedigital.com/wp-content/uploads/2026/06/7733287a7d24755edf4807420c66d721c0db17ef.png","uploadDate":"2026-06-18T09:18:32+00:00","contentUrl":"https://youtu.be/ZqYB5ua35pQ","embedUrl":"https://www.youtube.com/embed/ZqYB5ua35pQ","description":"Recommended for Limestone Digital’s adaptability and ability to bring top-notch developers with the right skills onto the product — a strength described as their superpower.","duration":"PT0M55S"}

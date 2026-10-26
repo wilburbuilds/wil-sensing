@@ -1,0 +1,370 @@
+URL: https://limestonedigital.com/case-studies/voice-agent-rcm
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/case-studies/voice-agent-rcm
+Content-Type: text/html; charset=UTF-8
+Title: Autonomous AI Voice Agent for RCM: 61,246 Patient Calls - Limestone Digital
+Meta description: 
+Canonical: https://limestonedigital.com/case-studies/voice-agent-rcm
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Autonomous AI Voice Agent for RCM: 61,246 Patient Calls
+
+Autonomous AI Voice Agent for RCM: 61,246 Patient Calls - Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Back to Case Studies
+Autonomous AI Voice Agent for RCM: 61,246 Patient Calls
+How Limestone helped a US healthtech company deliver 420+ hours of patient conversations through AI, at $0.071 per connected call.
+Healthcare RCM
+AI Voice Agent
+Autonomous Agents
+Industries
+Healthcare, revenue cycle management
+Platform
+Autonomous patient-balance management across voice, SMS, email and mail
+Delivery scope
+AI voice agents, billing integrations, payments, reconciliation and production operations
+ABOUT THE PROJECT
+Project overview
+Engagement
+August 2025 — ongoing
+Delivery team
+1 senior AI engineer, plus advisory and delivery lead
+Core technologies
+Python, FastAPI, PostgreSQL, Next.js, realtime AI voice agents
+The client is a US healthcare technology company building autonomous agents to manage patient balances: explain the bill, follow up, arrange payment and reconcile it back to the provider’s system.
+Limestone joined at discovery and architecture. Fifteen weeks later, the first production outreach went live. The first autonomous patient call followed three days later.
+By September 2026, the platform was managing 25,338 balances for 11,939 patients, with voice, payments and the financial controls underneath them running in production.
+The Challenge
+Make patient follow-up economical, without compromising the patient or the books.
+Small balances. Expensive follow-up.
+Billing teams worked patient lists manually, or stopped after the first statement. Every question added another call, callback or handoff. Consistent phone outreach was difficult to justify on small balances.
+Every billing system worked differently.
+Patient context was spread across billing platforms, insurance responses and payment records. Some systems offered APIs; others offered report exports. The agent needed a reliable, complete picture.
+Real money left no room for approximation.
+A successful conversation had to become a correctly allocated payment. Retries could not create duplicate actions. The processor, internal ledger and provider’s billing system all had to agree.
+Patient trust was part of the product.
+The agent spoke on the provider’s behalf in a HIPAA-scoped environment. It had to verify identity, respect consent and quiet hours, and stop when a dispute or request for a human required staff attention.
+WHY LIMESTONE
+One team accountable for the whole system.
+The client needed an engineering partner that could take the product from architecture to live patient operations. An AI voice agent was only one part of the work. Limestone’s scope also covered billing integrations, payments, reconciliation, safeguards and the operations console. We built alongside the client’s technical leadership and kept shipping through a shared repository, protected branches and mandatory quality gates.
+WHAT WE BUILT
+Solution
+The AI voice agent, and the production system underneath it. Autonomous patient conversations connected to billing data, payments and reconciliation, with explicit rules for when a human takes over.
+Autonomous AI Voice Agents
+Outbound billing calls, inbound answers and a dedicated scheduling line. Agents verify identity, explain balances, send payment links and arrange payment plans during the conversation.
+One Case, Every Channel
+Calls, texts and emails use the same patient context: charges, insurance, payments and conversation history. A returning patient can continue where the last conversation ended.
+Billing System Integrations
+REST, FHIR, SOAP and file-based ingestion behind one interface. Malformed records are quarantined, discrepancies are surfaced, and agent notes write back to the provider’s chart.
+Payments & Reconciliation
+Payment links, installments and processor routing connect to exact-decimal accounting and a double-entry ledger. Payments allocate to charge lines; drift checks flag disagreement.
+Outreach That Adapts
+Agents regenerate follow-up when a balance changes. The system cancelled 658,657 scheduled actions before sending, overwhelmingly after a payment, dispute or other change in state.
+Closed-Loop Self-Improvement
+Three AI judges review voice, messaging and patient outcomes, proposing prompt, code and architecture changes for human approval. A separate judge checks new conversations to verify that fixes worked.
+INSIDE A HIPAA-SCOPED PRODUCTION ENVIRONMENT
+Autonomous where it can act. Human intervention where it must stop.
+The AI voice agent verifies patient identity, respects consent and calling hours, and prevents duplicate charges or bookings. Disputes, withdrawn consent, legal concerns or requests for a person pause outreach and bring in staff with the full case history. Call limits and failure alerts keep operations controlled, while testing stays separate from real patient records. Patient information is handled under Business Associate Agreements, with an audit trail and no health information in technical logs.
+DELIVERY TIMELINE
+Fifteen weeks to production outreach. Then autonomous patient calls.
+Discovery began in August 2025. First outreach went live on 4 December; the first autonomous call followed on 7 December. The platform has continued shipping since.
+AUG 2025
+Discovery & Architecture
+Define the agent, integration and financial foundations.
+4-7 DEC 2025
+First Live Outreach & Voice
+Production messages, then the first autonomous patient call.
+JAN 2026
+Commercial Launch
+Inbound voice answers patients when they call back.
+JUL 2026
+Scheduling & Cost Reduction
+Dedicated scheduling agent; average messaging cost cut 18%.
+SEP 2026
+61,246 Voice Calls
+420 hours of patient conversation; 25,338 balances managed.
+HOW IT STAYED TRUSTWORTHY
+Every action leaves evidence.
+FINANCIAL CORRECTNESS
+The books have to agree.
+Exact-decimal money handling, charge-line allocation and double-entry ledgers sit beneath the agent. Drift detectors flag mismatches. Corrective jobs refuse to run until reconciliation checks pass.
+PATIENT PROTECTION
+Escalation is built into the workflow.
+The agent verifies identity before disclosure and stops for disputes, consent changes or requests for a person. Staff receive the full history. Consent, disclosure and operational actions are recorded.
+CONTINUOUS AI EVALUATION
+The system reviews what it said.
+AI audits complete communication chains and proposes prompt, code and architecture changes. Humans triage the proposals. A separate judge checks post-change conversations to verify fixes.
+AUTOMATED TESTS PROTECTING PRODUCTION CHANGES
+13,650
+PRODUCTION AUDIT-LOG RECORDS
+6.36M
+IMPROVEMENT PROPOSALS GENERATED FOR HUMAN TRIAGE
+261
+Impact & Results
+Patient conversations handled. Operating costs reduced. Production outcomes measured.
+✓
+61,246 autonomous AI voice calls, including 21,767 connected conversations and 420 hours of talk time. The platform handles outbound billing calls, inbound questions and appointment scheduling.
+✓
+Around 97% of patient conversations complete without human involvement across voice and messaging. Exceptions pause outreach and route to staff with the case history attached.
+✓
+$0.071 recorded average telephony and model cost per connected call.
+✓
+18% lower average cost per message after one engineering change. Character sanitization and shorter SMS templates reduced message segmentation, measured across 41,278 messages before and 38,316 after.
+✓
+18,194 balances reached zero; 73% of resolved balances closed within 14 days. Zero-balance outcomes include insurance re-adjudication and other adjustments, as well as patient payments.
+✓
+Sixfold growth in monthly communications, from 8,514 to 51,927. Over the reported period, the scheduled-job system recorded 955,633 runs and 10 failures.
+Patient conversation delivered by AI across 21,767 connected calls
+420 hrs
+Recorded telephony and model inference cost per connected call
+$0.071
+Reduction in average messaging cost, before and after July 2026
+18%
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+[CLOSE]
+ENGINEERS, NOT CONSULTANTS
+Ready to move? Let's scope the work.
+Find out what it would take to solve your problem, and what it could cost.
+01
+Tell us what needs fixing.
+02
+Book a free assessment.
+03
+Discuss approach, cost and timing.
+Book a Free Assessment
+*About 2 minutes · No commitment
+Leave this field empty
+THE PROBLEM
+1 / 7
+What do you want to make happen?
+Choose the closest fit. We'll get into the details next.
+A
+Automate manual work with agents
+B
+Get an AI pilot into production
+C
+Build an AI feature or product
+D
+Ship software faster
+E
+Get our teams using AI properly
+F
+Find the right place to start
+THE PROBLEM
+2 / 7
+Tell us about the problem.
+What happens today, what's getting in the way, and what would better look like?
+The problem and the result you want
+Tell us a little more so we can understand the problem (at least 20 characters).
+A few sentences is enough. Please leave out confidential data.
+0/2,000
+YOUR BUSINESS
+3 / 7
+A little context about your business.
+This helps us bring the right experience to the conversation.
+Your role
+Select an option
+Founder / CEO
+CTO, CPTO or VP Engineering / Product
+COO, operations or compliance leader
+CFO / financial leader
+Engineering or product manager
+Engineer / individual contributor
+PE firm (operating partner, value creation)
+Other
+Your industry
+Select an option
+Healthcare
+Insurance
+Financial Services
+Logistics & transportation
+Software & technology
+Manufacturing & industrial
+Retail & e-commerce
+Professional services
+Private equity & VC
+Other
+YOUR BUSINESS
+4 / 7
+What size of business are we working with?
+A rough range is plenty. Annual revenue in USD or the equivalent.
+Annual company revenue (USD)
+Select an option
+Under $5M
+$5M-$25M
+$25M-$100M
+$100M-$500M
+$500M+
+Pre-revenue
+Prefer not to say
+Number of employees
+Select an option
+1-5
+5-25
+25-50
+50-100
+100-500
+500-1000
+1000+
+If you represent a portfolio, answer for the company this project is for.
+THE PROJECT
+5 / 7
+How close are you to making a move?
+A working pilot and a first idea need different next steps.
+Where are you today?
+Select an option
+Exploring the opportunity
+We have a defined problem
+A pilot is already running
+We need to improve a live system
+When would you like to start?
+Select an option
+Ready to start now
+Within 1–3 months
+Within 3–6 months
+Exploring, no deadline yet
+THE PROJECT
+6 / 7
+Have you set an investment range?
+For an initial implementation, in USD. It's fine if you need our help to work this out.
+A
+Under $25K
+B
+$25K–$75K
+C
+$75K–$150K
+D
+$150K+
+E
+We need your guidance
+YOUR DETAILS
+7 / 7
+Who should we speak with?
+Your details and answers help us prepare for your free assessment.
+Your name
+Company name
+Work email
+Company website (optional)
+Review your answers
++
+Goal
+Edit
+Problem
+Edit
+Role
+Edit
+Industry
+Edit
+Annual revenue
+Edit
+Employees
+Edit
+Stage
+Edit
+Timeline
+Edit
+Investment range
+Edit
+By continuing, you're asking Limestone Digital to contact you about this project.
+Back
+Continue
+Your brief is in. Choose a time.
+Book your free assessment with Mark to discuss the approach, likely cost and how soon we could start.
+Mark Ajzenstadt
+Founder, Limestone Digital
+Choose a time
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+Form 2: id=ld-fac-form name= method= action=
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='A Automate manual work with agents' name='requested_service' type=radio optional placeholder='' value='AI Agents'
+  field: label='B Get an AI pilot into production' name='requested_service' type=radio optional placeholder='' value='AI pilot to production'
+  field: label='C Build an AI feature or product' name='requested_service' type=radio optional placeholder='' value='Build AI feature/product'
+  field: label='D Ship software faster' name='requested_service' type=radio optional placeholder='' value='AI SDLC'
+  field: label='E Get our teams using AI properly' name='requested_service' type=radio optional placeholder='' value='AI enablement'
+  field: label='F Find the right place to start' name='requested_service' type=radio optional placeholder='' value='Other (Not Sure)'
+  field: label='The problem and the result you want' name='problem_description' type=textarea optional placeholder='For example: our operations team spends hours re-entering claims between systems. We want to reduce the manual work without losing human review.'
+  field: label='Your role' name='job_title_v2_simplified' type=select required placeholder='' options=[=Select an option | Founder / CEO=Founder / CEO | CTO, CPTO or VP Engineering / Product=CTO, CPTO or VP Engineering / Product | COO, operations or compliance leader=COO, operations or compliance leader | CFO / financial leader=CFO / financial leader | Engineering or product manager=Engineering or product manager | Engineer / individual contributor=Engineer / individual contributor | PE firm (operating partner, value creation)=PE firm (operating partner, value creation) | Other=Other]
+  field: label='Your industry' name='industry_v2_simplified' type=select required placeholder='' options=[=Select an option | Healthcare=Healthcare | Insurance=Insurance | Financial Services=Financial Services | Logistics & transportation=Logistics & transportation | Software & technology=Software & technology | Manufacturing & industrial=Manufacturing & industrial | Retail & e-commerce=Retail & e-commerce | Professional services=Professional services | Private equity & VC=Private equity & VC | Other=Other]
+  field: label='Annual company revenue (USD)' name='annual_revenue_v2_website_form' type=select required placeholder='' options=[=Select an option | Under $5M=Under $5M | $5M-$25M=$5M-$25M | $25M-$100M=$25M-$100M | $100M-$500M=$100M-$500M | $500M+=$500M+ | Pre-revenue=Pre-revenue | Prefer not to say=Prefer not to say]
+  field: label='Number of employees' name='numemployees' type=select required placeholder='' options=[=Select an option | 1-5=1-5 | 5-25=5-25 | 25-50=25-50 | 50-100=50-100 | 100-500=100-500 | 500-1000=500-1000 | 1000+=1000+]
+  field: label='Where are you today?' name='project_stage' type=select required placeholder='' options=[=Select an option | Exploring the opportunity=Exploring the opportunity | We have a defined problem=We have a defined problem | A pilot is already running=A pilot is already running | We need to improve a live system=We need to improve a live system]
+  field: label='When would you like to start?' name='start_timeline' type=select required placeholder='' options=[=Select an option | Ready to start now=Ready to start now | Within 1–3 months=Within 1–3 months | Within 3–6 months=Within 3–6 months | Exploring, no deadline yet=Exploring, no deadline yet]
+  field: label='A Under $25K' name='investment_range' type=radio optional placeholder='' value='Under $25K'
+  field: label='B $25K–$75K' name='investment_range' type=radio optional placeholder='' value='$25K–$75K'
+  field: label='C $75K–$150K' name='investment_range' type=radio optional placeholder='' value='$75K–$150K'
+  field: label='D $150K+' name='investment_range' type=radio optional placeholder='' value='$150K+'
+  field: label='E We need your guidance' name='investment_range' type=radio optional placeholder='' value='We need your guidance'
+  field: label='Your name' name='' type=text required placeholder='Alex Morgan'
+  field: label='' name='firstname' type=hidden optional placeholder=''
+  field: label='' name='lastname' type=hidden optional placeholder=''
+  field: label='Company name' name='company' type=text optional placeholder='Your company'
+  field: label='Work email' name='email' type=email required placeholder='alex@company.com'
+  field: label='Company website (optional)' name='website' type=text optional placeholder='company.com'
+  button: Review your answers +
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Back
+  button: Continue
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Autonomous AI Voice Agent for RCM: 61,246 Patient Calls","item":"https://limestonedigital.com/case-studies/voice-agent-rcm"}]}
+
+{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://limestonedigital.com/case-studies/voice-agent-rcm"},"headline":"Autonomous AI Voice Agent for RCM: 61,246 Patient Calls","datePublished":"2026-09-30T14:59:22+00:00","dateModified":"2026-10-23T19:02:30+00:00","publisher":{"@id":"https://limestonedigital.com/#organization"},"author":{"@id":"https://limestonedigital.com/#organization"},"description":"How Limestone helped a US healthtech company deliver 420+ hours of patient conversations through AI, at $0.071 per connected call.","image":"https://limestonedigital.com/wp-content/uploads/2026/09/hero-dashboard.png"}

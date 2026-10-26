@@ -1,0 +1,145 @@
+URL: https://limestonedigital.com/blog/ai-readiness-data-audit-guide
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/blog/ai-readiness-data-audit-guide
+Content-Type: text/html; charset=UTF-8
+Title: How to Prepare Your Data Foundation for AI
+Meta description: Only 10–20% of companies are AI-ready. Learn how auditing and unifying your data foundation sets your organization up for success.
+Canonical: https://limestonedigital.com/blog/ai-readiness-data-audit-guide
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: How to Prepare Your Data Foundation for AI
+
+How to Prepare Your Data Foundation for AI
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+←
+Back to Blog
+How to Prepare Your Data Foundation for AI
+Only 10–20% of companies are AI-ready. Learn how auditing and unifying your data foundation sets your organization up for success.
+6-MINUTE READ
+AUGUST 12, 2025
+What's on this page
+Building your dream home on a flawed foundation
+Getting your data foundation right is personal
+How to get ready for AI in four steps
+Victory in the AI arena
+AI is everywhere, and mid-market companies must seize the opportunity. Otherwise, they’ll get left behind.
+But the reality, according to Limestone founder and chairman Mark Ajzenstadt, is that only about 10%–20% of companies are truly AI-ready. Research from Precisely and Drexel University shows that only 12% of organizations report that their data is of sufficient quality and accessibility for AI.
+For most, the biggest obstacle to AI implementation isn’t their technology — it’s their foundation. AI is only as good as the data it’s built on, and organizations that lack a unified data infrastructure won’t reap the competitive benefits of AI.
+Over his years guiding organizations through digital transformation challenges, Mark has developed an effective method for laying a stronger foundation. It all starts with feeding a single prompt to an AI assistant.
+Key takeaways:
+Organizations are rushing toward AI with fragmented data foundations, setting themselves up to miss out on the competitive benefits it provides.
+Business leaders should simulate business-like workflows using an AI assistant to better understand the breakdown.
+Armed with this knowledge, organizations can more effectively audit their data infrastructure and prepare for AI implementation.
+Building your dream home on a flawed foundation
+Mid-market companies are experiencing intense AI FOMO. Under pressure to adapt or die, Mark observes that companies across industries are moving to implement AI quickly.
+However, business leaders often confuse the capabilities of personal AI assistants, like ChatGPT, with what’s possible for their broader organization.
+AI assistants perform well when given isolated tasks, like summarizing a single document or article. This performance creates an illusion of scalability, obscuring how difficult it is to apply AI to more complex business processes, like inventory and supply chain management.
+As a result, many organizations rush toward AI implementation without understanding that they need to adjust their data infrastructure first. But without a connected data foundation, AI simply won’t have the queryable, contextual data it needs to function properly at the organizational level.
+This is complicated by the fact that, for many organizations, data is highly fragmented. “When you have scattered data, you can’t really access everything you’ve collected,” Mark explains. “You can’t build anything smart on top of it.”
+Building on unstable ground is like trying to run the latest software on a computer from 1995. No matter how good the new product is, with outdated infrastructure, the whole thing crashes.
+Getting your data foundation right is personal
+To address the gaps in their data foundation and prepare to deploy AI, organizations first need a concrete understanding of what those gaps are and why they are a problem.
+Mark advises business leaders to start with personal AI experimentation, using an AI assistant to help conduct a business-like workflow: “For somebody that wants to use AI in the business and thinks that it’s doable with no foundation, I’d suggest that they try to use AI to assist with something that would require a deterministic state.”
+In other words, experiment with AI assistance on tasks that require remembering and building on previous work. (More examples of this in the section below.)
+This allows leaders to personally encounter the same data connectivity challenges that will inhibit organizational AI deployment. They’ll get firsthand insight into the issues that arise when AI encounters their fragmented data environments, while avoiding real-world consequences.
+How to get ready for AI in four steps
+1. Use an AI assistant to simulate a business-like workflow
+Organizations should begin by having leaders experiment with AI tools to see how they maintain and update information across multiple interactions. This will test how AI handles critical business processes, where current tasks don’t occur in isolation but rather depend on accessing and building upon previous information.
+For example, Mark recommends a transcript management exercise:
+Upload five meeting transcripts to ChatGPT and request summaries in a specific tone, format, and length.
+Instruct AI to output the summaries in a table with defined columns: Date, Topic, Summary, Tone.
+Ask AI to generate a changelog that will track all modifications to this table.
+Later, upload five additional transcripts, asking ChatGPT to update the existing table and changelog.
+2. Document where AI breaks down
+Organizations should record every breakdown during the transcript exercise, paying close attention to where AI becomes unreliable.
+Mark notes that organizations will discover that an LLM cannot reliably maintain information between conversations without additional tooling in place.
+For example, without constant reminders, the AI might switch between different table layouts each time it’s asked to update the table. It might add a new column, like meeting location, or switch the format of dates from “3/22/2025” to “March 22, 2025.” The user might also find that the AI hallucinated, reporting changes that sound plausible but never happened.
+Effectively, each new turn or session is like working with a new assistant who has never seen your work before.
+3. Audit data infrastructure to understand fragmentation
+Once they have a preview of the reliability issues that may emerge with AI, organizations should audit their own data infrastructure to see how fragmented it has become.
+Mark and the team at Limestone have discovered that the average mid-market company is working with anywhere between 7 and 12 disconnected systems.
+Implementing AI on top of a disconnected foundation will only amplify reliability problems at enterprise scale. Incorrect, inconsistent results will not only inhibit effective decision-making for organizational users but also undermine their trust in AI.
+4. Build unified data infrastructure to give AI what it needs
+Following the audit of their data architecture, organizations should focus on the core infrastructure changes required for implementation.
+At the heart of this transformation, Mark shares that organizations must establish data pipelines that automatically consolidate data into a centralized repository, such as a data lake. He also emphasizes the importance of implementing vector database capabilities. These core components work together to create unified, consistent, and accessible data, helping to provide AI with the business context required to function reliably.
+While traditional data transformation initiatives can stretch across months of complex planning and execution, Mark highlights that a focused approach can help tackle these foundational challenges in a fraction of the time. For example, Limestone works with clients to tackle these tasks in 4–6 week sprints to accelerate the path to AI readiness. Unlike traditional consultants who take 3-4 months just for assessment, Limestone delivers working infrastructure in the time it takes others to write a proposal.
+Victory in the AI arena
+The pressure to implement AI is high — but organizations should not let the urgency rush them into improper implementation. A job done quickly but wrong is still a job done wrong.
+If organizations can create a connected data foundation, their AI tools will be more reliable across the business, fed by unified and consistent data.
+But leave fragmentation unchecked, and deploying AI across enterprise systems will inevitably fail, wasting significant time and investment dollars. Meanwhile, more foundationally sound competitors will enjoy immediate operational improvements and surge ahead.
+In the AI era, the future belongs to those who build on solid foundations. Start building yours today.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+[CLOSE]
+THE AI FOUNDATION | NEWSLETTER
+Struggling with enterprise AI?
+Subscribe to get hands-on enterprise AI implementation tips, workflows, and news, every week.
+3000+
+decision makers read it to ship smarter and faster.
+Leave this field empty
+Work Email
+Subscribe
+One email a week. Unsubscribe anytime.
+You're in.
+Hands-on enterprise AI tips and workflows, in your inbox every week. The next issue is already on its way.
+Written by the team that ships it. Not a content farm.
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+Form 2: id=ld-nlp-form name= method= action=
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Work Email' name='email' type=email required placeholder='Work email'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://limestonedigital.com/blog"},{"@type":"ListItem","position":3,"name":"How to Prepare Your Data Foundation for AI","item":"https://limestonedigital.com/blog/ai-readiness-data-audit-guide"}]}
+
+{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://limestonedigital.com/blog/ai-readiness-data-audit-guide"},"headline":"How to Prepare Your Data Foundation for AI","datePublished":"2025-08-12T00:00:00+00:00","dateModified":"2026-10-23T19:02:31+00:00","author":{"@type":"Person","name":"Alexandra Korneyeva"},"publisher":{"@id":"https://limestonedigital.com/#organization"},"description":"Only 10–20% of companies are AI-ready. Learn how auditing and unifying your data foundation sets your organization up for success.","image":"https://limestonedigital.com/wp-content/uploads/2025/08/68a7323d5a3863b03bb30dfb_3-4.png"}

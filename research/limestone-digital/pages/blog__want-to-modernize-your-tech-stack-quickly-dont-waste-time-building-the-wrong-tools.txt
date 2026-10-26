@@ -1,0 +1,145 @@
+URL: https://limestonedigital.com/blog/want-to-modernize-your-tech-stack-quickly-dont-waste-time-building-the-wrong-tools
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/blog/want-to-modernize-your-tech-stack-quickly-dont-waste-time-building-the-wrong-tools
+Content-Type: text/html; charset=UTF-8
+Title: Tech Stack Modernization: Build the Right Tools, Fast
+Meta description: Speed kills adoption when discovery gets skipped. Limestone's UX lead on involving designers early and validating rough sketches before anyone builds.
+Canonical: https://limestonedigital.com/blog/want-to-modernize-your-tech-stack-quickly-dont-waste-time-building-the-wrong-tools
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Want to Modernize Your Tech Stack Quickly? Don’t Waste Time Building the Wrong Tools
+
+Tech Stack Modernization: Build the Right Tools, Fast
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+←
+Back to Blog
+Want to Modernize Your Tech Stack Quickly? Don’t Waste Time Building the Wrong Tools
+Involving UX/UI designers early in software modernization ensures teams build tools users actually need. Design-led discovery uncovers critical workflows, validates...
+6-MINUTE READ
+SEPTEMBER 9, 2025
+What's on this page
+Design as discovery, not decoration
+How to use design for discovery in software modernization
+Build the right solution the first time
+What do your users actually need?
+When teams lock in feature lists based on user requests without truly understanding what those users need, systems don’t work for users down the road. This requires product teams to spend additional time rolling back changes and reworking the solution.
+Anastasia recalls a project she worked on where a client came in wanting a complex dashboard packed with more than a dozen different metrics. Her team built it based on the requirements they were given, only to discover that end-users didn’t actually want all of that noise. They really just needed a few metrics relevant to their role.
+Design as discovery, not decoration
+Before building anything, product teams need to go beyond what users want to find out what they actually need.
+Anastasia and the team at Limestone have found a way to do just that, without sacrificing speed: They bring UX/UI designers into the discovery process so that it feels more active and directional.
+“People often can’t articulate what they really need until they see and interact with something tangible,” Anastasia shares. But instead of drawing out this clarity with a finished product, she notes that the Limestone team uses rough sketches.
+They give users a sense of what the interface layout might look like and how it will impact their workflows (for better or worse). And the rough nature of the designs allows the team to iterate quickly based on user feedback.
+The result is a validated concept that the team can build with confidence.
+Anastasia breaks down Limestone’s design-led discovery process into four key steps.
+How to use design for discovery in software modernization
+Step 1: Write down what you already know
+Product teams should start software modernization projects by documenting the basics: “It can be the business goals, it can be existing pain points, some user insights, if we have them,” Anastasia says.
+Product teams should get themselves up to speed on details like:
+What’s the budget for the project?
+How much time has been allotted for it?
+What pain points are associated with the existing system?
+What goals are users looking to achieve with the updated system?
+Step 2: Pick the most critical workflows
+Next, teams need to evaluate the tasks users will perform using the new system.
+Instead of trying to design the new system around all possible workflows, teams should prioritize the most critical ones that are currently causing problems. The success of the project is ultimately linked to the functionality of these workflows. If they continue to create friction, people will avoid using the new system and try to work around it.
+Anastasia notes that the Limestone team looks for “two to three core user journeys that will make or break adoption.” When working on a self-storage platform project, for example, they decided to prioritize streamlining the unit check-in process. The complexity of the existing workflow (which involved multiple programs and screens) was creating headaches for users, resulting in costly errors and delays during peak hours.
+Step 3: Create rough low- to mid-fidelity wireframes of different screens
+Once teams identify critical workflows, UX/UI designers should produce 3–5 low- to mid-fidelity wireframes that help conceptualize how the new system could handle those tasks. Keeping the wireframes basic is helpful, as it forces people to focus on whether the process makes sense, rather than on non-critical aesthetic details.
+“We learn to embrace imperfection. Sometimes even the rough sketch can get better feedback than the polished prototype,” says Anastasia. “When we present a really polished prototype early, stakeholders focus on things that are not important at that point in time. For example, shapes, fonts, colors, and so on.”
+Step 4: Test interactive prototypes with real users
+Lastly, UX/UI designers should turn their best sketches into clickable versions and watch real users try to go through the motions of different workflows.
+“Then ideally, we test them with real users, focusing on whether the flow feels intuitive,” Anastasia describes. This helps the team validate the functionality of the new tool before committing full development resources to building it.
+Build the right solution the first time
+When UX/UI designers are involved in discovery, it starts to feel more like product building. Product teams can still move quickly. And it also helps them prevent costly rebuilds later, as rapid design iteration allows them to iron out any kinks before moving into full-blown development.
+By following the process above, Anastasia’s team turned a complex and unintuitive self-storage platform into a tool that people actually wanted to use.
+Initially, users needed to juggle between several different screens just to complete a single task. Following a design-led shift to a cloud-based solution, users were able to move through their workflows in just a few clicks, making the solution far more compelling to use.
+“Adoption jumped to around 80% within our first few months,” Anastasia shares. “And the platform became a trusted tool, which was our goal.”
+The impact of the solution extended beyond increased efficiency and reduced error. It also granted leadership access to accurate and real-time data across all locations. Reflecting on the improvement, Anastasia shares, “This was essential for making data-driven decisions and scaling the business.”
+When mid-market companies want to modernize their software systems, moving fast is the top priority.
+But if those new systems aren’t intuitive, users won’t adopt them, defeating the purpose of building them in the first place.
+This puts product teams, in-house or external, in a tricky position. Under pressure to deliver working solutions yesterday, many rush through discovery to kickstart development. However, this often results in poor user adoption and costly redesigns, which only lengthen the timeline.
+Anastasia Milokhina has spent five years navigating this challenge at Limestone Digital, the last three as the UX/UI design team lead. At Limestone, she has worked on numerous modernization projects for various clients, and she’s learned that it is possible to move through discovery quickly without compromising quality. To pull it off, UX/UI designers need to be directly involved in the process, so it feels less like traditional discovery and more like active product building.
+Key Takeaways:
+Rushing through software modernization with a misunderstanding of user workflows leads to poor adoption and costly rebuilds.
+Involving UX/UI designers early in discovery allows product teams to learn what users actually need before building anything.
+Testing rough sketches of new interfaces with real users can help product teams validate concepts before moving to full development.
+What do your users actually need?
+Companies need to modernize their software systems because their legacy tech stacks are causing major headaches. They force users to juggle several disconnected systems with complex interfaces and unintuitive workflows.
+“Unfortunately, it’s very common. I would say we can see it almost everywhere,” Anastasia explains.
+And the pressure to move is palpable. With every minute they spend waiting, frustration builds internally. Meanwhile, they fall further behind their more agile competitors who are already taking advantage of all the efficiencies new solutions have to offer.
+“Stakeholders want something that’s working yesterday, and the budget often reflects that urgency as well,” says Anastasia, reflecting on the high-pressure situation. “The temptation always is to skip research, or cut the corners on design.”
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+[CLOSE]
+THE AI FOUNDATION | NEWSLETTER
+Struggling with enterprise AI?
+Subscribe to get hands-on enterprise AI implementation tips, workflows, and news, every week.
+3000+
+decision makers read it to ship smarter and faster.
+Leave this field empty
+Work Email
+Subscribe
+One email a week. Unsubscribe anytime.
+You're in.
+Hands-on enterprise AI tips and workflows, in your inbox every week. The next issue is already on its way.
+Written by the team that ships it. Not a content farm.
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+Form 2: id=ld-nlp-form name= method= action=
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Work Email' name='email' type=email required placeholder='Work email'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://limestonedigital.com/blog"},{"@type":"ListItem","position":3,"name":"Want to Modernize Your Tech Stack Quickly? Don&#8217;t Waste Time Building the Wrong Tools","item":"https://limestonedigital.com/blog/want-to-modernize-your-tech-stack-quickly-dont-waste-time-building-the-wrong-tools"}]}
+
+{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://limestonedigital.com/blog/want-to-modernize-your-tech-stack-quickly-dont-waste-time-building-the-wrong-tools"},"headline":"Want to Modernize Your Tech Stack Quickly? Don&#8217;t Waste Time Building the Wrong Tools","datePublished":"2025-09-09T00:00:00+00:00","dateModified":"2026-10-23T19:02:31+00:00","author":{"@type":"Person","name":"Alexandra Korneyeva"},"publisher":{"@id":"https://limestonedigital.com/#organization"},"description":"Involving UX/UI designers early in software modernization ensures teams build tools users actually need. Design-led discovery uncovers critical workflows, validates...","image":"https://limestonedigital.com/wp-content/uploads/2025/09/68c05036c8d5cc49463cb6b0_Thumbnails_5_playbook.png"}

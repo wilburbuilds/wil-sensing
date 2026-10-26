@@ -1,0 +1,93 @@
+URL: https://limestonedigital.com/blog/your-integration-strategy-is-broken
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/your-integration-strategy-is-broken
+Content-Type: text/html; charset=utf-8
+Title: Your integration strategy is broken
+Meta description: Question-first data integration approach generated 18-22x ROI. Learn how to transform acquisitions without expensive system replacements.
+Canonical: https://thefoundation.limestonedigital.com/p/your-integration-strategy-is-broken
+Robots: max-image-preview:large
+H1: Your integration strategy is broken | AI Foundation from Limestone Digital
+
+Your integration strategy is broken
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+Your integration strategy is broken
+Your integration strategy is broken
+Episode 7
+Oct 7, 2025
+Hi there,
+You just spent millions integrating your acquired companies, but they still can't work together effectively. What’s the fix?
+Most executives think the solution is replacing all their systems with one unified platform. But what if the real problem isn't technical at all?
+This week, we're exploring how one private equity investor turned a tangled logistics mess into a strategic powerhouse—without ripping out a single operational system.
+Keep reading to discover why starting with questions, not technology, might be the key to unlocking your data's true value.
+Inside the Issue
+The Practical Toolkit:
+Data integration to accelerate your growth.
+Industry Radar:
+The latest in coding and AI.
+Field Notes:
+Turning data into value.
+The Practical Toolkit
+Most mid-market companies think data integration means expensive ERP replacements and endless mapping exercises. They're wrong—and it's costing them millions.
+Jeff Spence, a private equity investor with 25+ years of experience, discovered this firsthand at a €100M Scandinavian logistics company. The business was built as a roll-up of different transportation companies, each profitable on their own. But they couldn't function as an integrated business.
+"The data was completely just wonky and destructive," Jeff explains. "The company was successful only because it was extremely well managed—basically chaperoned."
+The individual companies operated different systems with unique data structures. No data synchronicity existed across units. They couldn't create integrated products or win larger contracts requiring multi-modal transportation.
+Instead of replacing their systems, Jeff's team tried something different: a question-first approach to integration.
+First, they defined what the unified company should become—without considering current technical limitations. Then they challenged each business unit with identical strategic questions, forcing them to find ways to answer using their existing systems.
+Rather than forcing system replacement, they built APIs and integration tools that preserved operational excellence while enabling cross-unit data sharing.
+Once the foundation was set, the company pivoted to specialty shipping—pharmaceuticals requiring refrigeration, scientific equipment needing precise tracking. They could suddenly win contracts "an order of magnitude larger than any of the groups had ever done."
+The financial impact was staggering: their €8M transformation investment generated €150-175M in value over five years—an 18-22x return.
+Stop thinking about data integration as a technical problem. Start with strategic questions about what your unified business should accomplish, then work backward to the data requirements.
+Get the complete four-step framework in our latest playbook.
+Industry Radar
+A Python Tutorial to evaluate customer emails by topic (
+Towards Data Science
+)
+How AI is helping collective decision making flourish (
+Harvard Business Review
+)
+Field Notes
+Effective data integration starts with strategy, not technology. By focusing on strategic questions, simplifying workflows, and connecting existing systems, organizations improve adoption, enhance data quality, and unlock new capabilities. This human-centered, question-first approach turns data from a tracking tool into a strategic asset—without costly system replacements.
+Thank you for joining us for another edition of The Foundation.
+You’ll hear from us again in two weeks, with more insights from the industry experts.
+Want to discover how we’re helping organizations activate their data? Contact us today.
+Book a Call
+P.S. We want to make sure this newsletter hits the mark. So reply to this email and let us know what you think.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"your-integration-strategy-is-broken","url":"https://thefoundation.limestonedigital.com/p/your-integration-strategy-is-broken","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/your-integration-strategy-is-broken"},"headline":"Your integration strategy is broken","description":"Episode 7","datePublished":"2025-10-07T17:35:18.763Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/438ce1f0-f03d-42c9-ad79-20bbb93a194b/playbook-07-your-integration-strategy-is-broken.png?t=1788797873"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:17:55Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/your-integration-strategy-is-broken","name":"Your integration strategy is broken"}}]}

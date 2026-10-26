@@ -1,0 +1,108 @@
+URL: https://limestonedigital.com/blog/ready-or-not-here-ai-comes
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/ready-or-not-here-ai-comes
+Content-Type: text/html; charset=utf-8
+Title: Ready or not, here AI comes
+Meta description: AI FOMO drives rushed implementations that don’t succeed. Evaluate your data foundation and true AI readiness with our step-by-step guide.
+Canonical: https://thefoundation.limestonedigital.com/p/ready-or-not-here-ai-comes
+Robots: max-image-preview:large
+H1: Ready or not, here AI comes | AI Foundation from Limestone Digital
+
+Ready or not, here AI comes
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+Ready or not, here AI comes
+Ready or not, here AI comes
+Episode 3
+Aug 12, 2025
+Hi there,
+80%+ of companies aren’t ready for AI.
+But many don’t even realize they fall in this cohort, leading them to rush toward AI with fragmented data. This approach doesn’t work.
+Where do you stand? Keep reading to find out how to evaluate your AI-readiness.
+Inside the Issue
+The Practical Toolkit:
+Ready or not, AI is coming. Are you prepared?
+Industry Radar:
+Almost all companies invest in AI, but just 1% believe they are at maturity.
+Field Notes:
+Find out what we’re up to.
+The Practical Toolkit
+AI is everywhere, and mid-market companies must seize the opportunity. Otherwise, they’ll get left behind.
+Under pressure to adapt or die, companies across industries are moving to implement AI quickly. But business leaders often confuse the capabilities of personal AI assistants, like ChatGPT, with what’s possible for their broader organization.
+AI assistants perform well when given isolated tasks, like summarizing a single document or article. This performance creates an illusion of scalability, obscuring how difficult it is to apply AI to more complex business processes, like inventory and supply chain management.
+As a result, many organizations rush toward AI implementation without understanding that they need to adjust their data infrastructure first.
+But without a connected data foundation, AI simply won’t have the queryable, contextual data it needs to function properly at the organizational level.
+Yet, the reality for many organizations is fragmented — their data is scattered across several systems, which prevents AI from accessing and analyzing it effectively.
+In fact, 72% of C-suite executives say their company has faced at least one challenge on their journey to AI adoption.
+Getting your data foundation right is personal
+To address the gaps in their data foundation and prepare to deploy AI, organizations first need a concrete understanding of what those gaps are and why they are a problem.
+Limestone Digital founder and chairman Mark Ajzenstadt advises business leaders to start with personal AI experimentation, using an AI assistant to help conduct a business-like workflow.
+This approach creates a controlled environment where leaders personally encounter the same data connectivity challenges that will inhibit organizational AI deployment.
+From there, organizations can more effectively audit their data infrastructure and prepare for AI implementation.
+Want to learn more about evaluating AI readiness? Check out our
+step-by-step guide
+.
+Industry Radar
+Code optimization is hard work — it’s rant-worthy. (
+purplesyringa
+)
+79% of organizations continue to rely on traditional search methods despite AI adoption. Weaviate's 2025 Enterprise AI Trends report reveals organizations are taking a measured, strategic approach to implementation. (
+Weaviate
+)
+Almost all companies invest in AI, but just 1% believe they are at maturity. McKinsey's 2025 report explores how AI is transforming the workplace and why leadership alignment is crucial. (
+McKinsey
+)
+42% of C-suite executives report that AI adoption is tearing their company apart. Writer's enterprise AI adoption survey reveals the organizational challenges of implementing AI at scale. (
+Writer
+)
+Field Notes
+A US manufacturing client discovered their AI-ready data lived in 14 systems.
+Week 1:
+Mapped the chaos.
+Week 3:
+Built unified pipelines.
+Week 6:
+AI pilot launched successfully.
+Thank you for joining us for another edition of The Foundation.
+You’ll hear from us again in two weeks, with more insights from the industry experts.
+Ready to build your AI foundation properly? We can help you get there in weeks, not months.
+Book a Call
+P.S. We want to make sure this newsletter hits the mark. So reply to this email and let us know what you think.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"ready-or-not-here-ai-comes","url":"https://thefoundation.limestonedigital.com/p/ready-or-not-here-ai-comes","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/ready-or-not-here-ai-comes"},"headline":"Ready or not, here AI comes","description":"Episode 3","datePublished":"2025-08-12T12:44:30.692Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/b83954df-12b8-44b1-a599-30db36ed1a0e/playbook-03-ready-or-not-here-ai-comes.png?t=1788797978"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:19:39Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/ready-or-not-here-ai-comes","name":"Ready or not, here AI comes"}}]}

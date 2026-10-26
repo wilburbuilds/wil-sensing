@@ -1,0 +1,152 @@
+URL: https://thefoundation.limestonedigital.com/p/the-ai-consultancy-trap-3b88
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/the-ai-consultancy-trap-3b88
+Content-Type: text/html; charset=utf-8
+Title: 🟪 the AI consultancy trap
+Meta description: Where AI budgets go to die.
+Canonical: https://thefoundation.limestonedigital.com/p/the-ai-consultancy-trap-3b88
+Robots: max-image-preview:large
+H1: 🟪 the AI consultancy trap | AI Foundation from Limestone Digital
+
+🟪 the AI consultancy trap
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 the AI consultancy trap
+🟪 the AI consultancy trap
+Where AI budgets go to die.
+Sep 15, 2026
+Reading time: 8 minutes | Issue #43 |
+Book a Discovery Call
+Happy Tuesday.
+Mark here.
+OpenAI could sell AI advice at any price it wanted. Instead, in May, it
+built the opposite
+: a Deployment Company that puts forward-deployed engineers inside client operations to ship working systems, "moving beyond advisory to hands-on implementation." It even bought a consultancy, Tomoro, and its 150 engineers to staff it. The company with the most to gain from selling decks decided to build instead.
+That is the tell for the whole consulting trade. The firms charging you to "transform with AI" are the ones AI is hollowing out from the inside, and this issue is about not becoming their next line item.
+Inside the Issue
+Why a consultant's incentive is to add bodies and months, and what that costs you at four figures an hour
+A five-question script that exposes an AI vendor who rebranded a strategy deck as "AI-native"
+The 2026 production gap almost nobody talks about, the firms laying off the people who sell you AI, and the war for engineers who actually build
+The Trap Has Two Doors, and They Catch Different People
+Door one is the high-ticket strategy engagement. A firm sends in a partner whose time is billed at a rate that only makes sense if you never see the invoice broken down. By
+published 2026 rate benchmarks
+, a McKinsey senior partner bills about $1,190 an hour and a first-year associate about $400, and a full engagement runs from roughly $1.7 million to $8 million. Bain bills a small team between $110,000 and $160,000 a week.
+You're not paying for an answer, you're paying to keep an expensive person fed by the day, for as long as the work runs.
+Most of the time, that buys you a maturity curve, a junior's demo, and three months later the same broken workflow you started with. Nobody validated the outputs, and nobody built the thing that runs next Tuesday without the consultant in the room.
+Talk to the people one, two, three levels below the executive who signed the deal and they can't stand it, because they watched the circus and still have to do the actual work when it leaves.
+So why does anyone buy it? Because a consultant is a safety net for a manager who is scared to decide. Bring in a big name and the decision becomes "informed," and if it fails, the story writes itself: we hired the best, so it wasn't my call.
+Nobody ever got fired for hiring McKinsey. What they're buying is insurance against blame, and the company foots the bill.
+I want to be fair here, because there's a version of this that's worth every dollar. If you have one concrete, excruciating problem, a system that's down, a technical knot nobody in the building can untie, and a specialist walks in and fixes it, pay them. Pay them $150,000 for a week if they stop the thing that's been bleeding you for a year.
+That's not the trap. The trap is generic knowledge work dressed up as insight: the deck about "unlocking your potential," the workshops, the quarter that ends with an upsell and never turns into anything you can point to.
+In 2026, generic advice is the cheapest thing in the world. You can ask a frontier model for the top strategy frameworks and have them in a minute, hand them to your team, and start learning from real implementation instead of paying to be told what you could have read. If you need a consultant billing four figures an hour to set your strategy, the honest move is to change the person setting your strategy.
+Here is what the money buys, in this year's numbers. A June 2026 survey of 1,000 technology leaders found
+just 7% of enterprises had operationalized agentic AI
+, with more than two-thirds still experimenting or developing. A consultant's incentive does nothing to move that number, because the meter runs whether or not the workflow ever ships.
+Door two is the vendor who changed shoes. Every firm you've heard of has an AI practice now: Accenture, IBM, Deloitte, McKinsey's QuantumBlack, BCG X, PwC, EY, KPMG.
+When a category grows this fast, three kinds of vendor show up at your door, and only one of them can deliver.
+The legacy firm in new shoes.
+Big, established, not AI-native, running a strategy practice it rebranded last quarter. One question cuts through the pitch: how many of your own people has AI made redundant this year, and why are you hiring more? A firm selling efficiency it hasn't found inside its own delivery is selling a slide, not a system.
+The team that assembled to ride the wave.
+A group pulled together to catch the demand, with a case-study page built from the past lives of people they hired last spring. The logos are real, but the team's track record isn't. Ask when the company was founded and when those case studies happened, and watch the dates refuse to line up.
+The medium firm that's actually adapting.
+Some are doing the genuine work of becoming AI-native, and those are worth your time. The rest adapt fast or they're gone inside a year, and you don't want to be the client mid-engagement when that happens.
+The tell across all three is one thing: a real implementer's delivery team gets smaller as the technology gets better. A vendor whose headcount on your account only grows is selling you the old model with a new label.
+Our take.
+The whole industry runs on an incentive I can't make work at Limestone. Consultants get paid more when the engagement gets bigger: more people, more days, more months. The math rewards the opposite of what you actually want.
+That model is breaking under AI right now, which is why
+McKinsey and Deloitte are already moving fees from hours to outcomes
+. It is a bad thing to be caught inside when it goes.
+Ours runs the other way, and I mean it. Our engagements get smaller over time, not bigger. On a finance-operations build we have run since the spring, we started with two engineers and a fractional architect, and today it is one engineer a few days a week, because the agents carry the reconciliation volume and the exceptions are the only thing left for a person to touch. We invoice less now than we did at kickoff.
+We grow on demand and on the efficiency we hand back, which flows to the next client instead of into a bigger bill. We don't have a motion for selling you more bodies, and I've never wanted one. When your CFO asks why the Limestone line item went down last quarter, that's the product working.
+Who should be uncomfortable reading this: any vendor whose proposal adds headcount every quarter and calls it scale, and any leader whose AI plan is a strategy retainer with no named workflow, no baseline number, and nobody who owns the outcome after the slides land.
+Five Questions That Expose a Consultant in Disguise
+Run this on any AI vendor in a single call, before you sign anything. Each question has a clean answer and a tell.
+Does a successful engagement end with more of your people on my account, or fewer?
+If the honest answer is more, their P&L grows when yours doesn't. A partner who's proud that their footprint shrinks as the system matures is showing you the incentives are aligned.
+When does billing start, and what am I paying for in month one?
+If the meter runs on discovery and slide-building, you're funding their learning curve at your rate. Ask them to eat discovery. The ones who believe in the work will say yes without flinching.
+Show me one workflow you operate every week without you in the room.
+Something that runs on a schedule and writes to a real system, not a demo you drive by hand. If everything they show is a sandbox, they've never had to live with what they sell. Deloitte's Tech Trends 2026 finds
+only 11% of companies actually running AI agents in production
+. Vendors who don't operate their own work are how you stay out of that 11%.
+Who owns this the day you leave, and what's the single number we're moving?
+No named owner and no baseline metric means you're buying a science project with a nice interface. The number has to be one you already track, so the before and after stay honest.
+How much smaller has your own delivery team gotten as the models improved?
+This is the one I care about most. A vendor selling AI efficiency should be finding it inside their own shop first. If they've only added bodies, either they don't believe their pitch or the pitch doesn't work, and you just learned something the case studies won't tell you.
+Run all five on your next vendor call and note where they dodge, because the dodges tell you more than the answers do.
+01
+Deloitte told its own consultants the model is finished.
+At a June town hall,
+Deloitte walked its own staff through a chart
+showing hourly-billed work shrinking to a thin sliver of the market by 2035, with AI agents taking the rest. One consultant's read afterward: "our model is toast, we're basically getting replaced by robots." When the firm selling you AI transformation has told its own people, behind closed doors, that the billable hour is over, believe them about the second part.
+02
+KPMG is cutting the people who sell advice.
+In May,
+KPMG cut about 400 US advisory roles
+, roughly 4% of that business, and trimmed close to 10% of its US audit partners. The stated reason was softening demand, not AI, which is almost worse: the work is thinning before the automation even lands.
+03
+McKinsey keeps shrinking.
+Its headcount is down from more than 45,000 to around 40,000
+, with up to 10% of staff in some non-client divisions and several thousand more roles under review over the next 18 to 24 months. The firm that will happily sell you an AI operating model is running that same cost math on itself first.
+04
+The most-fought-over hire in the business is the person who ships.
+The forward-deployed engineer, the one who sits inside your operation and builds it, is
+the role OpenAI, Anthropic, and Google are all racing to hire in 2026
+. Everyone agrees now that the value is in deployment, and the recruiting war is just the scoreboard.
+05
+Everyone changed shoes at once.
+By one estimate, the
+AI consulting market reaches about $12 billion this year
+, on its way to $74 billion by 2034. A number growing that fast is a tell of its own: most of the firms in it rebranded a strategy practice last quarter, and the pitch got a new noun before the delivery got a new muscle.
+Consultant in Disguise vs. Implementation Partner.
+Screenshot this before your next vendor call. Seven tells, side by side.
+The left column is the trap, the right is the four steps below.
+If you've been quoted a six-figure retainer to "assess your AI readiness," here's what we do instead, in order.
+We sign an NDA. No SOW, no invoice.
+We spend our own time learning how you actually work: how the deal team sources, how the controllers close the books, where your best people burn their days on version control and validation instead of the job you hired them for.
+We write the SOW. Now you see what we'd build, what it costs, and what changes.
+Billing starts when we reach work that moves the business. Discovery and slides cost you nothing.
+From there it's an AI Velocity Pod, month to month. We're operational in three to five weeks, your people go back to their real jobs while we carry the technical risk, and if we don't deliver, you don't pay.
+We turn away about 30% of the companies that come to us, because the model only works when the fit is real.
+When it is, it's the cleanest way I know to put AI inside a business without betting the quarter on a consultant's learning curve.
+→ BOOK A DISCOVERY CALL ←
+Until next Tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"the-ai-consultancy-trap-3b88","url":"https://thefoundation.limestonedigital.com/p/the-ai-consultancy-trap-3b88","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/the-ai-consultancy-trap-3b88"},"headline":"🟪 the AI consultancy trap","description":"Where AI budgets go to die.","datePublished":"2026-09-15T16:13:47.965Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/def85974-4833-42cb-a229-ea6a837bda26/playbook-43-the-ai-consultancy-trap.png?t=1789486996"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-15T16:14:02Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/the-ai-consultancy-trap-3b88","name":"🟪 the AI consultancy trap"}}]}

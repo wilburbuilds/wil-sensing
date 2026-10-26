@@ -1,0 +1,105 @@
+URL: https://limestonedigital.com/blog/how-bad-ux-kills-good-data
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/how-bad-ux-kills-good-data
+Content-Type: text/html; charset=utf-8
+Title: How bad UX kills good data
+Meta description: Poor user adoption undermines data quality and AI readiness. Discover how to build digital transformation around human experience.
+Canonical: https://thefoundation.limestonedigital.com/p/how-bad-ux-kills-good-data
+Robots: max-image-preview:large
+H1: How bad UX kills good data | AI Foundation from Limestone Digital
+
+How bad UX kills good data
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+How bad UX kills good data
+How bad UX kills good data
+Episode 6
+Sep 23, 2025
+Hi there,
+Your organization just invested heavily in digital transformation. New systems, better integrations, cleaner data architecture.
+But six months later, hardly anyone is using the new tools. And the data quality you were promised? It's actually gotten worse.
+We know why this keeps happening,
+and
+what to do about it.
+Inside the Issue
+The Practical Toolkit:
+How UX Design sets you up for AI success.
+Industry Radar:
+This is the right time to get your data right.
+Field Notes:
+Start small to spark adoption.
+The Practical Toolkit
+Mid-market organizations are discovering a painful truth: technology alone doesn't create transformation.
+Even with perfect back-end architecture and seamless system integrations, digital initiatives collapse when users refuse to engage with new tools.
+"Most data quality issues originate at the point of entry when people actually interact with the tool," explains Anastasia Milokhina, UX/UI design team lead at Limestone Digital.
+This is one of the blind spots in most transformation strategies. Executives assume data quality is purely a technical challenge, so they focus resources on database improvements and system integrations.
+Meanwhile, users find new tools cumbersome and create workarounds that corrupt data at its source.
+It’s why we need the human factor in data quality.
+When users must navigate several screens for simple tasks, errors multiply. When they're overwhelmed by unnecessary fields, they input minimal information or skip entries entirely.
+These behaviors leave organizations with incomplete, incorrect data — even when the technical infrastructure works flawlessly.
+At Limestone, we've learned to prevent this breakdown by centering human experience throughout development. Our approach revolves around four strategic questions that keep user needs front and center:
+What do users actually do?
+(Map real workflows, not organizational charts)
+What solution do users really need?
+(Test wireframes to validate requirements before building)
+Where will adoption break down?
+(Use clickable prototypes to surface friction points)
+How will this scale across the organization?
+(Ensure the tool works for every role, not just power users)
+This human-centered approach has helped our clients achieve adoption rates as high as 80% — transforming internal tools from roadblocks into enablers.
+The stakes get higher as AI enters the picture. Users need to trust AI recommendations to adopt them, which means UX becomes even more critical for connecting complex algorithms with human understanding.
+Discover the complete framework in our latest strategic
+playbook
+.
+Industry Radar
+Even the best data science can’t make up for bad data. Here’s how to get it right. (
+Harvard Business Review
+)
+The OpenText team takes a look into how data and AI are shaping the future of financial services. (
+Database Trends And Applications
+)
+Field Notes
+If adoption is stalling, start small: observe real workflows instead of relying on assumptions. A quick prototype session with five end users often surfaces more insights than weeks of technical reviews. This small step can prevent costly redesigns later.
+Thank you for joining us for another edition of The Foundation.
+You’ll hear from us again in two weeks, with more insights from the industry experts.
+Want to discover how we’re helping organizations activate their data? Contact us today.
+Book a Call
+P.S. We want to make sure this newsletter hits the mark. So reply to this email and let us know what you think.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"how-bad-ux-kills-good-data","url":"https://thefoundation.limestonedigital.com/p/how-bad-ux-kills-good-data","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/how-bad-ux-kills-good-data"},"headline":"How bad UX kills good data","description":"Episode 6","datePublished":"2025-09-23T15:01:43.840Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/18f76e8e-9c6d-4592-91fa-afe8f25ab1d9/playbook-06-how-bad-ux-kills-good-data.png?t=1788797898"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:18:20Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/how-bad-ux-kills-good-data","name":"How bad UX kills good data"}}]}

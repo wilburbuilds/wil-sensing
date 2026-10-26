@@ -1,0 +1,169 @@
+URL: https://www.madcityintegrations.com/
+Fetched: 2026-10-26T03:33:34Z
+HTTP status: 200
+Final URL: https://www.madcityintegrations.com/
+Content-Type: text/html
+Via: chrome-headless
+Title: Mad City Integrations | Leads, online presence & custom AI
+Meta description: Lead lifecycle systems, online presence optimization, and custom AI builds for businesses. Based in Madison, Wisconsin.
+Canonical: https://www.madcityintegrations.com/
+Robots: index, follow
+H1: 
+
+Skip to content
+Services
+Calculator
+About
+Book a consultation
+OUR THREE SERVICES
+
+WHAT WE DO
+
+Win more work.
+Get more time back.
+01
+Lead lifecycle system
+
+The right message, at the right time, every time.
+
+Text · Phone · Email · Forms
+Explore service
+02
+Online presence optimization
+
+Get found. Build trust. Turn visits into inquiries.
+
+Websites · Google Business Profile · SEO · Brand
+Explore service
+03
+Custom AI builds
+
+Automate the work that slows your team down.
+
+Workflows · Internal tools · AI systems
+Explore service
+
+HOW WE DO IT
+
+See it in action.
+Lead lifecycle system
+Online presence optimization
+Custom AI builds
+Turn more inquiries into booked work.
+
+We connect every lead source, respond with the right message, and follow up through booking and beyond.
+
+Connect your lead sources
+Set the timing and messages
+Respond, book, and follow up
+Explore lead lifecycle system
+ILLUSTRATIVE EXAMPLE
+Phone call
+Text message
+Email
+9:41
+Madison Service Co.
+Text Message
+Hi! Can I get a quote for a patio this spring?
+
+A few moments later
+
+Absolutely, Mary. What's the address, and about how big is the space?
+East side of Madison, about 300 sq. ft.
+
+Details captured · next step ready
+
+Lead saved. A follow-up is ready if they go quiet.
+
+BOOK A CONSULTATION
+
+Let’s talk about
+your business.
+
+Tell us what you want to improve. We’ll help you choose the right service.
+
+Website
+Name
+Business name
+Email
+Phone
+Notes / reason for inquiry
+I agree to receive non-marketing calls and texts from Mad City Integrations LLC about my inquiry, consultation scheduling, and follow-up, which may be sent using automated technology. Msg frequency varies. Msg & data rates may apply. Reply STOP to opt out or HELP for help. Consent is not a condition of purchase.
+
+View our Privacy Policy and Terms and Conditions.
+
+By submitting this form, you agree that Mad City Integrations LLC may use the information you provide to respond to your inquiry as described in our Privacy Policy.
+
+Book a free consultation
+
+CALCULATOR
+
+What could you gain?
+
+Estimate the value of better follow-up or less repetitive work.
+
+Missed leads
+Repeat work
+Missed replies and cold follow-up
+
+What slow responses, one-and-done follow-up, and dormant contacts could be costing each month.
+
+Weekly leads
+28
+Missed or slow-response rate
+22%
+Old leads or past customers
+420
+Share that could be worth a timed follow-up
+6%
+Average job value
+$650
+Close rate on qualified leads
+35%
+A monthly figure
+$2,946
+
+If faster replies and a real follow-up cadence recover part of the pipeline.
+
+27
+Active leads at risk each month
+2.1
+Timed follow-ups each month
+Book a free consultation
+
+ABOUT US
+
+Built in Madison.
+
+We’re Anthony and Quinton. We help businesses win more work and spend less time on busywork.
+
+Meet MCI
+CEO
+Anthony Elert
+CTO
+Quinton Bush
+© 2026 Mad City Integrations LLC
+Madison, Wisconsin
+Services
+Lead lifecycle system
+Online presence optimization
+Custom AI builds
+Calculator
+About
+Consultation
+Privacy Policy
+Terms and Conditions
+contact@madcityintegrations.com
++1 (608) 471-6833
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type= name="website" id="" label="" placeholder="" aria="" required=false
+  - input type= name="name" id="" label="" placeholder="Your name" aria="" required=true
+  - input type= name="businessName" id="" label="" placeholder="Business name" aria="" required=true
+  - input type=email name="email" id="" label="" placeholder="you@example.com" aria="" required=true
+  - input type=tel name="phone" id="" label="" placeholder="(608) 555-0100" aria="" required=false
+  - textarea type= name="notes" id="" label="" placeholder="What would you like help with?" aria="" required=false
+  - input type=checkbox name="communicationConsent" id="" label="" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

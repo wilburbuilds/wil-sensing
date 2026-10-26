@@ -1,0 +1,53 @@
+URL: https://www.madcityintegrations.com/examples/restaurant/before.html
+Fetched: 2026-10-26T03:33:38Z
+HTTP status: 200
+Final URL: https://www.madcityintegrations.com/examples/restaurant/before.html
+Content-Type: text/html
+Via: chrome-headless
+Title: Willow & Wok — before demo
+Meta description: 
+Canonical: 
+Robots: noindex, nofollow
+H1: Willow & Wok
+
+Willow & Wok
+ASIAN KITCHEN
+Willow & Wok
+
+ASIAN KITCHEN
+
+Current menu
+Our Menu
+Beginnings
+Noodles
+Curries
+Broths
+Fresh greens
+Dessert
+Beginnings
+Fresh spring rolls
+$9
+
+Rice paper, crisp greens, fresh herbs and rice noodles. House peanut sauce on the side.
+
+Crispy golden tofu
+$9
+
+Golden tofu, sweet chili glaze and toasted peanuts.
+
+Chicken satay
+$12
+
+Grilled chicken skewers with coconut marinade, peanut sauce and cucumber relish.
+
+Chili dumplings
+$11
+
+Pan-seared vegetable dumplings, ginger, scallion and chili crisp.
+
+Willow & Wok
+
+A fictional restaurant for an MCI design demonstration.
+
+Back to menu
+

@@ -4,7 +4,7 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 348. Other companies are added when their teardown is committed.
+Saved pages in this index: 352. Other companies are added when their teardown is committed.
 
 ## agencyva (17 saved pages)
 
@@ -28,7 +28,19 @@ Saved pages in this index: 348. Other companies are added when their teardown is
 | https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO-definition.txt` |  |
 | https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO.txt` | Find Your Perfect Virtual Assistant Match |
 
-## frontier-business-design (21 saved pages)
+## building-ai-agents (7 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://www.buildingaiagents.ai/agency-site?v=20260723-26 | 200 | https://www.buildingaiagents.ai/agency-site?v=20260723-26 | `research/ai-specialists/building-ai-agents/pages/agency-site-dialogs-and-faq.txt` |  |
+| https://www.buildingaiagents.ai/agency-site?v=20260723-26 | 200 | https://www.buildingaiagents.ai/agency-site?v=20260723-26 | `research/ai-specialists/building-ai-agents/pages/agency-site__v-20260723-26.txt` | Building AI Agents / We automate your business. |
+| https://www.buildingaiagents.ai/apply | 200 | https://www.buildingaiagents.ai/apply | `research/ai-specialists/building-ai-agents/pages/apply.txt` | AI Automation Audit / Building AI Agents |
+| https://www.buildingaiagents.ai/ | 200 | https://www.buildingaiagents.ai/ | `research/ai-specialists/building-ai-agents/pages/index.txt` | Building AI Agents / We automate your business. |
+| https://www.buildingaiagents.ai/privacy | 200 | https://www.buildingaiagents.ai/privacy | `research/ai-specialists/building-ai-agents/pages/privacy.txt` | Privacy / Building AI Agents |
+| https://tally.so/r/lb9zOo | 200 | https://tally.so/r/lb9zOo | `research/ai-specialists/building-ai-agents/pages/r__lb9zOo.txt` | AI Automation Audit |
+| https://tally.so/r/lb9zOo | 200 | https://tally.so/r/lb9zOo | `research/ai-specialists/building-ai-agents/pages/tally-lb9zOo-fields.txt` |  |
+
+## frontier-business-design (20 saved pages)
 
 | URL | Status | Final URL | File | Title |
 | --- | --- | --- | --- | --- |
@@ -47,14 +59,13 @@ Saved pages in this index: 348. Other companies are added when their teardown is
 | https://frontierbusinessdesign.com/about-ideal-fit-bg/ | 200 | https://frontierbusinessdesign.com/ | `research/ai-specialists/frontier-business-design/pages/index.txt` | Fractional COO for Trades & Service Businesses / Frontier |
 | https://builder.frontierbusinessdesign.com/ | 200 | https://builder.frontierbusinessdesign.com/ | `research/ai-specialists/frontier-business-design/pages/index.txt` | Frontier Business Builder |
 | https://frontierbusinessdesign.com/landscaping/ | 200 | https://frontierbusinessdesign.com/landscaping/ | `research/ai-specialists/frontier-business-design/pages/landscaping.txt` | Fractional COO for Landscaping Companies / Frontier |
-|  |  |  | `research/ai-specialists/frontier-business-design/pages/not-fetched.txt` |  |
 | https://frontierbusinessdesign.com/packages/ | 200 | https://frontierbusinessdesign.com/packages/ | `research/ai-specialists/frontier-business-design/pages/packages.txt` | Work With Us: Fractional COO Engagements / Frontier |
 | https://frontierbusinessdesign.com/plumbing/ | 200 | https://frontierbusinessdesign.com/plumbing/ | `research/ai-specialists/frontier-business-design/pages/plumbing.txt` | Fractional COO for Plumbing Companies / Frontier |
 | https://frontierbusinessdesign.com/privacy-policy/ | 200 | https://frontierbusinessdesign.com/privacy-policy/ | `research/ai-specialists/frontier-business-design/pages/privacy-policy.txt` | Privacy Policy - Fractional COO for $1M–$10M Service Businesses |
 | https://frontierbusinessdesign.com/terms-of-service/ | 200 | https://frontierbusinessdesign.com/terms-of-service/ | `research/ai-specialists/frontier-business-design/pages/terms-of-service.txt` | Terms of Service - Fractional COO for $1M–$10M Service Businesses |
 | https://link.frontierbusinessdesign.com/widget/booking/VsbIEYu2VYgQdRnV8GxN | 200 | https://link.frontierbusinessdesign.com/widget/booking/VsbIEYu2VYgQdRnV8GxN | `research/ai-specialists/frontier-business-design/pages/widget__booking__VsbIEYu2VYgQdRnV8GxN.txt` |  |
 
-## hello-paralegal (64 saved pages)
+## hello-paralegal (63 saved pages)
 
 | URL | Status | Final URL | File | Title |
 | --- | --- | --- | --- | --- |
@@ -101,7 +112,6 @@ Saved pages in this index: 348. Other companies are added when their teardown is
 | https://helloparalegal.com/ | 200 | https://helloparalegal.com/ | `research/ai-specialists/hello-paralegal/pages/index.txt` | Hello Paralegal |
 | https://blog.helloparalegal.com/ | 200 | https://blog.helloparalegal.com/ | `research/ai-specialists/hello-paralegal/pages/index.txt` | Hello Paralegal / Legal Insights, Career Tips & Growth |
 | https://aiagents-helloparalegal.onhercules.app/ | 200 | https://aiagents-helloparalegal.onhercules.app/ | `research/ai-specialists/hello-paralegal/pages/index.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
-|  |  |  | `research/ai-specialists/hello-paralegal/pages/not-fetched.txt` |  |
 | https://aiagents-helloparalegal.onhercules.app/pricing | 200 | https://aiagents-helloparalegal.onhercules.app/pricing | `research/ai-specialists/hello-paralegal/pages/onhercules-404.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
 | https://aiagents-helloparalegal.onhercules.app/ | 200 | https://aiagents-helloparalegal.onhercules.app/ | `research/ai-specialists/hello-paralegal/pages/onhercules-app.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
 | https://helloparalegal.com/pricing |  | https://helloparalegal.com/pricing | `research/ai-specialists/hello-paralegal/pages/pricing-faq-bundle.txt` |  |
@@ -236,7 +246,7 @@ Saved pages in this index: 348. Other companies are added when their teardown is
 | https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | 200 | https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | `research/ai-specialists/schema-operations/pages/writing__you-trained-the-new-hire-on-the-software.txt` | You trained the new hire on the software. You never trained them on the decisions. — Schema Ops |
 | https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | 200 | https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | `research/ai-specialists/schema-operations/pages/writing__your-best-customers-will-leave-if-you-get-hit-by-a-bus.txt` | Your best customers will leave if you get hit by a bus — Schema Ops |
 
-## tenex (82 saved pages)
+## tenex (81 saved pages)
 
 | URL | Status | Final URL | File | Title |
 | --- | --- | --- | --- | --- |
@@ -271,7 +281,6 @@ Saved pages in this index: 348. Other companies are added when their teardown is
 | https://tenex.co/ | 200 | https://www.tenex.co/ | `research/ai-specialists/tenex/pages/index.txt` | Tenex / AI Transformation & AI Engineering Partner |
 | https://www.tenex.co/ and https://www.tenex.co/about-us | 200 | https://www.tenex.co/ and https://www.tenex.co/about-us | `research/ai-specialists/tenex/pages/logo-alts.txt` |  |
 |  |  |  | `research/ai-specialists/tenex/pages/not-fetched-newsletter.txt` |  |
-|  |  |  | `research/ai-specialists/tenex/pages/not-fetched.txt` |  |
 | https://www.tenex.co/playbooks | 200 | https://www.tenex.co/playbooks | `research/ai-specialists/tenex/pages/playbooks.txt` | Playbooks / Tenex |
 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | 200 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | `research/ai-specialists/tenex/pages/playbooks__5-step-guide-for-creating-hollywood-caliber-ads-using-ai.txt` | Make viral cinematic ads fast with AI: 5-step sprint / Tenex |
 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | 200 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | `research/ai-specialists/tenex/pages/playbooks__answer-engine-optimization-aeo-complete-guide.txt` | Answer Engine Optimization (AEO): A Complete Guide / Tenex |

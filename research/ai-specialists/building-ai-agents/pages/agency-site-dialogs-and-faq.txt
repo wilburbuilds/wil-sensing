@@ -1,0 +1,101 @@
+URL: https://www.buildingaiagents.ai/agency-site?v=20260723-26
+Fetched: 2026-10-26T03:39:20Z
+HTTP status: 200
+Final URL: https://www.buildingaiagents.ai/agency-site?v=20260723-26
+Via: same HTML response as agency-site__v-20260723-26.txt
+Note: The crawler saved document.body.innerText. These regions are in that HTML and were not in the innerText, because the FAQ items are closed details elements and the case studies are dialogs with aria-hidden=true. Read-only extract. Nothing was clicked, opened, or submitted.
+
+--- FAQ answers (closed details) ---
+
+What if we do not know where to start?
+You do not need to arrive with a project brief. We look at where time is being lost, revenue is being delayed, and your team is stuck chasing work. Then we identify the process with the clearest measurable return.
+
+What types of businesses are a good fit?
+We work best with operations-heavy businesses where recurring processes depend on inboxes, spreadsheets, manual review, or repeated follow-up. Examples include multi-location healthcare, property management, financial services, professional services, media, logistics, and field services. The better test is whether the work is repeatable and costly in time, money, or attention.
+
+Will our team need to learn new technology?
+Usually not. We build around the tools and accounts your team already uses wherever practical. If something new is required, we explain why and keep the steps your team must manage to a minimum.
+
+How long does a build take?
+Most focused builds target three to six weeks once the required access, data, and decisions are available. More complex integrations or regulated data can take longer. You receive the expected timeline before work begins.
+
+What happens after launch or if something breaks?
+We monitor performance, surface exceptions, and improve the system based on real use. Anything requiring human judgment can be routed to the right person, and the level of ongoing support is agreed before the build begins.
+
+--- case study dialogs (aria-hidden) ---
+
+Dialog 1
+✕
+2–3 days → 45 min
+Doctor payroll · every cycle
+Smile Obsession
+Multi-location dental groupVisit ↗
+How it started. Smile Obsession knew AI was important but did not know where to begin. We audited the business, ranked the opportunities by impact, and identified doctor payroll as one of the clearest first wins. It became the first of several projects we are now building together.
+The problem
+Every pay cycle, their head doctor spent two to three days pulling production data and calculating pay for every dentist. The work spilled into clinical time and after-hours work.
+The build
+After shadowing the process and working through the compensation rules with the team, we built a system that pulls the data, applies each doctor's terms, and assembles the payroll packet for review in 45 minutes.
+45 min
+per payroll run
+2–3 days
+what it took before
+Between visits
+when payroll can now be completed
+Designed, built and monitoredaround the client's existing systems and workflows
+Two to three days of manual work reduced to 45 minutes
+Payroll can be completed between patient appointments
+Less after-hours work and less stress for the head doctor
+More clinical and revenue-producing time returned
+Apply to work with us →
+Have a payroll like this? The audit prices it.
+
+Dialog 2
+✕
+1 full-time hire → avoided
+Newsletter sponsorship research · every day
+Ad Sales As A Service
+Sponsorship sales for creatorsVisit ↗
+▶ Hear Jack (co-founder) describe the build in the video above
+How it started. We met the team at an in-person conference and began talking about the work behind their sponsorship business. They were paying a person to manually scan newsletters and wanted to know whether AI could do it at a scale that would remove the need for another full-time hire.
+The problem
+Manual research limited how many newsletters the team could cover and made large-scale sponsorship collection too expensive for a lean company.
+The build
+We built an agent that scans thousands of newsletters every day and logs the sponsorships it finds. In the initial run, it surfaced more sponsorships than the human process at a fraction of the cost.
+1 hire
+avoided
+1,000s/day
+of newsletters processed
+Daily
+active sponsorship collection
+Designed, built and monitoredaround the client's existing systems and workflows
+More sponsorships surfaced than the original human process
+Thousands of newsletters processed every day
+Coverage scales without another full-time hire
+A previously uneconomical dataset became practical
+Apply to work with us →
+Losing hours to manual review? The audit prices it.
+
+Dialog 3
+✕
+2–4 days → 2–3 min
+Time to first message · every inbound lead
+Zhaofits
+Fashion consultant & influencer · ChicagoVisit ↗
+How it started. Zhaofits was growing quickly, and every new video created a wave of inbound client and deal inquiries. The demand was good; the backlog was not. Replies could take two to four days, and scaling the old process meant adding more people.
+The problem
+Each launch created days of follow-up work. Slow first responses put good opportunities at risk and threatened to turn growth into a hiring problem.
+The build
+We implemented messaging systems that create a personalized first reply for every inbound lead in two to three minutes, preserving the feel of a one-to-one response while handling the volume.
+2–3 min
+time to first message
+2–4 days
+what it could take before
+Same team
+more inbound handled
+Designed, built and monitoredaround the client's existing systems and workflows
+Every lead receives a personalized first response
+First touch reduced from days to minutes
+More inbound handled without matching headcount growth
+Personal service preserved at a much larger scale
+Apply to work with us →
+Leads going cold in your inbox? The audit prices it.

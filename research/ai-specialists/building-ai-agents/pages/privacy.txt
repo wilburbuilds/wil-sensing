@@ -1,0 +1,40 @@
+URL: https://www.buildingaiagents.ai/privacy
+Fetched: 2026-10-26T03:40:49Z
+HTTP status: 200
+Final URL: https://www.buildingaiagents.ai/privacy
+Content-Type: text/html
+Via: chrome-headless
+Title: Privacy | Building AI Agents
+Meta description: How Building AI Agents handles application information.
+Canonical: 
+Robots: 
+H1: How we handle your information.
+
+✦
+Building AI Agents
+← Back to site
+PRIVACY NOTICE
+How we handle your information.
+
+Last updated July 22, 2026.
+
+Information you submit
+
+When you complete an application or contact us, we may receive your name, contact information, business details, and the information you choose to share about your operations.
+
+How we use it
+
+We use this information to evaluate whether there is a fit, respond to your inquiry, prepare for conversations, and improve how we serve prospective clients. We do not sell information submitted through the application.
+
+Form provider and retention
+
+The application may be delivered through Tally, which processes form responses on our behalf. We keep application information only as long as reasonably needed for evaluation, follow-up, business records, or legal obligations.
+
+Sensitive information
+
+Do not send passwords, private access keys, payment card information, protected health information, or other sensitive credentials through the application.
+
+Questions or requests
+
+To ask a privacy question or request an update or deletion, email us at hello@buildingaiagents.ai.
+

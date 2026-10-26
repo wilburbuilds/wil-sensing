@@ -4,4 +4,4 @@ Prepared for Wil Sensing. Read-only research. No forms submitted, no calls booke
 
 The format and quality bar is `research/limestone-digital/teardown.md`. Each company gets `research/ai-specialists/<slug>/teardown.md` (top 5 takeaways first) and `research/ai-specialists/<slug>/pages/` (one text file per fetched URL, URL on the first line). `sitemap.md` lists every URL crawled. `synthesis.md` is the cross-company read.
 
-Crawl in progress. Companies in scope are ranked entries 1–14 in the candidate list, plus a funnel-only pass on leftclick.ai, Nate Herk's Skool page, and morningside.ai.
+The crawl is complete for ranked entries 1–14, plus a funnel-only pass on leftclick.ai, Nate Herk's Skool page, and morningside.ai. Candidates 15–17 were not crawled. The cross-company note is `synthesis.md`.

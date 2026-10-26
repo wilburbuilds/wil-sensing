@@ -1,0 +1,60 @@
+url	status	final	file	chars	title	note
+https://demo.varickagents.com/	200	https://demo.varickagents.com/	index.txt	2321	Varick Agents | Case studies	
+https://demo.varickagents.com/client-001	200	https://demo.varickagents.com/client-001	client-001.txt	862	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-002	200	https://demo.varickagents.com/client-002	client-002.txt	827	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-003	200	https://demo.varickagents.com/client-003	client-003.txt	890	Varick Agents | Operations Transformation Case Study	
+https://demo.varickagents.com/cfo	404	https://demo.varickagents.com/cfo		0		http error
+https://audit.varickagents.com/demo	200	https://audit.varickagents.com/demo	demo.txt	3408	Finance Operations Diagnostic — Varick Agents	
+https://demo.varickagents.com/operations-case-study	200	https://demo.varickagents.com/operations-case-study	operations-case-study.txt	164	Varick Agents | Omnichannel home goods retailer case study	
+https://demo.varickagents.com/energy-case-study	200	https://demo.varickagents.com/energy-case-study	energy-case-study.txt	165	Varick Agents | Independent oil and gas producer case study	
+https://demo.varickagents.com/financial-services-case-study	200	https://demo.varickagents.com/financial-services-case-study	financial-services-case-study.txt	152	Varick Agents | Large regional bank case study	
+https://demo.varickagents.com/hr-case-study	200	https://demo.varickagents.com/hr-case-study	hr-case-study.txt	157	Varick Agents | 9-hospital health system case study	
+https://demo.varickagents.com/procurement-case-study	200	https://demo.varickagents.com/procurement-case-study	procurement-case-study.txt	156	Varick Agents | Industrial manufacturer case study	
+https://demo.varickagents.com/legal-case-study	200	https://demo.varickagents.com/legal-case-study	legal-case-study.txt	170	Varick Agents | Global real estate investment manager case study	
+https://demo.varickagents.com/sales-case-study	200	https://demo.varickagents.com/sales-case-study	sales-case-study.txt	138	Varick Agents | Sales case study	
+https://demo.varickagents.com/finance-case-study	200	https://demo.varickagents.com/finance-case-study	finance-case-study.txt	140	Varick Agents | Finance case study	
+https://demo.varickagents.com/client-001/discovery	200	https://demo.varickagents.com/client-001/discovery	client-001__discovery.txt	1784	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-001/setup	200	https://demo.varickagents.com/client-001/setup	client-001__setup.txt	3253	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-001/team	200	https://demo.varickagents.com/client-001/team	client-001__team.txt	1878	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-001/engine	200	https://demo.varickagents.com/client-001/engine	client-001__engine.txt	3123	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-001/outcomes	200	https://demo.varickagents.com/client-001/outcomes	client-001__outcomes.txt	2576	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-002/discovery	200	https://demo.varickagents.com/client-002/discovery	client-002__discovery.txt	1740	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-002/setup	200	https://demo.varickagents.com/client-002/setup	client-002__setup.txt	2888	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-002/team	200	https://demo.varickagents.com/client-002/team	client-002__team.txt	1589	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-002/engine	200	https://demo.varickagents.com/client-002/engine	client-002__engine.txt	2805	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-002/outcomes	200	https://demo.varickagents.com/client-002/outcomes	client-002__outcomes.txt	2459	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-003/discovery	200	https://demo.varickagents.com/client-003/discovery	client-003__discovery.txt	1805	Varick Agents | Operations Transformation Case Study	
+https://demo.varickagents.com/client-003/setup	200	https://demo.varickagents.com/client-003/setup	client-003__setup.txt	2972	Varick Agents | Operations Transformation Case Study	
+https://demo.varickagents.com/client-003/team	200	https://demo.varickagents.com/client-003/team	client-003__team.txt	1688	Varick Agents | Operations Transformation Case Study	
+https://demo.varickagents.com/client-003/engine	200	https://demo.varickagents.com/client-003/engine	client-003__engine.txt	3052	Varick Agents | Operations Transformation Case Study	
+https://demo.varickagents.com/client-003/outcomes	200	https://demo.varickagents.com/client-003/outcomes	client-003__outcomes.txt	2539	Varick Agents | Operations Transformation Case Study	
+https://audit.varickagents.com/demo/findings	200	https://audit.varickagents.com/demo/findings	demo__findings.txt	3441	Finance Operations Diagnostic — Varick Agents	
+https://audit.varickagents.com/demo/plan	200	https://audit.varickagents.com/demo/plan	demo__plan.txt	3507	Finance Operations Diagnostic — Varick Agents	
+https://demo.varickagents.com/client-001/team/manager	200	https://demo.varickagents.com/client-001/team/manager	client-001__team__manager.txt	1937	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-001/team/cfo	200	https://demo.varickagents.com/client-001/team/cfo	client-001__team__cfo.txt	2394	Varick Agents | Finance Transformation Case Study	
+https://demo.varickagents.com/client-002/team/manager	200	https://demo.varickagents.com/client-002/team/manager	client-002__team__manager.txt	1751	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-002/team/cfo	200	https://demo.varickagents.com/client-002/team/cfo	client-002__team__cfo.txt	1970	Varick Agents | Sales Transformation Case Study	
+https://demo.varickagents.com/client-003/team/manager	200	https://demo.varickagents.com/client-003/team/manager	client-003__team__manager.txt	1908	Varick Agents | Operations Transformation Case Study	
+https://demo.varickagents.com/client-003/team/cfo	200	https://demo.varickagents.com/client-003/team/cfo	client-003__team__cfo.txt	2233	Varick Agents | Operations Transformation Case Study	
+https://demo.varickagents.com/about	404	https://demo.varickagents.com/about		0		http error
+https://demo.varickagents.com/about-us	404	https://demo.varickagents.com/about-us		0		http error
+https://demo.varickagents.com/services	404	https://demo.varickagents.com/services		0		http error
+https://demo.varickagents.com/pricing	404	https://demo.varickagents.com/pricing		0		http error
+https://demo.varickagents.com/case-studies	404	https://demo.varickagents.com/case-studies		0		http error
+https://demo.varickagents.com/work	404	https://demo.varickagents.com/work		0		http error
+https://demo.varickagents.com/contact	404	https://demo.varickagents.com/contact		0		http error
+https://demo.varickagents.com/blog	404	https://demo.varickagents.com/blog		0		http error
+https://demo.varickagents.com/careers	404	https://demo.varickagents.com/careers		0		http error
+https://demo.varickagents.com/privacy	404	https://demo.varickagents.com/privacy		0		http error
+https://demo.varickagents.com/privacy-policy	404	https://demo.varickagents.com/privacy-policy		0		http error
+https://audit.varickagents.com/about	404	https://audit.varickagents.com/about		0		http error
+https://audit.varickagents.com/about-us	404	https://audit.varickagents.com/about-us		0		http error
+https://audit.varickagents.com/services	404	https://audit.varickagents.com/services		0		http error
+https://audit.varickagents.com/pricing	404	https://audit.varickagents.com/pricing		0		http error
+https://audit.varickagents.com/case-studies	404	https://audit.varickagents.com/case-studies		0		http error
+https://audit.varickagents.com/work	404	https://audit.varickagents.com/work		0		http error
+https://audit.varickagents.com/contact	404	https://audit.varickagents.com/contact		0		http error
+https://audit.varickagents.com/blog	404	https://audit.varickagents.com/blog		0		http error
+https://audit.varickagents.com/careers	404	https://audit.varickagents.com/careers		0		http error
+https://audit.varickagents.com/privacy	404	https://audit.varickagents.com/privacy		0		http error
+https://audit.varickagents.com/privacy-policy	404	https://audit.varickagents.com/privacy-policy		0		http error

@@ -1,0 +1,351 @@
+URL: https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide
+Fetched: 2026-10-26T03:34:05Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide
+Content-Type: text/html
+Via: chrome-headless
+Title: Answer Engine Optimization (AEO): A Complete Guide | Tenex
+Meta description: HubSpot's CMO breaks down how to show up in ChatGPT, Perplexity, and Gemini. The AEO strategy that grew their AI search traffic 15x in one year—free tools, tactics, and data included.
+Canonical: https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide
+Robots: 
+H1: Your Google Traffic Has an Expiration Date. Here's What Replaces It.
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Your Google Traffic Has an Expiration Date. Here's What Replaces It.
+
+How to show up in ChatGPT, Perplexity, and Gemini—before your competitors do. HubSpot's CMO breaks down the AEO strategy that grew their AI search traffic 15x in one year.
+
+0 of 9 steps
+0 / 90 pts
+THE PLAYBOOK
+✓
+START HERE
+Meet the Human Behind the Playbook
+10 pts
+📖 Learn
+📋 Implement
+The Human
+
+Kipp Bodnar has been running marketing at HubSpot for a long time. Not the "thought leadership on LinkedIn" kind of running marketing—the kind where you're responsible for the growth engine of a $30B+ public company with hundreds of millions of monthly visitors. He's the CMO there, and right now he's staring at the same data every marketer is afraid to look at.
+
+58–60% of Google searches end without a single click. The AI overview answers the question before anyone scrolls down. And the traffic that does come through from AI search? It converts at 5x the rate of traditional Google. On some HubSpot queries, 13x.
+
+Kipp didn't wait around to see if this was a trend or a blip. His team built an entire AEO practice from scratch, grew their AI search traffic and customers 15x in a year, and then built a free tool so everyone else could see how badly they were being left behind. He came on our show Human in the Loop and walked through the whole playbook—data, tactics, tools, and the uncomfortable parts most CMOs don't want to talk about.
+
+Continue to Implementation →
+✓
+STEP 1
+Grade Yourself First
+10 pts
+📖 Learn
+📋 Implement
+
+Find out how you actually show up in AI search right now—not how you think you show up.
+
+Before you change a single page, you need a baseline. HubSpot built a free tool called AEO Grader that scores how your brand shows up across OpenAI, Perplexity, and Gemini. Plug in your company name, your country, and your industry, and it spits out scores on five things: brand recognition, market positioning, content quality, sentiment, and share of voice versus competitors.
+
+What did the Tenex report look like?
+
+When we ran Tenex through it on the show, here's what came back: strong sentiment (people talk about us positively), decent market score for a new company, but weak presence on OpenAI. Why? Because 90% of our footprint was on Twitter and LinkedIn—walled gardens that most LLMs can't crawl. And our playbooks were hard-gated behind email forms, so the bots couldn't read them either. That one report basically wrote our to-do list.
+
+The grader also shows you who AI thinks your competitors are, what attributes it associates with your brand, and where the gaps are. Some of it will be wrong—it's AI, after all—but it gives you the map.
+
+Pro Tip: The report breaks down each platform separately. You might be crushing it on Perplexity and invisible on ChatGPT. Knowing which platform needs work saves you from fixing things that aren't broken.
+
+Checkpoint: You've run AEO Grader and have your brand recognition, market, quality, sentiment, and share of voice scores for all three platforms.
+‍
+
+Continue to Implementation →
+✓
+STEP 2
+Chunk Your Pages
+10 pts
+📖 Learn
+📋 Implement
+
+Turn walls of text into answer-sized bites that LLMs can actually pull from.
+
+This is the biggest structural shift from SEO to AEO. In the old world, you'd write a 3,000-word page about CRM integration, stuff it with keywords, and build internal links pointing to a canonical version. The whole thing was one big blob optimized for Google's crawler.
+
+AEO wants the opposite. You take that same page and break it into clearly labeled sections, each answering one specific question. The headers become natural language questions—"What is CRM integration?" not "CRM Integration Solutions Overview." Each section is a paragraph or two, not a thousand words. Think of every section as a mini answer box on your own page.
+
+What does a chunked page look like?
+
+Kipp showed a HubSpot CRM integration page on the show. Table of contents at the top with question-based headers. Short, chunked sections with clear visuals. Each chunk structured so an LLM can grab it and drop it into a response without needing to parse through filler.
+
+Here's how the shift breaks down:
+
+- Headers: SEO used "CRM Integration Solutions Overview." AEO uses "What is CRM integration?"
+‍
+- Section length: SEO was 800–1,000 words per section. AEO is 1–2 paragraphs.
+‍
+- Page architecture: SEO was 8–10 interlinked pages pointing to a canonical. AEO is one long page with chunked sections.
+‍
+- Table of contents: Optional in SEO. Required in AEO.
+‍
+- Language: SEO was keyword-optimized jargon. AEO is plain-spoken, conversational.
+‍
+- Images: SEO used decorative images. AEO uses text-heavy visuals the bot can read.
+
+Will this hurt my existing SEO?
+
+Here's the thing Kipp said that matters: this usually doesn't cannibalize your existing SEO. The overlap is around 10–20%. Most of the time you're creating net new pages for prompts that your existing SEO pages were never going to rank for anyway.
+
+Pro Tip: Include images with descriptive text and alt tags. AI bots can read image text now, so infographics and labeled diagrams do double duty—good for the human reader and good for the bot.
+
+Checkpoint: You've restructured at least one key page with question-based headers, short chunked sections, and a table of contents.
+‍
+
+Continue to Implementation →
+✓
+STEP 3
+Go Answer-First
+10 pts
+📖 Learn
+📋 Implement
+
+Put the answer right after the question. Then elaborate.
+
+This one's deceptively simple and most companies still get it wrong. The LLM is scanning your page for a direct, concise answer to drop into its response. If you bury the answer under three paragraphs of context, it skips you and pulls from someone who doesn't.
+
+The structure for every section: header as a question, then one clear sentence that answers it, then your elaboration. Kipp called it "answer-first architecture"—the "What is CRM integration" header followed immediately by a 60-word direct response.
+
+What's the difference?
+
+Before (SEO-optimized):
+
+The header reads "CRM Integration Solutions Overview." The first paragraph says: "In the modern business environment, companies of all sizes are increasingly recognizing the need to connect their customer relationship management platforms with other business tools. CRM integration refers to the process of connecting your CRM software with other applications and data sources..."
+
+After (AEO-optimized):
+
+The header reads "What is CRM integration?" The first sentence says: "CRM integration connects your CRM software to other tools your business already uses—email, accounting, support, marketing automation—so data flows between them automatically instead of living in silos." Then you elaborate.
+
+The first version makes the LLM work to find the answer. The second hands it over in one sentence. Guess which one gets cited.
+
+Pro Tip: Make sure your definitions match what other sources say. AI cross-references you against the broader web. If your definition of a concept conflicts with what analysts and competitors are saying, the LLM will trust the consensus and skip you.
+
+Checkpoint: Your chunked sections each start with a direct one-sentence answer before elaborating.
+‍
+
+Continue to Implementation →
+✓
+STEP 4
+Open the Gates
+10 pts
+📖 Learn
+📋 Implement
+
+Gated stuff that LLMs can't crawl is invisible to AI search. Rethink what stays behind the wall.
+
+This is the uncomfortable one. Kipp's "pet rock" from the show, and it's worth repeating: all information is now available whether you give it to people or not. If you don't have public pricing, someone's using deep research on Reddit to reverse-engineer it. And they might find it in ways you don't want—like discovering you always discount 20% at end of quarter.
+
+Gated content that LLMs can't crawl doesn't exist in AI search. Period. If your best stuff lives behind an email form that bots can't get through, ChatGPT will never recommend you for questions your content directly answers.
+
+Do I have to remove all my gates?
+
+That doesn't mean you trash every gate. But you need to rethink the strategy:
+
+Hard gate — email required for everyone. The LLM can't see it. You're invisible for those topics.
+
+Soft gate — crawlable page, email required for download or premium version. The LLM can read the page and cite it. You still collect emails from people who want the formatted version.
+
+Open — no gate. Maximum AEO visibility. You're betting that the traffic and authority are worth more than the email addresses.
+
+At HubSpot, the shift wasn't binary. They looked at which gated pages weren't getting much search traffic anyway and opened those up. For high-performing SEO pages, they tested soft gates. The conversion math usually worked out—because the people coming from AI search convert at 5x the rate, you need way fewer of them to hit the same numbers.
+
+What happened when we graded Tenex?
+
+When we ran Tenex through the AEO Grader, this was our biggest gap. Every playbook was hard-gated. The LLMs literally couldn't see our best stuff. Kipp's advice: at a minimum, let the bots crawl the page even if you gate the download.
+
+Checkpoint: You've audited your gated content and identified which pages to open, soft-gate, or leave as-is based on AEO opportunity.
+‍
+
+Continue to Implementation →
+✓
+STEP 5
+Get on Reddit (and the Places LLMs Actually Look)
+10 pts
+📖 Learn
+📋 Implement
+
+Each AI platform has different sources it trusts. Show up where your target LLM is looking.
+
+Here's something that surprised us on the show: OpenAI pays Reddit for a firehose of all their data. Reddit is a massive input to ChatGPT answers. If you don't have a presence on Reddit, you're functionally invisible in ChatGPT for a lot of queries.
+
+HubSpot runs their own subreddit. They actively encourage customers to share experiences there. They participate in relevant industry subreddits. This isn't some abstract brand-building play—it directly feeds into how ChatGPT recommends them.
+
+Where does each platform pull from?
+
+Different platforms trust different sources:
+
+- ChatGPT (OpenAI) — Reddit, web content, review sites, affiliate sites. Reddit is the big one here because of OpenAI's paid data partnership.
+
+- Grok (xAI) — X/Twitter data. Grok has exclusive access to the full Twitter firehose, so your X presence directly feeds into Grok answers.
+
+- Gemini (Google) — Google's web index and YouTube. If you're making video content, this is where it matters most.
+
+- Perplexity — Broad web crawl, academic sources. The most platform-agnostic of the bunch.
+
+- Claude (Anthropic) — Web content. Less Reddit-dependent than ChatGPT.
+
+Why did Tenex score so differently across platforms?
+
+This is why your AEO Grader scores might look wildly different across platforms. When we ran Tenex, we scored well on Perplexity but weak on OpenAI—because our entire presence was on X and LinkedIn (walled gardens) with nothing on Reddit. Meanwhile, we were getting a surprising amount of traffic from Grok precisely because of our X presence.
+
+Kipp also flagged something most people miss: review sites, ranking sites, and affiliate sites have a real correlation with AEO performance. There's "some science there" between paid placements on those sites and how you show up in AI answers. It's not the whole picture, but it's a factor worth knowing about.
+
+Pro Tip: Start with the platform where your target customers actually are. If your buyers live in ChatGPT, Reddit is your first priority. If they're power users on X asking Grok, that's a different play entirely.
+
+Checkpoint: You know which AI platforms matter most for your audience, and you have a plan for the top source each one pulls from.
+‍
+
+Continue to Implementation →
+✓
+STEP 6
+Build Your 404 Safety Net
+10 pts
+📖 Learn
+📋 Implement
+
+LLMs hallucinate links. Your 404 page is now a growth channel.
+
+This one's wild. LLMs make up URLs. They'll cite pages on your site that don't exist—because the URL looks plausible based on your site structure, and the model just... fabricates it. HubSpot had 300,000 404 errors in a single month from AI bots citing hallucinated links.
+
+Three hundred thousand. From pages that never existed.
+
+Most companies treat their 404 page as an afterthought—a sad "page not found" with a link back to the homepage. In the AEO world, your 404 page is a real conversion opportunity because there's a human on the other end of that hallucinated link who wanted something specific.
+
+What should I do about hallucinated links?
+
+Kipp's idea—and this is the kind of thing that separates thinking about AEO from actually doing it—is to look at the hallucinated URL, figure out what the person was probably looking for based on the URL structure, and dynamically generate a page for them in real time. Or at minimum, route them to the most relevant existing page.
+
+Here's what a smart AEO-aware 404 strategy looks like:
+
+1. Track hallucinated URLs. Log every 404 from AI referral sources. Look at the patterns.
+‍
+2. Build a smart redirect map. If bots keep hallucinating /pricing-comparison and you have a /pricing page, set up the redirect.
+‍
+3. Create the pages that should exist. If you're getting thousands of 404s for a topic you actually cover, that's a signal to create that page.
+‍
+4. Make the 404 page itself useful. Show related content, a search bar, or a contextual suggestion based on the URL the person tried to visit.
+
+The advanced version? Use an LLM on your own 404 page to read the hallucinated URL and generate a relevant landing page on the fly. "We're generating your page right now—give us 20 seconds." That's where this is headed.
+
+Checkpoint: You're logging 404 errors from AI referral sources and have a plan for the most common hallucinated URLs.
+‍
+
+Continue to Implementation →
+✓
+STEP 7
+Track What Matters (Customers, Not Just Traffic)
+10 pts
+📖 Learn
+📋 Implement
+
+AEO attribution is harder than SEO. Measure differently.
+
+Here's where Kipp got real on the show. He corrected us mid-question when we asked how big AEO traffic would get. "I would probably switch it to source of customers," he said. Not traffic. Customers.
+
+Why? Because LLMs want to keep people inside the LLM. They're giving the answer right there in the chat window. Yes, they'll cite you and some people will click through. But a lot of people will just see your brand mentioned, type your URL directly into their browser, and show up as direct traffic. You'll never see the ChatGPT referral in your analytics.
+
+How do I measure AEO if the attribution is broken?
+
+This means the old attribution playbook is partially broken. You can't just look at referral traffic from chat.openai.com and call it a day. Kipp's approach:
+
+- Track citations and mentions across platforms using AEO tools (HubSpot's XFunnel acquisition, Limey.ai, or similar)
+‍
+- Monitor brand search volume — an uptick in branded searches often correlates with AEO mentions you can't directly attribute
+‍
+- Watch conversion rates by source — AI referral traffic converts at 5–13x, so even small numbers matter disproportionately
+‍
+- Measure sentiment and share of voice — these are traditionally brand marketing metrics, but they're now your AEO KPIs
+
+How big is this going to get?
+
+Kipp's projection: at the current growth rate, AEO will be at worst 20% of HubSpot's customer acquisition within a few years. That's a $30B company saying one-fifth of their new customers will come through a channel most businesses haven't even started thinking about.
+
+What tools should I use?
+
+HubSpot acquired XFunnel and is building it into their platform. Kipp also recommended Limey.ai. These tools let you input prompts, track how you show up across LLMs, monitor share of voice, and measure whether your changes are actually moving the needle over time.
+
+Pro Tip: ChatGPT is testing ads. Kipp said he's "first in line, take my money." The history of marketing is that early movers on new ad platforms get disproportionate returns before the rules are written and the costs go up. Keep an eye on this.
+
+Checkpoint: You have an AEO measurement framework that tracks mentions, citations, sentiment, share of voice, and customer attribution—not just traffic.
+‍
+
+Continue to Implementation →
+✓
+STEP 8
+FAQs
+10 pts
+📖 Learn
+📋 Implement
+Is SEO dead?
+‍
+
+‍No. There are still a lot of people using Google search, and everything you've done for SEO is a foundation for AEO. It's an evolution, not a revolution. But if you're only doing SEO, you're leaving a growing opportunity on the table.
+
+‍
+
+Will AEO changes hurt my existing SEO performance?
+
+‍
+‍The overlap is about 10–20% based on what HubSpot has seen. Most AEO opportunities are net new pages and prompts that your existing SEO pages weren't ranking for anyway. There are edge cases where restructuring a high-traffic page could impact rankings, so start with lower-traffic pages first.
+
+‍
+
+Does domain authority matter in AEO?
+
+‍
+‍Not the way it did in SEO. What matters is entity understanding—how well the AI knows what your company does and how authoritative you are on specific topics. Reviews, Reddit discussions, third-party mentions, and consistency across sources all contribute to that. A small company with deep, well-organized content on a specific topic can outperform a massive brand with thin coverage.
+
+‍
+
+Should I let AI models train on my content?
+
+‍
+‍Most models are now doing web search in real time rather than relying solely on training data. So whether you opted into the training set matters less than whether your content is crawlable and well-structured right now.
+‍
+‍
+
+The Takeaway
+
+
+The shift from SEO to AEO isn't a someday problem. ChatGPT has 800 million weekly active users and is growing at a pace that puts it at Google Search scale in 36 months. The people coming through AI search are 5–13x more likely to become customers. And 60% of what AI cites doesn't come from traditional search rankings at all.
+
+The mindset shift is this: you're not trying to rank anymore. You're trying to become part of the answer. That means chunked pages, direct answers, open content, platform-specific distribution, and measurement that focuses on customers instead of clicks.
+
+The uncomfortable part that Kipp didn't sugarcoat—the tracking is harder, the attribution is murkier, and the platforms are black boxes that change without notice. You're building on inference patterns you can't fully see. But that's true of Instagram, YouTube, and every other channel marketers have built on for the last decade. The question isn't whether you're comfortable with the uncertainty. It's whether you can afford to let your competitors figure this out first while you wait for the data to get cleaner.
+
+AEO is faster than SEO. You can get cited same day. The tools are free. And right now, most of your competitors haven't even started.
+
+‍
+
+Hire Us As Your Chief AI Officer
+
+We have the muscle—and the reps. Want us to run this exact playbook inside your org? Talk to us today.
+
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Answer Engine Optimization (AEO): A Complete Guide","description":"HubSpot's CMO breaks down how to show up in ChatGPT, Perplexity, and Gemini. The AEO strategy that grew their AI search traffic 15x in one year—free tools, tactics, and data included.","image":"https://cdn.prod.website-files.com/68af32cbd5555c406456f114/69934e6d26e7e6482d1732af_maxresdefault%20(1).jpg","datePublished":"2026-02-19T21:36:29.000Z","dateModified":"2026-02-19T21:36:29.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Your Google Traffic Has an Expiration Date. Here's What Replaces It.","item":"https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide"}]}]
+

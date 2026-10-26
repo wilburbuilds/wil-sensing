@@ -1,0 +1,154 @@
+URL: https://demo.varickagents.com/client-002/discovery
+Fetched: 2026-10-26T03:35:51Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-002/discovery
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Sales Transformation Case Study
+Meta description: Sales department transformation case study for a $2.8B enterprise SaaS company.
+Canonical: 
+Robots: 
+H1: How the team learned this operation
+
+V
+VARICK
+SALES ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Enterprise SaaS Corp
+|
+Sales Department
+|
+3.5-Month Implementation
+CHAPTER 01
+How the team learned this operation
+
+The Diagnosis Agent scans Enterprise SaaS Corp's sales operations across 8 connected systems. In 3 weeks, it surfaces exactly where deals stall and what to automate first.
+
+SYSTEMS DETECTED & MAPPED
+S
+Connected
+Salesforce
+CRM
+API
+G
+Connected
+Gong
+Conversation Intelligence
+API
+C
+Connected
+Clari
+Forecasting
+API
+D
+Connected
+DocuSign CLM
+CLM / Contracts
+API
+Connected
+Slack
+Communication
+API
+Q
+Connected
+CPQ
+Configure-Price-Quote
+API
+T
+Connected
+Tableau
+Analytics
+API
+H
+Connected
+Highspot
+Enablement
+API
+8
+Systems mapped
+11
+Handoff points documented
+23
+Days avg internal idle time
+420
+Reps affected
+Where time is being wasted
+
+Bottleneck heatmap across Enterprise SaaS Corp's sales operations. Hover for detail.
+
+Deal Desk Bottlenecks
+32%
+CRM Data Quality
+24%
+Forecast Preparation
+18%
+Security Questionnaires
+15%
+Comp Administration
+11%
+Opportunity Map
+Prioritized by ROI
+
+The deliverable: a clear picture of what to automate first and why. Click any row for detail.
+
+ANNUAL VALUE CREATED
+$14.4M
+Cost reduction
+$3.3M · 23%
+Revenue growth
+$8.2M · 57%
+Risk mitigation
+$2.9M · 20%
+
+Modeled from the diagnosis baseline. Value is captured across cost reduction, revenue growth, and risk mitigation — not cost alone.
+
+#
+WORKFLOW
+AUTOMATION
+ANNUAL VALUE
+TIMELINE
+P1
+Deal Desk Orchestration
+82%
+$4.2M
+6w
+P2
+CRM Auto-Population
+91%
+$2.8M
+4w
+P3
+Forecast Intelligence
+75%
+$3.1M
+8w
+P4
+Security/RFP Response
+78%
+$1.1M
+6w
+P5
+Commission Automation
+85%
+$1.4M
+4w
+P6
+Lead Scoring & Routing
+88%
+$1.8M
+4w
+Next: Setup
+

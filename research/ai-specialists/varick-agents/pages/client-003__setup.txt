@@ -1,0 +1,153 @@
+URL: https://demo.varickagents.com/client-003/setup
+Fetched: 2026-10-26T03:35:55Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-003/setup
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Operations Transformation Case Study
+Meta description: Operations department transformation case study for a $3.5B consumer goods manufacturer.
+Canonical: 
+Robots: 
+H1: How tribal knowledge became an executable system
+
+V
+VARICK
+OPERATIONS ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Consumer Goods Manufacturer
+|
+Operations Department
+|
+4-Month Implementation
+CHAPTER 02
+How tribal knowledge became an executable system
+
+Everything the team knew, written and unwritten, was compiled into rules agents could execute. Consumer Goods Manufacturer's existing tools stayed in place. Nothing migrated.
+
+SOP Compiler
+
+Upload an exception procedures manual. The SOP Compiler extracts executable rules.
+
+Supply_Chain_Exception_Procedures_v2.8.pdf
+47 exception types documented · 12 unwritten rules captured from interviews
+Compiled
+EXTRACTED RULES
+12 rules
+01
+
+Supplier delay > 48 hours auto-escalates to procurement lead with alternative sourcing options
+
+97%
+02
+
+Disruption impacting > $500K revenue triggers war room escalation within 2 hours
+
+98%
+03
+
+PO amendments exceeding 15% variance require director-level approval
+
+96%
+04
+
+Supplier on-time delivery below 85% for 3 consecutive months triggers performance review
+
+94%
+05
+
+Warehouse allocation recalculates when inbound shipment ETA changes by > 12 hours
+
+95%
+06
+
+Demand signal weighting: POS data 40%, forecast 30%, seasonal index 20%, promotional calendar 10%
+
+93%
+Show 6 more rules
+Unwritten Rules
+
+Captured from interviews with their senior team. The tribal knowledge that used to live in people's heads.
+
+Pacific Components always ships 2-3 days late on orders over $200K. Build buffer into timeline.
+
+Source: Senior Supply Chain Coordinator
+Supplier-specific
+
+DC-7 (Atlanta) has loading dock constraints that require staggered inbound scheduling on Mondays
+
+Source: Warehouse Ops Lead
+DC-specific
+
+Q4 holiday season: double safety stock on top 50 SKUs starting October 1, not the policy date of November 1
+
+Source: Demand Planning Analyst
+Seasonal pattern
+
+When Blue Yonder forecast disagrees with sales team input by > 20%, always use the higher number for top 10 accounts
+
+Source: Director of Operations
+Knowledge concentration
+
+Midwest DCs (3, 5, 8) share inventory pool informally. Transfer between them before triggering external replenishment.
+
+Source: Senior Coordinator
+Regional procedure
+
+Mark at procurement handles all Ariba exceptions for APAC suppliers because of timezone and relationship context
+
+Source: Procurement Lead
+Knowledge concentration
+System Integration
+
+Zero migration. Agents connected to the existing stack through three integration methods.
+
+API Integration
+Computer Use
+File & Email Ingestion
+
+Direct read/write access to structured data. Real-time sync with core operational systems.
+
+SAP ECC
+Manhattan WMS
+Blue Yonder
+Ariba
+Supplier Portal
+Agent Configuration
+
+Confidence thresholds set per workflow. Below the threshold, agents escalate to human review.
+
+WORKFLOW
+THRESHOLD
+AUTO-APPROVE
+ESCALATION
+Exception Routing
+90%
+74%
+26%
+Demand Forecasting
+85%
+82%
+18%
+PO Validation
+92%
+78%
+22%
+Supplier Scoring
+88%
+71%
+29%
+Next: Team Views
+

@@ -1,0 +1,82 @@
+URL: https://www.tenex.co/workshops/closing-the-ai-gap
+Fetched: 2026-10-26T03:33:49Z
+HTTP status: 200
+Final URL: https://www.tenex.co/workshops/closing-the-ai-gap
+Content-Type: text/html
+Via: chrome-headless
+Title: Closing the AI Gap | Tenex
+Meta description: An operating system for AI transformation. Sixteen interactive slides on one workflow, a plan you can test, and a printable worksheet.
+Canonical: https://www.tenex.co/workshops/closing-the-ai-gap
+Robots: 
+H1: Closing the AI Gap.
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+
+THE TENEX WORKSHOP
+
+Closing
+the AI Gap.
+
+An Operating System for AI Transformation
+
+Less AI noise. More problems worth solving. Work through one of your own workflows—and leave with a plan to test it.
+
+WHAT’S INSIDE
+
+Sixteen interactive slides take you through the AI Transformation Operating System on one workflow of your own. You leave with a first plan you can test and a printable worksheet. The presentation and worksheet open on this page after you sign up.
+
+Frame one result and the workflow that affects it.
+Redesign the work: what AI does, what a person still does, and where approval sits.
+Check what’s ready, then write a test—scope, success measures, and guardrails.
+16 interactive slides
+Printable worksheet
+
+START HERE
+
+Get the workshop.
+
+All fields are required. Your presentation and worksheet open here after signup.
+
+Full name
+Email
+Company
+Job title
+Leave blank
+I agree to receive Ultrathink, Tenex’s weekly Applied AI newsletter helping the modern business leader work & lead smarter with AI.
+
+Read our Privacy Policy.
+
+Open presentation & worksheet
+↗
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="workshop-form"
+  - input type=text name="fullName" id="ws-fullName" label="Full name" placeholder="" aria="" required=true
+  - input type=email name="email" id="ws-email" label="Email" placeholder="" aria="" required=true
+  - input type=text name="company" id="ws-company" label="Company" placeholder="" aria="" required=true
+  - input type=text name="title" id="ws-title" label="Job title" placeholder="" aria="" required=true
+  - input type=text name="website" id="ws-website" label="Leave blank" placeholder="" aria="" required=false
+  - input type=checkbox name="consent" id="ws-consent" label="I agree to receive Ultrathink, Tenex’s weekly Applied AI newsletter helping the modern business leader work & lead smarter with AI." placeholder="" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

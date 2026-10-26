@@ -1,0 +1,251 @@
+URL: https://www.varickagents.com/case-studies-finance
+Fetched: 2026-10-26T03:33:19Z
+HTTP status: 200
+Final URL: https://www.varickagents.com/case-studies-finance
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Finance Case Studies | Varick Agents
+Meta description: See how a $4B manufacturer cut month-end close from 22 to 8 days using Varick Agents to automate AP exception triage, intercompany reconciliation, and cash forecasting
+Canonical: https://www.varickagents.com/case-studies-finance
+Robots: max-image-preview:large
+H1: Finance Department Transformation
+
+V
+
+Varick Agents
+
+HOW IT WORKS
+
+CASE STUDIES
+
+CAREERS
+
+BLOG
+
+Book a Call
+
+CASE STUDY
+
+Finance Department Transformation
+
+$4B REVENUE INDUSTRIAL MANUFACTURER
+
+PE-BACKED
+
+280-PERSON FINANCE ORG
+
+Company Profile
+
+Revenue: $4B  |  3,200 employees  |  14 entities across 6 countries
+
+Finance Org: 280 people across AP, AR, Close Management, Treasury, FP&A, Tax
+
+Tech Stack: NetSuite, Oracle (2 entities migrating), Ramp, Concur (phasing out), Snowflake, Excel
+
+The Challenge
+
+Finance operations were fragmented across systems and spreadsheets, with high exception rates and long close cycles. The team needed an operating layer that reduced manual reconciliation and surfaced issues early.
+
+The Audit (4 Weeks)
+
+A Forward Deployed Engineer embedded across the full finance org, mapping every handoff between every sub-function. The audit documented 23 distinct workflows across 6 sub-functions and uncovered systemic patterns:
+
+Systemic patterns
+
+70% of AP exceptions were the same 12 exception types recurring every month
+4% intercompany reconciliation error rate, undetected until external audit
+8-10 days into each month before FP&A could deliver variance analysis
+2 hours every morning assembling a cash position that was stale by the time the CFO saw it
+AR was prioritizing collections by aging bucket alone, ignoring obvious payment behavior patterns in historical data
+Ramp's spend categorization was accurate but disconnected from NetSuite GL codes, requiring manual re-categorization during close
+
+The consistent pattern across all 23 workflows: people spending most of their time gathering and reconciling data across systems, and very little time on actual analysis or judgment.
+
+The Architecture
+
+Not a handful of point solutions. A full finance operating layer spanning every sub-function in the department.
+
+Accounts Payable
+
+Invoice intake agent ingesting from email, vendor portals, and Ramp, extracting line-item data, matching against POs in NetSuite, and auto-coding GL entries. Exception triage agent classifying exceptions by type, auto-resolving the routine 12 types, and routing genuine problems to the right person with full context. Payment execution agent batching approved invoices and optimizing payment timing against discount terms and cash position.
+
+Accounts Receivable
+
+Collections prioritization agent scoring outstanding invoices using payment history patterns, customer segment, invoice characteristics, and relationship signals. Auto-generating tiered collection communications calibrated to each customer's historical response pattern. Cash application agent matching incoming payments across all entities, handling partial payments and deductions.
+
+Close Management
+
+Intercompany reconciliation agent matching transactions across NetSuite and Oracle using fuzzy logic on vendor names, amounts, dates, and entity codes. Journal entry agent auto-generating recurring and accrual entries with anomaly detection. Close readiness agent tracking every close task across all 14 entities in real time.
+
+Expense Management
+
+Ramp-to-NetSuite sync agent mapping spend categories to GL codes, reconciling card transactions against expense reports, flagging policy violations, and auto-posting clean entries. Eliminated the manual re-categorization step that was eating 3 days of close every month.
+
+Treasury
+
+Cash position agent pulling real-time balances from all 6 bank accounts across 3 currencies, delivering daily cash position by 7am, and running a rolling 13-week cash forecast. FX exposure agent monitoring intercompany receivables/payables and flagging hedging opportunities.
+
+FP&A
+
+Variance analysis agent auto-generating the monthly variance package as soon as close entries are posted, flagging material variances with root-cause context. Management reporting agent assembling board-ready financial packages from NetSuite, Ramp, and Snowflake without the manual export-and-reconcile cycle.
+
+Tax and Compliance
+
+Quarterly estimate assembly agent pulling entity-level P&Ls, applying jurisdictional tax rates, and generating the consolidated estimate workbook. Audit prep agent maintaining continuous audit-ready state by logging every agent action, every human override, and every data transformation with full traceability.
+
+Implementation (4 months)
+
+Month-by-month focus and results.
+
+Month
+Focus
+Key Results
+1
+AP + Ramp Sync
+Exception classification: 88% accuracy week 1, 97.4% by month-end. Ramp-to-NetSuite sync eliminated a manual close step.
+2
+AR + Intercompany
+Collections re-ranked entire outstanding book. Cash application: 84% auto-match week 1, 93% by month-end. Intercompany recon reduced from 3 FTEs to spot-checking.
+3
+Close Management + Treasury
+First close cycle with new system: 12 days (down from 18-22). Cash position agent replaced morning Excel ritual. Payment agent captured previously missed early payment discounts.
+4
+FP&A + Tax + Integration
+Full integration pass across all agents. Tax estimate stress-tested against prior quarter. Second close cycle: 8 days.
+Results
+7-9 Days
+Month-End Close (from 18-22)
+<50
+AP Exceptions at Close (from 600-800)
+0.3%
+Intercompany Error Rate (from 4%)
+-11 Days
+Days Sales Outstanding Improvement
+7:00 AM
+Daily Cash Position (from 10:30 AM)
+Day 2
+FP&A Variance Analysis (from Day 10)
+ROI: $11.4-$14.7M Year One Value
+
+All value estimates use conservative assumptions: fully-loaded employee cost of $130-160K (varies by role), year-one realization discounted to 70-85% for ramp, and revenue attribution held to directly measurable outcomes. We show our math and encourage clients to stress-test with their own assumptions.
+
+Value Drivers
+
+Value Driver
+Amount
+Methodology
+Headcount redeployed (11 AP, 4 AR, 1 Treasury = 16 positions)
+$2.1-2.6M
+Named roles x fully-loaded cost
+Capacity recovered across remaining finance staff
+$1.5-2.0M
+Hours freed x blended rate, discounted 30%
+Early payment discount capture (2/10 terms)
+$2.8-3.6M
+Invoices now processed within discount window
+DSO improvement on AR book
+$1.6-2.1M
+11-day DSO reduction x carrying cost of capital
+Error reduction, audit prep, avoided remediation
+$1.4-1.9M
+Measurable rework hours + external audit fees
+Conservative Total
+$11.4-$14.7M
+Range reflects assumption sensitivity
+
+Headcount Detail: 16 named positions redeployed to higher-value work: 11 AP staff to vendor relationship management and spend analytics, 4 AR staff to customer credit strategy, 1 Treasury analyst to cash optimization. Capacity recovered across remaining staff reflects measured time savings on close cycle, manual reconciliation, and report assembly, discounted 30% to account for partial realization.
+
+Cross-Department Impact
+
+Finance agents flagged procurement workflow problems in business units, fed real-time margin data into sales deal profitability models, and became the connective tissue other departments pulled from. These cross-department effects are not included in the value estimate above.
+
+SCHEDULE DISCOVERY
+
+Deploy Your First AI Agent
+
+Book a Call
+
+CASE STUDIES
+
+Watch Varick Agents in Action
+
+View Deployments
+
+V
+
+Varick Agents
+
+Varick designs and deploys AI agent systems that 
+
+execute operational workflows inside enterprise organizations.
+
+1.1
+
+HOME
+
+HOME
+
+1.2
+
+HOW IT WORKS
+
+HOW IT WORKS
+
+1.3
+
+CAREERS
+
+CAREERS
+
+1.4
+
+CASE STUDIES
+
+CASE STUDIES
+
+1.5
+
+FAQ
+
+FAQ
+
+2.1
+
+X / TWITTER
+
+X / TWITTER
+
+2.2
+
+LINKEDIN
+
+LINKEDIN
+
+2.3
+
+BLOG
+
+BLOG
+
+2.4
+
+SUPPORT
+
+SUPPORT
+
+2.5
+
+PRIVACY
+
+PRIVACY
+
+2.6
+
+PRIVACY NOTICE
+
+PRIVACY NOTICE
+
+© 2026 Varick Agents. All rights reserved. Company names and logos are trademarks of their respective owners.
+
+311 California Street #750, San Francisco, CA, 94104
+

@@ -1,0 +1,165 @@
+URL: https://audit.varickagents.com/demo/findings
+Fetched: 2026-10-26T03:35:59Z
+HTTP status: 200
+Final URL: https://audit.varickagents.com/demo/findings
+Content-Type: text/html
+Via: chrome-headless
+Title: Finance Operations Diagnostic — Varick Agents
+Meta description: Audit deliverable for finance operations diagnostic engagement
+Canonical: 
+Robots: 
+H1: The Findings
+
+V
+VARICK
+AUDIT DELIVERABLE
+CHAPTERS
+01
+The Audit
+02
+The Findings
+03
+The Plan
+←
+Back to Overview
+Confidential
+Finance Operations Diagnostic
+The Findings
+$4B Industrial Manufacturer · 280-Person Finance Org
+Audit Complete
+CHAPTER 02
+The Findings
+
+Your department's reality. Everything the FDE found, organized so leadership can absorb it in 2 minutes.
+
+HOW 280 PEOPLE ACTUALLY SPEND THEIR TIME
+35%
+25%
+20%
+12%
+8%
+Manual coordination
+Data gathering & assembly
+Review & validation
+Exception handling (judgment)
+Strategic analysis & planning
+
+60% of this department's time goes to work that agents can handle. 12% requires human judgment. 8% is the strategic work you hired these people to do.
+
+PROCESS MAPS — SOP VS. REALITY
+Accounts Payable
+SOP: 4 steps
+→
+Reality: 13 steps, 6 handoffs
+Accounts Receivable
+SOP: 3 steps
+→
+Reality: 9 steps, 4 handoffs
+Close Management
+SOP: 5 steps
+→
+Reality: 14 steps, 8 handoffs
+Expense Management
+SOP: 3 steps
+→
+Reality: 8 steps, 3 handoffs
+Treasury
+SOP: 3 steps
+→
+Reality: 7 steps, 3 handoffs
+FP&A
+SOP: 3 steps
+→
+Reality: 11 steps, 5 handoffs
+TOP 12 AP EXCEPTION TYPES
+TYPE	FREQ/MO	RESOLUTION	REPEATABLE	OWNER
+PO Price Mismatch	
+85
+	2.1 days	Yes	AP Analyst
+Missing Goods Receipt	
+72
+	1.4 days	Yes	AP Team Lead
+Duplicate Invoice	
+68
+	0.5 days	Yes	AP Analyst
+Quantity Variance	
+55
+	1.8 days	Yes	AP Analyst
+Missing PO Reference	
+48
+	3.2 days	Yes	AP Specialist
+Tax Calculation Error	
+42
+	1.1 days	Yes	AP Analyst
+Vendor Master Mismatch	
+38
+	2.4 days	Yes	Controller
+Currency Conversion	
+35
+	0.8 days	Yes	Treasury
+Freight Charge Dispute	
+28
+	4.5 days	No	AP Team Lead
+Payment Terms Mismatch	
+25
+	1.6 days	Yes	AP Analyst
+GL Code Misclassification	
+22
+	0.9 days	Yes	AP Analyst
+Approval Threshold Exceeded	
+18
+	2.8 days	No	Controller
+
+70% of exceptions follow a repeatable decision pattern. 30% require human judgment. Agents handle the 70% on day one and pre-assemble context for the 30% so human decisions take minutes instead of hours.
+
+RISK REGISTER
+SINGLE POINT OF FAILURE
+CRITICAL
+Intercompany reconciliation
+
+Depends on one person's personal vendor name mapping across 3 ERPs. When she's out, reconciliation stalls. No backup, no documentation.
+
+COMPLIANCE GAP
+CRITICAL
+4% intercompany error rate
+
+Undetected until external audit. No internal validation or automated matching. Potential restatement risk.
+
+REVENUE LEAKAGE
+CRITICAL
+Missed early payment discounts
+
+Team misses 2/10 eligible discount terms because invoices aren't processed fast enough. Estimated $3.6M/yr in missed savings.
+
+DATA INTEGRITY
+HIGH
+No master vendor governance
+
+Same vendor exists under 4 different names across systems. No deduplication, no master record, no cross-system ID mapping.
+
+PROCESS GAP
+HIGH
+No close status visibility
+
+No consolidated view across 14 entities until controller manually checks each Excel file. 3 entities consistently miss deadlines.
+
+SYSTEM FRAGMENTATION
+HIGH
+Dual expense systems
+
+Ramp and Concur running in parallel across different entities. Neither integrated with NetSuite. Creates duplicate processes and reconciliation overhead.
+
+CASH VISIBILITY
+MEDIUM
+Stale daily cash position
+
+Cash position assembled manually every morning, delivered at 10:30am, already shifted from overnight settlements. CFO making decisions on outdated data.
+
+STALE REPORTING
+MEDIUM
+30+ day data lag
+
+Leadership decisions based on data that's 30+ days old by the time FP&A delivers the variance package.
+
+Next Chapter: The Plan
+

@@ -1,0 +1,252 @@
+URL: https://www.tenex.co/playbooks/gauntlet-loop
+Fetched: 2026-10-26T03:33:58Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/gauntlet-loop
+Content-Type: text/html
+Via: chrome-headless
+Title: The Gauntlet Loop: How to Push AI Agents Past "Good Enough" | Tenex
+Meta description: How to keep an agent working until its output holds up against a real reference, not just until it looks good enough.
+Canonical: https://www.tenex.co/playbooks/gauntlet-loop
+Robots: 
+H1: The Gauntlet Loop: Pushing Agents Past "Good Enough"
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+The Gauntlet Loop: Pushing Agents Past "Good Enough"
+
+How to keep an agent working until its output holds up against a real reference, not just until it looks good enough.
+
+0 of 9 steps
+0 / 90 pts
+THE PLAYBOOK
+✓
+START HERE
+What the Gauntlet Loop is
+10 pts
+📖 Learn
+📋 Implement
+
+The Gauntlet Loop is a method for keeping an agent working until its output holds up against a real reference. It has four parts:
+
+You give the agent an existing piece of work you know is good, which becomes the standard it has to beat.
+The agent breaks the job into small pieces that can each be checked on their own.
+A critic that works independently of the agent compares each piece against the reference.
+Any piece that falls short goes back to be redone, and the loop continues until the piece beats the reference or you decide another round isn’t worth it.
+
+Matt Shumer used this method to build a Call of Duty-style shooter from a three-paragraph prompt. The demo crossed 20 million views on X, and plenty of people assumed it was fake. It wasn’t. He published the prompt and the code, and people who ran it to prove him wrong ended up with working games of their own.
+
+The game is the flashy example, but the loop behind it is the part you can use. Shumer walks us through it on Tenex’s Talk Nerdy, and this guide turns that conversation into steps you can run on your own work: websites, writing, copy and more.
+
+‍
+
+Why agents settle for “good enough”
+
+When you ask an agent to build something, it builds it and then stops, and with visual work in particular it has no reason to keep going once the result looks reasonable.
+
+Telling the agent to keep going doesn’t solve this on its own, because there is a second problem: agents judge their own work, and they judge it generously. Shumer compares this to letting a student grade their own exam, which ends with the student giving themselves a 100.
+
+The Gauntlet Loop gives the agent two things it won’t supply for itself: a standard that comes from outside the work, and a judge that didn’t do the work.
+
+What to know before you start
+
+Use an agent, not a chat window. The loop needs a tool that can write and run code, render what it made, look at screenshots and start other agents, and both Claude Code and Codex can do this. In a regular chat window you would have to act as the critic and run every round by hand. If you’re new to Claude Code, start with our Claude Code 101.
+
+Turn the effort up. Long runs with many agents do better at a high effort level. Claude Code also has a separate setting called ultracode, which has Claude plan a multi-agent workflow for big tasks. Type /effort ultracode to turn it on.
+
+Decide what the result is worth. These runs are expensive, so Shumer watches his usage limits and decides how far to take a run based on what the result is worth to him. He often won’t run a small demo to the max, but for work where getting it right is worth a couple hundred dollars, he might use his entire subscription. For work that’s genuinely useful, he thinks a $200 run is probably worth it.
+
+Pick work you can compare. Visual work is the easiest fit, but anything with a clear reference can go through the loop, including a web page, a piece of writing or code with tests.
+
+Continue to Implementation →
+✓
+STEP 1
+Give the goal, not the method
+10 pts
+📖 Learn
+📋 Implement
+
+Tell the agent what you want and how good it has to be, but leave out the architecture, the list of components and the order of operations. The latest models are often good at deciding how to approach a large job, and spelling out every step means the agent follows your plan instead of making its own.
+
+The prompt behind the shooter was three paragraphs long, and when Shumer shared it, many people said it was too short to work. His view is that “prompts are leverage,” and that the right few words can do far more than a 10,000-line prompt.
+
+Being brief about the method doesn’t mean being vague about the standard. When Shumer uses the loop for real work, he is often specific about what he likes in a reference, and he sometimes steps in partway through a run to steer it in a different direction.
+
+Continue to Implementation →
+✓
+STEP 2
+Set a bar the agent can lose to
+10 pts
+📖 Learn
+📋 Implement
+
+This is the most important step. A vague instruction like “make it great” doesn’t work; the agent needs something concrete to compare its work against.
+
+For the game, the prompt didn’t ask for a shooter like Call of Duty. It said the game had to be at the level of the most recent Call of Duty, which gives the agent a test it can run: if its game isn’t better than that, it isn’t done.
+
+What counts as a bar depends on the work:
+
+Work	A real bar
+Game or 3D scene	Screenshots of the real thing
+Website	The best sites in your category
+Writing	Passages from strong, comparable recent work
+Code	A test suite, a performance target or a reference implementation
+
+A reference only carries the quality it shows. A screenshot shows how a page looks, so if clarity or persuasion is what matters, tell the critic to judge that too.
+
+You don’t always have to supply the references yourself. For the shooter, the prompt only named the bar, and the agent found the screenshots on its own.
+
+If what you’re making doesn’t exist yet, you have two options. You can borrow a reference from something similar that shows the level of quality you want, in which case the critic judges which of the two looks better overall rather than comparing two versions of the same thing. Shumer says the better option is to generate reference images with an image model until you’re happy with them, then give those to the agent.
+
+The bar also doesn’t have to be reachable. Shumer says his game still isn’t at the level of Call of Duty, and he ended the run while it was still improving because it was costing too much. The bar’s job is to point the agent in the right direction and keep it from stopping as soon as the work looks good enough.
+
+Continue to Implementation →
+✓
+STEP 3
+Let the agent split the work
+10 pts
+📖 Learn
+📋 Implement
+
+One agent trying to build everything at once will fail, because it can’t take it all on. When you split the job, each piece gets its own subagent, such as one for the gun and another for a single part of the environment. Shumer compares this to putting a much bigger team on the problem, and he says it gets you much higher quality much faster.
+
+Tell the lead agent to break the goal into the smallest parts that can be improved and judged on their own, and let it decide what those parts are rather than deciding them yourself in advance.
+
+Smaller pieces also make each comparison clearer. A critic can’t rule on an instruction as broad as improving the whole game, but it can decide whether one rifle holds up next to the rifle in a reference screenshot.
+
+Continue to Implementation →
+✓
+STEP 4
+Give every piece an independent critic
+10 pts
+📖 Learn
+📋 Implement
+
+Each piece gets a separate critic agent that compares it with the reference, and this is the part of the loop where the quality comes from.
+
+The critic has to judge the work with a clean slate. In some agent tools, a new subagent inherits the main agent’s context, including the builder’s reasoning, which turns the critic into the builder grading its own work again. Tell the lead agent to launch each critic with fresh context and to show it the goal, the output and the reference, but not the process that produced the output.
+
+When possible, make the comparison blind: show the critic both outputs unlabeled, so it doesn’t know which one the builder made, and ask it to pick the better one. If the reference wins, the critic identifies the biggest gap, the builder fixes it and the comparison runs again. As Shumer puts it: “Until it picks ours, we keep going.”
+
+Two more rules for critics:
+
+Make them harsh. Models are agreeable by default, and Shumer says that getting an extremely harsh critic is as simple as telling it to be one.
+Have them judge the real thing. The critic should look at the work itself, whether that’s the rendered pixels, the live page, the finished writing or the test results, rather than at the builder’s description of it.
+Continue to Implementation →
+✓
+STEP 5
+Keep looping, and decide when to stop
+10 pts
+📖 Learn
+📋 Implement
+
+Don’t cap the run at three rounds. Each piece keeps looping until it beats the reference or you decide another round isn’t worth it, which is the more common ending. As improved pieces slot back in, the whole result gets better in waves.
+
+You can watch this happen in the episode. In a live demo, Shumer set a loop to build a photorealistic microphone in Three.js. The first version looked terrible. The second looked like what an agent would normally hand back and call done. Fifteen minutes later the loop was still going, adding real detail each round.
+
+With a high enough bar there’s almost always another gap to close, so the decision to stop is yours. Stop when you like the result, when each round barely changes anything, or when you’ve spent what the work is worth.
+
+Two optional additions help on long runs:
+
+A progress page. Ask the agent to keep a simple page updated with screenshots or drafts as it works, so you can check in from your phone without interrupting it.
+A smoothing pass. When many agents improve separate pieces, the pieces can drift apart. After each major wave of improvements, a fresh agent can review the whole thing and make it hang together.
+Continue to Implementation →
+✓
+STEP 6
+Put it together: a landing page
+10 pts
+📖 Learn
+📋 Implement
+
+Here’s the whole loop on something closer to everyday work. Say you need a landing page for a new service.
+
+Goal: a page that explains the service clearly and gets the right visitors to book a call.
+Bar: screenshots of three landing pages you think are the best in your category.
+Split: the lead agent breaks the page into parts it can judge separately, such as the headline and opening, the explanation of the service, the proof and the call to action.
+Critic: each part gets its own builder and a fresh critic. The critic sees our rendered opening next to the strongest reference opening, unlabeled, and picks one. It judges both on how clearly they explain the offer, not only on how they look. If the reference wins, it names the biggest gap, such as a headline that never says who the service is for, and the builder fixes it.
+Revision: improved parts go back into the page. After a major wave of fixes, a fresh agent reviews the whole page so it reads as one page, not four.
+Stop: when the critics keep picking ours, or when another round barely changes anything and the page is ready to ship.
+Continue to Implementation →
+✓
+STEP 7
+Use the loop beyond games
+10 pts
+📖 Learn
+📋 Implement
+
+The method works on anything you can compare against a reference. The reference isn’t there to be copied, only to answer whether your version holds up next to it. Two examples:
+
+Writing. Shumer calls writing the harder case because models are terrible writers. Have a critic compare each paragraph in your draft against a strong paragraph from comparable published work. If yours loses, revise it and compare again. You can run the same comparison on whole pages or chapters. Choose recent work rather than a famous author, whose writing the model may recognize, breaking the blind test.
+
+Growth. Shumer says his team uses the loop to grow his newsletter, where it has helped them find strategies they might not have thought of and write copy that converts better than they expected. His broader point is that “you would be surprised how many tasks you do every day are more creative than you’d actually think,” so if you can show the agent what better looks like, the task is a candidate for the loop.
+
+How we’ve used it at Tenex
+
+The loop also works when there are no screenshots to compare. When we evaluated Tenex’s internal library of agent skills, we found a few blocking issues that were making agents behave incorrectly, caused by guardrails that better models no longer needed. We ran a Gauntlet Loop on the library, with builder agents each taking a set of skills and subagent critics reviewing the work against our coding standards and the latest guidance on writing skills for agents. The first review found the blockers, which were then fixed, and the second confirmed the fixes but turned up a new set of issues, all of which were resolved in a third round.
+
+The critics weren’t choosing between two versions, so this wasn’t the exact setup behind the game. But it followed the same principle: whoever does the work doesn’t get the final say on whether it’s done.
+
+Continue to Implementation →
+✓
+STEP 8
+Start from this prompt
+10 pts
+📖 Learn
+📋 Implement
+
+Every Gauntlet Loop prompt has five parts:
+
+Goal: what you want made.
+Bar: the real reference it has to match or beat.
+Split: break the work into parts that can be judged on their own.
+Critic: a separate, harsh critic with fresh context compares each part with the reference, blind when possible.
+Loop: when ours loses, fix the biggest gap and compare again, until ours wins or you call it.
+
+The prompt below follows the same five parts. Fill in the brackets and run it in Claude Code or Codex.
+
+Shumer has also published the original prompt and the full code behind the shooter, along with his own guide to the method.
+
+When it’s worth running
+
+A Gauntlet Loop makes sense when:
+
+quality matters more than speed
+you have a real reference, test or benchmark to compare against
+the work can be split into pieces
+another round could visibly improve the result
+
+It isn’t worth it for quick tasks, for work where nobody can say what better would look like, or when the first decent answer is all you need. Don’t spend $200 improving something worth $20.
+
+The loop doesn’t make the model any smarter. It changes when the agent gets to say it’s done: not when it has produced something plausible, but when the work holds up against something real.
+
+Related reading
+
+How to build your first AI agent
+Eval-driven development: an independent critic is a kind of eval, and this guide covers how to build them for agents in production.
+Claude Code 101
+
+Tenex helps companies architect, staff, and ship AI systems that actually move the P&L—not just the hype cycle.
+
+Build Your AI Engine
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"The Gauntlet Loop: How to Push AI Agents Past \"Good Enough\"","description":"How to keep an agent working until its output holds up against a real reference, not just until it looks good enough.","image":"https://www.tenex.co/assets/playbooks/gauntlet-loop.jpg","datePublished":"2026-10-20T14:00:00.000Z","dateModified":"2026-10-20T14:00:00.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/gauntlet-loop"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"The Gauntlet Loop: Pushing Agents Past \"Good Enough\"","item":"https://www.tenex.co/playbooks/gauntlet-loop"}]}]
+

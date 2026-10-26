@@ -1,0 +1,119 @@
+URL: https://demo.varickagents.com/client-001/team/cfo
+Fetched: 2026-10-26T03:36:01Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001/team/cfo
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: What their team saw each day
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+AP Specialist
+Director
+CFO
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+CHAPTER 03
+What their team saw each day
+
+CFO View. Close-cycle tracker across 14 entities, department ROI for a 280-person finance org, strategic insights, and the 2-3 action items that mattered that week.
+
+AP Specialist
+Director
+CFO
+Close Cycle Tracker
+On track
+Day 6
+of 8
+5 remaining
+AP accruals (all 14 entities)
+Day 1
+Revenue recognition (domestic entities)
+Day 1
+Revenue recognition (international entities)
+Day 2
+Bank reconciliations (6 accounts, 3 currencies)
+Day 2
+Expense accruals (Ramp + Concur)
+Day 3
+Fixed asset depreciation (all entities)
+Day 3
+Payroll accruals (6 countries)
+Day 4
+Intercompany eliminations (NetSuite entities)
+Day 4
+Intercompany eliminations (Oracle entities)
+Day 5
+Lease accounting entries
+Day 5
+FX revaluation adjustments
+Day 6
+Tax provisions (multi-jurisdiction)
+Day 6
+Consolidation & minority interests
+Day 7
+FP&A variance package
+Day 7
+Management reporting & CFO sign-off
+Day 8
+Department ROI
+Hours saved this month
+4200
++18%
+Manual reduction/FTE
+64%
+Cost per transaction
+$14.20
+$2.10
+85% reduction
+Error rate reduction
+92%
+down from baseline
+Strategic Insights
+
+16 AP/AR positions have 60%+ spare capacity. Redeployment to strategic finance in progress.
+
+Shift from transaction processing to vendor negotiation, cash forecasting, and M&A due diligence support. Net savings: $2.1-2.6M/year.
+
+Early-pay discount capture rate improved from 12% to 67%. Cash flow impact: $2.8-3.6M annually.
+
+AP processing speed now enables consistent discount capture. Treasury recommends expanding to all 14 entities.
+
+Close cycle at Day 6 of 8. Projected 7-day finish. Down from 18-22 days pre-Varick.
+
+Board reporting delivered by Day 9 instead of Day 25. PE sponsors receive monthly financials 2+ weeks earlier.
+
+AUDIT READINESS
+
+SOX controls documented for 100% of agent-touched transactions. Audit trail covers 142,800 actions this period.
+
+Their auditors did.
+Action items this week
+Review PE sponsor quarterly report showing $11.4M annualized value creation
+high
+Approve redeployment plan for 16 positions from manual processing to strategic finance
+high
+Sign off on expanded automation scope for remaining 3 Oracle entities
+medium
+Next: Under the Hood
+

@@ -1,0 +1,67 @@
+URL: https://www.tenex.co/build-first
+Fetched: 2026-10-26T03:33:54Z
+HTTP status: 200
+Final URL: https://www.tenex.co/build-first
+Content-Type: text/html
+Via: chrome-headless
+Title: Build First: Skip to the Onsite Interview | Tenex
+Meta description: Build an AI prototype, record a short demo, and skip straight to Tenex's onsite interviews. Here are the rules and how to submit.
+Canonical: https://www.tenex.co/build-first
+Robots: 
+H1: Build First
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Build First
+
+Tenex builds AI systems that drive faster decisions, new opportunities, and measurable impact for our clients.
+
+We hire builders who deliver high-quality outcomes. Impress us with your work and skip straight to Tenex’s onsite interviews.
+
+Step 1: Build! Create a functional AI prototype or workflow that demonstrates real transformation potential. We’re looking for production-grade thinking that prioritizes end-users and business outcomes.
+
+The Rules: This must be an original, solo project so no repurposed work from hackathons or other companies. You’ll need to include a GitHub repo with a clear commit history to prove the work is yours. Use only synthetic, public, or legally permissible data.
+
+Step 2: Record a <10-minute demo video (unlisted YouTube link only so no Loom, Vimeo, etc.). In your video, clearly explain: why you chose this problem, who the users are, the impact and ROI you expect, and key tech choices and trade-offs.
+
+Step 3: Submit by uploading your video link (plus GitHub repo and live/deployed link within the YouTube video description) to the form on this page.
+
+Every submission is reviewed by Tenex engineers and strategists. If your work stands out, you go straight to our onsite interview in NYC.
+
+First Name*
+Last Name*
+Email*
+Which role are you applying for?*
+Forward Deployed Engineer
+AI Strategist
+Demo Submission Name*
+Demo Submission Video Link*
+
+We are only accepting videos via YouTube
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="gs-form"
+  - input type=text name="website" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="First-Name" id="First-Name" label="First Name*" placeholder="" aria="" required=true
+  - input type=text name="Last-Name" id="Last-Name" label="Last Name*" placeholder="" aria="" required=true
+  - input type=email name="email" id="email" label="Email*" placeholder="" aria="" required=true
+  - input type=radio name="Role" id="" label="" placeholder="" aria="" required=true
+  - input type=radio name="Role" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="Demo-Name" id="Demo-Name" label="Demo Submission Name*" placeholder="" aria="" required=true
+  - input type=url name="Demo-Link" id="Demo-Link" label="Demo Submission Video Link*" placeholder="" aria="" required=true
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

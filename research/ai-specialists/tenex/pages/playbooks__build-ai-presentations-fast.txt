@@ -1,0 +1,253 @@
+URL: https://www.tenex.co/playbooks/build-ai-presentations-fast
+Fetched: 2026-10-26T03:34:14Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/build-ai-presentations-fast
+Content-Type: text/html
+Via: chrome-headless
+Title: Build Fortune-50-Ready Decks in Minutes With AI and Gamma | Tenex
+Meta description: Learn a proven AI workflow that turns messy notes into polished, client-ready presentations fast. This guide shows how LLMs and Gamma streamline outlining, design, iteration, and automation for sales, product, and executive teams.
+Canonical: https://www.tenex.co/playbooks/build-ai-presentations-fast
+Robots: 
+H1: Build Decks At The Speed Of Thought with AI
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Build Decks At The Speed Of Thought with AI
+
+Turn messy notes into Fortune‑50‑ready decks using the PowerPoint killer, Gamma, and the help of your daily-driver LLM—compressing dozens of hours of work into 30 minutes.
+
+0 of 5 steps
+0 / 50 pts
+THE PLAYBOOK
+✓
+START HERE
+Meet the Human Behind the Playbook
+10 pts
+📖 Learn
+📋 Implement
+The Human
+
+As cofounder and CPO of Gamma, he’s watched the product scale to 70 million users and more than 400 million pieces of content—presentations, documents, and websites—at a rate of over a million a day. 
+
+“I don’t think PowerPoint is going anywhere,” he says. “But our goal is to become the new standard. We want to become the next PowerPoint.” 
+
+Meanwhile, literally everyone else is already calling Gamma the “PowerPoint killer.”
+
+And for good reason.
+
+‍‍
+
+Continue to Implementation →
+✓
+STEP 1
+01: Kill Anxiety
+10 pts
+📖 Learn
+📋 Implement
+
+The cold open.
+
+Starting a deck from zero is like licking an iceberg hoping it turns into a sculpture. The blank page isn’t the enemy—inertia is.
+
+Your fastest escape hatch is stupidly simple: prompt your daily driver to build out an outline. The point isn’t perfection. 
+
+Next, feed it real context: brand positioning, call transcripts, customer quotes, internal docs, and relevant financials. Treat the model like an entry-level hire who needs to get smart on a topic fast.
+
+Get microscopic and tell the model to ask clarifying questions before it builds anything.
+
+‍
+
+Human-Verified Prompt
+
+You are a presentation specialist. Take all my raw context about [company/product/offer] and what we’re trying to [do/sell/get across].
+
+Build a 10-slide outline template:
+
+- builds tension around the current problem
+- clearly explains our differentiated approach
+- avoids generic buzzwords
+- includes concrete examples or proof points
+- preserves real quotes from the call transcript
+
+Please add "---" after each section (Gamma treats them as slide boundaries).
+
+But before you start, ask me 3–5 questions about the task.
+
+COPY
+
+‍
+
+Pro Tip: Feed your LLM all your raw context as .md or .csv files. At scale, this is the way to go to avoid fewer hallucinations. Later, you can import your final outline as a markdown directly into Gamma’s prompt generator.
+
+‍
+
+“Is this deck ready to present to a Fortune 50 client? No. But is it getting you a lot of the way there in like one one-hundredth of the time? Yes.”
+
+‍
+
+Continue to Implementation →
+✓
+STEP 2
+02: Feed Gamma
+10 pts
+📖 Learn
+📋 Implement
+
+It's hungry for an info-dense meal.
+
+Create a new presentation, but this time choose Paste in Text. 
+
+Drop in your super thought-out, bespoke outline, then, because you’re in paste mode, you can use the Special Instructions prompt editor on the top right of the workspace to tell Gamma exactly how strictly to treat your wording and your data.
+
+Use this pattern for preserving the exact language and numbers you wrote up:
+
+‍
+
+Human-Verified Prompt
+
+Use this outline to create a deck.
+Preserve my exact text and numbers. 
+Do not estimate.
+Split cards logically.
+Do not invent or modify any data.
+
+COPY
+
+‍
+
+Continue to Implementation →
+✓
+STEP 3
+03: The Last Mile
+10 pts
+📖 Learn
+📋 Implement
+
+Theme and tone, season to taste.
+
+If your org already has a designer template, import it into Gamma—or just upload any custom fonts, logos, and hex codes. 
+
+You could also build a fresh theme that fits the project. Gamma will apply themes you make globally (AKA one style change updates the entire deck instead of forcing slide-by-slide edits).
+
+Next, open the Agent at the top of the workspace and give instructions or tweaks you want to make. You can shift the entire feel of your presentation in one move:
+
+make the deck more minimal
+make it feel more premium
+tighten the language
+or even cut text by 30%
+
+Edits are non-destructive: preview changes, accept the ones you like, ignore the rest. You can also treat it like Google Slides, and click into any text box to update copy. 
+
+Pro Tip: Gamma can generate images using Nano Banana Pro, create icons for your presentation, and act as a gallery for any images you already have. Just open the Images panel on the right-hand side to find or upload new visuals. 
+
+‍
+
+Continue to Implementation →
+✓
+STEP 4
+04: Content Farm
+10 pts
+📖 Learn
+📋 Implement
+
+Send it to the conveyor belt.
+
+Once you’ve forged your deck—had it approved and battle-tested—use Gamma’s Remix tool to duplicate, reshape, and reflow it without destroying your working formula. Steal these five Remix prompts:
+
+‍
+
+Tailoring to a New Audience
+
+Adapt this pitch deck for a [TARGET AUDIENCE] audience. Emphasize [KEY PRIORITIES 1], [KEY PRIORITIES 2], and [KEY PRIORITIES 3]. Keep tone [TONE STYLE], reduce [WHAT TO REMOVE], and limit slide count to [NUMBER].
+
+COPY
+
+‍
+
+Variables + Placeholders
+
+Replace all instances of [[VARIABLE]] with [NEW VALUE] and update the contact card with: [COMPANY NAME], [EMAIL], [PHONE NUMBER]. Leave [[SECOND VARIABLE]] as a placeholder.
+
+COPY
+
+‍
+
+Locking Cards
+
+Lock the [CARD NAME 1], [CARD NAME 2], and [CARD NAME 3] cards. Do not modify fonts, logos, or the [CARD NAME 4] slide.
+
+COPY
+
+‍
+
+Populate from Structured Data
+
+Use the table below to populate the [CARD NAME] card: [COLUMN 1], [COLUMN 2], [COLUMN 3], [COLUMN 4], [COLUMN 5]. Map columns directly and summarize [KEY FIELD] in one sentence.
+
+COPY
+
+‍
+
+Automation (API & integrations)
+
+Finally, once you’ve mastered Remixing, unlock API access (Pro) and wire Gamma to your other tools to automate and scale deck creation. 
+
+Steal Jon’s No. 1 Automation:
+
+Connect Gamma to HubSpot or Salesforce via Make or Zapier. When a deal hits the proposal stage, the workflow pulls company fields and call notes, calls Gamma’s API, builds a new deck via your template and variables, then saves the deck and notifies you.
+
+Trigger: a CRM deal reaches the “proposal” stage.
+Pull: retrieve company fields, industry, ARR, and the latest call notes.
+Transform: map CRM fields into template variables (company_name becomes [[client-name]]; ARR becomes [[arr]]).
+Generate: call the Gamma API with the template ID and mapped variables, request 10 slides, and ask the API to preserve all numeric values.
+Deliver: save the finished deck to a shared folder, attach it to the CRM record, and send the deal owner a link and notification.
+
+‍
+
+The Takeaway
+
+‍
+
+Jon tells a story about a friend at McKinsey: their so-called “cheat code” for their renowned deck building isn’t magic at all. It’s a massive offshore pit crew churning out overnight decks. It works, sure, but the moment you need changes, the whole machine moves like wet cement.
+
+Our Gamma-to-LLM-to-Gamma workflow replaces the grind with a fast, controllable, scalable system. As a result, your job as a deck producer and designer shrinks to storyteller—not text box wrestler.
+
+Run the loop end to end, and three huge things will happen:
+
+You get from idea to first deck much faster.
+You can generate and compare ten variants instead of polishing a single mediocre draft.
+You can serve more clients and stakeholders with tailored-feeling decks without burning out your best people.
+
+‍
+
+Ready to Tenex your business?
+
+If this playbook sparked ideas, imagine what you could build with our team behind you.
+
+From AI engineering squads to full org-wide transformation, we help companies execute with speed, clarity, and impact.
+
+Let's solve your biggest bottlenecks—together. Get started here.
+
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Build Fortune-50-Ready Decks in Minutes With AI and Gamma","description":"Learn a proven AI workflow that turns messy notes into polished, client-ready presentations fast. This guide shows how LLMs and Gamma streamline outlining, design, iteration, and automation for sales, product, and executive teams.","image":"https://cdn.prod.website-files.com/68af32cbd5555c406456f114/692e0c3efad42084a1e3383b_Adobe%20Express%20-%20file.png","datePublished":"2025-12-03T22:28:41.000Z","dateModified":"2025-12-03T22:28:41.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/build-ai-presentations-fast"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Build Decks At The Speed Of Thought with AI","item":"https://www.tenex.co/playbooks/build-ai-presentations-fast"}]}]
+

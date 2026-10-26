@@ -1,0 +1,26 @@
+URL: https://demo.varickagents.com/finance-case-study
+Fetched: 2026-10-26T03:35:46Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/finance-case-study
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance case study
+Meta description: A Varick Agents case study. Enter the access code you were sent to open it.
+Canonical: 
+Robots: noindex, nofollow
+H1: Finance case study
+
+Protected
+Finance case study
+
+Enter the access code you were sent to open this case study.
+
+Access code
+Open the case study
+varickagents.com
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="" id=""
+  - input type=password name="password" id="p" label="Access code" placeholder="" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

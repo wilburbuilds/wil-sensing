@@ -1,0 +1,87 @@
+URL: https://www.tenex.co/about
+Fetched: 2026-10-26T03:34:32Z
+HTTP status: 200
+Final URL: https://www.tenex.co/about-us
+Content-Type: text/html
+Via: chrome-headless
+Title: Who We Are | Tenex
+Meta description: Meet Tenex: an AI transformation partner built by operators who help companies move from AI-absent to AI-first.
+Canonical: https://www.tenex.co/about-us
+Robots: 
+H1: Our mission is to help your business reach its potential & end up on the right side of history, post-AI.
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Our mission is to help your business reach its potential & end up on the right side of history, post-AI.
+What we believe
+
+AI is a technological supercycle that will completely change the way in which companies do business & people do work over the next 10 years.
+
+1
+
+There are three types of relationships businesses will have with AI: AI-absent, AI-integrated, and AI-first.
+
+2
+
+The only way to build a long-term successful business is by embracing the AI wave & getting as close to AI-first as possible.
+
+3
+
+Most companies won’t have the knowledge or bandwidth in-house to build custom AI solutions that integrate seamlessly with their existing systems, processes, and people.
+
+4
+Alex Lieberman
+MANAGING PARTNER
+Bio
+Arman Hezarkhani
+MANAGING PARTNER
+Bio
+
+Trusted by the best:
+
+Come make history
+
+If you want to be pushed more than you ever thought possible. If you want to move at breakneck speed, while elbow-to-elbow with world-class builders. If you want to help build one of the most consequential AI institutions on earth.
+
+This is your moment. Don’t let it pass you by.
+
+View open roles
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Stay on the right side of history.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"AboutPage","name":"Who We Are","description":"Meet Tenex: an AI transformation partner built by operators who help companies move from AI-absent to AI-first.","url":"https://www.tenex.co/about-us","mainEntity":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"Person","name":"Alex Lieberman","jobTitle":"Managing Partner","worksFor":{"@id":"https://www.tenex.co/#organization"},"image":"https://www.tenex.co/assets/live/alex-statue.webp","sameAs":["https://www.linkedin.com/in/alex-lieberman/","https://x.com/businessbarista"]},{"@context":"https://schema.org","@type":"Person","name":"Arman Hezarkhani","jobTitle":"Managing Partner","worksFor":{"@id":"https://www.tenex.co/#organization"},"image":"https://www.tenex.co/assets/live/arman-statue.webp","sameAs":["https://www.linkedin.com/in/ahez/","https://x.com/ArmanHezarkhani"]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Who We Are","item":"https://www.tenex.co/about-us"}]}]
+

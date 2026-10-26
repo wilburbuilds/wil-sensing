@@ -1,0 +1,24 @@
+URL: https://www.tenex.co/case-studies
+Fetched: 2026-10-26T03:34:09Z
+HTTP status: 401
+Final URL: https://www.tenex.co/case-studies
+Content-Type: text/html
+Via: read-only GET of the 401 body (the crawler records status 401 and does not save a file)
+Title: Tenex Case Studies
+Meta description: 
+Canonical: 
+Robots: noindex, nofollow
+H1: Case studies
+
+Tenex Case Studies
+Tenex
+Case studies
+This work is shared privately. Enter the password to continue.
+Password
+View case studies
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/case-studies"
+  - input type=password name="password" id="case-study-password" label="Password" required=true
+  - button type=submit label="View case studies"
+Password was not entered.

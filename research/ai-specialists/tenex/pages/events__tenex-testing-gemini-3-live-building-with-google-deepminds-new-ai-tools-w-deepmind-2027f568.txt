@@ -1,0 +1,52 @@
+URL: https://www.tenex.co/events/tenex-testing-gemini-3-live-building-with-google-deepminds-new-ai-tools-w-deepmind-product-lead-logan-kilpatrick
+Fetched: 2026-10-26T03:34:17Z
+HTTP status: 200
+Final URL: https://www.tenex.co/events/tenex-testing-gemini-3-live-building-with-google-deepminds-new-ai-tools-w-deepmind-product-lead-logan-kilpatrick
+Content-Type: text/html
+Via: chrome-headless
+Title: Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick) | Tenex
+Meta description: Tenex Testing Gemini 3: Live building with DeepMind Product Lead, Logan Kilpatrick on new AI tools. A live Human in the Loop session hosted by Tenex on November 25, 2025.
+Canonical: https://www.tenex.co/events/tenex-testing-gemini-3-live-building-with-google-deepminds-new-ai-tools-w-deepmind-product-lead-logan-kilpatrick
+Robots: 
+H1: Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick)
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+HUMAN IN THE LOOP
+Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick)
+
+Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time) • 2:00 PM - 3:00 PM EST • Riverside (Virtual)
+
+Hosted by Tenex
+
+Don't miss the next one — subscribe to the
+
+ultrathink
+
+Newsletter
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="pb-cta-form"
+  - input type=email name="email" id="" label="" placeholder="Email" aria="" required=true
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"Event","name":"Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick)","description":"Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick): a live Human in the Loop session hosted by Tenex on November 25, 2025.","url":"https://www.tenex.co/events/tenex-testing-gemini-3-live-building-with-google-deepminds-new-ai-tools-w-deepmind-product-lead-logan-kilpatrick","startDate":"Tue Nov 25 2025 00:00:00 GMT+0000 (Coordinated Universal Time)","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OnlineEventAttendanceMode","location":{"@type":"VirtualLocation","url":"https://www.tenex.co/events/tenex-testing-gemini-3-live-building-with-google-deepminds-new-ai-tools-w-deepmind-product-lead-logan-kilpatrick"},"organizer":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://www.tenex.co/events"},{"@type":"ListItem","position":3,"name":"Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick)","item":"https://www.tenex.co/events/tenex-testing-gemini-3-live-building-with-google-deepminds-new-ai-tools-w-deepmind-product-lead-logan-kilpatrick"}]}]
+

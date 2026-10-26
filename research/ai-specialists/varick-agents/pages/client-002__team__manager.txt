@@ -1,0 +1,131 @@
+URL: https://demo.varickagents.com/client-002/team/manager
+Fetched: 2026-10-26T03:36:02Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-002/team/manager
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Sales Transformation Case Study
+Meta description: Sales department transformation case study for a $2.8B enterprise SaaS company.
+Canonical: 
+Robots: 
+H1: What their team saw each day
+
+V
+VARICK
+SALES ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+AE
+VP Sales
+CRO
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Enterprise SaaS Corp
+|
+Sales Department
+|
+3.5-Month Implementation
+CHAPTER 03
+What their team saw each day
+
+VP Sales View. Their VP saw team capacity, agent performance by workflow, and smart alerts. Every rep's workload was visualized.
+
+AE
+VP Sales
+CRO
+TEAM CAPACITY
+420
+people operating at the capacity of
+580
+
+Same headcount operating at 38% more selling capacity. No new hires needed.
+
+Team capacity dashboard
+MC
+Marcus Chen
+Enterprise AE
+78% AI-handled
++3.8h/day
+freed up
+RT
+Rachel Torres
+SDR Team Lead
+88% AI-handled
++4.2h/day
+freed up
+DK
+David Kim
+Deal Desk Analyst
+82% AI-handled
++3.5h/day
+freed up
+SP
+Sarah Patel
+Sales Ops Manager
+91% AI-handled
++4.6h/day
+freed up
+JW
+James Wilson
+Enablement Lead
+74% AI-handled
++2.8h/day
+freed up
+Agent performance by workflow
+WORKFLOW
+ACCURACY
+ESCALATION
+LEARNING CURVE
+Deal Routing
+97%
+6.2%
+91%
+97%
+CRM Enrichment
+96.4%
+8.8%
+89%
+96.4%
+Security/RFP
+94.8%
+14.2%
+82%
+94.8%
+Forecast Intelligence
+95.2%
+11.6%
+84%
+95.2%
+Commission Calculation
+98.1%
+4.8%
+92%
+98.1%
+Smart alerts
+Forecast agent flagged 8 deals with stage-probability mismatch
+
+3 deals in Negotiation stage show declining engagement signals from Gong. Recommend manual review before Thursday forecast call.
+
+2 hours ago
+Security questionnaire volume up 45% this week
+
+Root cause: 3 enterprise prospects in healthcare vertical. Agent pre-populated HIPAA addendum per unwritten rule.
+
+6 hours ago
+Same-day CS handoff achieved for Apex Manufacturing
+
+First deal in pipeline to go from signature to implementation kickoff in under 4 hours. Handoff package scored 98% completeness.
+
+1 day ago
+Next: CRO View
+

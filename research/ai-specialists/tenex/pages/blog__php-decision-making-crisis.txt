@@ -1,0 +1,129 @@
+URL: https://www.tenex.co/blog/php-decision-making-crisis
+Fetched: 2026-10-26T03:34:19Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog/php-decision-making-crisis
+Content-Type: text/html
+Via: chrome-headless
+Title: The PHP Crisis Was a Decision-Making Crisis | Tenex
+Meta description: What a stalled security fix in the software behind most of the web says about how teams make hard decisions.
+Canonical: https://www.tenex.co/blog/php-decision-making-crisis
+Robots: 
+H1: The PHP Crisis Was a Decision-Making Crisis
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to Blog
+
+AI STRATEGY
+
+The PHP Crisis Was a Decision-Making Crisis
+
+What a stalled security fix in the software behind most of the web says about how teams make hard decisions.
+
+MATTHEW SIEGEL
+·
+OCTOBER 24, 2026
+·
+4 MIN READ
+
+TL;DR: AI helped turn a years-old weakness in very old software that helps power most of the internet into a working attack. It is a security crisis that came as a result of a decision-making crisis. Both have real implications for startups.
+
+You could be forgiven for mistaking the PHP crisis for simply a technical story for cybersecurity wonks. I certainly did, giving it only a brief nod in our last Ultrathink. But lots of people are talking about it, including some of my colleagues.
+
+Most coverage of the crisis focuses on AI finding vulnerabilities, attackers trying to exploit them, and governments pulling websites offline. And that’s all true. But here’s the part not getting quite enough attention: a small, underfunded team had known about one of the underlying weaknesses since 2024 and couldn’t decide what to do about it.
+
+What even is PHP?
+
+PHP is a programming language older than many of the people reading this. It is also essential to most websites, and about half of those websites run versions so old they no longer get official security updates. PHP is maintained by a small community of core developers, supported in part by the PHP Foundation, which runs on a lean budget. For many, it’s a labor of love.
+
+What actually happened?
+
+A couple of years ago, devs identified a security weakness, but nobody had demonstrated how to turn it into a serious attack. Fixing it was complicated because changes could break existing software. They still tried, but every fix they came up with had a serious downside. Because they couldn’t agree on a fix, the de facto solution was to kick the can down the road.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+Then shit got real
+
+Fast-forward to August of this year, when researchers using AI figured out how to exploit PHP’s weakness to make servers execute malicious commands. This was different from some of the more targeted explorations we’ve seen recently. It was more akin to figuring out lead pipes or asbestos were toxic for humans to live with.
+
+What do you do when that shit is everywhere?
+
+On October 17, Amazon detected an attempted attack, four days before the vulnerabilities were publicly disclosed. On October 21, the PHP project released emergency fixes. The emergency was messy, and not all of it was the Foundation’s doing. A researcher accidentally posted a video of the exploit, and one company released patched software hours ahead of the agreed time.
+
+As of this writing, there have been millions of attempted attacks, but no publicly confirmed break-ins. Nevertheless, governments across Europe pulled some of their websites offline.
+
+So why did it sit there so long?
+
+The first and easy story to tell was underfunding. Comical, absurd, ridiculous underfunding for infrastructure this important. We’re talking the Foundation’s two staff members, 13 engineers (some full-time, some part-time), and 10 unpaid board members. You couldn’t staff a Cracker Barrel with that, let alone maintain a piece of core internet infrastructure. The Foundation took in about $730,000 in donations last year. Meanwhile, OpenAI, whose models helped find this bug, has committed $1 billion in subsidized access to its AI tools for security teams with limited resources. OpenAI also paid for the security review that found the bug and gave PHP’s team access to its tools.
+
+Beyond that, three major reasons stand out:
+
+They didn’t know it could be used to break into a server
+Fixing it could make it worse or cause negative ripple effects
+Their decision-making process couldn’t reach consensus about how much “bad” was acceptable
+
+Because the team ran on consensus, it struggled to land on a fix. Considering the lack of a known attack until August, the effort turned into repeated stalling and restarting. The PHP Foundation itself said it outright: the delay was “a structural failure.”
+
+The big takeaway
+
+You can have the technical ability to fix a problem, but without leadership and clear decision-making processes, problems can rot like a bad tooth. Not being able to settle on a choice meant that they were, on some level, waiting for an external event to force some kind of reckoning. Which of course happened. But waiting for certainty is a decision too, and AI is making it a riskier one. Tellingly, the Foundation’s fix is a process fix: moving from consensus to majority decisions on hard calls.
+
+There’s no evidence that these people somehow were not thinking about this problem. They clearly were. But human beings still need to be able to coordinate and make choices, even when no real choice is terribly appealing. AI, of course, cannot fix a flawed decision-making process, and in cases where AI is not on your side, it can make delaying decision-making entirely untenable.
+
+KEEP READING
+
+AI ADOPTION
+
+We Need to Talk About Slop
+
+We surveyed our team about AI slop: how they define it, how they spot it, and how often they get wrongly accused of it. Here's what they told us.
+
+AI ADOPTION
+
+How Tenex Helped WebFX Build Claude Fluency Across the Whole Company
+
+How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.
+
+AI ADOPTION
+
+How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back
+
+Tenex helped Advantage Solutions stand up an AI Office and roll Claude out to thousands of users, returning 70,000+ labor hours a year to frontline managers.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"The PHP Crisis Was a Decision-Making Crisis","description":"What a stalled security fix in the software behind most of the web says about how teams make hard decisions.","url":"https://www.tenex.co/blog/php-decision-making-crisis","mainEntityOfPage":"https://www.tenex.co/blog/php-decision-making-crisis","image":"https://www.tenex.co/assets/blog/php-decision-making-crisis-header.jpg","datePublished":"2026-10-24T00:00:00.000Z","dateModified":"2026-10-24T00:00:00.000Z","author":{"@type":"Person","name":"Matthew Siegel"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"},{"@type":"ListItem","position":3,"name":"The PHP Crisis Was a Decision-Making Crisis","item":"https://www.tenex.co/blog/php-decision-making-crisis"}]}]
+

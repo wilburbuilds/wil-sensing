@@ -1,0 +1,103 @@
+URL: https://www.tenex.co/blog/advantage-solutions-claude-rollout
+Fetched: 2026-10-26T03:34:21Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog/advantage-solutions-claude-rollout
+Content-Type: text/html
+Via: chrome-headless
+Title: How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back | Tenex
+Meta description: Tenex helped Advantage Solutions stand up an AI Office and roll Claude out to thousands of users, returning 70,000+ labor hours a year to frontline managers.
+Canonical: https://www.tenex.co/blog/advantage-solutions-claude-rollout
+Robots: 
+H1: How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to Blog
+
+AI ADOPTION
+
+How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back
+
+Tenex helped Advantage Solutions stand up an AI Office and roll Claude out to thousands of users, returning 70,000+ labor hours a year to frontline managers.
+
+TENEX
+·
+OCTOBER 9, 2026
+·
+2 MIN READ
+
+Advantage Solutions manages about 70 million labor hours a year across retail services, so small inefficiencies add up fast. For event managers, a manual compliance check took 20 to 30 minutes every shift. Advantage’s leadership saw that AI could take on work like this, but its early pilots were spread across departments with no one deciding where to focus or how to govern them.
+
+“We want to get rid of truly redundant manual tasks and upskill teammates for training and floor presence,” said Chief AI Officer Bethany Miles.
+
+That was the brief when Advantage brought in Tenex. We started with a diagnostic across the business, which turned up more than 50 AI use cases already in motion at different stages of maturity. Those findings became the basis for Advantage’s AI Office, which we stood up with Miles to prioritize the work, set governance, and move the highest-value use cases into production.
+
+Before rolling Claude out company-wide, Advantage wanted its leaders to use it first. Tenex built and ran an enablement program on Claude Enterprise, Claude Cowork and Claude Code for a 150-person pilot that included CEO Dave Peacock. Once leadership was working in Claude day to day, we scaled the rollout from that group to thousands of users across the company.
+
+Advantage is already putting Claude to work on the problems that started this. Photo-based compliance verification is now live for event managers, replacing the manual check, and Advantage expects it to return more than 70,000 labor hours a year to training and time on the floor. In finance, teams have used Claude to cut a 10-hour weekly forecasting workflow to under 30 minutes.
+
+“Claude took all of that off our plate,” said Ash Gupta, Director of Financial Planning & Analysis. “Now we’re doing what finance is supposed to do: finding insight.”
+
+Adoption has also spread past the use cases we started with. A merchandising routing model built by one of Advantage’s super-users is now part of their client pitches, and the use case pipeline has grown from 50 to more than 100.
+
+Read Anthropic’s full story on Advantage Solutions here.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+KEEP READING
+
+AI ADOPTION
+
+We Need to Talk About Slop
+
+We surveyed our team about AI slop: how they define it, how they spot it, and how often they get wrongly accused of it. Here's what they told us.
+
+AI ADOPTION
+
+How Tenex Helped WebFX Build Claude Fluency Across the Whole Company
+
+How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.
+
+AI ADOPTION
+
+HyperFrames Studio: Beginner's Guide + Honest Review (2026)
+
+How to get started with HyperFrames Studio, HeyGen's free AI video editor: setup, 5 real builds, free prompts, and an honest good/bad/ugly verdict.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back","description":"Tenex helped Advantage Solutions stand up an AI Office and roll Claude out to thousands of users, returning 70,000+ labor hours a year to frontline managers.","url":"https://www.tenex.co/blog/advantage-solutions-claude-rollout","mainEntityOfPage":"https://www.tenex.co/blog/advantage-solutions-claude-rollout","image":"https://www.tenex.co/assets/blog/advantage-solutions-claude-rollout-header.jpg","datePublished":"2026-10-09T00:00:00.000Z","dateModified":"2026-10-09T00:00:00.000Z","author":{"@type":"Organization","name":"Tenex"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"},{"@type":"ListItem","position":3,"name":"How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back","item":"https://www.tenex.co/blog/advantage-solutions-claude-rollout"}]}]
+

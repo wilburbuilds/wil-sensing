@@ -1,0 +1,115 @@
+URL: https://demo.varickagents.com/client-001/engine
+Fetched: 2026-10-26T03:35:49Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001/engine
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: How agents actually work
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+CHAPTER 04
+How agents actually work
+
+A single invoice arrives. One Main Finance Agent spawns 5 specialized sub-agents in parallel. Each applies different SOP rules, checks different thresholds, and surfaces different decisions. This is the complexity the platform absorbed so the team no longer had to.
+
+INCOMING INVOICE
+Intercompany: Entity DE-03 → Entity US-01
+ICR-2847 · Mar 14, 2026
+$247,800.00
+Management Fee Allocation Q1 2026
+$142,000.00
+Shared Services - IT Infrastructure
+$68,300.00
+R&D Cost Sharing Agreement
+$37,500.00
+Main Finance Agent
+Orchestrates 5 sub-agents in parallel
+Spawns sub-agents
+Extraction Agent
+1.8s
+
+Extracted 3 line items from DE-03 journal entry. Currency: EUR. FX rate: 1.0842 (ECB daily). US-01 counterparty entry located in NetSuite.
+
+98%
+Entity Matching Agent
+3.1s
+
+DE-03 (Oracle, 5-digit GL: 51000) matched to US-01 (NetSuite, 4-digit GL: 5100-200). Crosswalk applied. FX variance detected: $3,412 (DE-03 used daily rate, US-01 used monthly average).
+
+Rule 1: Intercompany transactions require dual-entry elimination with matching reference IDs
+91%
+GL Coding Agent
+1.4s
+
+Line 1 → Oracle 71000 / NetSuite 7100-100 (Mgmt Fees). Line 2 → Oracle 62000 / NetSuite 6200-300 (IT Services). Line 3 → Oracle 65000 / NetSuite 6500-200 (R&D).
+
+Rule 7: Intercompany management fees allocated quarterly based on revenue-weighted formula
+95%
+Exception Classification Agent
+2.2s
+
+Exception Type 4: FX Timing Variance. DE-03 booked at transaction-date rate (ECB daily), US-01 used monthly average. This pattern recurs monthly with EUR entities. Recommend: adjust US-01 to match transaction-date rate.
+
+Rule 4: FX transactions in EUR use daily ECB rate
+91%
+Journal Prep Agent
+Pending
+
+Draft elimination JE assembled for both NetSuite and Oracle. FX adjustment of $3,412 included. Awaiting human approval for FX variance resolution.
+
+The Feedback Loop
+AGENT CODED
+Monthly Avg FX Rate
+US-01 used monthly average for EUR conversion
+HUMAN CORRECTED
+Daily ECB Rate
+Adjusted to transaction-date ECB rate per Treasury FX Policy
+Rule 4 reinforced for all EUR intercompany transactions. Next occurrence from DE-03 will auto-apply daily ECB rate. Eliminates recurring FX variance pattern.
+Before correction
+88%
+After correction
+97%
+Change Detection
+Feb 1, 2026
+Oracle entity BR-01 restructured: 8 new GL codes
+
+Brazilian entity restructuring introduced new GL codes. Crosswalk table auto-updated for 6 codes. 2 flagged for human mapping.
+
+8 rules auto-updated
+Feb 18, 2026
+Ramp merchant category taxonomy updated
+
+Ramp changed category names for 14 merchant types. Agent auto-mapped 12 to existing GL crosswalk. 2 need confirmation (Software vs SaaS distinction).
+
+14 rules auto-updated
+Mar 5, 2026
+Concur phase-out: 40% of expenses migrated to Ramp
+
+Concur expense rules now apply to shrinking volume. Ramp rules expanded to cover migrated expense types. Dual-charge detection activated.
+
+6 rules auto-updated
+Next: Outcomes
+

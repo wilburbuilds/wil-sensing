@@ -1,0 +1,190 @@
+URL: https://www.varickagents.com/blog/the-path-from-fable-to-superintelligence
+Fetched: 2026-10-26T03:33:43Z
+HTTP status: 200
+Final URL: https://www.varickagents.com/blog/the-path-from-fable-to-superintelligence
+Content-Type: text/html
+Via: chrome-headless
+Title: The Path from Fable to Superintelligence
+Meta description: Varick Agents brings AI to your business enabling faster, smarter moves with real time data and market intelligence. Automate your business today.
+Canonical: https://www.varickagents.com/blog/the-path-from-fable-to-superintelligence
+Robots: max-image-preview:large
+H1: The Path from Fable to Superintelligence
+
+V
+
+Varick Agents
+
+HOW IT WORKS
+
+CASE STUDIES
+
+CAREERS
+
+BLOG
+
+Book a Call
+
+The Path from Fable to Superintelligence 
+
+by
+
+Ibrahim Ahmed
+
+10 min read
+
+Anthropic released Fable on Monday, with tremendous capability improvements in software engineering and other white collar work. Will trends continue and summon the machine god by 2030?
+
+We ought to think in terms of scaling laws: Performance scales predictably with the amount of compute and high-quality data used in training.
+
+And to get a sense of the amount of compute available, you can plot the world’s AI chip production on a graph.
+
+Compute capacity is rapidly increasing. Anthropic’s ARR has grown from $9B at the end of 2025 to $47B as of May 2026, and they are spending much of it on compute capex. The error bars are large when projecting four years into the future, but it is quite plausible that global compute capacity will increase several multiples by 2030, with a chip fab bottleneck in 2028/2029. Because current models are already quite powerful, I posit that this projected compute increase in the next few years is sufficient to create models good enough to entirely transform the economy and render our projections obsolete. The true bottleneck lies elsewhere.
+
+On the other hand, the data supply chain tells us a lot more about the rate of AI progress. Before the OpenAI o1 model, models were simply pre-trained/fine-tuned on text. Given an input, the model was trained to predict the next tokens in the sequence. This textual data could be scraped from existing sources like the internet and open-source projects, or AI companies could pay humans to write high-quality answers that the models were trained on. Datasets could be synthetically augmented but were ultimately seeded by human output. This data was therefore expensive to generate, prompting predictions that the industry would run out of data.
+
+But o1 highlighted the issue with these predictions. For some tasks, you do not need a human to write the ideal answer. You need a way to check whether the model’s answer worked. Give the model a hard coding problem, let it attempt it a thousand times, run each attempt through tests, and train on the attempts that pass. The same setup can be run repeatedly, across many model rollouts, so a single well-designed task can yield far more supervision than a single written solution. Instead of buying individual solutions, the AI labs are buying machines for producing feedback.
+
+Today, we have an ecosystem of companies building these tests for LLMs. Companies like Mercor, Datacurve, and Mechanize run LLMs in virtual computers and write programs that score how well they perform some task. The AI labs want the tasks to be fair, and the scoring for the models’ solutions is designed to be as deterministic as possible. The labs can then use these tests to make their models better.
+
+This has made today’s models really good at tasks that can be scored deterministically and fairly, like much of software engineering.
+
+But it has also uncovered two flaws in the way we develop new AI models.
+
+The first is that the marginal cost of creating tests scales with task complexity. Humans have to design tasks that the models actually struggle on, but the humans must also be thorough in ensuring the scoring is deterministic and fair. This means that as the tasks significantly surpass human capabilities, the creation of these tests gets more expensive. Teams of humans must be involved in the development of tests for very complex tasks. This greatly increases the cost of building the tests.
+
+The second flaw is that domains which are hard to deterministically test are also hard to improve. Writing is the obvious example. This paragraph is LLM-written, and you can probably tell: it is clear, structured, and competent, but also smooth in a way that feels generic. That is not because the model cannot form sentences. It is because “good writing” is hard to score. Researchers can approximate it with human preferences, LLM judges, and reward models, but those proxies tend to reward coherence, balance, and predictability. So the model gets better at producing writing that looks polished, while still sounding recognizably machine-made.
+
+These flaws mean that while frontier models are very good at coding, they are quite inept at tasks which aren’t too difficult for humans. Vending-Bench evaluates how well AI models can run a business, and Fable 5 performs relatively poorly on Vending-Bench despite demolishing other benchmarks.
+
+If we imagine a future where Anthropic successfully launches thousands of AIs to run fully-automated companies to fund a recursively self-improving AI, we presuppose these money-printing AIs make good decisions in complex situations involving the outside world. The AI CEO of a company may have to make critical decisions that rely on having a good intuition of how customers and other actors behave. But it is infeasible to build a good isolated test for this. There are many moving pieces in the real world. Could you simulate the customer’s emotional state in your simulation, down to what they felt when they saw a competitor’s website’s styling?
+
+This doesn’t just apply to the CEO role. Frontier models are great at software engineering, including auxiliary tasks like documentation and communicating with coworkers. The models have been scored on these tasks. But they can’t reliably entirely replace most human software engineers because human software engineers often encounter taste-based decisions that lie outside the models’ training distribution. For example, when you instruct some recent frontier models to build websites, they often include meta comments in the UI (that are visible to the user) explicitly referencing your instructions. The models haven’t been trained to perceive this behaviour as undesirable. To fix this, the post-training team has to intentionally use scoring functions that explicitly penalize this behaviour. It is a manual and human-involved process.
+
+In today’s frontier AI data pipeline, we train AI models on human-built simulations of work and hope the skills transfer to real work. But when the models are doing very complex tasks, it becomes more costly and error-prone to have humans manually notice and build tests for failure modes. Once we reach the limit of what this data pipeline can teach our models, we will have to rely on new approaches or progress will stall. But what approaches will scalably teach our models to make decisions that are hard to simulate?
+
+One potential solution would be to score based on direct feedback from reality. Instead of humans manually designing tests to train AIs to make pretty UIs, Anthropic could have AIs run entire companies and score them based on real-world performance. If a company’s website had an ugly UI, the company would be less profitable, and the AI would consequently be trained against making ugly UIs.
+
+But we can’t tell current LLMs to run entire companies, because they would always go bankrupt, giving us very little information at high cost. To bootstrap the model’s ability to run an entire company, Anthropic could employ small teams of humans to run companies by managing large groups of AI agents. The humans could keep a detailed record of their decisions and the information they based their decisions on. Then Anthropic could generate realistic AI agent transcripts that simulate how the AI agent would behave in the managers’ position, and train on synthetic data pipelines that use these transcripts.
+
+More concretely, these teams could set up consulting shops to audit and automate entire departments of existing companies. Or the teams could perform the work of entire existing companies in traditional industries more efficiently, driving them out of business. Or Anthropic could refuse to offer API access to the strongest models, and force customers to purchase AI employees through the companies.
+
+If the models became good enough that some percentage of the companies they ran actually succeeded, Anthropic could directly RLVR on thousands of AI-run companies. It could use real-world metrics like revenue, growth, and churn. A marketing subagent could be evaluated on how well its ad campaigns performed, and software engineer subagents could be scored based on the technical issues real users encountered. These scoring functions could be dynamically defined by an AI.
+
+Ultimately, this would be similar to how Anthropic has largely automated software engineering, simply scaled up and using real-world signals to seed the data pipeline.
+
+The company-level reward would be sparse, so the batch size would have to be large. If only 1% of AI-run companies crossed a meaningful success threshold, then 5,000 company-runs would yield roughly 50 successes; 20,000 would yield roughly 200. That would be enough to begin separating genuinely better strategies from noise. A critic AI could then analyze transcripts, extract detailed failure reasons, and turn both successes and failures into new simulations, feedback, and training data.
+
+A serious version of this program might run 5,000 to 10,000 microcompanies per quarter, or 20,000 to 40,000 per year. At $25,000 to $100,000 in operating budget and compute per company-run, that implies annual costs ranging from hundreds of millions to a few billion dollars. This would be quite feasible given Anthropic’s projected budget.
+
+If Anthropic made a massively scalable money printer, the next step would be to obtain more compute to train more capable AIs. Its AIs could research more efficient ways to design chips and datacentres. In parallel, Anthropic could employ humans to directly scale the compute supply chain, or it could employ humans at a large scale to collect data to train robots and build real-life robot reinforcement learning warehouses. Then it could scale global compute capacity to train smarter AIs.
+
+But the AIs would still be LLMs. LLMs are prone to failing in silly ways for tasks outside the training distribution, even after that distribution had been expanded and improved. They would still require sample-inefficient training to learn new ideas without taking up space in their context. And it’s unknown whether they would be able to surpass human creativity.
+
+There are two schools of thought here. One is that these fundamental limitations of LLMs don’t matter, and we could simply scale up LLMs until they recursively self-improve and develop a superintelligence. The other is that LLMs are–in some fundamental way–limited, and are incapable of spawning a superintelligence.
+
+With sufficient compute, the former is correct: simply scaling up LLMs would produce a practically superintelligent AI. Context limits could be increased instead of solving sample inefficiency or continual learning. Perhaps creativity would be solved when LLMs could simulate people by fitting a lifetime’s worth of experiences into their context. Maybe once human intelligence was surpassed in all respects, the LLMs could build their own scoring functions based on physical reality.
+
+But if we don’t have sufficient compute, we could live in a world with very smart but not omnipotent AIs, at least temporarily. AIs smarter than Fable could automate practically all computer work, with robotics following soon after. The economy would grow rapidly–perhaps freeing humanity of work–but maybe innovation would be bottlenecked by LLMs’ lack of out-of-distribution creativity. We would live in a very different world from today, but the AIs would not be intelligent enough to cure some diseases or completely automate their data pipelines. But even this situation would be merely transient, as the economic growth and technological progress would lead to more compute and new architectures. If all else failed, the AIs could link to humans’ brains and mine them for data.
+
+In both scenarios, massively profitable AI agents would recursively fund the development of smarter AIs, and that would lead to superintelligence.
+
+Conclusion
+
+The most load-bearing assumption in this scenario is that because we now have very capable AI software engineers, Anthropic would be able to train very capable and profitable AI executives that can scale revenue massively. The main counterargument to this assumption is that it would be too expensive to collect data to automate these high-level roles. According to The Information, in September 2025, Anthropic discussed spending over $1 billion on  RL environments over the following year. Given that revenue has scaled significantly since then, they would likely be willing to spend $10 billion on the data required to automate these roles. My view is that this scale-up in budget would compensate for the open-endedness and diversity of decisions executives make. And even if the jobs of executives are not automated, the current trajectory of automating all other white collar work would likely produce sufficient revenue to continue scaling AI development.
+
+A year ago, it would’ve been reasonable to cast doubt on the AI labs’ ability to automate white collar work. AIs couldn’t use a computer like humans could. From an outside observer’s perspective, it was uncertain whether they would have sufficient compute and data to do so. Today, Fable is capable of performing practically any computer task a human is capable of. It is capable of making nuanced, skilled decisions in the domains it was trained on. It now appears management is simply another domain to be trained on.
+
+We subconsciously feel LLMs are stupid when they make stupid mistakes. But most people let this affect their perception of the frontier AI training pipeline in general. If your task is out-of-distribution, the LLM may struggle. But Anthropic can simply bring your task into the training distribution, even if it involves making very open-ended decisions. They can make a lot of money doing this.
+
+I don’t know whether this is a good future. I don’t know how much suffering the transition will cause, or whether Yudkowsky’s existential-risk concerns are well-founded. But the narrower claim seems increasingly hard to dismiss: frontier AI companies are becoming very good at training models to perform complex work, and the economic incentives to keep scaling this process are enormous. The revenue numbers are real. The compute and data pipelines are taking shape. There is a high probability that the world will look very different very soon, and most people are not prepared for how quickly the change could arrive.
+
+SCHEDULE DISCOVERY
+
+Deploy Your First AI Agent
+
+Book a Call
+
+CASE STUDIES
+
+Watch Varick Agents in Action
+
+View Deployments
+
+V
+
+Varick Agents
+
+Varick designs and deploys AI agent systems that 
+
+execute operational workflows inside enterprise organizations.
+
+1.1
+
+HOME
+
+HOME
+
+1.2
+
+HOW IT WORKS
+
+HOW IT WORKS
+
+1.3
+
+CAREERS
+
+CAREERS
+
+1.4
+
+CASE STUDIES
+
+CASE STUDIES
+
+1.5
+
+FAQ
+
+FAQ
+
+2.1
+
+X / TWITTER
+
+X / TWITTER
+
+2.2
+
+LINKEDIN
+
+LINKEDIN
+
+2.3
+
+BLOG
+
+BLOG
+
+2.4
+
+SUPPORT
+
+SUPPORT
+
+2.5
+
+PRIVACY
+
+PRIVACY
+
+2.6
+
+PRIVACY NOTICE
+
+PRIVACY NOTICE
+
+© 2026 Varick Agents. All rights reserved. Company names and logos are trademarks of their respective owners.
+
+311 California Street #750, San Francisco, CA, 94104
+

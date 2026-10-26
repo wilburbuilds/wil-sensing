@@ -1,0 +1,152 @@
+URL: https://demo.varickagents.com/client-003/discovery
+Fetched: 2026-10-26T03:35:55Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-003/discovery
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Operations Transformation Case Study
+Meta description: Operations department transformation case study for a $3.5B consumer goods manufacturer.
+Canonical: 
+Robots: 
+H1: How the team learned this operation
+
+V
+VARICK
+OPERATIONS ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Consumer Goods Manufacturer
+|
+Operations Department
+|
+4-Month Implementation
+CHAPTER 01
+How the team learned this operation
+
+The Diagnosis Agent scans Consumer Goods Manufacturer's supply chain operations across 7 connected systems. In 2-4 weeks, it surfaces exactly where time is being wasted and what to automate first.
+
+SYSTEMS DETECTED & MAPPED
+SAP
+Connected
+SAP ECC
+ERP
+API
+M
+Connected
+Manhattan WMS
+Warehouse Management
+API
+BY
+Connected
+Blue Yonder
+Demand Planning
+API
+A
+Connected
+Ariba
+Procurement
+API
+SP
+Connected
+Supplier Portal
+Supplier Management
+API
+X
+Connected
+Excel
+Spreadsheets
+File Ingestion
+O
+Connected
+Outlook
+Email
+Inbox Parsing
+7
+Systems mapped
+47
+Exception types documented
+31
+Automatable patterns
+15-20%
+Labor over-scheduling
+Where time is being wasted
+
+Exception heatmap across Consumer Goods Manufacturer's operations. Hover for detail.
+
+Supply Chain Exceptions
+32%
+Demand Planning
+22%
+Procurement / PO Management
+18%
+Warehouse Operations
+14%
+Inbound Logistics
+8%
+Quality / Returns
+6%
+Opportunity Map
+Prioritized by ROI
+
+The deliverable: a clear picture of what to automate first and why. Click any row for detail.
+
+ANNUAL VALUE CREATED
+$9.0M
+Cost reduction
+$4.3M · 48%
+Revenue growth
+$2.0M · 22%
+Risk mitigation
+$2.7M · 30%
+
+Modeled from the diagnosis baseline. Value is captured across cost reduction, revenue growth, and risk mitigation — not cost alone.
+
+#
+WORKFLOW
+AUTOMATION
+ANNUAL VALUE
+TIMELINE
+P1
+Exception Auto-Resolution
+66%
+$3.2-4.2M
+8w
+P2
+Demand Sensing
+78%
+$1.8M
+10w
+P3
+PO Optimization
+82%
+$1.3-1.7M
+8w
+P4
+Inbound Visibility
+85%
+$0.6-1.0M
+4w
+P5
+Supplier Scorecard
+72%
+$0.7-0.9M
+6w
+P6
+Returns Processing
+80%
+$0.4-0.5M
+4w
+Next: Setup
+

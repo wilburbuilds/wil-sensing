@@ -1,0 +1,66 @@
+URL: https://www.tenex.co/ai-value-chain
+Fetched: 2026-10-26T03:33:50Z
+HTTP status: 200
+Final URL: https://www.tenex.co/ai-value-chain
+Content-Type: text/html
+Via: chrome-headless
+Title: Where your $20 goes: the AI value chain, explained | Tenex
+Meta description: An interactive explainer that follows one Claude prompt from your keyboard to the bedrock: the app, fiber, cloud, data center, chips, chip factory, power and land, and what each one earns from your $20.
+Canonical: https://www.tenex.co/ai-value-chain
+Robots: 
+H1: How AI Works
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+How AI Works
+
+You pay $20 a month for AI. This explainer follows a single question, “How does AI work?”, through every company that touches it: the app, the fiber, the cloud, the data center, the chips, the chip factory, the power grid and the land underneath. Every cent is accounted for.
+
+WHAT’S INSIDE
+Ten steps, each showing what that layer earns from your $20.
+Nine deep dives: tokens, Claude’s economics, fiber, GPUs, cooling, how Claude thinks, chips, chip printing and power.
+Click through at your own pace, or press play and watch it run.
+
+FREE ACCESS
+
+Open the explainer.
+
+Enter your email and it opens right here.
+
+Email
+Leave blank
+I agree to receive Ultrathink, Tenex’s weekly Applied AI newsletter helping the modern business leader work & lead smarter with AI.
+
+Required to open the explainer. Unsubscribe anytime. Read our Privacy Policy.
+
+Submit
+↗
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="explainer-form"
+  - input type=email name="email" id="ex-email" label="Email" placeholder="" aria="" required=true
+  - button type=button name="" id="ex-suggestion-use" label="" placeholder="" aria="" required=false
+  - input type=text name="website" id="ex-website" label="Leave blank" placeholder="" aria="" required=false
+  - input type=checkbox name="consent" id="ex-consent" label="I agree to receive Ultrathink, Tenex’s weekly Applied AI newsletter helping the modern business leader work & lead smarter with AI." placeholder="" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

@@ -1,0 +1,98 @@
+URL: https://demo.varickagents.com/client-001/team
+Fetched: 2026-10-26T03:35:48Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001/team
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: What their team saw each day
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+AP Specialist
+Director
+CFO
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+CHAPTER 03
+What their team saw each day
+
+AP Specialist View. Their senior AP lead opened the queue each morning and saw 4 items requiring human judgment, down from 40+ before Varick. Everything else was handled overnight across 14 entities.
+
+AP Specialist
+Director
+CFO
+WHAT AGENTS HANDLED THAT DAY
+127
+Invoices processed
+43
+Exceptions auto-resolved
+8
+Vendor emails sent
+14
+Journal entries posted
+Before deployment, this took 8 hours/day. After deployment, it took 35 minutes.
+Queue snapshot
+4 items required human judgment
+ICR-2847
+high
+Intercompany Mismatch
+Entity DE-03 → Entity US-01 · $247,800.00
+
+Intercompany elimination mismatch: DE-03 booked EUR transaction at daily rate, US-01 used monthly average. FX variance of $3,412 exceeds auto-resolution threshold.
+
+91%
+RAMP-0934
+high
+Expense GL Re-categorization
+Ramp - Engineering Dept · $18,450.00
+
+Ramp categorized 6 transactions as "Software" but 3 are implementation services ($12,200) that should map to CapEx GL code per Ramp Integration Manual.
+
+87%
+ENT-1156
+medium
+Oracle-to-NetSuite Entity Mismatch
+Entity BR-01 (Oracle) → Consolidated (NetSuite) · $892,400.00
+
+Oracle entity BR-01 uses 5-digit GL numbering (51000). Consolidated reporting in NetSuite expects 4-digit with sub-accounts (5100-200). 8 line items failed crosswalk mapping.
+
+82%
+ARC-0298
+low
+AR Collection Priority Override
+Midwest Industrial Supply · $156,200.00
+
+Aging bucket says priority collection (90+ days). But payment behavior analysis shows this customer always pays on Day 85-92 with full payment. Historical pattern: 100% collection rate.
+
+94%
+Weekly time saved
+42h
+Week 1
+56h
+Week 2
+64h
+Week 3
+71h
+Week 4
+Next: Manager View
+

@@ -1,0 +1,117 @@
+URL: https://demo.varickagents.com/client-003/engine
+Fetched: 2026-10-26T03:35:57Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-003/engine
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Operations Transformation Case Study
+Meta description: Operations department transformation case study for a $3.5B consumer goods manufacturer.
+Canonical: 
+Robots: 
+H1: How agents actually work
+
+V
+VARICK
+OPERATIONS ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Consumer Goods Manufacturer
+|
+Operations Department
+|
+4-Month Implementation
+CHAPTER 04
+How agents actually work
+
+A supply chain disruption arrives. One Main Operations Agent spawns 5 specialized sub-agents in parallel. Each assembles different context, checks different thresholds, and surfaces different decisions. This is the complexity the platform absorbed so the team no longer had to.
+
+INCOMING DISRUPTION
+Pacific Components Ltd
+EXC-2847 · Feb 3, 2026
+340 units short
+Shipment TRK-44821 — 3 days late
+ETA: Feb 6
+Affected SKUs: HPC-201, HPC-204, HPC-209
+12 orders
+DC-4 (Chicago) — stockout risk 87%
+Critical
+Main Operations Agent
+Orchestrates 5 sub-agents in parallel
+Spawns sub-agents
+Context Assembly Agent
+1.8s
+
+Assembled context: 340 units short, 12 customer orders affected, DC-4 safety stock at 15%, DC-7 has 420 surplus units, backup supplier Meridian has capacity.
+
+98%
+Exception Classification Agent
+0.9s
+
+Classified as Type 12: Supplier Delay — Partial Shortfall. Severity: High. Matches repeatable pattern (1 of 31 automatable types).
+
+Rule 7: Stockout risk > 80% triggers automatic safety stock replenishment from nearest DC
+96%
+Impact Assessment Agent
+1.4s
+
+Revenue at risk: $127K across 12 orders. 3 orders have delivery commitments within 48 hours. 2 key accounts affected. Alternative sourcing available.
+
+Rule 2: Disruption impacting > $500K revenue triggers war room escalation within 2 hours
+94%
+Resolution Planning Agent
+2.1s
+
+Recommended: Reroute 280 units from DC-7 safety stock + expedite 60 from Meridian Parts. Cost: $4,200. Alternative: wait 3 days, risk $127K revenue. Recommend: approve reroute.
+
+Rule 10: Expedited shipping requires VP approval if cost exceeds $25K per incident
+91%
+Execution Agent
+Pending
+
+Draft actions assembled: DC-7→DC-4 transfer order, Meridian Parts expedite PO, Pacific Components delay notification, customer ETA updates. Awaiting approval.
+
+The Feedback Loop
+AGENT PLANNED
+AUTO-REROUTE
+Reroute all 340 units from DC-7
+HUMAN CORRECTED
+SPLIT-SOURCE
+Reroute 280 from DC-7 + 60 expedited from Meridian
+Exception routing rule updated. Future Type 12 exceptions with partial availability will evaluate split-sourcing before full reroute.
+Before correction
+85%
+After correction
+94%
+Change Detection
+Jan 15, 2026
+Supplier lead time change: Pacific Components
+
+Average lead time increased from 14 to 18 days. Safety stock calculations and PO timing rules auto-adjusted across affected SKUs.
+
+2 rules auto-updated
+Jan 28, 2026
+Demand forecast adjustment: Home care category
+
+POS data showed 22% above forecast for 3 consecutive weeks. Demand sensing weights recalibrated. Pre-build triggered at DC-3 and DC-5.
+
+1 rules auto-updated
+Feb 1, 2026
+New supplier onboarded: Meridian Parts
+
+Backup supplier added to exception routing options. Lead time, quality standards, and capacity constraints integrated into resolution planning.
+
+3 rules auto-updated
+Next: Outcomes
+

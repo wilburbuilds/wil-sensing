@@ -1,0 +1,164 @@
+URL: https://www.tenex.co/blog
+Fetched: 2026-10-26T03:33:52Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog
+Content-Type: text/html
+Via: chrome-headless
+Title: Blog — Tenex thinking on AI transformation | Tenex
+Meta description: Field notes on AI strategy, operations, governance, and adoption from the team building AI-native companies.
+Canonical: https://www.tenex.co/blog
+Robots: 
+H1: Field notes for the AI-native company.
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+
+BLOG
+
+Field notes for the AI-native company.
+
+Analysis, patterns, and sharp observations from the work of building with AI.
+
+FEATURED · AI ENGINEERING
+
+Building an AI-Native SDLC
+
+Breaking down MetaHarness, the system behind Tenex's SDLC, the principles it runs on, and what changes when coding agents become partners in development.
+
+Aug 5, 2026
+·
+19 min read
+Read the article
+
+AI STRATEGY
+
+The PHP Crisis Was a Decision-Making Crisis
+
+What a stalled security fix in the software behind most of the web says about how teams make hard decisions.
+
+Oct 24, 2026
+·
+4 min read
+
+AI ADOPTION
+
+We Need to Talk About Slop
+
+We surveyed our team about AI slop: how they define it, how they spot it, and how often they get wrongly accused of it. Here's what they told us.
+
+Oct 21, 2026
+·
+5 min read
+
+AI ADOPTION
+
+How Tenex Helped WebFX Build Claude Fluency Across the Whole Company
+
+How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.
+
+Oct 16, 2026
+·
+4 min read
+
+AI ADOPTION
+
+How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back
+
+Tenex helped Advantage Solutions stand up an AI Office and roll Claude out to thousands of users, returning 70,000+ labor hours a year to frontline managers.
+
+Oct 9, 2026
+·
+2 min read
+
+AI ADOPTION
+
+HyperFrames Studio: Beginner's Guide + Honest Review (2026)
+
+How to get started with HyperFrames Studio, HeyGen's free AI video editor: setup, 5 real builds, free prompts, and an honest good/bad/ugly verdict.
+
+Oct 9, 2026
+·
+9 min read
+
+AI ENGINEERING
+
+Does Your AI Agent Actually Work? A Guide to Eval-Driven Development
+
+Hand-testing a few prompts won't tell you if an agent is ready to ship. Learn the building blocks every eval platform shares, and a five-step loop for turning production failures into tests that keep them from coming back.
+
+Oct 2, 2026
+·
+11 min read
+
+AI ADOPTION
+
+How to Build a Claude Skill by Letting Claude Interview You
+
+I thought Claude connectors were bloat until I needed one. Here's how I built a Claude skill in my first week working at Tenex — plus the template I'm giving away so you can build your own.
+
+Sep 2, 2026
+·
+10 min read
+
+AI ENGINEERING
+
+Kimi K3, explained: how forgetting made the biggest open model possible
+
+K3's answer is selective memory: preserve exact history in some layers and let the rest update a fixed state. That is how forgetting made a model this large practical.
+
+Jul 30, 2026
+·
+18 min read
+
+AI GOVERNANCE
+
+The Citizen SDLC
+
+A six-stage lifecycle that takes what non-technical employees build with AI from personal prototype to production the whole company can rely on.
+
+Jul 16, 2026
+·
+16 min read
+
+AI FUNDAMENTALS
+
+The Machine That Learned to Pay Attention
+
+Part B of the series: follow one ambiguous word through a transformer, station by station, from tokenizer to attention to the dice roll that picks the next word — plus the remodels and challengers reshaping modern models.
+
+Jul 16, 2026
+·
+17 min read
+
+AI FUNDAMENTALS
+
+Vectors Are All You Need
+
+Part A of a series that builds modern AI from the ground up: how words become vectors, why the dot product runs everything, and how a machine learns by nudging numbers until it stops being wrong.
+
+Jul 8, 2026
+·
+14 min read
+Stay on the right side of history.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"CollectionPage","name":"Blog","description":"Tenex thinking on AI transformation, engineering, and operating models.","url":"https://www.tenex.co/blog","isPartOf":{"@id":"https://www.tenex.co/#website"},"mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"The PHP Crisis Was a Decision-Making Crisis","url":"https://www.tenex.co/blog/php-decision-making-crisis"},{"@type":"ListItem","position":2,"name":"We Need to Talk About Slop","url":"https://www.tenex.co/blog/we-need-to-talk-about-slop"},{"@type":"ListItem","position":3,"name":"How Tenex Helped WebFX Build Claude Fluency Across the Whole Company","url":"https://www.tenex.co/blog/webfx-claude-fluency"},{"@type":"ListItem","position":4,"name":"How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back","url":"https://www.tenex.co/blog/advantage-solutions-claude-rollout"},{"@type":"ListItem","position":5,"name":"HyperFrames Studio: Beginner's Guide + Honest Review (2026)","url":"https://www.tenex.co/blog/hyperframes-studio-guide"},{"@type":"ListItem","position":6,"name":"Does Your AI Agent Actually Work? A Guide to Eval-Driven Development","url":"https://www.tenex.co/blog/eval-driven-development"},{"@type":"ListItem","position":7,"name":"How to Build a Claude Skill by Letting Claude Interview You","url":"https://www.tenex.co/blog/claude-skill-interview-method"},{"@type":"ListItem","position":8,"name":"Building an AI-Native SDLC","url":"https://www.tenex.co/blog/building-an-ai-native-sdlc"},{"@type":"ListItem","position":9,"name":"Kimi K3, explained: how forgetting made the biggest open model possible","url":"https://www.tenex.co/blog/kimi-k3-explained"},{"@type":"ListItem","position":10,"name":"The Citizen SDLC","url":"https://www.tenex.co/blog/citizen-sdlc"},{"@type":"ListItem","position":11,"name":"The Machine That Learned to Pay Attention","url":"https://www.tenex.co/blog/the-machine-that-learned-to-pay-attention"},{"@type":"ListItem","position":12,"name":"Vectors Are All You Need","url":"https://www.tenex.co/blog/vectors-are-all-you-need"}]}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"}]}]
+

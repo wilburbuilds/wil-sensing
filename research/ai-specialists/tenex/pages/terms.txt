@@ -1,0 +1,108 @@
+URL: https://www.tenex.co/terms
+Fetched: 2026-10-26T03:33:58Z
+HTTP status: 200
+Final URL: https://www.tenex.co/terms
+Content-Type: text/html
+Via: chrome-headless
+Title: Terms of Service | Tenex
+Meta description: The terms that govern your use of tenex.co and the services, communications, and materials Tenex Labs provides.
+Canonical: https://www.tenex.co/terms
+Robots: 
+H1: Terms | Terms
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Terms
+Terms
+
+‍Effective Date: April 1, 2025
+‍Last Updated: November 12, 2025
+
+1. Overview
+Welcome to Tenex Labs, LLC (“Tenex,” “we,” “our,” or “us”). These Terms of Service (“Terms”) govern your use of our website tenex.co (the “Site”) and any related services, communications, or materials we provide (collectively, the “Services”). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree, please do not use our Site or Services.
+
+2. Eligibility
+You must be at least 18 years old and capable of entering into a binding agreement to use our Services.
+
+3. Scope of Services
+‍
+Tenex Labs provides AI consulting, software development, and advisory services. Any professional engagement between Tenex and a client is governed by a separate written agreement (e.g., Master Services Agreement or Statement of Work).
+
+Nothing on this Site constitutes an offer to perform services without such an agreement.
+
+4. Client Data & Confidentiality
+‍
+For consulting engagements, Tenex may access client systems, code bases, or proprietary data as required by the project. All such access and data handling are governed by the applicable client contract and subject to strict confidentiality obligations. We do not claim ownership of client data and use it solely for the purpose of delivering contracted work.
+
+5. Intellectual Property
+‍
+All content on the Site, including text, graphics, logos, and software, is the property of Tenex Labs, LLC or its licensors and protected by intellectual property laws.
+
+You may not reproduce, distribute, or modify any material from our Site without prior written consent.
+
+6. Acceptable Use
+‍
+You agree not to:
+Use the Site for unlawful purposes or to solicit illegal activity;
+Interfere with or disrupt Site operations or security;
+Attempt to gain unauthorized access to our systems or data.
+
+7. Disclaimers
+‍
+Our Site and Services are provided “as is” and “as available.” We make no warranties, express or implied, regarding accuracy, reliability, or fitness for a particular purpose.
+
+Tenex is not responsible for any loss or damage resulting from reliance on Site content or materials.
+
+8. Limitation of Liability
+‍
+To the fullest extent permitted by law, Tenex Labs, LLC shall not be liable for indirect, incidental, consequential, or punitive damages arising out of your use of our Site or Services.
+
+In no event shall Tenex’s total liability exceed the amount you paid (if any) for use of the Services in the twelve (12) months preceding the event giving rise to the claim.
+
+9. Third-Party Links
+‍
+Our Site may contain links to third-party websites or resources. We are not responsible for the content, products, or services offered by such third parties.
+
+10. Governing Law
+‍
+These Terms are governed by the laws of the State of Delaware, USA, without regard to its conflict of law principles.
+‍
+Any disputes shall be resolved exclusively in state or federal courts located in New York, NY, unless otherwise specified in a client contract.
+
+11. Modifications
+‍
+We may update these Terms from time to time. The “Effective Date” above will reflect the most recent update. Continued use of the Site constitutes acceptance of the revised Terms.
+
+12. Contact
+‍
+For any questions about these Terms, please contact:
+‍
+📧 human@tenex.co
+‍🏢 Tenex Labs, LLC – New York, NY
+
+Stay on the right side  of history.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+human@tenex.co
+
+2026 Tenex. All rights reserved.
+
+Blog Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

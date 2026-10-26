@@ -1,0 +1,154 @@
+URL: https://jobs.ashbyhq.com/tenexlabs/f27221d6-a9b7-47db-9d30-f90487eab01a
+Fetched: 2026-10-26T03:38:03Z
+HTTP status: 200
+Final URL: https://jobs.ashbyhq.com/tenexlabs/f27221d6-a9b7-47db-9d30-f90487eab01a
+Content-Type: text/html
+Via: chrome-headless
+Title: Senior Forward Deployed Engineer @ Tenex
+Meta description: Tenex builds frontier AI that works in the real world. Our engineers sit with C-suite leaders, find where AI adds the most value, and ship bleeding-edge AI to production.
+
+We were founded in New York City in 2025. We are currently 70 people and will double by the end of the year. We build for Fortune 500 companies across media, healthcare, retail, finance, and sports.
+
+Anthropic, OpenAI, and Cursor are partners where we turn technology into reliable systems businesses use every day.
+
+ 
+
+
+THE ROLE
+
+You’ll own client projects end to end: find where AI adds real value, decide the technical plan, build the whole system, and keep improving it in production. You’ll lead a few projects at a time in a pod run by an engineering manager.
+
+We look for engineers who:
+
+ - Have shipped and supported production software.
+
+ - Have built reliable systems with LLMs.
+
+ - Can explain decisions to a CEO or an engineer.
+
+You will learn to structure work for agents, engineer context, evaluate outputs, and decide where people stay in control. Every project leaves behind agent systems, evals, and tools that make the next one faster.
+
+The engineers we put in front of clients are the product, so hiring is the most important decision we make each week. Our engineers have worked at Google, Meta, Amazon, Microsoft, AWS, DoorDash, Coinbase, and Oracle, and many have founded companies.
+
+ 
+
+
+OUR WORK
+
+ - Sales intelligence for a sports and entertainment company. Models score 4.1M fans every night, and an LLM explains each score for sales reps. Top-ranked fans buy at 125x the rate of fans who are not called.
+
+ - Shelf and field intelligence for a beauty brand. Revenue forecasts for every shelf move, field staffing optimization, and AI checks of shelf photos. Fixing the retailer data feed alone recovered about $1M a week in sales.
+
+ - In-store computer vision for a retail analytics company. Vision models run on edge devices in each store. They count 98% of entries with zero false counts, and store no video or faces.
+
+ - AI legal review for true-story TV scripts at a global media company. Attorneys start from an AI first pass that flags defamation, false light, and privacy risks. A review that took about 7 hours now takes about 1.
+
+
+
+
+
+HOW WE PAY
+
+Most pay models were built before AI changed how fast engineers can work. Ours wasn’t: you get a base salary plus an uncapped quarterly bonus based on the work you ship, so the more you do with AI, the more you earn. Last quarter, every full-quarter engineer beat their baseline.
+
+OTE $224K-$394K • Offers Equity • Offers Bonus • 55/45 split
+
+
+
+
+
+HOW WE WORK
+
+Tenex is intense by design. The pace is fast, and the standards are high. People share what they learn, challenge each other, and step in to help, so the bar is high and so is the support.
+
+This is probably not the right place if you want a narrow scope, a predictable pace, or distance from customers. It is built for engineers who want responsibility, hard problems, and a steep learning curve.
+
+ 
+
+
+OUR VISION
+
+We’re bootstrapped and profitable, and we reinvest what we earn into tools, research, and products of our own. Over time, that’s how we build a modern-day Bell Labs: a place where solving today’s problems gives us the means to tackle bigger ones.
+Canonical: 
+Robots: all
+H1: Senior Forward Deployed Engineer
+
+Senior Forward Deployed Engineer
+Location
+
+New York City
+
+Employment Type
+
+Full time
+
+Location Type
+
+On-site
+
+Department
+
+Engineering
+
+Overview
+Application
+
+Tenex builds frontier AI that works in the real world. Our engineers sit with C-suite leaders, find where AI adds the most value, and ship bleeding-edge AI to production.
+
+We were founded in New York City in 2025. We are currently 70 people and will double by the end of the year. We build for Fortune 500 companies across media, healthcare, retail, finance, and sports.
+
+Anthropic, OpenAI, and Cursor are partners where we turn technology into reliable systems businesses use every day.
+
+ 
+The Role
+
+You’ll own client projects end to end: find where AI adds real value, decide the technical plan, build the whole system, and keep improving it in production. You’ll lead a few projects at a time in a pod run by an engineering manager.
+
+We look for engineers who:
+
+Have shipped and supported production software.
+
+Have built reliable systems with LLMs.
+
+Can explain decisions to a CEO or an engineer.
+
+You will learn to structure work for agents, engineer context, evaluate outputs, and decide where people stay in control. Every project leaves behind agent systems, evals, and tools that make the next one faster.
+
+The engineers we put in front of clients are the product, so hiring is the most important decision we make each week. Our engineers have worked at Google, Meta, Amazon, Microsoft, AWS, DoorDash, Coinbase, and Oracle, and many have founded companies.
+
+ 
+Our Work
+
+Sales intelligence for a sports and entertainment company. Models score 4.1M fans every night, and an LLM explains each score for sales reps. Top-ranked fans buy at 125x the rate of fans who are not called.
+
+Shelf and field intelligence for a beauty brand. Revenue forecasts for every shelf move, field staffing optimization, and AI checks of shelf photos. Fixing the retailer data feed alone recovered about $1M a week in sales.
+
+In-store computer vision for a retail analytics company. Vision models run on edge devices in each store. They count 98% of entries with zero false counts, and store no video or faces.
+
+AI legal review for true-story TV scripts at a global media company. Attorneys start from an AI first pass that flags defamation, false light, and privacy risks. A review that took about 7 hours now takes about 1.
+
+How We Pay
+
+Most pay models were built before AI changed how fast engineers can work. Ours wasn’t: you get a base salary plus an uncapped quarterly bonus based on the work you ship, so the more you do with AI, the more you earn. Last quarter, every full-quarter engineer beat their baseline.
+
+OTE $224K-$394K • Offers Equity • Offers Bonus • 55/45 split
+
+How We Work
+
+Tenex is intense by design. The pace is fast, and the standards are high. People share what they learn, challenge each other, and step in to help, so the bar is high and so is the support.
+
+This is probably not the right place if you want a narrow scope, a predictable pace, or distance from customers. It is built for engineers who want responsibility, hard problems, and a steep learning curve.
+
+ 
+Our Vision
+
+We’re bootstrapped and profitable, and we reinvest what we earn into tools, research, and products of our own. Over time, that’s how we build a modern-day Bell Labs: a place where solving today’s problems gives us the means to tackle bigger ones.
+
+Apply for this Job
+Powered by 
+
+Privacy PolicySecurityVulnerability Disclosure
+
+--- json-ld ---
+{"@context":"https://schema.org/","@type":"JobPosting","title":"Senior Forward Deployed Engineer","description":"<p style=\"min-height:1.5em\">Tenex builds frontier AI that works in the real world. Our engineers sit with C-suite leaders, find where AI adds the most value, and ship bleeding-edge AI to production.</p><p style=\"min-height:1.5em\">We were founded in New York City in 2025. We are currently 70 people and will double by the end of the year. We build for Fortune 500 companies across media, healthcare, retail, finance, and sports.</p><p style=\"min-height:1.5em\">Anthropic, OpenAI, and Cursor are partners where we turn technology into reliable systems businesses use every day.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2><strong>The Role</strong></h2><p style=\"min-height:1.5em\">You’ll own client projects end to end: find where AI adds real value, decide the technical plan, build the whole system, and keep improving it in production. You’ll lead a few projects at a time in a pod run by an engineering manager.</p><p style=\"min-height:1.5em\">We look for engineers who:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Have shipped and supported production software.</p></li><li><p style=\"min-height:1.5em\">Have built reliable systems with LLMs.</p></li><li><p style=\"min-height:1.5em\">Can explain decisions to a CEO or an engineer.</p></li></ul><p style=\"min-height:1.5em\">You will learn to structure work for agents, engineer context, evaluate outputs, and decide where people stay in control. Every project leaves behind agent systems, evals, and tools that make the next one faster.</p><p style=\"min-height:1.5em\">The engineers we put in front of clients are the product, so hiring is the most important decision we make each week. Our engineers have worked at Google, Meta, Amazon, Microsoft, AWS, DoorDash, Coinbase, and Oracle, and many have founded companies.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2><strong>Our Work</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Sales intelligence for a sports and entertainment company.</strong> Models score 4.1M fans every night, and an LLM explains each score for sales reps. Top-ranked fans buy at 125x the rate of fans who are not called.</p></li><li><p style=\"min-height:1.5em\"><strong>Shelf and field intelligence for a beauty brand.</strong> Revenue forecasts for every shelf move, field staffing optimization, and AI checks of shelf photos. Fixing the retailer data feed alone recovered about $1M a week in sales.</p></li><li><p style=\"min-height:1.5em\"><strong>In-store computer vision for a retail analytics company.</strong> Vision models run on edge devices in each store. They count 98% of entries with zero false counts, and store no video or faces.</p></li><li><p style=\"min-height:1.5em\"><strong>AI legal review for true-story TV scripts at a global media company.</strong> Attorneys start from an AI first pass that flags defamation, false light, and privacy risks. A review that took about 7 hours now takes about 1.</p></li></ul><h3></h3><h2><strong>How We Pay</strong></h2><p style=\"min-height:1.5em\">Most pay models were built before AI changed how fast engineers can work. Ours wasn’t: you get a base salary plus an uncapped quarterly bonus based on the work you ship, so the more you do with AI, the more you earn. Last quarter, every full-quarter engineer beat their baseline.</p><p style=\"min-height:1.5em\"><em>OTE $224K-$394K • Offers Equity • Offers Bonus • 55/45 split</em></p><h3></h3><h2><strong>How We Work</strong></h2><p style=\"min-height:1.5em\">Tenex is intense by design. The pace is fast, and the standards are high. People share what they learn, challenge each other, and step in to help, so the bar is high and so is the support.</p><p style=\"min-height:1.5em\">This is probably not the right place if you want a narrow scope, a predictable pace, or distance from customers. It is built for engineers who want responsibility, hard problems, and a steep learning curve.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2><strong>Our Vision</strong></h2><p style=\"min-height:1.5em\">We’re bootstrapped and profitable, and we reinvest what we earn into tools, research, and products of our own. Over time, that’s how we build a modern-day Bell Labs: a place where solving today’s problems gives us the means to tackle bigger ones.</p>","directApply":false,"identifier":{"@type":"PropertyValue","name":"Tenex","value":"f27221d6-a9b7-47db-9d30-f90487eab01a"},"datePosted":"2026-08-17","hiringOrganization":{"@type":"Organization","name":"Tenex","sameAs":"https://www.tenex.co/","logo":"https://app.ashbyhq.com/api/images/org-theme-logo/ca3bbf51-6333-4a6c-acbc-4c3ff31594f9/13348d0c-dad5-461b-9fde-8ee53a17825a/00711ea2-8e3c-443b-bc75-1e98f12fdf48.png"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"New York City","addressRegion":"New York","addressCountry":"United States"}},"employmentType":"FULL_TIME"}
+

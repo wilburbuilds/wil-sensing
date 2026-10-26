@@ -1,0 +1,224 @@
+URL: https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent
+Fetched: 2026-10-26T03:34:30Z
+HTTP status: 200
+Final URL: https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent
+Content-Type: text/html
+Via: chrome-headless
+Title: How to Build Your First AI Agent | Tenex
+Meta description: An AI agent is software with a trigger, a loop and tools. Build your first one step by step with Claude Code, no engineering background needed.
+Canonical: https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent
+Robots: 
+H1: How to Build Your First AI Agent
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to The Big Question
+
+AI FUNDAMENTALS
+
+How to Build Your First AI Agent
+
+An AI agent is software with a trigger, a loop and tools. Build your first one step by step with Claude Code, no engineering background needed.
+
+TENEX
+·
+OCTOBER 15, 2026
+·
+10 MIN READ
+
+THE TLDR
+
+An AI agent is software built around a model that decides what to do next, with three parts: a trigger that starts the work, a loop where the model makes decisions, and tools that let it act. You can build one without being an engineer: describe each capability to Claude Code, starting with the model, then a tool, a conversation and sub-agents, and paste any error back in so it can fix it. Test each capability before you rely on it.
+
+What’s the difference between software and an AI agent? Where does something stop being software and start being an agent?
+
+An agent is a type of software built around an AI model that can decide what to do next. At minimum, it has three parts: a trigger that starts the work, a loop where the model makes decisions, and tools that let it act.
+
+The fastest way to understand how those pieces fit together is to build one. This guide walks you through it step by step, including the plain-English instructions you can give an AI coding tool at each stage. You don’t need to be an engineer, and by the end, you’ll have built your first agent and know exactly what makes it one.
+
+What an agent actually is
+
+The trigger is whatever wakes the agent up. It could be a message you type, a new email or a scheduled time. In ChatGPT, it’s you starting a conversation.
+
+The loop is what happens between the trigger and the response: the model looks at the current context and decides what to do next, then repeats until it’s done.
+
+The tools are what let it do things beyond talking. When you connect ChatGPT to Google Drive, Notion or Gmail, you’re giving it tools.
+
+Tools like n8n, Lindy, Zapier, Gamma and Claude Code all get called agents, and each has some version of the three parts.
+
+Build it by describing what you want
+
+You don’t have to write the code yourself. Describe what you want to Claude Code, Anthropic’s AI coding tool, and it writes the code for you. You’ll run a handful of terminal commands along the way, like making a folder, installing what the code needs and running it, and Claude Code will tell you what they are.
+
+Add one capability at a time, and follow one rule throughout: when something breaks, paste the error back into Claude Code and let it fix the problem.
+
+Two different AIs are involved here, so it helps to keep them straight. Claude Code is the builder. The agent you build runs on a model from OpenAI, which is its brain.
+
+What you’ll need
+
+Claude Code, installed before you start, to write the code
+Cursor, a code editor with a terminal built in
+Python, installed on your computer, to run the agent’s code
+An OpenAI API key, so the agent can use OpenAI’s models
+
+An API is how one piece of software talks to another. The key is a password for it, and it’s also how the provider bills you for what you use. Keep it in a .env file so it lives outside your code, and never share that file or upload it along with your code.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+Step 1: Start with the model
+
+First, get the model to talk back. Tell Claude Code:
+
+I want to build an agent, but I want to go step by step. The way I think about agents is you have a trigger, a loop and tools. Right now I just want to work on the loop. Make a single function that lets me chat with OpenAI’s API directly, and create a .env file for the API key. Use Python.
+
+Why start here? Think back to the day ChatGPT came out. All you could do was talk to it, and it was still incredibly valuable.
+
+Claude Code creates two files: the .env file, where you paste your API key, and agent.py, the program itself. The first few lines pull in code other people have already written. The next one loads the key. A short block sends a message to OpenAI and prints the reply. If you want a newer model, ask Claude Code to switch, and it will change that one line.
+
+Claude Code will also tell you how to run it: install the packages the code depends on, then run the file. If a command fails, try pip3 and python3 instead of pip and python.
+
+The result is a single line: “Hello, how can I help you today?”
+
+That can feel underwhelming. But that same exchange, a message to a model and a reply back, sits underneath a huge amount of the AI software you use.
+
+There isn’t much of a loop yet. The program sends one message and prints one answer. But it establishes the piece everything else builds around: the model.
+
+Step 2: Give it a tool
+
+This is the step where it starts behaving like an agent. Tell Claude Code:
+
+Now I want to add tools. Add the tools to a different file, and let’s start by calling the Yahoo Finance API as our first tool.
+
+Claude Code writes a function that takes a stock ticker, like AAPL for Apple, and looks up its latest closing price. Read through it. You can probably follow it without being an engineer, because Python reads a lot like English. This tool doesn’t need an API key; Yahoo Finance’s stock data doesn’t require one.
+
+To the model, a tool is a name plus a description of what it does and how to use it. (That’s also the idea behind MCP, which people mention constantly: a standard way to package tool descriptions so any agent can use them.) The agent hands the model its list of tools along with your request. The model can use any of them as often as it wants, or just respond. It only knows about the tools on the list.
+
+Before: input → model → answer
+
+After: input → model decides what it needs → tool runs → result returns to the model → model decides what to do next
+
+The second line is the loop: the model decides, acts, looks at the result and decides again.
+
+Which raises a question: how can you trust the model to use a tool exactly when it should, and not when it shouldn’t? Part of it is training. Anthropic can train Claude to be very good at using its own tools, which is part of why Claude Code works so well. The rest is prompting: agents run on long system prompts that spell out how and when to use each tool.
+
+So why not give an agent every tool you have? Because each tool’s description goes into the model’s context, the same limited space your conversation takes up, and too many of them distract it. Think of a mechanic who keeps every tool on his belt. Carry too many and his pants fall down. You only want the tools for the job in front of you.
+
+And expect things to break. When we built this, the first runs hit errors. Pasting each one back into Claude Code got it to install a different version of the package, then rewrite the tool to fetch the data a different way, and the agent came back with Apple’s price.
+
+Step 3: Make it conversational
+
+Up to this point, the question is written into the program. Every time you run it, it asks for Apple’s price, because that’s what the last lines of the file say. The next instruction lets you ask your own:
+
+I want to be able to interact with this agent via my terminal. I also want to be able to have multiple messages within the same conversation.
+
+Now your request is the trigger. Instead of getting Apple’s price every time, you can ask about your whole portfolio, or how a stock has moved over the past year.
+
+Try asking how Tesla’s stock has performed over the last 30 days. When we did, the agent didn’t reach for the stock tool. It asked a question back: did we want a summary of the key movements, the percentage change or a simple chart? It only used the tool once we asked for today’s price.
+
+That’s the point to hold onto: the model decides what happens next. It chose to ask before it acted.
+
+Each turn carries the conversation forward. When you reply, the agent sends the model everything again: the tool descriptions, your first message, the model’s question and your answer. That’s how it keeps track of what you’re talking about, and it’s why the conversation itself takes up some of the model’s limited context.
+
+Step 4: Split up bigger jobs
+
+Sub-agents are one of the most useful features of Claude Code, and you can give your own agent the same ability. Here’s the idea. Imagine you have a really good intern and a machine that photocopies interns. Now you have five. Instead of sending one intern to look up Apple’s price, waiting for him to come back and then sending him for GM’s, each copy looks up a different stock at the same time.
+
+Tell Claude Code:
+
+I want you to build sub-agent capabilities into my agent such that I can run multiple queries at once across numerous agents.
+
+Claude Code adds two pieces: one that runs a single query as its own agent, with its own context and tools, and one that runs several of those at once. In the code, the change is smaller than it sounds. The agent now has a second tool next to the stock-price lookup. A sub-agent is just a tool, one that creates an entirely new agent.
+
+When should you use one? Think about agents the way you think about people: use a sub-agent when you’d hand the work to a different person. You delegate when you want someone’s entire headspace on one task, and the same goes for an agent’s context.
+
+Deep research on a company is a good example. One sub-agent researches the financials, another the competition, another the customer feedback. Each writes a full report, and then the reports get consolidated. Four stock prices, on the other hand, would be fine in one thread.
+
+Be explicit about it. An agent can decide to use sub-agents on its own, but it’s better to tell it to. Micromanaging its behavior through the prompt is how you get what you want. For example:
+
+I want the price of Tesla, Apple, Nvidia and Disney. Spin up four sub-agents, with each one finding and delivering the stock price of the company it’s researching.
+
+When we ran it, all four prices came back, fetched in parallel.
+
+How far can you take it?
+
+At this point, you’ve built an agent. The next question is how far the same approach goes. Claude Code is a useful benchmark: it’s an agent too, and you can start building toward it.
+
+The shortcut is to ask Claude Code itself. In a fresh session, type:
+
+You are an agent. What are all of the tools that you have access to?
+
+It will list something like this: reading files (including images and PDFs), writing files, editing them, finding files by name pattern and running commands.
+
+The tool that matters most is the last one. Running commands means using bash: the commands you type into the terminal. You’ve been using them the whole time, every time you typed a command to run your agent. Before computers had graphical interfaces, the terminal was all there was, and you can still do everything through it. An agent that can run them can do almost anything you can do on your computer, with the same access you have.
+
+So give your agent that tool:
+
+I want to allow the agent running on my computer to execute bash commands so that it can perform tasks like Claude Code.
+
+That’s the only new capability in this step, and it doesn’t make your agent Claude Code. It still has no web search, no memory and no planning. But each of those is one more tool, added the same way. No memory? Add memory. No planning? Add planning.
+
+Before you give it real responsibility
+
+In a demo, mistakes are cheap. An agent that touches customer data, sends email, moves money or changes files is different. Start with limited permissions and require human approval for anything consequential. If your agent can write a good customer email, that doesn’t mean it needs permission to send one. Then test it against real scenarios before giving it more room to act on its own.
+
+Then watch it break
+
+Now run a test that uses all of it: sub-agents, the stock tool and the agent’s new access to the computer. For example:
+
+Pull the stock price for Apple, Tesla, Nvidia and Disney. Once you’ve pulled the prices, create a CSV file that has their ticker and price.
+
+When we ran this, the prices came back. The file didn’t. After a long wait, the agent returned a single word: None. Not even an error.
+
+It broke on the most capable version of the agent, and we never pinned down why.
+
+That’s the other thing the build makes clear. Agents are easy to make capable and much harder to make reliable, and closing that gap takes testing. If you’re going to rely on one, start with Your First Agent Eval.
+
+What you built
+
+You built software with a trigger, a loop and tools, held together by a model that decides what happens next. Most agents you’ll come across are the same thing with more tools and more freedom to act. Add capabilities one at a time, and test each one before you rely on it.
+
+KEEP READING
+
+AI STRATEGY
+
+What Actually Goes Into an AI Strategy, and Where Do We Start?
+
+Put every AI initiative on one grid that scores readiness and impact. A four-step method for deciding what to fund, fix, keep running or stop.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"Article","headline":"How to Build Your First AI Agent","description":"An AI agent is software with a trigger, a loop and tools. Build your first one step by step with Claude Code, no engineering background needed.","url":"https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent","mainEntityOfPage":"https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent","image":"https://www.tenex.co/assets/live/open-graph.webp","datePublished":"2026-10-15T00:00:00.000Z","dateModified":"2026-10-15T00:00:00.000Z","author":{"@type":"Organization","name":"Tenex"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"The Big Question","item":"https://www.tenex.co/the-big-question"},{"@type":"ListItem","position":3,"name":"How to Build Your First AI Agent","item":"https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent"}]}]
+

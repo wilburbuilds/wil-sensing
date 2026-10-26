@@ -1,0 +1,59 @@
+URL: https://demo.varickagents.com/client-002
+Fetched: 2026-10-26T03:35:36Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-002
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Sales Transformation Case Study
+Meta description: Sales department transformation case study for a $2.8B enterprise SaaS company.
+Canonical: 
+Robots: 
+H1: The Varick Sales Engine
+
+V
+VARICK
+SALES ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Enterprise SaaS Corp
+|
+Sales Department
+|
+3.5-Month Implementation
+Case Study Evidence
+The Varick Sales Engine
+
+How Varick deployed a sales operating layer across a $2.8B ARR enterprise SaaS company with 4,600 employees, a 420-person sales org, and Fortune 500 buyers.
+
+$2.8B ARR · 420-person sales org · 8 connected systems
+
+View Case Study
+5 CHAPTERS · DOCUMENTED ENGAGEMENT
+01
+Discovery
+Diagnosis agent mapped the operation and surfaced opportunities
+02
+Setup
+SOP compilation, system integration, and agent configuration
+03
+Team Views
+What AEs, VP Sales, and the CRO saw each day
+04
+Under the Hood
+How agents orchestrate, learn, and adapt
+05
+Outcomes
+The results after 3.5 months in production
+

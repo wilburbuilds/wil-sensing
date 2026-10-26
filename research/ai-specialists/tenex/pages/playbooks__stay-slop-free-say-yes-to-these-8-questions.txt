@@ -1,0 +1,303 @@
+URL: https://www.tenex.co/playbooks/stay-slop-free-say-yes-to-these-8-questions
+Fetched: 2026-10-26T03:34:01Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/stay-slop-free-say-yes-to-these-8-questions
+Content-Type: text/html
+Via: chrome-headless
+Title: Stay Slop-Free: Say Yes to These 8 Questions | Tenex
+Meta description: Eight yes-or-no questions, four on process and four on the artifact, to ask before your writing reaches its audience.
+Canonical: https://www.tenex.co/playbooks/stay-slop-free-say-yes-to-these-8-questions
+Robots: 
+H1: Stay Slop-Free: Say Yes to These 8 Questions
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Stay Slop-Free: Say Yes to These 8 Questions
+
+Eight yes-or-no questions, four on process and four on the artifact, to ask before your writing reaches its audience.
+
+free claude skill
+
+Prefer to run this with Claude?
+
+slop-free-check walks any draft through all eight questions and ends with a scorecard of what to fix.
+
+Email
+Download the skill
+Subscribe me to ultrathink, Tenex's twice-weekly AI newsletter. (Required)
+
+By subscribing, you agree to receive recurring marketing communications from Tenex at the email you provide. Unsubscribe anytime. See our Terms and Privacy Policy.
+
+0 of 9 steps
+0 / 90 pts
+THE PLAYBOOK
+✓
+START HERE
+Eight questions before you hit send
+10 pts
+📖 Learn
+📋 Implement
+
+Low-effort, low-quality AI-generated writing is far too common. AI-generated or AI-assisted writing is not inherently slop. In many contexts it is expected, useful, or even preferable. The problem begins when it substitutes for work your audience reasonably expects you to have done yourself.
+
+These eight questions are meant to help you make sure you’re not falling into the slop trap and letting “looks good enough” reach your audience. The process questions ask whether you did the thinking. The artifact questions ask whether that thinking made it onto the page.
+
+Continue to Implementation →
+✓
+STEP 1
+Understanding
+10 pts
+📖 Learn
+📋 Implement
+
+Process — did I do the work? These questions are self-examination. Nobody else can see your process, so they only work if you're honest with yourself.
+
+Do I understand what I’m claiming and why?
+
+What a yes looks like:
+
+I can explain the main point without the draft in front of me.
+I can say where I’m still uncertain.
+I could respond if someone challenged a claim or assumption.
+
+Understanding doesn't mean knowing everything, but it does mean knowing the material well enough to own what you’re saying about it, whether that is a complex topic or a personal experience you’ve had. Understanding also means knowing what you’re claiming, why it holds, where it’s thin, and what the alternative or opposing viewpoints are.
+
+To test yourself, have your AI assistant play the skeptic. Answer without looking at the draft, and notice where you hesitate.
+
+Paste into your AI assistant:
+
+Here’s a draft: [paste]. Quiz me on it one question at a time, as if I had to defend it: the main claim, why it holds, where it’s weakest, and the strongest objection. I’ll answer without looking at the draft. After each answer, tell me where it was vague or didn’t match what the draft says.
+
+COPY
+Continue to Implementation →
+✓
+STEP 2
+Accuracy
+10 pts
+📖 Learn
+📋 Implement
+
+Did I check the facts myself?
+
+What a yes looks like:
+
+I checked important claims against the original sources and/or my own expertise.
+My text has not misinterpreted or misrepresented any sources.
+I weeded out marketing, conventional wisdom, and LLM fabrications presented as fact.
+
+A source from an LLM isn’t necessarily verification, and neither is seeing the same claim in several places. Repetition is easy to manufacture and marketing gets tangled up with legitimate research. Models can overstate or mangle findings. The more important the claim, the closer you should get to the original evidence. You picked up the basic skill when you learned to Google: not all sources are equally trustworthy.
+
+Your AI assistant can’t verify facts for you, but it can help you minimize missing any. Use it to build the list, then do the checking yourself.
+
+Paste into your AI assistant:
+
+Here’s a draft: [paste]. List every factual claim in it: numbers, dates, quotes, study findings, and statements about what a person or company did. For each, say what kind of source would confirm it, and flag any that sound like marketing, conventional wisdom, or an overstated finding. Don’t tell me whether they’re true. I’ll check them myself.
+
+COPY
+Continue to Implementation →
+✓
+STEP 3
+Judgment
+10 pts
+📖 Learn
+📋 Implement
+
+Did I decide what matters, what it means, and how to frame it?
+
+What a yes looks like:
+
+If I kept a framing from the LLM or my sources, I kept it on purpose.
+I challenged the assumptions underneath that framing.
+This is the point I actually believe is worth making.
+
+Judgment is among the most important things that separate your brain from a computer brain. Your preferences are far less likely to be the result of group-think or a lowest common denominator. Your writing should be a collection of choices. That includes both the content and the framing. There is nothing wrong with accepting either, but it must be conscious and considered acceptance. In your process, you should be interrogating the LLM’s outputs, pushing against their assumptions, and having it push against yours.
+
+To see your framing clearly, ask your AI assistant to name it and suggest other ways to frame it. You decide whether yours still holds.
+
+Paste into your AI assistant:
+
+Here’s a draft: [paste]. Identify the main judgments, framings, and assumptions it relies on. For each, tell me whether it’s a common talking point or borrowed from a source, and suggest at least one other way to frame it. Don’t tell me which framing is better.
+
+COPY
+Continue to Implementation →
+✓
+STEP 4
+Improvement
+10 pts
+📖 Learn
+📋 Implement
+
+Can I show how I improved the initial outputs?
+
+What a yes looks like:
+
+I can name what changed between the first output and the final piece.
+My changes increased accuracy, specificity, usefulness, and/or clarity.
+Someone comparing the two versions would notice clear differences.
+
+Moving words around and cutting down LLM tells isn’t serious improvement. Improvement means the final version does something for the reader that the first output didn’t. This means you’ve used the LLM to help you make something you can claim as your own. The purpose of writing should go beyond conveying information. If you wrote the first draft yourself and used AI only for research or edits, there’s no first output to compare, and this one is a yes.
+
+Put the first output next to the final version. If you use the prompt below, check what it says yourself, because it will lean toward flattering you.
+
+Paste into your AI assistant:
+
+Here are two versions of a piece. The first output: [paste]. The final version: [paste]. Describe specifically what changed: what was added, cut, reordered, or reframed. Point out any changes that are only cosmetic. Don’t tell me which version is better.
+
+COPY
+Continue to Implementation →
+✓
+STEP 5
+Authenticity
+10 pts
+📖 Learn
+📋 Implement
+
+Artifact — can you tell? These questions are about how the work is perceived. You should always imagine a reader who is smarter than you.
+
+Is it free of obvious AI tells?
+
+What a yes looks like:
+
+The sentences vary in structure and rhythm.
+It doesn’t lean on stock transitions or canned contrasts.
+The claims aren’t inflated, and the emphasis lands only where it matters.
+
+It’s not a question of whether or not you use any long dashes or any “it’s not x, it’s y” constructions — those things are still worth keeping an eye on. But how many of these patterns show up and how frequently does matter. Human writing varies; machine writing tends to settle into patterns. And the tells also shift. You don't see delve much anymore, so it’s not like simply avoiding words like that is enough. Training an LLM on your own writing also doesn't solve the problem because you tend to end up with a machine that kind of sounds like you.
+
+LLMs are good at spotting patterns, including their own. Have your AI assistant count them, then decide which ones are worth fixing.
+
+Paste into your AI assistant:
+
+Here’s a draft: [paste]. Flag patterns common in AI-generated writing: repeated sentence structures or rhythms, stock transitions, “it’s not X, it’s Y” contrasts, inflated claims, and the same emphasis on every point. For each pattern, count how often it appears and quote the instances. Don’t rewrite anything.
+
+COPY
+Continue to Implementation →
+✓
+STEP 6
+Necessity
+10 pts
+📖 Learn
+📋 Implement
+
+Is every part of this doing work for the reader?
+
+What a yes looks like:
+
+Every section says something the others don’t.
+It doesn’t announce what’s coming or recap what was just said.
+It’s no longer than necessary.
+
+LLM drafts tend to run long, announcing points before making them, restating them afterward, and closing with a summary. Length is not an indication of effort, and when it comes to writing with LLM assistance, excess length becomes a tell itself.
+
+Your AI assistant can help you trim the excess; you decide what stays.
+
+Paste into your AI assistant:
+
+Here’s a draft: [paste]. Mark every sentence that repeats an earlier point, announces what’s coming, recaps what was just said, or could be cut without losing information. Don’t rewrite anything.
+
+COPY
+Continue to Implementation →
+✓
+STEP 7
+Authorship
+10 pts
+📖 Learn
+📋 Implement
+
+Would a reader recognize me as the author, even without my name on it?
+
+What a yes looks like:
+
+It sounds like me where my voice belongs.
+The word choice and rhythm are mine, not the model’s defaults.
+
+Removing AI tells is not enough; a piece can sound perfectly competent and still sound like nobody wrote it. Your voice belongs wherever you're the expected author, which is generally anything with your name on it. Some writing, of course, should leave you invisible, and that's fine. You should know which kind you’re writing.
+
+This one needs a few samples of your own writing, ideally pieces you wrote without AI help, so your AI assistant has something to compare against.
+
+Paste into your AI assistant:
+
+Here are three things I wrote without AI help: [paste]. Here’s a new draft: [paste]. Describe what’s distinctive about how I write in the first three: word choice and sentence rhythm. Then point to the places where the new draft stops sounding like me.
+
+COPY
+Continue to Implementation →
+✓
+STEP 8
+Contribution
+10 pts
+📖 Learn
+📋 Implement
+
+Is there something here only because I was involved?
+
+What a yes looks like (at least one):
+
+I found material others were unlikely to surface.
+I selected, ordered, or connected material in a way that makes a point the pieces don’t make alone.
+I brought something of my own: a point the sources don’t make or experience from my own work.
+
+The judgment question asks whether you made choices, but this question asks whether your judgment changed anything: if you consciously chose the standard framing, that might be good judgment, but it isn’t your contribution. If you mostly summarized your sources, followed the LLM’s suggested order, arrived at the takeaways anyone who asked would get, or used stock examples when you had real ones, none of that counts as your contribution.
+
+The improvement question asks what you changed between the first output and the final version, but this question asks what’s there because of you, including the sources and notes that shaped that first output.
+
+In the conversation where you worked on the piece:
+
+Paste into your AI assistant:
+
+Go back through this conversation and tell me honestly what my contributions were. Do not inflate the work I’ve done and do not be sycophantic. Also tell me what your contributions were. Place them side by side in a chart, quoting where each one came from, and then give me an assessment.
+
+COPY
+
+Models will sometimes credit you with their own suggestions, so check each attribution against its quote. What matters isn’t the split, but whether the piece would lose something essential without your side of the chart.
+
+If the work happened across several chats or in a doc, paste your sources, notes, and final piece into one chat first. It can’t see what other chats suggested, so treat the split as rough.
+
+Making it yours
+
+Answering all eight questions with a confident yes does not necessarily mean the work will be brilliant, but it will be yours. The point of these questions is to keep you honest, first with yourself, then with everyone else. Putting slop into the world has a cost: whatever time you save, you risk paying for in attention and trust. If your name is on it, your work should be undeniable.
+
+Continue to Implementation →
+
+free claude skill
+
+Run these eight questions with Claude
+
+Our slop-free-check skill walks you through every question on any draft, one at a time, and ends with a scorecard of what to fix before you ship.
+
+Email
+Download the skill
+Subscribe me to ultrathink, Tenex's twice-weekly AI newsletter. (Required)
+
+By subscribing, you agree to receive recurring marketing communications from Tenex at the email you provide. Unsubscribe anytime. See our Terms and Privacy Policy.
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="sdc-slop-free-check-playbook-stay-slop-free-say-yes-to-these-8-questions-top-email" label="Email" placeholder="Work email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - input type=checkbox name="ultrathink_opt_in" id="" label="" placeholder="" aria="" required=true
+Form 2: method=get action="" id=""
+  - input type=email name="email" id="sdc-slop-free-check-playbook-stay-slop-free-say-yes-to-these-8-questions-email" label="Email" placeholder="Work email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - input type=checkbox name="ultrathink_opt_in" id="" label="" placeholder="" aria="" required=true
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Stay Slop-Free: Say Yes to These 8 Questions","description":"Eight yes-or-no questions, four on process and four on the artifact, to ask before your writing reaches its audience.","image":"https://www.tenex.co/assets/playbooks/slop-free-8-questions.png","datePublished":"2026-10-02T14:00:00.000Z","dateModified":"2026-10-09T14:00:00.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/stay-slop-free-say-yes-to-these-8-questions"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Stay Slop-Free: Say Yes to These 8 Questions","item":"https://www.tenex.co/playbooks/stay-slop-free-say-yes-to-these-8-questions"}]}]
+

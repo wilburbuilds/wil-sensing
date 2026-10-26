@@ -1,0 +1,270 @@
+URL: https://www.tenex.co/playbooks/your-first-team-of-grok-bots
+Fetched: 2026-10-26T03:33:59Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/your-first-team-of-grok-bots
+Content-Type: text/html
+Via: chrome-headless
+Title: Your First Team of Grok Bots: From Easy Mode to God Mode | Tenex
+Meta description: How to go from asking one bot a question to a team of bots that work on their own.
+Canonical: https://www.tenex.co/playbooks/your-first-team-of-grok-bots
+Robots: 
+H1: Your First Team of Grok Bots: From Easy Mode to God Mode
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Your First Team of Grok Bots: From Easy Mode to God Mode
+
+How to go from asking one bot a question to a team of bots that work on their own.
+
+0 of 9 steps
+0 / 90 pts
+THE PLAYBOOK
+✓
+START HERE
+Why Grok Bot, and why now
+10 pts
+📖 Learn
+📋 Implement
+
+Most people use Grok Bot like a chatbot: ask a question, get an answer, move on. That leaves most of it unused. Each bot works on its own computer in the cloud, with a browser, files and a terminal, and it signs into the same tools you use. It keeps working after you close your laptop, and you can check in from your phone.
+
+That changes what you can hand off. A bot can pull answers from your email, Slack and Notion in one go, pass work to another bot that's better at it, and run the same job every morning without being asked.
+
+The steps go in order of difficulty. Steps 1 to 3 are easy mode: connecting your tools and setting up your first bots. Steps 4 and 5 are intermediate: getting bots to work together. Steps 6 and 7 are hard mode: handing off whole projects and putting them on a schedule. Step 8 is god mode: handing a bot the work that comes before your real work, including briefing a coding agent. You won't need to write code for any of them.
+
+Why now: bots hold on to your preferences and what they learn from past work. The habits you set up in your first few weeks carry into every job after.
+
+Adapted from Tenex's video, How to Master Grok Bot in 16 Minutes, with Matt Palmer of Cursor and SpaceXSI.
+
+‍
+
+What to know before you start
+
+Access. Grok Bot comes with paid Cursor and SuperGrok plans, each with a weekly usage allowance. Plans have changed several times since the August launch, so check x.ai/bot for what's current.
+
+Your bots share one computer. Every bot on your account works on the same cloud computer, so anything one bot signs into or saves, every other bot can use. If a bot shouldn't reach something, don't sign into it there.
+
+Set rules before you hand anything off. In Settings → General → Auto-review, write rules in plain language, and a review model checks each action against them before it runs. "Ask first" rules always stop and wait for you, and they win over "Allow automatically" rules when both match. Keep them narrow: "Ask first before sending any email outside the company," not "allow everything in the browser."
+
+Start with jobs that only read. Summaries, answers and drafts come first. Let a bot change things once your rules are in place. Emails and Slack messages it writes show up as drafts for you to send or discard, and for passwords and two-factor codes, it hands you its computer so you can finish the step yourself.
+
+Continue to Implementation →
+✓
+STEP 1
+Connect the tools your work lives in
+10 pts
+📖 Learn
+📋 Implement
+
+Grok Bot is most useful when it can see everything you'd otherwise check by hand. Start by connecting the tools where your work actually happens: email, calendar, Slack, and wherever your team keeps documents, like Notion or Google Drive.
+
+Connections are called plugins in the app. Each one is installed for your whole account, so every bot can use it. You can also connect more than one account for the same service, like a work and a personal inbox, or two Slack workspaces.
+
+Connect only what you'll use. It's easier to add a tool later than to keep track of everything a bot can reach.
+
+Open Connect apps in the sidebar.
+Find the tool, choose Add, and sign in when your browser asks.
+Repeat for three or four tools, and add second accounts where you have them.
+Open Settings → General → Auto-review and add your first rules: ask first before sending messages, deleting anything or buying anything.
+
+When a tool doesn't have a plugin, a bot can still use it through its browser, but a plugin is usually more reliable. Bots can also search and read public posts on X without any setup. For your own X account's data, like your bookmarks, add the X plugin.
+
+If a tool is missing from its answer, reconnect it before you rely on it.
+
+Continue to Implementation →
+✓
+STEP 2
+Start with questions that cross your tools
+10 pts
+📖 Learn
+📋 Implement
+
+The first big time-saver is answers that would normally take five tabs. Instead of searching Slack, then your inbox, then Notion, you ask one bot and it reads all three.
+
+Example: keeping a launch in sync. Say a product change is going out, and the changelog, the help docs, the social posts and the video captions all have to match. The feedback is scattered across Slack threads and emails. One chat can pull it all together, answer your questions about what changed, and then update each of those places.
+
+Do it in two passes:
+
+Ask first. Have the bot summarize what it finds, with a link to each source. Click a few links to check that it read the right things.
+Then let it act. Once the summary is right, have it make the changes one place at a time, and review each before it moves on.
+
+Bots do their best work when you lead with the result you want, point to where the right information lives, and say what they can and can't change. Ask for links or screenshots as evidence, especially before anything goes out.
+
+Continue to Implementation →
+✓
+STEP 3
+Set up a few durable bots
+10 pts
+📖 Learn
+📋 Implement
+
+Once one bot has proven useful, split up the work. To decide whether a job needs a permanent bot, ask: will I want this same context and these same instructions again next week? If yes, make it permanent. If not, spin up a throwaway bot for the task and hide it when you're done.
+
+Start with a few permanent bots, each with one job: one for email and calendar, one for Slack, a writing bot that holds your style rules. You'll use these every day, so pin them to the top of the sidebar. Keep each job narrow. A bot called "General Helper" gets vague instructions and builds up context that's hard to reuse. And hide rather than delete any bot you might need again, because deleting a bot also deletes its routines.
+
+What a bot is made of. Each bot runs on a name, a short title (the app calls it a label) and a description, and the description does most of the work. Describe the job the way you'd do it yourself, step by step. Put the rules that should always hold in the description, like "never send anything outside the company without approval," and save task-by-task instructions for your messages.
+
+Choose New in the sidebar (or press Cmd+N on a Mac, Ctrl+N on Windows), then Create new Bot.
+Paste the prompt below and answer its questions. It's often easiest to talk the job through with dictation (Cmd+D or Ctrl+D).
+Read the description it writes before you approve it. If you'd hand that paragraph to a new hire and expect them to do the job, it's ready.
+Pin the bot. To change its name, title or description later, open the bot's menu and choose Edit Profile.
+💡
+
+Pro-tip: When you notice a preference you'll want every time, like "always follow our style guide" or "never schedule anything before 10 a.m.," ask the bot to add it to its description. That's how a bot gets better at its job instead of forgetting.
+
+Continue to Implementation →
+✓
+STEP 4
+Make specialists that call each other
+10 pts
+📖 Learn
+📋 Implement
+
+Bots can message each other, hand off work and even create new bots. So you don't have to teach every bot everything. Teach one bot your writing style, and any other bot can ask it for help.
+
+In any chat, type @ and pick a bot to bring it in for a task. Say you're working on a project with one bot and want the copy to sound like you. Ask it to have @Writing Bot rewrite the draft. The writing bot does the rewrite with its own rules, and the result comes back to your chat.
+
+Why specialists beat one bot that does everything. A bot that handles your SEO, your brand voice and your posting schedule at once does each of them worse, the same way a person juggling four jobs does. One job per bot keeps each bot's context focused on that job, and the results are better.
+
+Add a new specialist only when a job keeps coming up and needs its own expertise. Keep one bot in charge at each stage of the work, because too many handoffs at once create duplicate work and a noisy chat.
+
+In a chat, type @ and bring in a specialist bot for one task.
+Give each bot one job, so its context stays focused on that job.
+Add a new specialist only when a job keeps coming up and needs its own expertise.
+Keep one bot in charge at each stage of the work.
+Continue to Implementation →
+✓
+STEP 5
+Put a team in a group chat
+10 pts
+📖 Learn
+📋 Implement
+
+Some work needs several perspectives at once, the way a project goes better with a writer, a subject expert and someone who knows distribution all in the room. For that, put two to six bots in one group chat, where they can see each other's work and pass it back and forth.
+
+Example: writing an article. A writing bot keeps it in your voice. A product-expert bot checks that what you say about the product is accurate. A distribution bot knows how the platform you're posting on ranks content and when to post.
+
+When to use which. If you need another bot's help once, mention it in your chat, as in Step 4. If several bots need to work on the same thing over time, start a group chat.
+
+Choose New in the sidebar and select two to six bots. On your phone, tap + and then New Group Chat.
+Rename the group after the project.
+Post a kickoff message that says what you're making and who owns which part.
+After that, write normally and the bots will decide who answers, or type @ to direct a message to one bot.
+
+Two things to know. Every bot reply counts toward your usage, including replies in a group and messages between bots, so a smaller group costs less. And approval requests and email or Slack drafts don't show up in group chats, so handle anything that needs sending in a one-on-one chat with the bot that owns it.
+
+Continue to Implementation →
+✓
+STEP 6
+Hand off an afternoon's project
+10 pts
+📖 Learn
+📋 Implement
+
+Once your bots are set up, think bigger. Anything you'd block off an afternoon or a day to do, or hand to a smart intern, is worth trying with a bot.
+
+Example: a personal CRM from your X network. Plenty of people list where they live in their X bio. Have a bot go through everyone you follow, pull each person's handle and location from their public profile, note whether they follow you back, and put it all in a Notion database you can filter by state. When you travel, you can see who you know nearby and ask them to grab coffee. In the episode, this started as a single voice note, and the bot did all the data gathering and formatting on its own.
+
+Other projects that fit: a table comparing vendors' pricing pages, a cleanup of a messy spreadsheet, or a decision log pulled from a year of meeting notes.
+
+Not sure what to hand off? Keep a list for a week. Every time you think "I could do this in an afternoon," "this is useful but tedious" or "I keep meaning to update this," write the task down. At the end of the week, pick one.
+
+Brief it in four parts:
+
+Goal: what should exist when the bot is done?
+Sources: where should it get the information?
+Rules: what can it decide on its own, and what has to come back to you?
+Output: where should the finished work live?
+
+Then ask for its plan before it starts.
+
+Paste the prompt below and read the plan it sends back.
+Approve it and let it run. You can close your laptop.
+When it's done, spot-check the first 10 rows against the real profiles before you trust the rest.
+
+Stick to public information. Your bot can read public X posts and profiles without any setup. If it needs data from your own account, add the X plugin when it asks.
+
+Continue to Implementation →
+✓
+STEP 7
+Put it on a routine
+10 pts
+📖 Learn
+📋 Implement
+
+A routine tells a bot when to run a job on its own, either on a schedule or when something happens, like a message in a certain Slack channel or a new GitHub notification. Routines keep running when your laptop is closed.
+
+Routines fix the two things that usually break personal systems: capturing information in the first place and keeping it up to date. A CRM you update by hand goes stale. A CRM a bot updates every morning stays current.
+
+Example: keeping your network warm. Every morning, a bot pulls 10 people from your CRM you haven't talked to in 90 days, reminds you what you last talked about, and suggests an opener that gives them something useful. And when you meet someone new and only half remember them, tell the bot what you know: "Jesse, I think he sits on the fourth floor, and we had a meeting last week." It checks your calendar and Slack and fills in the rest.
+
+Get it right once, then automate it. Run the job by hand first, and fix it until the result is what you want. Then have the bot save the process as a skill, a set of instructions any of your bots can reuse. Only then put it on a schedule. If you see Teach a task in a bot's computer view, you can also show the bot the job once instead of describing it.
+
+To set up a routine, ask the bot that should own it, and tell it:
+
+when to run, including your time zone
+where to get its information
+what the result should look like and where to post it
+what it must not do without asking
+what to do if a source isn't available
+
+Then:
+
+Use Test run before you turn it on. A test run does real work, so test it on safe inputs.
+Manage it from View conversation details → Routines, where you can pause, edit or test each routine and see its recent runs.
+If a routine starts from an event, keep the trigger narrow. A trigger like "every new message" creates noise and burns through usage.
+Continue to Implementation →
+✓
+STEP 8
+Hand off the work around your work
+10 pts
+📖 Learn
+📋 Implement
+
+Software engineers talk about two loops. The inner loop is writing the code: building, testing and fixing it. The outer loop is everything around that: deciding what to build, gathering context, writing the prompt for the coding agent and checking the result. Coding agents already handle much of the inner loop. A bot can take over much of the outer loop.
+
+Your work has an outer loop too. Think about what you do right before the real work starts. Maybe you find the latest version of a doc, check Slack for feedback, look up a few numbers, reread what happened last time and decide what needs to change. Only then do you start. Everything before that last step is an outer loop, and a bot can do most of it, so you sit down with everything already in front of you.
+
+For code, the handoff goes to Cursor. Grok Bot doesn't write the code itself. It writes the prompt you would have written and hands it to a Cursor cloud agent, a coding agent that runs in the cloud. You can open that agent's work in Cursor at any point and keep going yourself. Splitting the work this way keeps the coding agent focused: it gets a clean brief instead of a long conversation full of back-and-forth about what to build.
+
+You don't need to be an engineer for this part either. If you have an idea for a tool or a prototype, the bot handles what most people find hardest, turning the idea into a precise brief, and the coding agent does the build.
+
+Example: a daily demo scout. A bot reads your X bookmarks every weekday, picks one new technology worth trying, and drafts a prompt for a small demo. It waits for you to approve or reject the idea. When you approve, it starts a cloud agent that builds the demo, checks that it works and sends you screenshots. Connect a host that makes preview links, like Cloudflare, and you can click through each demo in your browser. Ideas you'd never have found time to try get built while you work on something else.
+
+Example: a prompt-writing bot for real projects. Give a bot knowledge of your codebase and docs, plus access to Slack, Notion and GitHub. When you have an idea or a bug, talk it through with the bot. It pulls the context, writes the prompt the way you would, using the skills you normally use, and hands it to a cloud agent.
+
+Make sure the code you want to work on is connected to your Cursor account through Cursor's integrations, since that's how the bot starts cloud agents.
+If your bot will read your bookmarks, add the X plugin.
+Add an Auto-review rule to ask first before starting a cloud agent, so nothing gets built without your OK.
+Create the bot with the prompt below.
+
+For engineers: the same setup works for production code. Write down the steps you always take before you prompt a coding agent: which repo and files, which docs, what context lives in Slack or your issue tracker, how similar features were built, and which skills you load. Turn that list into a bot. From then on, you talk through the idea, and the bot assembles the context, writes the prompt and hands it off. When the cloud agent finishes, the bot can send screenshots or a clip and open a pull request.
+
+The question that makes all of this work. What do you do the same way every time? Don't answer with your job title. Answer with the actual steps, in order. If you can describe them clearly enough, a bot can start doing them for you.
+
+Tenex helps companies architect, staff, and ship AI systems that actually move the P&L—not just the hype cycle.
+
+Build Your AI Engine
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Your First Team of Grok Bots: From Easy Mode to God Mode","description":"How to go from asking one bot a question to a team of bots that work on their own.","image":"https://www.tenex.co/assets/playbooks/your-first-team-of-grok-bots.jpg","datePublished":"2026-10-13T14:00:00.000Z","dateModified":"2026-10-13T14:00:00.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/your-first-team-of-grok-bots"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Your First Team of Grok Bots: From Easy Mode to God Mode","item":"https://www.tenex.co/playbooks/your-first-team-of-grok-bots"}]}]
+

@@ -1,0 +1,407 @@
+URL: https://www.tenex.co/playbooks/how-to-use-claude-code-101
+Fetched: 2026-10-26T03:34:08Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/how-to-use-claude-code-101
+Content-Type: text/html
+Via: chrome-headless
+Title: Claude Code for Non-Engineers: The Complete Beginner's Guide | Tenex
+Meta description: Learn Claude Code from scratch. This step-by-step guide teaches non-technical leaders how to run parallel AI agents, connect to Notion, and build a competitive intelligence brief in 20 minutes.
+Canonical: https://www.tenex.co/playbooks/how-to-use-claude-code-101
+Robots: 
+H1: Claude Code 101: How to Build a Competitive Intelligence Brief Using Subagents
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Claude Code 101: How to Build a Competitive Intelligence Brief Using Subagents
+
+This step-by-step guide teaches non-technical leaders how to install Claude Code, run parallel AI agents, connect to Notion, and build a competitive intelligence brief in 20 minutes.
+
+0 of 8 steps
+0 / 80 pts
+THE PLAYBOOK
+✓
+START HERE
+Meet the Human Behind the Playbook
+10 pts
+📖 Learn
+📋 Implement
+The Human
+
+Arman Hezarkhani studied full-stack engineering at Carnegie Mellon, taught computer science there after graduating, then spent years scaling Google's compute platforms internationally. Now he's co-founder of Tenex, where his engineers ship production code at 5–10x the throughput of a typical dev team.
+
+When ChatGPT launched, Arman ignored it for six months. He didn't have a steady demand for a tool he thought "only made haikus." Then he needed to write a function he'd written thousands of times before. So, he asked the AI to do it, and it killed it. That's when he understood why engineers are living in the future. Code is verifiable. AI writes it, you run it, you check if it works. That feedback loop trains the models to get way, way better.
+
+Anthropic saw this and built Claude Code, a fully agentic system in which multiple AIs work in parallel, each maintaining its own to-do list and reminding themselves of the plan so they don't veer off course. Arman's been using it to orchestrate workflows that would take "regular engineers" days to complete.
+
+His goal: take this technology from engineers and give it to everyone else. "We're Robin Hood," he says. "Taking tech from engineers and handing it to [everyone else] so you can use all the cool stuff they're using in their day-to-day."
+
+Alex Lieberman is Arman's co-founder at Tenex—and he's not an engineer. He's the voice of the non-technical leader in this playbook. After spending time with Claude Code, his take is this: "For me as a non-technical person, it's been wildly powerful."
+
+If he can master it, you can too.
+
+‍
+
+"Every reader of this will become some of the most advanced software engineers in the market right now."
+— Arman Hezarkhani
+
+‍
+
+Continue to Implementation →
+✓
+STEP 1
+Claude Code 101
+10 pts
+📖 Learn
+📋 Implement
+
+This looks like hacking in a movie. It's not.
+
+By the end of this section, you'll have Claude Code running on your machine—the same tool that's going to research five competitors simultaneously and drop a finished brief in Notion.
+
+‍
+
+Terminal Basics
+
+Terminal is an app on your computer that lets you type commands instead of clicking around. Engineers use it because it's faster and more powerful than dragging files around in Finder or File Explorer. You're going to use it because that's where Claude Code lives.
+
+‍On Mac: Press Cmd + Space, type "Terminal," hit enter. A window opens with a blinking cursor.
+‍On Windows: Press the Windows key, type "PowerShell," hit enter. Same idea—a window with a blinking cursor.‍
+What you should see: A mostly empty window with some text (your username, computer name) and that blinking cursor waiting for input. If you see that, you're ready.
+
+‍
+
+Installation
+
+Claude Code needs Node.js to run. Node.js is a program that lets your computer execute JavaScript code—Claude Code is built with it. You don't need to understand this; you just need Node.js installed.
+
+‍Check if you already have it. In your terminal, type: node -v‍
+What you should see: A version number like v18.17.0 or v20.10.0. If the number starts with 18 or higher, you're good. Skip to "Install Claude Code" below.‍
+If you see an error like "command not found" or "node is not recognized," you need to install Node.js first.‍
+To install Node.js: Go to nodejs.org, download the LTS version (the big green button), and run the installer. Accept all defaults. When it's done, close your terminal completely and open a fresh one. Run node -v again to confirm it worked.
+
+‍
+
+Next, boot up Claude Code: Type npm install -g @anthropic-ai/claude-code
+
+The npm part is Node Package Manager—it downloads and installs software packages. The -g means "install this globally" so you can run it from anywhere. Don't worry about what this means; just run the command.‍
+What you should see: A bunch of text scrolling by, then it stops. No red error messages means success. If you see something like "added X packages," you're good.‍
+If it fails: The most common issue is permissions. On Mac, try adding sudo to the front: sudo npm install -g @anthropic-ai/claude-code and enter your computer password when prompted. On Windows, try running PowerShell as Administrator (right-click → Run as Administrator).
+
+‍
+
+Then, launch Claude Code by typing "claude" into your terminal. Hit enter.
+
+‍What you should see: Claude Code opens in your terminal. It will ask you to log in with your Anthropic account (the same account you use for claude.ai). You need a Pro ($20/month) or Max ($100-200/month) subscription.
+
+‍
+
+‍
+
+Pro Tip: Pay for Max. $200/month sounds like a lot until you realize it saves you hours per week. Arman: "The easiest way to save money in your work is to pay for the most expensive models."
+
+Core Concepts
+
+These are the features that make Claude Code different from regular Claude. You'll use all of them to build your competitive intel brief.
+
+‍Parallel Subagents — Claude Code can spin up multiple AI workers at once. Instead of researching five competitors one at a time, you'll have five subagents working simultaneously. This is why the whole workflow takes 20 minutes instead of five hours.‍
+MCP (Model Context Protocol) — This is how Claude Code connects to external apps like Notion, Gmail, Slack, and Linear. Think of it as giving Claude Code permission to read from and write to your other tools. You'll use the Notion MCP to drop your finished brief directly into a Notion page.‍
+User Approval — Claude Code asks before it does anything significant. You'll see prompts like "I want to create a file" or "I want to search the web for X." You approve or reject. This keeps you in control.‍
+Plan Mode — For complex tasks, Claude Code maps out a step-by-step plan before executing. You can review the plan, suggest changes, then let it run.‍
+Auto-Accept — Skips approval prompts for faster execution. Useful for quick tasks, but use it carefully—you're giving Claude Code more autonomy.
+
+Best practices:
+
+Read approval prompts before clicking yes (don't just spam enter)
+Stick to official MCPs when starting out (the Notion MCP is built by Notion)
+Keep sensitive files outside your working folder
+
+‍
+
+"It'll feel like you're a hacker in a movie, but it's literally as easy as pressing enter."
+— Arman Hezarkhani
+
+‍
+
+Continue to Implementation →
+✓
+STEP 2
+Set Up Your Project
+10 pts
+📖 Learn
+📋 Implement
+
+Neo's apartment, but organized.
+
+Claude Code only sees the folder it’s launched from. Anything it creates—files, research notes, drafts—ends up there. So you need a project folder. The name does not matter. Think of it as a box.
+
+We’ll name it "competitive-intel" as an example, but call it whatever you want.
+
+You can create your folder two different ways:
+
+‍Option A (Finder/File Explorer): Create a new folder wherever you keep projects (desktop is fine). Name it whatever you want (e.g. competitive-intel).‍
+Option B (Terminal): Run this: mkdir ~/competitive-intel cd ~/competitive-intel. The first command creates a folder in your home directory. The second moves you into it. The ~ just means “your home folder” (like /Users/yourname on Mac or C:\Users\yourname on Windows).
+
+Optional sanity check: Run ls. You should see the folder you just created listed. If you’re inside it, ls may show nothing. That’s all good.
+
+No errors = success.
+
+‍Launch Claude Code from inside your project folder. This matters. Claude Code can only access the folder it's launched from. If you launch it from your Desktop, it can't see files in Documents. Launch it from your project folder, again, just type "claude" and hit enter.
+
+
+What you should see: Claude Code opens. You'll see a welcome message and a prompt waiting for your input. If you already logged in during Step 01, you're ready to go. If not, it'll ask you to authenticate.
+
+Checkpoint: You're in Claude Code, inside your project folder, ready to connect Notion.
+
+‍
+
+"I almost think you have to try Claude Code to feel how different it is compared to regular Claude."
+— Arman Hezarkhani
+Continue to Implementation →
+✓
+STEP 3
+Connect to Notion
+10 pts
+📖 Learn
+📋 Implement
+
+Just copy + paste.
+
+We're using Notion because it's where a lot of teams already keep their docs and briefs. But Notion isn't special here—it's just the MCP we chose for this walkthrough. If you use Linear, Asana, Google Drive, or something else, there's probably an MCP for that too.
+
+Pro Tip: Check out the MCP directory to see what's available. MCPs exist for Slack, Gmail, GitHub, Airtable, and dozens of other tools. The pattern is the same: install the MCP, authenticate, and Claude Code can read from and write to that tool.
+
+Right now Claude Code can research your competitors, but it has no way to send the finished brief anywhere. That's what the Notion MCP does—it gives Claude Code permission to create pages in your Notion workspace. Skip this step if you just want results in your terminal.
+
+‍
+
+Get Your Notion API Key
+
+An API key is like a password that lets one app talk to another. You'll create one in Notion and give it to Claude Code.
+
+Go to notion.so/my-integrations
+Click "New integration"
+Name it something like "Claude Code"
+Select the workspace where you want your brief to land
+Click Submit
+Copy the API key (starts with ntn_ or secret_)
+
+Keep this key somewhere—you'll paste it in a sec.
+
+‍
+
+Install the Notion MCP
+
+This happens in your terminal, but not inside Claude Code. If Claude Code is running, type /exit to quit it first, or open a new terminal window.
+
+Run this command (replace "your_key_here" with the API key you just copied): claude mcp add notion --env NOTION_API_KEY=your_key_here -- npx -y @notionhq/notion-mcp-server
+
+‍What you should see: A confirmation message that the MCP was added. No errors.‍
+If it fails: Make sure you're not inside Claude Code when running this. The claude mcp add command runs in your regular terminal, not inside a Claude Code session. Also double-check that your API key is correct and has no extra spaces.
+Share Your Pages with the Integration
+
+Notion integrations can only see pages you explicitly share with them. This is a security feature.
+
+Open Notion in your browser
+Go to the page (or parent page) where you want your competitive intel brief to land
+Click "Share" in the top right
+Click "Invite"
+Search for your integration name ("Claude Code" or whatever you called it)
+Select it, now Claude Code can create pages there
+Finally, verify the connection, by launching Claude Code, with "claude" and typing "/mcp"
+
+‍
+
+What you should see: A list of connected MCPs. "notion" should be in that list. If it shows up, you're connected.
+
+If Notion isn't listed: Quit Claude Code (/exit), then re-run the claude mcp add command from earlier. Make sure there are no typos in the API key.
+
+Checkpoint: Notion is now connected. Claude Code can now create pages in your workspace.
+
+‍
+
+"This is generally much higher quality than what I would get from one of the web-based chats."
+— Arman Hezarkhani
+
+‍
+
+Continue to Implementation →
+✓
+STEP 4
+Run the Research
+10 pts
+📖 Learn
+📋 Implement
+
+Finally, you can put your feet up.
+
+This is where everything comes together. You'll give Claude Code a single prompt, and it'll spin up five AI workers to research your competitors in parallel. When they're done, Claude synthesizes everything and drops a finished brief in Notion.
+
+Paste this prompt into Claude Code (replace the competitor names with your actual competitors):
+
+‍
+
+Research Prompt
+
+Here's my goal: create a competitive intelligence brief on my top 5 competitors.
+
+Spin up at least 5 subagents:
+- One to research [Competitor 1]: their product, pricing, positioning, recent news
+- One to research [Competitor 2]: their product, pricing, positioning, recent news
+- One to research [Competitor 3]: their product, pricing, positioning, recent news
+- One to research [Competitor 4]: their product, pricing, positioning, recent news
+- One to research [Competitor 5]: their product, pricing, positioning, recent news
+
+Once all subagents complete, synthesize the findings into a competitive brief with:
+- Executive summary (3 bullets max)
+- Competitor comparison table (features, pricing, positioning)
+- Key differentiators for each competitor
+- Threats and opportunities for us
+
+Finally, create this brief as a page in Notion.
+
+COPY
+
+‍
+
+What happens next:
+
+Claude Code spins up five subagents
+Each one researches a competitor via web search
+They run in parallel (this is the magic—five deep research tasks at once)
+Claude synthesizes the findings
+The brief gets created in Notion
+
+‍
+
+You'll see approval prompts as it works. Read them. Say yes when it makes sense. If something looks off, say no and tell it what to do differently. This should take between 5 and 20 minutes.
+
+Continue to Implementation →
+✓
+STEP 5
+Review + Refine
+10 pts
+📖 Learn
+📋 Implement
+
+Be the Simon Cowell of AI output.
+
+When the subagents finish, Claude Code synthesizes everything into a draft brief. Don't just accept the first version—this is where you act like a manager reviewing a junior employee's work.
+
+What you'll see: Claude shows you the synthesized brief before pushing to Notion. It might ask "Does this look good?" or show you the content and wait for your approval.
+
+How to give feedback: Just type what's wrong in plain English. Claude will revise and try again. You can say things like:
+
+"Actually, dig deeper on [Competitor 3]'s pricing. I need tier-by-tier breakdown."
+"The executive summary is too long. Cut it to three bullets."
+"Add a section on their recent product launches."
+"The comparison table is missing a column for customer support options."
+
+‍
+
+Repeat until you're happy with it. Then Claude creates the final page in Notion.
+
+Pro Tip: If you've been going back and forth for a while and Claude's responses start feeling off, type /compact. This summarizes the conversation and clears out the clutter—Claude stays smart but loses some details. If things really go sideways, /clear starts fresh. Your project folder and any files you created are still there.
+
+‍
+
+Continue to Implementation →
+✓
+STEP 6
+Get Your Deliverable
+10 pts
+📖 Learn
+📋 Implement
+
+The part you'll put on LinkedIn.
+
+Boom. Now, open Notion. Your competitive intelligence brief is there—executive summary, comparison table, differentiators, threats and opportunities. All in one page, formatted and ready to share.
+
+What to do with it:
+
+Share the Notion link with your team
+Export to PDF for a strategy deck
+Copy sections into your next board presentation
+Use it as the foundation for a quarterly competitive review
+
+‍
+
+You just did five hours of research in 20 minutes. Five competitors researched in parallel, synthesized by AI, landed in Notion without you copying and pasting between tabs.
+
+‍
+
+Continue to Implementation →
+✓
+STEP 7
+FAQs
+10 pts
+📖 Learn
+📋 Implement
+Does Claude Code work on Windows?
+
+Yes. Everything in this playbook works on Windows with minor differences. Use PowerShell instead of Terminal (press Windows key, type "PowerShell"). The installation commands are identical. The only difference is the home folder path: ~ refers to C:\Users\yourname instead of /Users/yourname.
+
+‍
+
+Does Claude Code remember between sessions?
+
+No. Each session starts fresh but you can create a workaround "memories" folder in your project directory and tell Claude Code to write key context there. Reference those files in future sessions. You can say something like "Before we start, read the files in my memories folder for context."
+
+‍
+
+Is Claude Code secure?
+
+Claude Code only accesses the folder you launch it from. It asks for approval before taking actions. For MCP integrations, stick to official or well-starred third-party options. Read the approval prompts—don't just click yes blindly.
+
+‍
+
+Can Claude Code build its own tools?
+
+Yes. One of Tenex's engineers needed an MCP that didn't exist, so he asked Claude Code to build one for itself—and it did. That's the advantage of running locally: you're not limited to what's pre-built.
+
+‍
+
+What if I get an error I don't understand?
+
+Copy and paste the error message into Claude Code and ask "What does this mean and how do I fix it?" Claude is surprisingly good at debugging its own issues. If Claude Code isn't running, paste the error into regular Claude on the web.
+
+‍
+
+The Takeaway
+
+Claude Code isn't a better chatbot. It's a system that lets you delegate work to AI the way you'd delegate to a team—describe the goal, let multiple agents run in parallel, review the output, and move on. The difference between this and what you've been doing in ChatGPT is the difference between sending five emails and managing five employees.
+
+The terminal looks intimidating until you realize it's just a text box. You type a word, hit enter, and talk to it like a person. Engineers have had access to this for months. Now you do too.
+
+‍
+
+Hire Us As Your Chief AI Officer
+
+We have the muscle—and the reps. Want us to run workflows like this inside your org? Tenex helps companies architect, staff, and ship real AI systems.
+
+Talk to us today →
+
+‍
+
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Claude Code for Non-Engineers: The Complete Beginner's Guide","description":"Learn Claude Code from scratch. This step-by-step guide teaches non-technical leaders how to run parallel AI agents, connect to Notion, and build a competitive intelligence brief in 20 minutes.","image":"https://cdn.prod.website-files.com/68af32cbd5555c406456f114/6966ea1530183da5a61591e3_Frame_12%20(1).avif","datePublished":"2026-01-20T02:23:55.000Z","dateModified":"2026-01-20T02:23:55.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/how-to-use-claude-code-101"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Claude Code 101: How to Build a Competitive Intelligence Brief Using Subagents","item":"https://www.tenex.co/playbooks/how-to-use-claude-code-101"}]}]
+

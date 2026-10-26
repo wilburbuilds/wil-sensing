@@ -1,0 +1,131 @@
+URL: https://demo.varickagents.com/client-003/team/manager
+Fetched: 2026-10-26T03:36:04Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-003/team/manager
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Operations Transformation Case Study
+Meta description: Operations department transformation case study for a $3.5B consumer goods manufacturer.
+Canonical: 
+Robots: 
+H1: What their team saw each day
+
+V
+VARICK
+OPERATIONS ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+Coordinator
+Director
+COO
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Consumer Goods Manufacturer
+|
+Operations Department
+|
+4-Month Implementation
+CHAPTER 03
+What their team saw each day
+
+Director View. Their Director of Operations saw team capacity, agent performance by workflow, and smart alerts. Every person's workload was visualized.
+
+Coordinator
+Director
+COO
+TEAM CAPACITY
+380
+people operating at the capacity of
+520
+
+14 coordinators redeployed from exception chasing to strategic operations work.
+
+Team capacity dashboard
+RT
+Rachel Torres
+Senior Supply Chain Coordinator
+84% AI-handled
++3.8h/day
+freed up
+JO
+James Okafor
+Demand Planning Analyst
+79% AI-handled
++3.2h/day
+freed up
+MV
+Maria Vasquez
+Procurement Specialist
+88% AI-handled
++4.1h/day
+freed up
+KP
+Kevin Patel
+Warehouse Operations Lead
+76% AI-handled
++2.6h/day
+freed up
+SL
+Sarah Lin
+Quality Analyst
+82% AI-handled
++3h/day
+freed up
+Agent performance by workflow
+WORKFLOW
+ACCURACY
+ESCALATION
+LEARNING CURVE
+Exception Routing
+96.2%
+9.1%
+84.3%
+96.2%
+Demand Sensing
+94.8%
+12.4%
+81.7%
+94.8%
+PO Validation
+97.1%
+7.8%
+88.2%
+97.1%
+Inbound Tracking
+98.3%
+4.2%
+92.1%
+98.3%
+Supplier Management
+95.4%
+10.6%
+85.8%
+95.4%
+Smart alerts
+Demand sensing agent detected anomaly in Southeast region
+
+3 SKU groups showing 30%+ deviation from forecast. Possible competitor promotion or supply disruption. Requires manual investigation.
+
+2 hours ago
+Supplier lead time shift detected for Pacific Components
+
+Average lead time increased from 14 to 18 days over past 6 weeks. Agent auto-adjusted safety stock calculations. Review recommended.
+
+6 hours ago
+Quality agent flagged 6-week trending defect pattern
+
+Packaging defect rate from GlobalPack increased 0.3% per week for 6 consecutive weeks. Pattern would have taken 2+ months to surface manually.
+
+1 day ago
+Next: COO View
+

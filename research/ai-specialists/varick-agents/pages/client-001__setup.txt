@@ -1,0 +1,151 @@
+URL: https://demo.varickagents.com/client-001/setup
+Fetched: 2026-10-26T03:35:47Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001/setup
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: How tribal knowledge became an executable system
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+CHAPTER 02
+How tribal knowledge became an executable system
+
+Everything the team knew, written and unwritten, was compiled into rules agents could execute. Industrial Manufacturing Corp's existing tools stayed in place. Nothing migrated.
+
+SOP Compiler
+
+Upload a GL coding manual. The SOP Compiler extracts executable rules.
+
+GL_Coding_Manual_v4.2.pdf
+47 rules extracted · 12 unwritten rules captured from interviews
+Compiled
+EXTRACTED RULES
+12 rules
+01
+
+Intercompany transactions between NetSuite and Oracle entities require dual-entry elimination with matching reference IDs
+
+97%
+02
+
+AP invoices >$50K on Oracle entities route to regional controller, not department head
+
+96%
+03
+
+Ramp card transactions auto-map to NetSuite GL codes using department + merchant category crosswalk
+
+94%
+04
+
+FX transactions in EUR and GBP use daily ECB rate; JPY uses weekly BOJ average
+
+98%
+05
+
+Three-way PO match tolerance: 2% for domestic entities, 5% for international (to account for FX)
+
+95%
+06
+
+Capital expenditures >$25K require CFO approval and fixed asset tagging within 48 hours of receipt
+
+99%
+Show 6 more rules
+Unwritten Rules
+
+Captured from interviews with their senior team. The tribal knowledge that used to live in people's heads.
+
+Oracle entities use 5-digit GL numbering (e.g., 51000) while NetSuite uses 4-digit with sub-accounts (e.g., 5100-200). The crosswalk table has 14 exceptions nobody documented.
+
+Source: Senior GL Accountant
+System-specific
+
+Q4 intercompany settlements always require manual adjustment for FX timing differences because Oracle books at transaction date and NetSuite books at settlement date.
+
+Source: Intercompany Accountant
+Period-specific
+
+The German entity invoices get coded differently than policy says because of a legacy VAT structure that was never updated in the SOP after the 2023 acquisition.
+
+Source: AP Manager (EMEA)
+Entity-specific
+
+Only Maria on Treasury handles the JPY bank account reconciliation because she understands the BOJ rate lag and the correspondent bank timing.
+
+Source: Treasury Director
+Knowledge concentration
+
+Ramp categories "Software" and "SaaS" both map to the same GL code, but "Software - Implementation" maps to CapEx. The Ramp admin doesn't know this distinction exists.
+
+Source: Controller
+Integration gap
+
+When the Brazilian entity has a month with >$500K in intercompany charges, the transfer pricing team needs a heads-up 3 days before close or it delays consolidation by 2 days.
+
+Source: FP&A Manager
+Process dependency
+System Integration
+
+Zero migration. Agents connected to the existing stack through three integration methods.
+
+API Integration
+Computer Use
+File & Email Ingestion
+
+Direct read/write access to structured data. Real-time sync across primary systems.
+
+NetSuite
+Oracle
+Ramp
+Concur
+Snowflake
+Agent Configuration
+
+Confidence thresholds set per workflow. Below the threshold, agents escalate to human review.
+
+WORKFLOW
+THRESHOLD
+AUTO-APPROVE
+ESCALATION
+AP Processing
+92%
+78%
+22%
+Intercompany Recon
+95%
+68%
+32%
+Close Management
+94%
+72%
+28%
+Treasury
+96%
+81%
+19%
+Next: Team Views
+

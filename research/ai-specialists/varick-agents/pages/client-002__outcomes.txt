@@ -1,0 +1,150 @@
+URL: https://demo.varickagents.com/client-002/outcomes
+Fetched: 2026-10-26T03:35:54Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-002/outcomes
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Sales Transformation Case Study
+Meta description: Sales department transformation case study for a $2.8B enterprise SaaS company.
+Canonical: 
+Robots: 
+H1: What they were left with
+
+V
+VARICK
+SALES ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Enterprise SaaS Corp
+|
+Sales Department
+|
+3.5-Month Implementation
+CHAPTER 05
+What they were left with
+
+Month 1 vs. Month 3.5 at Enterprise SaaS Corp. The agents got smarter, pipeline execution got faster, and the team shifted from process work to selling.
+
+Before & after
+METRIC
+BEFORE
+AFTER
+Sales cycle
+9 months
+6.5 months
+28%
+Internal idle time
+23 days
+6 days
+74%
+Rep admin time
+38%
+14%
+-24pp
+Forecast accuracy
++/-25%
++/-11%
++14pp
+Large-deal win rate
+Baseline
++6 pts
++6pp
+CS handoff
+10-15 days
+Same day
+99%
+The accuracy curve
+
+Agents get smarter every week. Human feedback and SOP changes are absorbed automatically. 89% to 97.0% in fourteen weeks.
+
+85%
+90%
+95%
+100%
+W0
+W2
+W4
+W6
+W8
+W10
+W12
+W14
+Go-live
+Feedback loop activated
+Deal playbook change detected
+Confidence threshold raised
+97.0% overall accuracy
+Full Audit Trail
+
+Every agent action with timestamp, reasoning, confidence, and human approvals. Searchable and filterable.
+
+Search audit trail...
+09:14:22
+CRM Enrichment
+Auto-processed
+
+Auto-populated 14 fields on OPP-4821 from Gong call data
+
+96%
+09:14:24
+Deal Routing
+Auto-processed
+
+Routed OPP-4821 to deal desk. Named account: Marcus Chen. Non-standard discount flagged.
+
+97%
+09:14:26
+Pricing Validation
+Escalated to human
+
+Discount 22% exceeds 15% threshold. Escalated to VP Sales for approval.
+
+89%
+Show all 5 entries
+They own all of this
+The client owns the agents
+
+Every workflow, every rule, every model. Deployed on their infrastructure, inside their VPC, within their security perimeter.
+
+Their data never leaves
+
+Processing happens in their environment. No deal data sent to external servers. Full compliance with their security policies.
+
+Walk away anytime
+
+Zero platform lock-in. They keep everything if the engagement ends. Our IP is in the methodology, not the output.
+
+Like hiring an architect
+
+They own the building. We designed and built it. The blueprints, the structure, the systems. All theirs.
+
+ROI SUMMARY
+$10-16M
+Incremental revenue (cycle + win rate)
+$2.8-4.2M
+Rep selling time recovered
+$1.4-2.1M
+Deal desk + sales ops efficiency
+$0.8-1.1M
+Security/RFP acceleration
+$0.6-0.9M
+Faster CS handoff value
+They never paid more than the value created.
+Ready to start?
+
+The engagement was scoped through diagnosis first, so leadership had a clear picture before committing.
+
+Schedule a Conversation
+

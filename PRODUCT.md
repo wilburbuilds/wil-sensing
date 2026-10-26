@@ -37,7 +37,7 @@ Fit call (free, 30 minutes, no commitment; can end in a no) → Job map (free, s
 Our Work shows four peer examples of real work Wil has done. The shop is not framed as the main example. Every business stays unnamed (source: `site-content-v1.md`).
 
 A local auto repair shop, where Wil was hired full-time for business development and marketing:
-- $217K found by matching 11,139 purchase-order lines against billing; the leak stopped going forward. Do not claim past money was recovered. Public label: "Leakage stopped." Homepage: "Over $200K. Leakage stopped." Do not say "vendor credits" on the pages.
+- $217K found by matching 11,139 purchase-order lines against billing; the leak stopped going forward. Do not claim past money was recovered. Homepage: "Over $200K. Leakage stopped." Our Work lists "Over $200K in leakage stopped" as an ordinary line and does not print $217K. Do not say "vendor credits" on the pages.
 - ~48% more profit on eligible parts. Wil confirmed this is realized. Do not label it modeled, a 90-day model, or gross.
 - One trusted record of customers, cars, orders, and calls; caller screen; morning shop brief; customer follow-up list; newsletter in the owner's voice.
 - Knowledge kept, with no outcome figures: front-office chat sessions summarized into repeatable skills, and a technician research tool that returns step-by-step answers with sources.

@@ -12,7 +12,7 @@ Status: this is the copy served from the repo root. GitHub Pages publishes `main
 - Plain language, a product for trades, and "one loop" are judgment calls. They are not stated as rules.
 - "Audit" is not used. "We" for the business. About stays personal. No team size. "Streamline" stays out.
 - No prices on the page. The fit call and the Job map are free. The build is the first paid step, and its price is sized to the jobs on the map. No amounts. There is no fee credit, because the map is free.
-- Homepage stats are two lines only: "Over $200K. Leakage stopped." and "~48% more profit on eligible parts." "Over $200K" is the homepage phrasing of the existing $217K. Do not say owed, vendor credits, or not recovered. Do not say modeled, 90-day, gross, or not yet realized. The profit is realized. Do not claim past money was recovered. Our Work keeps $217K, labeled "Leakage stopped," and says the leak was stopped going forward. The $300+/mo scheduling figure stays off. No invented results.
+- Homepage stats are two lines only: "Over $200K. Leakage stopped." and "~48% more profit on eligible parts." "Over $200K" is the homepage phrasing of the existing $217K. Do not say owed, vendor credits, or not recovered. Do not say modeled, 90-day, gross, or not yet realized. The profit is realized. Do not claim past money was recovered. Our Work lists "Over $200K in leakage stopped" as an ordinary line, not a big figure. $217K stays the underlying figure and is not printed on the card. The $300+/mo scheduling figure stays off. No invented results.
 - Design: B v3, light, dark bands. Less is more. Hero is the headline, the call button, and the draft card. Contact only in the close.
 
 ## Page 1: Home
@@ -92,41 +92,37 @@ We find the jobs worth handing off, however many apply. Each one gets a measure 
 
 The four examples below are peers. The shop is not the main example, and the others are not secondary.
 
-Four peer examples. Same shape: a title, one short paragraph, and a short list. The shop also keeps its two figures.
+Four peer examples. Each card is one sentence plus a short list. The shop figures are ordinary list lines, not big stats.
 
 ### A local auto repair shop
-Wil was hired full-time at a local auto repair shop for business development and marketing. The leak was stopped going forward, and each part is priced instead of a blanket markup.
-
-- **$217K.** Leakage stopped.
-- **~48%.** More profit on eligible parts.
-
-What was built, trimmed to four items:
+Found where the shop was losing money and stopped it, then priced parts one by one instead of a blanket markup.
+- Over $200K in leakage stopped.
+- ~48% more profit on eligible parts.
 - One trusted record of customers, cars, orders, calls, and history.
 - Caller screen. Who's calling, their history, and why, before anyone picks up.
-- Morning shop brief every weekday: appointments, parts on hold, estimates waiting, and overdue declined work.
-- Customer follow-up for customers who've gone quiet or are due for service.
 
-Still true, and not on this short block: 11,139 purchase-order lines matched, a person still checks the exceptions, the newsletter in the owner's voice, and knowledge kept (front-office skills and the technician research tool). No "vendor credits" on the page. Do not claim past money was recovered.
+Still true, and not on this card: the hiring sentence, 11,139 purchase-order lines, a person still checks the exceptions, the morning shop brief, customer follow-up, the newsletter in the owner's voice, and knowledge kept. $217K is the figure behind "Over $200K" and is not printed here. No "vendor credits" on the page. Do not claim past money was recovered.
 
 ### Sales pipeline
-A pipeline. A person reads and sends every message.
-- Researches each prospect.
-- Drafts outreach in the salesperson's voice.
+Researches each prospect, drafts outreach in the salesperson's voice, and keeps follow-ups on time. A person reads and sends every message.
 - Tracks every lead's stage.
 - Flags who's due for a follow-up each morning.
 
+The first two old list lines repeated the new sentence, so they are not listed again.
+
 ### Research
-A research helper that writes a short brief.
-- Gathers the sources.
+Gathers the sources and writes a short brief where every claim links back to where it came from.
 - Pulls out the facts that matter.
-- Every claim links back to where it came from.
+
+The other two old list lines repeated the new sentence, so they are not listed again.
 
 ### Marketing run by AI agents
-Nothing goes out without a person's OK.
+Agents plan, draft, and report on marketing in the brand's voice. Nothing goes out without a person's OK.
 - Plan the calendar.
-- Draft posts and emails in the brand's voice.
 - Learn from the owner's edits.
 - Report what performed.
+
+"Draft posts and emails in the brand's voice" repeated the new sentence, so it is not listed again.
 
 ### How it was built to be trusted
 Page-wide, after the four examples. Applies to all the work.

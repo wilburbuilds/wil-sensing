@@ -1,0 +1,64 @@
+URL: https://playbook.boomautomations.com/180
+Fetched: 2026-10-26T03:46:06Z
+HTTP status: 200
+Final URL: https://playbook.boomautomations.com/180
+Content-Type: text/html
+Via: chrome-headless
+Title: The AI & Automation Agency Master Playbook | Luke Pierce
+Meta description: The complete guide to positioning, selling, delivering, and scaling an AI agency, plus the complete Pricing Guide. Free from Luke Pierce.
+Canonical: 
+Robots: 
+H1: The Exact 180-Day Plan to a $500K/Year AI Agency
+
+FREE 180-DAY PLAN
+The Exact 180-Day Plan to a $500K/Year AI Agency
+
+Every phase laid out day by day, with the actual scripts, templates, what to charge, and what to build on.
+
+Includes the 3-page day-by-day checklist and my hour-by-hour daily breakdown
+Send Me the Plan
+4 years
+running Boom Automations
+95 clients
+on this exact model
+90+ operators
+in the AI Agency Inner Circle, averaging $11,340/mo
+
+No spam. Unsubscribe anytime.
+
+WHAT'S INSIDE
+DAYS 1-14
+Lock it in
+
+The exact offers closing right now, broken down by industry. Pick the one that fits where you are, then set up your outbound channel.
+
+DAYS 15-45
+Book calls
+
+7 channels, each with the exact strategy and scripts working today: AI workshops, Upwork, cold email, cold calling, LinkedIn content, warm network, Dream 100.
+
+DAYS 46-90
+First clients
+
+Sign your first 1-2 clients. Already at 1-3? This is where you sign your 5th and 6th. The exact sales process framework and the proposal templates we use.
+
+DAYS 91-135
+Deliver
+
+The exact delivery infrastructure we're running across a dozen active clients right now, so every build runs the same way.
+
+DAYS 136-180
+Stack
+
+The exact way to sell the retainer and maintenance once the build ships, then the machine signs one new client a month.
+
+Built from 4 years and 95 clients at Boom Automations, and run every week with 90+ operators inside the AI Agency Inner Circle.
+
+Send Me the Plan
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="plan-form"
+  - input type=text name="" id="plan-first-name" label="" placeholder="First Name" aria="" required=false
+  - input type=email name="" id="" label="" placeholder="Email Address" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

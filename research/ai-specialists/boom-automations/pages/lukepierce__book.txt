@@ -1,0 +1,22 @@
+URL: https://lukepierce.boomautomations.com/book
+Fetched: 2026-10-26T03:43:48Z
+HTTP status: 200
+Final URL: https://lukepierce.boomautomations.com/book
+Content-Type: text/html
+Via: chrome-headless
+Title: Book your call
+Meta description: Luke Pierce Profile
+Canonical: 
+Robots: 
+H1: Luke Pierce
+
+← Back
+Luke Pierce
+Payment confirmed. Pick a time.
+
+Choose a slot below and fill out the short intake form so we skip the small talk.
+
+Didn't get redirected here after paying? Email luke@boomautomations.com and we'll get you booked.
+
+© 2026
+

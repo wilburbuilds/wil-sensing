@@ -1,0 +1,28 @@
+URL: https://playbook.boomautomations.com/newsletter
+Fetched: 2026-10-26T03:46:08Z
+HTTP status: 200
+Final URL: https://playbook.boomautomations.com/newsletter
+Content-Type: text/html
+Via: chrome-headless
+Title: Luke Pierce's Newsletter | Exclusive AI Agency Tips
+Meta description: Get exclusive AI agency tips straight to your inbox. Free newsletter from Luke Pierce.
+Canonical: 
+Robots: 
+H1: Sign up to Luke Pierce's Newsletter
+
+FREE NEWSLETTER
+Sign up to Luke Pierce's Newsletter
+
+Get exclusive AI agency tips straight to your inbox.
+
+3,645 subscribers
+Subscribe
+
+No spam. Unsubscribe anytime.
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=text name="" id="" label="" placeholder="First Name" aria="" required=false
+  - input type=email name="" id="" label="" placeholder="Email Address" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

@@ -4,9 +4,9 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 352. Other companies are added when their teardown is committed.
+Saved pages in this index: 398. Other companies are added when their teardown is committed.
 
-## agencyva (17 saved pages)
+## agencyva (16 saved pages)
 
 | URL | Status | Final URL | File | Title |
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,6 @@ Saved pages in this index: 352. Other companies are added when their teardown is
 | http://agencyva.com/book-a-discovery-call | 200 | https://agencyva.com/book-a-discovery-call | `research/ai-specialists/agencyva/pages/book-a-discovery-call.txt` | Book a Discovery Call / Agency VA |
 | http://agencyva.com/ | 200 | https://agencyva.com/ | `research/ai-specialists/agencyva/pages/index.txt` | Agency VA / Insurance Virtual Assistants, Managed Teams & EOR |
 | https://www.wesslyanderson.com/ | 200 | https://www.wesslyanderson.com/ | `research/ai-specialists/agencyva/pages/index.txt` | Home / Wessly J Anderson |
-|  |  |  | `research/ai-specialists/agencyva/pages/not-fetched-typeform.txt` |  |
 | http://agencyva.com/our-technology | 200 | https://agencyva.com/our-technology | `research/ai-specialists/agencyva/pages/our-technology.txt` | Our Technology: AVA Insurance OS & Workforce Tools / Agency VA |
 | https://agencyva.com/pricing | 200 | https://agencyva.com/pricing | `research/ai-specialists/agencyva/pages/pricing.txt` | Pricing: Virtual Assistants, Service Teams & EOR / Agency VA |
 | https://agencyva.com/privacy-policy | 200 | https://agencyva.com/privacy-policy | `research/ai-specialists/agencyva/pages/privacy-policy.txt` | Data Privacy Policy / Agency VA |
@@ -27,6 +26,59 @@ Saved pages in this index: 352. Other companies are added when their teardown is
 | http://agencyva.com/testimonials | 200 | https://agencyva.com/testimonials | `research/ai-specialists/agencyva/pages/testimonials.txt` | Client Testimonials & Success Stories / Agency VA |
 | https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO-definition.txt` |  |
 | https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO.txt` | Find Your Perfect Virtual Assistant Match |
+
+## boom-automations (48 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://boomautomations.com/about-us | 200 | https://boomautomations.com/about-us | `research/ai-specialists/boom-automations/pages/about-us.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/about | 200 | https://boomautomations.com/about | `research/ai-specialists/boom-automations/pages/about.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/application-received | 200 | https://boomautomations.com/application-received | `research/ai-specialists/boom-automations/pages/application-received.txt` | Application Received / Boom Automations |
+| https://boomautomations.com/apply |  | https://boomautomations.com/apply | `research/ai-specialists/boom-automations/pages/apply-question-script.txt` |  |
+| https://boomautomations.com/apply | 200 | https://boomautomations.com/apply | `research/ai-specialists/boom-automations/pages/apply-waited.txt` | Apply to Work with Us / Boom Automations |
+| https://boomautomations.com/apply | 200 | https://boomautomations.com/apply | `research/ai-specialists/boom-automations/pages/apply.txt` | Apply to Work with Us / Boom Automations |
+| https://boomautomations.com/blog | 200 | https://boomautomations.com/blog | `research/ai-specialists/boom-automations/pages/blog.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/careers | 200 | https://boomautomations.com/careers | `research/ai-specialists/boom-automations/pages/careers.txt` | Careers / Boom Automations |
+| https://boomautomations.com/case-studies | 200 | https://boomautomations.com/case-studies | `research/ai-specialists/boom-automations/pages/case-studies.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/ |  | https://boomautomations.com/ | `research/ai-specialists/boom-automations/pages/client-redirects.txt` |  |
+| https://boomautomations.com/contact | 200 | https://boomautomations.com/contact | `research/ai-specialists/boom-automations/pages/contact.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/ | 200 | https://boomautomations.com/ | `research/ai-specialists/boom-automations/pages/index-expanded.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/ | 200 | https://boomautomations.com/ | `research/ai-specialists/boom-automations/pages/index.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://lukepierce.boomautomations.com/about-us | 200 | https://lukepierce.boomautomations.com/about-us | `research/ai-specialists/boom-automations/pages/lukepierce__about-us.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/about | 200 | https://lukepierce.boomautomations.com/about | `research/ai-specialists/boom-automations/pages/lukepierce__about.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/blog | 200 | https://lukepierce.boomautomations.com/blog | `research/ai-specialists/boom-automations/pages/lukepierce__blog.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/book | 200 | https://lukepierce.boomautomations.com/book | `research/ai-specialists/boom-automations/pages/lukepierce__book.txt` | Book your call |
+| https://lukepierce.boomautomations.com/call | 200 | https://lukepierce.boomautomations.com/call | `research/ai-specialists/boom-automations/pages/lukepierce__call.txt` | Strategy Call with Luke |
+| https://lukepierce.boomautomations.com/careers | 200 | https://lukepierce.boomautomations.com/careers | `research/ai-specialists/boom-automations/pages/lukepierce__careers.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/case-studies | 200 | https://lukepierce.boomautomations.com/case-studies | `research/ai-specialists/boom-automations/pages/lukepierce__case-studies.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/contact | 200 | https://lukepierce.boomautomations.com/contact | `research/ai-specialists/boom-automations/pages/lukepierce__contact.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/ | 200 | https://lukepierce.boomautomations.com/ | `research/ai-specialists/boom-automations/pages/lukepierce__index.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/pricing | 200 | https://lukepierce.boomautomations.com/pricing | `research/ai-specialists/boom-automations/pages/lukepierce__pricing.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/privacy-policy | 200 | https://lukepierce.boomautomations.com/privacy-policy | `research/ai-specialists/boom-automations/pages/lukepierce__privacy-policy.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/privacy | 200 | https://lukepierce.boomautomations.com/privacy | `research/ai-specialists/boom-automations/pages/lukepierce__privacy.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/services | 200 | https://lukepierce.boomautomations.com/services | `research/ai-specialists/boom-automations/pages/lukepierce__services.txt` | Luke Pierce |
+| https://lukepierce.boomautomations.com/work | 200 | https://lukepierce.boomautomations.com/work | `research/ai-specialists/boom-automations/pages/lukepierce__work.txt` | Luke Pierce |
+| https://playbook.boomautomations.com/180-plan | 200 | https://playbook.boomautomations.com/180-plan | `research/ai-specialists/boom-automations/pages/playbook__180-plan.txt` | The 180-Day Plan to a $500K/Year AI Agency |
+| https://playbook.boomautomations.com/180-thank-you | 200 | https://playbook.boomautomations.com/180-thank-you | `research/ai-specialists/boom-automations/pages/playbook__180-thank-you.txt` | The AI & Automation Agency Master Playbook / Luke Pierce |
+| https://playbook.boomautomations.com/180 | 200 | https://playbook.boomautomations.com/180 | `research/ai-specialists/boom-automations/pages/playbook__180.txt` | The AI & Automation Agency Master Playbook / Luke Pierce |
+| https://playbook.boomautomations.com/case-studies | 200 | https://playbook.boomautomations.com/case-studies | `research/ai-specialists/boom-automations/pages/playbook__case-studies.txt` | The AI & Automation Agency Master Playbook / Luke Pierce |
+| https://playbook.boomautomations.com/ | 200 | https://playbook.boomautomations.com/ | `research/ai-specialists/boom-automations/pages/playbook__index.txt` | The AI & Automation Agency Master Playbook / Luke Pierce |
+| https://playbook.boomautomations.com/master-playbook | 200 | https://playbook.boomautomations.com/master-playbook | `research/ai-specialists/boom-automations/pages/playbook__master-playbook.txt` | The AI & Automation Agency Master Playbook |
+| https://playbook.boomautomations.com/newsletter | 200 | https://playbook.boomautomations.com/newsletter | `research/ai-specialists/boom-automations/pages/playbook__newsletter.txt` | Luke Pierce's Newsletter / Exclusive AI Agency Tips |
+| https://playbook.boomautomations.com/playbook-thank-you | 200 | https://playbook.boomautomations.com/playbook-thank-you | `research/ai-specialists/boom-automations/pages/playbook__playbook-thank-you.txt` | Apply to the AI Agency Inner Circle |
+| https://playbook.boomautomations.com/playbook | 200 | https://playbook.boomautomations.com/playbook | `research/ai-specialists/boom-automations/pages/playbook__playbook.txt` | The AI & Automation Agency Master Playbook / Luke Pierce |
+| https://boomautomations.com/pricing | 200 | https://boomautomations.com/pricing | `research/ai-specialists/boom-automations/pages/pricing.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/privacy-policy | 200 | https://boomautomations.com/privacy-policy | `research/ai-specialists/boom-automations/pages/privacy-policy.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/privacy | 200 | https://boomautomations.com/privacy | `research/ai-specialists/boom-automations/pages/privacy.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/robots.txt | 200 | https://boomautomations.com/robots.txt | `research/ai-specialists/boom-automations/pages/robots-txt.txt` |  |
+| https://boomautomations.com/services | 200 | https://boomautomations.com/services | `research/ai-specialists/boom-automations/pages/services.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/solutions/agent-deployment | 200 | https://boomautomations.com/solutions/agent-deployment | `research/ai-specialists/boom-automations/pages/solutions__agent-deployment.txt` | Agent Deployment / Boom Automations |
+| https://boomautomations.com/solutions/ongoing-management | 200 | https://boomautomations.com/solutions/ongoing-management | `research/ai-specialists/boom-automations/pages/solutions__ongoing-management.txt` | Ongoing Management & Enablement / Boom Automations |
+| https://boomautomations.com/solutions/os-build-out | 200 | https://boomautomations.com/solutions/os-build-out | `research/ai-specialists/boom-automations/pages/solutions__os-build-out.txt` | OS Build-Out / Boom Automations |
+| https://boomautomations.com/solutions/saas-consolidation | 200 | https://boomautomations.com/solutions/saas-consolidation | `research/ai-specialists/boom-automations/pages/solutions__saas-consolidation.txt` | SaaS Consolidation / Boom Automations |
+| https://boomautomations.com/thank-you | 200 | https://boomautomations.com/thank-you | `research/ai-specialists/boom-automations/pages/thank-you.txt` | Boom Automations / AI Agent Systems for Enterprise |
+| https://boomautomations.com/thesis | 200 | https://boomautomations.com/thesis | `research/ai-specialists/boom-automations/pages/thesis.txt` | Our Thesis — Boom Automations |
+| https://boomautomations.com/work | 200 | https://boomautomations.com/work | `research/ai-specialists/boom-automations/pages/work.txt` | Boom Automations / AI Agent Systems for Enterprise |
 
 ## building-ai-agents (7 saved pages)
 
@@ -246,7 +298,7 @@ Saved pages in this index: 352. Other companies are added when their teardown is
 | https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | 200 | https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | `research/ai-specialists/schema-operations/pages/writing__you-trained-the-new-hire-on-the-software.txt` | You trained the new hire on the software. You never trained them on the decisions. — Schema Ops |
 | https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | 200 | https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | `research/ai-specialists/schema-operations/pages/writing__your-best-customers-will-leave-if-you-get-hit-by-a-bus.txt` | Your best customers will leave if you get hit by a bus — Schema Ops |
 
-## tenex (81 saved pages)
+## tenex (80 saved pages)
 
 | URL | Status | Final URL | File | Title |
 | --- | --- | --- | --- | --- |
@@ -280,7 +332,6 @@ Saved pages in this index: 352. Other companies are added when their teardown is
 | https://www.tenex.co/contact | 200 | https://www.tenex.co/get-started | `research/ai-specialists/tenex/pages/get-started.txt` | Get Started |
 | https://tenex.co/ | 200 | https://www.tenex.co/ | `research/ai-specialists/tenex/pages/index.txt` | Tenex / AI Transformation & AI Engineering Partner |
 | https://www.tenex.co/ and https://www.tenex.co/about-us | 200 | https://www.tenex.co/ and https://www.tenex.co/about-us | `research/ai-specialists/tenex/pages/logo-alts.txt` |  |
-|  |  |  | `research/ai-specialists/tenex/pages/not-fetched-newsletter.txt` |  |
 | https://www.tenex.co/playbooks | 200 | https://www.tenex.co/playbooks | `research/ai-specialists/tenex/pages/playbooks.txt` | Playbooks / Tenex |
 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | 200 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | `research/ai-specialists/tenex/pages/playbooks__5-step-guide-for-creating-hollywood-caliber-ads-using-ai.txt` | Make viral cinematic ads fast with AI: 5-step sprint / Tenex |
 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | 200 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | `research/ai-specialists/tenex/pages/playbooks__answer-engine-optimization-aeo-complete-guide.txt` | Answer Engine Optimization (AEO): A Complete Guide / Tenex |

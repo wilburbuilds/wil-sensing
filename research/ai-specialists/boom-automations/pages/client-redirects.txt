@@ -1,0 +1,9 @@
+URL: https://boomautomations.com/
+Fetched: 2026-10-26T03:38:24Z
+Note: Client-side redirects observed by opening the path. No form submitted.
+
+/solutions/evaluation-optimization	https://boomautomations.com/solutions/ongoing-management	Ongoing Management & Enablement
+/solutions/current-state-assessment	https://boomautomations.com/solutions/os-build-out	OS Build-Out
+/solutions/ai-native-operating-system	https://boomautomations.com/solutions/os-build-out	OS Build-Out
+/solutions/ai-agents	https://boomautomations.com/solutions/agent-deployment	Agent Deployment
+/approach	https://boomautomations.com/thesis	Nothing matters more than adoption.

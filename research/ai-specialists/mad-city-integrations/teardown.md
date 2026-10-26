@@ -2,7 +2,7 @@
 
 26 October 2026. Prepared for Wil Sensing. Read-only: no forms submitted, no calls booked, no messages sent.
 
-The site is thin. Twelve URLs carry the business. Eight more files are the same "this page is not here" screen. There is no pricing page, no case-study page, and no blog. Anthony Elert's X post is a separate surface. Quotes from it are labeled as X posts. **INFERENCE** marks a conclusion that is not a sentence on the site or in that post.
+The site is thin. Twelve URLs carry the business. Eight more files are the same screen, H1 "This page is not here." There is no pricing page, no case-study page, and no blog. Anthony Elert's X post is a separate surface. Quotes from it are labeled as X posts. **INFERENCE** marks a conclusion that is not a sentence on the site or in that post.
 
 ## Top 5 takeaways
 
@@ -12,9 +12,9 @@ The site is thin. Twelve URLs carry the business. Eight more files are the same 
 
 3. **Steal the fit-call sentence that is allowed to be a no.** The calculator page says "Bring last month's leads. We will tell you if a first build is even a good idea." https://www.madcityintegrations.com/calculator His version of the free 30 minutes: bring the job (the PO lines, the credit list), and the call can end without a Job map. The form under that line asks for a name, a business, an email, an optional phone, and a note. It does not ask revenue or headcount.
 
-4. **Put the repair-shop result on the first screen. Their dollar figure is a calculator default.** The calculator opens on sample inputs and shows "A monthly figure / $2,946." The terms say estimates are illustrative and that Mad City Integrations does not guarantee revenue, savings, or ROI. https://www.madcityintegrations.com/terms-and-conditions Wil already has a counted result: $217K in missed vendor credits, 11,139 PO lines. Write what that figure includes, the way a careful case study writes a caveat. A slider with made-up defaults does that job worse.
+4. **Put the repair-shop result on the first screen. Their dollar figure is a calculator default.** The calculator opens on sample inputs, labels the result "A monthly figure," and shows $2,946. The terms say estimates are illustrative and that Mad City Integrations does not guarantee revenue, savings, or ROI. https://www.madcityintegrations.com/terms-and-conditions Wil already has a counted result: $217K in missed vendor credits, 11,139 PO lines. Write what that figure includes, the way a careful case study writes a caveat. A slider with made-up defaults does that job worse.
 
-5. **Publish one real job. This site has a labeled fiction, and the X post says the paid system is not proven yet.** Willow & Wok is "a fictional restaurant." The patio text thread is marked "ILLUSTRATIVE EXAMPLE." The post's dealership story is the only client, and it ends with "Now we have to prove it works." Do not borrow the dealership, the daycare, or "one extra car" as proof. The path in the post that Wil should leave is the free build offered to owners he knew. His Job map stays paid.
+5. **Publish one real job. This site has a labeled fiction, and the X post says the paid system is not proven yet.** Willow & Wok is "a fictional restaurant." The patio text thread is marked "ILLUSTRATIVE EXAMPLE". The post's dealership story is the only client, and it ends with "Now we have to prove it works." Do not borrow the dealership, the daycare, or "one extra car" as proof. The path in the post that Wil should leave is the free build offered to owners he knew. His Job map stays paid.
 
 ## Method and coverage
 
@@ -67,7 +67,7 @@ No service price on the pages crawled. `/pricing` is the soft 404.
 
 Figures that are easy to misread as a fee:
 
-- Calculator defaults, on both the homepage and `/calculator`: weekly leads 28, missed or slow-response rate 22%, old leads or past customers 420, "Share that could be worth a timed follow-up" 6%, average job value $650, close rate on qualified leads 35%, then "A monthly figure / $2,946," plus "27 / Active leads at risk each month" and "2.1 / Timed follow-ups each month." The page calls this "A rough monthly figure from the numbers you enter."
+- Calculator defaults, on both the homepage and `/calculator`: weekly leads 28, missed or slow-response rate 22%, old leads or past customers 420, "Share that could be worth a timed follow-up" 6%, average job value $650, close rate on qualified leads 35%, then the label "A monthly figure" and the value $2,946, plus "27" beside "Active leads at risk each month" and "2.1" beside "Timed follow-ups each month." The page calls this "A rough monthly figure from the numbers you enter."
 - Willow & Wok menu prices ($9, $11, $12, $18, $19) are dishes on a fictional restaurant demo.
 - Terms cap liability for "the public website or a free consultation" at "ONE HUNDRED U.S. DOLLARS ($100)." That is a legal cap, not a fee.
 
@@ -123,7 +123,7 @@ The words they use: "businesses," and on the about page, "Wisconsin businesses, 
 
 Anthony Elert is labeled CEO. Quinton Bush is labeled CTO. Footer: "© 2026 Mad City Integrations LLC," "Madison, Wisconsin," `contact@madcityintegrations.com`, `+1 (608) 471-6833`.
 
-No page names a dealership, an equipment dealer, a trade, a headcount, or Idaho. The only industries in the examples are a fictional patio quote ("Madison Service Co." / "a quote for a patio this spring") and a fictional restaurant. The patio block is labeled "ILLUSTRATIVE EXAMPLE." The online-presence page says "Willow & Wok is a fictional restaurant."
+No page names a dealership, an equipment dealer, a trade, a headcount, or Idaho. The only industries in the examples are a fictional patio quote ("Madison Service Co." / "a quote for a patio this spring") and a fictional restaurant. The patio block is labeled "ILLUSTRATIVE EXAMPLE". The online-presence page says "Willow & Wok is a fictional restaurant."
 
 **INFERENCE:** the copy is written for a local owner in the Madison area who wants more booked work or less repetitive work. It is not written for a 50–200 person dealer group, and it does not say which of the three services that owner should buy first. The consultation meta says "the first useful AI build." The homepage form says "We'll help you choose the right service," and the right service can be a website.
 
@@ -133,9 +133,9 @@ No case study. `/case-studies` and `/work` are the soft 404. The proof-shaped ob
 
 | Object | Named client? | What the page says it is | A result number? |
 | --- | --- | --- | --- |
-| Patio text thread, home and lead-lifecycle | No. "Madison Service Co." | "ILLUSTRATIVE EXAMPLE." A quote request, a reply, "Lead saved. A follow-up is ready if they go quiet." | No |
+| Patio text thread, home and lead-lifecycle | No. "Madison Service Co." | "ILLUSTRATIVE EXAMPLE". A quote request, a reply, "Lead saved. A follow-up is ready if they go quiet." | No |
 | Willow & Wok before/after | No | "Willow & Wok is a fictional restaurant." Menu demos are `noindex`. | Menu prices only |
-| Custom-build frames | No | "ILLUSTRATIVE EXAMPLE." A request becomes a drafted quote a person approves. | No |
+| Custom-build frames | No | "ILLUSTRATIVE EXAMPLE". A request becomes a drafted quote a person approves. | No |
 | Calculator | No | "A rough monthly figure from the numbers you enter." | $2,946 from the default inputs, which the terms call illustrative |
 
 The X post is the only place a client is described. It is not a case study with a result. See the X section.

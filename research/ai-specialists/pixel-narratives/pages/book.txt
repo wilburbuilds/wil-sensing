@@ -1,0 +1,118 @@
+URL: https://pixelnarratives.studio/book
+Fetched: 2026-10-26T03:34:37Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/book
+Content-Type: text/html
+Via: chrome-headless
+Title: Insert Door Metaphor: AI, Ideas and The New Cost of Trying | Pixel Narratives
+Meta description: For most of our lives, good ideas have come with a price tag. You needed the right skills, the right people, enough money, or enough time. Sometimes an idea wasn't worth pursuing simply because finding out whether it would work was too expensive. Artificial intelligence is changing that equation. Things that once required specialized expertise, significant investment, or months of work can now be explored in an afternoon. But this isn't a book about replacing people with AI, automating everything, or getting rich overnight. It's about reconsidering what's possible. Through personal stories, practical examples, and a healthy dose of trial and error, Jordan Maruszak explores how AI is changing the way we create, solve problems, and pursue opportunities. You don't need to understand every new technology. You don't need to have all the answers. You might just need to try the door.
+Canonical: https://pixelnarratives.studio/book
+Robots: 
+H1: Insert Door Metaphor
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+BOOK
+
+Insert Door Metaphor
+
+AI, Ideas and The New Cost of Trying
+
+By Jordan Maruszak
+
+COMING OCTOBER 27, 2026.
+
+View on Amazon · View on Apple Books
+
+For most of our lives, good ideas have come with a price tag.
+
+You needed the right skills, the right people, enough money, or enough time. Sometimes an idea wasn't worth pursuing simply because finding out whether it would work was too expensive.
+
+Artificial intelligence is changing that equation.
+
+Things that once required specialized expertise, significant investment, or months of work can now be explored in an afternoon. But this isn't a book about replacing people with AI, automating everything, or getting rich overnight.
+
+It's about reconsidering what's possible.
+
+Through personal stories, practical examples, and a healthy dose of trial and error, Jordan Maruszak explores how AI is changing the way we create, solve problems, and pursue opportunities. You don't need to understand every new technology. You don't need to have all the answers.
+
+You might just need to try the door.
+
+THE COST OF TRYING
+
+AI has changed the cost of trying.
+
+Ideas that used to need a specialist, a budget, and a long runway can now be tested sooner. That does not mean every idea should be built. Somebody still has to decide what makes sense and then do the work.
+
+This book is for readers who want to try things while that cost is falling. Pixel Narratives is the studio that grew out of the same idea.
+
+AUTHOR
+
+Jordan Maruszak
+
+Jordan Maruszak is the founder of Pixel Narratives, where he helps businesses put AI to work. Before starting the company, he spent more than 15 years in financial services working with business owners and leadership teams.
+
+His interest in AI began with creative experimentation and grew into building software, developing business systems, and helping companies explore new opportunities.
+
+About Pixel Narratives · Jordan Maruszak on LinkedIn
+
+PUBLICATION DETAILS
+
+Paperback and hardback.
+TITLE
+Insert Door Metaphor: AI, Ideas and The New Cost of Trying
+AUTHOR
+Jordan Maruszak
+PAPERBACK
+9798160711751
+HARDBACK
+9798178293195
+PUBLICATION
+Coming October 27, 2026.
+
+Digital editions via Kindle and Apple Books.
+
+View on Amazon · View on Apple Books
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://pixelnarratives.studio/book#webpage","url":"https://pixelnarratives.studio/book","name":"Insert Door Metaphor: AI, Ideas and The New Cost of Trying","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"description":"For most of our lives, good ideas have come with a price tag. You needed the right skills, the right people, enough money, or enough time. Sometimes an idea wasn't worth pursuing simply because finding out whether it would work was too expensive. Artificial intelligence is changing that equation. Things that once required specialized expertise, significant investment, or months of work can now be explored in an afternoon. But this isn't a book about replacing people with AI, automating everything, or getting rich overnight. It's about reconsidering what's possible. Through personal stories, practical examples, and a healthy dose of trial and error, Jordan Maruszak explores how AI is changing the way we create, solve problems, and pursue opportunities. You don't need to understand every new technology. You don't need to have all the answers. You might just need to try the door.","mainEntity":{"@id":"https://pixelnarratives.studio/book#book"},"dateModified":"2026-10-16"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"Book","item":"https://pixelnarratives.studio/book"}]},{"@type":"Book","@id":"https://pixelnarratives.studio/book#book","name":"Insert Door Metaphor: AI, Ideas and The New Cost of Trying","alternateName":"Insert Door Metaphor","headline":"AI, Ideas and The New Cost of Trying","datePublished":"2026-10-27","workExample":[{"@type":"Book","bookFormat":"https://schema.org/Paperback","isbn":"9798160711751"},{"@type":"Book","bookFormat":"https://schema.org/Hardcover","isbn":"9798178293195"},{"@type":"Book","bookFormat":"https://schema.org/EBook"}],"author":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"image":"https://pixelnarratives.studio/images/book-cover.jpg","url":"https://pixelnarratives.studio/book","sameAs":["https://www.amazon.com/dp/B0HN99KZW8","https://books.apple.com/us/book/insert-door-metaphor/id6824207588?ls=1"],"description":"For most of our lives, good ideas have come with a price tag. You needed the right skills, the right people, enough money, or enough time. Sometimes an idea wasn't worth pursuing simply because finding out whether it would work was too expensive. Artificial intelligence is changing that equation. Things that once required specialized expertise, significant investment, or months of work can now be explored in an afternoon. But this isn't a book about replacing people with AI, automating everything, or getting rich overnight. It's about reconsidering what's possible. Through personal stories, practical examples, and a healthy dose of trial and error, Jordan Maruszak explores how AI is changing the way we create, solve problems, and pursue opportunities. You don't need to understand every new technology. You don't need to have all the answers. You might just need to try the door.","inLanguage":"en"}]}
+

@@ -1,0 +1,133 @@
+URL: https://pixelnarratives.studio/work
+Fetched: 2026-10-26T03:34:46Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/work
+Content-Type: text/html
+Via: chrome-headless
+Title: Our Work | Pixel Narratives
+Meta description: Selected work from Pixel Narratives: original campaigns, custom software, team training, and AI-native film.
+Canonical: https://pixelnarratives.studio/work
+Robots: 
+H1: A little of what we've been working on.
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+OUR WORK
+
+A little of what we've been working on.
+
+A selection of projects across AI implementation, training, and creative production.
+
+ORIGINAL CAMPAIGN / AI-NATIVE ADVERTISING/ORIGINAL CAMPAIGN
+
+Chad G.P.T.
+
+An original advertising character created for Pixel Narratives and brought to life through AI-native video production.
+
+Two commercials ran on connected TV during college football and the NFL in Mississippi.
+
+This work is here to show concept, story, and production.
+
+Chad GPT: Introduction
+The Interception
+IMPRESSIONS
+4,695
+UNIQUE HOUSEHOLDS
+3,196
+VIDEO COMPLETION
+98.2%
+
+August 29 through September 15, 2026
+
+CUSTOM SOFTWARE / AI IMPLEMENTATION/CLIENT WORK
+
+Social Media Agency Dashboard
+
+A custom workspace designed to bring client projects, team assignments, approvals, and day-to-day operations into one place.
+
+TEAM TRAINING/CLIENT WORK
+
+BadgePass AI Video Production Workshop
+
+A customized, hands-on AI video production workshop for the BadgePass team, built around tools they could use in their work.
+
+“Pixel Narratives made AI practical for our team. The workshop was hands-on, easy to follow, and focused on things we could actually use in our work. We left with a much better understanding of what these tools can do and, more importantly, how to use them.”
+
+Jason Thomas
+
+EVP of Sales, BadgePass
+
+ORIGINAL BRAND FILM / AI-NATIVE PRODUCTION/ORIGINAL FILM
+
+Team P
+
+A cinematic, comedy-driven brand film for Pixel Narratives team training. Concept, characters, AI-native production, original music, and a longer story.
+
+VIDEO PRODUCTION / ORIGINAL MUSIC/CLIENT WORK
+
+Risky Business Podcast
+
+An opening video and original music created for the Risky Business podcast.
+
+Conceptual reconstruction of the assessment materials. The actual reports stay confidential.
+
+AI STRATEGY & WEBSITE INTELLIGENCE/PAID ASSESSMENT
+
+Restaurant Group
+
+A comprehensive assessment for a multi-location restaurant business, identifying opportunities across operations, customer experience, AI adoption, and online visibility. We delivered a prioritized implementation roadmap alongside a detailed website audit covering performance, search visibility, and customer conversion.
+
+The reports include concrete recommendations for immediate improvements, medium-term projects, and longer-term opportunities.
+
+See a sample of the format
+
+CONTACT
+
+Let's talk about your business.
+
+Have something in mind, or just curious about what's possible? We'd love to hear from you.
+
+Start a Conversation
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://pixelnarratives.studio/work#webpage","url":"https://pixelnarratives.studio/work","name":"Our Work | Pixel Narratives","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"description":"Selected work from Pixel Narratives: original campaigns, custom software, team training, and AI-native film.","dateModified":"2026-10-16"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"Work","item":"https://pixelnarratives.studio/work"}]}]}
+

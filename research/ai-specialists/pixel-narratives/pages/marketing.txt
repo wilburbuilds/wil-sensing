@@ -1,0 +1,117 @@
+URL: https://pixelnarratives.studio/marketing
+Fetched: 2026-10-26T03:34:46Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/marketing
+Content-Type: text/html
+Via: chrome-headless
+Title: Marketing | Pixel Narratives
+Meta description: We help businesses reach more customers through creative strategy, social media, advertising, and original content. From everyday marketing to ambitious campaigns, we bring the ideas and production capabilities to make it happen.
+Canonical: https://pixelnarratives.studio/marketing
+Robots: 
+H1: Good ideas deserve an audience.
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+Good ideas deserve an audience.
+
+Marketing
+
+We help businesses reach more customers through creative strategy, social media, advertising, and original content. From everyday marketing to ambitious campaigns, we bring the ideas and production capabilities to make it happen.
+
+Start a Conversation
+
+WHAT WE DO
+
+From the first idea to the finished campaign.
+Creative Strategy
+
+The ideas behind the marketing. We develop concepts, messaging, and campaigns that give people a reason to pay attention.
+
+Social Media
+
+Content strategy, social posts, short-form video, and campaigns built for the platforms where your customers spend their time.
+
+Advertising
+
+Creative development and advertising across paid social, digital platforms, and connected TV. We help plan, produce, and run campaigns.
+
+Creative Production
+
+Original video, branded content, commercial production, and music. We combine creative direction with AI-native production tools to bring ideas to life.
+
+SELECTED WORK
+
+See what we've been making.
+
+ORIGINAL ADVERTISING CAMPAIGN
+
+Chad G.P.T.
+
+Two original commercials created for Pixel Narratives and aired during college football and NFL programming in Mississippi.
+
+4,695 impressions · 3,196 households reached · 98.2% video completion
+
+Introduction
+The Interception
+
+SPEC CAMPAIGN
+
+The Homie
+
+An original commercial concept for Fizz Soda, created for the Runway Big Ad Contest.
+
+BRAND FILM
+
+Cinder Wealth Brand Spot
+
+A financial services brand film built around an original concept and cinematic storytelling.
+
+LET'S TALK
+
+What are you looking to accomplish?
+
+Whether you're planning a campaign, building your social presence, or exploring new ways to reach customers, we'd love to hear about it.
+
+Start a Conversation
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","url":"https://pixelnarratives.studio/marketing","description":"We help businesses reach more customers through creative strategy, social media, advertising, and original content. From everyday marketing to ambitious campaigns, we bring the ideas and production capabilities to make it happen.","serviceType":"Marketing, Creative, and Advertising","provider":{"@id":"https://pixelnarratives.studio/#organization"},"areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}]},{"@type":"WebPage","@id":"https://pixelnarratives.studio/marketing#webpage","url":"https://pixelnarratives.studio/marketing","name":"Marketing | Pixel Narratives","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"mainEntity":{"@id":"https://pixelnarratives.studio/marketing#service"},"dateModified":"2026-10-16"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"Marketing","item":"https://pixelnarratives.studio/marketing"}]}]}
+

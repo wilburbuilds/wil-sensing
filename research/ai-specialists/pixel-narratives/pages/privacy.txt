@@ -1,0 +1,123 @@
+URL: https://pixelnarratives.studio/privacy
+Fetched: 2026-10-26T03:34:49Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/privacy
+Content-Type: text/html
+Via: chrome-headless
+Title: Privacy Policy | Pixel Narratives
+Meta description: Privacy Policy for Pixel Narratives, including website inquiries, AI Readiness Assessment submissions, cookies, advertising measurement, CRM follow-up, and data rights requests.
+Canonical: https://pixelnarratives.studio/privacy
+Robots: 
+H1: Privacy Policy
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+PRIVACY
+
+Privacy Policy
+
+This policy explains how Pixel Narratives collects and uses information from this website, including contact forms, the AI Readiness Assessment, and technologies that help us understand site use and measure advertising.
+
+Last updated: August 28, 2026
+
+Information We Collect
+
+When you contact Pixel Narratives, book a call, or complete the AI Readiness Assessment, we may collect your name, email address, company name, optional phone number, assessment answers, assessment score, result category, and the message or details you choose to submit.
+
+We also use cookies, pixels, analytics technologies, and similar tools. These may collect information such as IP address, device and browser information, pages viewed, referral information, timestamps, and interaction data, such as whether a page was viewed or a form was completed.
+
+How We Use Information
+
+We use submitted information to generate assessment results, respond to inquiries, follow up about AI strategy, workflows, creative services, and related Pixel Narratives offerings, improve our website, and operate our business.
+
+We use cookies, pixels, and similar tools to understand website usage, measure advertising effectiveness, perform attribution, and improve marketing.
+
+Assessment responses help us understand where a business may need clarity, governance, workflow design, or implementation support.
+
+Cookies, Pixels, and Advertising Measurement
+
+This website uses cookies, pixels, and similar technologies. Some support basic site operation and security. Others help us see how the site is used and whether advertising, including connected TV advertising, led someone to visit or take a next step.
+
+Vibe is an advertising and connected TV attribution provider we use for this measurement. The Vibe pixel loads when you visit the site and records page views. If you successfully submit the AI Readiness Deep Dive contact form, we send Vibe a Lead event so we can measure that conversion. That Lead event does not include your name, email address, company name, phone number, or other form answers.
+
+Information you type into forms is sent to Pixel Narratives and the service providers that help us run the business. It is handled separately from advertising pixel events.
+
+CRM and Service Providers
+
+Assessment and contact information may be sent to Pixel Narratives’ CRM and trusted service providers that help us manage leads, communication, scheduling, hosting, and business operations.
+
+Third-party analytics and advertising partners, including Vibe, may process technical information described above on Pixel Narratives’ behalf or for advertising measurement and attribution.
+
+We do not sell personal information for money. Limited technical information may be shared with advertising and attribution partners so we can measure campaign results. Form-submitted details such as your name and email are not sent to Vibe.
+
+Email and Phone Follow-Up
+
+If you submit your information, we may follow up by email about your assessment, inquiry, or related services. You can ask us to stop marketing follow-up at any time.
+
+If you provide a phone number, it may be used for direct follow-up related to your inquiry or assessment. We do not use optional phone numbers for SMS marketing without separate consent.
+
+Your Choices
+
+This site does not use a cookie pop-up. Advertising and analytics tools, including the Vibe pixel, load when you use the site.
+
+You can ask us not to use advertising or analytics tracking for your browser, or request access, correction, or deletion of information you submitted, by emailing hello@pixelnarratives.studio. If you write about advertising measurement, include that you want to opt out of pixel tracking.
+
+Your browser may also let you block or delete cookies. Blocking cookies can affect how some site features work.
+
+Data Retention and Deletion Requests
+
+We retain lead, inquiry, and assessment information for as long as it is useful for legitimate business purposes, unless deletion is requested or a longer retention period is required by law.
+
+To request access, correction, or deletion of your information, email hello@pixelnarratives.studio.
+
+Assessment Disclaimer
+
+The AI Readiness Assessment is informational. It does not guarantee business results, compliance outcomes, return on investment, or AI implementation success.
+
+Any recommendations should be reviewed in the context of your business goals, operations, budget, team readiness, and risk requirements.
+
+Contact
+
+For privacy questions or data requests, contact Pixel Narratives at hello@pixelnarratives.studio.
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+

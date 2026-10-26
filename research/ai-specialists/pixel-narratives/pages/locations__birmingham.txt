@@ -1,0 +1,153 @@
+URL: https://pixelnarratives.studio/locations/birmingham
+Fetched: 2026-10-26T03:34:54Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/locations/birmingham
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Implementation and Training in Birmingham | Pixel Narratives
+Meta description: Pixel Narratives helps Birmingham businesses with AI implementation, standalone team training, visibility, and marketing.
+Canonical: https://pixelnarratives.studio/locations/birmingham
+Robots: 
+H1: Put practical AI to work in Birmingham.
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+WHO WE WORK WITH / BIRMINGHAM, ALABAMA
+
+Put practical AI to work in Birmingham.
+
+We work with Birmingham business owners and leadership teams that want a clear way to evaluate AI opportunities and turn the right ones into useful work.
+
+Book a Conversation
+Work With Us
+
+BIRMINGHAM, ALABAMA
+
+Move from interest to useful implementation
+
+A leadership team may know AI matters without knowing which opportunities deserve attention first. Employees may already be experimenting with tools while the business still lacks a shared approach.
+
+We help bring order to that work. The engagement can focus on priorities, adoption, training, a business process, or a defined solution with a finish line.
+
+For organizations that need continued support, Partner and Enterprise Partner engagements provide ongoing help with decisions and implementation.
+
+WHAT WE DO
+
+Four ways to work with us
+
+Each service stands on its own. Start with the need that matters most to your business.
+
+SAVE TIME
+
+Implementation
+
+Evaluate opportunities, guide tool choices, improve adoption, and put practical solutions into the way your business already works.
+
+Explore Implementation
+
+USE AI BETTER
+
+Training
+
+Train leadership, departments, or a broader team on ChatGPT, Claude, Microsoft Copilot, AI video, research, creative work, and productivity.
+
+Explore Training
+
+GET FOUND
+
+Visibility
+
+Create a clearer website and stronger online presence so customers and search systems can understand the business.
+
+Explore Visibility
+
+REACH MORE CUSTOMERS
+
+Marketing
+
+Plan and produce advertising, campaigns, video, and creative work designed to earn attention and generate opportunity.
+
+Explore Marketing
+
+HOW TO BEGIN
+
+Choose a clear first step
+
+An assessment can help leadership prioritize. A workshop can help a team use AI well. A focused implementation can solve one expensive problem.
+
+We define the purpose, scope, and expected result before work begins, then stay close enough to make sure the idea becomes useful.
+
+Build covers contained first projects. Partner is available when the business needs ongoing support.
+
+COMMON QUESTIONS
+
+Working with Pixel Narratives
+How can Pixel Narratives help a Birmingham business?
+
+We help identify AI opportunities, improve adoption, train teams, implement practical solutions, strengthen online visibility, and create marketing campaigns.
+
+Can you work with our existing software?
+
+Yes. We begin with the tools and processes already in the business and recommend change only when it supports a clear result.
+
+Can we work with you on an ongoing basis?
+
+Yes. Partner and Enterprise Partner engagements are available when you need continued help with implementation, training, and AI decisions.
+
+Explore our regional footprint
+
+See the markets Pixel Narratives serves across the South.
+
+Who We Work With
+
+NEXT STEP
+
+Let's put AI to work in Birmingham.
+
+Whether you have a specific project in mind or you're exploring what's possible, we'd love to hear from you.
+
+Book a Conversation
+Explore Services
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://pixelnarratives.studio/locations/birmingham#service","name":"AI Implementation and Training in Birmingham | Pixel Narratives","url":"https://pixelnarratives.studio/locations/birmingham","description":"Pixel Narratives helps Birmingham businesses with AI implementation, standalone team training, visibility, and marketing.","serviceType":["AI Implementation","AI Team Training","Visibility","Marketing","Partner"],"provider":{"@id":"https://pixelnarratives.studio/#organization"},"areaServed":[{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}}]},{"@type":"WebPage","@id":"https://pixelnarratives.studio/locations/birmingham#webpage","url":"https://pixelnarratives.studio/locations/birmingham","name":"AI Implementation and Training in Birmingham | Pixel Narratives","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"description":"Pixel Narratives helps Birmingham businesses with AI implementation, standalone team training, visibility, and marketing.","mainEntity":{"@id":"https://pixelnarratives.studio/locations/birmingham#service"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"Who We Work With","item":"https://pixelnarratives.studio/serving-the-south"},{"@type":"ListItem","position":3,"name":"Birmingham","item":"https://pixelnarratives.studio/locations/birmingham"}]},{"@type":"FAQPage","@id":"https://pixelnarratives.studio/locations/birmingham#faq","mainEntity":[{"@type":"Question","name":"How can Pixel Narratives help a Birmingham business?","acceptedAnswer":{"@type":"Answer","text":"We help identify AI opportunities, improve adoption, train teams, implement practical solutions, strengthen online visibility, and create marketing campaigns."}},{"@type":"Question","name":"Can you work with our existing software?","acceptedAnswer":{"@type":"Answer","text":"Yes. We begin with the tools and processes already in the business and recommend change only when it supports a clear result."}},{"@type":"Question","name":"Can we work with you on an ongoing basis?","acceptedAnswer":{"@type":"Answer","text":"Yes. Partner and Enterprise Partner engagements are available when you need continued help with implementation, training, and AI decisions."}}]}]}
+

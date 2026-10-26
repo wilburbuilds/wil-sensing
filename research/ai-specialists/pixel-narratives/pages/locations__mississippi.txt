@@ -1,0 +1,153 @@
+URL: https://pixelnarratives.studio/locations/mississippi
+Fetched: 2026-10-26T03:34:53Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/locations/mississippi
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Implementation and Training in Mississippi | Pixel Narratives
+Meta description: Madison-based Pixel Narratives helps Mississippi businesses with AI implementation, standalone team training, visibility, and marketing.
+Canonical: https://pixelnarratives.studio/locations/mississippi
+Robots: 
+H1: Put AI to work in your Mississippi business.
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+WHO WE WORK WITH / MISSISSIPPI
+
+Put AI to work in your Mississippi business.
+
+Mississippi is home. Pixel Narratives is based in Madison and works with businesses in the Jackson Metro and across the state to identify useful AI opportunities and put them into practice.
+
+Book a Conversation
+Work With Us
+
+MISSISSIPPI
+
+Built in Mississippi for the way local businesses work
+
+Owners and leadership teams do not need another pile of software. They need a clear view of where time is being lost, which opportunities matter, and what their people can use.
+
+We work with businesses in Madison, Ridgeland, Jackson, Flowood, Brandon, Gluckstadt, and communities throughout Mississippi. A project can begin with one contained problem or grow into an ongoing Partner relationship.
+
+The work is shaped around the business. Existing commercial tools may be enough. Other situations call for a better process, hands-on implementation, or a custom solution.
+
+WHAT WE DO
+
+Four ways to work with us
+
+Each service stands on its own. Start with the need that matters most to your business.
+
+SAVE TIME
+
+Implementation
+
+Identify worthwhile opportunities, improve adoption, connect useful tools, and implement a practical solution. Start with one project or bring us in as an ongoing AI partner.
+
+Explore Implementation
+
+USE AI BETTER
+
+Training
+
+Give your team practical, standalone training on ChatGPT, Claude, Microsoft Copilot, AI video, research, creative work, and everyday productivity.
+
+Explore Training
+
+GET FOUND
+
+Visibility
+
+Build a useful website and strengthen the signals that help customers find and understand your business in traditional and AI powered search.
+
+Explore Visibility
+
+REACH MORE CUSTOMERS
+
+Marketing
+
+Create advertising, video, and campaigns that earn attention and give interested customers a clear next step.
+
+Explore Marketing
+
+HOW TO BEGIN
+
+Start with the problem in front of you
+
+Some Mississippi businesses begin with an assessment. Others already know the workflow, team, website, or campaign that needs attention.
+
+We will help you choose a sensible starting point, define the work, and decide what a useful result should look like before anything begins.
+
+Build covers contained first projects. Partner is available when the business needs ongoing support.
+
+COMMON QUESTIONS
+
+Working with Pixel Narratives
+Where is Pixel Narratives based?
+
+Pixel Narratives is based in Madison, Mississippi and serves businesses throughout the state.
+
+Can we hire Pixel Narratives for one project?
+
+Yes. You can start with a contained project, an assessment, a team workshop, a website, or a campaign. Ongoing support is available when the need is broader.
+
+Does AI training require custom software?
+
+No. Training is a standalone service built around your team, its work, and useful tools such as ChatGPT, Claude, and Microsoft Copilot.
+
+Explore our regional footprint
+
+See the markets Pixel Narratives serves across the South.
+
+Who We Work With
+
+NEXT STEP
+
+Let's put AI to work for your business.
+
+Whether you have a specific project in mind or you're exploring what's possible, we'd love to hear from you.
+
+Book a Conversation
+Explore Services
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://pixelnarratives.studio/locations/mississippi#service","name":"AI Implementation and Training in Mississippi | Pixel Narratives","url":"https://pixelnarratives.studio/locations/mississippi","description":"Madison-based Pixel Narratives helps Mississippi businesses with AI implementation, standalone team training, visibility, and marketing.","serviceType":["AI Implementation","AI Team Training","Visibility","Marketing","Partner"],"provider":{"@id":"https://pixelnarratives.studio/#organization"},"areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Madison","containedInPlace":{"@type":"State","name":"MS"}},{"@type":"AdministrativeArea","name":"Jackson Metro","containedInPlace":{"@type":"State","name":"MS"}}]},{"@type":"WebPage","@id":"https://pixelnarratives.studio/locations/mississippi#webpage","url":"https://pixelnarratives.studio/locations/mississippi","name":"AI Implementation and Training in Mississippi | Pixel Narratives","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"description":"Madison-based Pixel Narratives helps Mississippi businesses with AI implementation, standalone team training, visibility, and marketing.","mainEntity":{"@id":"https://pixelnarratives.studio/locations/mississippi#service"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"Who We Work With","item":"https://pixelnarratives.studio/serving-the-south"},{"@type":"ListItem","position":3,"name":"Mississippi","item":"https://pixelnarratives.studio/locations/mississippi"}]},{"@type":"FAQPage","@id":"https://pixelnarratives.studio/locations/mississippi#faq","mainEntity":[{"@type":"Question","name":"Where is Pixel Narratives based?","acceptedAnswer":{"@type":"Answer","text":"Pixel Narratives is based in Madison, Mississippi and serves businesses throughout the state."}},{"@type":"Question","name":"Can we hire Pixel Narratives for one project?","acceptedAnswer":{"@type":"Answer","text":"Yes. You can start with a contained project, an assessment, a team workshop, a website, or a campaign. Ongoing support is available when the need is broader."}},{"@type":"Question","name":"Does AI training require custom software?","acceptedAnswer":{"@type":"Answer","text":"No. Training is a standalone service built around your team, its work, and useful tools such as ChatGPT, Claude, and Microsoft Copilot."}}]}]}
+

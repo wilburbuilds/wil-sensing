@@ -4,7 +4,7 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 163. Other companies are added when their teardown is committed.
+Saved pages in this index: 213. Other companies are added when their teardown is committed.
 
 ## mad-city-integrations (20 saved pages)
 
@@ -31,7 +31,58 @@ Saved pages in this index: 163. Other companies are added when their teardown is
 | https://www.madcityintegrations.com/terms-and-conditions | 200 | https://www.madcityintegrations.com/terms-and-conditions | `research/ai-specialists/mad-city-integrations/pages/terms-and-conditions.txt` | Terms and Conditions / Mad City Integrations |
 | https://www.madcityintegrations.com/work | 200 | https://www.madcityintegrations.com/work | `research/ai-specialists/mad-city-integrations/pages/work.txt` | Page not found / Mad City Integrations |
 
-## tenex (77 saved pages)
+## pixel-narratives (46 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://pixelnarratives.studio/about | 200 | https://pixelnarratives.studio/about | `research/ai-specialists/pixel-narratives/pages/about.txt` | About Pixel Narratives |
+| https://pixelnarratives.studio/ai-commercial-production-company | 200 | https://pixelnarratives.studio/ai-commercial-production-company | `research/ai-specialists/pixel-narratives/pages/ai-commercial-production-company.txt` | AI Commercial Production Company / Pixel Narratives |
+| https://pixelnarratives.studio/ai-consulting-for-businesses | 200 | https://pixelnarratives.studio/ai-consulting-for-businesses | `research/ai-specialists/pixel-narratives/pages/ai-consulting-for-businesses.txt` | AI Implementation Support for Businesses / Pixel Narratives |
+| https://pixelnarratives.studio/ai-crm-automation | 200 | https://pixelnarratives.studio/ai-crm-automation | `research/ai-specialists/pixel-narratives/pages/ai-crm-automation.txt` | AI CRM Automation for Sales Teams |
+| https://pixelnarratives.studio/ai-info | 200 | https://pixelnarratives.studio/ai-info | `research/ai-specialists/pixel-narratives/pages/ai-info.txt` | Official Information About Pixel Narratives |
+| https://pixelnarratives.studio/ai-readiness-assessment | 200 | https://pixelnarratives.studio/ai-readiness-assessment | `research/ai-specialists/pixel-narratives/pages/ai-readiness-assessment.txt` | AI Readiness Assessment / Pixel Narratives |
+| https://pixelnarratives.studio/ai-video-ad-agency | 200 | https://pixelnarratives.studio/ai-video-ad-agency | `research/ai-specialists/pixel-narratives/pages/ai-video-ad-agency.txt` | AI Video Ad Agency / Pixel Narratives |
+| https://pixelnarratives.studio/ai-workflow-automation | 200 | https://pixelnarratives.studio/ai-workflow-automation | `research/ai-specialists/pixel-narratives/pages/ai-workflow-automation.txt` | AI Workflow Automation for Businesses |
+| https://pixelnarratives.studio/book | 200 | https://pixelnarratives.studio/book | `research/ai-specialists/pixel-narratives/pages/book.txt` | Insert Door Metaphor: AI, Ideas and The New Cost of Trying / Pixel Narratives |
+| https://intel.pixelnarratives.studio/compare | 200 | https://intel.pixelnarratives.studio/compare | `research/ai-specialists/pixel-narratives/pages/compare.txt` | Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage |
+| https://pixelnarratives.studio/contact | 200 | https://pixelnarratives.studio/contact | `research/ai-specialists/pixel-narratives/pages/contact.txt` | Contact / Pixel Narratives |
+| https://pixelnarratives.studio/contact?need=automation | 200 | https://pixelnarratives.studio/contact?need=automation | `research/ai-specialists/pixel-narratives/pages/contact__need-automation.txt` | Contact / Pixel Narratives |
+| https://pixelnarratives.studio/contact?need=marketing | 200 | https://pixelnarratives.studio/contact?need=marketing | `research/ai-specialists/pixel-narratives/pages/contact__need-marketing.txt` | Contact / Pixel Narratives |
+| https://pixelnarratives.studio/contact?need=not-sure | 200 | https://pixelnarratives.studio/contact?need=not-sure | `research/ai-specialists/pixel-narratives/pages/contact__need-not-sure.txt` | Contact / Pixel Narratives |
+| https://pixelnarratives.studio/contact?need=training | 200 | https://pixelnarratives.studio/contact?need=training | `research/ai-specialists/pixel-narratives/pages/contact__need-training.txt` | Contact / Pixel Narratives |
+| https://pixelnarratives.studio/contact?need=websites | 200 | https://pixelnarratives.studio/contact?need=websites | `research/ai-specialists/pixel-narratives/pages/contact__need-websites.txt` | Contact / Pixel Narratives |
+| https://pixelnarratives.studio/cost-of-ai-video-production | 200 | https://pixelnarratives.studio/cost-of-ai-video-production | `research/ai-specialists/pixel-narratives/pages/cost-of-ai-video-production.txt` | Cost of AI Video Production / Pricing Guide |
+| https://intel.pixelnarratives.studio/dashboard | 200 | https://intel.pixelnarratives.studio/dashboard | `research/ai-specialists/pixel-narratives/pages/dashboard.txt` | Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage |
+| https://pixelnarratives.studio/how-to-create-ads-people-actually-watch | 200 | https://pixelnarratives.studio/how-to-create-ads-people-actually-watch | `research/ai-specialists/pixel-narratives/pages/how-to-create-ads-people-actually-watch.txt` | How to Create Ads People Watch |
+| https://pixelnarratives.studio/how-to-implement-ai-in-your-business | 200 | https://pixelnarratives.studio/how-to-implement-ai-in-your-business | `research/ai-specialists/pixel-narratives/pages/how-to-implement-ai-in-your-business.txt` | How to Implement AI in Your Business |
+| https://pixelnarratives.studio/how-to-use-ai-in-your-business | 200 | https://pixelnarratives.studio/how-to-use-ai-in-your-business | `research/ai-specialists/pixel-narratives/pages/how-to-use-ai-in-your-business.txt` | How to Use AI in Your Business / Pixel Narratives |
+| https://pixelnarratives.studio/implementation | 200 | https://pixelnarratives.studio/implementation | `research/ai-specialists/pixel-narratives/pages/implementation.txt` | AI Implementation for Businesses / Pixel Narratives |
+| https://pixelnarratives.studio/ | 200 | https://pixelnarratives.studio/ | `research/ai-specialists/pixel-narratives/pages/index.txt` | AI Implementation Partner / Pixel Narratives |
+| https://pixelnarratives.studio/insights | 200 | https://pixelnarratives.studio/insights | `research/ai-specialists/pixel-narratives/pages/insights.txt` | Insights / Pixel Narratives |
+| https://intel.pixelnarratives.studio/privacy | 200 | https://intel.pixelnarratives.studio/privacy | `research/ai-specialists/pixel-narratives/pages/intel-privacy.txt` | Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage |
+| https://intel.pixelnarratives.studio/ | 200 | https://intel.pixelnarratives.studio/ | `research/ai-specialists/pixel-narratives/pages/intel.txt` | Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage |
+| https://pixelnarratives.studio/llms.txt | 200 | https://pixelnarratives.studio/llms.txt | `research/ai-specialists/pixel-narratives/pages/llms.txt` | llms.txt |
+| https://pixelnarratives.studio/locations/birmingham | 200 | https://pixelnarratives.studio/locations/birmingham | `research/ai-specialists/pixel-narratives/pages/locations__birmingham.txt` | AI Implementation and Training in Birmingham / Pixel Narratives |
+| https://pixelnarratives.studio/locations/memphis | 200 | https://pixelnarratives.studio/locations/memphis | `research/ai-specialists/pixel-narratives/pages/locations__memphis.txt` | AI Implementation and Training in Memphis / Pixel Narratives |
+| https://pixelnarratives.studio/locations/mississippi | 200 | https://pixelnarratives.studio/locations/mississippi | `research/ai-specialists/pixel-narratives/pages/locations__mississippi.txt` | AI Implementation and Training in Mississippi / Pixel Narratives |
+| https://pixelnarratives.studio/locations/mobile-eastern-shore | 200 | https://pixelnarratives.studio/locations/mobile-eastern-shore | `research/ai-specialists/pixel-narratives/pages/locations__mobile-eastern-shore.txt` | AI Implementation in Mobile and the Eastern Shore / Pixel Narratives |
+| https://pixelnarratives.studio/marketing | 200 | https://pixelnarratives.studio/marketing | `research/ai-specialists/pixel-narratives/pages/marketing.txt` | Marketing / Pixel Narratives |
+| https://pixelnarratives.studio/news | 200 | https://pixelnarratives.studio/news | `research/ai-specialists/pixel-narratives/pages/news.txt` | Pixel Narratives in the News / Madison, Mississippi |
+| https://pixelnarratives.studio/news/pixel-narratives-brings-ai-implementation-services-to-mississippi-businesses | 200 | https://pixelnarratives.studio/news/pixel-narratives-brings-ai-implementation-services-to-mississippi-businesses | `research/ai-specialists/pixel-narratives/pages/news__pixel-narratives-brings-ai-implementation-services-to-mississippi-businesses.txt` | Pixel Narratives Brings AI Implementation Services to Mississippi Businesses |
+| https://pixelnarratives.studio/news/pixel-narratives-featured-business-news-info | 200 | https://pixelnarratives.studio/news/pixel-narratives-featured-business-news-info | `research/ai-specialists/pixel-narratives/pages/news__pixel-narratives-featured-business-news-info.txt` | Pixel Narratives Featured by Business News & Info |
+| https://calendly.com/pixelnarratives/30min | 200 | https://calendly.com/pixelnarratives/30min | `research/ai-specialists/pixel-narratives/pages/pixelnarratives__30min.txt` | Select a Date & Time - Calendly |
+| https://pixelnarratives.studio/privacy | 200 | https://pixelnarratives.studio/privacy | `research/ai-specialists/pixel-narratives/pages/privacy.txt` | Privacy Policy / Pixel Narratives |
+| https://pixelnarratives.studio/sample-implementation-assessment | 200 | https://pixelnarratives.studio/sample-implementation-assessment | `research/ai-specialists/pixel-narratives/pages/sample-implementation-assessment.txt` | Sample Implementation Assessment / Pixel Narratives |
+| https://pixelnarratives.studio/services | 200 | https://pixelnarratives.studio/services | `research/ai-specialists/pixel-narratives/pages/services.txt` | What We Do / Pixel Narratives |
+| https://pixelnarratives.studio/serving-the-south | 200 | https://pixelnarratives.studio/serving-the-south | `research/ai-specialists/pixel-narratives/pages/serving-the-south.txt` | Who We Work With / Pixel Narratives |
+| https://intel.pixelnarratives.studio/terms | 200 | https://intel.pixelnarratives.studio/terms | `research/ai-specialists/pixel-narratives/pages/terms.txt` | Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage |
+| https://pixelnarratives.studio/training | 200 | https://pixelnarratives.studio/training | `research/ai-specialists/pixel-narratives/pages/training.txt` | AI Team Training and Workshops / Pixel Narratives |
+| https://pixelnarratives.studio/visibility-in-the-age-of-ai | 200 | https://pixelnarratives.studio/visibility-in-the-age-of-ai | `research/ai-specialists/pixel-narratives/pages/visibility-in-the-age-of-ai.txt` | Visibility in the Age of AI / Pixel Narratives |
+| https://pixelnarratives.studio/websites | 200 | https://pixelnarratives.studio/websites | `research/ai-specialists/pixel-narratives/pages/websites.txt` | Visibility / Pixel Narratives |
+| https://pixelnarratives.studio/work-with-us | 200 | https://pixelnarratives.studio/work-with-us | `research/ai-specialists/pixel-narratives/pages/work-with-us.txt` | Work With Us / Pixel Narratives |
+| https://pixelnarratives.studio/work | 200 | https://pixelnarratives.studio/work | `research/ai-specialists/pixel-narratives/pages/work.txt` | Our Work / Pixel Narratives |
+
+## tenex (81 saved pages)
 
 | URL | Status | Final URL | File | Title |
 | --- | --- | --- | --- | --- |
@@ -54,6 +105,7 @@ Saved pages in this index: 163. Other companies are added when their teardown is
 | https://www.tenex.co/blog/webfx-claude-fluency | 200 | https://www.tenex.co/blog/webfx-claude-fluency | `research/ai-specialists/tenex/pages/blog__webfx-claude-fluency.txt` | How Tenex Helped WebFX Build Claude Fluency Across the Whole Company / Tenex |
 | https://www.tenex.co/build-first | 200 | https://www.tenex.co/build-first | `research/ai-specialists/tenex/pages/build-first.txt` | Build First: Skip to the Onsite Interview / Tenex |
 | https://www.tenex.co/careers | 200 | https://www.tenex.co/careers | `research/ai-specialists/tenex/pages/careers.txt` | Careers / Tenex |
+| https://www.tenex.co/case-studies | 401 | https://www.tenex.co/case-studies | `research/ai-specialists/tenex/pages/case-studies.txt` | Tenex Case Studies |
 | https://www.tenex.co/diagnostic | 200 | https://www.tenex.co/diagnostic | `research/ai-specialists/tenex/pages/diagnostic.txt` | Free 2-Week AI Diagnostic / Tenex |
 | https://www.tenex.co/events | 200 | https://www.tenex.co/events | `research/ai-specialists/tenex/pages/events.txt` | Events / Tenex |
 | https://www.tenex.co/events/10x-your-eng-orgs-productivity-with-jellyfish-co | 200 | https://www.tenex.co/events/10x-your-eng-orgs-productivity-with-jellyfish-co | `research/ai-specialists/tenex/pages/events__10x-your-eng-orgs-productivity-with-jellyfish-co.txt` | 10x your eng org’s productivity with Jellyfish.co / Tenex |
@@ -63,6 +115,8 @@ Saved pages in this index: 163. Other companies are added when their teardown is
 | https://www.tenex.co/events/your-2026-ai-strategy-build-a-plan-that-actually-works | 200 | https://www.tenex.co/events/your-2026-ai-strategy-build-a-plan-that-actually-works | `research/ai-specialists/tenex/pages/events__your-2026-ai-strategy-build-a-plan-that-actually-works.txt` | Your 2026 AI Strategy: Build a Plan That Actually Works / Tenex |
 | https://www.tenex.co/contact | 200 | https://www.tenex.co/get-started | `research/ai-specialists/tenex/pages/get-started.txt` | Get Started |
 | https://tenex.co/ | 200 | https://www.tenex.co/ | `research/ai-specialists/tenex/pages/index.txt` | Tenex / AI Transformation & AI Engineering Partner |
+| https://www.tenex.co/ and https://www.tenex.co/about-us | 200 | https://www.tenex.co/ and https://www.tenex.co/about-us | `research/ai-specialists/tenex/pages/logo-alts.txt` |  |
+|  |  |  | `research/ai-specialists/tenex/pages/not-fetched-newsletter.txt` |  |
 | https://www.tenex.co/playbooks | 200 | https://www.tenex.co/playbooks | `research/ai-specialists/tenex/pages/playbooks.txt` | Playbooks / Tenex |
 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | 200 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | `research/ai-specialists/tenex/pages/playbooks__5-step-guide-for-creating-hollywood-caliber-ads-using-ai.txt` | Make viral cinematic ads fast with AI: 5-step sprint / Tenex |
 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | 200 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | `research/ai-specialists/tenex/pages/playbooks__answer-engine-optimization-aeo-complete-guide.txt` | Answer Engine Optimization (AEO): A Complete Guide / Tenex |
@@ -110,6 +164,7 @@ Saved pages in this index: 163. Other companies are added when their teardown is
 | https://www.tenex.co/the-big-question/ai-strategy-where-to-start | 200 | https://www.tenex.co/the-big-question/ai-strategy-where-to-start | `research/ai-specialists/tenex/pages/the-big-question__ai-strategy-where-to-start.txt` | What Actually Goes Into an AI Strategy, and Where Do We Start? / Tenex |
 | https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent | 200 | https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent | `research/ai-specialists/tenex/pages/the-big-question__how-to-build-your-first-ai-agent.txt` | How to Build Your First AI Agent / Tenex |
 | https://form.typeform.com/to/vk5i1x9Q | 200 | https://form.typeform.com/to/vk5i1x9Q | `research/ai-specialists/tenex/pages/to__vk5i1x9Q.txt` | Tenex Agent Bootcamp — Register Your Interest |
+| https://form.typeform.com/to/vk5i1x9Q | 200 | https://form.typeform.com/to/vk5i1x9Q | `research/ai-specialists/tenex/pages/typeform-bootcamp-fields.txt` | Tenex Agent Bootcamp — Register Your Interest |
 | https://www.tenex.co/ultrathink | 200 | https://www.tenex.co/ultrathink | `research/ai-specialists/tenex/pages/ultrathink.txt` | Ultrathink: The Free AI Newsletter from Tenex |
 | https://www.tenex.co/workshops/closing-the-ai-gap | 200 | https://www.tenex.co/workshops/closing-the-ai-gap | `research/ai-specialists/tenex/pages/workshops__closing-the-ai-gap.txt` | Closing the AI Gap / Tenex |
 

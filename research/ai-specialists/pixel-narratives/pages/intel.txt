@@ -1,0 +1,142 @@
+URL: https://intel.pixelnarratives.studio/
+Fetched: 2026-10-26T03:41:14Z
+HTTP status: 200
+Final URL: https://intel.pixelnarratives.studio/
+Content-Type: text/html
+Via: chrome-headless
+Title: Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage
+Meta description: Free AI-powered website diagnostic tool. Analyze any business site for conversion gaps, SEO weaknesses, AI discoverability risks, and revenue leakage in minutes.
+Canonical: https://webintel.replit.app/
+Robots: index, follow
+H1: Reveal What's Costing You.
+
+WEB INTELLIGENCE
+
+A Visibility Tool by Pixel Narratives
+
+PIXELNARRATIVES.STUDIO
+New Audit
+Dashboard
+Compare
+FREE CONSULTATION
+Talk to an Expert
+We build from here.
+
+VISIBILITY. ATTENTION. IMPLEMENTATION.
+
+PIXEL NARRATIVES · WEB INTELLIGENCE
+
+See where your site stands.
+
+Web Intelligence shows you how visible your website actually is. Submit any URL and we'll check how it performs across search, AI discovery, and the signals that turn visitors into customers.
+
+The report is clear and honest: what you're doing well, where you're losing ground, and where to focus first.
+
+Get Started
+PIXELNARRATIVES.STUDIO ↗
+Reveal What's Costing You.
+
+See where your site is losing visibility, traffic, and conversions.
+
+Most businesses don't know their site is invisible to the right people. This diagnostic shows you exactly where your visibility is breaking down, and what it would take to fix it.
+
+NEW AUDIT
+
+Website URL
+Reveal
+BUSINESS TYPE
+Not specified
+Not specified
+Local / Service BusinessPlumber, contractor, dentist, HVAC, etc.
+Restaurant / Food & BeverageDine-in, takeout, catering, or food-service business
+E-commerceOnline store or product sales
+SaaS / SoftwareSubscription app, developer tool, or platform
+Agency / Professional ServicesMarketing agency, consultancy, or design studio
+Law Firm / LegalLaw practice, solicitor firm, or legal services
+Healthcare / MedicalClinic, dental practice, therapy, or medical service
+Generic / OtherDoesn't fit the above; general rubric applies
+TARGET CUSTOMER
+AVG. DEAL VALUE (USD)
+
+By submitting, you confirm you have permission to audit this website and agree to our use terms below.
+
+Recent Audits
+
+No audits yet.
+
+Enter a URL above to cast your first diagnostic.
+
+ACCURACY
+
+Results are based on a sample of up to 20 pages and may not reflect the full site. Findings are AI-generated and may vary between runs on the same site.
+
+AUTHORIZED USE
+
+By submitting a URL, you confirm you own or have explicit permission to audit that website. Do not use this tool on sites you are not authorized to analyze.
+
+DATA STORAGE
+
+Submitted URLs, business type, and audit results are stored to power benchmarking and history features.
+
+PERFORMANCE DATA
+
+Performance scores are sourced from Google PageSpeed Insights API and are subject to Google's data policies. Business profile data (rating, reviews, listing status) is retrieved from Google Places API and is subject to Google Maps Platform Terms.
+
+BOT DISCLOSURE
+
+Audits are performed by an automated crawler (SiteAuditBot/1.0) that sends HTTP requests to the target site. The crawler respects standard HTTP responses and site availability.
+
+INFORMATIONAL ONLY
+
+Audit results are for informational purposes only and do not constitute professional SEO, legal, marketing, or security advice.
+
+© 2026 PIXEL NARRATIVES. ALL RIGHTS RESERVED.
+
+PRIVACY POLICY
+TERMS OF SERVICE
+PIXELNARRATIVES.STUDIO
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type= name="url" id="" label="" placeholder="https://example.com" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="«r6»-form-item" label="BUSINESS TYPE" placeholder="" aria="" required=false
+  - select type= name="" id="" label="" placeholder="" aria="" required=false options=Not specified | Local / Service BusinessPlumber, contractor, dentist, HVAC, etc. | Restaurant / Food & BeverageDine-in, takeout, catering, or food-service business | E-commerceOnline store or product sales | SaaS / SoftwareSubscription app, developer tool, or platform | Agency / Professional ServicesMarketing agency, consultancy, or design studio | Law Firm / LegalLaw practice, solicitor firm, or legal services | Healthcare / MedicalClinic, dental practice, therapy, or medical service | Generic / OtherDoesn't fit the above; general rubric applies
+  - input type= name="targetCustomer" id="«r8»-form-item" label="TARGET CUSTOMER" placeholder="e.g. Enterprise HR Directors" aria="" required=false
+  - input type= name="avgDealValue" id="«r9»-form-item" label="AVG. DEAL VALUE (USD)" placeholder="e.g. 5000" aria="" required=false
+
+--- json-ld ---
+
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Web Intelligence",
+      "url": "https://WebIntel.replit.app",
+      "description": "AI-powered website diagnostic tool that analyzes business websites for conversion gaps, SEO weaknesses, AI discoverability risks, and revenue leakage using multi-page crawling and OpenAI analysis.",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "browserRequirements": "Requires JavaScript",
+      "inLanguage": "en",
+      "creator": {
+        "@type": "Organization",
+        "name": "Pixel Narratives",
+        "url": "https://www.pixelnarratives.studio"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Free website audit and diagnostic reports"
+      },
+      "featureList": [
+        "Conversion clarity analysis",
+        "SEO weakness detection",
+        "AI discoverability scoring",
+        "Lead capture gap identification",
+        "Google PageSpeed Insights integration",
+        "Multi-page site crawling",
+        "Competitive benchmark comparisons"
+      ]
+    }
+    
+

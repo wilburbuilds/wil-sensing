@@ -1,0 +1,145 @@
+URL: https://pixelnarratives.studio/insights
+Fetched: 2026-10-26T03:34:38Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/insights
+Content-Type: text/html
+Via: chrome-headless
+Title: Insights | Pixel Narratives
+Meta description: Practical guides from Pixel Narratives about AI implementation, workflow automation, online visibility, websites, and marketing.
+Canonical: https://pixelnarratives.studio/insights
+Robots: 
+H1: Practical guidance for better work.
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+INSIGHTS
+
+Practical guidance for better work.
+
+Clear explanations of AI implementation, visibility, and marketing for owners and teams deciding what is worth doing next.
+
+AI Implementation
+
+Practical ways to choose, implement, and improve AI-supported work.
+
+How to Use AI in Your Business
+
+A practical starting point for using AI without wasting time or buying tools before the work is clear.
+
+Read the guide
+How to Implement AI in Your Business
+
+A straightforward implementation roadmap covering workflows, governance, tools, training, and measurement.
+
+Read the guide
+AI Workflow Automation
+
+Where automation creates value, why it fails, and what a durable workflow needs.
+
+Read the guide
+AI CRM Automation
+
+How sales teams can reduce manual updates and improve lead handling without giving up human review.
+
+Read the guide
+AI Implementation for Businesses
+
+What practical AI support includes when the goal is useful adoption, better work, and follow-through.
+
+Read the guide
+AI Team Training
+
+Standalone workshops for teams using ChatGPT, Claude, Microsoft Copilot, AI video, research, and creative tools.
+
+Read the guide
+Visibility
+
+How customers and answer engines find, understand, and trust a business.
+
+Visibility in the Age of AI
+
+A guide to search visibility, AI visibility, authority signals, and the work that helps customers find you.
+
+Read the guide
+Sample Implementation Assessment
+
+See how we document workflow problems, quick wins, and larger implementation opportunities.
+
+Read the guide
+Marketing
+
+Clear guidance for building creative around an objective and an audience.
+
+How to Create Ads People Actually Watch
+
+A simple framework for earning attention before asking an audience to act.
+
+Read the guide
+Cost of AI Video Production
+
+What affects the cost of concept-driven video and when AI-assisted production makes sense.
+
+Read the guide
+AI Commercial Production
+
+How strategy, concept development, editing, and AI-assisted production fit together.
+
+Read the guide
+AI Video Advertising
+
+What separates useful campaign creative from a collection of disconnected assets.
+
+Read the guide
+Serving businesses across the South
+
+Pixel Narratives is based in Madison. We work with businesses in Mississippi, Birmingham, Memphis, Mobile plus Alabama's Eastern Shore, and Atlanta.
+
+Who We Work With
+Company news
+
+Press releases and independent coverage live in the News section.
+
+View News & Media
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":["WebPage","CollectionPage"],"@id":"https://pixelnarratives.studio/insights#webpage","url":"https://pixelnarratives.studio/insights","name":"Pixel Narratives Insights","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"description":"Practical guides about AI implementation, workflow automation, online visibility, websites, and marketing.","mainEntity":{"@id":"https://pixelnarratives.studio/insights#list"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://pixelnarratives.studio/insights"}]},{"@type":"ItemList","@id":"https://pixelnarratives.studio/insights#list","name":"Pixel Narratives guides and insights","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"name":"How to Use AI in Your Business","url":"https://pixelnarratives.studio/how-to-use-ai-in-your-business"},{"@type":"ListItem","position":2,"name":"How to Implement AI in Your Business","url":"https://pixelnarratives.studio/how-to-implement-ai-in-your-business"},{"@type":"ListItem","position":3,"name":"AI Workflow Automation","url":"https://pixelnarratives.studio/ai-workflow-automation"},{"@type":"ListItem","position":4,"name":"AI CRM Automation","url":"https://pixelnarratives.studio/ai-crm-automation"},{"@type":"ListItem","position":5,"name":"AI Implementation for Businesses","url":"https://pixelnarratives.studio/ai-consulting-for-businesses"},{"@type":"ListItem","position":6,"name":"AI Team Training","url":"https://pixelnarratives.studio/training"},{"@type":"ListItem","position":7,"name":"Visibility in the Age of AI","url":"https://pixelnarratives.studio/visibility-in-the-age-of-ai"},{"@type":"ListItem","position":8,"name":"Sample Implementation Assessment","url":"https://pixelnarratives.studio/sample-implementation-assessment"},{"@type":"ListItem","position":9,"name":"How to Create Ads People Actually Watch","url":"https://pixelnarratives.studio/how-to-create-ads-people-actually-watch"},{"@type":"ListItem","position":10,"name":"Cost of AI Video Production","url":"https://pixelnarratives.studio/cost-of-ai-video-production"},{"@type":"ListItem","position":11,"name":"AI Commercial Production","url":"https://pixelnarratives.studio/ai-commercial-production-company"},{"@type":"ListItem","position":12,"name":"AI Video Advertising","url":"https://pixelnarratives.studio/ai-video-ad-agency"}]}]}
+

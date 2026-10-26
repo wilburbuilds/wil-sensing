@@ -1,0 +1,148 @@
+URL: https://intel.pixelnarratives.studio/terms
+Fetched: 2026-10-26T03:39:59Z
+HTTP status: 200
+Final URL: https://intel.pixelnarratives.studio/terms
+Content-Type: text/html
+Via: chrome-headless
+Title: Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage
+Meta description: Free AI-powered website diagnostic tool. Analyze any business site for conversion gaps, SEO weaknesses, AI discoverability risks, and revenue leakage in minutes.
+Canonical: https://webintel.replit.app/
+Robots: index, follow
+H1: Terms of Service
+
+WEB INTELLIGENCE
+
+A Visibility Tool by Pixel Narratives
+
+PIXELNARRATIVES.STUDIO
+New Audit
+Dashboard
+Compare
+FREE CONSULTATION
+Talk to an Expert
+We build from here.
+
+VISIBILITY. ATTENTION. IMPLEMENTATION.
+
+LEGAL
+
+Terms of Service
+
+Last updated: May 3, 2026
+
+These Terms of Service govern your use of Web Intelligence, a tool provided by Pixel Narratives. By submitting a URL or otherwise using this service, you agree to these terms. If you do not agree, please do not use the tool.
+
+ACCEPTABLE USE
+
+You may use Web Intelligence only for lawful purposes and in accordance with these terms. You agree not to:
+
+Submit URLs for websites you do not own or have explicit permission to audit
+Use the tool to probe, scan, or test the vulnerability of any system without authorisation
+Attempt to overload, disrupt, or otherwise interfere with the service or its underlying infrastructure
+Circumvent any rate limiting, access controls, or technical measures in place
+Use the service in any way that violates applicable local, national, or international law
+
+Audits are performed by an automated crawler (SiteAuditBot/1.0) that sends HTTP requests to the target site on your behalf. You bear full responsibility for ensuring you are authorised to initiate such requests.
+
+DISCLAIMER OF WARRANTIES
+
+Web Intelligence is provided "as is" and "as available" without warranty of any kind, express or implied. To the fullest extent permitted by law, Pixel Narratives disclaims all warranties, including but not limited to:
+
+Merchantability or fitness for a particular purpose
+Accuracy, completeness, or reliability of audit results
+Uninterrupted or error-free operation of the service
+
+Audit results are generated from a sample of up to 20 pages and may not reflect the full state of a website. Findings are AI-generated and may vary between runs on the same site. Results are for informational purposes only and do not constitute professional SEO, legal, marketing, or security advice.
+
+LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, Pixel Narratives shall not be liable for any indirect, incidental, special, consequential, or punitive damages — including but not limited to loss of profits, data, goodwill, or business opportunities — arising out of or relating to your use of, or inability to use, this service, even if we have been advised of the possibility of such damages. In no event shall our total liability to you exceed the greater of the amount you paid to use the service in the twelve months preceding the claim or fifty dollars (USD $50).
+
+THIRD-PARTY SERVICES
+
+Web Intelligence relies on third-party APIs to deliver results. We are not responsible for the availability, accuracy, or data practices of these services:
+
+Google PageSpeed Insights API — Your submitted URL is sent to Google to retrieve performance, accessibility, and SEO scores, subject to Google's Terms of Service.
+AI Analysis (OpenAI) — Crawled content and scores are processed by an AI model to generate written recommendations.
+
+Links to third-party websites are provided for convenience only. Pixel Narratives does not endorse and is not responsible for the content or practices of any linked sites.
+
+INTELLECTUAL PROPERTY
+
+All content, design, and software comprising Web Intelligence — excluding content fetched from third-party websites — is the property of Pixel Narratives and is protected by applicable intellectual property laws. You may not reproduce, distribute, or create derivative works from any part of the service without our prior written consent.
+
+CHANGES TO THESE TERMS
+
+We may update these Terms of Service from time to time. Material changes will be reflected in the "last updated" date at the top of this page. Continued use of the service after changes are posted constitutes your acceptance of the revised terms.
+
+CONTACT
+
+If you have any questions about these terms, please reach out via pixelnarratives.studio/contact.
+
+© 2026 PIXEL NARRATIVES. ALL RIGHTS RESERVED.
+
+ACCURACY
+
+Results are based on a sample of up to 20 pages and may not reflect the full site. Findings are AI-generated and may vary between runs on the same site.
+
+AUTHORIZED USE
+
+By submitting a URL, you confirm you own or have explicit permission to audit that website. Do not use this tool on sites you are not authorized to analyze.
+
+DATA STORAGE
+
+Submitted URLs, business type, and audit results are stored to power benchmarking and history features.
+
+PERFORMANCE DATA
+
+Performance scores are sourced from Google PageSpeed Insights API and are subject to Google's data policies. Business profile data (rating, reviews, listing status) is retrieved from Google Places API and is subject to Google Maps Platform Terms.
+
+BOT DISCLOSURE
+
+Audits are performed by an automated crawler (SiteAuditBot/1.0) that sends HTTP requests to the target site. The crawler respects standard HTTP responses and site availability.
+
+INFORMATIONAL ONLY
+
+Audit results are for informational purposes only and do not constitute professional SEO, legal, marketing, or security advice.
+
+© 2026 PIXEL NARRATIVES. ALL RIGHTS RESERVED.
+
+PRIVACY POLICY
+TERMS OF SERVICE
+PIXELNARRATIVES.STUDIO
+
+--- json-ld ---
+
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Web Intelligence",
+      "url": "https://WebIntel.replit.app",
+      "description": "AI-powered website diagnostic tool that analyzes business websites for conversion gaps, SEO weaknesses, AI discoverability risks, and revenue leakage using multi-page crawling and OpenAI analysis.",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "browserRequirements": "Requires JavaScript",
+      "inLanguage": "en",
+      "creator": {
+        "@type": "Organization",
+        "name": "Pixel Narratives",
+        "url": "https://www.pixelnarratives.studio"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Free website audit and diagnostic reports"
+      },
+      "featureList": [
+        "Conversion clarity analysis",
+        "SEO weakness detection",
+        "AI discoverability scoring",
+        "Lead capture gap identification",
+        "Google PageSpeed Insights integration",
+        "Multi-page site crawling",
+        "Competitive benchmark comparisons"
+      ]
+    }
+    
+

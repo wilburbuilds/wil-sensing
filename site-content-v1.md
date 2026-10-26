@@ -12,7 +12,7 @@ Status: this is the copy served from the repo root. GitHub Pages publishes `main
 - Plain language, a product for trades, and "one loop" are judgment calls. They are not stated as rules.
 - "Audit" is not used. "We" for the business. About stays personal. No team size. "Streamline" stays out.
 - No prices on the page. The fit call and the Job map are free. The build is the first paid step, and its price is sized to the jobs on the map. No amounts. There is no fee credit, because the map is free.
-- Proof with numbers is the unnamed shop only: $217K found and stopped, not recovered; ~48% labeled modeled. Sales pipeline, research, and marketing run by AI agents are the same kind of example, with no names and no numbers. The $300+/mo scheduling figure stays off. No invented results.
+- The homepage states verified figures as stats, not as a shop story: $217K vendor credits found, not recovered; ~48% higher gross profit on eligible parts, in a 90-day model, modeled not realized; 11,139 purchase-order lines matched; about 100,000 linked records checked, with no customer's data on another customer's record; 4 real examples, businesses unnamed. Our Work still places the shop figures inside that example. The other examples have no numbers. The $300+/mo scheduling figure stays off. No invented results.
 - Design: B v3, light, dark bands. Less is more. Hero is the headline, the call button, and the draft card. Contact only in the close.
 
 ## Page 1: Home
@@ -40,14 +40,21 @@ Short work. No six-month study, and no slide deck. AI only where it helps. The f
 
 Improve [measure] from [baseline] to [target] by [date].
 
-At one local auto repair shop: (still the only proof on the homepage; left as written and flagged, not rewritten)
-- **$217K** in vendor credits found by matching 11,139 purchase-order lines against billing. The leak stopped going forward. Found, not recovered.
-- **About 48%** higher gross profit on eligible parts from pricing each part, in a 90-day model. Modeled, not yet realized.
+Stats, not a shop story. Specific examples live on Our Work.
+- **$217K.** Vendor credits found, not recovered.
+- **~48%.** Higher gross profit on eligible parts, in a 90-day model. Modeled, not yet realized.
+- **11,139.** Purchase-order lines matched against billing.
+- **~100,000.** Linked records checked. No customer's data showed up on another customer's record.
+- **4.** Real examples. The businesses stay unnamed.
+
+[See our work →] · [See how we work →]
 
 ### About
 **Meet Wil.**
 
-Wil was hired full-time at a local auto repair shop for business development and marketing. Once inside, he saw what AI and custom code could do, built it, and in his words it changed their business dramatically for the better.
+Wil has built this for several businesses. They stay unnamed.
+
+The shop sentence ("hired full-time… dramatically for the better") stays on Our Work, inside that example. It is not on the homepage.
 
 The person who maps the work is the person who builds it and runs it. Ten years in brand and content is why what we build is easy to use.
 

@@ -60,6 +60,8 @@ section h2{font-size:clamp(32px,3.4vw,46px);line-height:1.05}
 .rows{margin-top:56px;border-top:1px solid var(--rule)}
 .rows>li,.rows>div{display:grid;grid-template-columns:4fr 5fr 3fr;gap:32px;padding:32px 0;border-bottom:1px solid var(--rule)}
 .rows.two>li{grid-template-columns:4fr 8fr}
+.rows.stats>li{grid-template-columns:minmax(240px,5fr) 7fr;align-items:center}
+.rows.stats .fig{text-align:left}
 .rows h3{font-size:26px;line-height:1.1}
 .rows .what{color:var(--ink-3);margin-top:8px;font-size:16px}
 .rows p,.rows li li{color:var(--ink-2)}

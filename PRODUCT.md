@@ -45,6 +45,7 @@ A local auto repair shop, where Wil was hired full-time for business development
 - Trust built in: people approve pricing changes, AI claims link to sources, AI notes labeled and deletable, customer data checked across about 100,000 records.
 
 Sales pipeline, research, and marketing run by AI agents are the same kind of example. Keep the current wording. No names, and no numbers or results.
+The homepage does not tell the shop story. It states the verified figures as stats, with the qualifiers above, plus 4 real examples. The businesses stay unnamed.
 Absent, never fabricate: testimonials, client logos, outcome numbers for work outside the shop, growth figures (pending), photos of the shop.
 
 ## Design Standard: less is more

@@ -1,0 +1,287 @@
+URL: https://blog.helloparalegal.com/2025/10/03/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont/
+Fetched: 2026-10-26T03:37:46Z
+HTTP status: 200
+Final URL: https://blog.helloparalegal.com/2025/10/03/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Won't Replace Your Paralegals, But Paralegals Who Use AI Will Replace Those Who Don't - Hello Paralegal
+Meta description: The legal industry stands at a crossroads. As artificial intelligence adoption in law skyrockets from 19% in 2023 to 79% in 2025, a staggering 60% leap in just two years. Law firms face a critical question: Will AI replace paralegals, or will it create a new breed of indispensable legal professionals? The answer is clear: […]
+Canonical: https://blog.helloparalegal.com/2025/10/03/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Won’t Replace Your Paralegals, But Paralegals Who Use AI Will Replace Those Who Don’t
+
+Skip to content
+
+Hello Paralegal
+
+Front Page
+Sample Page
+Sample Page
+AI Won’t Replace Your Paralegals, But Paralegals Who Use AI Will Replace Those Who Don’t
+
+Written by
+
+hello-paralegal-admin
+
+in
+
+Paralegal Services
+
+The legal industry stands at a crossroads. As artificial intelligence adoption in law skyrockets from 19% in 2023 to 79% in 2025, a staggering 60% leap in just two years. Law firms face a critical question: Will AI replace paralegals, or will it create a new breed of indispensable legal professionals?
+
+The answer is clear: AI won’t replace your paralegals. But paralegals who master AI tools will absolutely replace those who don’t. And if your firm isn’t preparing for this shift right now, you’re already behind.
+
+The Real AI Story: Adoption Is Accelerating Faster Than You Think
+The Numbers Don’t Lie: AI Usage in Legal Is Surging
+
+The data paints a compelling picture. 31% of legal professionals now personally use AI at work, up from 27% just one year ago. While this growth may seem modest, it represents a fundamental shift in how legal work gets done. Even more striking, most mid-sized law firms are now using AI in some capacity, with over half having adopted it widely or universally across their practices.
+
+But adoption rates vary dramatically by practice area. Immigration practitioners lead the charge with 47% using AI personally for work-related tasks, followed by personal injury attorneys at 37% and civil litigation professionals at 36%. Criminal law, family law, and trusts and estates practices show adoption rates between 25-28%, indicating that AI tools are becoming mainstream across virtually all legal specialties.
+
+At the firm level, the story is equally compelling. Civil litigation firms top the charts with 27% AI adoption, while personal injury and family law firms both clock in at 20%. Even traditionally conservative practice areas like trusts and estates and criminal law are seeing 18% firm-wide adoption rates.
+
+For firms with 51 or more lawyers, the adoption rate hits an impressive 39%, a clear signal that larger organizations recognize AI as a competitive necessity, not a futuristic experiment.
+
+What Are Paralegals Actually Using AI For?
+
+The real power of AI in paralegal work isn’t theoretical, it’s practical and immediate. Today’s AI-savvy paralegals are leveraging these tools for:
+
+Legal Research and Case Law Analysis: AI can scan thousands of cases in seconds, identifying relevant precedents and summarizing complex legal concepts. What once took hours now takes minutes.
+
+Document Review and Contract Analysis: AI excels at reviewing contracts, spotting inconsistencies, identifying missing clauses, and flagging potential risks. Tools like Spellbook and Harvey AI integrate directly into Microsoft Word, allowing paralegals to draft and redline contracts without switching platforms.
+
+Drafting Routine Correspondence: From client intake letters to discovery responses, AI can generate first drafts that paralegals then refine and personalize, dramatically reducing time spent on repetitive writing tasks.
+
+Discovery Management: With AI capable of automating up to 40% of the average workday, discovery becomes far more manageable. AI tools can categorize documents, identify privileged material, and create detailed summaries of massive document sets.
+
+Data Analysis and Pattern Recognition: AI excels at identifying trends across cases, extracting key data points from documents, and generating insights that would be nearly impossible to spot manually.
+
+Administrative Task Automation: From invoice processing to scheduling, AI handles the mundane work that eats into billable hours, freeing paralegals for substantive legal work.
+
+Why AI Won’t Replace Paralegals (But Will Transform the Role)
+The Limitations of AI in Legal Work
+
+Despite the hype, AI has fundamental limitations that ensure human paralegals remain essential. Law firms need strong oversight processes to mitigate legal and ethical risks associated with AI use, and that oversight requires skilled human judgment.
+
+Consider the critical tasks that AI simply cannot handle:
+
+Ethical Oversight and Professional Responsibility: Only licensed professionals can make judgment calls about conflicts of interest, attorney-client privilege, and ethical obligations. AI can flag potential issues, but humans must make the final call.
+
+Client Relationship Management: Building trust, demonstrating empathy, conducting sensitive interviews, and providing emotional support during stressful legal matters require the human touch that no algorithm can replicate.
+
+Complex Strategic Thinking: While AI can identify patterns, it cannot develop creative legal strategies, anticipate opposing counsel’s moves, or adapt tactics based on courtroom dynamics.
+
+Context and Nuance: Legal work often requires understanding subtext, reading between the lines, and applying common sense to unusual situations, areas where AI still falls dramatically short.
+
+Confidentiality and Security: Sharing sensitive client information with AI tools raises significant concerns. Firms must carefully evaluate whether their chosen AI platforms adequately protect confidential data from improper disclosure, both externally and internally within the firm.
+
+Court Requirements: Most jurisdictions require that legal filings be reviewed and verified by licensed attorneys or supervised paralegals. AI-generated work must always be validated by human professionals.
+
+What AI Actually Does: Augmentation, Not Replacement
+
+The true promise of AI lies not in replacement but in augmentation. As AI takes over more repetitive tasks, lawyers and paralegals can focus on complex, strategic work that delivers real value to clients. The same principle applies to paralegals: AI handles data entry, basic research, and document formatting, while paralegals tackle strategic analysis, client communication, and complex problem-solving.
+
+Real-world examples illustrate this perfectly. At firms using AI tools like Clio Duo, paralegals report spending less time on “grunt work” and more time on higher-level tasks like developing case strategies, improving client service, and training others on effective AI use.
+
+AI is not a paralegal replacement, it’s a force multiplier. Paralegals who embrace this reality position themselves as invaluable assets to their firms.
+
+The Growing Divide: AI-Skilled vs. Traditional Paralegals
+The New Competitive Advantage
+
+A critical divide is emerging in the paralegal profession. Firms achieving higher efficiency and better financial outcomes share one common trait: they’re embracing AI and tech adoption aggressively. And they’re actively seeking paralegals who can hit the ground running with these tools.
+
+The market is responding accordingly. Paralegals with demonstrated AI skills command higher salaries and receive more competitive offers. Job postings increasingly list “AI literacy” or “experience with legal tech tools” as preferred or even required qualifications. The “tech-savvy paralegal premium” is real, and it’s growing.
+
+Firms that have witnessed the productivity gains from AI-skilled paralegals aren’t going back. They’re actively recruiting for these capabilities and willing to pay for them.
+
+What AI Skills Do Paralegals Actually Need?
+
+The good news? You don’t need a computer science degree to become AI-proficient. The essential AI skills for paralegals are practical and learnable:
+
+1. Prompt Engineering: Crafting effective queries is the foundation of AI use. A well-designed prompt produces accurate, reliable results critical to legal decision-making. A poorly constructed prompt leads to misinterpretation or legal inaccuracy. Prompt engineering has become a fundamental skill, legal professionals who master it consistently achieve better outcomes from AI tools.
+
+2. AI Tool Literacy: Understanding the capabilities and limitations of specific tools is crucial. Paralegals should be familiar with leading platforms like:
+
+Clio Duo: Integrated AI within practice management software
+Harvey AI: Professional-class AI for legal work
+Spellbook: AI that works directly in Microsoft Word for contract drafting
+Lexis+ AI: AI-powered legal research with real-time validation
+ChatGPT: General-purpose AI that can assist with various tasks (with appropriate safeguards)
+
+Each tool has strengths and weaknesses. Knowing which tool to use for which task is a critical skill.
+
+3. Data Validation and Quality Control: AI makes mistakes, sometimes significant ones. ChatGPT, for example, has been known to “hallucinate” facts, even falsely accusing individuals of crimes that never occurred. Paralegals must verify AI outputs, catching fraudulent information, identifying AI-voiced phishing scams, and ensuring accuracy before work products reach attorneys or clients.
+
+4. Workflow Integration: The most successful AI-using paralegals don’t just know how to use tools, they know how to integrate them seamlessly into existing workflows. This means understanding when to use AI versus when traditional methods are more appropriate, and how to hand off AI-generated work for human review efficiently.
+
+5. Ethical AI Use: Understanding confidentiality, professional responsibility, and the ethical implications of AI use is non-negotiable. This includes knowing what information can safely be input into AI systems, how to maintain attorney-client privilege, and where liability lies in the AI value chain.
+
+The Real Risk: Being Left Behind
+What Happens to Firms That Don’t Adapt?
+
+The consequences of ignoring AI adoption are already materializing. Law firms leaving about 14% of billable hours unbilled and 10% of billed fees uncollected face a stark reality: their AI-adopting competitors are capturing that lost revenue through increased efficiency.
+
+But the costs go beyond immediate profitability:
+
+Competitive Disadvantage: Firms using AI complete work faster, more accurately, and at lower cost. They can take on more clients, offer more competitive pricing, and still maintain healthy margins.
+
+Difficulty Attracting Top Talent: The best paralegal candidates actively seek out forward-thinking firms. A 2025 survey found that paralegals increasingly evaluate firms based on their technology investments, viewing modern tools as indicators of firms that value professional development.
+
+Higher Operational Costs: Without AI assistance, firms need more staff to handle the same workload. This creates a vicious cycle: higher costs lead to higher client fees, which make the firm less competitive, which reduces new client acquisition.
+
+Client Expectations: As AI becomes standard in the industry, clients increasingly expect the efficiency gains it provides. Firms that can’t deliver face difficult conversations about billing and value.
+
+The “Brain Drain” Problem
+
+Perhaps most concerning is the talent problem. Paralegals looking for firms that invest in their professional development, including AI training and tools, will simply go elsewhere. When top candidates have multiple offers, they choose firms that demonstrate a commitment to innovation and growth.
+
+One paralegal with 20 years of experience recently shared her job search approach: “I don’t care if I have to take a huge pay cut, I want to work for a firm that invests in technology and training. That’s the type of employer I’m seeking in 2025.”
+
+This sentiment is increasingly common. Firms without modern tools face a recruitment crisis, forced to choose between settling for less qualified candidates or paying premiums to attract talent willing to work without proper technological support.
+
+How Leading Law Firms Are Preparing for the AI Future
+Investment in Training and Upskilling
+
+Forward-thinking firms are taking concrete steps to prepare their teams for the AI era:
+
+Internal Training Programs: Law firms are developing comprehensive AI training curricula. These programs cover everything from basic AI literacy to advanced prompt engineering techniques. Training is no longer optional, it’s a core part of professional development.
+
+Partnerships with Legal Tech Companies: Firms are partnering with AI vendors to provide specialized training on specific tools. These partnerships ensure that staff receive expert guidance on maximizing each platform’s capabilities.
+
+Creating Safe Experimentation Environments: Leading firms establish “AI sandboxes” where paralegals can experiment with tools without risking client confidentiality. This hands-on learning accelerates skill development.
+
+Recognizing AI Champions: Firms identify early adopters and “super users” who become internal resources for training and troubleshooting. These AI champions help colleagues overcome hesitations and learn best practices.
+
+Hiring AI-Ready Paralegals
+
+Recruitment strategies are evolving rapidly. Progressive firms are:
+
+Updating Job Descriptions: New postings explicitly list AI skills alongside traditional requirements. Terms like “experience with legal AI tools,” “prompt engineering skills,” and “technology-forward mindset” now appear regularly.
+
+Testing for Tech Aptitude: Interviews increasingly include practical assessments. Candidates might be asked to demonstrate how they’d use AI to solve a specific legal problem or explain how they’d validate AI-generated research.
+
+Partnering with AI-Forward Staffing Firms: Rather than spending months searching for AI-skilled talent, leading firms partner with specialized staffing companies that pre-vet candidates for these critical capabilities. These partnerships dramatically reduce time-to-hire while ensuring new hires arrive with immediately applicable skills.
+
+Practical Steps: Building Your AI-Enhanced Paralegal Team
+For Firms Starting from Zero
+
+If your firm hasn’t yet embraced AI, don’t panic, but do act quickly. Here’s your starting roadmap:
+
+1. Audit Current Tasks: Identify which paralegal tasks are most time-consuming and repetitive. These are prime candidates for AI assistance. Document review, contract analysis, and legal research typically offer the highest ROI.
+
+2. Select 2-3 AI Tools for Pilot Programs: Don’t try to implement everything at once. Choose tools that address your highest-priority needs. Many platforms offer free trials, take advantage of them.
+
+3. Identify Early Adopters: Find paralegals who are naturally tech-curious and willing to experiment. These team members become your AI champions, helping others learn and troubleshoot.
+
+4. Create Safe Experimentation Protocols: Establish clear guidelines about what types of information can be used in AI tools. Set up test environments where staff can learn without risking client confidentiality.
+
+5. Measure Efficiency Gains: Track time savings, accuracy improvements, and cost reductions. Quantifying ROI makes it easier to justify expanding AI adoption and investing in training.
+
+For Firms Ready to Scale
+
+If your firm has already experimented with AI and seen positive results, it’s time to scale systematically:
+
+1. Develop Comprehensive AI Usage Policies: Create firm-wide guidelines covering ethical AI use, data security, quality control processes, and professional responsibility standards. Ensure every team member understands these policies.
+
+2. Implement Firm-Wide Training Programs: Move beyond early adopters to organization-wide training. Consider partnering with educational institutions offering legal AI courses, such as Berkeley Law’s Generative AI for the Legal Profession program or specialized training from organizations like Paralegal Boot Camp.
+
+3. Hire Specifically for AI Skills: Update hiring criteria to prioritize AI literacy. Consider requiring demonstrated experience with specific tools or certifications in legal technology.
+
+4. Create AI Champions and Super Users: Formally recognize and compensate team members who develop advanced AI expertise. These individuals become internal consultants, accelerating adoption across the firm.
+
+5. Track ROI on AI Investments: Monitor not just cost savings but also client satisfaction, employee retention, and competitive positioning. Comprehensive metrics justify continued investment and identify areas for improvement.
+
+Partner with AI-Forward Staffing Solutions
+
+The fastest path to an AI-enhanced team? Partner with staffing firms that specialize in AI-skilled legal talent.
+
+HelloParalegal understands that finding pre-trained, AI-competent paralegals is a game-changer. Rather than hiring traditional candidates and spending months on training, firms can onboard AI-skilled paralegals who deliver immediate productivity gains.
+
+The advantages are compelling:
+
+Reduced Onboarding Time: AI-skilled paralegals require minimal training on tools and workflows
+Immediate ROI: These professionals deliver value from day one
+Proven Vetting Process: Specialized staffing firms pre-assess candidates for AI competency, saving you time and reducing hiring risk
+Access to Competitive Talent: The best AI-skilled paralegals often work with specialized recruiters who understand their value
+
+As the parent company of HelloParalegal evolved from a bootstrapped startup in 2018 to a publicly listed company by 2024, we’ve witnessed firsthand how technology transforms the legal industry. Our mission is connecting forward-thinking law firms with paralegals who think like founders, including those who embrace AI as a competitive advantage.
+
+The Bottom Line: AI as Competitive Advantage
+
+The paralegal profession isn’t disappearing, it’s evolving. And that evolution creates opportunities for professionals and firms willing to adapt.
+
+AI adoption in the legal industry is inevitable and accelerating. The paralegal role is transforming, not vanishing. Paralegals who develop AI skills position themselves as indispensable team members. Firms that invest in AI-skilled talent gain competitive advantages in efficiency, profitability, and talent attraction.
+
+The future of legal practice lies in the strategic integration of technology, data, and human expertise. Paralegals who master this integration become more valuable than ever. Firms that embrace this reality thrive while competitors struggle.
+
+The choice is clear: invest in AI skills now, or watch the gap widen as competitors pull ahead.
+
+The question isn’t whether AI will transform the paralegal profession, it already has. The only question is whether your firm and your team will lead that transformation or be left behind by it.
+
+Ready to Build Your AI-Enhanced Paralegal Team?
+
+HelloParalegal connects you with pre-vetted, AI-skilled paralegals who can hit the ground running. Our paralegals don’t just understand the law, they understand how to leverage AI tools to deliver exceptional results faster and more efficiently than ever before.
+
+Whether you need temporary support during peak periods or permanent team members who bring AI expertise, we’re your partners in building a future-ready legal practice.
+
+Schedule a consultation today to discover how HelloParalegal can transform your firm’s capabilities in 2025 and beyond.
+
+←Ultimate Guide to Paralegal Services: Types, Benefits & How to Choose
+How to Hire Offshore Paralegal Services: Complete Guide for US Law Firms (2025)→
+Comments
+Leave a Reply
+
+Your email address will not be published. Required fields are marked *
+
+Comment *
+
+Name *
+
+Email *
+
+Website
+
+Save my name, email, and website in this browser for the next time I comment.
+
+MORE POSTS
+What Is Agentic AI for Lawyers? The Plain-English Guide (2026)
+April 6, 2026
+How to Hire a Virtual Paralegal in 2026: The Solo Lawyer’s Complete Guide
+April 6, 2026
+How to Automate Client Intake for a Solo Law Firm Using AI in 2026
+April 2, 2026
+Can AI Answer Phone Calls for Your Law Firm? Yes. Here’s How.
+March 31, 2026
+Hello Paralegal
+Blog
+About
+FAQs
+Authors
+Events
+Shop
+Patterns
+Themes
+
+Twenty Twenty-Five
+
+Designed with WordPress
+
+Never Miss Out on Important Updates!
+
+Subscribe to notifications and get instant alerts for everything that matters to you. Stay ahead with real-time updates!
+
+Subscribe
+Remind Me Later
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="https://blog.helloparalegal.com/wp-comments-post.php" id="commentform"
+  - textarea type= name="comment" id="comment" label="Comment *" placeholder="" aria="" required=true
+  - input type=text name="author" id="author" label="Name *" placeholder="" aria="" required=true
+  - input type=email name="email" id="email" label="Email *" placeholder="" aria="" required=true
+  - input type=url name="url" id="url" label="Website" placeholder="" aria="" required=false
+  - input type=checkbox name="wp-comment-cookies-consent" id="wp-comment-cookies-consent" label="Save my name, email, and website in this browser for the next time I comment." placeholder="" aria="" required=false
+  - input type=submit name="submit" id="submit" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#article","isPartOf":{"@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/"},"author":{"name":"hello-paralegal-admin","@id":"https:\/\/blog.helloparalegal.com\/#\/schema\/person\/9baf7a1bb9035fadb12d104ee13464c2"},"headline":"AI Won&#8217;t Replace Your Paralegals, But Paralegals Who Use AI Will Replace Those Who Don&#8217;t","datePublished":"2025-10-03T04:37:10+00:00","mainEntityOfPage":{"@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/"},"wordCount":2686,"commentCount":0,"image":{"@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#primaryimage"},"thumbnailUrl":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2025\/12\/10172447_8265-scaled-1.webp","articleSection":["Paralegal Services"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#respond"]}]},{"@type":"WebPage","@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/","url":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/","name":"AI Won't Replace Your Paralegals, But Paralegals Who Use AI Will Replace Those Who Don't - Hello Paralegal","isPartOf":{"@id":"https:\/\/blog.helloparalegal.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#primaryimage"},"image":{"@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#primaryimage"},"thumbnailUrl":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2025\/12\/10172447_8265-scaled-1.webp","datePublished":"2025-10-03T04:37:10+00:00","author":{"@id":"https:\/\/blog.helloparalegal.com\/#\/schema\/person\/9baf7a1bb9035fadb12d104ee13464c2"},"breadcrumb":{"@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#primaryimage","url":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2025\/12\/10172447_8265-scaled-1.webp","contentUrl":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2025\/12\/10172447_8265-scaled-1.webp","width":2560,"height":1707,"caption":"Business partners signing contract online. Leaders affixing signatures to document on monitor flat vector illustration. Internet, agreement concept for banner, website design or landing web page"},{"@type":"BreadcrumbList","@id":"https:\/\/blog.helloparalegal.com\/2025\/10\/03\/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/blog.helloparalegal.com\/"},{"@type":"ListItem","position":2,"name":"AI Won&#8217;t Replace Your Paralegals, But Paralegals Who Use AI Will Replace Those Who Don&#8217;t"}]},{"@type":"WebSite","@id":"https:\/\/blog.helloparalegal.com\/#website","url":"https:\/\/blog.helloparalegal.com\/","name":"Hello Paralegal","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/blog.helloparalegal.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Person","@id":"https:\/\/blog.helloparalegal.com\/#\/schema\/person\/9baf7a1bb9035fadb12d104ee13464c2","name":"hello-paralegal-admin","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/secure.gravatar.com\/avatar\/fb8063fa7b599e794e772098502e900c01de64457b5b2bb211806902ec319e02?s=96&d=mm&r=g","url":"https:\/\/secure.gravatar.com\/avatar\/fb8063fa7b599e794e772098502e900c01de64457b5b2bb211806902ec319e02?s=96&d=mm&r=g","contentUrl":"https:\/\/secure.gravatar.com\/avatar\/fb8063fa7b599e794e772098502e900c01de64457b5b2bb211806902ec319e02?s=96&d=mm&r=g","caption":"hello-paralegal-admin"},"url":"https:\/\/blog.helloparalegal.com\/author\/hello-paralegal-admin\/"}]}
+

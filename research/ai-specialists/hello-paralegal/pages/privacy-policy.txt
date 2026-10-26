@@ -1,0 +1,29 @@
+URL: https://helloparalegal.com/privacy-policy
+Fetched: 2026-10-26T03:42:14Z
+HTTP status: 200
+Final URL: https://helloparalegal.com/privacy-policy
+Content-Type: text/html
+Via: chrome-headless
+Title: 
+Meta description: 
+Canonical: 
+Robots: 
+H1: 
+
+Home
+Why Hp?
+Selection
+Pricing
+Blog
+Get Started
+Page Not Found
+
+Could not find the requested resource
+
+Return Home
+© Hello Paralegal. All rights reserved
+About Us
+Help & Support
+Terms & Conditions
+Privacy Policy
+

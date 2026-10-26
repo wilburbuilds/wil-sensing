@@ -1,0 +1,170 @@
+URL: https://agencyva.com/about-us
+Fetched: 2026-10-26T03:33:37Z
+HTTP status: 200
+Final URL: https://agencyva.com/about
+Content-Type: text/html
+Via: chrome-headless
+Title: About Us: Our Story & Mission | Agency VA
+Meta description: Agency VA helps insurance agencies build modern teams with trained remote professionals, managed service teams, global employment and insurance technology.
+Canonical: https://agencyva.com/about
+Robots: index, follow, max-image-preview:large
+H1: Built to help insurance agencies work better
+
+Solutions
+Technology
+Pricing
+Company
+Log in
+Get Started
+ABOUT AGENCY VA
+Built to help insurance agencies work better
+
+Agency VA helps insurance agencies build and support modern teams through trained remote professionals, managed service teams, global employment infrastructure, and technology designed around insurance operations.
+
+OUR STORY
+Different teams use AVA for different parts of the operation
+
+Agency VA began with Ben Barrientos and Wessly Anderson, two agency owners who understood the operational pressure behind running and growing an insurance business. What started in 2005 has since grown into a broader workforce and technology company built specifically around the needs of insurance agencies.
+
+2005
+
+The story begins
+
+Ben Barrientos and Wessly Anderson start Agency VA, using their agency owner experience.
+
+2012
+
+Building a global workforce
+
+Agency VA expands its model with trained remote professionals, supporting insurance agencies in client-facing and back-office work.
+
+2018
+
+AVA enters the tech
+
+The company uses AVA technology for workforce management, tracking, and reporting.
+
+Today
+
+Workforce + technology
+
+Agency VA combines virtual assistants, service teams, and AVA products to help insurance agencies hire and scale.
+
+OUR MISSION & VALUES
+Better support for agencies. Better opportunities for people.
+
+Agency VA was built to solve real operational needs for insurance agencies while creating stable, well-supported careers for remote professionals. That balance continues to shape how we hire, support, and grow.
+
+Our Values
+
+We believe remote work should create real economic opportunity. That means treating people well, providing meaningful benefits, and helping our VAs build greater financial stability for themselves and their families.
+
+Our Mission
+
+Our mission is to empower insurance agencies to cultivate robust teams while enhancing the well-being of the professionals who drive their success. We believe that growth should be mutually beneficial for all partners involved.
+
+Agency VA Founded
+2005
+Virtual Assistants
+2,100+
+Agencies Supported
+700+
+Payroll Processed
+$100M+
+OUR VISION
+How Agency VA works to disrupt systemic poverty
+
+We believe a remote job should offer more than a paycheck. Our approach is built around long-term employment, meaningful benefits, and access to the financial tools that help people create greater stability for themselves and their families.
+
+01.
+Health Insurance
+
+Comprehensive healthcare provides our virtual assistants and their families security without choosing between health and finances.
+
+02.
+401K Programs
+
+Employer-supported retirement savings help our virtual assistants plan beyond their next paycheck and build greater long-term financial security.
+
+03.
+Credit-Building for Loans
+
+Building credit and qualifying for financing can open the door to major milestones, from purchasing a car or home to investing in a family's future.
+
+04.
+Stable Employment
+
+We build reliable, long-term relationships that provide our virtual assistants with the stability needed for future planning.
+
+— OUR IMPACT —
+
+Beyond the paycheck.
+
+It may sound crazy, but some of our virtual assistants are making more than the mayors of their provinces. That’s what we call disruption.
+
+OUR OFFERINGS
+People and technology built for modern insurance agencies
+
+Agency VA combines specialized remote talent with purpose-built technology to help insurance agencies handle day-to-day work, improve visibility, and build teams that can grow with the business.
+
+Skilled people for the work that keeps your agency moving
+
+Build your team with professionals who understand insurance operations and the demands of agency work. From dedicated virtual assistants to licensed talent and managed service teams, we help agencies add the right support without taking on the burden of recruiting and managing it alone.
+
+Dedicated and specialized Virtual Assistants
+Licensed and bilingual insurance professionals
+Managed teams for high-volume workflows
+Explore Workforce Solutions
+Technology designed around how insurance agencies actually operate
+
+Our technology extends that support beyond staffing. The AVA product ecosystem gives agencies tools for workforce management, training, reporting, AI-assisted operations, and greater visibility across the business.
+
+AI-powered insurance operations with AVA Insurance OS
+Workforce management and operational visibility
+Training and development through AVA University
+Explore AVA Technology
+FAQs
+Everything You Need to Know
+
+Still have a question? Reach out to our customer service team.
+
+Get Started
+How does Agency VA recruit and train virtual assistants?
+Can my VA work my agency's hours and timezone?
+Is the service secure and compliant for my industry?
+What happens if the VA you place doesn't work out?
+How long does it take to get started with a VA?
+What's the difference between a VA and a Trained Service Team?
+What is AVA EOR and do I need it?
+GET STARTED WITH US
+Ready to Find the Right VA for Your Business?
+
+Discover how AI-powered matching connects you with virtual assistants tailored to your needs — set up in minutes, built to scale.
+
+Get Started
+Book a Demo
+
+Building the AI-ready VA workforce, one team at a time.
+
+Products
+VA Matching
+Ask AVA
+Global Payroll
+Compliance Tools
+Ava Tracking
+Company
+About Us
+Book a Demo
+Become A VA
+Case Studies
+Privacy Policy
+Drop us an email at:
+sales@agencyva.com
+Call us at:
+1-801-590-7477
+
+--- json-ld ---
+
+        {"\u003C?php $__contextArgs = [];\nif (context()-\u003Ehas($__contextArgs[0])) :\nif (isset($value)) { $__contextPrevious[] = $value; }\n$value = context()-\u003Eget($__contextArgs[0]); ?\u003E":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://agencyva.com#organization","name":"Agency VA","url":"http://agencyva.com","logo":"http://agencyva.com/images/logo-dark.webp","email":"sales@agencyva.com","telephone":"+1-801-609-9627"},{"@type":"WebSite","@id":"http://agencyva.com#website","name":"Agency VA","url":"http://agencyva.com","publisher":{"@id":"http://agencyva.com#organization"}}]}
+    
+

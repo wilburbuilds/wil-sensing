@@ -1,0 +1,179 @@
+URL: https://agencyva.com/privacy-policy
+Fetched: 2026-10-26T03:34:32Z
+HTTP status: 200
+Final URL: https://agencyva.com/privacy-policy
+Content-Type: text/html
+Via: chrome-headless
+Title: Data Privacy Policy | Agency VA
+Meta description: How Agency VA collects, uses, shares and protects personal information when you visit our website, contact us or use our insurance services.
+Canonical: https://agencyva.com/privacy-policy
+Robots: index, follow, max-image-preview:large
+H1: Data Privacy Policy
+
+Solutions
+Technology
+Pricing
+Company
+Log in
+Get Started
+Data Privacy Policy
+Legal
+Effective February 25, 2026
+
+Company: Agency VA
+Industry: Insurance Services
+
+On this page
+Introduction
+Information We Collect
+How We Use Your Information
+How We Share Your Information
+Data Security
+Data Retention
+Your Privacy Rights
+Third Party Links
+Children’s Privacy
+International Data Transfers
+Changes to This Policy
+Contact Us
+Introduction
+
+Agency VA (“Company,” “we,” “our,” or “us”) is committed to protecting the privacy and security of personal information. This Data Privacy Policy explains how we collect, use, disclose, and safeguard information when you visit our website, communicate with us, or use our services.
+
+Because we operate in the insurance industry, we handle information with heightened care and in accordance with applicable privacy and data protection laws.
+
+By accessing or using our website, you agree to the terms of this policy.
+
+Information We Collect
+
+We may collect the following categories of information:
+
+Personal Information
+
+Personal information is data that identifies or can reasonably be linked to an individual. This may include:
+
+Full name
+Email address
+Phone number
+Mailing address
+Employer or company name
+Job title
+Identification information provided during onboarding or contracting
+Any information you voluntarily submit through forms, emails, or other communications
+Insurance Related Information
+
+When necessary to provide services within the insurance industry, we may collect information relevant to licensing, employment eligibility, or professional qualifications. We do not request sensitive personal information unless required for legitimate business purposes.
+
+Usage Information
+
+We may automatically collect technical information about your interaction with our website, including:
+
+IP address
+Browser type and version
+Device type
+Operating system
+Pages visited and time spent
+Date and time of visits
+Referring website addresses
+Other diagnostic data
+Cookies and Tracking Technologies
+
+We use cookies and similar technologies to operate our website, remember preferences, analyze traffic, and improve user experience. You can manage or disable cookies through your browser settings, though some website features may not function properly.
+
+How We Use Your Information
+
+We use collected information for legitimate business purposes, including:
+
+Providing, operating, and improving our services
+Recruiting, onboarding, and managing insurance professionals and contractors
+Connecting qualified personnel with client organizations
+Responding to inquiries and providing customer support
+Sending service related communications and administrative messages
+Maintaining security and preventing fraud or unauthorized activity
+Complying with legal, regulatory, and contractual obligations
+Enforcing our terms and protecting our rights
+
+We do not sell personal information.
+
+How We Share Your Information
+
+We may share information only as necessary for business operations, including:
+
+With client organizations seeking insurance professionals or services
+With trusted service providers who perform functions on our behalf such as IT support, hosting, analytics, or background verification
+With regulatory authorities or law enforcement when required by law
+To protect the rights, safety, or property of Agency VA, our clients, or others
+In connection with a business transaction such as a merger, acquisition, restructuring, or asset sale
+
+All third parties are expected to protect information and use it only for authorized purposes.
+
+Data Security
+
+We implement reasonable administrative, technical, and physical safeguards designed to protect personal information from unauthorized access, disclosure, alteration, or destruction. Despite these measures, no method of transmission over the internet or electronic storage is completely secure, and absolute security cannot be guaranteed.
+
+Data Retention
+
+We retain personal information only for as long as necessary to fulfill the purposes described in this policy, comply with legal obligations, resolve disputes, and enforce agreements.
+
+Your Privacy Rights
+
+Depending on applicable law and your location, you may have rights regarding your personal information, including the right to:
+
+Request access to the personal information we hold about you
+Request correction of inaccurate or incomplete information
+Request deletion of your personal information, subject to legal limitations
+Object to or request restriction of certain processing activities
+Withdraw consent where processing is based on consent
+
+To exercise these rights, contact us using the information below.
+
+Third Party Links
+
+Our website may contain links to third party websites or services. We are not responsible for the privacy practices, security, or content of those third parties. We encourage you to review their privacy policies.
+
+Children’s Privacy
+
+Our services are intended for business professionals and are not directed to individuals under the age of 13. We do not knowingly collect personal information from children.
+
+International Data Transfers
+
+Agency VA operates globally and may transfer information across national borders. By using our website or services, you acknowledge that your information may be processed in countries that may have different data protection laws than your jurisdiction.
+
+Changes to This Policy
+
+We may update this Data Privacy Policy periodically. Updates will be posted on this page with a revised effective date. Continued use of our website after changes indicates acceptance of the updated policy.
+
+Contact Us
+
+If you have questions, concerns, or requests regarding this Data Privacy Policy or our data practices, please contact us:
+
+Agency VA
+Email: sales@agencyva.com
+Address: 1390 West State Street, Suite 170, Pleasant Grove, UT 84062
+
+Effective Date: February 25, 2026
+
+Building the AI-ready VA workforce, one team at a time.
+
+Products
+VA Matching
+Ask AVA
+Global Payroll
+Compliance Tools
+Ava Tracking
+Company
+About Us
+Book a Demo
+Become A VA
+Case Studies
+Privacy Policy
+Drop us an email at:
+sales@agencyva.com
+Call us at:
+1-801-590-7477
+
+--- json-ld ---
+
+        {"\u003C?php $__contextArgs = [];\nif (context()-\u003Ehas($__contextArgs[0])) :\nif (isset($value)) { $__contextPrevious[] = $value; }\n$value = context()-\u003Eget($__contextArgs[0]); ?\u003E":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://agencyva.com#organization","name":"Agency VA","url":"http://agencyva.com","logo":"http://agencyva.com/images/logo-dark.webp","email":"sales@agencyva.com","telephone":"+1-801-609-9627"},{"@type":"WebSite","@id":"http://agencyva.com#website","name":"Agency VA","url":"http://agencyva.com","publisher":{"@id":"http://agencyva.com#organization"}}]}
+    
+

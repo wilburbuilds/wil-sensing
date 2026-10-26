@@ -4,7 +4,98 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 213. Other companies are added when their teardown is committed.
+Saved pages in this index: 295. Other companies are added when their teardown is committed.
+
+## agencyva (17 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://agencyva.com/about-us | 200 | https://agencyva.com/about | `research/ai-specialists/agencyva/pages/about.txt` | About Us: Our Story & Mission / Agency VA |
+| http://agencyva.com/ | 200 | https://agencyva.com/ | `research/ai-specialists/agencyva/pages/agencyva-com__index.txt` | Agency VA / Insurance Virtual Assistants, Managed Teams & EOR |
+| https://calendly.com/agencyva/discovery-call | 200 | https://calendly.com/agencyva/discovery-call | `research/ai-specialists/agencyva/pages/agencyva__discovery-call.txt` | Select a Date & Time - Calendly |
+| http://agencyva.com/ai-enablement | 200 | https://agencyva.com/ai-enablement | `research/ai-specialists/agencyva/pages/ai-enablement.txt` | AI Enablement for Insurance Agencies / Agency VA |
+| https://agencyva.com/blog | 200 | https://agencyva.com/blog | `research/ai-specialists/agencyva/pages/blog.txt` | The VA Insider Blog: Insurance Agency Guides / Agency VA |
+| http://agencyva.com/blog/what-ai-should-actually-handle-inside-an-insurance-agency | 200 | https://agencyva.com/blog/what-ai-should-actually-handle-inside-an-insurance-agency | `research/ai-specialists/agencyva/pages/blog__what-ai-should-actually-handle-inside-an-insurance-agency.txt` | What AI Should Actually Handle Inside an Insurance Agency / Agency VA |
+| http://agencyva.com/book-a-discovery-call | 200 | https://agencyva.com/book-a-discovery-call | `research/ai-specialists/agencyva/pages/book-a-discovery-call.txt` | Book a Discovery Call / Agency VA |
+| http://agencyva.com/ | 200 | https://agencyva.com/ | `research/ai-specialists/agencyva/pages/index.txt` | Agency VA / Insurance Virtual Assistants, Managed Teams & EOR |
+| https://www.wesslyanderson.com/ | 200 | https://www.wesslyanderson.com/ | `research/ai-specialists/agencyva/pages/index.txt` | Home / Wessly J Anderson |
+|  |  |  | `research/ai-specialists/agencyva/pages/not-fetched-typeform.txt` |  |
+| http://agencyva.com/our-technology | 200 | https://agencyva.com/our-technology | `research/ai-specialists/agencyva/pages/our-technology.txt` | Our Technology: AVA Insurance OS & Workforce Tools / Agency VA |
+| https://agencyva.com/pricing | 200 | https://agencyva.com/pricing | `research/ai-specialists/agencyva/pages/pricing.txt` | Pricing: Virtual Assistants, Service Teams & EOR / Agency VA |
+| https://agencyva.com/privacy-policy | 200 | https://agencyva.com/privacy-policy | `research/ai-specialists/agencyva/pages/privacy-policy.txt` | Data Privacy Policy / Agency VA |
+| http://agencyva.com/solutions | 200 | https://agencyva.com/solutions | `research/ai-specialists/agencyva/pages/solutions.txt` | Solutions: Virtual Assistants, Service Teams & EOR / Agency VA |
+| http://agencyva.com/testimonials | 200 | https://agencyva.com/testimonials | `research/ai-specialists/agencyva/pages/testimonials.txt` | Client Testimonials & Success Stories / Agency VA |
+| https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO-definition.txt` |  |
+| https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO.txt` | Find Your Perfect Virtual Assistant Match |
+
+## hello-paralegal (64 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://blog.helloparalegal.com/2025/09/18/the-comprehensive-guide-to-legal-process-outsourcing-implementation-benefits-strategy/ | 200 | https://blog.helloparalegal.com/2025/09/18/the-comprehensive-guide-to-legal-process-outsourcing-implementation-benefits-strategy/ | `research/ai-specialists/hello-paralegal/pages/2025__09__18__the-comprehensive-guide-to-legal-process-outsourcing-implementation-benefits-strategy.txt` | The comprehensive guide to legal process outsourcing: implementation, benefits & strategy - Hello Paralegal |
+| https://blog.helloparalegal.com/2025/09/30/ultimate-guide-to-paralegal-services-types-benefits-how-to-choose-2/ | 200 | https://blog.helloparalegal.com/2025/09/30/ultimate-guide-to-paralegal-services-types-benefits-how-to-choose-2/ | `research/ai-specialists/hello-paralegal/pages/2025__09__30__ultimate-guide-to-paralegal-services-types-benefits-how-to-choose-2.txt` | Ultimate Guide to Paralegal Services: Types, Benefits & How to Choose - Hello Paralegal |
+| https://blog.helloparalegal.com/2025/10/03/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont/ | 200 | https://blog.helloparalegal.com/2025/10/03/ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont/ | `research/ai-specialists/hello-paralegal/pages/2025__10__03__ai-wont-replace-your-paralegals-but-paralegals-who-use-ai-will-replace-those-who-dont.txt` | AI Won't Replace Your Paralegals, But Paralegals Who Use AI Will Replace Those Who Don't - Hello Paralegal |
+| https://blog.helloparalegal.com/2025/10/06/how-to-hire-offshore-paralegal-services-complete-guide-for-us-law-firms-2025/ | 200 | https://blog.helloparalegal.com/2025/10/06/how-to-hire-offshore-paralegal-services-complete-guide-for-us-law-firms-2025/ | `research/ai-specialists/hello-paralegal/pages/2025__10__06__how-to-hire-offshore-paralegal-services-complete-guide-for-us-law-firms-2025.txt` | How to Hire Offshore Paralegal Services: Complete Guide for US Law Firms (2025) - Hello Paralegal |
+| https://blog.helloparalegal.com/2025/10/16/before-hiring-paralegal-ai-agents/ | 200 | https://blog.helloparalegal.com/2025/10/16/before-hiring-paralegal-ai-agents/ | `research/ai-specialists/hello-paralegal/pages/2025__10__16__before-hiring-paralegal-ai-agents.txt` | Before You Hire a Paralegal, Read This: What AI Agents Handle First - Hello Paralegal |
+| https://blog.helloparalegal.com/2025/10/31/ai-research-agents-lawyers-guide/ | 200 | https://blog.helloparalegal.com/2025/10/31/ai-research-agents-lawyers-guide/ | `research/ai-specialists/hello-paralegal/pages/2025__10__31__ai-research-agents-lawyers-guide.txt` | AI Research Agents for Lawyers: How They Work, What They Cost, and Why They Don't Hallucinate - Hello Paralegal |
+| https://blog.helloparalegal.com/2025/11/02/law-firm-support-structure-ai-agents/ | 200 | https://blog.helloparalegal.com/2025/11/02/law-firm-support-structure-ai-agents/ | `research/ai-specialists/hello-paralegal/pages/2025__11__02__law-firm-support-structure-ai-agents.txt` | Hello Paralegal - Law Firm Support Staff Structure production |
+| https://blog.helloparalegal.com/2026/02/17/ai-agents-google-reviews-law-firms/ | 200 | https://blog.helloparalegal.com/2026/02/17/ai-agents-google-reviews-law-firms/ | `research/ai-specialists/hello-paralegal/pages/2026__02__17__ai-agents-google-reviews-law-firms.txt` | Best Times for Lawyers to Request Google Reviews |
+| https://blog.helloparalegal.com/2026/02/18/law-firm-bleeding-revenue-ai-agents/ | 200 | https://blog.helloparalegal.com/2026/02/18/law-firm-bleeding-revenue-ai-agents/ | `research/ai-specialists/hello-paralegal/pages/2026__02__18__law-firm-bleeding-revenue-ai-agents.txt` | 3 Numbers That Tell You Where Your Law Firm Is Bleeding Revenue (And the AI Agents That Stop It) - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/19/solo-vs-biglaw-disbarment-ai-agents/ | 200 | https://blog.helloparalegal.com/2026/02/19/solo-vs-biglaw-disbarment-ai-agents/ | `research/ai-specialists/hello-paralegal/pages/2026__02__19__solo-vs-biglaw-disbarment-ai-agents.txt` | Why Solo Attorneys Get Disbarred 5x More Than BigLaw (And the Agent-Powered Fix) - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/21/bar-complaints-solo-lawyers-ai-agents/ | 200 | https://blog.helloparalegal.com/2026/02/21/bar-complaints-solo-lawyers-ai-agents/ | `research/ai-specialists/hello-paralegal/pages/2026__02__21__bar-complaints-solo-lawyers-ai-agents.txt` | The #1 Reason Solo Lawyers Face Bar Complaints (And How AI Agents Prevent It) - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/22/ai-agents-vs-law-firm-software/ | 200 | https://blog.helloparalegal.com/2026/02/22/ai-agents-vs-law-firm-software/ | `research/ai-specialists/hello-paralegal/pages/2026__02__22__ai-agents-vs-law-firm-software.txt` | AI Agents vs. Law Firm Software: Why Solo Lawyers Are Making the Switch - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/23/solo-law-firm-survival-guide-ai-agents/ | 200 | https://blog.helloparalegal.com/2026/02/23/solo-law-firm-survival-guide-ai-agents/ | `research/ai-specialists/hello-paralegal/pages/2026__02__23__solo-law-firm-survival-guide-ai-agents.txt` | The Solo Law Firm Survival Guide: How AI Agents Change Everything in 2026 - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/24/solo-lawyer-ai-agent-stack/ | 200 | https://blog.helloparalegal.com/2026/02/24/solo-lawyer-ai-agent-stack/ | `research/ai-specialists/hello-paralegal/pages/2026__02__24__solo-lawyer-ai-agent-stack.txt` | The Solo Lawyer's AI Agent Stack: What to Deploy, In What Order, and Why - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/25/ai-sanctions-lawyers-guide/ | 200 | https://blog.helloparalegal.com/2026/02/25/ai-sanctions-lawyers-guide/ | `research/ai-specialists/hello-paralegal/pages/2026__02__25__ai-sanctions-lawyers-guide.txt` | AI Sanctions in Court: What Every Solo Lawyer Using AI Agents Needs to Know - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/26/deploy-ai-agent-law-firm-guide/ | 200 | https://blog.helloparalegal.com/2026/02/26/deploy-ai-agent-law-firm-guide/ | `research/ai-specialists/hello-paralegal/pages/2026__02__26__deploy-ai-agent-law-firm-guide.txt` | How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step) - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/02/27/ai-agents-replace-paralegal-tasks/ | 200 | https://blog.helloparalegal.com/2026/02/27/ai-agents-replace-paralegal-tasks/ | `research/ai-specialists/hello-paralegal/pages/2026__02__27__ai-agents-replace-paralegal-tasks.txt` | 6 AI Agents That Do What a $65,000 Paralegal Does (For Under $1,500/Month) - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/03/30/agentic-ai-law-firms-complete-guide/ | 200 | https://blog.helloparalegal.com/2026/03/30/agentic-ai-law-firms-complete-guide/ | `research/ai-specialists/hello-paralegal/pages/2026__03__30__agentic-ai-law-firms-complete-guide.txt` | Agentic AI for Law Firms in 2026: The Solo Lawyer's Complete Guide - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/03/31/ai-phone-agent-law-firm/ | 200 | https://blog.helloparalegal.com/2026/03/31/ai-phone-agent-law-firm/ | `research/ai-specialists/hello-paralegal/pages/2026__03__31__ai-phone-agent-law-firm.txt` | Can AI Answer Phone Calls for Your Law Firm? Yes. Here's How. - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/04/02/how-to-automate-client-intake-solo-law-firm-ai-2026/ | 200 | https://blog.helloparalegal.com/2026/04/02/how-to-automate-client-intake-solo-law-firm-ai-2026/ | `research/ai-specialists/hello-paralegal/pages/2026__04__02__how-to-automate-client-intake-solo-law-firm-ai-2026.txt` | How to Automate Client Intake for a Solo Law Firm Using AI in 2026 - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/04/06/how-to-hire-a-virtual-paralegal-2026/ | 200 | https://blog.helloparalegal.com/2026/04/06/how-to-hire-a-virtual-paralegal-2026/ | `research/ai-specialists/hello-paralegal/pages/2026__04__06__how-to-hire-a-virtual-paralegal-2026.txt` | How to Hire a Virtual Paralegal in 2026: The Solo Lawyer's Complete Guide - Hello Paralegal |
+| https://blog.helloparalegal.com/2026/04/06/what-is-agentic-ai-lawyers-guide-2026/ | 200 | https://blog.helloparalegal.com/2026/04/06/what-is-agentic-ai-lawyers-guide-2026/ | `research/ai-specialists/hello-paralegal/pages/2026__04__06__what-is-agentic-ai-lawyers-guide-2026.txt` | What Is Agentic AI for Lawyers? The Plain-English Guide (2026) - Hello Paralegal |
+| https://helloparalegal.com/about-us | 200 | https://helloparalegal.com/about-us | `research/ai-specialists/hello-paralegal/pages/about-us.txt` | Hello Paralegal |
+| https://aiagents-helloparalegal.onhercules.app/about-us | 200 | https://aiagents-helloparalegal.onhercules.app/about-us | `research/ai-specialists/hello-paralegal/pages/about-us.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/about | 200 | https://helloparalegal.com/about | `research/ai-specialists/hello-paralegal/pages/about.txt` |  |
+| https://aiagents-helloparalegal.onhercules.app/about | 200 | https://aiagents-helloparalegal.onhercules.app/about | `research/ai-specialists/hello-paralegal/pages/about.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://blog.helloparalegal.com/ | 200 | https://blog.helloparalegal.com/ | `research/ai-specialists/hello-paralegal/pages/blog-home.txt` | Hello Paralegal / Legal Insights, Career Tips & Growth |
+| https://helloparalegal.com/blog | 200 | https://helloparalegal.com/blog/ | `research/ai-specialists/hello-paralegal/pages/blog.txt` | Hello Paralegal / Legal Insights, Career Tips & Growth |
+| https://aiagents-helloparalegal.onhercules.app/blog | 200 | https://aiagents-helloparalegal.onhercules.app/blog | `research/ai-specialists/hello-paralegal/pages/blog.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/careers | 200 | https://helloparalegal.com/careers | `research/ai-specialists/hello-paralegal/pages/careers.txt` |  |
+| https://aiagents-helloparalegal.onhercules.app/careers | 200 | https://aiagents-helloparalegal.onhercules.app/careers | `research/ai-specialists/hello-paralegal/pages/careers.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/case-studies | 200 | https://helloparalegal.com/case-studies | `research/ai-specialists/hello-paralegal/pages/case-studies.txt` |  |
+| https://aiagents-helloparalegal.onhercules.app/case-studies | 200 | https://aiagents-helloparalegal.onhercules.app/case-studies | `research/ai-specialists/hello-paralegal/pages/case-studies.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://blog.helloparalegal.com/category/legal-operations/ | 200 | https://blog.helloparalegal.com/category/legal-operations/ | `research/ai-specialists/hello-paralegal/pages/category__legal-operations.txt` | Legal Operations Archives - Hello Paralegal |
+| https://blog.helloparalegal.com/category/paralegal-services/ | 200 | https://blog.helloparalegal.com/category/paralegal-services/ | `research/ai-specialists/hello-paralegal/pages/category__paralegal-services.txt` | Paralegal Services Archives - Hello Paralegal |
+| https://blog.helloparalegal.com/category/uncategory/ | 200 | https://blog.helloparalegal.com/category/uncategory/ | `research/ai-specialists/hello-paralegal/pages/category__uncategory.txt` | Uncategory Archives - Hello Paralegal |
+| https://helloparalegal.com/contact | 200 | https://helloparalegal.com/contact | `research/ai-specialists/hello-paralegal/pages/contact.txt` | Hello Paralegal |
+| https://aiagents-helloparalegal.onhercules.app/contact | 200 | https://aiagents-helloparalegal.onhercules.app/contact | `research/ai-specialists/hello-paralegal/pages/contact.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/get-started | 200 | https://helloparalegal.com/get-started | `research/ai-specialists/hello-paralegal/pages/get-started.txt` | Hello Paralegal |
+| https://helloparalegal.com/help-support | 200 | https://helloparalegal.com/help-support | `research/ai-specialists/hello-paralegal/pages/help-support.txt` | Hello Paralegal |
+| https://helloparalegal.com/ | 200 | https://helloparalegal.com/ | `research/ai-specialists/hello-paralegal/pages/index.txt` | Hello Paralegal |
+| https://blog.helloparalegal.com/ | 200 | https://blog.helloparalegal.com/ | `research/ai-specialists/hello-paralegal/pages/index.txt` | Hello Paralegal / Legal Insights, Career Tips & Growth |
+| https://aiagents-helloparalegal.onhercules.app/ | 200 | https://aiagents-helloparalegal.onhercules.app/ | `research/ai-specialists/hello-paralegal/pages/index.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+|  |  |  | `research/ai-specialists/hello-paralegal/pages/not-fetched.txt` |  |
+| https://aiagents-helloparalegal.onhercules.app/pricing | 200 | https://aiagents-helloparalegal.onhercules.app/pricing | `research/ai-specialists/hello-paralegal/pages/onhercules-404.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://aiagents-helloparalegal.onhercules.app/ | 200 | https://aiagents-helloparalegal.onhercules.app/ | `research/ai-specialists/hello-paralegal/pages/onhercules-app.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/pricing |  | https://helloparalegal.com/pricing | `research/ai-specialists/hello-paralegal/pages/pricing-faq-bundle.txt` |  |
+| https://helloparalegal.com/pricing | 200 | https://helloparalegal.com/pricing | `research/ai-specialists/hello-paralegal/pages/pricing.txt` | Hello Paralegal |
+| https://aiagents-helloparalegal.onhercules.app/pricing | 200 | https://aiagents-helloparalegal.onhercules.app/pricing | `research/ai-specialists/hello-paralegal/pages/pricing.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/privacy-policy | 200 | https://helloparalegal.com/privacy-policy | `research/ai-specialists/hello-paralegal/pages/privacy-policy.txt` |  |
+| https://aiagents-helloparalegal.onhercules.app/privacy-policy | 200 | https://aiagents-helloparalegal.onhercules.app/privacy-policy | `research/ai-specialists/hello-paralegal/pages/privacy-policy.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/privacy | 200 | https://helloparalegal.com/privacy | `research/ai-specialists/hello-paralegal/pages/privacy.txt` | Hello Paralegal |
+| https://aiagents-helloparalegal.onhercules.app/privacy | 200 | https://aiagents-helloparalegal.onhercules.app/privacy | `research/ai-specialists/hello-paralegal/pages/privacy.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/resources | 200 | https://helloparalegal.com/resources | `research/ai-specialists/hello-paralegal/pages/resources.txt` | Hello Paralegal |
+| https://blog.helloparalegal.com/sample-page-2/ | 200 | https://blog.helloparalegal.com/sample-page-2/ | `research/ai-specialists/hello-paralegal/pages/sample-page-2.txt` | Sample Page - Hello Paralegal |
+| https://blog.helloparalegal.com/sample-page/ | 200 | https://blog.helloparalegal.com/sample-page/ | `research/ai-specialists/hello-paralegal/pages/sample-page.txt` | Sample Page - Hello Paralegal |
+| https://helloparalegal.com/selection | 200 | https://helloparalegal.com/selection | `research/ai-specialists/hello-paralegal/pages/selection.txt` | Hello Paralegal |
+| https://helloparalegal.com/services | 200 | https://helloparalegal.com/services | `research/ai-specialists/hello-paralegal/pages/services.txt` |  |
+| https://aiagents-helloparalegal.onhercules.app/services | 200 | https://aiagents-helloparalegal.onhercules.app/services | `research/ai-specialists/hello-paralegal/pages/services.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/terms | 200 | https://helloparalegal.com/terms | `research/ai-specialists/hello-paralegal/pages/terms.txt` | Hello Paralegal |
+| https://helloparalegal.com/why-hp | 200 | https://helloparalegal.com/why-hp | `research/ai-specialists/hello-paralegal/pages/why-hp.txt` | Hello Paralegal |
+| https://helloparalegal.com/work | 200 | https://helloparalegal.com/work | `research/ai-specialists/hello-paralegal/pages/work.txt` |  |
+| https://aiagents-helloparalegal.onhercules.app/work | 200 | https://aiagents-helloparalegal.onhercules.app/work | `research/ai-specialists/hello-paralegal/pages/work.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
+| https://helloparalegal.com/www.resolveoncord.com | 200 | https://helloparalegal.com/www.resolveoncord.com | `research/ai-specialists/hello-paralegal/pages/www.resolveoncord.com.txt` |  |
 
 ## mad-city-integrations (20 saved pages)
 
@@ -82,7 +173,7 @@ Saved pages in this index: 213. Other companies are added when their teardown is
 | https://pixelnarratives.studio/work-with-us | 200 | https://pixelnarratives.studio/work-with-us | `research/ai-specialists/pixel-narratives/pages/work-with-us.txt` | Work With Us / Pixel Narratives |
 | https://pixelnarratives.studio/work | 200 | https://pixelnarratives.studio/work | `research/ai-specialists/pixel-narratives/pages/work.txt` | Our Work / Pixel Narratives |
 
-## tenex (81 saved pages)
+## tenex (82 saved pages)
 
 | URL | Status | Final URL | File | Title |
 | --- | --- | --- | --- | --- |
@@ -117,6 +208,7 @@ Saved pages in this index: 213. Other companies are added when their teardown is
 | https://tenex.co/ | 200 | https://www.tenex.co/ | `research/ai-specialists/tenex/pages/index.txt` | Tenex / AI Transformation & AI Engineering Partner |
 | https://www.tenex.co/ and https://www.tenex.co/about-us | 200 | https://www.tenex.co/ and https://www.tenex.co/about-us | `research/ai-specialists/tenex/pages/logo-alts.txt` |  |
 |  |  |  | `research/ai-specialists/tenex/pages/not-fetched-newsletter.txt` |  |
+|  |  |  | `research/ai-specialists/tenex/pages/not-fetched.txt` |  |
 | https://www.tenex.co/playbooks | 200 | https://www.tenex.co/playbooks | `research/ai-specialists/tenex/pages/playbooks.txt` | Playbooks / Tenex |
 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | 200 | https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai | `research/ai-specialists/tenex/pages/playbooks__5-step-guide-for-creating-hollywood-caliber-ads-using-ai.txt` | Make viral cinematic ads fast with AI: 5-step sprint / Tenex |
 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | 200 | https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide | `research/ai-specialists/tenex/pages/playbooks__answer-engine-optimization-aeo-complete-guide.txt` | Answer Engine Optimization (AEO): A Complete Guide / Tenex |

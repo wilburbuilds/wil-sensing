@@ -1,0 +1,20 @@
+URL: https://aiagents-helloparalegal.onhercules.app/pricing
+Fetched: 2026-10-26T03:39:33Z
+HTTP status: 200
+Final URL: https://aiagents-helloparalegal.onhercules.app/pricing
+Content-Type: text/html
+Via: chrome-headless
+Title: 50 AI Agents Every Solo Law Firm Needs in 2026 | Hello Paralegal
+Meta description: Free guide: Discover the 50 AI agents that can automate your solo law practice, reduce malpractice risk, and reclaim 15+ hours per week.
+Canonical: 
+Robots: 
+H1: 404
+
+404
+Page Not Found
+
+This page does not exist.
+
+Return to Home
+Built with Hercules
+

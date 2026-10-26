@@ -10,22 +10,22 @@ web
 Static HTML/CSS, hosted on GitHub Pages from this repo (inferred from the existing repo; not yet confirmed by Wil).
 
 ## Users
-Anyone who has a job done by hand that repeats and eats hours: owners of small businesses, managers at larger companies who want one role or process improved, teams (sales, marketing, operations, finance and admin, customer service), and individuals. Fit is by type of job, not company size or industry. Wording must not exclude anyone. They arrive cold, usually unsure what AI can be trusted with.
+Who we serve is being redefined (Wil, 2026-10-25). Do not target the site by industry, company size, trades, or geography. Fit is about the job: someone owns it, the data is reachable, autonomy matches the stakes and is earned by testing, no rules get bent, and the result can be written as a measure with a baseline. A job that doesn't repeat can still be a fit.
 
 ## Product Purpose
-Wil Sensing takes a job people do by hand, works out which parts AI can do and be trusted with, builds that, and keeps people on the decisions that matter. Success for the site: a visitor recognizes their own job, believes the work holds up, and books a 30-minute call.
+Wil Sensing finds the jobs a business does by hand that are worth handing off, measures each one, builds them cheap-first, and governs them. The first map is a starting list. New jobs show up during and after the build. Success for the site: a visitor sees the problem, understands the four steps, and books a free 30-minute call.
 
 ## Positioning
-Reliability. Anyone can hook a business up to AI; the hard part is knowing what can be handed off and proving it holds. Internal line: "the layer that makes AI reliable" (never said as an absolute on the site). The site leads with the outcome (find leaks, fix how the work gets done, build for growth), not the method.
+"Hand off the busywork. Keep the decisions." A third line on speed is undecided and is not on the site. No timeline promise. Reliability is the edge. Internal line: "the layer that makes AI reliable" (not stated as an absolute on the site). Public wording: AI only where it helps; plain automation where the work has to be exact. Lightweight and fast: no six-month study, no slide deck.
 
 ## Operating Context
-Steps a client goes through: Fit call (30 minutes, no commitment) → Job map (paid, fee credited toward the build; delivered as a private, printable site) → Build → Ongoing (monthly). How much the system does on its own depends on the stakes and is earned through testing.
+Fit call (free, 30 minutes, no commitment; can end in a no) → Job map (short, paid; every applicable job, each with a measure and a baseline where possible; a scope, a price, and a timeline sized to that set; the owner keeps it) → Build (retire, then plain automation, then AI only for messy input; tested before trust) → Run and govern (monthly, stoppable, living job-list review). The fee credit toward the build is not confirmed and is not promised on the site. No prices are published.
 
 ## Capabilities and Constraints
-- Three pages: Home, How we work, Our Work. Approved copy lives in `site-content-v1.md`, which is the source of truth for all words.
-- Two actions only: "Book a 30-minute call. No commitment." (https://calendly.com/wilsensing/30min) and "Contact" (mailto:wilcsensing@gmail.com, address not printed on the page).
-- No prices anywhere. No autonomy-ladder rungs. No team size, stated or implied.
-- Undecided: headline and hero supporting line (placeholders), growth figures, Job map credit wording.
+- Three pages: Home, How we work, Our Work, in `mockups/site/`. Words also live in `site-content-v1.md`. The live `index.html` is the previous site and is not this copy.
+- Two actions: "Book a free 30-minute call. No commitment." (https://calendly.com/wilsensing/30min) and "Contact" (mailto:wilcsensing@gmail.com, address not printed). Contact is only in the close.
+- No prices, no team size, no "streamline," no "audit." The four ladder rungs are not a section. The build says work is tested before it is trusted and that how much it does on its own matches the stakes.
+- Source of the offer: the working proposition dated 2026-10-25. It wins over earlier site decisions.
 
 ## Brand Commitments
 - Name: Wil Sensing. "We" voice for the business; About introduces Wil by name. Plain words, no jargon; "streamline" is banned.
@@ -38,6 +38,8 @@ From one local auto repair shop, where Wil was hired full-time for business deve
 - $217K in vendor credits found by matching 11,139 purchase-order lines against billing; the leak stopped going forward. Never "saved" or "recovered."
 - About 48% higher gross profit on eligible parts in a 90-day model. Always labeled modeled, not realized.
 - One trusted record of customers, cars, orders, and calls; caller screen; morning shop brief; customer follow-up list; newsletter in the owner's voice.
+- Knowledge kept, with no outcome figures: front-office chat sessions summarized into repeatable skills, and a technician research tool that returns step-by-step answers with sources.
+- $300+/month from replacing scheduling software is real and stays off the site, by Wil's choice.
 - Trust built in: people approve pricing changes, AI claims link to sources, AI notes labeled and deletable, customer data checked across about 100,000 records.
 Absent, never fabricate: testimonials, client logos, other client results, growth figures (pending), photos of the shop. The three "Beyond the shop" examples are synthetic placeholders.
 

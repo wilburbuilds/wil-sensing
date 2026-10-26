@@ -1,0 +1,221 @@
+URL: https://heliontechnologies.com/after-tekion-go-live/
+Fetched: 2026-10-26T03:58:33Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/after-tekion-go-live/
+Content-Type: text/html
+Via: chrome-headless
+Title: Tekion Optimization After Go-Live: Where Dealers Lose Money
+Meta description: Tekion optimization after go-live: where dealerships leave money in service, parts, F&I and accounting, what a scorecard finds, and who should own the platform.
+Canonical: https://heliontechnologies.com/after-tekion-go-live/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: After Tekion Go-Live: Where Dealerships Leave Money on the Table
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+After Tekion Go-Live: Where Dealerships Leave Money on the Table
+By Erik Nachbahr
+October 13, 2026 · 13 min read
+
+Tekion optimization is the work a dealership does after go-live to close the gap between what Tekion can do and what each department uses every day, in service, parts, sales and F&I, and accounting.
+
+Last updated: October 13, 2026
+
+When I started Helion, I ran it on feel for a lot longer than I should have. We didn’t have real metrics, and my thing was that we didn’t need them, because I was close to all of it and I figured I already knew how we were doing. Then we grew. It fell apart on me, and what I took from that is feel doesn’t scale and metrics do, which I got to learn the expensive way.
+
+I think about that whenever I’m talking to a dealer who’s a few months past a Tekion go-live. Everybody’s relieved, and they’ve earned it. The conversion’s behind them, deals are getting booked and repair orders are getting closed, and the general manager will tell you it’s going fine. So I ask him how he knows. He usually laughs a little, because the honest answer is that it feels fine.
+
+And it probably is fine. What I’ve seen, though, is that the money a store leaves on the table after go-live almost never shows up as one big miss you’d catch. It’s a setting nobody went back to, and a feature that got switched on and never picked up, and a release that came out in a month when nobody had time to read about it.
+
+That’s the part of a Tekion move almost nobody budgets for. We’ve already written up the Tekion network and hardware readiness work that comes before the install, and the IT checklist for a DMS conversion that gets you through cutover week, and the Tekion implementation timeline that puts each of those IT tasks on the calendar. This one is the after. It’s where our Tekion enablement team spends most of its time, and it’s the stage I’d argue matters most to the store’s bottom line.
+
+What Tekion Optimization Means Once You’re Live
+
+Tekion optimization is the ongoing review of how a dealership has Tekion’s Automotive Retail Cloud set up and how its people use it. It compares each department’s configuration and results against a benchmark, finds the settings and features that are unused or wrong, corrects them, and retrains the people who work in them.
+
+Notice the word ongoing. I’ve said this to dealers more than once, and I’ll say it here. It’s such a titanic shift from where you were on CDK or Reynolds and Reynolds that nobody absorbs all of it on the first pass, and you need someone with you before, during, and after. Before and during get the attention because they come with a date on the calendar. After has no date. So it slides.
+
+Why the Gap Opens After Go-Live
+
+Tekion puts real effort into getting a store live. Its published Implementation Terms describe a standard certification program that trains “up to 16 Certified Professionals, up to 4 per department over 4 weeks,” and there’s a Tekion Virtual Academy offered as an annual service on top of that. Tekion’s got trainers and project managers who walk the store through the conversion, and the ones we’ve worked next to are good at it.
+
+They do rely on the dealership to watch the training, to learn the software, and to keep learning it. I think that’s fair. It’s your store. But look at who’s being asked to keep learning. It’s a service manager with a full drive at 7:30 in the morning and a controller who’s three days from month-end. They mean to get to it. They just don’t.
+
+And the software won’t sit still while they catch up, which is the reason you bought it. At the NADA Show in Las Vegas on February 5, 2026, Tekion reported over 60% ARC revenue growth for 2025 and showed off Scheduler AI and Technician AI. Four months later, at its Tekion One conference on June 16, it announced four more, which were T1 Pro, Salesperson AI, Deal Guard AI, and Accounts Payable AI. That’s genuinely impressive. It’s also a lot to ask a parts manager to keep up with on his own.
+
+To be clear, I’m not saying Tekion’s program is missing anything. I’m saying the opposite. Tekion’s adding capabilities so quickly, and dealers are so busy, that you need somebody to help with this stuff. Then there’s turnover. Sixteen certified people is a strong start, but count how many of them are still in the same chair two years later, and ask who trained the people who replaced them. Most stores can’t say.
+
+Department by Department, Where the Money Sits
+
+Some scale first. NADA’s 2025 full-year data has the country’s 16,990 franchised dealers writing more than 276 million repair orders, with service and parts sales exceeding $164 billion. At that kind of volume, a small miss repeated on every ticket turns into real money. Nobody notices it, because nothing broke.
+
+Here’s where I’d look in each department, and the question I’d put to the manager who runs it.
+
+DEPARTMENT	WHERE VALUE TENDS TO SIT UNUSED	THE QUESTION FOR THE MANAGER
+Service	Online and after-hours scheduling, customer updates by text, digital inspections, follow-up on declined work	How many appointments last month were booked without a phone call?
+Parts	Pricing and stocking rules carried over from the old DMS, special-order tracking	Who last reviewed the pricing setup, and when?
+Sales and F&I	The digital deal workflow, e-signature, document checks before a deal is submitted	Which steps of a deal still happen on paper, and why?
+Accounting	Invoice handling, financial statement mapping, the reporting the office still rebuilds by hand	What does the office still key twice?
+
+Service gets the most room here, because that’s where the customer feels it. The Cox Automotive Service Industry Study, published in November 2025, found that only 54% of people with cars two years old or newer went back to the dealership where they bought for service, down from 72% in 2023. Nearly half of owners told Cox they were dissatisfied with dealership service, mostly over unexpected costs and poor communication. Read that again. Poor communication. The store bought a platform that can text the customer, send the inspection, and take a payment, and whether any of that happens comes down to how the service department was set up and what the advisors got used to doing in their first month.
+
+Parts is quieter. A lot of what we find there came over in the conversion, because copying the old rules was the fastest way to hit the go-live date and everybody agreed they’d come back to it. Did anyone?
+
+In sales and F&I the tell is paper. If a store is on a modern platform and the deal jacket is still a physical folder walking down the hall, something in the workflow didn’t get adopted, and it’s worth asking the F&I director which part and what stopped it. Accounting is usually the most disciplined office in the building and still the one with the most hand-built spreadsheets. Tekion’s terms give each implementation up to three hours of financial reporting training with a specialist. That’s a start. A controller in the middle of her first Tekion month-end is going to hold on to some of it and lose the rest, and that’s no knock on her.
+
+What a Tekion Scorecard Finds
+
+Everybody says optimization now. What does that actually mean? For us it means a scorecard. We measure a store’s results in Service, Parts, Sales and F&I, and Accounting against Tekion’s own benchmark data, so the dealer can see where the platform is already paying off and where there’s still value sitting there.
+
+We’re running these scorecards right now, and we’re finding real lost opportunity in Tekion being misconfigured and in people not using things correctly. I’m not going to put a dollar figure in this post. We’ll have real data to share once clients have signed off on it, and until then a number from me is only a number.
+
+What I can tell you is what the misses look like, because they repeat.
+
+Settings that were copied from the old DMS to make the date. Nobody went back.
+A feature that’s switched on and that three people use.
+Releases. Something shipped last spring that would’ve helped the office, and nobody at the store heard about it, because the one person who read the release notes doesn’t work there anymore.
+Roles and permissions that drifted as people changed jobs and kept their old access. That one’s a security problem as much as an efficiency problem, and we covered why in what dealers need to get right with Tekion.
+New hires who learned Tekion from the person at the next desk, workarounds included.
+
+None of those is dramatic. That’s a real problem, honestly, because a dramatic failure gets fixed by Friday and a quiet one runs for three years.
+
+One Manager at a Time
+
+A scorecard by itself is a report, and dealers have plenty of reports. Too many, probably. So we don’t drop it on the dealer principal’s desk and leave. We take it to the people who run the departments, one at a time. We’re going to talk to your service manager now. Here’s how your numbers sit against the benchmark, here’s what Tekion has brought out that your team isn’t using yet, and here’s how to use it. Then parts. Then the F&I director, and then the controller.
+
+We basically hand-feed it to them, a piece at a time, because nobody running a service department has a free afternoon to go study a new workflow. Nobody does. That’s just the job they have.
+
+A ski instructor told me something once, on terrain a good deal steeper than I wanted to be on. “You’re in it now. The only way out is through.” That’s a dealership after go-live. You can’t go back to the old system, and waiting until everybody feels ready isn’t a plan, so the only move left is to get good at the one you bought.
+
+Helion Technologies is a Tekion Certified Partner. We’ve done dealership IT and nothing else for nearly 30 years, and today that’s 2,000-plus dealerships and 35,000 end users. We overlay all of that knowledge on what the benchmark shows, which is how we can tell a setting that’s wrong from one that’s just different. What we’re seeing lately, and this is my read and not anything Tekion has announced, is that as Tekion grows, more of this ongoing work gets done by certified partners working alongside Tekion’s own people. I think that’s healthy.
+
+Who Owns Tekion After Go-Live?
+
+Software needs feeding and care. Who owns that? I ask dealers all the time, and mostly what I get back is a pause.
+
+The biggest mistake I ever made running Helion was promoting great technicians into leadership jobs. They were the best people we had at the technical work, so I figured they’d be the best at leading it, and I was wrong about that, because those turned out to be two different skills. I watch dealers make the same call with Tekion. They hand it to whoever’s best with computers. Wrong person. You want somebody who understands how the department makes its money, one name in each department and one name over all of them, and you want it to be part of the job they’re paid for. Give them the time. Put a review on the calendar every quarter and keep it the way you’d keep a meeting with your lender. And if you’re turning on AI agents that talk to your customers or touch your invoices, somebody has to set the rules for those too, which is why our managed AI for dealerships work exists in the first place.
+
+If nobody inside has the hours, bring in help. I honestly don’t care whether that’s us or another certified partner, as long as somebody’s doing it. We built our DMS transition services around before, during, and after because of how often the after got skipped. Leaving it to feel is the mistake.
+
+Questions I Hear a Few Months After a Tekion Go-Live
+How soon after go-live does a Tekion optimization review make sense?
+Isn’t optimization what Tekion’s implementation team is there for?
+What is a Tekion scorecard measured against?
+We’ve been on Tekion for two years. Did we miss the window?
+Who at the dealership should own Tekion day to day?
+Is Tekion optimization a one-time cleanup?
+The Install Was the Start
+
+Going live gets you the platform. Getting paid back for it is a separate job with no end date, and it goes to whoever is willing to measure. If you’d like to know where your store stands today, start with our complimentary IT and cybersecurity assessment and we’ll tell you what we see.
+
+Don’t run Tekion on feel.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What Tekion Optimization Means Once You’re Live
+Why the Gap Opens After Go-Live
+Department by Department, Where the Money Sits
+What a Tekion Scorecard Finds
+One Manager at a Time
+Who Owns Tekion After Go-Live?
+Questions I Hear a Few Months After a Tekion Go-Live
+The Install Was the Start
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"After Tekion Go-Live: Where Dealerships Leave Money on the Table","datePublished":"2026-10-13T16:08:39+00:00","dateModified":"2026-10-13T16:08:40+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/"},"wordCount":2554,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-optimization-after-go-live-dealership-featured.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/","url":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/","name":"Tekion Optimization After Go-Live: Where Dealers Lose Money","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-optimization-after-go-live-dealership-featured.webp","datePublished":"2026-10-13T16:08:39+00:00","dateModified":"2026-10-13T16:08:40+00:00","description":"Tekion optimization after go-live: where dealerships leave money in service, parts, F&I and accounting, what a scorecard finds, and who should own the platform.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/after-tekion-go-live\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-optimization-after-go-live-dealership-featured.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-optimization-after-go-live-dealership-featured.webp","width":1200,"height":500,"caption":"After go-live, the work shifts from installing Tekion to getting full use of it."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/after-tekion-go-live\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"After Tekion Go-Live: Where Dealerships Leave Money on the Table"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/after-tekion-go-live/#article","headline":"After Tekion Go-Live: Where Dealerships Leave Money on the Table","description":"Tekion optimization after go-live: where dealerships leave money in service, parts, F&I and accounting, what a scorecard finds, and who should own the platform.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/tekion-optimization-after-go-live-dealership-featured.webp","author":{"@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/after-tekion-go-live/"},"about":[{"@type":"CreativeWork","name":"Tekion Automotive Retail Cloud"},{"@type":"Thing","name":"Tekion optimization","description":"The ongoing review of how a dealership has Tekion configured and how its staff use it after go-live."}],"keywords":"Tekion optimization, Tekion DMS, Tekion training, Tekion support, DMS conversion, Tekion scorecard","inLanguage":"en-US","datePublished":"2026-10-13T12:08:39-04:00","dateModified":"2026-10-13T12:08:40-04:00"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/after-tekion-go-live/#faq","mainEntity":[{"@type":"Question","name":"How soon after go-live does a Tekion optimization review make sense?","acceptedAnswer":{"@type":"Answer","text":"A Tekion optimization review makes sense once the store has a couple of month-end closes behind it. By then people have stopped fighting the new system and started forming habits, and that's the moment to check them. Any earlier and you're measuring the conversion."}},{"@type":"Question","name":"Isn't optimization what Tekion's implementation team is there for?","acceptedAnswer":{"@type":"Answer","text":"Tekion's team gets the store live, configured, and trained, and they do that well. Optimization is what continues after that program ends, and it depends on the dealership's own people continuing to learn a platform that keeps adding capabilities. A certified partner extends the momentum Tekion's team builds."}},{"@type":"Question","name":"What is a Tekion scorecard measured against?","acceptedAnswer":{"@type":"Answer","text":"A Tekion scorecard is measured against Tekion's own benchmark data across four departments, which are Service, Parts, Sales and F&I, and Accounting. The point is to see where your store already matches what the platform was designed to deliver and where it falls short, department by department, so the fix list has an order to it."}},{"@type":"Question","name":"We've been on Tekion for two years. Did we miss the window?","acceptedAnswer":{"@type":"Answer","text":"No, a store two years into Tekion hasn't missed anything, and a scorecard usually finds more there than it would at a new one. You've got more data, steadier habits, and more turnover since the original training. The platform has also added a good deal since your go-live that your team may never have been shown."}},{"@type":"Question","name":"Who at the dealership should own Tekion day to day?","acceptedAnswer":{"@type":"Answer","text":"Put one named person in each department in charge of Tekion, and one person over all of them who has the time written into the job. It shouldn't default to whoever is best with computers. It should be somebody who understands how the department makes money."}},{"@type":"Question","name":"Is Tekion optimization a one-time cleanup?","acceptedAnswer":{"@type":"Answer","text":"Short answer, no, because Tekion keeps releasing new capabilities and your staff keeps changing. The gap reopens if nobody is watching it. Plan on a first full review and then a lighter check every quarter."}}]}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/after-tekion-go-live/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

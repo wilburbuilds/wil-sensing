@@ -1,0 +1,212 @@
+URL: https://heliontechnologies.com/dealership-it-services-san-francisco/
+Fetched: 2026-10-26T04:00:55Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-it-services-san-francisco/
+Content-Type: text/html
+Via: chrome-headless
+Title: Dealership IT Services in San Francisco | Helion Technologies
+Meta description: Dealership IT services in San Francisco and the Bay Area from Helion Technologies. Managed IT, cybersecurity, backup and compliance. Help in 82 seconds.
+Canonical: https://heliontechnologies.com/dealership-it-services-san-francisco/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealership IT Services in San Francisco & the Bay Area
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+SAN FRANCISCO, THE PENINSULA, EAST BAY AND SOUTH BAY
+
+Dealership IT Services in San Francisco & the Bay Area
+
+One dealership-only IT team for your stores from Colma to San Jose. A live person answers in 82 seconds on average.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Last updated: October 20, 2026
+
+Helion Technologies provides dealership IT services in San Francisco and across the Bay Area for automotive and heavy truck stores, covering managed IT, cybersecurity, Tekion support, backup and recovery, and FTC Safeguards compliance. A live support agent answers in 82 seconds on average.
+
+Dealership IT Services in San Francisco Start With the Map
+
+Ask a Bay Area dealer how far apart their stores are and you’ll get the answer in bridges, not miles. A group with one store on Serramonte Boulevard in Colma, another in Fremont and a third off the Capitol Expressway in San Jose has the whole bay sitting in the middle of its network. It’s still one DMS, one phone system and one set of logins, and every rooftop is expected to behave as if it shared a wall with the others. That’s harder than it sounds.
+
+The other thing that sets this market apart is the ground under it. Earthquakes, fire-season power shutoffs and the occasional cut fiber line all land here, and a store that never planned for them learns the hard way what a day without the DMS costs.
+
+We’ve been planning for days like that since 1997. Helion Technologies supports automotive and heavy truck dealerships and nobody else, and this page is part of our dealership IT services by location hub. Here’s what’s specific to San Francisco and the counties around the bay.
+
+Remote first
+Most tickets close by phone or remote session, so traffic on the Bay Bridge never decides how long a store stays down.
+On site when it needs hands
+Field technicians are dispatched for a dead switch, new cabling or a store moving to a new lot off I-880.
+Watched around the clock
+A US-based team monitors networks, servers and security alerts 24/7, straight through the night Pacific time.
+
+Our dealership help desk works from Baltimore, three hours ahead of you, and for a dealership that turns out to be an advantage. Whenever your Bay Area stores are open, 7 days a week, the help desk is open too, and by the time the parts counter in San Leandro unlocks at six, our people are well into their day and already have the notes on your stores open. After-hours calls, weekend coverage and field dispatch all sit inside one monthly number, and that number doesn’t move when a problem turns out bigger than it looked. No trip charges. Ask any provider for the help desk metrics a dealer principal should see, and compare.
+
+When the Bay Area Shakes or the Power Goes Off
+
+The US Geological Survey puts the odds of at least one magnitude 6.7 or larger earthquake striking the San Francisco Bay region before 2043 at 72%. We don’t read that as a scare line. It’s a planning number, and anyone who was here for Loma Prieta in October 1989 remembers how one quake can take the power, the phones and the roads all at the same time. Nobody forgets that. The Hayward fault runs right under the East Bay, through the same cities where plenty of stores line I-880.
+
+Fire season brings a quieter version of the same problem. On dry, windy days PG&E can switch off power to whole neighborhoods so its lines don’t start a wildfire, and those Public Safety Power Shutoffs can last for days, sometimes with only a few hours of warning. A service drive can’t write a repair order on a dead network. The phones go quiet too.
+
+None of this calls for heroics. It calls for a plan that’s written down before the day comes. We keep copies of your data outside the Bay Area and prove they actually restore, put battery backup on the network and phone gear, and agree with you ahead of time which systems come back first. That’s the work behind backup and disaster recovery for dealerships, and our DMS outage plan covers the day the problem belongs to your vendor instead of you.
+
+Who Picks Up When a Bay Area Store Calls
+2,000+
+Dealerships under management nationwide
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+82s
+Average time to reach a support agent
+Five Outages a San Francisco Dealership Should Plan For
+
+Some of these come around every year and one might come once in a generation. Every one of them stops a sale. Here’s what each does to a store, how likely it is, and what should already be in place before it happens.
+
+OUTAGE	WHAT IT DOES	HOW LIKELY	SET UP BEFOREHAND
+A major earthquake	
+Power, phones, internet and roads can all fail at once
+Plan for it	72% chance of magnitude 6.7 or larger before 2043 (USGS)	Copies of your data held outside the region, a restore that’s been tested, and a written order for what comes back first.
+A PG&E power shutoff	
+The store goes dark on a dry, windy day, sometimes for several days
+Plan for it	Fire season, often with 48 hours’ notice or less	Battery backup on network and phone gear, and a generator plan for the equipment that has to stay up.
+Ransomware or a stolen login	
+Systems lock up and customer data may already be gone
+Plan for it	3.4 weeks of downtime on average after an attack (CDK Global, 2023)	Multi-factor authentication, a live security operations center, offline backups and an incident response plan.
+A DMS or vendor outage	
+Your own systems are fine, but the one you depend on isn’t
+Outside your walls	June 2024 stopped thousands of stores	A paper fallback for deals and repair orders that staff have actually rehearsed.
+A cut internet line	
+One backhoe on El Camino Real takes the store offline
+Routine	Any week there’s road work nearby	A second internet connection from a different carrier that takes over on its own, part of our dealership network services.
+
+An outage that exposes customer data is also a legal event in California, and this state doesn’t give dealers the pass most others do. The California Consumer Privacy Act exempts only the information collected under the Gramm-Leach-Bliley Act, not the dealership itself, so service records, website leads and marketing lists stay covered. That’s the catch. Since January 1, 2026, the state’s breach law, as amended by Senate Bill 446, gives a business 30 calendar days from discovery to notify the people affected, and the FTC’s rule in 16 CFR 314.4 adds its own 30-day notice once 500 or more consumers are involved. Thirty days goes quickly when nobody kept the logs.
+
+We’ve worked through California’s rules with dealers since 2019, when Helion partnered with a statewide association of franchised new car dealers to get its members ready for the CCPA. That story, along with the three rules every California store answers to, is on our Los Angeles page. Your attorney decides how each rule applies to you, and our dealership compliance team keeps one written program that answers to all of them. Start with a Safeguards risk assessment template. Stores in other states? Compare them in dealership privacy laws by state.
+
+Dealership Cybersecurity in San Francisco
+
+A lot of the AI tools your staff already use were built within a few miles of your stores, and they’re showing up in the business office. A BDC rep pastes a customer’s lead into a free chatbot to draft a reply, or a service advisor asks one to summarize a repair history before a callback. It saves time. Nobody means any harm by it. But that customer’s information just left the store on a personal account with no audit trail, and in a state where customers can sue after a breach, that’s worth fixing before it becomes a story.
+
+CDK Global’s 2024 survey of dealers found that 35% had a cyberattack or incident that year, and 92% of them said it did real financial or operational damage. Our dealership cybersecurity work covers the store’s side. A live, US-based security operations center watches the network through managed detection and response, advanced endpoint detection and response guards the computers, and multi-factor authentication goes on email and remote access. Microsoft 365 security closes the inbox where most attacks start, security awareness training teaches everyone with a login to spot the fakes, and penetration testing shows where an attacker would get in.
+
+For the AI side, Managed AI gives staff a private, governed workspace in place of personal accounts, and our piece on public AI and customer data explains what’s at stake. Not sure whether you need an IT provider or a security one? Read MSP vs MSSP for dealerships. Want to know where your logins, backups and AI use stand today? Start with a complimentary IT and cybersecurity assessment. We’ll write the gaps down.
+
+Where We Work Around the Bay Area
+
+California has 1,334 franchised new-car dealers, according to NADA Data 2025, more than any other state, and the Bay Area’s share of them is spread all the way around the water, from the auto rows on the Peninsula to the malls in Fremont and along San Jose’s Capitol Expressway, and out through the Tri-Valley and Contra Costa. It’s a big market. Family groups grew large here, like Putnam, which opened its first Buick store in Burlingame in 1965. Truck dealers work the same freeways that feed the Port of Oakland, and Coast Counties Peterbilt runs branches from San Jose to San Leandro. We mention both for scale, not as clients. Franchised dealers statewide are represented by the California New Car Dealers Association.
+
+We know what fast growth does to a California group’s IT. One Southern California auto group we support had added stores one at a time with no single IT plan behind them, and by overhauling its infrastructure with us it saved more than $400,000. We see that pattern constantly. More stories like it are in Helion’s dealership case studies.
+
+San Francisco
+Colma
+San Mateo
+Burlingame
+Redwood City
+San Jose
+Fremont
+Hayward
+San Leandro
+Oakland
+Concord
+Walnut Creek
+Dublin
+San Rafael
+
+Your town isn’t on the list? That’s fine. We support automotive dealerships and heavy truck dealerships across Northern California and the rest of the country. Truck groups with branches far apart can start with IT support for remote truck dealership branches and networking a multi-branch truck dealership. Stores in other metros? See our pages for Los Angeles, Denver, Dallas-Fort Worth, Houston, Chicago, Detroit, Atlanta, Charlotte, Tampa Bay, Miami-Fort Lauderdale, Washington, DC, Baltimore, Philadelphia, New York and Boston.
+
+What a Bay Area Store Gets
+Managed IT
+
+One monthly number covers the help desk, monitoring and field dispatch, with nights and weekends included.
+
+Co-managed IT
+
+Your IT manager keeps the final say and gets a dealership-only team working behind them.
+
+Cybersecurity
+
+A live, US-based security operations center watching your network every hour of every day.
+
+Tekion enablement
+
+Conversion help, escalations and staff training for stores moving to Tekion, and support after go-live.
+
+Putting AI in front of staff or customers? Start with AI governance for dealerships and least-privilege access for AI tools, and read how to connect generative AI to your DMS without exposing customer data. Weighing a DMS change? The DMS comparison lays out the options side by side, and the Tekion network requirements are worth reading before any move. Leaving CDK? Rethink your phones and network too. Running several rooftops on both sides of the bay? The dealer groups page shows how one team covers all of them, and dealership acquisition IT integration covers what to check before you buy the next one.
+
+Common Questions
+
+Already a client and need help right now? Reach support through the contact page.
+
+Does Helion Technologies offer dealership IT services in San Francisco?
+What do managed IT services in San Francisco cost a dealership?
+Does Helion have an office in the Bay Area?
+How should a dealership get its IT ready for an earthquake?
+Our store finances cars. Aren’t we exempt from the CCPA?
+We already have an IT manager. Do we have to replace them?
+Do you support heavy truck dealers around the Bay Area?
+
+See where IT, security and backups stand at your Bay Area stores.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Want a number first? Request a price quote or call (443) 541-1500.
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/","url":"https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/","name":"Dealership IT Services in San Francisco | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-san-francisco-bay-area.webp","datePublished":"2026-10-20T15:39:39+00:00","dateModified":"2026-10-20T15:47:19+00:00","description":"Dealership IT services in San Francisco and the Bay Area from Helion Technologies. Managed IT, cybersecurity, backup and compliance. Help in 82 seconds.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-san-francisco-bay-area.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-san-francisco-bay-area.webp","width":1200,"height":630,"caption":"Dealership IT services in San Francisco from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-san-francisco\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Dealership IT Services in San Francisco &#038; the Bay Area"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-it-services-san-francisco/","url":"https://heliontechnologies.com/dealership-it-services-san-francisco/","name":"Dealership IT Services in San Francisco & the Bay Area","description":"Dealership IT services in San Francisco and the Bay Area from Helion Technologies. Managed IT, cybersecurity, backup and compliance. Help in 82 seconds.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-it-services-san-francisco-bay-area.webp","width":1200,"height":630},"about":{"@id":"https://heliontechnologies.com/dealership-it-services-san-francisco/#service"},"mentions":[{"@type":"Legislation","name":"California Consumer Privacy Act","legislationIdentifier":"Cal. Civ. Code 1798.100 et seq.","legislationJurisdiction":"US-CA","url":"https://oag.ca.gov/privacy/ccpa"},{"@type":"Legislation","name":"California data breach notification law, as amended by Senate Bill 446","legislationIdentifier":"Cal. Civ. Code 1798.82","legislationJurisdiction":"US-CA","url":"https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB446"},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR 314.4","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314/section-314.4"},{"@type":"CreativeWork","name":"Earthquake outlook for the San Francisco Bay region 2014-2043","url":"https://pubs.usgs.gov/publication/fs20163020","publisher":{"@type":"Organization","name":"U.S. Geological Survey"}},{"@type":"Thing","name":"PG&E Public Safety Power Shutoffs","description":"Planned power shutoffs PG&E uses during high wildfire risk.","url":"https://www.pge.com/en/outages-and-safety/safety/community-wildfire-safety-program/public-safety-power-shutoffs.html"},{"@type":"Organization","name":"California New Car Dealers Association","url":"https://www.cncda.org/"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/dealership-it-services-san-francisco/#service","name":"Helion Dealership IT Services in San Francisco and the Bay Area","serviceType":"Dealership IT services","description":"Helion Technologies provides dealership IT services in San Francisco and across the Bay Area for automotive and heavy truck dealerships, including managed IT, co-managed IT, cybersecurity, backup and disaster recovery, Tekion enablement and FTC Safeguards compliance, with an 82-second average time to reach a support agent and a 98% client retention rate.","url":"https://heliontechnologies.com/dealership-it-services-san-francisco/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":[{"@type":"AdministrativeArea","name":"San Francisco Bay Area"},{"@type":"City","name":"San Francisco, California"},{"@type":"City","name":"Colma, California"},{"@type":"City","name":"San Mateo, California"},{"@type":"City","name":"Burlingame, California"},{"@type":"City","name":"Redwood City, California"},{"@type":"City","name":"San Jose, California"},{"@type":"City","name":"Fremont, California"},{"@type":"City","name":"Hayward, California"},{"@type":"City","name":"San Leandro, California"},{"@type":"City","name":"Oakland, California"},{"@type":"City","name":"Concord, California"},{"@type":"City","name":"Walnut Creek, California"},{"@type":"City","name":"Dublin, California"},{"@type":"City","name":"San Rafael, California"},{"@type":"State","name":"California"}],"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups in San Francisco and the Bay Area"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Dealership IT services available in San Francisco and the Bay Area","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT for dealerships","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Backup and disaster recovery for dealerships","url":"https://heliontechnologies.com/backup-and-disaster-recovery/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed AI for dealerships","url":"https://heliontechnologies.com/managed-ai/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-it-services-san-francisco/#faq","url":"https://heliontechnologies.com/dealership-it-services-san-francisco/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Does Helion Technologies offer dealership IT services in San Francisco?","acceptedAnswer":{"@type":"Answer","text":"Yes. Helion Technologies supports automotive and heavy truck dealerships across San Francisco, the Peninsula, the East Bay and the South Bay with managed IT, cybersecurity, Tekion support, backup and recovery, and FTC Safeguards compliance. Most help is remote, a support agent answers in 82 seconds on average, and field technicians are dispatched for the jobs that need hands."}},{"@type":"Question","name":"What do managed IT services in San Francisco cost a dealership?","acceptedAnswer":{"@type":"Answer","text":"It depends on how many stores you run and which services you choose, so we don't publish a rate card. What we can tell you is what sits inside the price. After-hours calls, weekend coverage and field dispatch are part of the monthly number, so a Saturday outage in Walnut Creek doesn't come back weeks later as its own invoice with a trip charge attached. No surprises. Comparing providers first? Read our look at the best managed IT providers for dealerships, then request a price quote for a real figure. The dealership IT budget checklist and our comparison of in-house vs managed IT help with next year's numbers."}},{"@type":"Question","name":"Does Helion have an office in the Bay Area?","acceptedAnswer":{"@type":"Answer","text":"No. Helion Technologies is headquartered in Baltimore, Maryland, and supports Bay Area stores remotely, with field technicians dispatched when a job needs someone on site. Our guide to onsite vs remote IT support explains when that is. Whenever your Bay Area stores are open, 7 days a week, the help desk is open too."}},{"@type":"Question","name":"How should a dealership get its IT ready for an earthquake?","acceptedAnswer":{"@type":"Answer","text":"Start by keeping a tested copy of your data outside the Bay Area, so a quake that takes out the building doesn't take the records with it. Then put battery backup on the network and phone gear, add a second internet connection, and write down which systems come back first and who decides. Rehearse the paper fallback once a year. Our backup and disaster recovery work covers each of those steps."}},{"@type":"Question","name":"Our store finances cars. Aren't we exempt from the CCPA?","acceptedAnswer":{"@type":"Answer","text":"Only partly. The California Consumer Privacy Act exempts information collected under the Gramm-Leach-Bliley Act, not the dealership as a business, so the credit application is carved out while service history, website leads, marketing lists and employee files stay covered. The FTC Safeguards Rule applies on top of it. Whether your store meets the law's size thresholds is a question for your attorney."}},{"@type":"Question","name":"We already have an IT manager. Do we have to replace them?","acceptedAnswer":{"@type":"Answer","text":"Not at all. With co-managed IT, your IT manager keeps the keys, the vendor calls and the final say, while Helion adds the help desk, a co-managed security operations center and extra hands for the projects one person can't cover on both sides of the bay. They stay in charge. They just stop working alone. Our co-managed IT responsibility matrix shows who owns what."}},{"@type":"Question","name":"Do you support heavy truck dealers around the Bay Area?","acceptedAnswer":{"@type":"Answer","text":"We do, and we have for years. A truck store near the Port of Oakland keeps different hours than the car store down the road, often runs a different DMS, and has a parts counter that's busy before sunrise. Different animal. We support Karmak and Procede shops. For security, read heavy truck dealership cybersecurity and how the FTC Safeguards Rule applies to heavy truck dealers. Service trucks carry laptops and customer data off the lot, so read mobile service security for truck dealerships too."}}]}]}
+

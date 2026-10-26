@@ -1,0 +1,254 @@
+URL: https://heliontechnologies.com/ai-bdc-for-car-dealerships/
+Fetched: 2026-10-26T03:57:29Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ai-bdc-for-car-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI BDC for Car Dealerships: 3 Questions Before It Starts
+Meta description: Before an AI BDC works your dealership's leads, get answers on what it can change in your CRM and DMS, whose consent covers each text, and who owns the data.
+Canonical: https://heliontechnologies.com/ai-bdc-for-car-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI BDC for Car Dealerships: Questions to Ask Before an AI Agent Works Your Leads
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI BDC for Car Dealerships: Questions to Ask Before an AI Agent Works Your Leads
+By Scot McConnor
+October 21, 2026 · 15 min read
+
+Before an AI BDC for car dealerships works your leads, get three answers in writing: what it can read and change in your CRM and DMS, whose consent covers every text it sends, and who owns the conversations it keeps.
+
+Last updated: October 21, 2026
+
+The AI idea from a dealer that I keep coming back to this year didn’t involve a robot talking to a single customer. Erik Nachbahr, who founded Helion Technologies, told the story during a DealersEdge webinar on AI governance. A customer of ours wanted AI to go through the inbound calls and emails to their BDC on a regular schedule, flag the dropped calls, the missed calls, and the overhandled ones, read the customer sentiment, and report back. That’s it. No chatbot.
+
+“So that would be agentic AI,” Erik said, “where you’ve got an AI basically following a process and doing a workflow and going out and doing things on its own schedule or schedule you set.”
+
+I like that example because it starts with the BDC’s actual problem, which is leads that fall through the cracks, instead of starting with the product. Most of what gets pitched to dealers as an “AI BDC” is the other kind of tool. It answers the internet lead at 10:40 on a Sunday night, texts the customer back, books the appointment, and writes the whole conversation into your CRM. That can work. Sometimes it works well. I’ve watched a lot of lead-handling technology get sold to dealers, first as a salesman on the floor in the late ’90s and then for five years selling CRM to stores, and the question that mattered was never whether the software could send a message. It was what the software was allowed to touch once you turned it on.
+
+That’s still the question. This post is the short list I’d want answered before an AI agent works a single lead at your store, and it’s the same list we use when we look at these tools through our managed AI for dealerships program. It isn’t a vendor ranking. It’s what to ask whichever vendor you’re already talking to.
+
+The software is the easy part. Access is the decision.
+
+What an AI BDC for Car Dealerships Actually Does
+
+An AI BDC is software that does business development center work on its own: it responds to sales and service leads by text, email, or phone, qualifies the customer, books appointments, and logs the conversation in the dealership’s CRM, usually around the clock and without a person on each message.
+
+That’s the version that talks to your customers. The version Erik described talks to nobody. It watches your people. Same label, different job. Both get called AI BDC tools, and both are AI agents, meaning software that takes several steps by itself instead of answering one prompt. They raise different questions, though, so it helps to see them next to each other.
+
+	AI THAT WORKS THE LEADS	AI THAT WATCHES THE BDC
+What it does	Answers leads, follows up, books appointments	Reviews calls, emails, and CRM notes, then flags problems
+Who it talks to	Your customers	Your managers
+What it needs from the CRM	Read and write on leads, contacts, and appointments	Read access to activity, notes, and call records
+Biggest legal exposure	Texting consent and what it promises customers	Recordings, and employee monitoring
+First question to ask	What can it change without a person?	Who sees the report, and what happens next?
+
+Dealers are clearly buying both. Cox Automotive’s AI in Auto Retail Tracker found that 82% of dealers use AI, and coordinating customer follow-up is tied for the most common use, at 40%. That’s BDC work by another name. The same tracker found accuracy concerns tied with ROI as the top barrier, at 45% each in its May 2026 survey of 483 dealers.
+
+Accuracy is a BDC problem before it’s an AI problem.
+
+Question 1: What Can It Read, and What Can It Change?
+
+Say a lead comes in from your website at 9:15 on a Saturday night. The AI agent texts the customer, learns she’s shopping a used SUV with a trade, books a test drive for Monday at 11, assigns the lead to a salesperson, and updates the CRM. Four writes before anybody at the store wakes up. Nice work, honestly. Every one of them is fine if the agent is set up right, and every one of them is a mess if it isn’t.
+
+So start with the access list, and ask for it on paper. Not “it integrates with your CRM.” That’s a brochure line, and it tells you nothing. Can the agent merge duplicate customer records? Mark a lead lost? Pull a deal jacket out of the DMS?
+
+Which fields can it read? A lead agent needs the lead source, the vehicle of interest, the customer’s name and contact details, and the appointment calendar. It has no business reading credit applications or F&I menus.
+Which fields can it change? Can it delete anything at all? Ask that one twice.
+Does it sign in with its own account, so the CRM activity log shows the agent’s work separately from your people’s work? If it borrows a manager’s login, you’ll never untangle who did what.
+Can you switch it off in one place, the same afternoon, without calling the vendor?
+When it hands a lead to a person, what does that person see, and how fast?
+
+Whether your CRM is VinSolutions, Elead, DealerSocket, or the one built into your DMS, those answers live in the integration settings, and somebody at your store should read them before go-live. Cox found that 63% of dealers trust AI built into their dealership tools more than standalone AI. Fair enough. I get it. Built-in still has permissions, and the questions above don’t change because the AI came with the CRM.
+
+This isn’t only common sense. There’s a rule behind it. Under the FTC Safeguards Rule, a dealership counts as a financial institution, and the company running your AI agent is a service provider. 16 CFR 314.4 says you pick service providers that can protect customer information, require it in the contract, and check on them from time to time. Our post on least-privilege access for AI tools goes deeper on scoping permissions down.
+
+Give it the access a new BDC rep gets on day one. No more.
+
+Question 2: Whose Consent Covers the Text?
+
+This is the one that keeps dealer attorneys busy, and I’m not one, so take the specifics to yours. I know where the questions are, though. Here they are.
+
+Texts count as calls under the Telephone Consumer Protection Act, and marketing texts sent by an automated system generally need the customer’s prior express written consent. An AI agent that follows up on a lead three times over a week is about as automated as it gets. No gray area there. The Federal Communications Commission’s December 2023 order also applied the National Do-Not-Call Registry protections to texts. NADA’s memo to dealers on that order made a point I’d underline twice: the burden of proving consent sits with the business doing the texting, which is the dealer who received the lead.
+
+That same order tried to require one-to-one consent, so a single checkbox on a lead site couldn’t cover a dozen dealers at once. A federal appeals court struck that part down in January 2025. Some people heard that as “third-party leads are fine again.” Not so fast. Your store still has to prove consent if a customer complains, and a lead provider telling you consent exists isn’t the same as you being able to show it.
+
+Then there’s “stop.” One word. Lots of trouble. The FCC’s rules say an opt-out made by any reasonable means has to be honored, and a broader piece, where one opt-out would also cut off unrelated messages, has been pushed back to January 31, 2027, by an FCC order issued in January 2026. In practice, the question for your AI vendor is boring. It’s also important. When a customer texts “stop” to the AI, does that reach your CRM, your BDC reps’ phones, and your service reminder system, or does it only stop the AI?
+
+I’d ask four things here, plainly:
+
+Where is the consent record for each lead stored, and can the agent check it before it sends the first text?
+Which lead sources does the vendor treat as consented, and on whose say-so?
+Does an opt-out sync back to the CRM within minutes, not overnight?
+What does the agent say when a customer asks if they’re talking to a person?
+
+The phone side of this, with AI voices and recorded calls, has its own rules, and we covered those in AI phone agents for dealerships. Texting is where a lead agent lives.
+
+Consent is a record, not a feeling.
+
+Question 3: Who Owns the Conversation?
+
+Read a week of real BDC text threads. You’ll find more than appointment times. A payoff amount on the trade. A customer saying her credit isn’t great. A home address for a delivery. A spouse’s cell number. Once an AI agent is having those conversations, the transcripts are customer information, and somebody’s server is holding them.
+
+Whose server? Under what terms? That’s the part people skip. AI vendors want data to improve their models, and that appetite sometimes shows up later as a quiet edit to the terms of service. In February 2024 the FTC warned AI companies that changing their data practices that way, through a retroactive change to terms or a privacy policy, could be unfair or deceptive (Crowell & Moring’s summary walks through it). That warning protects consumers. Your contract is what protects the store.
+
+So before you sign, I’d want these in writing. The conversations, transcripts, and lead data belong to the dealership. They aren’t used to train a model shared with other customers unless you opt in. You can export all of it in a format your CRM can read. If you cancel, it gets deleted on a date you can verify, and the Safeguards Rule’s own disposal requirement, generally no later than two years after the information was last used for that customer, should be in the retention schedule. And you hear about any change to those terms before it takes effect, not after.
+
+Ask one more question. It sounds obvious. Can people at the vendor read your conversations, and who decides when they do?
+
+If the answer is fuzzy, the data isn’t really yours.
+
+The Questions on One Page
+
+Here’s the short version, with what a good answer sounds like and what should make you slow down.
+
+ASK	A GOOD ANSWER	SLOW DOWN IF YOU HEAR
+What can it read and change in the CRM and DMS?	A written field list, read and write marked separately	“It integrates with everything”
+Does it have its own login?	Yes, and every action shows in the activity log	“Just give us a manager’s credentials”
+Where is the consent record for each lead?	Stored per lead, checked before the first text	“The lead provider handles consent”
+What happens when a customer texts “stop”?	It syncs to the CRM and every texting tool you use	“Our system stops texting them”
+Who owns the conversations?	The dealership, in the contract, with export and deletion	“We use anonymized data to improve the product”
+Who at the store owns the agent?	One named person, with a monthly review	Silence in the room
+The Other AI BDC: The One That Watches Your Team
+
+Go back to Erik’s example for a minute, because I think it’s where a lot of stores should start. Later in the same webinar he described it again: “I want to look at the BDC and monitor different things. I’m going to monitor the BDC calls. I’m going to monitor the software where they’re taking notes. And then I’m going to act on that, alert people, create dashboards.” No customer ever talks to that agent. It reads what already happened and tells a manager where the leads are leaking.
+
+We’re building the same kind of agent for ourselves, pointed at our own help desk tickets instead of BDC calls, to spot an unhappy customer early enough to turn things around. It’s a good first agent. Here’s why. It reads, it reports, and a person decides what to do about it.
+
+The questions are different, though. They’re mostly about your own people. Do your BDC reps know their calls and texts are being reviewed by software, and does your employee handbook or dealership AI use policy say so? Who sees the sentiment report, and is it coaching or discipline? Recordings carry their own state consent rules, so check those before an agent starts listening. And because this agent reads almost everything, it needs the tightest access of all: read-only, no export, nothing it can send outside the store.
+
+It also answers a measurement gap. Cox found that about 1 in 3 dealers using AI aren’t formally measuring what it does, or aren’t sure how they would. A monitoring agent is a way to measure the BDC, including any AI working the leads.
+
+Watch the process before you automate it. Erik’s three first AI agent projects for dealerships all start there.
+
+Who at the Store Owns the Agent?
+
+Somebody has to. Pick one. The BDC manager knows the lead process. IT knows the permissions. The GM signs the contract. In my experience, when all three think one of the others has it, nobody does. When things aren’t going the way I want them, I ask myself what I’m not doing, and with an AI agent the honest answer is usually that nobody was assigned to watch it after go-live.
+
+Pick one owner, and put a monthly review on the calendar: a sample of conversations read by a person, the opt-out log, the access list, and anything the vendor changed. It’s an hour. That’s all. It’s also how you find the agent that’s been booking test drives on a day the store is closed.
+
+Our guide to AI legal risks for dealerships covers what happens when an AI makes a promise to a customer, and our AI governance post has the full webinar with Erik, if you want the rest of his examples. If the same vendor also runs your website chat, our AI chatbot security checklist covers that side.
+
+What Dealers Ask Before Turning One On
+Can an AI BDC replace our BDC reps?
+Our CRM vendor built the AI in. Do we still need to ask all this?
+The lead site says the customer consented. Isn’t that enough?
+What happens to our conversations if we cancel?
+Should the AI be allowed to quote prices or payments?
+Start With the Leads You Already Have
+
+Before you add an agent, look at how your BDC handles leads today. Which ones wait until Monday, who works the overnight leads, where the consent records live, and what your CRM lets any outside tool change. Those answers decide whether an AI BDC helps you win more appointments or just sends more texts.
+
+At Helion Technologies we work with more than 2,000 dealerships and support 35,000-plus dealership employees, with an 82-second average time to reach a live person at our help desk. We manage the technology so dealers can sell and service cars and heavy trucks, and that includes checking AI tools before they get access to the CRM and DMS. Start with a complimentary IT and cybersecurity assessment, and we’ll go through the access, the consent records, and the data terms with your team before any AI agent works your leads. The leads are yours, and so are the conversations about them.
+
+ABOUT THE AUTHOR
+
+Scot McConnor
+
+VP of Technology Advisory, Helion Technologies
+
+Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.
+
+Scot McConnor on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What an AI BDC for Car Dealerships Actually Does
+Question 1: What Can It Read, and What Can It Change?
+Question 2: Whose Consent Covers the Text?
+Question 3: Who Owns the Conversation?
+The Questions on One Page
+The Other AI BDC: The One That Watches Your Team
+Who at the Store Owns the Agent?
+What Dealers Ask Before Turning One On
+Start With the Leads You Already Have
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/"},"author":{"name":"Scot McConnor","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101"},"headline":"AI BDC for Car Dealerships: Questions to Ask Before an AI Agent Works Your Leads","datePublished":"2026-10-21T15:52:41+00:00","dateModified":"2026-10-21T15:52:42+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/"},"wordCount":2935,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-bdc-for-car-dealerships-featured.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/","url":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/","name":"AI BDC for Car Dealerships: 3 Questions Before It Starts","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-bdc-for-car-dealerships-featured.webp","datePublished":"2026-10-21T15:52:41+00:00","dateModified":"2026-10-21T15:52:42+00:00","description":"Before an AI BDC works your dealership's leads, get answers on what it can change in your CRM and DMS, whose consent covers each text, and who owns the data.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-bdc-for-car-dealerships-featured.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-bdc-for-car-dealerships-featured.webp","width":1200,"height":500,"caption":"After the showroom closes, the leads keep coming in."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ai-bdc-for-car-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI BDC for Car Dealerships: Questions to Ask Before an AI Agent Works Your Leads"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101","name":"Scot McConnor","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","caption":"Scot McConnor"},"description":"Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.","sameAs":["https:\/\/www.linkedin.com\/in\/scot-mcconnor-a58b043\/"],"url":"https:\/\/heliontechnologies.com\/author\/scot-mcconnor\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"VP of Technology Advisory"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ai-bdc-for-car-dealerships/#article","headline":"AI BDC for Car Dealerships: Questions to Ask Before an AI Agent Works Your Leads","description":"Before an AI BDC works your dealership's leads, get answers on what it can change in your CRM and DMS, whose consent covers each text, and who owns the data.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ai-bdc-for-car-dealerships-featured.webp","datePublished":"2026-10-21T11:52:41-04:00","dateModified":"2026-10-21T11:52:42-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/17d54fad11c197dca04f1cb8d7157101"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ai-bdc-for-car-dealerships/"},"articleSection":"Managed AI","inLanguage":"en-US","keywords":["AI BDC for car dealerships","AI for dealership lead management","AI agents for car dealerships","dealership texting consent","TCPA"],"about":[{"@type":"Thing","name":"AI BDC","description":"Software that does dealership business development center work on its own: responding to sales and service leads by text, email, or phone, booking appointments, and logging conversations in the CRM."},{"@type":"Thing","name":"Agentic AI","description":"AI that follows a multi-step process and acts on its own schedule, such as reviewing BDC calls and emails and reporting problems to managers."},{"@type":"Thing","name":"Texting consent under the TCPA","description":"Prior express written consent required for automated marketing texts, with the burden of proving consent on the business that sends them."},{"@type":"Thing","name":"Dealership lead management","description":"How a dealership receives, assigns, follows up on, and records sales and service leads in its CRM."}],"mentions":[{"@type":"Person","@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr"},{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"},{"@type":"CreativeWork","name":"Cox Automotive AI in Auto Retail Tracker","url":"https://www.coxautoinc.com/retail/ai-in-auto-retail-tracker/","publisher":{"@type":"Organization","name":"Cox Automotive"}},{"@type":"Organization","name":"National Automobile Dealers Association","url":"https://www.nada.org/"},{"@type":"CreativeWork","name":"FCC Closes TCPA Lead Generator Loophole: Consent Required for Each Seller","url":"https://www.nada.org/sites/default/files/media/documents/D23-0998%20FCC%20Memo%20231228%5B51%5D%5B6%5D.pdf","publisher":{"@type":"Organization","name":"National Automobile Dealers Association"}},{"@type":"Organization","name":"Federal Communications Commission","url":"https://www.fcc.gov/"},{"@type":"CreativeWork","name":"FCC Order DA 26-12 on TCPA consent revocation","url":"https://docs.fcc.gov/public/attachments/DA-26-12A1.pdf","publisher":{"@type":"Organization","name":"Federal Communications Commission"}},{"@type":"Organization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"CreativeWork","name":"FTC Safeguards Rule, 16 CFR 314.4","url":"https://www.law.cornell.edu/cfr/text/16/314.4","publisher":{"@type":"Organization","name":"Federal Trade Commission"}},{"@type":"CreativeWork","name":"Telephone Consumer Protection Act"},{"@type":"CreativeWork","name":"VinSolutions"},{"@type":"CreativeWork","name":"Elead"},{"@type":"CreativeWork","name":"DealerSocket"}]}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/ai-bdc-for-car-dealerships/#faq","mainEntity":[{"@type":"Question","name":"Can an AI BDC replace our BDC reps?","acceptedAnswer":{"@type":"Answer","text":"Not in any store I'd want to run. An AI agent can cover the hours your BDC isn't working and handle the first few messages on a fresh lead, but a person still has to take the hand-off, work the deal, and read what the agent is doing. Think of it as more coverage, not fewer people."}},{"@type":"Question","name":"Our CRM vendor built the AI in. Do we still need to ask all this?","acceptedAnswer":{"@type":"Answer","text":"You do. Every one of them. Built-in AI still has permissions, still texts customers under your store's name, and still stores conversations somewhere. The answers may be easier to get, because you already have a contract with that vendor. Get them anyway."}},{"@type":"Question","name":"The lead site says the customer consented. Isn't that enough?","acceptedAnswer":{"@type":"Answer","text":"Probably not. Not on its own. If a customer complains, the dealer usually has to prove consent, so you want the consent record itself, tied to that lead, where you can find it. A promise from the lead provider is a start. The record is what helps."}},{"@type":"Question","name":"What happens to our conversations if we cancel?","acceptedAnswer":{"@type":"Answer","text":"That depends entirely on the contract, which is why it belongs in the contract. Ask for a full export in a format your CRM can import, deletion on a date you can confirm, and a written statement that none of it stays in a model trained for other customers."}},{"@type":"Question","name":"Should the AI be allowed to quote prices or payments?","acceptedAnswer":{"@type":"Answer","text":"I'd keep it to appointments and basic vehicle questions at first. A quoted price or payment is a promise your store may be held to, and an agent working at 2 a.m. has no desk manager to check it. Hand those conversations to a person until you've read enough transcripts to trust it."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/ai-bdc-for-car-dealerships/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

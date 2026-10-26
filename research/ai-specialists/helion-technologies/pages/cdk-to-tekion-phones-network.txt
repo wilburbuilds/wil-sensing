@@ -1,0 +1,233 @@
+URL: https://heliontechnologies.com/cdk-to-tekion-phones-network/
+Fetched: 2026-10-26T03:57:30Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/cdk-to-tekion-phones-network/
+Content-Type: text/html
+Via: chrome-headless
+Title: CDK to Tekion: Rethink Your Phones and Network Too
+Meta description: Moving from CDK to Tekion? Your phone and network contracts don't end with the DMS. Here's how to re-bid phones, circuits, and support before Tekion go-live.
+Canonical: https://heliontechnologies.com/cdk-to-tekion-phones-network/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Leaving CDK for Tekion? Rethink Your Phones and Network Too
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Leaving CDK for Tekion? Rethink Your Phones and Network Too
+By Alexis Merchant
+October 19, 2026 · 12 min read
+
+Moving from CDK to Tekion replaces your DMS, but it doesn’t end the phone and network agreements that may have come with it. Those run on their own contracts and dates. The switch is the right moment to re-bid phones, circuits, and network support on their merits.
+
+Last updated: October 19, 2026
+
+Nobody puts the phones on the go-live checklist. Not at first.
+
+Picture the first morning a store runs on Tekion. The F&I manager prints a deal, and the service advisor opens a repair order in a browser. Then the phone rings at the service desk, on the same system, the same contract, and maybe the same invoice the store had last month. The DMS changed. The phone didn’t get the memo.
+
+I spent about four years on Tekion’s Learning & Development team, and since then I’ve worked alongside a multi-rooftop dealer group that moved more than 30 stores from CDK to Tekion. Behind every one of those go-lives were daily war rooms on permissions, bank setups, forms, and hardware. The DMS was the headline. Everything around it filled the calendar.
+
+This guide is about the everything-around-it part, specifically the phones and the network. If you want the two platforms lined up side by side, our Tekion vs CDK comparison from the IT side already does that, so I won’t repeat it here. The question here is narrower. What happens to the other services a store may have been buying from CDK, and how do you use the move to get them right? It’s the same work our Tekion enablement team does with stores before, during, and beyond go-live.
+
+What a Store Leaving CDK May Still Be Buying From CDK
+
+Switching from CDK to Tekion replaces the dealer management system. It doesn’t automatically replace the phone system, internet circuits, firewalls, Wi-Fi, or help desk a store may also buy from CDK. Each of those sits under its own agreement, with its own term, and each becomes a separate decision once the DMS moves.
+
+CDK’s own site lists a phone system, CDK Voice Connect, alongside network, security, and managed services. Plenty of stores signed up for some of that years ago because it was simple, and back when the DMS lived on a server in the back room, buying the network around it from the same company made a lot of sense. One vendor, one invoice, one number to call when something broke.
+
+Erik Nachbahr, who founded Helion Technologies in 1997, put the bundle this way on a recent call with our team: “they provide networks, and the support of networks, and phone systems, and the support of phone systems. They offer help desk.” In his opinion, that everything-from-one-vendor model “just doesn’t work in today’s world.” That’s Erik’s view, and he’s earned it over nearly 30 years of working only with dealerships.
+
+Mine is more practical. Whatever you think of the bundle, you can’t plan around it until you know exactly what’s in it. So pull the last few invoices and look for:
+
+Phone handsets and the system behind them, leased or owned
+The voice lines themselves, including the main number and every direct dial
+Internet circuits, and whether there’s a backup line at each rooftop
+The firewall. Who manages it, and who has the configuration?
+Switches and Wi-Fi in the showroom, the shop, and the parts warehouse
+Help desk or support coverage that the staff calls out of habit
+Any box in a closet with someone else’s name on the label
+
+Find every line item. Then decide each one on its own.
+
+Why the Tekion Move Is the Time to Re-Bid Phones and Network
+
+Tekion’s Automotive Retail Cloud runs in a web browser and in Tekion’s own apps. A cloud DMS doesn’t need a network that belongs to the DMS company. It needs a good one, with a second internet path for the day the first one fails, and that’s a choice your store gets to make. Your call. Phones work the same way. Tekion’s Automotive Partner Cloud lists communications companies such as GoTo Connect and CallRevu among its strategic partners, so the phone provider becomes your pick rather than a default that rode in with the old contract.
+
+Erik said it plainly when we were planning this piece: “CDK will provide phone systems, they’ll provide network. If they go to Tekion, they want to get rid of all that and save the money.” Again, his take. What I’d add is timing. You’re already rebuilding user roles, retraining every department, and reconnecting integrations. Rethinking phones and network in the same planning window costs far less effort than reopening all of it a year from now.
+
+There’s a resilience side, too. On June 19, 2024, CDK shut its systems down after a cyberattack, and many dealerships across North America switched to writing deals up by hand, the Associated Press reported. Any provider can be attacked. The lesson I’d take from it isn’t about one company. It’s about how much of a store’s day can ride on a single relationship.
+
+New DMS, fresh decisions. Use them.
+
+What the Phones Mean for the People on the Floor
+
+Phones are a people thing before they’re a tech thing. Choosing a phone system without asking your advisors is like ordering inventory without asking the sales desk. It’ll arrive. It just won’t move.
+
+Six roles. Six questions. Here’s how I’d break it down by role, along with the question each one would want you to ask a new phone vendor.
+
+WHO	WHAT THEY NEED FROM THE PHONES	ASK THE NEW VENDOR
+Service advisor	Know who’s calling before picking up, and get to that customer’s repair order fast	How does caller information reach Tekion?
+BDC	Calls routed to the right person, and follow-up texts that stay on the record	Where are calls and texts logged, and can a manager review them?
+Receptionist	A main line that rolls over cleanly, and an alert at the desk when anyone dials 911	Is the system set up for direct 911 dialing and front-desk notification?
+Sales and F&I	Texting customers from a store number instead of a personal cell	Who keeps the message history when a salesperson leaves?
+Parts	Direct lines for body shops and wholesale accounts that never change	Will every direct-dial number port exactly as it is?
+Controller	One clear bill, and a term that doesn’t trap the store	What’s the term, what’s the exit cost, and who owns the numbers?
+
+The receptionist row isn’t optional. Under the FCC’s rules for multi-line telephone systems, which come from Kari’s Law and RAY BAUM’S Act, a business phone system has to let anyone dial 911 without a prefix, notify a central spot like the front desk when they do, and send a dispatchable location, meaning the street address plus details like the building or floor, with the call. A brand-new system has to be set up that way from day one, and our older post on dealership phone systems and emergency calls walks through the background. If you’re weighing a hosted system, here’s our take on why cloud-based phone systems fit modern dealerships.
+
+Ask the people who answer the phones. They’ll tell you what matters.
+
+The Contract Homework Before You Sign the Tekion Agreement
+
+I’d love to save you from one mistake. It’s signing the Tekion agreement first and reading the phone contract second. Phone and network agreements don’t always end when the DMS contract does, so a store can be live on Tekion and still be paying for a phone system it stopped wanting months ago. Sit down with the controller and the actual agreements, not a summary, and fill in this table before anybody signs.
+
+PULL THIS	WRITE DOWN	WHY IT MATTERS
+Phone system and voice lines	End date, notice period, and early-exit cost	They can run on a different clock than the DMS contract
+Phone numbers: main, service, parts, every direct dial	The full list, and who the carrier is today	The FCC’s number portability guidance says a business can generally keep its numbers when it switches providers in the same area, and an unpaid balance or termination fee isn’t grounds to refuse the port
+Internet circuits	End dates, speeds, and whether each rooftop has a backup line	New circuits carry lead times
+Firewall	Who manages it, and a copy of the configuration	Starting from a copy beats rebuilding from memory
+Leased equipment	What goes back, by when, and who ships it	Returns come with deadlines
+Every closet at every rooftop	Anything wearing the old provider’s label	That’s where the surprises live
+
+Don’t shut the old phone service off until the new one is answering calls. A dead main line on a Saturday is a rough way to meet your new phone vendor. And if you want to see what happens when the dates get missed, Erik has a story about a client stuck in a network agreement it no longer wants in our Tekion network requirements guide. Boring work? A little. Worth it.
+
+Know your dates before you pick your vendors.
+
+Network First, Phones Second, Tekion Last
+
+If I could tape one thing to the wall of every war room, it would be this order.
+
+Network first, while the old DMS is still running and nobody’s in a hurry. That covers the circuits, the backup line, the firewall, the switches, and the Wi-Fi in the shop where the techs always say it drops. Order new circuits early, because carriers keep their own calendars, and a circuit that shows up two weeks before go-live leaves no room to test anything before the whole store depends on it. Tekion’s implementation terms also put electrical work, data cabling, and the readiness sign-off on the dealer, so this work is yours either way.
+Then the phones. Port the numbers and call every single one from a cell phone to make sure it rings where it should. All of them.
+And then, only then, Tekion goes live, in a building that has already survived a couple of busy Saturdays on its new network.
+
+Simple order. Hard to keep. From the training side, it matters more than people expect. Hands-on experience and repetition are how a new system sticks with a team, and that takes time on the actual tools. Stack new phones on top of a new DMS in the same week and you’ve asked a service advisor to learn two systems while the drive is full and customers are waiting. Something gives. Usually it’s the customer on hold. Train the BDC and the advisors on the new phones before Tekion training starts, so go-live week stays about Tekion.
+
+Whatever workaround the store used to bridge the old phones and the old DMS, like the printed extension list taped to the cashier window, let it go with the old contract. Workarounds need to be left in the past. A clean setup on day one is where real efficiency starts.
+
+Our Tekion implementation timeline puts dates on each of these IT tasks, and our DMS transition services are built around this same order. After go-live, Helion stays on and extends the momentum Tekion’s own team builds, which is what our guide to life after Tekion go-live covers.
+
+Change one layer at a time. Go-live week should be about Tekion.
+
+Before You Pull the Old Phones Off the Wall
+Will our phones stop working the day CDK’s DMS goes away?
+Can we keep the main number, the service line, and every direct dial?
+Does moving to Tekion mean we have to buy a phone system from Tekion?
+Network before go-live, or after?
+We’re two years into a long CDK agreement. Is any of this worth doing now?
+Start With the Paperwork, Not the Phones
+
+The best go-lives I’ve been part of had one thing in common. The store team knew what was changing before it changed. That’s the real work. The DMS always gets a project plan with names and dates on it. Give the phones and the network one too. Not a big ask. Then the people on the floor won’t have to find out on a Monday morning. Two of the general managers I worked with put their own CDK to Tekion moves in writing, and their letters are on our client testimonials page.
+
+We work with more than 2,000 dealerships, and a store calling our help desk reaches a live agent in 82 seconds on average. If you’d like a second set of eyes before you sign anything, our complimentary IT and cybersecurity assessment walks your network, devices, and circuits and reads your phone, network, and DMS invoices side by side, so every line item and end date is on one page.
+
+Time is money on the service drive. A phone that rings in the right place on day one saves both.
+
+ABOUT THE AUTHOR
+
+Alexis Merchant
+
+Manager of Dealer Enablement Success, Helion Technologies
+
+Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning & Development team and now helps dealership teams get more from the system after go-live.
+
+Alexis Merchant on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What a Store Leaving CDK May Still Be Buying From CDK
+Why the Tekion Move Is the Time to Re-Bid Phones and Network
+What the Phones Mean for the People on the Floor
+The Contract Homework Before You Sign the Tekion Agreement
+Network First, Phones Second, Tekion Last
+Before You Pull the Old Phones Off the Wall
+Start With the Paperwork, Not the Phones
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/"},"author":{"name":"Alexis Merchant","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668"},"headline":"Leaving CDK for Tekion? Rethink Your Phones and Network Too","datePublished":"2026-10-19T15:25:01+00:00","dateModified":"2026-10-19T15:25:02+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/"},"wordCount":2456,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/cdk-to-tekion-phones-network-featured.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/","url":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/","name":"CDK to Tekion: Rethink Your Phones and Network Too","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/cdk-to-tekion-phones-network-featured.webp","datePublished":"2026-10-19T15:25:01+00:00","dateModified":"2026-10-19T15:25:02+00:00","description":"Moving from CDK to Tekion? Your phone and network contracts don't end with the DMS. Here's how to re-bid phones, circuits, and support before Tekion go-live.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/cdk-to-tekion-phones-network-featured.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/cdk-to-tekion-phones-network-featured.webp","width":1200,"height":500,"caption":"Moving from CDK to Tekion is the moment to re-bid phones and network on their merits."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/cdk-to-tekion-phones-network\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Leaving CDK for Tekion? Rethink Your Phones and Network Too"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668","name":"Alexis Merchant","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","caption":"Alexis Merchant"},"description":"Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning &amp; Development team and now helps dealership teams get more from the system after go-live.","sameAs":["https:\/\/www.linkedin.com\/in\/alexis-merchant-49a747b1\/"],"url":"https:\/\/heliontechnologies.com\/author\/alexis-merchant\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Manager of Dealer Enablement Success"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/cdk-to-tekion-phones-network/#article","headline":"Leaving CDK for Tekion? Rethink Your Phones and Network Too","description":"Moving from CDK to Tekion? Your phone and network contracts don't end with the DMS. Here's how to re-bid phones, circuits, and support before Tekion go-live.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/cdk-to-tekion-phones-network-featured.webp","author":{"@id":"https://heliontechnologies.com/#/schema/person/6ee62f2567da0a9d55c9714bbb395668"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/cdk-to-tekion-phones-network/"},"about":[{"@type":"Thing","name":"DMS migration from CDK to Tekion","description":"Moving a dealership's dealer management system from CDK Global to Tekion, and re-deciding the phone, circuit, network and help desk services that may have been bought alongside the old DMS."},{"@type":"Thing","name":"Dealership phone system","description":"The multi-line telephone system and voice service a dealership uses for its main line, service, parts, BDC and direct dials."}],"mentions":[{"@type":"CreativeWork","name":"Tekion Automotive Retail Cloud","url":"https://tekion.com/","publisher":{"@type":"Organization","name":"Tekion"}},{"@type":"CreativeWork","name":"Tekion Automotive Partner Cloud","url":"https://tekion.com/products/apc","publisher":{"@type":"Organization","name":"Tekion"}},{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"},{"@type":"Thing","name":"CDK Global cyberattack","description":"Cyberattack on June 19, 2024 after which CDK Global shut down its systems and many North American dealerships switched to manual processes."},{"@type":"Thing","name":"Kari's Law and RAY BAUM'S Act 911 rules for multi-line telephone systems","description":"FCC rules requiring direct 911 dialing without a prefix, central notification, and dispatchable location for business phone systems."},{"@type":"Thing","name":"Local number portability","description":"FCC rules that generally let a business keep its phone numbers when it changes providers in the same area."},{"@type":"Organization","name":"Federal Communications Commission","url":"https://www.fcc.gov/"}],"keywords":"cdk to tekion, switching from cdk to tekion, cdk phone system, cdk network services, dealership phone system, tekion","inLanguage":"en-US","datePublished":"2026-10-19T11:25:01-04:00","dateModified":"2026-10-19T11:25:02-04:00"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/cdk-to-tekion-phones-network/#faq","mainEntity":[{"@type":"Question","name":"Will our phones stop working the day CDK's DMS goes away?","acceptedAnswer":{"@type":"Answer","text":"Not by themselves, because changing your DMS doesn't end a phone agreement on its own. The phones keep running under whatever terms the store signed. What changes is how calls connect to the new system, so test that before go-live, not the morning of."}},{"@type":"Question","name":"Can we keep the main number, the service line, and every direct dial?","acceptedAnswer":{"@type":"Answer","text":"In most cases you can keep them all. The FCC's portability rules generally let a business keep its numbers when it changes providers in the same area. Start the port early, keep the old service on until the new one works, and check every direct dial, including the ones only the body shops use."}},{"@type":"Question","name":"Does moving to Tekion mean we have to buy a phone system from Tekion?","acceptedAnswer":{"@type":"Answer","text":"You get to choose. Calling and texting connect to Tekion through partners, and its Automotive Partner Cloud lists communications companies among its strategic partners. Ask every phone vendor you're considering how its system connects to Tekion, and get that answer in writing."}},{"@type":"Question","name":"Network before go-live, or after?","acceptedAnswer":{"@type":"Answer","text":"Before, and by a comfortable margin. A cloud DMS is only as good as the circuit and the Wi-Fi under it, and you want those proven while the old system is still there to fall back on."}},{"@type":"Question","name":"We're two years into a long CDK agreement. Is any of this worth doing now?","acceptedAnswer":{"@type":"Answer","text":"More than you'd think. Pull every end date, get a copy of your firewall configuration and your full number list, and write down what each line item costs to exit. When the window opens, the decision is ready, instead of starting from zero with a renewal notice on the desk. It's also a good time to ask the people on the floor what they'd change about the phones today, because they already know."}}]}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/cdk-to-tekion-phones-network/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

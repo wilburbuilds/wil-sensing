@@ -1,0 +1,154 @@
+URL: https://heliontechnologies.com/wp-content/uploads/2026/05/HMSS-2026.pdf
+Fetched: 2026-10-26T04:05:00Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/wp-content/uploads/2026/05/HMSS-2026.pdf
+Content-Type: application/pdf
+Via: curl-pdftotext
+Title: HMSS-2026.pdf
+Meta description: 
+Canonical: https://heliontechnologies.com/wp-content/uploads/2026/05/HMSS-2026.pdf
+Robots: 
+H1: 
+
+--- pdf page 1 ---
+Consistent Protection
+Guaranteed deployment of essential security controls across every
+endpoint - ensuring no device is left vulnerable.
+ 
+ 
+ 
+AI-Driven Defense
+Leveraging artificial intelligence and machine learning to detect, prevent,
+and respond to threats faster and more accurately than ever before.
+Helion Managed Security Suite (HMSS) delivers fully integrated, AI-driven cybersecurity for
+dealerships, combining simplified billing, consistent endpoint protection, and continuous
+enhancement into one unified solution. Built on a defense-in-depth approach and proactively
+managed by Helion’s experts, it leverages advanced tools, automation, and user awareness
+training to reduce risk and stay ahead of evolving threats.  The result: a dealership that is
+better protected, better prepared, and able to keep business moving without interruption.
+marketing@heliontechnologies.com
+Helion Managed
+Security Suite
+Simplified Billing
+Streamlined, consolidated monthly billing that makes costs transparent
+and easy to manage.
+
+--- pdf page 2 ---
+Remote Monitoring &
+Management
+Enables efficient, remote
+management of system
+endpoints - streamlining
+monitoring, patching, software
+updates, and issue resolution
+without the need for onsite
+access.
+ 
+ Proactive Risk Management
+Reducing exposure with advanced tools, automated processes, and
+ongoing user awareness training that strengthen your human firewall.
+ 
+ 
+Helion Managed 
+Security Suite
+Components
+ 
+marketing@heliontechnologies.com
+Continuous Enhancement
+Seamless adoption of new technologies and defenses as threats evolve,
+keeping your security posture always current.
+Security Training &
+Phishing Testing
+An interactive training platform
+using proven tools like
+phishing simulations to
+educate users on
+cybersecurity best practices
+and threat recognition,
+building a strong culture of
+security awareness.
+Spam Filter
+Protects from inbound email
+threats - including malware,
+spear-phishing, spam, zero-
+day exploits - using advanced
+filtering, real-time scanning,
+and threat intelligence to
+detect and block attacks
+before they reach users.
+
+--- pdf page 3 ---
+Endpoint Security,
+ID Mgmt, 24/7 SOC
+Provides 24/7 threat detection
+and response via a dedicated
+Security Operations Center
+(SOC), with real-time
+alerts, advanced monitoring,
+incident support, and NextGen
+antivirus. (Powered by
+SentinelOne)
+Email Encryption
+User-friendly, policy-driven
+email encryption that
+automatically secures
+sensitive communications and
+regulated content - ensuring
+safe, compliant message
+transmission without extra
+effort.
+Advanced Phishing
+Protection
+Advanced phishing detection
+and prevention using real-time
+link scanning, domain
+reputation analysis, and
+layered targeted protection
+combined with traditional
+email filtering. 
+Privileged Access
+Management
+Mitigates compliance and
+security risks by replacing
+permanent admin rights with
+controlled, on-demand
+access. Prevents privilege
+sprawl and streamlines
+software installs - reducing
+risk without disrupting users.
+Web Filter
+Protects your dealership by
+blocking access to malicious
+or inappropriate websites at
+the DNS level—reducing the
+risk of drive-by downloads,
+phishing attacks, and policy
+violations before they can
+cause harm. 
+marketing@heliontechnologies.com
+
+--- pdf page 4 ---
+Daily remote backup of
+Microsoft 365 email and
+OneDrive data.
+Spanning Backup
+Secure storage of emails
+and attachments outside
+the original server,
+ensuring they can be
+retrieved from a separate
+system. 
+Email Archiving
+Intuitive, desktop-level
+multifactor authentication
+that adds a critical layer
+of protection for users
+handling sensitive
+financial or customer
+data.
+Desktop Level MFA
+Optional Managed
+Security Technologies
+marketing@heliontechnologies.com
+https://heliontechnologies.com/contact/
+Priced separately from the standard product suite.

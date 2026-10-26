@@ -1,0 +1,382 @@
+URL: https://heliontechnologies.com/wisp-template-for-dealerships/
+Fetched: 2026-10-26T03:51:43Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/wisp-template-for-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: Written Information Security Program Template | Helion
+Meta description: Free written information security program template for dealerships, mapped to each FTC Safeguards Rule element, with Word and PDF downloads.
+Canonical: https://heliontechnologies.com/wisp-template-for-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Written Information Security Program (WISP) Template for Dealerships
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+FREE TEMPLATE FOR DEALERS
+
+Written Information Security Program (WISP) Template for Dealerships
+
+A fill-in WISP mapped to every element of 16 CFR 314.4, plus the parts a dealership files behind it.
+
+Request a Complimentary Assessment →
+
+Or download the template as an editable Word file or a printable PDF.
+
+A written information security program template gives a dealership one document that names who runs security, how customer information is protected, and how each FTC Safeguards Rule element in 16 CFR 314.4 gets done. Fill it in, then review it every year.
+
+Last updated: October 21, 2026
+
+Who’s in charge
+What the risk assessment found
+How customer data is protected
+Which vendors hold it
+What the owner hears each year
+One written program
+A WISP is the binder the rest of your security program lives in.
+
+Ask a dealership to show its information security program and you’ll usually get a stack. There’s the IT company’s onboarding packet, an MFA policy somebody emailed around a couple of years ago, a vendor list on the controller’s laptop, and maybe last year’s pen test report. Most of the work exists. Nobody has tied it together. That’s the job of a written information security program, or WISP, and section 314.3(a) of the FTC Safeguards Rule lets it be written “in one or more readily accessible parts,” so a cover document with tabs behind it is fine.
+
+This template is that cover document. Its 13 sections follow the order of section 314.4, and each one says what to write and which separate part it points to. It’s free. Change anything you like. It isn’t legal advice. It sits under our wider dealership cybersecurity work and our FTC Safeguards compliance program, and CDK Global’s 2024 study found that 35% of auto dealers had a cyberattack or incident that year, so the binder gets used. For the background on what the rule means by a comprehensive information security program, our earlier explainer covers it.
+
+One rule before you start. If it isn’t written down, it isn’t the program yet.
+
+THE TEMPLATE
+
+The Dealership WISP Template
+
+Thirteen sections, in the order the rule lists them. Most stores can write a first draft in an afternoon with the controller, the F&I director and whoever runs IT at the table. Where a section points to a separate part, like the risk assessment or the incident response plan, file that part right behind it.
+
+Rather work offline? Download the editable Word version or the printable PDF. Both carry the same 13 sections, a parts index and a signature block.
+
+WHERE HELION FITS
+
+For our clients, sections 9 and 11 already have dates on them. Human-led penetration testing runs every year, vulnerability monitoring runs twice a year and every vendor gets a risk rating. Want a hand with the rest? Start with a complimentary IT and cybersecurity assessment.
+
+Written information security program
+Covers 16 CFR 314.3 and 314.4(a) through (j). Owner is your Qualified Individual. Date it, sign it and keep every version.
+
+1 Purpose, scope and objectives
+
+Say what the program protects and where. List every rooftop, department and entity it covers, including a body shop or a separately owned finance company if they share systems with the store. Then copy in the three objectives from section 314.3(b), which come down to keeping customer information confidential, protecting it from threats you can anticipate, and stopping access that could harm a customer. Short is fine. Vague isn’t.
+
+Dealership and rooftops covered
+Customer information in scope
+Program objectives
+Effective date and version
+
+Covers 314.3(a) and (b).
+
+2 Qualified Individual and oversight
+
+Name one person to oversee, implement and enforce the program. The rule calls that person the Qualified Individual, and it can be an employee, an affiliate or a service provider. If you use an outside provider, three things follow. The dealership still owns compliance, a senior person at the store directs and oversees the Qualified Individual, and the provider has to keep its own program that protects you. Write all three down. Lenders and insurers ask.
+
+Qualified Individual and employer
+Senior person who oversees them
+Provider’s own program on file
+Date appointed
+
+Covers 314.4(a).
+
+3 Risk assessment
+
+Point to your written risk assessment here, with its date and the few risks that scored highest. Our risk assessment template covers the rest.
+
+Date of the current assessment
+Where it’s filed
+Highest-scoring risks
+Next assessment due
+
+Points to the risk assessment. Covers 314.4(b).
+
+4 Access controls and MFA
+
+Write down how people get in and what they can see once they’re in. A salesperson doesn’t need the accounting module, and a porter doesn’t need the CRM. Then the rule gets specific. Multi-factor authentication is required for anyone accessing any information system, unless the Qualified Individual approves an equivalent or stronger control in writing. Note who reviews access, how often, and what happens on somebody’s last day.
+
+How access is granted and removed
+MFA coverage and written exceptions
+Access review owner and schedule
+Physical access to paper files
+
+Covers 314.4(c)(1) and (c)(5).
+
+5 Data, devices and systems
+
+List the data, people, devices, systems and rooms the store runs on, ranked by how much they matter to the business. At most dealerships that means the DMS, the CRM, the F&I and e-contracting platforms, the credit bureau and lender portals, Microsoft 365, the file server, every laptop and phone, and the back room where the paper deal jackets sit. Keep the full list as its own part. Update it when something changes.
+
+Where the inventory is kept
+Inventory owner
+Last updated
+Systems added or retired this year
+
+Covers 314.4(c)(2).
+
+6 Encryption
+
+Customer information has to be encrypted at rest and in transit over external networks. Where that truly isn’t feasible, an older system for example, the rule allows compensating controls, but only ones your Qualified Individual reviews and approves. List each exception, the control that covers it and who signed off. An empty list is the goal.
+
+At rest, which systems and how
+In transit, how
+Exceptions and compensating controls
+Approved by and date
+
+Covers 314.4(c)(3).
+
+7 Applications, changes and monitoring
+
+Three short paragraphs belong here. The first covers how you check the security of software you buy, and of anything built in-house, like a custom trade-in form on the website. The second covers how changes to systems get approved and recorded before anybody makes them. The third covers how you log what authorized users do, so somebody notices when a login starts exporting the whole customer list at 2 a.m., which is usually where managed detection and response comes in.
+
+How purchased and in-house apps are checked
+Change approval process
+Activity logging and who reviews it
+
+Covers 314.4(c)(4), (c)(7) and (c)(8).
+
+8 Retention and disposal
+
+Customer information has to be disposed of securely no later than two years after you last used it to serve that customer. The exceptions are records you need for the business, records the law makes you keep, and data stored in a way that makes targeted disposal not reasonably feasible. Dealerships keep a lot on purpose, so write down which records you keep and why. Then say how paper gets shredded and how old drives get wiped. Old deal files pile up fast.
+
+Records kept and the reason
+Disposal method for paper
+Disposal method for drives and devices
+Last retention policy review
+
+Covers 314.4(c)(6).
+
+9 Testing and monitoring
+
+Say how you check that the safeguards actually work. Without effective continuous monitoring, the rule asks for a penetration test every year, scoped from the risk assessment, and vulnerability assessments at least every six months and after material changes. Record the dates. Note who ran each one and where the results went. A test nobody acted on is half a test.
+
+Continuous monitoring in place, and what
+Last penetration test and next
+Last vulnerability assessment and next
+Where results go
+
+Covers 314.4(d).
+
+10 People and training
+
+Everyone gets security awareness training that changes when your risks do. The rule also expects qualified security staff, in-house or through a provider, who get their own updates and keep current on threats. Write down the training schedule, how you track who finished it and who your security people are. Keep the attendance records behind this tab.
+
+Training topics and schedule
+Completion tracking
+Security staff or provider
+How they stay current
+
+Covers 314.4(e).
+
+11 Service providers
+
+Your DMS provider, the CRM, the credit bureau connection, the e-contracting platform, payroll and your IT company all hold customer information or the keys to it. The rule asks you to pick providers that can protect it, require safeguards in their contracts and assess them periodically based on the risk they present. When CDK Global went down in June 2024, publicly traded dealer groups described the disruption in SEC filings. Keep the vendor register as its own part, with a review date on every row. Ask for proof, not promises.
+
+Where the vendor register is kept
+Security terms checked in each contract
+Review schedule
+Last review date
+
+Covers 314.4(f).
+
+12 Incident response and FTC notice
+
+Point to your written incident response plan, which has to cover seven areas, from its goals and roles to communications and what you change afterward. Our incident response plan template covers all seven. Then add the deadline the plan can’t miss. If a notification event involves the information of at least 500 consumers, you notify the FTC as soon as possible and no later than 30 days after discovery, on the form on its website.
+
+Where the plan is filed
+Incident lead
+Owner of the FTC notice
+Last tabletop exercise
+
+Points to the incident response plan. Covers 314.4(h) and (j).
+
+13 Annual report and program review
+
+At least once a year the Qualified Individual reports in writing to the board, or to a senior officer if there’s no board. The report covers the program’s overall status and compliance, plus material matters like risk decisions, vendor arrangements, test results, security events and recommended changes. The program then gets adjusted after testing, after each new risk assessment, and after material changes like buying a store. Date every version. Keep the old ones.
+
+Who receives the report
+Last report date
+Changes made this year
+Next review date and signature
+
+Covers 314.4(g) and (i).
+
+Which Dealerships Need a Written Information Security Program
+
+Any dealership that arranges financing or leasing for its customers is a financial institution under the Gramm-Leach-Bliley Act, so the FTC Safeguards Rule applies, whether it sells cars or heavy trucks and whether it runs one rooftop or twenty. Same test for everyone. Our page on the Safeguards Rule for heavy truck dealerships covers that side of the business. The FTC says the same in its own Safeguards Rule FAQ for automobile dealers.
+
+Size changes some of the paperwork. Under section 314.6 of the rule, a dealership holding customer information on fewer than 5,000 consumers is excused from four items, the written risk assessment, the fixed testing schedule, the written incident response plan and the annual report to the board. The program itself still has to be written. Section 314.3(a) has no size exemption.
+
+Small stores still need the binder. It’s just thinner.
+
+Fewer than 5,000 consumers
+
+The WISP is still required, in writing. Sections 3, 9, 12 and 13 can be shorter, because the written risk assessment, the testing schedule in (d)(2), the written incident response plan and the board report don’t apply to you. MFA, encryption and vendor oversight still do.
+
+Fill in every section, even the ones that end up a line long.
+
+5,000 consumers or more
+
+Every element applies in full, including the written risk assessment and incident response plan, the yearly penetration test, scans twice a year and the Qualified Individual’s written annual report. A store that has financed cars for a few years usually crosses this line once the old deal files are counted.
+
+Fill in all 13 sections and file the parts behind them.
+
+BEHIND THE COVER DOCUMENT
+
+The Parts of a Dealership WISP
+
+The rule lets the program be written in one or more readily accessible parts. Here’s how we’d lay out the binder, what goes behind each tab and where to start on it. One tab per part.
+
+Part of the WISP
+	What goes in it	Where to start
+The cover document	Scope, the Qualified Individual, your safeguards and who owns each part. Sections 1 to 13 above.	This template
+Risk assessment, 314.4(b)	Every foreseeable risk to customer information, scored, with a decision to fix it or accept it.	Risk assessment template
+Inventory, 314.4(c)⁠(2)	Data, devices, systems and rooms, ranked by how much the business depends on them.	Section 2 of the risk assessment template
+Access and MFA standard, 314.4(c)⁠(1), (c)⁠(5)	Who gets access to what, where MFA is on, and any exception the Qualified Individual approved in writing.	Our guide to MFA
+Vendor register, 314.4(f)	Every provider that holds or reaches customer data, its contract terms and its last review.	Vendor evaluation guide
+Testing and training records, 314.4(d), (e)	Penetration test and scan reports, what got fixed, and who finished training.	Penetration testing
+Incident response plan, 314.4(h)	The seven areas the rule lists, plus the FTC notice for events involving 500 or more consumers.	Incident response plan template
+Annual report, 314.4(i)	The Qualified Individual’s written report to the board or owner, and the changes it led to.	FTC Safeguards Rule checklist
+
+Wording from 16 CFR Part 314, as of October 2026. For each element in plain English, read the nine FTC Safeguards Rule requirements explained.
+
+Who’s Behind This WISP Template
+2,000+
+Automotive and heavy truck dealerships
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+1997
+Working only with dealerships since
+
+Helion Technologies has worked only with automotive and heavy truck dealerships since 1997. Our security operations center runs on live, US-based analysts watching around the clock, and the same team runs day-to-day IT, so the program in your binder and the people carrying it out sit with one team instead of two vendors. A template puts the program on paper. Running it every day is the real work.
+
+How to Use This WISP Template
+1
+Gather what you already have
+
+IT policies, vendor contracts, the last pen test, training records. Most stores have more than they think.
+
+2
+Fill in the cover document
+
+Work through the 13 sections with your Qualified Individual, controller and IT, and mark every gap.
+
+3
+File the parts behind it
+
+Risk assessment, inventory, vendor register, incident response plan. One tab each.
+
+4
+Sign it and set the review date
+
+The owner or general manager signs, and the program gets reviewed with the yearly report.
+
+More on the Safeguards Rule and Your WISP
+
+Each of these goes deeper on one part of the program.
+
+FTC Safeguards compliance
+The managed program that keeps every element of the rule current.
+→
+FTC Safeguards Rule checklist
+All nine elements, with the proof to keep for each one.
+→
+The nine Safeguards Rule requirements
+Each element of 16 CFR 314.4 in plain English.
+→
+Risk assessment template
+The written assessment section 3 of your WISP points to.
+→
+Incident response plan template
+The written plan for the day a risk turns into an incident.
+→
+What an information security program is
+Our earlier explainer on what the program has to do.
+→
+The Qualified Individual
+Who can hold the role and what it involves.
+→
+Security awareness training
+Training that changes when your risks do.
+→
+Dealership cybersecurity
+Around-the-clock monitoring from live, US-based analysts.
+→
+IT and cybersecurity assessment
+A complimentary review of where your store stands today.
+→
+Common Questions
+
+WANT A SECOND SET OF EYES?
+
+Bring your finished WISP to a complimentary IT and cybersecurity assessment. We’ll set it next to what we find on your network.
+
+What is a WISP for a car dealership?
+Is a WISP required under the FTC Safeguards Rule?
+Do small dealerships need a WISP?
+Who should write a dealership’s WISP?
+What’s the difference between a WISP and a risk assessment?
+Is a free WISP template enough for compliance?
+How often should a dealership update its WISP?
+
+Some sections of your WISP will need more than a pen, and a complimentary assessment is a good way to find out which ones.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/","url":"https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/","name":"Written Information Security Program Template | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/wisp-template-for-dealerships.webp","datePublished":"2026-10-21T15:51:19+00:00","dateModified":"2026-10-21T15:51:20+00:00","description":"Free written information security program template for dealerships, mapped to each FTC Safeguards Rule element, with Word and PDF downloads.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/wisp-template-for-dealerships.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/wisp-template-for-dealerships.webp","width":1200,"height":630,"caption":"Written information security program template for dealerships, from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/wisp-template-for-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Written Information Security Program (WISP) Template for Dealerships"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/wisp-template-for-dealerships/","url":"https://heliontechnologies.com/wisp-template-for-dealerships/","name":"Written Information Security Program (WISP) Template for Dealerships","description":"Free written information security program template for dealerships, mapped to each FTC Safeguards Rule element, with Word and PDF downloads.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/wisp-template-for-dealerships.webp","width":1200,"height":630},"about":[{"@type":"Thing","name":"Written information security program (WISP) under the FTC Safeguards Rule","description":"The written information security program an automotive or heavy truck dealership keeps under the FTC Safeguards Rule, 16 CFR 314.3 and 314.4, written in one or more readily accessible parts."}],"mentions":[{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR Part 314","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314"},{"@type":"Legislation","name":"Gramm-Leach-Bliley Act","legislationIdentifier":"15 U.S.C. 6801 et seq.","legislationJurisdiction":"US"},{"@type":"Organization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"CreativeWork","name":"Automobile Dealers and the FTC's Safeguards Rule Frequently Asked Questions","url":"https://www.ftc.gov/business-guidance/resources/automobile-dealers-ftcs-safeguards-rule-frequently-asked-questions","publisher":{"@type":"Organization","name":"Federal Trade Commission"}}],"hasPart":[{"@type":"WebPageElement","name":"The dealership WISP template","url":"https://heliontechnologies.com/wisp-template-for-dealerships/#template"},{"@type":"WebPageElement","name":"Which dealerships need a written information security program","url":"https://heliontechnologies.com/wisp-template-for-dealerships/#who-needs"},{"@type":"WebPageElement","name":"The parts of a dealership WISP","url":"https://heliontechnologies.com/wisp-template-for-dealerships/#parts"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"ItemList","@id":"https://heliontechnologies.com/wisp-template-for-dealerships/#sections","name":"Sections of the dealership WISP template","numberOfItems":13,"itemListElement":[{"@type":"ListItem","position":1,"name":"Purpose, scope and objectives"},{"@type":"ListItem","position":2,"name":"Qualified Individual and oversight"},{"@type":"ListItem","position":3,"name":"Risk assessment"},{"@type":"ListItem","position":4,"name":"Access controls and MFA"},{"@type":"ListItem","position":5,"name":"Data, devices and systems"},{"@type":"ListItem","position":6,"name":"Encryption"},{"@type":"ListItem","position":7,"name":"Applications, changes and monitoring"},{"@type":"ListItem","position":8,"name":"Retention and disposal"},{"@type":"ListItem","position":9,"name":"Testing and monitoring"},{"@type":"ListItem","position":10,"name":"People and training"},{"@type":"ListItem","position":11,"name":"Service providers"},{"@type":"ListItem","position":12,"name":"Incident response and FTC notice"},{"@type":"ListItem","position":13,"name":"Annual report and program review"}]},{"@type":"DigitalDocument","@id":"https://heliontechnologies.com/wisp-template-for-dealerships/#docx","name":"Written Information Security Program (WISP) Template for Dealerships (Word)","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/wisp-template-for-dealerships.docx","encodingFormat":"application/vnd.openxmlformats-officedocument.wordprocessingml.document","description":"Editable Word version of the Helion Technologies WISP template for dealerships, with 13 sections, a parts index and a sign-off block.","isAccessibleForFree":true,"inLanguage":"en-US","publisher":{"@id":"https://heliontechnologies.com/#organization"},"isPartOf":{"@id":"https://heliontechnologies.com/wisp-template-for-dealerships/"}},{"@type":"DigitalDocument","@id":"https://heliontechnologies.com/wisp-template-for-dealerships/#pdf","name":"Written Information Security Program (WISP) Template for Dealerships (PDF)","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/wisp-template-for-dealerships.pdf","encodingFormat":"application/pdf","description":"Printable PDF version of the Helion Technologies WISP template for dealerships, covering what 16 CFR 314.3 and 314.4 ask for.","isAccessibleForFree":true,"inLanguage":"en-US","publisher":{"@id":"https://heliontechnologies.com/#organization"},"isPartOf":{"@id":"https://heliontechnologies.com/wisp-template-for-dealerships/"}},{"@type":"Service","@id":"https://heliontechnologies.com/wisp-template-for-dealerships/#service","name":"Helion Dealership Cybersecurity and Safeguards Compliance","serviceType":"Managed cybersecurity and compliance support for automotive and heavy truck dealerships","description":"Helion Technologies runs managed cybersecurity and FTC Safeguards compliance for automotive and heavy truck dealerships, including yearly human-led penetration testing, vulnerability monitoring twice a year and vendor risk ratings, with a 98% client retention rate.","url":"https://heliontechnologies.com/wisp-template-for-dealerships/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion cybersecurity and compliance services for dealerships","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Penetration testing","url":"https://heliontechnologies.com/penetration-testing/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/wisp-template-for-dealerships/#faq","url":"https://heliontechnologies.com/wisp-template-for-dealerships/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What is a WISP for a car dealership?","acceptedAnswer":{"@type":"Answer","text":"A WISP, or written information security program, is the document a dealership uses to show how it protects customer information under the FTC Safeguards Rule. It names the Qualified Individual, sets out the safeguards and points to the risk assessment, the vendor register and the incident response plan. The template above has 13 sections."}},{"@type":"Question","name":"Is a WISP required under the FTC Safeguards Rule?","acceptedAnswer":{"@type":"Answer","text":"Yes. Section 314.3(a) requires every covered financial institution, which includes a dealership that arranges financing, to keep an information security program written in one or more readily accessible parts. There's no size exemption for the program itself."}},{"@type":"Question","name":"Do small dealerships need a WISP?","acceptedAnswer":{"@type":"Answer","text":"Short answer, yes, though theirs can be thinner. Under section 314.6, a dealership with customer information on fewer than 5,000 consumers skips the written risk assessment, the fixed testing schedule, the written incident response plan and the annual board report. Everything else still applies, MFA and encryption included, and the program still has to be written down."}},{"@type":"Question","name":"Who should write a dealership's WISP?","acceptedAnswer":{"@type":"Answer","text":"Your Qualified Individual owns it, whether that person is on your payroll or works for an outside provider. The first draft is best written at a conference table, though, because the controller knows which lender portals exist, the F&I director knows where the e-contracting logins live, and IT knows which of those have MFA turned on. A WISP drafted without them tends to miss the paper deal jackets in the back room. Whoever holds the pen, the dealership keeps responsibility for compliance."}},{"@type":"Question","name":"What's the difference between a WISP and a risk assessment?","acceptedAnswer":{"@type":"Answer","text":"Think of the risk assessment as the diagnosis and the WISP as the treatment plan. The assessment gets redone every year and scores what could go wrong, while the WISP says who does what about it, so section 3 just points to the current assessment instead of copying it. Our risk assessment template covers that part."}},{"@type":"Question","name":"Is a free WISP template enough for compliance?","acceptedAnswer":{"@type":"Answer","text":"Not on its own. A filled-in template proves the program exists on paper, but the FTC, a lender or a cyber insurer will want to see that MFA is really on, the scans really ran and the vendor reviews really happened, and no template can see what's running on your network. Use it to organize the work. Then let a real assessment check it."}},{"@type":"Question","name":"How often should a dealership update its WISP?","acceptedAnswer":{"@type":"Answer","text":"Once a year is what we'd recommend, timed with the Qualified Individual's annual report. The rule also expects changes after test results, after a new risk assessment and after material changes like an acquisition, a DMS conversion or a new vendor holding customer data. Date every version."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/wisp-template-for-dealerships/#howto","name":"How to use the dealership WISP template","description":"Four steps to turn the template into a written information security program for a dealership under the FTC Safeguards Rule.","step":[{"@type":"HowToStep","position":1,"name":"Gather what you already have","text":"IT policies, vendor contracts, the last pen test, training records. Most stores have more than they think."},{"@type":"HowToStep","position":2,"name":"Fill in the cover document","text":"Work through the 13 sections with your Qualified Individual, controller and IT, and mark every gap."},{"@type":"HowToStep","position":3,"name":"File the parts behind it","text":"Risk assessment, inventory, vendor register, incident response plan. One tab each."},{"@type":"HowToStep","position":4,"name":"Sign it and set the review date","text":"The owner or general manager signs, and the program gets reviewed with the yearly report."}]}]}
+

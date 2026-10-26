@@ -1,0 +1,272 @@
+URL: https://heliontechnologies.com/secure-ai-chat-for-dealerships/
+Fetched: 2026-10-26T03:51:42Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/secure-ai-chat-for-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: Secure AI Chat for Dealerships: Private AI | Helion
+Meta description: Secure AI chat for dealerships: GPT, Claude, Gemini and other models in one private workspace, with role-based access and an audit trail Helion manages.
+Canonical: https://heliontechnologies.com/secure-ai-chat-for-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Secure AI Chat for Dealerships: Private AI Your Staff Can Use
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+MANAGED AI
+
+Secure AI Chat for Dealerships: Private AI Your Staff Can Use
+
+The leading AI models in one private workspace with your store’s name on it, run by the team that already manages your IT.
+
+Request a Complimentary Assessment →
+
+Secure AI chat for dealerships is a private, managed workspace where staff use GPT, Claude, Gemini and other leading models without customer records leaving the store. Helion Technologies deploys and runs it inside the IT relationship you already have.
+
+Last updated: October 22, 2026
+
+A deal summarized on a personal account
+Customer emails pasted into a free chatbot
+Nobody approved the tool the BDC picked
+Blocked on store PCs, open on every phone
+Someone quits and the chat history goes too
+One private place to use AI
+The AI Is Already in Your Store. The Chat History Isn’t Yours.
+
+Walk the service drive or the BDC on a weekday and you’ll find somebody asking an AI tool to clean up a customer email or boil down a long note. Most of it happens on personal accounts. Nobody asked IT. Cox Automotive’s 2026 AI tracker found that 82% of dealers already use AI, and that only counts the use a dealer knows about. The rest lives in browser tabs the store doesn’t control, holding customer names, payoff amounts and whatever else got pasted in that day.
+
+Secure AI Chat is the chat workspace inside Helion’s Managed AI program, the fifth pillar next to managed IT, cybersecurity, compliance and Tekion enablement. That page covers the whole program, from the governance it feeds to the service tiers. This one is about the chat itself: what your staff get when they open it, and what your managers get to see.
+
+Staff will use AI either way. What matters is whose account it runs on.
+
+Public AI Tools, a Block, or a Workspace You Govern
+
+Once leadership notices how much AI the store is using, there are usually two reactions. One is to let it ride, since people really are getting work done faster. The other is to block the chatbot sites at the firewall and call it handled. We’ve watched both play out, and neither one makes the data question go away.
+
+Blocking is the one that surprises people. The firewall shuts the sites off on store PCs, and then the same advisor pulls out a personal phone in the service drive and carries on, except now there’s no record of anything at all. The third option is the one we run: give staff a better tool than the free one, on an account the dealership owns, and the reason to work around IT goes away on its own.
+
+The FTC has warned AI companies that customers may reveal sensitive or confidential information when they use AI models. At a dealership that isn’t abstract. It’s a credit application, a trade payoff, a customer’s cell number. Our guide to public AI and customer PII walks through what’s actually at stake when that data lands in a public tool.
+
+A block hides shadow AI. It doesn’t end it.
+
+Public AI tools
+
+Staff use them on their own accounts. They’re fast, they’re free, and the dealership has no record of what went in.
+
+You find out last.
+
+Blocking AI
+
+We’ve seen plenty of stores try it. The sites stop loading on store PCs, and people switch to their phones.
+
+Then you know even less.
+
+A governed workspace
+
+The models your people already like, on an account you own. Access goes by role, and every prompt gets logged.
+
+That’s the one we run.
+
+INSIDE THE WORKSPACE
+
+What Your Staff Get When They Open Secure AI Chat
+
+Your people won’t need a class for this. If they’ve typed a question into ChatGPT on their phone, they already know how it works. What’s different is who owns it. The account belongs to the dealership, we set the rules with you, and the models are picked for the work instead of whatever free site somebody bookmarked.
+
+WRITE THE RULES FIRST
+
+Decide what staff can and can’t paste into AI before the first person signs in. Our dealership AI use policy template is a free place to start, and the access settings in the workspace follow what it says.
+
+Secure AI Chat, piece by piece
+What staff use and what managers see
+
+Models GPT, Claude, Gemini and others in one window
+
+Some models are better at a follow-up email to a customer. Others do better with a 40-page PDF of warranty terms. Staff choose from GPT, Claude, Gemini and others in one private window, and when a better model comes along we add it there, so nobody retrains and you aren’t stuck with one AI vendor. That matters.
+
+Switch models, not habits.
+
+Phones The same workspace on iOS and Android
+
+Salespeople are out on the lot, advisors are on the drive, and managers spend half the week between stores. The mobile app carries the same sign-in, the same controls and the same history, so a question asked from the parking lot gets the same protection as one typed at a desk. It’s also the real answer to the personal phone problem that blocking creates.
+
+Same rules in the pocket.
+
+Access Role-based access that Helion manages
+
+Who can use the workspace, and how AI behaves for each group, is set by role and managed by Helion along with the rest of your accounts. One list, one owner. When someone leaves, their AI access goes out the door with the rest of their offboarding instead of living on in a personal login. Rex Marchant’s guide to least-privilege access for AI tools explains why each role should reach only what it needs.
+
+Gone with the badge.
+
+Oversight Adoption reporting and an audit trail
+
+Leadership sees who is using AI, how often and for what, which beats walking the floor and guessing whether the rollout took or whether everyone quietly went back to the free app on their phone. Every prompt and response goes into an audit trail, so when somebody asks what was shared and by whom, there’s an answer on file. That’s the point. Cox found that about 1 in 3 dealers either aren’t measuring AI’s impact or have no clarity on how they measure it.
+
+A record, not a rumor.
+
+Your name Your dealership’s name and logo on it
+
+Staff sign in to something that looks like a store tool, because it is one. It’s yours. Every model call runs with zero data retention, so the AI providers don’t keep the conversation or train public models on it, and client records and financials stay in your environment. The Managed AI page covers the isolation and retention terms in full.
+
+A company tool, not a third-party app.
+
+Where Dealers Stand on AI Right Now
+82%
+Of dealers already use AI
+1 in 3
+Aren’t clearly measuring its impact
+2,000+
+Dealerships under Helion management
+98%
+Client retention rate
+
+The first two numbers come from Cox Automotive’s AI in Auto Retail Tracker, released in August 2026 from two survey waves of more than 480 dealers each. The same release found that dealers working with an outside AI partner were more likely to report sales and revenue growth from AI, 36% against 21% for those going it alone. A chat window on its own won’t do that. Setup matters. Somebody still has to set it up for each department, watch how it’s used and adjust, and that’s the part we take on.
+
+How Secure AI Chat Gets Into Your Store
+1
+Ask for the assessment
+
+Our complimentary IT and cybersecurity assessment is where it starts, and it’s free. Plenty of dealers who ask aren’t shopping for a new provider at all. They just want to know where they stand. Fair enough.
+
+2
+Discover
+
+We find where AI earns its keep at your store, department by department, and which tools people are already using on their own. Usually it’s more than you think.
+
+3
+Configure
+
+Your private workspace goes live with your policies, roles and controls already in place, under your dealership’s name and on staff phones.
+
+4
+Support
+
+We monitor usage, report it to leadership and tune the setup as more of the store starts using it. Onboarding starts within weeks of signing.
+
+Common Questions
+
+WANT TO SEE IT FIRST?
+
+Start with our complimentary IT and cybersecurity assessment. If you’d rather look at the chat itself, book a 15-minute call to see the workspace and scope a pilot.
+
+Which AI models can our staff use?
+What makes an AI chat secure enough for a dealership?
+Couldn’t we just block ChatGPT instead?
+Can we try it before every store gets it?
+Is Secure AI Chat different from Helion’s Managed AI?
+Will this AI talk to our customers?
+More on AI at the Dealership
+
+The full Managed AI program, the policy and governance work behind it, and what to check before any AI touches customer data.
+
+Managed AI for dealerships
+The full program, from governance to rollout and service tiers.
+→
+AI readiness assessment
+Where AI fits in your store before anything gets deployed.
+→
+AI governance for dealerships
+Shadow AI, data exposure and what to do next.
+→
+Dealership AI use policy template
+Rules for staff using ChatGPT and other AI tools.
+→
+Public AI and customer PII
+What happens when customer data goes into a public tool.
+→
+Least-privilege access for AI
+Why an AI tool shouldn’t see all of your data.
+→
+Microsoft Copilot at the dealership
+What a Copilot license can reach before anyone governs it.
+→
+AI email assistants
+When the writing helper reads every customer email.
+→
+Generative AI and DMS data
+Connecting AI to store data without the spreadsheet detour.
+→
+AI legal risks for dealerships
+Customer data, chatbot promises, consent and explainability.
+→
+AI phone agents
+A security and consent checklist for customer-facing AI.
+→
+Security awareness training
+Staff training that now covers what goes into AI.
+→
+Microsoft 365 management and security
+The accounts and sign-ins your staff already use.
+→
+Managed IT for dealerships
+Monitoring, help desk, security and DMS support in one contract.
+→
+Co-managed IT
+Helion alongside your own IT staff, not in place of them.
+→
+IT for dealer groups
+One team and one standard across every store.
+→
+
+Your staff picked their AI tools months ago. Let’s move them onto one the dealership owns.
+
+Request a Complimentary Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/","url":"https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/","name":"Secure AI Chat for Dealerships: Private AI | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/secure-ai-chat-for-dealerships.webp","datePublished":"2026-10-22T15:03:48+00:00","dateModified":"2026-10-22T15:13:01+00:00","description":"Secure AI chat for dealerships: GPT, Claude, Gemini and other models in one private workspace, with role-based access and an audit trail Helion manages.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/secure-ai-chat-for-dealerships.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/secure-ai-chat-for-dealerships.webp","width":1200,"height":630,"caption":"Secure AI chat for dealerships from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/secure-ai-chat-for-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Secure AI Chat for Dealerships: Private AI Your Staff Can Use"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/","url":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/","name":"Secure AI Chat for Dealerships: Private AI Your Staff Can Use","description":"Secure AI chat for dealerships: GPT, Claude, Gemini and other models in one private workspace, with role-based access and an audit trail Helion manages.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/secure-ai-chat-for-dealerships.webp","width":1200,"height":630},"about":[{"@type":"Thing","name":"Secure AI chat for dealerships","description":"A private, managed AI chat workspace where dealership staff use leading AI models on an account the dealership owns, with role-based access and an audit trail."}],"mentions":[{"@type":"Thing","name":"Shadow AI","description":"Employees using AI tools on personal accounts that the business has not approved and cannot see."},{"@type":"Thing","name":"Zero data retention","description":"An arrangement under which AI model providers do not keep the prompts and responses sent to them or use them for model training."},{"@type":"Thing","name":"Role-based access control","description":"Granting access to a system by job role, so each group of staff reaches only what it needs."},{"@type":"Thing","name":"Audit trail","description":"A record of the prompts and responses in a workspace, kept so the business can answer what was shared and by whom."},{"@type":"Thing","name":"Large language model","description":"The type of AI model behind chat assistants such as GPT, Claude and Gemini."}],"hasPart":[{"@type":"WebPageElement","name":"Public AI tools, a block, or a workspace you govern","url":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/#three-choices"},{"@type":"WebPageElement","name":"What your staff get when they open Secure AI Chat","url":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/#in-the-chat"},{"@type":"WebPageElement","name":"How Secure AI Chat gets into your store","url":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/#how-it-works"}],"significantLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/managed-ai/","https://heliontechnologies.com/ai-governance-for-dealerships/","https://heliontechnologies.com/dealership-ai-policy-template/","https://heliontechnologies.com/least-privilege-ai-dealerships/"],"relatedLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/managed-ai/","https://heliontechnologies.com/public-ai-and-customer-pii/","https://heliontechnologies.com/dealership-ai-policy-template/","https://heliontechnologies.com/least-privilege-ai-dealerships/","https://heliontechnologies.com/contact/","https://heliontechnologies.com/ai-governance-for-dealerships/","https://heliontechnologies.com/ai-phone-agents-for-dealerships/","https://heliontechnologies.com/ai-readiness-assessment/","https://heliontechnologies.com/microsoft-copilot-dealership-security/","https://heliontechnologies.com/ai-email-assistants-dealership-security/","https://heliontechnologies.com/generative-ai-dms-integration/","https://heliontechnologies.com/ai-legal-risks-for-dealerships/","https://heliontechnologies.com/security-awareness-training/","https://heliontechnologies.com/microsoft-365-security/","https://heliontechnologies.com/support/","https://heliontechnologies.com/co-managed-it/","https://heliontechnologies.com/dealer-groups/"],"citation":[{"@type":"CreativeWork","name":"New Cox Automotive AI in Auto Retail Tracker Finds Growing Gap Between Dealers and AI-Powered Car Shoppers","url":"https://www.coxautoinc.com/press-releases/new-cox-automotive-ai-in-auto-retail-tracker/","publisher":{"@type":"Organization","name":"Cox Automotive"}},{"@type":"CreativeWork","name":"AI Companies: Uphold Your Privacy and Confidentiality Commitments","url":"https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/01/ai-companies-uphold-your-privacy-confidentiality-commitments","publisher":{"@type":"Organization","name":"Federal Trade Commission"}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/#service","name":"Helion Secure AI Chat","serviceType":"Managed private AI chat workspace","description":"Helion Technologies deploys and manages a private AI chat workspace for automotive and heavy truck dealerships: leading models such as GPT, Claude and Gemini in one interface under the dealership's own name, on staff phones, with role-based access, adoption reporting and an audit trail, as part of its Managed AI program for 2,000+ dealerships.","url":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion Managed AI and related services for dealerships","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed AI for dealerships","url":"https://heliontechnologies.com/managed-ai/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"AI readiness assessment","url":"https://heliontechnologies.com/ai-readiness-assessment/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Microsoft 365 management and security","url":"https://heliontechnologies.com/microsoft-365-security/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Security awareness training","url":"https://heliontechnologies.com/security-awareness-training/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/#faq","url":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Which AI models can our staff use?","acceptedAnswer":{"@type":"Answer","text":"GPT, Claude, Gemini and other leading models, all from one private interface. Staff choose whichever suits the task, and newer models get added to the same window as they arrive. Nobody learns a new tool. You're never locked into one AI vendor."}},{"@type":"Question","name":"What makes an AI chat secure enough for a dealership?","acceptedAnswer":{"@type":"Answer","text":"Ownership, retention and access. The dealership owns the account, the model providers don't keep or train on the conversations, and access is set by role and removed when someone leaves. Free tools on personal accounts miss all three. That's why we start there."}},{"@type":"Question","name":"Couldn't we just block ChatGPT instead?","acceptedAnswer":{"@type":"Answer","text":"You can, and it usually moves the problem rather than ending it. The sites go dark on store PCs while the same people keep using AI on their personal phones, where there's no record at all. Handing them a better, approved tool is what actually brings that use back inside. Our AI governance guide covers the policy side."}},{"@type":"Question","name":"Can we try it before every store gets it?","acceptedAnswer":{"@type":"Answer","text":"Yes, and a pilot is how we'd suggest doing it. A 15-minute call is enough to show you the workspace and scope a pilot around the people and departments that would use it first. If you want the wider picture of your IT and security before that, the assessment comes first."}},{"@type":"Question","name":"Is Secure AI Chat different from Helion's Managed AI?","acceptedAnswer":{"@type":"Answer","text":"It's part of it. Managed AI is the whole program, including the governance that feeds your compliance work, department rollouts and the service tiers, and Secure AI Chat is the workspace your staff actually type into. The Managed AI page lays out the full program."}},{"@type":"Question","name":"Will this AI talk to our customers?","acceptedAnswer":{"@type":"Answer","text":"No. Secure AI Chat is for your staff, a connected workspace for internal work across departments, not a chatbot on your website or an agent answering the phones. If customer-facing AI is what you're weighing, our AI phone agent checklist is the better place to start."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/secure-ai-chat-for-dealerships/#howto","name":"How Secure AI Chat gets into your dealership","description":"Four steps from requesting the complimentary assessment to a private AI workspace Helion monitors and supports.","step":[{"@type":"HowToStep","position":1,"name":"Ask for the assessment","text":"Our complimentary IT and cybersecurity assessment is where it starts, and it's free. Plenty of dealers who ask aren't shopping for a new provider at all. They just want to know where they stand. Fair enough."},{"@type":"HowToStep","position":2,"name":"Discover","text":"We find where AI earns its keep at your store, department by department, and which tools people are already using on their own. Usually it's more than you think."},{"@type":"HowToStep","position":3,"name":"Configure","text":"Your private workspace goes live with your policies, roles and controls already in place, under your dealership's name and on staff phones."},{"@type":"HowToStep","position":4,"name":"Support","text":"We monitor usage, report it to leadership and tune the setup as more of the store starts using it. Onboarding starts within weeks of signing."}]}]}
+

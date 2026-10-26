@@ -1,0 +1,254 @@
+URL: https://heliontechnologies.com/ai-phone-agents-for-dealerships/
+Fetched: 2026-10-26T03:58:34Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ai-phone-agents-for-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Receptionist for Car Dealerships: Security Checklist
+Meta description: An AI receptionist for car dealerships touches customer data, call recordings, and consent law. Use this 14-item security and consent checklist before you sign.
+Canonical: https://heliontechnologies.com/ai-phone-agents-for-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Phone Agents for Dealerships: A Security and Consent Checklist
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI Phone Agents for Dealerships: A Security and Consent Checklist
+By Scot McConnor
+October 12, 2026 · 18 min read
+
+An AI receptionist for car dealerships is worth buying once the store has three answers in writing, covering what customer data the agent touches, what callers are told and agree to, and who at the dealership owns it. The checklist below has 14 items across security, consent, and ownership, and most of them are questions for the vendor.
+
+Last updated: October 12, 2026
+
+The demo always goes well.
+
+A pleasant voice picks up on the first ring, books an oil change for Thursday at 7:30, and texts the customer a confirmation before the rep has finished his coffee. Then he tells you it never calls in sick, never puts anybody on hold, and works Sundays. All true, as far as I can tell.
+
+I sold CRM software to dealers for five years before I came to Helion Technologies, so I know what a demo is built to do. It’s built to show you the Thursday appointment. Nobody builds one to show you where the recording of that call ends up, or what the agent would read back to a stranger who happened to know your customer’s name. I gave plenty of those demos myself. Good ones, too.
+
+So this isn’t a post about whether AI phone agents work. A lot of them do. It’s the list I’d want in my hand before I signed for one, written from the buyer’s side of the table. One caveat first. I’m not an attorney, and the consent rules below change by state, so take that half of the list to yours.
+
+A word on where this sits, too. Our managed AI for dealerships program covers the AI your own people use inside the store, the writing and summarizing they’ve been doing in personal accounts, which we wrote about in public AI and customer PII. A phone agent is the other kind. It talks to your customers, on a recorded line, with a connection into your scheduler. Different animal. Same question about who’s watching it.
+
+What an AI Receptionist for Car Dealerships Is, in Plain Terms
+
+An AI receptionist for car dealerships is a voice agent that answers the store’s phone lines, talks with the caller in plain speech, and then books the appointment, answers the question, or hands the call to a person. Most also send texts, place follow-up calls, and write a transcript of every conversation into the CRM.
+
+Vendors call it a lot of things. AI receptionist, AI phone agent, virtual BDC, 24/7 dealership phone staffing, an AI tool for dealership phone and SMS. Same product. The text-and-email side of lead work has its own list, in our guide to choosing an AI BDC for your dealership. What matters for this checklist is the second sentence of that definition, because the minute it texts, calls back, and keeps a transcript, you’ve bought three things with three sets of rules.
+
+I understand why dealers are looking. CDK reported in August 2026 that 61% of service appointments and 47% of sales appointments are still booked by phone, with service hold times averaging 9.3 minutes. CDK sells software to dealers, so read that the way you’d read any number from somebody with a product. I still believe it. Call your own service line at 11:40 on a Monday and count.
+
+And the appetite is there. Cox Automotive’s AI in Auto Retail Tracker, out in August 2026, found that 82% of dealers say they’re using AI, 69% expect it to grow sales and revenue, and only 22% of the ones using it say they’ve seen that growth so far. About one in three aren’t measuring what it does, or aren’t sure how they would. That’s a lot of buying and not much checking. Which is how most technology gets bought in this business, if I’m honest.
+
+One Purchase, Four Jobs, Four Sets of Rules
+
+Here’s the part the demo skips. Answering your phone and calling your customers are not the same act in the eyes of the law, and the agent does both.
+
+THE JOB	WHAT IT LOOKS LIKE AT THE STORE	WHAT REACHES IT	SETTLE THIS FIRST
+Answering inbound calls	A customer calls service at 9 p.m. and the agent books Thursday	State recording and disclosure laws, the FTC Act, and the Safeguards Rule for the data it touches	What the agent says in its first sentence
+Calling customers	The agent returns a missed call or works a declined-service list	Telephone Consumer Protection Act, with AI voices counted as artificial voices since February 2024	Where the consent for each number came from
+Texting	Appointment confirmations, ready-for-pickup notices, service specials	TCPA and the FCC’s opt-out rule	That a “stop” reaches the CRM and the BDC, not only the vendor
+Recording and transcribing	Every call saved, summarized, and searchable	Federal and state wiretap laws, plus the Safeguards Rule once customer information is in the file	Where the recordings live and when they’re deleted
+
+The Federal Communications Commission drew the line itself. In its 2024 proposal on AI calls, the agency noted that the TCPA’s requirements don’t extend to technology used to answer inbound calls. So the after-hours answering really is the easy half. The trouble is that nobody buys only that half. The same agent that picks up at 9 p.m. is dialing out at 9 the next morning.
+
+The Security Half: What the Agent Touches
+
+Start with a fact that’s easy to forget when the product is a friendly voice. A dealership is a financial institution under the FTC Safeguards Rule, and the company running your phone agent is a service provider under it. 16 CFR 314.4 tells you to pick service providers that can protect customer information, put that in the contract, and check on them from time to time. It also expects customer information to be encrypted, kept behind multi-factor authentication, logged, and disposed of on a schedule. The whole set is in our guide to the FTC Safeguards Rule requirements.
+
+None of that goes away because the rep was nice. So before the agent goes live, here’s what I’d want answered.
+
+What does it read, and what can it write? To book a service appointment the agent needs the scheduler, the customer’s name, a phone number, and the vehicle. It doesn’t need deal jackets, credit applications, or the F&I menu. Ask for the list of fields in writing. If the answer is “it integrates with your DMS,” that’s a brochure line, and you should ask again.
+
+Then the recordings. Every call becomes an audio file and a transcript, and on a service call people say things. Addresses. Card numbers. The fact that they’re out of town until the 14th. Where do those files sit, who at the vendor can pull one up, and when do they get deleted? “We keep them” is not a retention schedule. The portal that holds them should take a second step to sign in and keep a log of who opened what, and that goes for your own people’s logins as much as the vendor’s. As for the card numbers, the agent shouldn’t be hearing them in the first place. More on that in the questions at the bottom.
+
+Third, and this is the one I’d push hardest on. Does the vendor use your calls to train its own models? In February 2025 a federal court in California let a class action go forward against Google over its contact center AI, which a national cellular carrier and a home improvement retailer ran on their customer service lines. The court’s reasoning, as attorneys who followed Ambriz v. Google summarized it, was that a vendor with the capability to use call data for its own benefit can count as a third party listening in under California’s privacy law, whether or not it ever used the data. That was an early ruling on a motion to dismiss. It isn’t a final judgment. I’d still want “we don’t train on your calls” in the contract and not just in the sales deck.
+
+You should also know how many companies you’re hiring. Hardly any of these products are one company top to bottom, from what I can tell. The voice is rented from one outfit, the language model from another, the phone lines from a third, and a brand name goes over the top. Once in a while the brand name is your phone carrier and the agent rides in on the internet renewal. Carriers sell dial tone and bandwidth. Nothing wrong with that. They just aren’t going to vet their own add-on for you, so ask who’s underneath and have them put it on paper.
+
+One more on this side, and it’s the one I’d actually go and try. What will the agent tell a stranger? Try it during the pilot. Call in, give a real customer’s name and number, and ask when the car will be ready, what was done, and what’s owed. If it answers all three with nothing but a name and a phone number to go on, somebody who means harm gets the same answers. And if the vendor ever has a breach of its own, your contract should say how fast they tell you, because the store may have a 30-day FTC notification clock of its own to meet.
+
+The Consent Half: Calls, Texts, Recordings, and Saying It’s AI
+
+This is the attorney’s half. I’ll give you the shape of it so you know what to ask.
+
+Outbound first. On February 8, 2024, the FCC ruled that AI-generated voices are “artificial” voices under the Telephone Consumer Protection Act. So a call your agent places gets treated like a prerecorded one, and those need the customer’s prior consent, in writing if the call is selling something. The statute lets a consumer sue for $500 per violation, and up to three times that if a court finds it was willful. Calling back someone who phoned you an hour ago is one thing. A declined-services campaign to 1,800 numbers pulled out of the DMS is another, and “the vendor said it was compliant” won’t carry much weight when the calls went out in the store’s name. My colleague Alexis Merchant covered the wider picture in her piece on AI legal risks for dealerships, so I won’t repeat it here.
+
+Texts carry their own rule. Since April 11, 2025, FCC rules say a customer can revoke consent by any reasonable method, a reply of “stop,” “quit,” “cancel,” or “unsubscribe” counts automatically, and the request has to be honored within ten business days. Here’s where phone agents trip. The customer tells the AI “quit calling me” in the middle of a call. Did that get written anywhere your BDC will see it? If the opt-out lives only in the vendor’s system, your own people will call that customer next Tuesday. Count on it.
+
+Hours matter too. Answering at 2 a.m. is fine. Calling at 2 a.m. isn’t, and the same FCC rules keep telephone solicitations between 8 a.m. and 9 p.m. in the customer’s time zone. “24/7” describes the answering.
+
+Recording. Federal law, 18 U.S.C. 2511, allows a call to be recorded when one party consents. California’s Penal Code 632 wants every party’s consent on a confidential call, and it isn’t the only state that does. Your customers don’t check which state they’re standing in before they call the service drive. The fix is the one you already know from every bank you’ve ever called. Say the call is recorded, on every call, right at the top.
+
+And tell people it’s AI. California already requires a disclosure when a prerecorded message uses an artificial voice, under a law that took effect January 1, 2025. The FCC proposed a nationwide disclosure rule for AI-generated calls in 2024, and as far as I can find it hasn’t been finalized as I write this in October 2026. I wouldn’t wait for either one. The Federal Trade Commission’s position since its Operation AI Comply sweep in September 2024 is that there’s no AI exemption from the laws already on the books. A machine that says “this is Jessica in service” when a customer asks if she’s real is a deception problem with or without a new rule. One sentence handles it. “I’m the dealership’s AI assistant, and this call is recorded.” Most people would rather hear that up front than work it out later.
+
+For the federal side of calls, texts, and email in one place, NADA publishes A Dealer Guide to Federal Email and Telemarketing Restrictions. It’s dry. Read it anyway, or make sure your BDC manager has. If AI is answering your lead emails too, read what an AI email assistant at the dealership can read, send and leak.
+
+The AI Phone Agent Security and Consent Checklist
+
+Fourteen items. Print it, and write a name next to each one. One name. Not a department.
+
+CHECKLIST ITEM	WHO OWNS IT	YOU’RE DONE WHEN
+Security: data access	IT provider	You hold a written list of every field the agent reads and writes, and it stops at the scheduler and the contact record
+Security: recordings and transcripts	Controller or Qualified Individual	You know where they’re stored, who can open them, and the date they’re deleted
+Security: model training	Dealer principal, at contract	The contract says the vendor and its suppliers don’t train on your calls
+Security: admin logins	IT provider	Multi-factor authentication is on, every login has a name, and former employees are gone
+Security: payment cards	Controller	Card numbers never land in a recording or a transcript
+Security: subprocessors	Controller	Every company behind the vendor is named in writing
+Security: the stranger test and breach notice	IT provider	The agent won’t release account details on a name and number alone, and the contract sets a deadline for the vendor to report a breach to you
+Consent: outbound calls	BDC manager	Each number on a call list traces back to a consent record
+Consent: opt-outs	BDC manager	A “stop” by text or by voice shows up in the CRM inside ten business days, and you’ve tested it yourself
+Consent: calling hours	BDC manager	Outbound campaigns run 8 a.m. to 9 p.m. in the customer’s time zone
+Consent: recording notice	GM, reviewed by your attorney	Every call opens with it
+Consent: AI disclosure	GM, reviewed by your attorney	The agent says it’s AI at the start of the call and again whenever it’s asked
+Ownership: a named owner	Dealer principal or GM	One person approves changes to the script, the call lists, and the integrations
+Ownership: a human fallback	Fixed ops director	Callers can reach a person, and the phones still ring somewhere when the agent or the internet is down
+
+If you can’t fill in a row, that’s the row to bring to the vendor.
+
+What to Ask the Vendor, and What to Ask Yourself
+
+Dealers take a lot of technology advice from the people selling the technology. I did the selling, so I say that without any heat. The rep isn’t lying to you. He’s answering the questions he gets asked, and hardly anybody asks him these. Ask anyway.
+
+Which fields in our DMS and CRM does the agent read, and which ones can it change?
+Do you, or any company you rely on, use our call audio or transcripts to train or improve anything? Show me the clause.
+Where are the recordings stored, and what’s the deletion date?
+A caller says “stop calling me” out loud. What happens next, step by step?
+If you have a security incident, how many days until we hear about it?
+What happens to our data the day we cancel?
+
+Watch how the answers arrive. A vendor that has done this for other regulated businesses sends a document the same afternoon. One that hasn’t sends a meeting invite.
+
+Then there’s the question I ask myself whenever a project isn’t going the way I planned. What am I not doing? With a phone agent it’s usually the boring part. Nobody listened to twenty of the calls after go-live. Nobody tried the opt-out. Nobody checked whether the transfer to a human works at 6:45 on a Saturday. About a third of the dealers in that Cox survey can’t say what their AI is doing for them, and I’d hate for your phones to be the reason you’re in that third.
+
+Whose Job Is the Phone Agent?
+
+Not the vendor. And not IT alone, though we have a job in it.
+
+How the store’s phone gets answered is the dealer principal’s or the GM’s call, because it’s a decision about how customers get treated, and the BDC manager owns consent and opt-outs, since those are the lists the BDC already lives in. Your controller or Qualified Individual adds the vendor to the service provider list in the store’s FTC Safeguards compliance program. Your IT and security team checks what the agent can reach, locks down the logins, and watches the connection into the DMS the way it watches every other one. If the store has a written AI policy, the phone agent belongs in it. If it doesn’t, my colleague Alexis Merchant’s dealership AI use policy template is a fair place to start.
+
+That last part is our lane. Helion Technologies has worked only with dealerships since 1997, and we support 2,000-plus of them and 35,000 end users today. We don’t pick your phone vendor, and we aren’t your lawyers. What we can do is tell you what a new tool touches once it’s plugged in, which is a question the people selling it aren’t always in a hurry to answer. I’d rather see a dealer use AI to win than sit it out. It goes better when one partner can see how all the pieces connect, and worse when it’s a stack of vendors pointing at each other.
+
+Straight Answers Before You Sign
+Do we have to tell callers they’re talking to AI?
+Our agent only answers the phone. Is the TCPA even our problem?
+Can it take a card number for a service deposit?
+Our DMS provider has one built in. Doesn’t that settle security?
+How long should we keep the call recordings?
+Run the List Before You Sign
+
+An AI phone agent can be a good buy. Phones that get answered sell cars and fill service bays, and I’d rather see a dealer use technology to win than treat it as a bill to keep small. But the answered phone isn’t the whole purchase. You’re also buying a new connection into your customer data, and a new voice making promises in your name. How much of that data it should reach is a least-privilege question, covered in our access map for AI tools at the dealership.
+
+So take the 14 items to the vendor before the contract shows up. And if you’d like somebody to look at what that agent could reach once it’s wired into your systems, that’s part of our complimentary IT and cybersecurity assessment and its AI readiness review. We look at everything else that’s plugged in while we’re there. The demo will go fine. It always does.
+
+ABOUT THE AUTHOR
+
+Scot McConnor
+
+VP of Technology Advisory, Helion Technologies
+
+Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.
+
+Scot McConnor on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What an AI Receptionist for Car Dealerships Is, in Plain Terms
+One Purchase, Four Jobs, Four Sets of Rules
+The Security Half: What the Agent Touches
+The Consent Half: Calls, Texts, Recordings, and Saying It’s AI
+The AI Phone Agent Security and Consent Checklist
+What to Ask the Vendor, and What to Ask Yourself
+Whose Job Is the Phone Agent?
+Straight Answers Before You Sign
+Run the List Before You Sign
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/"},"author":{"name":"Scot McConnor","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101"},"headline":"AI Phone Agents for Dealerships: A Security and Consent Checklist","datePublished":"2026-10-12T14:15:28+00:00","dateModified":"2026-10-12T14:15:29+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/"},"wordCount":3574,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-phone-agents-for-dealerships-security-consent-checklist.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/","url":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/","name":"AI Receptionist for Car Dealerships: Security Checklist","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-phone-agents-for-dealerships-security-consent-checklist.webp","datePublished":"2026-10-12T14:15:28+00:00","dateModified":"2026-10-12T14:15:29+00:00","description":"An AI receptionist for car dealerships touches customer data, call recordings, and consent law. Use this 14-item security and consent checklist before you sign.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-phone-agents-for-dealerships-security-consent-checklist.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-phone-agents-for-dealerships-security-consent-checklist.webp","width":1200,"height":500,"caption":"An AI phone agent is a new connection into customer data and a new voice speaking for the store."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ai-phone-agents-for-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI Phone Agents for Dealerships: A Security and Consent Checklist"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101","name":"Scot McConnor","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","caption":"Scot McConnor"},"description":"Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.","sameAs":["https:\/\/www.linkedin.com\/in\/scot-mcconnor-a58b043\/"],"url":"https:\/\/heliontechnologies.com\/author\/scot-mcconnor\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"VP of Technology Advisory"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ai-phone-agents-for-dealerships/#article","headline":"AI Phone Agents for Dealerships: A Security and Consent Checklist","description":"An AI receptionist for car dealerships touches customer data, call recordings, and consent law. Use this 14-item security and consent checklist before you sign.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ai-phone-agents-for-dealerships-security-consent-checklist.webp","datePublished":"2026-10-12T10:15:28-04:00","dateModified":"2026-10-12T10:15:29-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/17d54fad11c197dca04f1cb8d7157101"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ai-phone-agents-for-dealerships/"},"articleSection":"Managed AI","inLanguage":"en-US","about":[{"@type":"Thing","name":"AI receptionist for car dealerships"},{"@type":"Thing","name":"AI phone agent security and consent"},{"@type":"Legislation","name":"Telephone Consumer Protection Act (47 U.S.C. 227)","url":"https://www.law.cornell.edu/uscode/text/47/227"}],"mentions":[{"@type":"GovernmentOrganization","name":"Federal Communications Commission","url":"https://www.fcc.gov/"},{"@type":"GovernmentOrganization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"Legislation","name":"FTC Safeguards Rule (16 CFR Part 314)","url":"https://www.law.cornell.edu/cfr/text/16/314.4"},{"@type":"Legislation","name":"47 CFR 64.1200","url":"https://www.law.cornell.edu/cfr/text/47/64.1200"},{"@type":"Legislation","name":"California Penal Code 632"},{"@type":"Legislation","name":"California AB 2905 (2024)"},{"@type":"Thing","name":"PCI DSS"},{"@type":"Organization","name":"Cox Automotive"},{"@type":"Organization","name":"National Automobile Dealers Association","url":"https://www.nada.org/"},{"@type":"Person","name":"Alexis Merchant","@id":"https://heliontechnologies.com/#/schema/person/6ee62f2567da0a9d55c9714bbb395668"}],"keywords":"ai receptionist for car dealerships, AI phone agents for dealerships, AI voice agent consent, TCPA AI voice calls, call recording consent, 24/7 dealership phone staffing, AI tool for dealership phone and SMS"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/ai-phone-agents-for-dealerships/#faq","mainEntity":[{"@type":"Question","name":"Do we have to tell callers they're talking to AI?","acceptedAnswer":{"@type":"Answer","text":"In some states and some situations the law already says so, and I'd have the agent say it on every call anyway. California requires a disclosure on prerecorded messages that use an artificial voice, and the FCC has proposed a national rule for AI-generated calls. The bigger risk is the caller who asks if they're talking to a person and gets a dodge. Put it in the agent's first sentence."}},{"@type":"Question","name":"Our agent only answers the phone. Is the TCPA even our problem?","acceptedAnswer":{"@type":"Answer","text":"Mostly no for the answering, and very much yes for whatever the agent does afterward. The TCPA's artificial-voice consent rules cover calls and texts a business sends. But nearly every AI receptionist also confirms by text and returns missed calls, and those are outbound. Recording and disclosure laws apply either way."}},{"@type":"Question","name":"Can it take a card number for a service deposit?","acceptedAnswer":{"@type":"Answer","text":"It can, and I'd turn that off until the vendor proves card data stays out of the recordings and the transcripts. A payment link sent by text, or a handoff to the cashier, gets you the deposit without leaving card numbers in a file."}},{"@type":"Question","name":"Our DMS provider has one built in. Doesn't that settle security?","acceptedAnswer":{"@type":"Answer","text":"A built-in agent shortens the list, which is worth something, but it doesn't finish it. When the phone agent comes from the company that already holds your data, you have one less integration and one less contract to review. The consent half doesn't move at all. Call lists, opt-outs, recording notices, and what the agent says about itself are still the store's to get right, whoever built the voice."}},{"@type":"Question","name":"How long should we keep the call recordings?","acceptedAnswer":{"@type":"Answer","text":"Two years after the information was last used is the outer limit the Safeguards Rule sets for disposing of customer information, unless there's a business or legal reason to hold it longer. Shorter is easier to defend. Pick a number with your attorney, write it down, and make sure the vendor's system deletes on that schedule."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/ai-phone-agents-for-dealerships/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

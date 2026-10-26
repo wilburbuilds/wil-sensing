@@ -1,0 +1,269 @@
+URL: https://heliontechnologies.com/dealership-ai-policy-template/
+Fetched: 2026-10-26T03:58:35Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-ai-policy-template/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Policy for Car Dealerships: A Template for Staff
+Meta description: An AI policy for car dealerships your staff will read: a two-page template for ChatGPT and other AI tools, with department lines and a rollout plan.
+Canonical: https://heliontechnologies.com/dealership-ai-policy-template/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealership AI Use Policy: A Template for Staff Using ChatGPT and Other AI Tools
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Dealership AI Use Policy: A Template for Staff Using ChatGPT and Other AI Tools
+By Alexis Merchant
+October 12, 2026 · 18 min read
+
+An AI policy for car dealerships is a written rule that names the AI tools staff may use, the customer information that stays out of every other tool, who checks AI output before customers see it, and who to ask. The template below runs about two pages, it’s written in plain words, and each department can fill in its own blanks.
+
+Last updated: October 12, 2026
+
+A policy nobody on the service drive has read is a piece of paper. That’s all it is.
+
+I learned that the long way. Before I came to Helion I spent about four years on Tekion’s Learning & Development team, and I built more than 100 training storyboards there for dealership staff. A storyboard is where you find out whether you really understand a process, because you have to show one real person doing one real task, step by step, and there’s nowhere to hide a sentence like “employees shall exercise appropriate caution.” What does that even mean at 7:40 on a Monday with six cars in the lane? Nothing. Nobody knows.
+
+So when a dealer asks me for an AI policy, I don’t start with legal language. I start with the service advisor, the BDC rep, the F&I manager, and the accounting clerk, and I ask what each of them would need to read to know what to do next. This post is that document. Copy it, change it, and hand it to your attorney.
+
+Two things before we get to it. I’m not a lawyer and this isn’t legal advice, so please have counsel read your version before anybody signs. And the policy is only the paper half. The other half is giving people a tool they’re allowed to use, which is the job of our managed AI for dealerships program. If you want the why behind all of it, our post on public AI and customer PII tells the risk story. This one is the how.
+
+An AI Policy for Car Dealerships, Defined
+
+A dealership AI use policy is a written set of rules for how employees use tools like ChatGPT, Microsoft Copilot, Google Gemini, and the AI features inside your CRM and DMS. It names the approved tools, the information that’s off limits, the human review every output gets, and the person responsible. It belongs inside your written information security program, not in a drawer.
+
+Does your store need one yet? I’d say look at what’s already going on. Cox Automotive’s AI in Auto Retail Tracker, published August 11, 2026, found that 82% of dealers report using AI, and the top three uses were automating tasks (40%), coordinating customer follow-up (40%), and writing content (38%). Look at that list for a second, because none of it is a robot on your website. It’s inside work, done by your own people, typing things into a box.
+
+There’s one more number I keep going back and forth on, so I’ll just show it to you and tell you why. In March 2026 Lotlinx surveyed about 215 executives at franchise and independent dealerships, and 69% said they upload their data into generic AI tools daily. Eleven percent said data security concerned them. Eleven! Now, Lotlinx sells AI software to dealers, and a vendor’s survey tends to find whatever the vendor needs it to find, so I wouldn’t frame this one and hang it on the wall. But was I surprised? No. I’ve watched what happens on a service drive when something saves ten minutes.
+
+Which is why I wouldn’t wait on this. The tools got into the building before the rules did. Nobody did anything wrong. It’s just that advisors will find the faster way to do a thing by lunch, the way they always have, and I’ve never seen a memo un-find it for them.
+
+Sort Your Information Before You Write a Word
+
+OK, the sorting. I grew up around a service drive (my dad was a service writer and then a service director), so the multi-point inspection sheet is practically a family document. Green, you’re fine. Yellow, keep an eye on it. Red, we need to talk before you leave. Customers who can’t tell a tie rod from a tailpipe read that sheet without any help, and that’s why I steal it for AI. The hardest question in any policy turns out to be “can I put this in?” and the advisor asking it has about two seconds and a customer standing right there.
+
+LIGHT	WHAT IT IS	WHAT IT LOOKS LIKE ON THE FLOOR	WHERE IT CAN GO
+Green	Nothing about a real person, and none of the store’s private numbers	A follow-up email with no names in it, a job posting, a spreadsheet formula, a summary of a public OEM bulletin	Any tool on the approved list
+Yellow	Store business with no customer in it	Pay plans, a vendor contract, month-end numbers, a parts price file, internal procedures	The store’s approved AI workspace only
+Red	Anything that points to a customer or an employee	A name with a phone number or address, driver’s license and Social Security numbers, credit applications, deal jackets, bank and card details, repair history tied to a name or VIN, payroll and HR files	Never a public AI tool. An approved tool only if your policy says that tool is cleared for customer information
+
+Be honest with yourself about that table, because I had to be. Almost everything that ends up in a chatbot at a dealership is yellow or red. And the person who put it there wasn’t being careless. They were trying to take care of a customer a little faster, since time is money in the auto industry and they know it better than anybody. I’ve yet to meet the advisor who did it to cause trouble. So I’d much rather hand people three colors they’ll remember than three paragraphs they won’t.
+
+Quick word on the free versions, and then I’ll get out of the way. A lot of consumer AI accounts are allowed to keep what you type and use it to improve their models unless somebody goes into the settings and turns that off, and I’d bet most people never have. Either way, the dealership has no contract with that company. The terms change too, and nobody sends your controller a notice. That’s why the template doesn’t call any brand good or bad. It talks about approved tools and work logins, and which ones make your list is up to you.
+
+The Dealership AI Use Policy Template
+
+Here’s the template. Anything in brackets is yours to fill in. I kept the sentences short on purpose, by the way, because the people on the floor are the ones who have to follow it and they’ll be reading it between customers, probably standing up.
+
+[Dealership Name] AI Use Policy
+Effective [date]. Policy owner [name and title]. Reviewed every [90 days].
+
+1. Why we have this. AI tools can save us time, and we want you to use them. We also hold our customers’ personal and financial information, and we’re required to protect it. This policy tells you which tools are approved, what can go into them, and who to ask.
+
+2. Who it covers. Every employee, manager, contractor, and temp at [Dealership Name], on any device used for work. That includes your own phone.
+
+3. Approved AI tools. For dealership work, use only the tools on this list, and only with your work login.
+
+[Tool name], approved for [green and yellow information / customer information]
+[Tool name], approved for [what]
+AI features inside our [DMS], [CRM], and [phone or chat system], once [policy owner] has added each one to this list
+
+Personal accounts on any AI tool, free or paid, are not approved for dealership work.
+
+4. What never goes into a tool that isn’t cleared for customer information.
+
+A customer’s name together with a phone number, email, or address
+Driver’s license numbers, Social Security numbers, and dates of birth
+Credit applications, credit reports, and anything from a deal jacket
+Bank account, card, and payment details
+Repair orders or service history tied to a customer or a VIN
+Payroll, medical, or HR records for any employee or applicant
+Passwords, login codes, and anything you needed a login to see
+
+Not sure which color it is? Treat it as red and ask [policy owner].
+
+5. What AI is fine for. Drafting a message with the customer details left out, then adding them back yourself. Summarizing public information. Writing training material, job postings, and procedures. Help with a spreadsheet formula. Ideas for a sales meeting.
+
+6. A person checks everything. AI gets things wrong, and it sounds sure of itself when it does. You are responsible for anything you send, post, or file, whether AI wrote the first draft or not. Read every word. AI never states a price, payment, rate, rebate, trade value, or availability to a customer unless a manager has confirmed it.
+
+7. AI that talks to customers. Chatbots, AI voice agents, and AI-written ads, emails, and texts need approval from [GM or policy owner] before they go live. [BDC manager] confirms consent before any call or text list is loaded. No AI tool decides credit, pricing, or hiring. A person decides, and that person can explain why.
+
+8. Asking for a new tool. Found something useful? Good. Send it to [policy owner]. We’ll find out what data it sees, whether it keeps or trains on what we type, and get you an answer within [5 business days]. Until it’s on the list, don’t use it for dealership work.
+
+9. If something goes in that shouldn’t have. Tell [policy owner or IT provider] the same day. Say which tool, what information, and when. You will not be disciplined for reporting your own honest mistake. Hiding one is a different conversation.
+
+10. Training and sign-off. Everyone gets a [15-minute] hands-on session with their own department before signing, and a refresher every [quarter]. New hires get it in their first week.
+
+11. Changes. We review this policy every [90 days] and any time a tool is added or removed.
+
+Employee name and department: ______________________ Date: __________
+Manager: ______________________ Date: __________
+
+Number 9 is my favorite, and yes, I have a favorite section of a policy (I built training for four years, so I get to be like this). Picture the first time somebody walks into your office and says, “I think I pasted something I shouldn’t have.” Whatever your face does in the next five seconds is the whole policy. Stay calm and people keep telling you things. Go off on them and you’ll never hear about the next one, which won’t mean it didn’t happen!
+
+Filling In the Blanks, One Department at a Time
+
+Next thing. Hand those same two pages to somebody at the parts counter and to an F&I manager and you’ll get two completely different looks, because their days have nothing in common. I’ve worked across parts, finance, service, sales, and accounting, so I’ve given both of those looks myself. My fix is cheap. Each department gets one extra line on its own copy, in the words they’d use at the counter.
+
+DEPARTMENT	WHERE AI HELPS	THE LINE TO ADD TO THEIR COPY
+Service	Cleaning up repair order notes, drafting follow-ups	Take the customer’s name, phone, and VIN out before you paste. Put them back yourself.
+Sales and BDC	Lead replies, follow-up in one consistent voice	AI drafts, you send. No price, payment, or trade number goes out until a manager has confirmed it.
+F&I	Customer letters, product explanations	Nothing from a credit application or a deal jacket goes into a tool that isn’t cleared for it. No tool decides an approval or a rate.
+Parts	Comparing vendor quotes, return paperwork	Price files and vendor contracts are yellow. Approved workspace only.
+Accounting office	Month-end summaries, schedule cleanup	Customer balances, payroll, and bank details stay out of everything except the tool cleared for them.
+HR	Job postings, onboarding material, written procedures	Postings are green. Applicant and employee files are red, and no tool ranks applicants for us.
+
+While you’re at it, follow section 6 around the building one time. I know the human check reads like filler. It isn’t! Say an advisor has AI tidy up a technician’s note. That note lands on the repair order, the repair order feeds a warranty claim, and the claim winds up in accounting. Now suppose the tool quietly changed one little detail back at the start, a part number or a mileage, and nobody read it. That’s three departments carrying one mistake, and the person who finally trips over it is the accounting clerk, weeks later, who never touched the thing. A one-minute read up front would have saved that clerk’s afternoon.
+
+Rolling It Out So People Follow It
+
+OK, rollout. Please, please don’t do this by email.
+
+Let me tell you what I watched work this year. A multi-rooftop dealer group moved more than 30 stores from one DMS to another, and there was a mountain of documentation, as you’d expect. Did the documentation make it stick? Not really. We kept showing up, and I think that did it. Every day there was a war room where we worked through permissions, bank setups, forms, and hardware as they came up, and once a store was live we held a standing weekly meeting with dealership leadership. So the same expectations got said out loud, again and again, by somebody you could stop and ask. That’s the real work. The store teams did all of it while still selling and servicing cars every single day, and I’m still a little in awe of that.
+
+An AI policy is nowhere near that big (thank goodness), but I’d run it the same way. This is the order I’d go in.
+
+Ask first, announce second. Each manager asks their team what they’re already using, and nobody gets in trouble for the answer, period. How would you approve or replace a tool you’ve never heard of?
+Take fifteen minutes with one department. Bring a real email or repair order note with the customer details blacked out, and have everybody practice pulling the red out before they paste. It’ll feel silly for about a minute.
+Signatures come after the practice, never before.
+Tape the approved list up at the advisor desk and the parts counter. Yes, tape! Nobody opens a shared drive in the middle of a write-up.
+Then give it ten minutes a month in the managers’ meeting. What got requested, what got reported, and is anything on the list just sitting there?
+
+NADA’s Dealer Driven podcast had an episode on using AI in the dealership back in November 2025 with Andy Seidenman, who teaches at NADA Academy, and the advice I took from it was to start small and focus on one frustrating process. I love that. So pick the one task your advisors complain about most, show them the approved way to do it, and let that be the training. Everyone has different ways of learning, but hands on experience and repetition will beat a memo every time.
+
+Some managers worry a policy slows people down. I think it’s the opposite, because a store gets to peak efficiency when nobody has to stop in the middle of a task and wonder whether they’re allowed to do what they’re about to do.
+
+Where the Policy Sits in Your Safeguards Program
+
+I’ll stay in my lane here. The deep compliance work belongs to your Qualified Individual, your attorney, and our security team, not to me. But I can tell you where this piece of paper plugs in, because it isn’t a separate project.
+
+Dealerships are financial institutions under the FTC Safeguards Rule. The rule, at 16 CFR 314.4, calls for a written information security program, security awareness training for your personnel, and service providers that are held by contract to protect customer information. The FTC’s own plain-language guide tells businesses to “conduct a periodic inventory of data, noting where it’s collected, stored, or transmitted.” Think about a chatbot somebody signed up for on their own. That’s a place customer data got transmitted, and it isn’t on anybody’s inventory.
+
+The FTC has noticed the same habit from the other side. In January 2024 its Office of Technology wrote that customers of AI companies “may reveal sensitive or confidential information when using a company’s models, such as internal documents and even their own users’ data.” Internal documents and their own users’ data. That’s a deal jacket.
+
+If your Qualified Individual wants a framework to check the policy against, the NIST AI Risk Management Framework is voluntary, free, and has a companion profile for generative AI that came out in July 2024. For the rest, we’ve laid out all nine elements in our guide to the FTC Safeguards Rule requirements, and the broader legal picture is in my post on AI legal risks for dealerships.
+
+This is the part we do every day. Helion Technologies has supported dealerships and nobody else since 1997, and that’s 2,000-plus dealerships and 35,000 end users today. When AI rules live inside the same program as the rest of your dealership compliance work, the training, the vendor questions, and the records all end up in one place. One place is easier to keep current.
+
+What Managers Ask Before They Sign It
+Does this really fit on two pages?
+Why not block ChatGPT on the network and skip the policy?
+Our DMS and CRM have AI built in now. Do those count?
+What do we do when somebody breaks it?
+How often does an AI policy need to change?
+Paper First, Then Practice
+
+I’ve said this before and I’ll keep saying it. AI isn’t going to kill the workforce the way some people think, but it will shift how we work and what our roles look like, tremendously. We need to adapt to survive. An AI policy for car dealerships is how a store adapts on purpose, with the rules decided by the people who run the place.
+
+So print the template, fill in the brackets, and then sit down with one department for fifteen minutes this week, whichever one you think is using AI the most. Your team will do the hard part, the same as they always do. If you’d like help finding out which AI tools are already touching customer data in your store, our complimentary IT and cybersecurity assessment is the place to start (here’s what its AI readiness review covers), and when you’re ready to hand people a tool that’s theirs to use, that’s what a private AI workspace for your dealership is for.
+
+ABOUT THE AUTHOR
+
+Alexis Merchant
+
+Manager of Dealer Enablement Success, Helion Technologies
+
+Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning & Development team and now helps dealership teams get more from the system after go-live.
+
+Alexis Merchant on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+An AI Policy for Car Dealerships, Defined
+Sort Your Information Before You Write a Word
+The Dealership AI Use Policy Template
+Filling In the Blanks, One Department at a Time
+Rolling It Out So People Follow It
+Where the Policy Sits in Your Safeguards Program
+What Managers Ask Before They Sign It
+Paper First, Then Practice
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/"},"author":{"name":"Alexis Merchant","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668"},"headline":"Dealership AI Use Policy: A Template for Staff Using ChatGPT and Other AI Tools","datePublished":"2026-10-12T14:13:56+00:00","dateModified":"2026-10-12T14:13:57+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/"},"wordCount":3529,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-policy-template.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/","url":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/","name":"AI Policy for Car Dealerships: A Template for Staff","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-policy-template.webp","datePublished":"2026-10-12T14:13:56+00:00","dateModified":"2026-10-12T14:13:57+00:00","description":"An AI policy for car dealerships your staff will read: a two-page template for ChatGPT and other AI tools, with department lines and a rollout plan.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-policy-template.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-policy-template.webp","width":1200,"height":500,"caption":"A two-page AI use policy a dealership can fill in by department."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-ai-policy-template\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Dealership AI Use Policy: A Template for Staff Using ChatGPT and Other AI Tools"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668","name":"Alexis Merchant","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","caption":"Alexis Merchant"},"description":"Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning &amp; Development team and now helps dealership teams get more from the system after go-live.","sameAs":["https:\/\/www.linkedin.com\/in\/alexis-merchant-49a747b1\/"],"url":"https:\/\/heliontechnologies.com\/author\/alexis-merchant\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Manager of Dealer Enablement Success"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/dealership-ai-policy-template/#article","headline":"Dealership AI Use Policy: A Template for Staff Using ChatGPT and Other AI Tools","description":"An AI policy for car dealerships your staff will read: a two-page template for ChatGPT and other AI tools, with department lines and a rollout plan.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-ai-policy-template.webp","datePublished":"2026-10-12T10:13:56-04:00","dateModified":"2026-10-12T10:13:57-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/6ee62f2567da0a9d55c9714bbb395668"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-ai-policy-template/"},"articleSection":"Managed AI","inLanguage":"en-US","about":[{"@type":"Thing","name":"AI use policy for car dealerships"},{"@type":"Thing","name":"Generative AI acceptable use policy"},{"@type":"Legislation","name":"FTC Safeguards Rule (16 CFR Part 314)","url":"https://www.law.cornell.edu/cfr/text/16/314.4"}],"mentions":[{"@type":"GovernmentOrganization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"GovernmentOrganization","name":"National Institute of Standards and Technology","url":"https://www.nist.gov/"},{"@type":"Thing","name":"NIST AI Risk Management Framework","url":"https://www.nist.gov/itl/ai-risk-management-framework"},{"@type":"Organization","name":"Cox Automotive"},{"@type":"Organization","name":"National Automobile Dealers Association","url":"https://www.nada.org/"},{"@type":"CreativeWork","name":"ChatGPT"},{"@type":"CreativeWork","name":"Microsoft Copilot"},{"@type":"CreativeWork","name":"Google Gemini"}],"keywords":"ai policy for car dealerships, dealership AI use policy, AI policy template, ChatGPT policy for employees, FTC Safeguards Rule, managed AI for dealerships"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-ai-policy-template/#faq","mainEntity":[{"@type":"Question","name":"Does this really fit on two pages?","acceptedAnswer":{"@type":"Answer","text":"Two pages is plenty for most stores, and a single-point store can get it onto one. The length that matters is the approved tool list and the list of information that stays out. If your attorney adds language, ask for it as an attachment so the part your staff reads stays short."}},{"@type":"Question","name":"Why not block ChatGPT on the network and skip the policy?","acceptedAnswer":{"@type":"Answer","text":"You can block it on the store's computers, and it will still be on every phone in the building. I'd also think about what a block says to your team, which is that you took away something they found useful and gave them nothing back, and that's pretty much the recipe for a workaround. If you do block, do it alongside an approved tool and a written rule."}},{"@type":"Question","name":"Our DMS and CRM have AI built in now. Do those count?","acceptedAnswer":{"@type":"Answer","text":"They count, and each one goes on the approved list the same way any other tool would. Before it's added, I'd have somebody at the store ask the vendor in writing what data the feature sees, whether that data is used to train a model, and how long it's kept. A good vendor will have those answers ready to send, and you'll want them in a folder regardless."}},{"@type":"Question","name":"What do we do when somebody breaks it?","acceptedAnswer":{"@type":"Answer","text":"Most of the time you retrain, and how you handle the first one sets the tone for everybody watching. If the person came to you the same day, I'd thank them, sit down with your IT provider to work out what went where, and then use it as next month's practice example with the names taken out. Somebody who keeps doing it, or hides it, is an HR matter, and your handbook already covers how that goes."}},{"@type":"Question","name":"How often does an AI policy need to change?","acceptedAnswer":{"@type":"Answer","text":"Ninety days is a good rhythm, plus any time a tool is added, removed, or changes its terms. I know that sounds like a lot for a two-page document, but these products change faster than anything else in the store, and a policy written last fall is probably listing tools that have new features or new owners by now. Put the review on a calendar with somebody's name next to it."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/dealership-ai-policy-template/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

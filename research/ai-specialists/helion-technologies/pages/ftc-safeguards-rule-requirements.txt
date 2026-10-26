@@ -1,0 +1,277 @@
+URL: https://heliontechnologies.com/ftc-safeguards-rule-requirements/
+Fetched: 2026-10-26T03:58:37Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ftc-safeguards-rule-requirements/
+Content-Type: text/html
+Via: chrome-headless
+Title: FTC Safeguards Rule Requirements for Dealerships: 9 Elements
+Meta description: FTC Safeguards Rule requirements for dealerships, explained: the nine elements of 16 CFR 314.4, the 30-day breach notice, and what stores under 5,000 can skip.
+Canonical: https://heliontechnologies.com/ftc-safeguards-rule-requirements/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: FTC Safeguards Rule Requirements for Dealerships: The 9 Elements Explained
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+FTC Safeguards Rule Requirements for Dealerships: The 9 Elements Explained
+By Erik Nachbahr
+October 10, 2026 · 17 min read
+
+The FTC Safeguards Rule requires dealerships to run a written information security program with nine elements: a Qualified Individual, a risk assessment, safeguards, testing, training, vendor oversight, program updates, an incident response plan, and board reporting. Those FTC Safeguards Rule requirements sit in 16 CFR 314.4, and since May 2024 a tenth duty rides along with them, which is telling the FTC about certain breaches within 30 days.
+
+Last updated: October 10, 2026
+
+One of our security people told me something a while back that I keep turning over. We run compliance for a lot of dealers. We put the compliance meetings on their calendars. And dealers don’t show up.
+
+I get it. Month-end is coming, the service drive is backed up, and a meeting about a federal rule loses to all of it. But the rule was never about the meeting. It was written because customer financial data keeps getting stolen from businesses like yours, and because a breach does something to a dealership that no binder on a shelf can ever undo. It stops the store.
+
+We all watched that happen in June 2024. When CDK took its systems down after a cyberattack, Anderson Economic Group put dealer losses at $1.02 billion across three weeks, and that count left out ransom payments, lawsuits, and reputation. No deals. No repair orders. Paper and pens.
+
+So this is the plain-English version of what the rule asks for. Nine elements, one at a time, with what each one looks like inside a real store. I’ve spent nearly 30 years doing IT and cybersecurity for dealerships and nothing else, so I’ll also tell you where I see stores come up short, which usually isn’t where they expect. Want it on two printable pages instead? Grab the FTC Safeguards Rule checklist for dealerships.
+
+What the FTC Safeguards Rule Requires From a Dealership
+
+The FTC Safeguards Rule is a federal regulation, 16 CFR Part 314, issued under the Gramm-Leach-Bliley Act, which is why you’ll also hear people call these the GLBA Safeguards Rule requirements. It requires any financial institution under FTC jurisdiction to develop, implement, and maintain a written information security program that protects customer information with administrative, technical, and physical safeguards sized to the business.
+
+Financial institution? You sell cars. Doesn’t matter. If your store arranges financing or leases vehicles, the FTC treats it as one, and the agency spelled that out in its June 2025 FAQ for automobile dealers. The same logic reaches a truck dealer that arranges financing.
+
+None of this is new, by the way. There’s been a lighter version of the rule on the books since 2003, and for years it basically told you to be reasonable. Then in October 2021 the FTC rewrote it with an actual list of things you have to do, and after the agency extended the deadline by six months, most of that list took effect on June 9, 2023. When people talk about “the nine elements,” that list is what they’re talking about, and you can read the agency’s own version in its Safeguards Rule business guidance.
+
+The Nine Elements at a Glance
+
+Here’s the whole rule on one page, and if you only keep one piece of this post, I’d keep this table. Each row shows the paragraph of 16 CFR 314.4 it comes from, so you or your attorney can go check my work. Please do.
+
+#	ELEMENT	RULE SECTION	WHAT IT LOOKS LIKE IN A STORE
+1	Qualified Individual	314.4(a)	One named person who runs the program, in-house or outsourced
+2	Risk assessment	314.4(b)	A written look at where customer data lives and what could reach it
+3	Safeguards	314.4(c)	Eight controls, including MFA, encryption, access limits, and logging
+4	Testing and monitoring	314.4(d)	Continuous monitoring, or a yearly pen test plus scans every six months
+5	Staff training	314.4(e)	Security awareness training for everyone, and security people who stay current
+6	Service provider oversight	314.4(f)	Vetting vendors, security terms in contracts, and periodic reviews
+7	Keeping the program current	314.4(g)	Updating the program when tests, risks, or the business change
+8	Incident response plan	314.4(h)	A written plan with roles, decisions, and communications already settled, as in our incident response plan template
+9	Board reporting	314.4(i)	A written report to ownership at least once a year
+The Nine Elements, One at a Time
+1. Name a Qualified Individual
+
+Somebody has to own this, and the rule says so in its very first requirement. You designate one person to oversee and implement the program, and that person can work for you, for an affiliate, or for a service provider. The rule doesn’t name a certification and it doesn’t name a title, which I think surprises people. It’s just a person.
+
+What it does say is that handing the role to an outside firm doesn’t hand off the responsibility. If your Qualified Individual works somewhere else, you still have to name a senior person at the dealership to direct and oversee them, and the compliance obligation stays with you the whole time. I wrote about the Qualified Individual requirement back when it was first announced, and my question for dealers hasn’t changed since. Is there a name on it?
+
+2. The Written Risk Assessment
+
+I ran Helion on feel in the early years. We didn’t have metrics, I just had a sense of how things were going, and it fell apart on me. What I took from that is feel doesn’t scale.
+
+A risk assessment is the cure for feel. On paper, it names the reasonably foreseeable risks to customer information, inside your building and outside it, weighs whether today’s controls are enough, and records how each risk will be mitigated or accepted. The other eight elements are supposed to be built on top of it.
+
+Dealers file it and forget it. The regulation says to redo it “periodically” and never gives a number, so think about the store that changed its DMS last spring or picked up a second rooftop across town. Its assessment describes a business that’s gone.
+
+3. Eight Safeguards, Starting With Access
+
+An early dealer client of mine ran the technicians’ electronic dispatch on a $50 home router. It went down all the time. I talked them into a corporate-grade device at ten times the price, and the problem went away. I’ve lost deals since then to cheaper bids, and I still make the same argument.
+
+Paragraph (c) of 314.4 is the FTC making that argument for me, eight times over.
+
+Who can get in comes first. A salesperson has no business opening what only the F&I office needs, and the permissions get re-checked on a schedule. Multi-factor authentication covers anyone logging in to an information system. Plenty of dealers assume that’s a work-from-home thing. Wrong. It’s the desks in your building too. You also keep logs of what authorized users do, because that’s how you catch a real account wandering where it doesn’t belong.
+
+Then the data. Encrypted where it’s stored. Encrypted when it crosses an outside network. If there’s a spot you can’t encrypt, your Qualified Individual approves a substitute control in writing. And old customer information has to be securely disposed of within two years of its last use, unless the business or the law gives you a reason to keep it, which is awkward for any store whose DMS still holds deal files from a decade ago.
+
+The last three don’t get much attention, and they’re the ones I see skipped.
+
+Keep an inventory of the data, devices, systems, people, and facilities involved.
+Run change management, so a firewall rule added on a Tuesday doesn’t open a hole nobody remembers by Friday.
+Follow secure development practices for software you build, and have a way to judge the security of software you buy.
+
+I want to stay on that third bullet for a second, because somebody at your store has probably built a little tool with AI over a weekend, and good for them. But the day that tool touches a deal file, this rule expects secure development practices behind it. Software needs feeding and care. Who owns that?
+
+4. Testing, or Monitoring That Somebody Reads
+
+The FTC gives you two ways to do this one. You can run continuous monitoring on your information systems, or you can do a penetration test every year and vulnerability assessments at least every six months, and then again whenever something material changes in the operation.
+
+My thing is, I’d take the monitoring every time, because a pen test tells you how the place looked on the day they ran it and that’s about it. But I’ll put a warning on that. Everybody says they’ve got monitoring now, and what does that actually mean? At a lot of stores it means some software is emailing alerts to a mailbox that somebody checks on Monday morning, and by then the bad guys have had the whole weekend. It has to be actual people looking at this stuff around the clock and doing something about what they see. I wrote a post a while back on telling valuable continuous threat monitoring from the worthless kind, and I’d stand by all of it.
+
+5. Training, Including the Security Team’s
+
+The part of this everybody knows is the staff training, the phishing videos and the fake emails and all of that. That part’s easy, and it’s getting done at a lot of stores.
+
+The part nobody reads is that the same paragraph is talking about the people who run security for you. They’re supposed to be qualified, they’re supposed to keep training, and you’re supposed to be able to verify that they’re keeping up with what the criminals are doing this year and not five years ago. We had a client with 800 seats who promoted someone with one IT job under his belt, three years of low-level support work, straight into the IT Director role. And I’m not knocking the guy. My own biggest mistake over the years was promoting great technicians into leadership, so I know how that goes. But that’s a rough call when you’ve got 800 users and all of their customers’ data riding on it.
+
+6. Your Vendors Are Your Problem
+
+Here’s an exercise I like. Sit down and write out every company that touches your customers’ information, and I mean all of them, so the DMS, the CRM, the F&I menu, the digital retailing tool, and whoever does your IT. It’s always a longer list than the dealer thinks it’s going to be. For every name on that list the regulation gives you three things to do, which are to pick providers that are capable of protecting the information, to put the security expectations in the contract, and to go back and assess them periodically based on the risk they pose.
+
+The first two get done, more or less, because they happen when you sign. It’s the going back that doesn’t happen. The contract goes in a drawer and it stays there until a letter shows up with the vendor’s logo on it telling you about a breach, and then everybody wants to know who was watching. Truck dealers lived through exactly that, and we wrote up the Motility DMS breach for that reason. Newer vendor incidents go into our running log of FTC Safeguards Rule news.
+
+7. Keep It Current
+
+This one runs about a sentence in the regulation, and it says you adjust the program when your testing turns something up, when the risk assessment shifts, or when the business changes. The business change I worry about most is an acquisition. When you buy a dealership you’re also buying its risks and its problems from an IT standpoint, and what we typically see is that sellers don’t want to invest in anything once they know they’re selling. They’re not going to replace half their computers six months before closing. So you close on the store, and the program you had yesterday doesn’t describe the company you own today.
+
+8. An Incident Response Plan You’ve Rehearsed
+
+A ski instructor said something to me once on a steep run that I’ve never forgotten. He said, “You’re in it now. The only way out is through.” That’s every cyber incident I’ve ever been around. Nobody feels ready, and it doesn’t matter, because you’re in it.
+
+So write it down before that morning. Paragraph (h) wants seven things in there. I won’t list them all. Think about what your GM would be yelling across the showroom at 7 a.m. and you’ve basically got it, because it’s who decides, who calls the vendor and the insurer and the attorney and the OEM, how we fix this, and what we do differently next time.
+
+Here’s my addition, and it’s not in the rule. Practice. Get your managers in a room once a year, tell them the DMS is locked up and the phones are down, and see what they do. Give it an hour. You’ll learn more from that than from reading the plan.
+
+9. Report to the Board
+
+Once a year, minimum, somebody owes ownership a report. In writing. It comes from your Qualified Individual, and it says where the program stands and what’s gone wrong or changed, so you’d see the risk assessment, how the vendors checked out, what the testing found, any security events, and what they want you to fix. No board? Lots of dealerships don’t have one. Then it lands on the desk of the senior officer responsible for the program, and at the stores I work with that tends to be the dealer principal.
+
+Dealers don’t like that kind of stuff. I know. But think about what that report does. You’ve seen it and you’ve signed it, so “nobody told me” is off the table. I’m pretty sure that was the idea.
+
+The Tenth Requirement Nobody Counts
+
+The “nine elements” label is the FTC’s own. But 314.4 has a paragraph (j) now. It matters. Under the amendment that took effect May 13, 2024, you have to notify the FTC electronically any time unencrypted customer information belonging to 500 or more consumers is acquired without authorization. The FTC’s notice on the notification requirement puts the clock at as soon as possible, and no later than 30 days after you discover it. Scot McConnor covers that process step by step in our post on FTC Safeguards Rule breach notification.
+
+Thirty days sounds like plenty of time, and it isn’t, because you can’t report what you can’t see and you can’t count affected consumers without logs. So elements 3, 4, and 8 are really what make this tenth one possible. I get it. Nobody wants to plan for that phone call.
+
+Fewer Than 5,000 Consumers? What You Can Skip
+
+I hear this one constantly. “We’re small, so we’re exempt.” Partly true, and the partly is doing a lot of work. Section 314.6 exempts a financial institution that maintains customer information on fewer than 5,000 consumers from four specific pieces of the rule. Only those four.
+
+REQUIREMENT	UNDER 5,000 CONSUMERS	5,000 OR MORE
+Qualified Individual	Required	Required
+Written risk assessment, 314.4(b)(1)	Exempt from the written format	Required
+Safeguards, including MFA and encryption	Required	Required
+Continuous monitoring or pen testing, 314.4(d)(2)	Exempt	Required
+Training and service provider oversight	Required	Required
+Written incident response plan, 314.4(h)	Exempt	Required
+Annual board report, 314.4(i)	Exempt	Required
+
+Two cautions. The count is every consumer whose information you hold today, not just this year’s deals, and ten or fifteen years of deal jackets sitting in a DMS add up a lot faster than people expect. And being exempt from writing an incident response plan doesn’t make you exempt from incidents.
+
+Where I See Stores Come Up Short
+
+It’s rarely the technology. MFA gets turned on. Encryption gets handled. The gaps I see are in the elements that need a person to keep doing something after the project ends, which is the risk assessment nobody refreshed, the vendor nobody reviewed, the plan nobody rehearsed, and the annual report nobody wrote.
+
+A lot of stores bought compliance software to cover this. To be fair, I’m not against the software. A good platform keeps your documents organized and reminds you what’s due. But it can’t answer its own questionnaire accurately, it can’t remediate what a scan finds, and it can’t sit in the meeting. I’ve made the longer argument about whether compliance software makes you compliant, and the short answer is no. Somebody still has to do the work.
+
+That brings me back to the meetings. When the people who run your compliance can’t get so much as an hour with a decision-maker at the store, what you have is a program with an owner on paper and nobody in practice. That’s a real problem. The FTC wrote nine elements, and at least four of them only work if a human being at the dealership is paying attention. Our FTC Safeguards compliance program for dealerships is built around that, with the technical work on our side and a short list of decisions on yours.
+
+We support 2,000-plus dealerships and about 35,000 end users. The stores that hold up best under this rule are the ones where somebody shows up, and size has very little to do with it.
+
+Safeguards Rule Questions I Get From Dealer Principals
+Does the Safeguards Rule really reach a single-point store?
+Can our controller be the Qualified Individual?
+Pen test or continuous monitoring. Which one do we need?
+Our DMS vendor holds the data. Isn’t security on them?
+How often does the risk assessment have to be redone?
+What to Do With the Nine Elements
+
+Nine elements, plus the notification duty. That’s the list. None of them is exotic, and a store with decent IT probably has pieces of most of them in place already, even if nobody has ever written down which pieces or who looks after them. What’s usually missing is the proof, and the person.
+
+If you don’t know which elements you’d pass today, find out before somebody else does. Start there. Our complimentary IT and cybersecurity assessment goes through your environment against these requirements and tells you, in plain language, which of the nine you would pass today and which ones need work before anything else.
+
+The binder doesn’t protect the store. The work does.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What the FTC Safeguards Rule Requires From a Dealership
+The Nine Elements at a Glance
+The Nine Elements, One at a Time
+The Tenth Requirement Nobody Counts
+Fewer Than 5,000 Consumers? What You Can Skip
+Where I See Stores Come Up Short
+Safeguards Rule Questions I Get From Dealer Principals
+What to Do With the Nine Elements
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"FTC Safeguards Rule Requirements for Dealerships: The 9 Elements Explained","datePublished":"2026-10-10T15:27:09+00:00","dateModified":"2026-10-10T15:41:37+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/"},"wordCount":3406,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ftc-safeguards-rule-requirements-for-dealerships.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/","url":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/","name":"FTC Safeguards Rule Requirements for Dealerships: 9 Elements","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ftc-safeguards-rule-requirements-for-dealerships.webp","datePublished":"2026-10-10T15:27:09+00:00","dateModified":"2026-10-10T15:41:37+00:00","description":"FTC Safeguards Rule requirements for dealerships, explained: the nine elements of 16 CFR 314.4, the 30-day breach notice, and what stores under 5,000 can skip.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ftc-safeguards-rule-requirements-for-dealerships.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ftc-safeguards-rule-requirements-for-dealerships.webp","width":1200,"height":500,"caption":"The Safeguards Rule covers every dealership that arranges financing or leases vehicles."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ftc-safeguards-rule-requirements\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"FTC Safeguards Rule Requirements for Dealerships: The 9 Elements Explained"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ftc-safeguards-rule-requirements/#article","headline":"FTC Safeguards Rule Requirements for Dealerships: The 9 Elements Explained","description":"FTC Safeguards Rule requirements for dealerships, explained: the nine elements of 16 CFR 314.4, the 30-day breach notice, and what stores under 5,000 can skip.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ftc-safeguards-rule-requirements-for-dealerships.webp","datePublished":"2026-10-10T11:27:09-04:00","dateModified":"2026-10-10T11:41:37-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ftc-safeguards-rule-requirements/"},"articleSection":"FTC Safeguards Compliance","inLanguage":"en-US","about":[{"@type":"Legislation","name":"FTC Safeguards Rule (16 CFR Part 314)","url":"https://www.law.cornell.edu/cfr/text/16/314.4"},{"@type":"Thing","name":"Dealership information security program"}],"mentions":[{"@type":"GovernmentOrganization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"Legislation","name":"Gramm-Leach-Bliley Act"},{"@type":"Organization","name":"CDK Global"},{"@type":"Organization","name":"Anderson Economic Group"}],"keywords":"FTC Safeguards Rule requirements, GLBA Safeguards Rule, 16 CFR 314.4, Qualified Individual, dealership cybersecurity"}
+{"@context":"https://schema.org","@type":"ItemList","@id":"https://heliontechnologies.com/ftc-safeguards-rule-requirements/#nine-elements","name":"The nine elements of the FTC Safeguards Rule (16 CFR 314.4)","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"name":"Name a Qualified Individual"},{"@type":"ListItem","position":2,"name":"The Written Risk Assessment"},{"@type":"ListItem","position":3,"name":"Eight Safeguards, Starting With Access"},{"@type":"ListItem","position":4,"name":"Testing, or Monitoring That Somebody Reads"},{"@type":"ListItem","position":5,"name":"Training, Including the Security Team's"},{"@type":"ListItem","position":6,"name":"Your Vendors Are Your Problem"},{"@type":"ListItem","position":7,"name":"Keep It Current"},{"@type":"ListItem","position":8,"name":"An Incident Response Plan You've Rehearsed"},{"@type":"ListItem","position":9,"name":"Report to the Board"}]}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/ftc-safeguards-rule-requirements/#faq","mainEntity":[{"@type":"Question","name":"Does the Safeguards Rule really reach a single-point store?","acceptedAnswer":{"@type":"Answer","text":"If your store arranges financing or leases vehicles, the Safeguards Rule applies to it, whether you have one rooftop or forty. One store counts. Size changes how much of the rule you carry. A store holding information on fewer than 5,000 consumers is excused from four requirements, and the rest still apply in full."}},{"@type":"Question","name":"Can our controller be the Qualified Individual?","acceptedAnswer":{"@type":"Answer","text":"The rule sets no title or certification for the Qualified Individual, so your controller can legally hold the role. Whether they should is another matter. That person has to oversee access controls, testing, vendors, and incident response, and then report on all of it in writing. Most controllers I know already have a full-time job. Many stores hand the role to an outside security team and keep a senior person in-house to oversee them, which the rule allows."}},{"@type":"Question","name":"Pen test or continuous monitoring. Which one do we need?","acceptedAnswer":{"@type":"Answer","text":"One or the other: continuous monitoring of your systems, or a penetration test every year plus vulnerability assessments at least every six months. I'd take monitoring. A test tells you how things looked on one day."}},{"@type":"Question","name":"Our DMS vendor holds the data. Isn't security on them?","acceptedAnswer":{"@type":"Answer","text":"Responsibility for customer information stays with the dealership even when a vendor stores it. The rule makes you choose capable providers, put security terms in the contract, and assess them periodically. Read that twice. And remember where the data actually gets touched. It's on your PCs, your network, and your people's logins, all day long, and none of that belongs to the vendor."}},{"@type":"Question","name":"How often does the risk assessment have to be redone?","acceptedAnswer":{"@type":"Answer","text":"16 CFR 314.4 says \"periodically\" and never names an interval. I'd redo it every year, and any time the store changes in a material way. A new DMS, an acquired rooftop, a new line of business, a wave of AI tools on the sales floor. Any of those can make last year's assessment wrong. Pick a date."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/ftc-safeguards-rule-requirements/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

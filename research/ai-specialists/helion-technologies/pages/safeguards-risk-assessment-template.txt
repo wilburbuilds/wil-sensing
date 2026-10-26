@@ -1,0 +1,398 @@
+URL: https://heliontechnologies.com/safeguards-risk-assessment-template/
+Fetched: 2026-10-26T03:51:43Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/safeguards-risk-assessment-template/
+Content-Type: text/html
+Via: chrome-headless
+Title: FTC Safeguards Rule Risk Assessment Template | Helion
+Meta description: Free FTC Safeguards Rule risk assessment template for dealers, built on 16 CFR 314.4(b), with a scoring grid, a sample register and Word and PDF downloads.
+Canonical: https://heliontechnologies.com/safeguards-risk-assessment-template/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: FTC Safeguards Rule Risk Assessment Template for Dealers
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+FREE TEMPLATE FOR DEALERS
+
+FTC Safeguards Rule Risk Assessment Template for Dealers
+
+A fill-in risk assessment built on what 16 CFR 314.4(b) asks for, with a scoring grid and a sample register from a dealership.
+
+Request a Complimentary Assessment →
+
+Or download the template as an editable Word file or a printable PDF.
+
+An FTC Safeguards Rule risk assessment template gives a dealership a written way to find where customer information lives, score each risk, and record whether it gets fixed or accepted, as 16 CFR 314.4(b) requires. Fill it in once a year with your managers.
+
+Last updated: October 20, 2026
+
+Where customer data lives
+Threats you can see coming
+A score for every risk
+Fix it or sign off on it
+A date for the next one
+A written, dated assessment
+A risk assessment decides what the rest of the program does.
+
+Ask a general manager where the dealership keeps customer information, and the answer usually starts and ends with the DMS. Then the controller brings up the credit bureau portal, the F&I director remembers the e-contracting platform, and somebody points out the boxes of old deal jackets sitting in the parts mezzanine. That conversation is most of a risk assessment. The rest is scoring. CDK Global’s 2024 study found that 35% of auto dealers had a cyberattack or incident that year, so the exercise isn’t theoretical.
+
+This template walks through that conversation in ten sections, built on what section 314.4(b) of the FTC Safeguards Rule asks a written risk assessment to contain. It’s free. Change anything you like. It isn’t legal advice. The assessment is the base of your wider dealership cybersecurity program and your Safeguards compliance, because the safeguards, the testing and the training are all supposed to follow from what it finds.
+
+One rule before you start. A risk nobody wrote down is a risk nobody owns.
+
+Which Dealerships Need a Written Risk Assessment
+
+Any dealership that arranges financing or leasing counts as a financial institution under the Gramm-Leach-Bliley Act, so the FTC Safeguards Rule applies to it, whether it sells cars or heavy trucks and whether it runs one rooftop or twenty. Same test for everyone. The risk assessment sits in paragraph (b) of section 314.4. Everything else in the program is supposed to be built on top of it.
+
+Size changes the paperwork, not the job. Under section 314.6 of the rule, a dealership that keeps customer information on fewer than 5,000 consumers doesn’t have to put its assessment in writing. It still has to base its safeguards on one, and an assessment that only lives in somebody’s head is a hard thing to hand over when a lender, an insurer or a new general manager asks for it.
+
+A one-page version still beats a memory.
+
+Fewer than 5,000 consumers
+
+Writing the assessment down is optional for you, along with the written incident response plan, the board report and the fixed testing schedule. Basing your safeguards on an assessment of your risks is not optional.
+
+A short version of this template is worth the hour.
+
+5,000 consumers or more
+
+The assessment has to be written and has to include the three sets of criteria in paragraph (b)(1). A store that has financed cars for a few years usually crosses this line once the old deal files are counted.
+
+Fill in all ten sections.
+
+IN THE RULE
+
+What the FTC Safeguards Rule Requires in a Risk Assessment
+
+Paragraph (b) of section 314.4 asks for seven things. The format is up to you. Here’s each one, what it looks like at a dealership, and where it sits in the template below.
+
+What the rule asks for
+	What it means at your store	Where it is in the template
+Identify foreseeable risks, 314.4(b)	The inside and outside threats a dealership can reasonably see coming, from a phished F&I login to a breach at a vendor.	Sections 2 and 3
+Assess the safeguards you have, 314.4(b)	Whether the controls already in place are enough for each risk, not only whether they exist.	Sections 5 and 6
+Criteria for rating risks, 314.4(b)⁠(1)⁠(i)	Your own scale for how likely and how damaging a risk is, written down before anybody scores anything.	Section 4
+Criteria for confidentiality, integrity and availability, 314.4(b)⁠(1)⁠(ii)	How you judge whether customer data stays private, stays accurate and stays reachable when the store needs it.	Section 5
+Mitigate or accept, 314.4(b)⁠(1)⁠(iii)	What happens to each risk, who owns the fix, and who signed off on any risk you chose to live with.	Sections 7 and 9
+Put it in writing, 314.4(b)⁠(1)	A dated document with your answers in it. Stores under 5,000 consumers are exempt from this part only.	The whole template
+Reassess periodically, 314.4(b)⁠(2)	A fresh look at the risks and the safeguards on a schedule you set, and again after big changes.	Section 10
+
+Wording from 16 CFR 314.4(b), as of October 2026. For the other eight elements, read the nine FTC Safeguards Rule requirements explained.
+
+THE TEMPLATE
+
+The Dealership Risk Assessment Template
+
+Ten sections, in the order you’d work through them. Book two hours with your general manager, your controller, your F&I director and whoever runs IT, and walk the building before anybody scores a thing. Use pencil first.
+
+Rather work offline? Download the editable Word version or the printable PDF. If your IT lead wants the long federal reference behind templates like this one, NIST’s Guide for Conducting Risk Assessments, SP 800-30 Revision 1, is free to read.
+
+WHERE HELION FITS
+
+For our clients, section 9 already has dates on it. Human-led penetration testing runs every year, vulnerability monitoring runs twice a year and every vendor gets a risk rating. Want a hand with the rest? Start with a complimentary IT and cybersecurity assessment.
+
+Risk assessment
+Covers 16 CFR 314.4(b), (b)(1)(i) through (iii) and (b)(2). Owner is your Qualified Individual. Date it and keep every version.
+
+1 Scope, owner and date
+
+Start with the dull part, because an assessment with no date and no owner is hard to stand behind later. Name the stores and departments it covers, and name your Qualified Individual as the owner, since the rule puts that person in charge of the whole information security program. Then list who sat in the room. Names, not titles. A controller, an F&I director and a service director will each name risks the other two never think about.
+
+Stores and departments covered
+Owner (Qualified Individual)
+People who took part
+Assessment date
+
+Covers 314.4(b) and (b)(1).
+
+2 Where customer information lives
+
+Keep going past the DMS. The CRM holds customer information, and so do the F&I menu, the credit bureau and lender portals, email, the scanned deal jackets on the file server and the boxes of old deal files in the back. The rule’s definition of an information system even takes in phone systems that hold customer information, which matters if your BDC records its calls. Walk the building with a clipboard. You’ll find a shared folder or a filing cabinet nobody listed. Every store has one.
+
+System or place
+Customer information it holds
+Who can get in
+Vendor that runs it
+
+Also feeds the inventory in 314.4(c)(2).
+
+3 Threats you can see coming
+
+The rule asks for reasonably foreseeable risks, inside the store and outside it, which is a sensible limit, since nobody is scoring meteor strikes. Outside threats at a dealership look like a phishing email built to steal an accounting login, ransomware on the file server, or a breach at a vendor that holds your data. The inside ones are quieter. They’re easier to miss. Think of shared logins in the F&I office, a salesperson who leaves and takes a CRM export along, or deal jackets left on a desk overnight. One line per threat is plenty.
+
+Outside threats
+Inside threats
+Recent incidents or near misses
+
+Covers 314.4(b).
+
+4 Your scoring criteria
+
+Decide how you’ll score before you score anything, or every risk ends up a medium. Keep the scale small. A three-point scale works for most stores, with likelihood running from unlikely to likely and impact from minor to severe, and the score is one multiplied by the other. Write down what each word means at your store. Severe might be any loss of customer records or more than a day without the DMS, while likely might be anything that has happened here, or at a store you know, in the last two years. The scoring grid below shows one way to set it up.
+
+What each likelihood level means
+What each impact level means
+Score that counts as high
+Who approved these criteria
+
+Covers 314.4(b)(1)(i).
+
+5 Confidentiality, integrity and availability
+
+For each system on your list, ask whether the wrong person could see the data, whether someone could change it without anybody noticing, like a payoff amount or the bank details on a vendor invoice, and how long the store could run without it. That last one is availability. A 2023 CDK Global study put the average dealership downtime after an attack at 3.4 weeks, which is a long time to write repair orders by hand. Then check the controls you already have. Be honest about whether they’re enough.
+
+Confidentiality rating
+Integrity rating
+Availability rating
+Existing controls, and are they enough
+
+Covers 314.4(b)(1)(ii).
+
+6 The risk register
+
+One row per risk, sorted by score, so the 9s land at the top. The sample register below shows five rows filled in.
+
+Risk and the asset it touches
+Likelihood, impact and score
+Existing controls
+Gap that’s left
+
+See the sample register below.
+
+7 Mitigate or accept
+
+Every risk gets one of two decisions. Both get written down. Mitigate means a named person, a specific fix and a due date. Accept means someone with real authority signs the line and adds a sentence on why. That’s an owner or a general manager, not whoever was holding the pen. There are limits, though. Some safeguards are required however a risk scores, like multi-factor authentication and encryption of customer information, unless your Qualified Individual approves an equivalent control in writing.
+
+Decision for each risk
+Fix owner and due date
+Accepted by, and why
+Date signed
+
+Covers 314.4(b)(1)(iii).
+
+8 Vendors that hold your data
+
+Your DMS provider, your CRM, the credit bureau connection, the e-contracting platform and your IT company all hold customer information or the keys to it, and the rule asks you to assess service providers based on the risk they present. Vendors do get hit. A 2025 ransomware attack on Motility Software Solutions, a DMS provider for truck dealers, ended with notification letters going to 766,670 people, and our write-up of the Motility DMS breach covers what dealers took from it. When CDK Global went down in June 2024, publicly traded dealer groups described the disruption in SEC filings. List every vendor, what it holds and when you last checked its safeguards. Ask for proof, not promises.
+
+Vendor
+What it holds or can reach
+Security terms in the contract
+Last review date
+
+Covers 314.4(f)(3).
+
+9 Where the results go
+
+An assessment that sits in a drawer doesn’t do much, and the rule ties the rest of the program to it. Your safeguards are meant to control the risks it finds, the yearly penetration test is scoped from it if you test rather than monitor continuously, your vulnerability scans are based on it, your security awareness training gets updated to reflect it, and the Qualified Individual’s written report to the board or owner covers it. So this section is a short list of what changed because of the assessment. If the answer is nothing, that’s a finding too.
+
+Safeguards added or changed
+Pen test and scan scope
+Training topics
+Board or owner report date
+
+Feeds 314.4(c), (d)(2), (e)(1) and (i).
+
+10 Reassess
+
+The rule says to reassess periodically and leaves the schedule to you. We’d do it at least once a year, and again whenever something big changes, like buying a store, a DMS conversion, a new vendor holding customer data, or a security event at your store or at one of your vendors. Keep every old version. Next year’s assessment goes faster with this year’s sitting right there, and the comparison shows anyone who asks that the program actually moves.
+
+Reassessment owner
+Changes that trigger an early one
+Next assessment date
+
+Covers 314.4(b)(2) and (g).
+
+SECTION 4, UP CLOSE
+
+How to Score a Risk at Your Dealership
+
+Three levels of likelihood times three levels of impact gives every risk a score from 1 to 9. It’s crude on purpose. A room that argues for an hour over whether something is a 6 or a 7 has lost the point, which is getting the riskiest few things in front of the people who can pay for the fix.
+
+Set the cut-offs first. Here’s how we’d draw them.
+
+Likelihood down the side, impact across the top. Multiply them.
+
+	Minor (1)	Serious (2)	Severe (3)
+Likely (3)	3	6	9
+Possible (2)	2	4	6
+Unlikely (1)	1	2	3
+6 or 9. Fix it, with a name and a date.
+3 or 4. Fix it, or have the general manager sign off on living with it.
+1 or 2. Accept it in writing and look again next year.
+
+Sample risk register
+Five risks we often see at dealerships, scored on the grid. Yours will differ.
+
+9 A phished email login in accounting or F&I
+
+Likely, because phishing reaches every store, and severe, because one mailbox can hold credit applications and wiring instructions. The existing control is multi-factor authentication on some accounts but not all of them. The decision is to mitigate, with MFA on every account by month end, owned by IT.
+
+Likely, severe. Mitigate.
+
+6 Ransomware on the file server with the scanned deal jackets
+
+Possible, and severe. Nightly backups run, but nobody has tried a full restore since the server went in. The decision is to mitigate with a test restore this quarter and a backup copy kept offline, owned by the controller and IT together.
+
+Possible, severe. Mitigate.
+
+6 A breach at a vendor that holds customer data
+
+Possible, and severe, since one vendor breach can reach every customer at once. The contract has no security terms in it. The decision is to mitigate by asking the vendor for its safeguards now and adding security terms at renewal. Our guide to evaluating security vendors lists the questions worth asking.
+
+Possible, severe. Mitigate.
+
+4 A departing salesperson exports the CRM
+
+Possible, and serious. Logins get turned off when somebody remembers to do it. The decision is to mitigate with a same-day offboarding checklist that the office manager owns, starting with the next person who gives notice.
+
+Possible, serious. Mitigate.
+
+2 Deal jackets left on desks overnight
+
+Unlikely, because the building is locked and alarmed after close, and serious if it ever happened. The decision is to accept, with a clean-desk reminder at the next sales meeting, signed off by the general manager.
+
+Unlikely, serious. Accept in writing.
+
+Who’s Behind This Risk Assessment Template
+2,000+
+Automotive and heavy truck dealerships
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+1997
+Working only with dealerships since
+
+Helion Technologies has worked only with automotive and heavy truck dealerships since 1997. Our security operations center runs on live, US-based analysts watching around the clock, and the same team runs day-to-day IT, so the risks in your register and the people watching for them sit with one team instead of two vendors. A template gets the thinking on paper. Testing tells you whether the thinking was right.
+
+How to Use This Risk Assessment Template
+1
+Get the right people in one room
+
+General manager, controller, F&I director, service director and IT. Two hours, phones face down.
+
+2
+Walk the store before you score
+
+Open every filing cabinet and shared folder that holds customer data. Section 2 nearly fills itself in.
+
+3
+Score it, then decide
+
+Use the grid, sort by score, and put a name and a date, or a signature, on every row.
+
+4
+Date it and book the next one
+
+File it with the old versions and put the next assessment on the calendar before anyone leaves the room.
+
+More on Risk Assessments and the Safeguards Rule
+
+Each of these goes deeper on one part of the assessment.
+
+FTC Safeguards compliance
+The managed program that keeps every element of the rule current.
+→
+FTC Safeguards Rule checklist
+All nine elements, with the proof to keep for each one.
+→
+The nine Safeguards Rule requirements
+Each element of 16 CFR 314.4 in plain English.
+→
+Incident response plan template
+The written plan for the day a risk turns into an incident.
+→
+Penetration testing
+Human-led testing of what an attacker could reach.
+→
+Steps to a cyber risk assessment
+Our earlier walk-through of the assessment process.
+→
+Risk-based compliance
+Letting the assessment decide where the budget goes.
+→
+Security awareness training
+Training that changes when your risks do.
+→
+Dealership cybersecurity
+Around-the-clock monitoring from live, US-based analysts.
+→
+IT and cybersecurity assessment
+A complimentary review of where your store stands today.
+→
+Common Questions
+
+WANT A SECOND SET OF EYES?
+
+Bring your finished register to a complimentary IT and cybersecurity assessment. We’ll set it next to what we find on your network.
+
+What should an FTC Safeguards Rule risk assessment include?
+How often does a dealership need a risk assessment?
+Do small dealerships need a written risk assessment?
+Who should do the risk assessment at a dealership?
+What’s the difference between a risk assessment and a penetration test?
+Can a dealership accept a risk instead of fixing it?
+Is a free template enough for compliance?
+
+Some rows in your register will need more than a pencil, and a complimentary assessment is a good way to find out which ones before an attacker does.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/","url":"https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/","name":"FTC Safeguards Rule Risk Assessment Template | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/safeguards-risk-assessment-template.webp","datePublished":"2026-10-20T15:42:12+00:00","dateModified":"2026-10-20T15:42:13+00:00","description":"Free FTC Safeguards Rule risk assessment template for dealers, built on 16 CFR 314.4(b), with a scoring grid, a sample register and Word and PDF downloads.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/safeguards-risk-assessment-template.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/safeguards-risk-assessment-template.webp","width":1200,"height":630,"caption":"FTC Safeguards Rule risk assessment template for dealers, from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/safeguards-risk-assessment-template\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"FTC Safeguards Rule Risk Assessment Template for Dealers"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/","url":"https://heliontechnologies.com/safeguards-risk-assessment-template/","name":"FTC Safeguards Rule Risk Assessment Template for Dealers","description":"Free FTC Safeguards Rule risk assessment template for dealers, built on 16 CFR 314.4(b), with a scoring grid, a sample register and Word and PDF downloads.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/safeguards-risk-assessment-template.webp","width":1200,"height":630},"about":[{"@type":"Thing","name":"Risk assessment under the FTC Safeguards Rule","description":"The written risk assessment an automotive or heavy truck dealership bases its information security program on, as required by the FTC Safeguards Rule, 16 CFR 314.4(b)."}],"mentions":[{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR Part 314","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314"},{"@type":"Legislation","name":"Gramm-Leach-Bliley Act","legislationIdentifier":"15 U.S.C. 6801 et seq.","legislationJurisdiction":"US"},{"@type":"CreativeWork","name":"NIST SP 800-30 Revision 1, Guide for Conducting Risk Assessments","url":"https://csrc.nist.gov/pubs/sp/800/30/r1/final","publisher":{"@type":"Organization","name":"National Institute of Standards and Technology"}},{"@type":"Organization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"}],"hasPart":[{"@type":"WebPageElement","name":"The dealership risk assessment template","url":"https://heliontechnologies.com/safeguards-risk-assessment-template/#template"},{"@type":"WebPageElement","name":"How to score a risk, with a sample risk register","url":"https://heliontechnologies.com/safeguards-risk-assessment-template/#scoring"},{"@type":"WebPageElement","name":"What the FTC Safeguards Rule requires in a risk assessment","url":"https://heliontechnologies.com/safeguards-risk-assessment-template/#requirements"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"ItemList","@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/#sections","name":"Sections of the dealership risk assessment template","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"name":"Scope, owner and date"},{"@type":"ListItem","position":2,"name":"Where customer information lives"},{"@type":"ListItem","position":3,"name":"Threats you can see coming"},{"@type":"ListItem","position":4,"name":"Your scoring criteria"},{"@type":"ListItem","position":5,"name":"Confidentiality, integrity and availability"},{"@type":"ListItem","position":6,"name":"The risk register"},{"@type":"ListItem","position":7,"name":"Mitigate or accept"},{"@type":"ListItem","position":8,"name":"Vendors that hold your data"},{"@type":"ListItem","position":9,"name":"Where the results go"},{"@type":"ListItem","position":10,"name":"Reassess"}]},{"@type":"DigitalDocument","@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/#docx","name":"FTC Safeguards Rule Risk Assessment Template for Dealers (Word)","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/safeguards-risk-assessment-template-dealerships.docx","encodingFormat":"application/vnd.openxmlformats-officedocument.wordprocessingml.document","description":"Editable Word version of the Helion Technologies risk assessment template for dealerships, with an asset inventory, a scoring grid, a risk register and a vendor sheet.","isAccessibleForFree":true,"inLanguage":"en-US","publisher":{"@id":"https://heliontechnologies.com/#organization"},"isPartOf":{"@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/"}},{"@type":"DigitalDocument","@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/#pdf","name":"FTC Safeguards Rule Risk Assessment Template for Dealers (PDF)","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/safeguards-risk-assessment-template-dealerships.pdf","encodingFormat":"application/pdf","description":"Printable PDF version of the Helion Technologies risk assessment template for dealerships, covering what 16 CFR 314.4(b) asks for.","isAccessibleForFree":true,"inLanguage":"en-US","publisher":{"@id":"https://heliontechnologies.com/#organization"},"isPartOf":{"@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/"}},{"@type":"Service","@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/#service","name":"Helion Dealership Cybersecurity and Safeguards Compliance","serviceType":"Managed cybersecurity and compliance support for automotive and heavy truck dealerships","description":"Helion Technologies runs managed cybersecurity and FTC Safeguards compliance for automotive and heavy truck dealerships, including yearly human-led penetration testing, vulnerability monitoring twice a year and vendor risk ratings, with a 98% client retention rate.","url":"https://heliontechnologies.com/safeguards-risk-assessment-template/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion cybersecurity and compliance services for dealerships","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Penetration testing","url":"https://heliontechnologies.com/penetration-testing/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/#faq","url":"https://heliontechnologies.com/safeguards-risk-assessment-template/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What should an FTC Safeguards Rule risk assessment include?","acceptedAnswer":{"@type":"Answer","text":"A Safeguards Rule risk assessment should identify foreseeable risks to customer information, rate them against written criteria, judge whether your current safeguards are enough, and record whether each risk gets fixed or accepted. That's the substance of 16 CFR 314.4(b). The template above turns it into ten sections you can fill in at one sitting. Start with section 2."}},{"@type":"Question","name":"How often does a dealership need a risk assessment?","acceptedAnswer":{"@type":"Answer","text":"Once a year is what we'd recommend, though the rule itself only says periodically. Do another after a material change, such as an acquisition, a new rooftop, a DMS conversion or a security event. Penetration tests and vulnerability scans run on their own schedule under paragraph (d)(2), and both are supposed to be scoped from the assessment. Book the next one now."}},{"@type":"Question","name":"Do small dealerships need a written risk assessment?","acceptedAnswer":{"@type":"Answer","text":"Not in writing, if the dealership keeps customer information on fewer than 5,000 consumers. Section 314.6 removes the written requirement, but the program still has to rest on a risk assessment. We'd write a short one anyway. It's the easiest way to show the work was done."}},{"@type":"Question","name":"Who should do the risk assessment at a dealership?","acceptedAnswer":{"@type":"Answer","text":"Your Qualified Individual owns it, whether that person is on staff or works for an outside provider. The people who know where customer information really goes belong in the room too, usually the controller, the F&I director, the service director and IT. An outside firm can run the meeting. Your managers know where the paper is."}},{"@type":"Question","name":"What's the difference between a risk assessment and a penetration test?","acceptedAnswer":{"@type":"Answer","text":"Short version, the risk assessment decides what matters and the penetration test checks whether an attacker could actually reach it. The rule links them, because the yearly pen test is scoped from the risks the assessment finds. Our penetration testing page explains how a human-led test works at a dealership."}},{"@type":"Question","name":"Can a dealership accept a risk instead of fixing it?","acceptedAnswer":{"@type":"Answer","text":"Yes, the rule expects some risks to be accepted, as long as the decision is written down. Paragraph (b)(1)(iii) asks how each risk will be mitigated or accepted. Have the owner or general manager sign the acceptance with a sentence on why. Keep it on file. Required safeguards like multi-factor authentication can't be accepted away, though."}},{"@type":"Question","name":"Is a free template enough for compliance?","acceptedAnswer":{"@type":"Answer","text":"It's a start, not the finish. A filled-in template shows you thought about your risks, while compliance also takes the safeguards, the testing, the training and the yearly report that follow from it, and no template can tell you what's actually on your network. Use it to get the thinking on paper, then let a real assessment check the answers."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/safeguards-risk-assessment-template/#howto","name":"How to use the dealership risk assessment template","description":"Four steps to turn the template into a written FTC Safeguards Rule risk assessment for a dealership.","step":[{"@type":"HowToStep","position":1,"name":"Get the right people in one room","text":"General manager, controller, F&I director, service director and IT. Two hours, phones face down."},{"@type":"HowToStep","position":2,"name":"Walk the store before you score","text":"Open every filing cabinet and shared folder that holds customer data. Section 2 nearly fills itself in."},{"@type":"HowToStep","position":3,"name":"Score it, then decide","text":"Use the grid, sort by score, and put a name and a date, or a signature, on every row."},{"@type":"HowToStep","position":4,"name":"Date it and book the next one","text":"File it with the old versions and put the next assessment on the calendar before anyone leaves the room."}]}]}
+

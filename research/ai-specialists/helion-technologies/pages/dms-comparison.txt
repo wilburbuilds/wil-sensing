@@ -1,0 +1,300 @@
+URL: https://heliontechnologies.com/dms-comparison/
+Fetched: 2026-10-26T03:52:53Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dms-comparison/
+Content-Type: text/html
+Via: chrome-headless
+Title: DMS Comparison: CDK, Reynolds, Tekion, Dealertrack | Helion
+Meta description: A DMS comparison for car dealerships from the IT side. CDK, Reynolds, Tekion and Dealertrack on hosting, data access, integrations, phones and network.
+Canonical: https://heliontechnologies.com/dms-comparison/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: DMS Comparison: CDK vs Reynolds vs Tekion vs Dealertrack
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+DMS COMPARISON
+
+DMS Comparison: CDK vs Reynolds vs Tekion vs Dealertrack
+
+An IT provider’s view of four dealer management systems, and the network, phone and data work each one hands to the people who keep your stores running.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+This DMS comparison for car dealerships looks at CDK, Reynolds, Tekion and Dealertrack from the IT side. All four run the core of a franchised store. The differences that land on IT are hosting, third-party data access, integrations and what else each vendor sells you.
+
+Last updated: October 15, 2026
+
+Internet circuits and failover
+Phones and network contracts
+Who can reach your data
+Third-party integrations
+User access and security
+Whichever DMS you pick sits on top
+The logo on the DMS changes. The network under it doesn’t.
+
+Erik Nachbahr, who founded Helion Technologies in 1997, sums up what most DMS comparisons leave out with one line about the invoice. “CDK will provide phone systems, they’ll provide network.” Plenty of stores have paid for all of it on one bill for so long that nobody remembers those were ever separate purchases. That’s the bundle. A DMS decision is the moment to look at each of those lines on its own. Moving from CDK to Tekion? Here’show to rethink the phones and network in that move.
+
+Search for a DMS comparison and you’ll mostly find feature grids and software review sites. Very little of it covers the circuits, the phones, the data connections and the user accounts that every one of these systems depends on, so this page does, for dealers weighing our DMS transition support or our Tekion enablement services. The demo won’t tell you which of the 10+ vendors in a typical store loses its data feed on cutover weekend. We will.
+
+Full disclosure. Helion is a Tekion Certified Partner, and we also support stores running CDK, Reynolds and Dealertrack. So we don’t rank them. Everything below is what each company publishes about itself.
+
+Data Access Is the DMS Question That Grew Up With AI
+
+Every AI tool a dealer gets pitched this year, from a service scheduling assistant to a desking add-on to a voice agent that books appointments, has to read DMS data and sometimes write it back. How that connection gets approved, what it costs and how it gets shut off is now an IT question as much as a software one. It’s both now.
+
+Erik’s view, after decades of wiring vendors into dealer systems, comes down to control. Is there a real, customer-facing API? Does the dealer decide which vendors get in? Those two answers tell you most of what you need.
+
+All four companies publish a program for third-party access, and the programs don’t work the same way. Ask early. Read each one’s terms before the AI pitch, not after, and keep a written list, updated whenever a vendor is added or dropped, of every vendor that holds a connection today, because most stores can’t produce that list on the first ask. If AI is why you’re asking, our managed AI page covers the governed side.
+
+Your data. Your call on who reads it.
+
+CDK
+
+Offers vendors its APIs, managed data services and the Fortellis platform, which CDK describes as a secure platform with APIs and an app marketplace.
+
+Ask which apps already connect to your store.
+
+Dealertrack
+
+Built with Opentrack, which Dealertrack says lets partners integrate and access data, with 275+ certified vendors.
+
+Ask whether your vendors are certified.
+
+Reynolds
+
+Runs the Reynolds Certified Interface program. Third parties apply and go through a certification process before they connect. Our Tekion vs Reynolds and Reynolds comparison goes deeper.
+
+Ask for the current RCI participant list.
+
+Tekion
+
+Its Automotive Partner Cloud offers APIs and webhooks, with self-service controls Tekion says put partners and dealers in charge of their data.
+
+Ask who on your team holds those controls.
+
+SIDE BY SIDE
+
+A DMS Comparison for Car Dealerships, Line by Line
+
+Listed alphabetically. Every cell comes from the company’s own site or filings as of October 2026, and it’s what each one says about itself. Confirm the details with the vendor before you sign anything.
+
+Topic
+	CDK	Dealertrack	Reynolds	Tekion
+Company	Spun off from ADP’s dealer services business in 2014. Owned by Brookfield Business Partners since 2022.	Part of Cox Automotive, a subsidiary of the family-owned Cox Enterprises, based in Atlanta.	Headquartered in Dayton, Ohio. Began as a forms printer in 1866 and has served dealers since 1927.	Headquartered in Pleasanton, California. Founded in 2016 by Jay Vijayan and Guru Sankararaman.
+DMS platform	CDK Drive, part of its Dealership Xperience Platform.	Dealertrack DMS.	ERA-IGNITE, the foundation of its Retail Management System.	Automotive Retail Cloud (ARC), with the DMS and other dealership software on one platform.
+Where it runs	Hosted in CDK’s own Tier IV data centers.	Described as a cloud-based DMS.	Hosting options aren’t described on its product pages. Confirm them with Reynolds.	Described as cloud-native.
+Third-party access	Fortellis, plus CDK APIs and managed data services.	Opentrack, with 275+ certified vendors.	Reynolds Certified Interface (RCI).	Automotive Partner Cloud, with APIs and webhooks.
+IT, phones and network	Sells network, security and communication services, including the CDK Voice Connect cloud phone system.	None listed on its DMS pages.	Sells IT management, network management and remote help desk services.	Calling and texting inside ARC come through partners such as GoTo and CallRevu.
+
+Sources: CDK DMS, CDK Network & Communication Services, Dealertrack DMS, Cox Automotive, Reynolds and Reynolds, Reynolds network and security, Tekion and Tekion ARC.
+
+BEFORE YOU SIGN
+
+Six IT Questions to Ask Every DMS Vendor
+
+Feature demos are built to impress. These questions are built to be answered in writing, by all four vendors, in the same format, so you can lay the answers next to each other and see the IT work behind each proposal. Ask all six.
+
+Want that IT work priced for your stores? Request a price quote.
+
+WHERE HELION FITS
+
+The network, devices, phones, security and Safeguards file under the DMS, at every rooftop, on whichever platform you choose.
+
+Dealership DMS vendor review
+Same six questions for all four
+
+1 What else is on the DMS invoice?
+
+Phones, circuits, firewalls, Wi-Fi and help desk services can all ride on a DMS bill, and those contracts usually carry their own terms and end dates. Check every one. Whichever DMS you choose, a DMS decision is the natural time to re-bid each of them on its own merits.
+
+Highlight every line that isn’t the DMS itself.
+
+2 How does a new vendor get access to our data?
+
+Ask how a connection is requested and approved, who pays for it, how fast it can be switched off and what a vendor is allowed to write back into your deal, customer and repair order records. Then ask for the list of every third party connected to your store today. Lists go stale fast.
+
+Keep the connection list in your vendor file.
+
+3 Where does it run, and what happens when the circuit drops?
+
+A hosted DMS makes the internet circuit part of the system. No circuit, no DMS. Plan a second circuit from a different carrier with automatic failover, and ask each vendor what it needs from your network. Our Tekion network requirements guide shows what that list looks like for one platform.
+
+Unplug the main circuit on a Tuesday and watch.
+
+4 Which of our integrations are already certified?
+
+F&I menus, credit bureaus, OEM parts ordering, payroll, the CRM and the phone system all connect to the DMS. Ask each of those vendors whether it’s in the new platform’s program today, not on a roadmap. Roadmaps slip.
+
+Get the certification in writing.
+
+5 Which devices have to change?
+
+Impact printers in accounting, laser printers in the F&I office, signature pads, check scanners and label printers in parts each need a driver, a setting or a replacement. Accounting’s printer counts too. Old PCs slow down any system, so check their age before go-live.
+
+Test every printer with a real document.
+
+6 How do user access and the Safeguards file change?
+
+Build roles from today’s org chart, turn on multi-factor authentication for every user and remove accounts for people who’ve left. Old logins linger. The FTC Safeguards Rule also expects you to oversee the DMS vendor as a service provider.
+
+Ask how your data comes out if you ever leave.
+
+How Much IT Work Each DMS Decision Puts on Your Stores
+
+The dots show how much of the IT work lands on the store’s side.
+
+1
+Renew and re-bid the extras
+
+Keep the DMS you run, and use the renewal to price phones, circuits and support separately.
+
+2
+Switch one rooftop first
+
+New integrations, device checks, a phone plan and user access rebuilt, proven at a single store.
+
+3
+Move the whole group
+
+The same work at every store, sequenced in waves, with each wave learning from the last.
+
+There’s no wrong answer on this page. Size changes the math. A single-point store with one office manager who also runs payroll weighs these very differently from a dealer group with its own IT director (the case for co-managed IT), four OEMs and two DMS platforms already running side by side after an acquisition. Our DMS conversion checklist breaks the switch into phases.
+
+What Helion Brings to a DMS Decision
+82 sec
+Average time to reach a support agent
+98%
+Client retention rate
+2,000+
+Automotive and heavy truck dealerships
+1997
+Working only with dealerships since
+
+Across that many stores we’ve seen every one of these platforms go in, come out and get renewed, and the things that break on cutover weekend are rarely the DMS itself. It’s the phone tree still routing calls to the old system, the credit bureau feed that nobody remembered to re-point, and the check scanner in the business office that worked fine on Friday and won’t talk to anything on Monday morning. Plain stuff. It still stops a deal.
+
+How Helion Handles the IT Side of a DMS Decision
+1
+Complimentary assessment
+
+We walk each rooftop’s network, devices and circuits and read every IT, phone and DMS invoice you pay now, so the proposals get compared against what you really run.
+
+2
+Separate the extras
+
+Phones, circuits and support get pulled apart from the DMS decision and priced on their own terms.
+
+3
+Readiness and cutover
+
+Failover, cabling, printers and user access get checked store by store, with help desk cover through go-live.
+
+4
+After go-live
+
+The same help desk stays on for every platform, and on Tekion our enablement team extends the momentum Tekion’s own team builds.
+
+More on DMS Decisions and Moves
+
+Pick the piece that fits where your store is right now.
+
+Tekion vs CDK
+The two-way version of this comparison, from the IT side.
+→
+DMS transition support
+IT planning before, during and after a switch.
+→
+DMS conversion checklist
+The IT plan for changing platforms, phase by phase.
+→
+Tekion enablement services
+From launch prep through ongoing optimization.
+→
+The dealership technology stack
+Every system a rooftop runs and who supports it.
+→
+Optimize or migrate?
+When the DMS you have is worth keeping.
+→
+Karmak vs Procede
+The same view for heavy truck DMS choices.
+→
+FTC Safeguards compliance
+Vendor oversight and the rest of the file.
+→
+Common Questions
+
+COMPARING PROPOSALS NOW?
+
+Bring them to a complimentary IT and cybersecurity assessment, and we’ll show you what your network and contracts are ready for.
+
+What’s the best DMS for a car dealership?
+Which dealer management systems are cloud-based?
+How do other vendors get access to our DMS data?
+Does our DMS vendor also sell phones and network services?
+How long does a DMS conversion take?
+Does a new DMS change what we owe under the FTC Safeguards Rule?
+Does Helion support all four DMS platforms?
+
+Whichever DMS you choose, it runs on your network, your phones and your user accounts. Let’s make sure those are ready first.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dms-comparison\/","url":"https:\/\/heliontechnologies.com\/dms-comparison\/","name":"DMS Comparison: CDK, Reynolds, Tekion, Dealertrack | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dms-comparison\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dms-comparison\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dms-comparison.webp","datePublished":"2026-10-15T16:01:56+00:00","dateModified":"2026-10-15T16:09:31+00:00","description":"A DMS comparison for car dealerships from the IT side. CDK, Reynolds, Tekion and Dealertrack on hosting, data access, integrations, phones and network.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dms-comparison\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dms-comparison\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dms-comparison\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dms-comparison.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dms-comparison.webp","width":1200,"height":630,"caption":"A DMS comparison for car dealerships from the IT side, by Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dms-comparison\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"DMS Comparison: CDK vs Reynolds vs Tekion vs Dealertrack"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/dms-comparison/","url":"https://heliontechnologies.com/dms-comparison/","name":"DMS Comparison: CDK vs Reynolds vs Tekion vs Dealertrack","description":"A DMS comparison for car dealerships from the IT side. CDK, Reynolds, Tekion and Dealertrack on hosting, data access, integrations, phones and network.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/dms-comparison.webp","width":1200,"height":630},"about":[{"@type":"CreativeWork","name":"CDK Drive","publisher":{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"}},{"@type":"CreativeWork","name":"Dealertrack DMS","publisher":{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"}},{"@type":"CreativeWork","name":"ERA-IGNITE","publisher":{"@type":"Organization","name":"Reynolds and Reynolds","url":"https://www.reyrey.com/"}},{"@type":"CreativeWork","name":"Tekion Automotive Retail Cloud","publisher":{"@type":"Organization","name":"Tekion","url":"https://tekion.com/"}}],"mentions":[{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"},{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"},{"@type":"Organization","name":"Reynolds and Reynolds","url":"https://www.reyrey.com/"},{"@type":"Organization","name":"Tekion","url":"https://tekion.com/"},{"@type":"Organization","name":"Brookfield Business Partners"},{"@type":"CreativeWork","name":"Fortellis","publisher":{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"}},{"@type":"CreativeWork","name":"Opentrack","publisher":{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"}},{"@type":"CreativeWork","name":"Reynolds Certified Interface","publisher":{"@type":"Organization","name":"Reynolds and Reynolds","url":"https://www.reyrey.com/"}},{"@type":"CreativeWork","name":"Tekion Automotive Partner Cloud","publisher":{"@type":"Organization","name":"Tekion","url":"https://tekion.com/"}},{"@type":"Service","name":"CDK Voice Connect","brand":{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"}},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR Part 314","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/dms-comparison/#service","name":"Helion IT Support for Dealership DMS Decisions","serviceType":"DMS selection, transition and IT support for automotive dealerships","description":"Helion Technologies, a Tekion Certified Partner that also supports stores on CDK, Reynolds and Dealertrack, handles the IT side of a DMS decision: circuits and failover, devices, phones and network contracts, third-party data access, user access with multi-factor authentication and FTC Safeguards vendor oversight, backed by an 82-second average time to reach a support agent and a 98% client retention rate.","url":"https://heliontechnologies.com/dms-comparison/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Franchised automotive dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion services around a dealership DMS","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"DMS transition support","url":"https://heliontechnologies.com/dms-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement services","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/dms-comparison/#faq","url":"https://heliontechnologies.com/dms-comparison/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What's the best DMS for a car dealership?","acceptedAnswer":{"@type":"Answer","text":"There isn't a single answer, and we don't rank them. CDK, Reynolds, Tekion and Dealertrack all run franchised stores today. Your OEMs, your integrations, your contract dates and how much IT work your stores can take on usually decide it. Start with those."}},{"@type":"Question","name":"Which dealer management systems are cloud-based?","acceptedAnswer":{"@type":"Answer","text":"Tekion calls its Automotive Retail Cloud cloud-native, and Dealertrack calls its DMS cloud-based. CDK hosts its DMS in its own Tier IV data centers, and Reynolds can tell you which hosting options apply to your stores. Any hosted DMS makes the internet circuit part of the system. Plan for that."}},{"@type":"Question","name":"How do other vendors get access to our DMS data?","acceptedAnswer":{"@type":"Answer","text":"Through each DMS company's own program. CDK has Fortellis, Dealertrack has Opentrack, Reynolds has the Reynolds Certified Interface and Tekion has its Automotive Partner Cloud. Ask how a connection is approved, what it costs and how quickly you can switch it off. Get it in writing."}},{"@type":"Question","name":"Does our DMS vendor also sell phones and network services?","acceptedAnswer":{"@type":"Answer","text":"Some do. CDK sells network, security and communication services, including its Voice Connect phone system, and Reynolds sells IT management, network and help desk services. Those contracts usually have their own terms, so a DMS decision is a good time to re-bid them."}},{"@type":"Question","name":"How long does a DMS conversion take?","acceptedAnswer":{"@type":"Answer","text":"Longer than the software install, once you count the IT work around it. The vendor sets the go-live date, but circuits, devices, integrations and user access should start the week the contract is signed. Start early. Our DMS conversion checklist lays out the phases."}},{"@type":"Question","name":"Does a new DMS change what we owe under the FTC Safeguards Rule?","acceptedAnswer":{"@type":"Answer","text":"The obligations stay the same, and the vendor file changes. Under 16 CFR 314.4(f), a dealership that arranges financing has to select capable service providers, require safeguards in the contract and check on them over time, so the new DMS company joins that file on day one. Update it then."}},{"@type":"Question","name":"Does Helion support all four DMS platforms?","acceptedAnswer":{"@type":"Answer","text":"On the IT side, yes. Helion is a Tekion Certified Partner and also supports stores running CDK, Reynolds and Dealertrack, handling the network, devices, phones, security and Safeguards work around whichever DMS a store uses."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/dms-comparison/#howto","name":"How Helion Technologies handles the IT side of a dealership DMS decision","description":"Four steps from a complimentary assessment to support after go-live when a dealership compares CDK, Reynolds, Tekion and Dealertrack.","step":[{"@type":"HowToStep","position":1,"name":"Complimentary assessment","text":"We walk each rooftop's network, devices and circuits and read every IT, phone and DMS invoice you pay now, so the proposals get compared against what you really run."},{"@type":"HowToStep","position":2,"name":"Separate the extras","text":"Phones, circuits and support get pulled apart from the DMS decision and priced on their own terms."},{"@type":"HowToStep","position":3,"name":"Readiness and cutover","text":"Failover, cabling, printers and user access get checked store by store, with help desk cover through go-live."},{"@type":"HowToStep","position":4,"name":"After go-live","text":"The same help desk stays on for every platform, and on Tekion our enablement team extends the momentum Tekion's own team builds."}]}]}
+

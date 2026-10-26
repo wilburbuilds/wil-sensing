@@ -1,0 +1,314 @@
+URL: https://heliontechnologies.com/public-ai-and-customer-pii/
+Fetched: 2026-10-26T03:58:40Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/public-ai-and-customer-pii/
+Content-Type: text/html
+Via: chrome-headless
+Title: Public AI & Customer PII Risk Dealerships Haven't Considered
+Meta description: Public AI and customer PII: dealership employees are pasting customer information into public AI tools, often without realizing it's an FTC risk.
+Canonical: https://heliontechnologies.com/public-ai-and-customer-pii/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Public AI and Customer PII: The FTC Compliance Risk Most Dealerships Haven’t Considered
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Public AI and Customer PII: The FTC Compliance Risk Most Dealerships Haven’t Considered
+By Erik Nachbahr
+June 10, 2026 · 6 min read
+
+AI is rapidly finding its way into dealerships.
+
+Employees are using AI tools to draft emails, summarize documents, create spreadsheets, analyze reports, improve customer communications, and solve everyday business problems faster than ever before.
+
+In many ways, AI is becoming as common in the workplace as email and web browsers.
+
+But there’s a growing compliance and cybersecurity issue that many dealerships haven’t fully considered:
+
+Employees are sharing customer information with public AI platforms.
+
+And in many cases, they don’t even realize they’re creating a problem.
+
+The New Way Customer Information Leaves the Dealership
+
+Many dealership leaders assume customer information only leaves the dealership through a cyberattack, data breach, or malicious insider.
+
+Increasingly, that’s not the case.
+
+Consider the following common scenarios:
+
+A service advisor copies and pastes customer information into an AI chatbot and asks it to draft a response to a customer complaint.
+A sales manager uploads CRM notes into an AI tool to create personalized follow-up messaging for a prospect.
+A controller uploads a spreadsheet containing customer names, account balances, and payment histories to help analyze trends.
+An F&I employee asks an AI platform to summarize customer credit application information or generate customer correspondence.
+A marketing employee uploads customer data to help an AI tool create targeted campaigns or promotional content.
+A department manager shares internal reports containing customer information and asks an AI platform to identify opportunities for improvement.
+
+None of these employees are acting with bad intentions.
+
+In fact, they’re usually trying to be more productive, provide better customer service, or improve dealership performance.
+
+The problem is that customer information has now left the dealership’s controlled environment and been shared with a third-party platform.
+
+And in many cases, neither the employee nor dealership leadership fully understands where that information is being stored, how long it may be retained, or who may have access to it.
+
+Why This Is More Than a Cybersecurity Issue
+
+Many dealership employees view AI as a productivity tool.
+
+They don’t see it as a third party.
+
+If someone uploaded a customer credit application to a random website, most employees would recognize that as a serious problem.
+
+But uploading the same information into an AI chatbot often feels different.
+
+It feels safe.
+
+It feels harmless.
+
+It feels like they’re simply using software to help them do their job.
+
+Unfortunately, regulators may see it very differently.
+
+The FTC Requires a Comprehensive Information Security Program
+
+The FTC Safeguards Rule requires dealerships to develop, implement, and maintain a comprehensive information security program designed to protect customer information.
+
+This requirement extends far beyond antivirus software, vulnerability scans, or annual compliance checklists.
+
+A comprehensive information security program includes:
+
+Risk management
+Policies and procedures
+Employee training
+Access controls
+Monitoring and oversight
+Protection of customer information
+Ongoing governance of emerging risks
+
+Artificial Intelligence is now one of those emerging risks.
+
+If dealership personnel are sharing customer information with public AI systems without proper policies, controls, and oversight, regulators could reasonably question whether the dealership is maintaining the comprehensive information security program required by the FTC.
+
+Simply put:
+
+The unauthorized sharing of customer PII with public AI models isn’t merely poor cybersecurity practice – it may represent a failure to maintain the comprehensive information security program required by the FTC Safeguards Rule.
+
+What Counts as Customer PII?
+
+Dealerships handle enormous amounts of sensitive customer information, including:
+
+Names
+Addresses
+Phone numbers
+Email addresses
+Driver’s license numbers
+Social Security numbers
+Credit application information
+Financial records
+Banking information
+Vehicle ownership records
+Payment information
+
+This information is precisely the type of data the FTC expects dealerships to protect.
+
+When employees enter this information into public AI systems, they may be exposing it to risks that dealership leadership never intended.
+
+Why Public AI Usage Creates a Compliance Gap
+
+One of the biggest concerns with public AI tools is visibility.
+
+Many dealerships have no way of knowing:
+
+Which AI platforms employees are using
+What information is being uploaded
+Whether customer information is being shared
+How long that information is retained
+Whether the information could be accessed by others
+Whether the platform’s security controls meet dealership requirements
+
+That’s a problem.
+
+A comprehensive information security program requires organizations to understand and manage risks to customer information.
+
+You cannot effectively manage a risk you don’t know exists.
+
+Shadow AI Is the New Shadow IT
+
+For years, cybersecurity professionals have warned businesses about “Shadow IT” – employees using unauthorized technology without IT’s knowledge.
+
+Now we’re seeing the rise of “Shadow AI.”
+
+Employees can access powerful AI tools in seconds using nothing more than a web browser.
+
+No approval.
+
+No security review.
+
+No compliance assessment.
+
+No training.
+
+The result is that dealership leadership may have little visibility into how AI is being used across the organization and whether customer information is being shared outside approved systems.
+
+AI Isn’t the Problem
+
+Let’s be clear.
+
+AI itself is not the enemy.
+
+In fact, AI has the potential to significantly improve dealership operations.
+
+The dealerships that learn how to safely leverage AI will likely gain meaningful efficiency and productivity advantages.
+
+The goal should not be to ban AI.
+
+The goal should be to govern AI.
+
+That means establishing:
+
+AI usage policies
+Employee training
+Approved AI platforms
+Rules regarding customer information
+Monitoring and oversight procedures
+Risk assessment processes
+
+Just as dealerships developed policies around email, internet access, and mobile devices, they now need policies governing Artificial Intelligence.
+
+Questions Every Dealership Executive Should Ask
+
+If your dealership has not addressed AI governance, now is the time.
+
+Ask yourself:
+
+Do we know which AI tools employees are using?
+Have we established an AI usage policy?
+Have employees been trained on acceptable AI usage?
+Are employees prohibited from sharing customer PII with public AI systems?
+Have we assessed the compliance implications of AI?
+Can we demonstrate that AI usage is governed by our information security program?
+
+Many dealership executives are surprised by the answers.
+
+Final Thoughts
+
+Artificial Intelligence is transforming how people work.
+
+But the FTC Safeguards Rule has not changed.
+
+Dealerships are still required to maintain a comprehensive information security program designed to protect customer information.
+
+The challenge is that AI has created a new avenue through which sensitive customer data can leave the dealership – often through well-intentioned employees simply trying to be more productive.
+
+The question dealership executives should be asking is not:
+
+“Are our employees using AI?”
+
+The question is:
+
+“Do we have the policies, controls, training, and oversight necessary to ensure AI usage is consistent with our comprehensive information security program?”
+
+Because when it comes to FTC compliance, customer information must remain protected – regardless of whether the threat comes from a cybercriminal, a vendor, or an employee using the latest AI tool.
+
+Need Help?
+
+Helion helps auto and truck dealerships build cybersecurity and compliance programs that satisfy FTC Safeguards Rule requirements while enabling the safe adoption of new technologies such as Artificial Intelligence.
+
+If you’re unsure how AI is being used within your dealership – or whether customer information may already be flowing into public AI platforms – contact Helion for a complimentary cybersecurity assessment. Our page on the AI readiness assessment for dealerships shows what that review looks at.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"Public AI and Customer PII: The FTC Compliance Risk Most Dealerships Haven&#8217;t Considered","datePublished":"2026-06-10T19:53:39+00:00","dateModified":"2026-06-12T22:06:52+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/"},"wordCount":1222,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/06\/ai-data-public-information-research-motif-dashboard-analyzing-to-enhance-transparency-sharing-free-454011576.png","keywords":["CDK","cyber risk","cyberattack","cybersecurity","dealership cybersecurity","dealership it","dealerships","DMS (Dealer Management System)","EDR","Endpoint Detection &amp; Response","hackers","incident response plan","microsoft","microsoft 365","Personally Identifiable Information (PII)","reputation","software","software deployment","technology","Tekion","threat detection","vulnerability"],"articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/","url":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/","name":"Public AI & Customer PII Risk Dealerships Haven't Considered","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/06\/ai-data-public-information-research-motif-dashboard-analyzing-to-enhance-transparency-sharing-free-454011576.png","datePublished":"2026-06-10T19:53:39+00:00","dateModified":"2026-06-12T22:06:52+00:00","description":"Public AI and customer PII: dealership employees are pasting customer information into public AI tools, often without realizing it's an FTC risk.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/06\/ai-data-public-information-research-motif-dashboard-analyzing-to-enhance-transparency-sharing-free-454011576.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/06\/ai-data-public-information-research-motif-dashboard-analyzing-to-enhance-transparency-sharing-free-454011576.png","width":800,"height":534,"caption":"Dealership employees are sharing customer information with public AI platforms."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/public-ai-and-customer-pii\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Public AI and Customer PII: The FTC Compliance Risk Most Dealerships Haven&#8217;t Considered"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

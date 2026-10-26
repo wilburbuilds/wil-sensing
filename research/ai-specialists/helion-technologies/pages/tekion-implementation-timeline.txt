@@ -1,0 +1,232 @@
+URL: https://heliontechnologies.com/tekion-implementation-timeline/
+Fetched: 2026-10-26T03:57:31Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/tekion-implementation-timeline/
+Content-Type: text/html
+Via: chrome-headless
+Title: Tekion Implementation Timeline: IT Tasks Week by Week
+Meta description: A Tekion implementation timeline runs about 120 days. The dealer's IT tasks, week by week: network, cabling, devices, printers, integrations, training rooms.
+Canonical: https://heliontechnologies.com/tekion-implementation-timeline/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Tekion Implementation Timeline: The IT Tasks Week by Week
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Tekion Implementation Timeline: The IT Tasks Week by Week
+By Erik Nachbahr
+October 17, 2026 · 14 min read
+
+A Tekion implementation timeline runs about 120 days from kickoff to go-live under Tekion’s own published plan. The dealership’s IT work, from circuits and cabling to printers, logins, integrations, and training rooms, mostly lands in the final 12 weeks, and every piece has a date.
+
+Last updated: October 17, 2026
+
+Picture a store 3 weeks out from its Tekion go-live. The training schedule is set, the conversion scope locked a while back, and the general manager is feeling pretty good about it. Then somebody walks the service drive with a laptop, the way the trainers will, and finds out the last 4 bays don’t get Wi-Fi. Nobody’s sure who ordered the new cabling. The electrician needs a permit first. And Tekion’s installers have a date on the calendar that isn’t moving for any of it.
+
+None of that is Tekion’s work, and none of it has to be a surprise if you see the calendar early. Tekion runs an organized program with clear milestones, and its published Implementation Terms are straightforward about what the dealership owns. What follows is the dealer’s side of that calendar, week by week, from 12 weeks out to go-live week.
+
+Years ago I earned my MCSE in 7 weeks, studying from books, one test a week, while I was teaching the course part-time. It worked because the schedule made the decisions for me. Every week had one thing that had to be finished before the next one could start, and I didn’t get to skip ahead. A Tekion go-live works the same way. Miss the week the network was supposed to be done and you don’t get that week back. You pay for it in go-live week.
+
+We’ve already covered what a Tekion store needs on the network and hardware side, the IT checklist for any DMS conversion, and what happens after Tekion go-live. This piece is about when each job happens. It’s also how our Tekion enablement services team plans the dealer side of a project, before, during, and after the install.
+
+The Tekion Implementation Timeline, From the Dealer’s Side
+
+The Tekion implementation timeline is the schedule a dealership follows from contract kickoff to its first day live on Tekion’s Automotive Retail Cloud. Tekion describes about 120 days in 4 phases: discovery, design and build, testing and data preparation, and then training and go-live. The dealer’s IT tasks run alongside every one of them.
+
+Those phases come from Tekion’s own article, Implementation Timeline to Success, written by its SVP of Professional Services. Kickoff and discovery run from 120 to 90 days out. Design and build carries on to 45 days out, testing and data prep to 21, and the last 3 weeks are training and launch. Here’s how the IT work lines up against it.
+
+WEEKS BEFORE GO-LIVE	TEKION PHASE	DEALER IT TASKS	DONE WHEN
+17 to 13	Kickoff and discovery	Data extraction access, integration inventory, old vendor contracts	Every integration and contract is on one list
+12 to 9	Design and build	Second circuit and failover, low-voltage cabling, electrical permits, Wi-Fi walk	You pull the primary circuit and the store keeps working
+8 to 6	Design and build, scope lock at week 6	PC and printer inventory, replacements, roles and MFA	Every device and every user is accounted for
+5 to 3	Testing and data preparation	Integration partner notices and tests, training rooms built	A trainee can log in and print from the training room
+2 to 1	Training and go-live	Simulation support, hardware install, readiness sign-off, cutover plan	Readiness is signed by someone who walked the store
+Go-live week	Go-live	Legacy access cutoff, forms and printer checks, floor support	The first deal and the first RO print clean
+
+The table looks tidy. Real projects aren’t. Rooftop count, the number of third-party products tied into the DMS, and the condition of your data all stretch it, and a 20-store group isn’t running one calendar. It’s running 20 of them that share the same controller and the same IT people. The order still holds.
+
+The order is the plan.
+
+Before Week 12: The Dates Already in the Contract
+
+Some of the earliest deadlines in a Tekion project are written into the terms before anyone has met the project manager. A complete mapping of old accounts to new ones is due in Excel no later than 120 days before go-live. The first successful extraction of data from your existing DMS has to happen no later than 100 days out. If you want conquest data converted, Tekion needs access to the source data 90 days ahead, and the conversion scope locks 6 weeks before launch.
+
+Those sound like accounting jobs, and mostly they are. IT still ends up in the middle of them, because somebody has to get the data out of the old system. Sometimes that’s a login. Sometimes it’s a formal request to the outgoing DMS provider, or a clause in a contract nobody has read since the day it was signed. The same person should start the integration inventory, which is every product that trades data with your DMS today, from the CRM and desking tool to the parts locator and the OEM connections. The first draft of that list always comes up short. The second pass finds more. It always does.
+
+This is also the window to pull the old agreements. If your network gear or phones came from the outgoing DMS provider, that lease may run on a different clock than the DMS contract, and the firewall configuration may belong to them. Get a copy now. If you’re still choosing a platform, our Tekion vs CDK comparison from the IT side and our Tekion vs Reynolds and Reynolds comparison list what each one supplies.
+
+Week 12 is too late to start reading contracts.
+
+Weeks 12 to 9: Internet, Cabling, and Power
+
+The network goes first because everything else sits on top of it. A cloud DMS is only as available as the circuit coming into the building, so this is when the second circuit gets ordered, from a different carrier if you can get one, with a firewall that switches over by itself and switches back by itself. Carriers don’t work on your schedule. They never have. Ordering a new circuit 12 weeks out isn’t early, and at some rural rooftops it’s tight.
+
+Cabling and power run in the same window. Tekion’s terms put the full cost of required electrical work and low-voltage data cabling on the dealer, materials and permits included, along with any equipment mounted more than 10 feet off the floor. Tekion installs and tests its own hardware. That part’s covered. Your job is making sure a labeled, tested drop and a live outlet are waiting at every spot that hardware is going to go. That takes a walk-through with a floor plan at each rooftop, and a cabling contractor booked before their calendar fills up behind somebody else’s project.
+
+Walk the Wi-Fi too, with a device in your hand, through the service drive and to the back corner of the shop. Dead spots nobody noticed on the old system start to matter when advisors and technicians work in a browser on a tablet all day. Our guide to Tekion network requirements covers bandwidth sizing in detail, so I won’t repeat it here.
+
+Then test the failover on purpose. Pull the primary circuit on a weekday morning and watch what happens. Then plug it back in. Plenty of stores test their backup for the first time on the day they need it, and week 9 is a much cheaper day to learn it doesn’t work.
+
+Network done by week 9, or everything after it slides.
+
+Weeks 8 to 6: Devices, Printers, and Logins
+
+Count everything that will touch the new platform, rooftop by rooftop, down to the check printer in the office and the signature pads in F&I. Then hold each device up against what a browser-based DMS needs. Tekion runs in the browser, which convinces a lot of people that any old PC will do. It won’t. Anything still on Windows 10 has been past Microsoft’s end of support date of October 14, 2025, for a year now, and ordering, imaging, and deploying 40 replacement PCs eats most of this window. Order early. Our Windows 10 action plan for dealerships lays out the options.
+
+Printers deserve their own afternoon. They always do. Tekion’s terms give you 5 days after launch to ask for alignment changes on local printers, and one Forms Champion at the store signs off on changes to retail forms. Five days isn’t much. Not in go-live week. So I’d print a test page now from every printer that will ever touch a deal or an RO, and swap out the ones that can’t keep up while you’ve still got time.
+
+Then logins, which is where I’d slow down. Copying the old DMS user list is the fast way to do it, and it brings every old mistake along with it, like the manager who left in March and the shared parts login half the counter knows by heart. Build Tekion roles from what each person actually does. Turn on multi-factor authentication for everybody, general manager included. CISA calls MFA one of the simplest ways to stop an account takeover. It’s right.
+
+Week 6 is also the conversion scope lock, and after that the data list is basically closed.
+
+Anything not on your lists by week 6 turns up in week 0.
+
+Weeks 5 to 3: Integrations and Training Rooms
+
+Who tells your vendors you’re moving? You do. It’s right there in Tekion’s terms: the dealer notifies each integration partner of the transition date, and each integration has its own tasks due on its own dates. Some can’t even be tested until you’re live. A few vendors want a fee, or notice. I’d keep it simple. One spreadsheet, one owner per integration, and a phone call to every vendor on it. We’ve already seen this exact problem plenty of times. The integration nobody called is the one that breaks on launch day.
+
+Training gets scheduled in here too. Tekion wants onsite and remote training confirmed at least 21 days ahead. Its certification program trains up to 16 Certified Professionals, up to 4 per department, and its article describes that track as a 40-hour week about 30 days before launch. Think about who those people are. They’re your best ones. They’ll be gone from their desks for a week, so somebody has to cover for them.
+
+Now the job nobody books. Training rooms. Somebody in IT has to set up a room where 12 people can sit down, log in, and print at the same time, on a network that doesn’t buckle. In the last week or two, simulation runs on live system data, and Tekion’s article expects every employee to attend. Every one. They’ll all cycle through a room you built, so test it in week 3 with real logins, not the morning of the first session.
+
+A training room that doesn’t work costs you the training.
+
+Weeks 2 to 0: Simulation, Install, and Go-Live Week
+
+At 2 weeks out, you stop building and start proving. Tekion’s installers come on weekdays during business hours, and before they arrive, you certify that every prerequisite is done. If a technician gets sent to a store that isn’t ready, there’s a trip charge and the visit gets rescheduled. Fair enough. I’d want the same rule if I were them. It does mean the person signing should be somebody who walked the store. Not whoever had the form.
+
+Write the cutover plan down. Who shuts off the old DMS logins, and on what day does the old system go read-only? Who’s standing on the floor at each rooftop on day one, and what’s their cell number? I’d also want a page on what the store does if the circuit drops at 10 in the morning on launch day. That’s what our DMS outage plan is for. Print it before go-live.
+
+Something won’t print on day one. I’d bet money on it. The question is how long it takes your people to reach somebody who can fix it, and at Helion the average wait for a live support agent is 82 seconds. That number matters most this week. Payroll stays open a bit after launch, because Tekion’s terms only finish the payroll piece once the second payroll batch posts to accounting, which means your office is still going to be calling IT for a few more weeks while everybody gets used to it.
+
+Go-live is a date. Getting through it is a staffing plan.
+
+Who Runs the Dealer Side of the Calendar
+
+Tekion arrives with a project manager, trainers, and a schedule. Yours should too. Your store needs one named owner who can tell the general manager on a Tuesday which tasks are late. For one rooftop, that can be your IT manager with some help. For a group sharing an IT team, I’d treat it as a full-time job until you’re live.
+
+That’s where we come in. Helion Technologies is a Tekion Certified Partner, and for nearly 30 years we’ve done IT for automotive and heavy truck dealerships and nobody else. Today that’s 2,000-plus dealerships and 35,000 end users. We run the dealer’s side of the calendar, and we stay on after go-live to extend the momentum Tekion’s own team builds. Got your own IT team? Our co-managed IT model keeps them in charge. We add hands. On other platforms, it’s our DMS transition services. Onboarding starts within weeks of signing. The rest depends on where your store starts.
+
+What Dealers Ask About the Tekion Timeline
+Realistically, how long does a Tekion implementation take?
+We just signed. Are we already behind on the IT side?
+Whose job is it to call our integration vendors?
+Do we actually need a separate training room?
+What happens if the installer shows up and we’re not ready?
+Multi-rooftop group here. Does the order change?
+Count Backward From the Date
+
+Every week on this calendar has one job that has to be finished before the next can start, the same way my 7 weeks of tests did. The stores that get a quiet go-live are the ones that put those weeks on paper the day the contract was signed and then kept them. If you want to know which weeks your store is already behind on, start with our complimentary IT and cybersecurity assessment, and we’ll walk your rooftops and hand you the list.
+
+The go-live date won’t wait for the network.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+The Tekion Implementation Timeline, From the Dealer’s Side
+Before Week 12: The Dates Already in the Contract
+Weeks 12 to 9: Internet, Cabling, and Power
+Weeks 8 to 6: Devices, Printers, and Logins
+Weeks 5 to 3: Integrations and Training Rooms
+Weeks 2 to 0: Simulation, Install, and Go-Live Week
+Who Runs the Dealer Side of the Calendar
+What Dealers Ask About the Tekion Timeline
+Count Backward From the Date
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"Tekion Implementation Timeline: The IT Tasks Week by Week","datePublished":"2026-10-17T15:20:54+00:00","dateModified":"2026-10-17T15:20:55+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/"},"wordCount":2712,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-implementation-timeline-dealership-service-drive-sunrise.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/","url":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/","name":"Tekion Implementation Timeline: IT Tasks Week by Week","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-implementation-timeline-dealership-service-drive-sunrise.webp","datePublished":"2026-10-17T15:20:54+00:00","dateModified":"2026-10-17T15:20:55+00:00","description":"A Tekion implementation timeline runs about 120 days. The dealer's IT tasks, week by week: network, cabling, devices, printers, integrations, training rooms.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-implementation-timeline-dealership-service-drive-sunrise.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-implementation-timeline-dealership-service-drive-sunrise.webp","width":1200,"height":500,"caption":"The dealer's side of a Tekion implementation runs on its own calendar, from 12 weeks out to go-live week."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/tekion-implementation-timeline\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Tekion Implementation Timeline: The IT Tasks Week by Week"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/tekion-implementation-timeline/#article","headline":"Tekion Implementation Timeline: The IT Tasks Week by Week","description":"A Tekion implementation timeline runs about 120 days. The dealer's IT tasks, week by week: network, cabling, devices, printers, integrations, training rooms.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/tekion-implementation-timeline-dealership-service-drive-sunrise.webp","datePublished":"2026-10-17T11:20:54-04:00","dateModified":"2026-10-17T11:20:55-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/tekion-implementation-timeline/"},"articleSection":"Tekion Enablement","inLanguage":"en-US","about":[{"@type":"Thing","name":"Tekion implementation timeline","description":"The roughly 120-day schedule from kickoff to go-live on Tekion Automotive Retail Cloud, and the dealership IT tasks that run alongside each phase."},{"@type":"Thing","name":"Tekion Automotive Retail Cloud","description":"Cloud-based dealer management system from Tekion."}],"mentions":[{"@type":"Organization","name":"Tekion","url":"https://tekion.com/"},{"@type":"GovernmentOrganization","name":"Cybersecurity and Infrastructure Security Agency","url":"https://www.cisa.gov/"},{"@type":"Organization","name":"Microsoft","url":"https://www.microsoft.com/"},{"@type":"Thing","name":"Windows 10 end of support","description":"Microsoft ended support for Windows 10 on October 14, 2025."}]}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/tekion-implementation-timeline/#faq","mainEntity":[{"@type":"Question","name":"Realistically, how long does a Tekion implementation take?","acceptedAnswer":{"@type":"Answer","text":"About 120 days, if you go by Tekion's own published plan. Big groups take longer. So does messy data. Tekion's article also figures on 60 to 90 days of real use after launch before the new habits stick, which means the IT calendar keeps running for a couple of months past the go-live date everybody circled."}},{"@type":"Question","name":"We just signed. Are we already behind on the IT side?","acceptedAnswer":{"@type":"Answer","text":"Probably not, if you start this week. The account mapping deadline sits 120 days before go-live and the network work wants about 12 weeks, so the first job is putting both on one calendar and counting backward from your launch date. Start there."}},{"@type":"Question","name":"Whose job is it to call our integration vendors?","acceptedAnswer":{"@type":"Answer","text":"Yours. Tekion's Implementation Terms make the dealer responsible for notifying each integration partner of the transition date and completing the validation tasks Tekion provides. Put one owner next to every integration in a spreadsheet, and test the ones that can be tested before launch day."}},{"@type":"Question","name":"Do we actually need a separate training room?","acceptedAnswer":{"@type":"Answer","text":"For simulation, yes, or something close to one. Every employee sits through several sessions on live system data in the last 2 weeks, and a room with working machines, logins, and printers keeps those hours about Tekion instead of about IT troubleshooting."}},{"@type":"Question","name":"What happens if the installer shows up and we're not ready?","acceptedAnswer":{"@type":"Answer","text":"A trip charge and a rescheduled visit, under Tekion's published terms. A rescheduled install can push the whole go-live date, which is why the readiness sign-off should come from somebody who walked every rooftop."}},{"@type":"Question","name":"Multi-rooftop group here. Does the order change?","acceptedAnswer":{"@type":"Answer","text":"The order stays the same. The volume doesn't. Each rooftop gets its own circuit test, cabling walk, and printer check, and the shared people, usually the controller and the IT team, end up on every rooftop's calendar at once. Map those overlaps before week 12."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/tekion-implementation-timeline/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

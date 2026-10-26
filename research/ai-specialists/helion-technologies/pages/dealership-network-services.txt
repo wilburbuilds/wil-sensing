@@ -1,0 +1,304 @@
+URL: https://heliontechnologies.com/dealership-network-services/
+Fetched: 2026-10-26T03:51:44Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-network-services/
+Content-Type: text/html
+Via: chrome-headless
+Title: Dealership Network Management and Wi-Fi | Helion
+Meta description: Dealership network management for the showroom, service lane, lot and guest Wi-Fi, with one standard build and a backup internet line at every rooftop.
+Canonical: https://heliontechnologies.com/dealership-network-services/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealership Network Management: Wi-Fi, Circuits and Firewalls for Every Rooftop
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+MANAGED IT
+
+Dealership Network Management: Wi-Fi, Circuits and Firewalls for Every Rooftop
+
+One team runs the showroom, service lane, lot and guest networks at every store you own, on the same standard build at each one.
+
+Request a Complimentary Assessment →
+
+Dealership network management is the daily work of keeping a store’s internet circuits, firewalls, switches and Wi-Fi running for sales, service, parts and guests. Helion Technologies runs it as part of Managed IT, on one standard build at every rooftop.
+
+Last updated: October 20, 2026
+
+Tablets drop out in the last bay
+Guest Wi-Fi shares a network with F&I
+One internet line and a backhoe next door
+Nobody has the firewall password
+Every store you bought is wired differently
+One team owns every network
+Anybody Can Fix Windows. The Shop Wi-Fi Is Harder.
+
+Every IT provider says it manages networks. Usually that means a firewall in the closet and a number to call. Not enough here. A dealership is a stranger building than that. It has a sales floor pushing deal jackets through F&I, a shop full of steel lifts with technicians working off tablets, a lot that runs past the last access point, and a lounge full of customers streaming video while they wait on an oil change. A generalist provider can be very good at Windows and still have no idea why a wireless access point that works everywhere else won’t talk to the service department’s diagnostic tools.
+
+The network is one part of managed IT for dealerships, the part our services page calls infrastructure and connectivity, and this page covers that part alone. That means the networks inside a store, how several stores tie together, and what a DMS change asks of all of it.
+
+When the network goes down, the whole store goes with it. Every department finds out at once.
+
+INSIDE ONE ROOFTOP
+
+Showroom, Service Lane, Lot and Guest Networks
+
+A store isn’t one network. It’s several. The F&I office wants a wired desk and tight access, the shop wants Wi-Fi that reaches the far bay, the lot is outdoors, and the customers in the lounge just want to stream. They need different things, so we keep them apart. Same building, different jobs. This is the split we start from at a typical rooftop, and yours gets adjusted to the building you actually have.
+
+CABLE ANYTHING THAT DOESN’T MOVE
+
+Desks, the parts counter, cashiering and printers get a wire. Wi-Fi is for the drive, the shop and the lot. Our Tekion network requirements guide has the rooftop walk-through we run before a go-live.
+
+A typical store split
+Which network each part of the store rides on
+
+Staff Showroom, F&I and the back office
+
+Sales desks, the F&I offices, accounting and the parts counter sit on wired connections wherever the furniture allows it. Credit applications, deal jackets and payroll live here, so access stays tight, and the printer that has to spit out a buyer’s order at 8 on a Saturday night is one of the first things we test. Printers first. Always.
+
+Wired wherever it can be.
+
+Staff Wi-Fi The service lane and the shop
+
+Advisors check cars in on the drive, technicians pull up repair procedures in the bay, and the OEM’s diagnostic tools phone home over the air. NADA’s 2025 data counts more than 276 million repair orders at franchised dealerships in a year, and on a cloud DMS every one of them crosses the network. Steel lifts, tall ceilings and big roll-up doors eat signal. Badly. In plenty of shops the access points were hung by someone who never stood in the last bay with a tablet, so the usual fix is more of them, mounted higher.
+
+Walk it with a device.
+
+Outdoor Wi-Fi The lot
+
+Salespeople walk customers out to inventory, porters move cars all day, and some stores start service write-ups before the car reaches the drive. Outdoor access points need weatherproof mounts and a clear line down the rows, because a lot full of parked cars soaks up more signal than people expect. It’s a big lot.
+
+Coverage past the last row.
+
+Guest The customer lounge
+
+Customers waiting on a repair want fast Wi-Fi, and they should never share a network with the F&I office. Microsoft’s network guidance makes the same point for any business, recommending that unmanaged devices go on guest Wi-Fi. A guest phone can stream all it wants and still can’t reach a single store system. Two networks. No exceptions.
+
+Fast, and fenced off.
+
+Devices Cameras, doors and card terminals
+
+Security cameras, door controllers and other building systems get a segment of their own, away from the machines that open deals, and the card terminals at service cashiering belong apart from everything else too. Cameras don’t need F&I. The PCI Security Standards Council calls segmentation optional, but says it can drastically reduce the number of systems you have to protect.
+
+Fewer systems to protect.
+
+What One Standard Looks Like at Scale
+2,000+
+Dealerships under management nationwide
+60%
+Cut in one dealer group’s network spend
+82 sec
+Average time to reach a live support agent
+98%
+Client retention rate
+
+Where does the 60% come from? A Texas dealer group with 10 stores in two cities. By the time they talked to us they were running three networks with three sets of vendors behind them, and the controller was paying every one of those bills. We merged the three into one. Helion’s case study puts the monthly network bill at an average of $62,300 before and $25,000 after. Funny thing, though. The money wasn’t what they brought up most. It was having one number to call when a store went dark.
+
+Multi-Rooftop Networks Built to One Standard
+
+Most groups get bigger by buying stores. That’s fine, except the store you just closed on comes with its old owner’s network decisions baked in. Open the closet on a first visit and you might find a switch the phone company left behind, a cable modem acting as the firewall, and an outside IT shop nobody has talked to in a year that somehow holds the only admin password. We’ve already seen this exact problem 2,000 times. So the build we put in is boring on purpose: the same firewall and rules at every store, Wi-Fi and switches hung the way they were at the last one, one naming scheme, and a backup internet line.
+
+One heavy truck group in the Southeast, 12 locations, shows how it plays out. Their rural branches kept losing the network, and a single in-house IT person was expected to cover all of them. We took out the mix of hardware and rebuilt every branch the same way. When the COO described the result later, he skipped the technology completely: “they’re getting the phone answered or getting a call back within five minutes.” For branches, backup lines and SD-WAN in more depth, read our guide to networking a multi-branch truck dealership.
+
+Connecting the stores to each other is where older designs trip up. A lot of WANs built years ago haul every store’s internet traffic back to the main office before it goes anywhere, and Microsoft’s guidance says that backhauling adds latency for Microsoft 365, recommending that each location reach the internet locally instead. In plain terms, a Teams call from the parts counter at one store has no business detouring through a closet at a different store first.
+
+Six setups, six problems. One standard, one.
+
+A second way onto the internet
+
+It comes from a different carrier on a different kind of line, and the firewall moves traffic over to it and back again without anybody touching a cable.
+
+We test it before you need it.
+
+The same build at every store
+
+When the rules, the Wi-Fi layout and even the device names match from store to store, whoever picks up our phone already knows your building.
+
+Nobody’s guessing what’s in the closet.
+
+Changes go to one store first
+
+If you can push a change to 20 stores at once, you can break 20 stores at once, so we try it on one rooftop and give it time before the others get it.
+
+That’s a call nobody wants to make.
+
+CHANGING DMS PLATFORMS
+
+What a DMS Change Asks of the Network
+
+Going to a cloud DMS changes where the risk sits. You lose the server in the back room, which most stores are happy to see go, and in its place the fiber coming in off the street turns into the one thing sales, service and parts all depend on at the same time. The table walks through what that shift does to the network, job by job.
+
+Network job
+	DMS on a server in the store	DMS in the cloud
+Where the DMS lives	A server in the back room	At the far end of the internet circuit, so a cut line stops the store even while the DMS itself runs fine
+An internet outage	Annoying, though the counter could still reach the server across the building	No deals and no repair orders until a second line takes over
+Upload speed	Rarely mattered	Scanned ROs, camera footage, cloud backups and Teams calls all push data out, and upload is the side that chokes first
+A second circuit	Nice to have	A must, from a different carrier, with failover tested before go-live
+The network gear	Often supplied and supported by the DMS provider, on its own contract	Yours to pick on its merits, which makes a DMS move the natural time to re-bid it
+Wi-Fi on the drive and in the shop	Mostly for convenience	Where advisors and technicians open the DMS in a browser all day
+
+Moving to Tekion? Its implementation terms put the electrical work, the data cabling and the readiness sign-off on the dealer, and our Tekion enablement team works the dealer side of that project before, during and after go-live. Leaving CDK? Alexis Merchant’s guide to the phones and network in a CDK to Tekion move lists the contracts to pull first. Any other platform change runs through DMS transition, and the DMS conversion checklist has the full device list. Pull those dates early.
+
+How Handing Us the Network Starts
+1
+Ask for the assessment
+
+There’s a short form for our complimentary IT and cybersecurity assessment. It’s free, and plenty of dealers who ask aren’t shopping for a new provider at all.
+
+2
+We look at every rooftop
+
+One of our engineers goes through the circuits, firewalls, switches and Wi-Fi at each store, in person or remotely, and writes down who sells and supports each piece right now.
+
+3
+You see the real numbers
+
+You get the findings on paper, including what you’re paying every network, phone and IT vendor today next to what Helion would cost all-in.
+
+4
+One standard, store by store
+
+If you go ahead, you choose Dealer Defender, Service Desk Plus or Full Service, run fully managed or co-managed. Onboarding starts within weeks of signing, and the stores move onto the standard build one after another.
+
+Common Questions
+
+WHAT DOES YOUR NETWORK COST YOU NOW?
+
+Our complimentary IT and cybersecurity assessment puts what you spend on vendors now next to what we’d charge. Already know what you need? Get a price quote.
+
+What does dealership network management include?
+Why does the Wi-Fi in our shop keep dropping?
+Does guest Wi-Fi really need its own network?
+How many internet lines does a store need?
+Is a new store’s network part of the monthly price?
+We have an IT manager. Where does the network fit under co-managed IT?
+More on Dealership Networks
+
+The rest of managed IT, what a DMS move asks of the network, and how multi-store groups keep every rooftop on one standard.
+
+Managed IT for dealerships
+Monitoring, help desk, security and DMS support in one contract.
+→
+Tekion network requirements
+Circuits, cabling, Wi-Fi and security to finish before go-live.
+→
+Multi-branch truck dealership networks
+Parts, service and sales across locations hours apart.
+→
+Phones and network in a CDK to Tekion move
+The agreements that don’t end when the DMS does.
+→
+Wireless networks in dealerships
+Why staff and guest Wi-Fi need two different experiences.
+→
+Cloud-managed networks for dealer groups
+One view of every rooftop’s Wi-Fi, switches and security.
+→
+OEM cybersecurity requirements
+What GM, Mercedes-Benz and other OEMs expect of a store’s network.
+→
+GM dealer infrastructure guidelines
+PC, network, Wi-Fi and bandwidth standards for GM stores.
+→
+IT for dealer groups
+One help desk and one standard across every store.
+→
+Acquisition IT integration
+Bringing a newly bought store onto the group’s network.
+→
+Tekion implementation timeline
+The IT tasks for a Tekion go-live, week by week.
+→
+DMS conversion checklist
+An IT plan for switching dealer management systems.
+→
+DMS outage plan
+How to keep selling and servicing while the DMS is down.
+→
+Remote truck branch support
+Field service when the nearest tech is hours away.
+→
+Dealership IT help desk
+Open whenever your stores are, 7 days a week.
+→
+IT for heavy truck dealerships
+Rural branches, long distances and one network standard.
+→
+Dealership IT budget checklist
+Circuits, firewalls, switches and Wi-Fi as budget lines.
+→
+vCIO for dealerships
+One owner for the IT plan, budget and vendor decisions.
+→
+Backup and disaster recovery
+Tested restores for the systems a store can’t lose.
+→
+Co-managed IT
+Helion alongside your own IT staff, not in place of them.
+→
+The dealership technology stack
+Every system a rooftop runs and who usually supports it.
+→
+
+Somewhere in your store there’s a dead spot nobody has reported yet. Let’s find it before a Saturday customer does.
+
+Request a Complimentary Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-network-services\/","url":"https:\/\/heliontechnologies.com\/dealership-network-services\/","name":"Dealership Network Management and Wi-Fi | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-network-services\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-network-services\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-network-management.webp","datePublished":"2026-10-20T15:40:23+00:00","dateModified":"2026-10-20T15:49:51+00:00","description":"Dealership network management for the showroom, service lane, lot and guest Wi-Fi, with one standard build and a backup internet line at every rooftop.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-network-services\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-network-services\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-network-services\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-network-management.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-network-management.webp","width":1200,"height":630,"caption":"Dealership network and Wi-Fi management from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-network-services\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Dealership Network Management: Wi-Fi, Circuits and Firewalls for Every Rooftop"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-network-services/","url":"https://heliontechnologies.com/dealership-network-services/","name":"Dealership Network Management: Wi-Fi, Circuits and Firewalls for Every Rooftop","description":"Dealership network management for the showroom, service lane, lot and guest Wi-Fi, with one standard build and a backup internet line at every rooftop.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-network-management.webp","width":1200,"height":630},"about":[{"@type":"Thing","name":"Dealership network management","description":"Running the internet circuits, firewalls, switches and Wi-Fi a car or truck dealership depends on for sales, service, parts and guest access."}],"mentions":[{"@type":"Thing","name":"Network segmentation","description":"Keeping staff, guest, camera and payment traffic on separate network segments so one cannot reach the others."},{"@type":"Thing","name":"Guest Wi-Fi","description":"A wireless network for customers that is separated from the dealership's own systems."},{"@type":"Thing","name":"Internet failover","description":"A second internet circuit from a different carrier that a firewall switches to automatically when the first one fails."},{"@type":"Thing","name":"SD-WAN","description":"Software-defined wide area networking that steers traffic between several internet lines and sites."},{"@type":"Thing","name":"Dealer management system","alternateName":"DMS","description":"The core software a dealership runs sales, service, parts and accounting on, such as Tekion, CDK Global or Reynolds."}],"hasPart":[{"@type":"WebPageElement","name":"Showroom, service lane, lot and guest networks","url":"https://heliontechnologies.com/dealership-network-services/#four-networks"},{"@type":"WebPageElement","name":"Multi-rooftop networks built to one standard","url":"https://heliontechnologies.com/dealership-network-services/#rooftops"},{"@type":"WebPageElement","name":"What a DMS change asks of the network","url":"https://heliontechnologies.com/dealership-network-services/#dms-change"},{"@type":"WebPageElement","name":"How handing us the network starts","url":"https://heliontechnologies.com/dealership-network-services/#how-it-starts"}],"significantLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/support/","https://heliontechnologies.com/tekion-network-requirements/","https://heliontechnologies.com/multi-location-truck-dealership-network/","https://heliontechnologies.com/price-quote/"],"relatedLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/support/","https://heliontechnologies.com/services/","https://heliontechnologies.com/tekion-network-requirements/","https://heliontechnologies.com/multi-location-truck-dealership-network/","https://heliontechnologies.com/tekion-services/","https://heliontechnologies.com/cdk-to-tekion-phones-network/","https://heliontechnologies.com/dms-services/","https://heliontechnologies.com/dms-conversion-checklist/","https://heliontechnologies.com/price-quote/","https://heliontechnologies.com/dealership-acquisition-it/","https://heliontechnologies.com/co-managed-it/","https://heliontechnologies.com/co-managed-it-responsibility-matrix/","https://heliontechnologies.com/wireless-networks-in-dealerships-underrated-and-important/","https://heliontechnologies.com/why-cisco-meraki-is-a-game-changer-for-dealership-it-and-why-you-dont-need-to-become-a-meraki-expert/","https://heliontechnologies.com/oem-cybersecurity-requirements/","https://heliontechnologies.com/gm-dealer-infrastructure-security-guidelines/","https://heliontechnologies.com/dealer-groups/","https://heliontechnologies.com/tekion-implementation-timeline/","https://heliontechnologies.com/dms-outage-plan/","https://heliontechnologies.com/truck-dealership-branch-it-support/","https://heliontechnologies.com/dealership-help-desk/","https://heliontechnologies.com/heavy-truck-dealerships/","https://heliontechnologies.com/dealership-it-budget-checklist/","https://heliontechnologies.com/backup-and-disaster-recovery/","https://heliontechnologies.com/dealership-technology-stack/"],"citation":[{"@type":"CreativeWork","name":"Microsoft 365 network connectivity principles","url":"https://learn.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-network-connectivity-principles?view=o365-worldwide","publisher":{"@type":"Organization","name":"Microsoft"}},{"@type":"CreativeWork","name":"Council CTO Discusses Scoping and Segmentation Guidance","url":"https://blog.pcisecuritystandards.org/Council-CTO-Discusses-Scoping-and-Segmentation-Guidance","publisher":{"@type":"Organization","name":"PCI Security Standards Council"}},{"@type":"CreativeWork","name":"NADA Data 2025 Full-Year Report","url":"https://www.nada.org/nada/newsdata/nada-data","publisher":{"@type":"Organization","name":"National Automobile Dealers Association"}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/dealership-network-services/#service","name":"Helion Dealership Network Management","serviceType":"Managed network and Wi-Fi services","description":"Helion Technologies manages the internet circuits, firewalls, switches and Wi-Fi for automotive and heavy truck dealerships, with the showroom, service lane, lot, guest and device networks kept separate and one standard build at every rooftop, as part of its Managed IT program for 2,000+ dealerships.","url":"https://heliontechnologies.com/dealership-network-services/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion managed IT services for dealerships","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership IT help desk","url":"https://heliontechnologies.com/dealership-help-desk/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"DMS transition","url":"https://heliontechnologies.com/dms-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership acquisition IT integration","url":"https://heliontechnologies.com/dealership-acquisition-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-network-services/#faq","url":"https://heliontechnologies.com/dealership-network-services/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What does dealership network management include?","acceptedAnswer":{"@type":"Answer","text":"It covers the internet circuits, firewalls, switches and Wi-Fi at each rooftop, plus the links between your stores. At Helion it sits inside the Managed IT contract alongside monitoring, help desk and core security, so the network isn't a separate bill from a separate vendor. When something drops at 7 on a Saturday morning, the same team that built it answers the call. One team, one call."}},{"@type":"Question","name":"Why does the Wi-Fi in our shop keep dropping?","acceptedAnswer":{"@type":"Answer","text":"Usually the access points were placed for an office, not a shop. Lifts, steel racking and tall ceilings block signal, and one access point over the write-up desk won't reach the last bay. We walk the shop with a device, find the dead spots, and add access points mounted higher. It's fixable."}},{"@type":"Question","name":"Does guest Wi-Fi really need its own network?","acceptedAnswer":{"@type":"Answer","text":"Yes, every time. A customer's phone in the lounge should never be one hop away from the F&I office or the controller's PC, and Microsoft's own guidance recommends putting unmanaged devices on guest Wi-Fi. It costs almost nothing to separate, and it's one of the first things the assessment checks."}},{"@type":"Question","name":"How many internet lines does a store need?","acceptedAnswer":{"@type":"Answer","text":"Two. Each comes from a different carrier over a different kind of connection, with a firewall that switches between them automatically. Two lines from one provider often share a trench and fail together. As for speed, we won't quote a number blind: we count who's in the DMS at month-end, the cameras and the phones first, and we check upload, which is the side nobody sizes."}},{"@type":"Question","name":"Is a new store's network part of the monthly price?","acceptedAnswer":{"@type":"Answer","text":"Running it is. Building it is a project. Day-to-day network management, after-hours and weekend support and field visits are in the monthly number. A new store buildout or the IT side of a dealership acquisition gets scoped as a special project, so you see that cost before the work starts."}},{"@type":"Question","name":"We have an IT manager. Where does the network fit under co-managed IT?","acceptedAnswer":{"@type":"Answer","text":"Wherever you and your IT manager decide it fits. On the co-managed path that person stays in charge, and one common split leaves them the decisions about the stores while we take the monitoring, the updates and the circuit that fails on a Saturday night. Our responsibility matrix puts one owner on every system. Nobody gets replaced."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/dealership-network-services/#howto","name":"How handing your dealership network to Helion starts","description":"Four steps from requesting the complimentary assessment to moving each rooftop onto one standard network build.","step":[{"@type":"HowToStep","position":1,"name":"Ask for the assessment","text":"There's a short form for our complimentary IT and cybersecurity assessment. It's free, and plenty of dealers who ask aren't shopping for a new provider at all."},{"@type":"HowToStep","position":2,"name":"We look at every rooftop","text":"One of our engineers goes through the circuits, firewalls, switches and Wi-Fi at each store, in person or remotely, and writes down who sells and supports each piece right now."},{"@type":"HowToStep","position":3,"name":"You see the real numbers","text":"You get the findings on paper, including what you're paying every network, phone and IT vendor today next to what Helion would cost all-in."},{"@type":"HowToStep","position":4,"name":"One standard, store by store","text":"If you go ahead, you choose Dealer Defender, Service Desk Plus or Full Service, run fully managed or co-managed. Onboarding starts within weeks of signing, and the stores move onto the standard build one after another."}]}]}
+

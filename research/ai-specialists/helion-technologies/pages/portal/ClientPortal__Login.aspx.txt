@@ -1,0 +1,36 @@
+URL: https://heliontechnologies.itclientportal.com/about
+Fetched: 2026-10-26T04:03:48Z
+HTTP status: 200
+Final URL: https://heliontechnologies.itclientportal.com/ClientPortal/Login.aspx
+Content-Type: text/html
+Via: chrome-headless
+Title: Client Portal Login
+Meta description: 
+Canonical: 
+Robots: 
+H1: 
+
+CLIENT PORTAL
+ 
+
+User Name
+
+
+Password
+I forgot my password
+
+Remember my User Name
+ 
+
+
+or
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="./Login.aspx" id="form1"
+  - input type=text name="clientAccessUserLogin$UserName" id="clientAccessUserLogin_UserName" label="User Name" placeholder="" aria="" required=false
+  - input type=password name="clientAccessUserLogin$Password" id="clientAccessUserLogin_Password" label="Password" placeholder="" aria="" required=false
+  - input type=checkbox name="clientAccessUserLogin$RememberMeCheckBox" id="clientAccessUserLogin_RememberMeCheckBox" label="Remember my User Name" placeholder="" aria="" required=false
+  - input type=submit name="clientAccessUserLogin$LoginButton" id="clientAccessUserLogin_LoginButton" label="" placeholder="" aria="" required=false
+  - input type=submit name="clientAccessUserLogin$LoginGoogle" id="clientAccessUserLogin_LoginGoogle" label="" placeholder="" aria="" required=false
+  - input type=submit name="clientAccessUserLogin$LoginMicrosoft" id="clientAccessUserLogin_LoginMicrosoft" label="" placeholder="" aria="" required=false
+

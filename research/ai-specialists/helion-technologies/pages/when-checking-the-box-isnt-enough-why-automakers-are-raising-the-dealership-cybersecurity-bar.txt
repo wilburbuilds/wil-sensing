@@ -1,0 +1,208 @@
+URL: https://heliontechnologies.com/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar/
+Fetched: 2026-10-26T03:59:46Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar/
+Content-Type: text/html
+Via: chrome-headless
+Title: Why Automakers Are Raising the Dealership Cybersecurity Bar
+Meta description: Automakers are raising the dealership cybersecurity bar. For years security lived on a checklist with boxes checked. That era is now over.
+Canonical: https://heliontechnologies.com/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: When “Checking the Box” Isn’t Enough: Why Automakers Are Raising the Dealership Cybersecurity Bar
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+When “Checking the Box” Isn’t Enough: Why Automakers Are Raising the Dealership Cybersecurity Bar
+By Erik Nachbahr
+January 8, 2026 · 3 min read
+
+For years, dealership cybersecurity has lived in a familiar place: a checklist.
+
+✔️ MFA?
+✔️ Antivirus?
+✔️ Security policy?
+
+Boxes checked. Everyone feels better. Back to selling cars and trucks.
+
+But the latest Mercedes-Benz USA Cyber Security Guidelines for Dealers make one thing very clear: that era is over
+
+A Not-So-Subtle Message from the OEMs
+
+In the wake of high-profile attacks like the 2024 CDK Global ransomware incident—which disrupted more than 15,000 dealerships—manufacturers are no longer comfortable taking a dealer’s word for it when it comes to cybersecurity.
+
+Mercedes-Benz USA now requires dealerships to prove that an effective information security program is in place—through ISO/IEC 27001 or TISAX L2 certification by September 30, 2026
+
+That’s not a paperwork exercise. That’s an audit.
+
+For what each automaker asks for and what to have ready, see our guide to OEM cybersecurity requirements for dealers.
+
+And it signals a growing concern across the industry: Too many dealerships say they’re secure—but can’t demonstrate that they actually are.
+
+The Problem with Self-Assessment Security
+
+Many dealerships rely on compliance platforms that function as little more than self-reported questionnaires.
+
+A classic example:
+
+“Do you use multi-factor authentication?”
+
+✔️ Yes
+
+Technically true. MFA exists.
+
+But:
+
+Is it enabled everywhere it should be?
+Is it enforced for remote access, admin accounts, SaaS apps, and vendors?
+Is it monitored?
+Is it tested?
+Is it maintained as systems and users change?
+
+That’s the difference between having MFA and having MFA that actually reduces risk.
+
+Auditors—and now automakers—care deeply about that difference.
+
+What OEMs Are Really Asking For
+
+Mercedes-Benz’s guidance aligns directly with what the FTC Safeguards Rule, NIST, and CIS Critical Security Controls have been saying all along:
+
+Dealerships must develop, implement, and maintain a comprehensive information security program—not just document one.
+
+That means:
+
+A designated dealership cyberecurity owner who is accountable
+A written information security program that reflects how the dealership actually operates
+Continuous monitoring and logging
+Regular risk assessments
+Ongoing access reviews
+Incident response planning
+Training that goes beyond “watch this video once a year”
+
+In other words: security as a process, not a product.
+
+Why ISO Audits Change the Conversation
+
+An ISO or TISAX audit doesn’t ask:
+
+“Do you have a policy?”
+
+It asks:
+
+“Show me how this policy is implemented, monitored, tested, and improved.”
+
+That’s a big shift for dealerships that have historically leaned on:
+
+Internal IT teams already stretched thin
+Compliance software with no operational follow-through
+Vendor assurances instead of validation
+
+Manufacturers aren’t doing this to be difficult. They’re doing it because customer data, brand trust, and operational resilience are now inseparable.
+
+This Isn’t About Fear—It’s About Maturity
+
+The takeaway here isn’t panic. It’s progress.
+
+OEMs are pushing dealerships toward the same security standards already expected in banking, healthcare, and large enterprise environments. And frankly, given how much sensitive financial and personal data flows through a dealership every day, that makes sense.
+
+The days of “we checked the box” are giving way to:
+
+“We can prove it works.”
+
+And that’s ultimately good for dealers, customers, and manufacturers alike.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"When “Checking the Box” Isn’t Enough: Why Automakers Are Raising the Dealership Cybersecurity Bar","datePublished":"2026-01-08T20:09:40+00:00","dateModified":"2026-06-15T16:53:29+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/"},"wordCount":533,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2025\/12\/Raising-the-Bar.png","keywords":["audit","auto manufacturers","compliance","comprehensive information security program","cybersecurity","cybersecurity audit","dealership cybersecurity","information security","policy","security audit"],"articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/","url":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/","name":"Why Automakers Are Raising the Dealership Cybersecurity Bar","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2025\/12\/Raising-the-Bar.png","datePublished":"2026-01-08T20:09:40+00:00","dateModified":"2026-06-15T16:53:29+00:00","description":"Automakers are raising the dealership cybersecurity bar. For years security lived on a checklist with boxes checked. That era is now over.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2025\/12\/Raising-the-Bar.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2025\/12\/Raising-the-Bar.png","width":680,"height":360,"caption":"Raising the Bar on Dealership Cybersecurity"},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/when-checking-the-box-isnt-enough-why-automakers-are-raising-the-dealership-cybersecurity-bar\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"When “Checking the Box” Isn’t Enough: Why Automakers Are Raising the Dealership Cybersecurity Bar"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

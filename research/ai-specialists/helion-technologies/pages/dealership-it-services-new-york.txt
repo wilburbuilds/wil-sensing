@@ -1,0 +1,209 @@
+URL: https://heliontechnologies.com/dealership-it-services-new-york/
+Fetched: 2026-10-26T04:00:54Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-it-services-new-york/
+Content-Type: text/html
+Via: chrome-headless
+Title: Dealership IT Services in New York | Helion Technologies
+Meta description: Dealership IT services in New York City, Long Island, North Jersey and Fairfield County from Helion Technologies. Managed IT and security. Help in 82s.
+Canonical: https://heliontechnologies.com/dealership-it-services-new-york/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealership IT Services in the New York Metro
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+NEW YORK CITY, LONG ISLAND, WESTCHESTER, NORTH JERSEY AND FAIRFIELD COUNTY
+
+Dealership IT Services in the New York Metro
+
+One dealership-only IT team for your stores in three states, on one standard. A live person answers in 82 seconds on average.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Last updated: October 21, 2026
+
+Helion Technologies provides dealership IT services in New York City, Long Island, Westchester, North Jersey and Fairfield County for automotive and heavy truck stores, covering managed IT, cybersecurity, Tekion support, backup and FTC Safeguards compliance. A live support agent answers in 82 seconds on average.
+
+Dealership IT Services in New York Cross Three State Lines
+
+A dealer group in this metro can have a store on Northern Boulevard in Queens, another on Route 17 in Paramus and a third off the Post Road in Stamford, and that’s three states before lunch. Three attorneys general, three breach laws, one group. It adds up. The DMS, the phones and the logins are still supposed to work the same way at every one of them. Usually they don’t.
+
+That gap is where we start. Most groups here grew by buying stores, and every store they bought came with its own vendor, its own firewall and its own way of doing things. Nobody planned it. It just piled up.
+
+We like that kind of problem. Helion Technologies has supported automotive and heavy truck dealerships, and nobody else, since 1997. This page is part of our dealership IT services by location hub, and it covers what’s different about running stores around New York.
+
+Remote first
+Most tickets close by phone or remote session, so a jam on the Cross Bronx never decides how long a store stays down.
+On site when it needs hands
+Field technicians are dispatched for a dead switch, new cabling or a store moving to a bigger lot on Long Island.
+Watched around the clock
+A US-based team monitors networks, servers and security alerts 24/7, including the hours your stores are closed.
+
+Our dealership help desk is in Baltimore, same time zone as you. Whenever your New York metro stores are open, 7 days a week, the help desk is open too. The service drive in Hempstead opens at seven? We’re on. The last F&I deal in Edison runs past nine on a Saturday night? Still here. We close for Thanksgiving and Christmas and that’s it. After-hours calls, weekends and field dispatch come inside the one monthly number, no trip charges, and the bill doesn’t jump because a problem turned out bigger than it looked. Ask any provider for the help desk metrics a dealer principal should see, get them written into a dealership IT support SLA, and compare.
+
+Stores in Three States, One Standard
+
+Ask our field techs about the first visit to a store a group just bought and you’ll hear the same stories. The firewall nobody can log into because the old contractor kept the password. A phone system that’s a decade old and still under contract. A sticky note under the F&I manager’s keyboard with the DMS login on it. None of that is anyone’s fault, exactly, it’s just what a store looks like after twenty years of fixing things one at a time, and around here a group might buy two or three of those stores in a single year.
+
+One group we support has 23 stores across New England. While working with us it bought 4 dealerships and moved 10 stores into new buildings, and IT never once held up a closing, mostly because every new store got the same network, the same security and the same help desk the day it joined.
+
+Our dealer groups page covers how that works across many rooftops, and dealership acquisition IT integration lists what to check before the papers are signed. More stories like these are in Helion’s dealership case studies. Onboarding starts within weeks of signing.
+
+Who Picks Up When a New York Store Calls
+2,000+
+Dealerships under management nationwide
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+82s
+Average time to reach a support agent
+One Breach, Three Clocks
+
+Picture one phished password at a group with stores on Long Island, in Bergen County and in Greenwich. The state lines decide who you call and how long you’ve got, and they don’t agree with each other at all. Here’s the short version.
+
+RULE	WHO HEARS FIRST	DEADLINE	AT THE STORE
+New York breach law, GBL 899-aa	
+Affected New Yorkers, plus the Attorney General, the Department of State and the State Police
+Hard deadline	30 days from discovery, since December 2024	Logs kept long enough to show what was taken and whose it was, so the count is ready inside the window.
+New Jersey breach law, N.J.S.A. 56:8-163	
+The Division of State Police, before any customer is told
+Police first	The most expedient time possible, with no set number of days	An incident response plan that puts the State Police report ahead of the customer letters.
+Connecticut breach law, Conn. Gen. Stat. 36a-701b	
+Affected residents, with the Attorney General told no later than they are
+Hard deadline	60 days from discovery	24 months of identity theft protection offered when Social Security numbers were exposed.
+FTC Safeguards Rule, 16 CFR 314.4	
+The FTC, when 500 or more consumers are involved
+Federal	30 days from discovery	One written security program with multi-factor authentication, encryption and a notice process that’s been tested.
+
+New York’s deadline is the one that changed most recently. Until December 2024 the state’s breach law said only “the most expedient time possible,” and now it says 30 days, with no extra time to work out the scope. Thirty days goes quickly when nobody kept the logs. Ask anyone who’s tried. The SHIELD Act’s safeguards rule sits alongside it, and a dealership that’s governed by and complies with the Gramm-Leach-Bliley rules is treated as meeting that part. Connecticut’s Attorney General takes breach reports online and has sent warning letters over slow notices.
+
+Privacy laws are a separate question. New Jersey’s exempts a dealership as a whole, and Connecticut’s, since July 1, 2026, exempts only the data the Gramm-Leach-Bliley Act covers, which our Philadelphia and Boston pages lay out. Your attorney decides how each rule applies to you, and our dealership compliance team keeps one written program that answers to all of them. Read what dealerships need to know about the SHIELD Act, start with a Safeguards risk assessment template, or compare states in dealership privacy laws by state.
+
+Dealership Cybersecurity in New York
+
+The attack we worry about most here doesn’t start with code. It starts with a phone call to a busy store. Someone says they’re from IT, knows the GM’s name and the DMS you run, and needs the service manager to read back the code that just arrived on their phone. It sounds routine. It isn’t. On a Saturday with a full showroom, it often works, and that one code can open email, remote access and the customer files behind them. One code. That is all it takes.
+
+CDK Global’s 2024 survey of dealers found that 35% had a cyberattack or incident that year, and 92% of them said it did real financial or operational damage. Our dealership cybersecurity work covers the store’s side. A live, US-based security operations center watches the network through managed detection and response, advanced endpoint detection and response guards the computers, and Microsoft 365 security closes the inbox where most attacks start. Security awareness training teaches staff that real IT never asks for a code, and penetration testing shows where an attacker would get in.
+
+Our older piece on vishing covers the phone side, and AI email assistants covers the newest way inboxes leak. Want to know where your logins, backups and phone procedures stand? Start with a complimentary IT and cybersecurity assessment. We’ll write the gaps down.
+
+Where We Work Around New York
+
+New York has 860 franchised new-car dealers and New Jersey has 472, according to NADA Data 2025, and a big share of both sit within an hour of Manhattan, along Northern Boulevard, Route 17, Route 1 in Middlesex County and the Jericho Turnpike. Groups grow large here. Very large. Ray Catena started with a used car lot in Kearny in 1961 and now runs 15 luxury dealerships in New Jersey, and Gabrielli sells Isuzu trucks from six locations across New York, New Jersey and Connecticut. We mention both for scale, not as clients. Dealers are represented by the New York State Automobile Dealers Association and NJ CAR.
+
+Truck stores keep different hours. Earlier ones. A parts counter near JFK is busy before sunrise, the service bays run late, and the techs out on the road carry laptops full of customer data. We support Karmak and Procede shops alongside the car stores.
+
+Manhattan
+Queens
+Brooklyn
+The Bronx
+Staten Island
+Hempstead
+Huntington
+White Plains
+Yonkers
+Paramus
+Newark
+Edison
+Morristown
+Stamford
+
+Your town isn’t on the list? That’s fine. We support automotive dealerships and heavy truck dealerships across the Northeast and the rest of the country. Truck groups with branches far apart can start with IT support for remote truck dealership branches. Stores in other metros? See our pages for Boston, Philadelphia, Baltimore, Washington, DC, Charlotte, Atlanta, Tampa Bay, Miami-Fort Lauderdale, Chicago, Detroit, Denver, Dallas-Fort Worth, Houston, Los Angeles and San Francisco.
+
+What a New York Metro Store Gets
+Managed IT
+
+One monthly number covers the help desk, monitoring and field dispatch, with nights and weekends included.
+
+Co-managed IT
+
+Your IT manager keeps the final say and gets a dealership-only team working behind them.
+
+Cybersecurity
+
+A live, US-based security operations center watching your network every hour of every day.
+
+Tekion enablement
+
+Conversion help, escalations and staff training for stores moving to Tekion, and support after go-live.
+
+Putting AI in front of staff or customers? Managed AI gives them a private, governed workspace, and AI governance for dealerships covers the rules around it. Thinking about an AI BDC or a website chatbot? Run the AI chatbot security checklist first. Weighing a DMS change? The DMS comparison lays out the options side by side, and the Tekion network requirements are worth reading before any move. Worried about a day without the DMS? Our backup and disaster recovery work and the DMS outage plan cover it, and dealership network services add a second internet line that takes over on its own.
+
+Common Questions
+
+Already a client and need help right now? Reach support through the contact page.
+
+Does Helion Technologies offer dealership IT services in New York?
+What do managed IT services in New York cost a dealership?
+Does Helion have an office in New York?
+Our store is in New Jersey. Who do we call first after a breach?
+If we follow the FTC Safeguards Rule, are we covered under the SHIELD Act?
+We already have an IT manager. Do we have to replace them?
+Do you support heavy truck dealers around New York?
+
+See where IT, security and breach plans stand at your New York metro stores.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Want a number first? Request a price quote or call (443) 541-1500.
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/","url":"https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/","name":"Dealership IT Services in New York | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-new-york-metro.webp","datePublished":"2026-10-21T15:50:39+00:00","dateModified":"2026-10-21T16:38:08+00:00","description":"Dealership IT services in New York City, Long Island, North Jersey and Fairfield County from Helion Technologies. Managed IT and security. Help in 82s.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-new-york-metro.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-new-york-metro.webp","width":1200,"height":630,"caption":"Dealership IT services in New York from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-new-york\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Dealership IT Services in the New York Metro"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-it-services-new-york/","url":"https://heliontechnologies.com/dealership-it-services-new-york/","name":"Dealership IT Services in the New York Metro","description":"Dealership IT services in New York City, Long Island, North Jersey and Fairfield County from Helion Technologies. Managed IT and security. Help in 82s.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-it-services-new-york-metro.webp","width":1200,"height":630},"about":{"@id":"https://heliontechnologies.com/dealership-it-services-new-york/#service"},"mentions":[{"@type":"Legislation","name":"New York data breach notification law","legislationIdentifier":"N.Y. Gen. Bus. Law 899-aa","legislationJurisdiction":"US-NY","url":"https://www.nysenate.gov/legislation/laws/GBS/899-AA"},{"@type":"Legislation","name":"New York SHIELD Act data security requirements","legislationIdentifier":"N.Y. Gen. Bus. Law 899-bb","legislationJurisdiction":"US-NY","url":"https://www.nysenate.gov/legislation/laws/GBS/899-BB"},{"@type":"Legislation","name":"New Jersey data breach notification law","legislationIdentifier":"N.J.S.A. 56:8-163","legislationJurisdiction":"US-NJ","url":"https://pub.njleg.gov/bills/2018/PL19/95_.HTM"},{"@type":"Legislation","name":"Connecticut data breach notification law","legislationIdentifier":"Conn. Gen. Stat. 36a-701b","legislationJurisdiction":"US-CT","url":"https://www.cga.ct.gov/current/pub/chap_669.htm#sec_36a-701b"},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR 314.4","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314/section-314.4"},{"@type":"Organization","name":"New York State Automobile Dealers Association","url":"https://www.nysada.com/"},{"@type":"Organization","name":"New Jersey Coalition of Automotive Retailers","url":"https://www.njcar.org/"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/dealership-it-services-new-york/#service","name":"Helion Dealership IT Services in the New York Metro","serviceType":"Dealership IT services","description":"Helion Technologies provides dealership IT services in New York City, Long Island, Westchester, North Jersey and Fairfield County for automotive and heavy truck dealerships, including managed IT, co-managed IT, cybersecurity, backup and disaster recovery, Tekion enablement and FTC Safeguards compliance, with an 82-second average time to reach a support agent and a 98% client retention rate.","url":"https://heliontechnologies.com/dealership-it-services-new-york/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":[{"@type":"AdministrativeArea","name":"New York metropolitan area"},{"@type":"City","name":"Manhattan, New York"},{"@type":"City","name":"Queens, New York"},{"@type":"City","name":"Brooklyn, New York"},{"@type":"City","name":"The Bronx, New York"},{"@type":"City","name":"Staten Island, New York"},{"@type":"City","name":"Hempstead, New York"},{"@type":"City","name":"Huntington, New York"},{"@type":"City","name":"White Plains, New York"},{"@type":"City","name":"Yonkers, New York"},{"@type":"City","name":"Paramus, New Jersey"},{"@type":"City","name":"Newark, New Jersey"},{"@type":"City","name":"Edison, New Jersey"},{"@type":"City","name":"Morristown, New Jersey"},{"@type":"City","name":"Stamford, Connecticut"},{"@type":"State","name":"New York"},{"@type":"State","name":"New Jersey"},{"@type":"State","name":"Connecticut"}],"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups in the New York metro, including New Jersey and Fairfield County, Connecticut"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Dealership IT services available in the New York metro","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT for dealerships","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Backup and disaster recovery for dealerships","url":"https://heliontechnologies.com/backup-and-disaster-recovery/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed AI for dealerships","url":"https://heliontechnologies.com/managed-ai/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-it-services-new-york/#faq","url":"https://heliontechnologies.com/dealership-it-services-new-york/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Does Helion Technologies offer dealership IT services in New York?","acceptedAnswer":{"@type":"Answer","text":"Yes. Helion Technologies supports automotive and heavy truck dealerships across New York City, Long Island, Westchester, North Jersey and Fairfield County with managed IT, cybersecurity, Tekion support, backup and FTC Safeguards compliance. Most help is remote, a support agent answers in 82 seconds on average, and field technicians are dispatched for the jobs that need hands."}},{"@type":"Question","name":"What do managed IT services in New York cost a dealership?","acceptedAnswer":{"@type":"Answer","text":"It depends on how many stores you run and which services you pick, so we don't publish a rate card. What we can tell you is what's inside the price. After-hours calls, weekend coverage and field dispatch are part of the monthly number, so a Saturday outage in Yonkers doesn't come back weeks later as its own invoice. Comparing providers first? Read our look at the best managed IT providers for dealerships, then request a price quote for a real figure. The dealership IT budget checklist and our comparison of in-house vs managed IT help with next year's numbers."}},{"@type":"Question","name":"Does Helion have an office in New York?","acceptedAnswer":{"@type":"Answer","text":"No. Helion Technologies is headquartered in Baltimore, Maryland, a few hours down I-95, and supports New York metro stores remotely, with field technicians dispatched when a job needs someone on site. Our guide to onsite vs remote IT support explains when that is. Whenever your New York metro stores are open, 7 days a week, the help desk is open too."}},{"@type":"Question","name":"Our store is in New Jersey. Who do we call first after a breach?","acceptedAnswer":{"@type":"Answer","text":"The Division of State Police, before any customer hears from you. New Jersey's breach law sets no number of days for the customer notice, only the most expedient time possible, but the police report has to come first. Write that order into your incident plan now. Stores in New York or Connecticut answer to their own deadlines too, 30 and 60 days."}},{"@type":"Question","name":"If we follow the FTC Safeguards Rule, are we covered under the SHIELD Act?","acceptedAnswer":{"@type":"Answer","text":"Mostly, for the safeguards part. New York treats a business that's governed by and complies with the Gramm-Leach-Bliley rules as meeting the SHIELD Act's safeguards requirement, and the FTC Safeguards Rule is how dealers comply. The breach notice duty is separate. That 30-day clock still applies. Your attorney makes the final call on how it fits your stores."}},{"@type":"Question","name":"We already have an IT manager. Do we have to replace them?","acceptedAnswer":{"@type":"Answer","text":"Not at all. With co-managed IT, your IT manager keeps the keys, the vendor calls and the final say, while Helion adds the help desk, a co-managed security operations center and extra hands for the projects one person can't cover in three states. They stay in charge. They just stop working alone. Our co-managed IT responsibility matrix shows who owns what."}},{"@type":"Question","name":"Do you support heavy truck dealers around New York?","acceptedAnswer":{"@type":"Answer","text":"We do, and we have for years. A truck store in Queens or North Jersey often runs a different DMS than the car store down the road, and its service trucks carry customer data off the lot every day. Different animal. Read heavy truck dealership cybersecurity, how the FTC Safeguards Rule applies to heavy truck dealers, and mobile service security for truck dealerships."}}]}]}
+

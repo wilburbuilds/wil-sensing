@@ -1,0 +1,255 @@
+URL: https://heliontechnologies.com/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right/
+Fetched: 2026-10-26T03:59:43Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right/
+Content-Type: text/html
+Via: chrome-headless
+Title: Tekion Is Taking Over Dealerships
+Meta description: Across the country, dealerships are making the move to Tekion. But is your team equipped to manage everything that comes with it — beyond just turning it on?
+Canonical: https://heliontechnologies.com/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Tekion Is Taking Over Dealerships – But Here’s What You Need to Get Right
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Tekion Is Taking Over Dealerships – But Here’s What You Need to Get Right
+By Erik Nachbahr
+April 17, 2026 · 4 min read
+
+There’s no denying it — Tekion is having a moment.
+
+Across the country, dealerships are making the move. Some are actively switching. Others are evaluating. And many more are watching closely, trying to decide if now is the time to jump in.
+
+It’s not happening by accident.
+
+A combination of real-world disruption and next-generation innovation has created a wave — and Tekion is right at the center of it.
+
+Why So Many Dealerships Are Moving to Tekion
+
+Part of this momentum traces back to the fallout from the CDK cyberattack.
+
+That event forced dealerships to confront a hard truth:
+their DMS isn’t just software — it’s the operational backbone of the entire business.
+
+When it goes down, everything stops.
+
+That realization alone sparked a surge in dealerships exploring alternatives. But timing also mattered.
+
+At the same time dealers were rethinking risk, Tekion was accelerating.
+
+Recognized as one of the fastest-growing companies in North America on the Deloitte Fast 500
+Rolling out continuous platform enhancements designed to improve dealership efficiency
+Introducing advanced capabilities like AI-driven workflows and automation
+
+Tekion isn’t just positioning itself as a replacement for legacy systems — it’s presenting a vision of what a modern dealership platform should look like.
+
+And that’s compelling.
+
+The Tekion Bandwagon Is Real — But So Are the Risks
+
+Here’s where things get interesting.
+
+When something gains this much traction, it’s easy for dealerships to feel like they need to move quickly — or risk falling behind.
+
+But a DMS transition isn’t like switching vendors for a single tool.
+
+It’s one of the most complex and impactful technology changes a dealership can make.
+
+And that’s where we start to see problems.  Because while the decision to move to Tekion may be strategic … the execution often becomes tactical.
+
+What Dealerships Often Overlook During a Tekion Transition
+Based on what we consistently see across the industry — and what we’ve outlined in our own guidance around DMS transitions — there are a few areas that tend to get underestimated:
+1. Identity and Access Complexity Explodes
+
+Modern platforms like Tekion are cloud-based and heavily integrated.
+
+That means:
+
+More user accounts
+More roles and permissions
+More third-party integrations
+
+If not carefully managed, this creates exposure points attackers look for.
+
+2. Cybersecurity Doesn’t Automatically Improve
+
+There’s a common assumption:  “We’re moving to a modern platform, so security will be better.”
+
+But security isn’t something you buy with a platform.
+
+It’s something you implement, configure, monitor, and continuously improve.
+
+Without that, the risk simply shifts — it doesn’t disappear.
+
+3. Dealership Workflows Don’t Automatically Optimize
+
+Tekion introduces powerful new capabilities.
+
+But if workflows aren’t:
+
+reviewed
+adjusted
+aligned with how the dealership actually operates
+
+Then teams often fall back into old habits — just on a new system.
+
+We go through that problem department by department in our guide to Tekion optimization after go-live.
+
+4. The Transition Window Is a High-Risk Moment
+
+During any major system change:
+
+Controls are adjusted
+Access is expanded
+Processes are in flux
+
+From a cybersecurity perspective, this is exactly when attackers look for opportunities.
+
+The Real Requirement: More Than Just a Platform Decision
+
+This is where the conversation needs to shift.
+
+Moving to Tekion isn’t just a technology upgrade.
+
+It’s an operational transformation.
+
+And successful transformations don’t happen because of software alone.
+
+They happen when there’s a team behind the scenes that understands:
+
+IT infrastructure — to ensure systems are stable and integrated (our Tekion network, hardware and security readiness guide covers it rooftop by rooftop)
+Cybersecurity — to protect identities, data, and access points
+Dealership operations — to align the platform with real-world workflows
+The platform itself — to ensure it’s configured and used effectively
+
+Miss any one of those, and the dealership risks:
+
+underutilizing the platform
+introducing new vulnerabilities
+or failing to realize the expected return on investment
+Tekion Is a Powerful Move — If It’s Done Right
+
+There’s a reason Tekion is gaining momentum.
+
+The innovation is real.
+The growth is real.
+And for many dealerships, the move makes a lot of sense.
+
+But jumping on the bandwagon without the right approach can create just as many challenges as it solves.
+
+The dealerships that see the most success aren’t just the ones that choose the right platform.
+
+They’re the ones that treat the transition for what it is:  A critical moment to get IT, cybersecurity, and operations aligned — not just upgraded.
+
+Final Thought
+
+If your dealership is:
+
+currently using Tekion
+in the process of switching
+or actively evaluating the move
+
+It’s worth stepping back and asking a simple question:
+
+Is your team equipped to manage everything that comes with it — beyond just turning it on?
+
+Because in today’s environment, the difference between success and struggle isn’t the platform.
+
+It’s how well everything around it is executed.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"Tekion Is Taking Over Dealerships &#8211; But Here&#8217;s What You Need to Get Right","datePublished":"2026-04-17T18:50:15+00:00","dateModified":"2026-06-15T14:21:24+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/"},"wordCount":823,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/04\/tekion-office-e1778082293230.jpeg","keywords":["CDK","cyber risk","cybersecurity","dealership cybersecurity","dealership it","dealerships","DMS (Dealer Management System)","information technology","risk","risk exposure","software","software deployment","software migration","technology","Tekion","updates","vulnerability"],"articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/","url":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/","name":"Tekion Is Taking Over Dealerships","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/04\/tekion-office-e1778082293230.jpeg","datePublished":"2026-04-17T18:50:15+00:00","dateModified":"2026-06-15T14:21:24+00:00","description":"Across the country, dealerships are making the move to Tekion. But is your team equipped to manage everything that comes with it — beyond just turning it on?","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/04\/tekion-office-e1778082293230.jpeg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/04\/tekion-office-e1778082293230.jpeg","width":900,"height":540,"caption":"Tekion Is Taking Over Dealerships — But Here’s What You Need to Get Right"},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/tekion-is-taking-over-dealerships-but-heres-what-you-need-to-get-right\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Tekion Is Taking Over Dealerships &#8211; But Here&#8217;s What You Need to Get Right"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

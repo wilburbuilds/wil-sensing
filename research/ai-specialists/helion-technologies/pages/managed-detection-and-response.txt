@@ -1,0 +1,267 @@
+URL: https://heliontechnologies.com/managed-detection-and-response/
+Fetched: 2026-10-26T03:52:52Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/managed-detection-and-response/
+Content-Type: text/html
+Via: chrome-headless
+Title: Managed Detection and Response for Dealerships | Helion
+Meta description: Managed detection and response for dealerships from Helion. Live, US-based analysts watch your network around the clock and stop attacks before the DMS.
+Canonical: https://heliontechnologies.com/managed-detection-and-response/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Managed Detection and Response for Dealerships
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+MANAGED CYBERSECURITY
+
+Managed Detection and Response for Dealerships
+
+Your security tools raise the alarm. Live, US-based analysts answer it around the clock, and the same team that runs your IT fixes whatever they find.
+
+Request a Complimentary Assessment →
+
+Managed detection and response for dealerships is a service where live security analysts watch your computers, servers and accounts around the clock, work out which alerts are real and step in to stop an attack before it reaches the DMS.
+
+Last updated: October 16, 2026
+
+A workstation does something odd
+An analyst decides if it’s real
+The machine gets cut off
+Your store hears what happened
+Our engineers close the hole
+Live, US-based analysts, around the clock
+A Tool Raises the Alarm. Somebody Has to Answer It.
+
+Cybercriminals don’t keep showroom hours. The phishing email lands on a Friday afternoon, and the part that matters, the moment someone uses that stolen login to wander toward the DMS, tends to happen when the building is dark. CDK Global’s research found 35% of auto dealers had a cyberattack or incident in 2024, and its 2023 study put the average downtime after one at 3.4 weeks. That’s three and a half weeks of deals written on paper. A tested backup and disaster recovery plan is what shortens it.
+
+Managed detection and response is how Helion Technologies keeps someone watching during those hours, as part of cybersecurity for dealerships and run by the same team that handles your managed IT. If you’d like the definitions first, our MDR and EDR explainer covers them. This page is about the service, and what changes at your store when the alarm goes off.
+
+An alert nobody reads is just a log entry. We read them, every night.
+
+Who Picks Up When It Goes Off
+2,000+
+Automotive and heavy truck dealerships
+82 sec
+Average time to reach a live support agent
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+
+Security support runs 24/7: live, US-based analysts monitor your systems and step in the moment they see signs of an attack. They work from a live-staffed security operations center, not an offshore queue and not a dashboard somebody checks on Monday. When your people need us, the help desk is open whenever dealers are open, 7 days a week, with after-hours support included. Same team. Same phone number.
+
+HOW IT WORKS
+
+One Alert, From Detection to Fix
+
+Dealers ask us the same five questions about how managed detection and response works, usually in this order. The answers follow the life of one alert, from the moment something trips to the moment the hole is closed, and the point running through all of them is that a trained person makes the call while there’s still time for it to matter.
+
+WHO DOES WHAT AT YOUR STORE?
+
+Write it down before the night you need it. Our free incident response plan template covers who calls whom, and in what order. When an alert turns out to be real, incident response takes it from there.
+
+What dealers ask about an alert
+Five questions, in the order they come up
+
+Detect “It’s probably nothing, right?”
+
+Plenty of alerts are nothing. Say a PC behind the service counter kicks off a PowerShell script at 11:40 on a Saturday, with the building locked since six. That might be an update. It might be the fake parts invoice somebody opened on Friday, and the notification on your phone looks exactly the same either way.
+
+The alert can’t tell you which one it is.
+
+Triage “Can’t the software just handle it?”
+
+Some of it. The software will block a known bad file on its own, no human needed. What it won’t do is notice that the same advisor’s Microsoft 365 login signed in from another state on Wednesday, or that two other PCs in the store started that script an hour ago. Our analyst connects those, and decides whether it’s real.
+
+That decision is what you’re paying for.
+
+Contain “Are you going to shut my store down?”
+
+No. One PC comes off the network and the script gets stopped before it can reach the DMS, the F&I scanner share or the folder where accounting keeps payroll. On Monday the advisors log in at the next counter over.
+
+The service drive opens on time.
+
+Tell “Who’s going to tell me?”
+
+We are. Your contact at the store hears which PC it was, what the script went after and what’s already been done, written so a general manager can read it without a glossary.
+
+Names, times and actions, no jargon.
+
+Fix “And who cleans it up?”
+
+The same people your staff call about a printer jam. They rebuild the PC, reset every password that login could reach, find the email that started it and tighten the filter that let it through. A bolt-on security vendor would have sent a PDF.
+
+One team, start to finish.
+
+“We Have EDR” Isn’t the Same as Being Watched
+
+Ask about security at most dealerships and somebody will tell you, usually within ten seconds, that they have EDR. Then we assess a store that isn’t a Helion client and find the same handful of things we always find, like computers that were never enrolled in the tool, agents that were installed and then stopped reporting in, default settings nobody touched and nobody at all reading the alerts. We wrote the pattern up in a dealership EDR issue.
+
+Attackers know it, too. There’s now a whole class of tools built to switch endpoint protection off before the real attack starts, which we cover in EDR killers. Software that’s been quietly disabled doesn’t send an alert. Analysts watching the fleet notice when one machine goes silent, or when the tool and the behavior on that machine stop adding up, and that kind of thing is very hard to catch from a weekly report. Reports don’t notice silence.
+
+The tool is half of it.
+
+EDR on its own
+
+Software on each computer that spots suspicious behavior and can stop some of it automatically. Somebody still has to enroll every device, tune it, read the alerts and act on them. Most stores don’t.
+
+A smoke detector.
+
+Managed detection and response
+
+The same kind of tool, on every device and tuned for dealership systems, watched around the clock by live analysts who investigate what it finds and contain it.
+
+Somebody answers it.
+
+WHO’S CHECKING
+
+Who Wants to Know Whether Anyone Is Watching
+
+The first row is the one that costs you a sales month. The others ask the same question in their own paperwork, and a dealership with managed detection and response has a straight answer to all of them.
+
+Who
+	What they look for	Where managed detection and response fits
+Cybercriminals	A machine nobody watches, a stolen login nobody questions and a weekend to work with	Somebody looks at the alert when it fires, while the intruder is still on one workstation
+Cyber insurance underwriters	Endpoint detection and response is one of the three controls insurers recommend most, with MFA and privileged access management	A truthful yes when the renewal asks whether endpoints are covered and monitored
+The FTC Safeguards Rule	Continuous monitoring of your systems, or else a yearly penetration test and vulnerability assessments every six months, plus logging of user activity	The continuous monitoring path, with logs that show what an intruder touched
+Publicly traded dealer groups	A Form 8-K, generally due four business days after the company decides a cybersecurity incident is material	Facts about the incident early, while the clock is running
+
+The insurance row comes from Marsh McLennan’s 2023 research on cybersecurity controls, which also notes those controls are commonly required by underwriters. The Safeguards row is in the FTC’s own Safeguards Rule FAQ for auto dealers and in 16 CFR 314.4, and the same FAQ requires you to tell the FTC within 30 days of discovering a breach involving 500 or more consumers, which we unpack in the Safeguards breach notification rule. The 8-K timing is from the SEC’s 2023 cybersecurity disclosure rules. The paperwork side of all this lives with our FTC Safeguards compliance team.
+
+How Managed Detection and Response Starts
+1
+Request the assessment
+
+Fill in the short form for our complimentary IT and cybersecurity assessment. It costs nothing, carries no obligation, and you don’t need to be shopping for a new provider.
+
+2
+We check what’s really running
+
+An engineer looks at whether endpoint protection is on every device, whether it’s reporting, how it’s set up and who reads the alerts today.
+
+3
+Findings arrive in writing
+
+You see the gaps, the machines nobody is watching, and what monitored coverage would look like across your rooftops.
+
+4
+You decide what’s next
+
+Fix it yourself, or let us run it. Onboarding starts within weeks of signing. On the co-managed path your own IT manager stays in charge.
+
+More on Detection and Response at the Dealership
+
+The definitions, the traps in the tools and what to do on the night something gets through.
+
+MDR and EDR, explained
+What each one is, and why the difference matters at a dealership.
+→
+A dealership EDR issue
+What assessments keep finding when a store says it has EDR.
+→
+EDR killers
+The attacker tools built to switch endpoint protection off.
+→
+EDR vs XDR
+How detection grew past the single computer.
+→
+What a SOC does for a dealership
+The security operations center behind continuous monitoring.
+→
+Continuous monitoring that counts
+Why tools alone don’t meet the spirit of the Safeguards Rule.
+→
+Cyber insurance underwriting
+What carriers now want to see before they write a dealer policy.
+→
+Incident response plan template
+Who does what, in order, when an alert turns out to be real.
+→
+Backup and disaster recovery
+Getting files and systems back after an attack gets through.
+→
+A DMS outage plan
+How the store keeps selling while the DMS is down.
+→
+FTC Safeguards Rule checklist
+Where your store stands on monitoring and the rest of the rule.
+→
+Co-managed IT
+Helion alongside your own IT person, who stays in charge.
+→
+Common Questions
+
+NOT SURE ANYONE’S WATCHING TODAY?
+
+A complimentary IT and cybersecurity assessment answers that in writing. Already know what you need? Get a price quote.
+
+What does managed detection and response include for a dealership?
+We already have EDR. Why would we need MDR?
+Will our cyber insurance carrier ask about it?
+Does it cover the Safeguards Rule’s monitoring requirement?
+Which security tools does Helion use?
+Can our IT manager stay in charge of security?
+
+Your tools may already be raising the alarm. Let us show you who’s hearing it.
+
+Request a Complimentary Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/managed-detection-and-response\/","url":"https:\/\/heliontechnologies.com\/managed-detection-and-response\/","name":"Managed Detection and Response for Dealerships | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/managed-detection-and-response\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/managed-detection-and-response\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/managed-detection-and-response-for-dealerships.webp","datePublished":"2026-10-16T15:45:44+00:00","dateModified":"2026-10-16T16:00:33+00:00","description":"Managed detection and response for dealerships from Helion. Live, US-based analysts watch your network around the clock and stop attacks before the DMS.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/managed-detection-and-response\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/managed-detection-and-response\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/managed-detection-and-response\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/managed-detection-and-response-for-dealerships.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/managed-detection-and-response-for-dealerships.webp","width":1200,"height":630,"caption":"Managed detection and response for dealerships, from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/managed-detection-and-response\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Managed Detection and Response (MDR) for Dealerships"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/managed-detection-and-response/","url":"https://heliontechnologies.com/managed-detection-and-response/","name":"Managed Detection and Response for Dealerships","description":"Managed detection and response for dealerships from Helion. Live, US-based analysts watch your network around the clock and stop attacks before the DMS.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/managed-detection-and-response-for-dealerships.webp","width":1200,"height":630},"about":[{"@type":"Thing","name":"Managed detection and response","alternateName":"MDR","description":"A security service in which live analysts monitor a dealership's workstations, servers and accounts around the clock, investigate alerts from endpoint detection and response software, and contain attacks before they reach the DMS."}],"mentions":[{"@type":"Thing","name":"Endpoint detection and response","alternateName":"EDR"},{"@type":"Thing","name":"Security operations center","alternateName":"SOC"},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR Part 314","legislationJurisdiction":"US","url":"https://www.law.cornell.edu/cfr/text/16/314.4"},{"@type":"Thing","name":"SEC Form 8-K Item 1.05, material cybersecurity incidents","url":"https://www.sec.gov/newsroom/press-releases/2023-139"}],"hasPart":[{"@type":"WebPageElement","name":"One alert, from detection to fix","url":"https://heliontechnologies.com/managed-detection-and-response/#one-alert"},{"@type":"WebPageElement","name":"'We have EDR' isn't the same as being watched","url":"https://heliontechnologies.com/managed-detection-and-response/#we-have-edr"},{"@type":"WebPageElement","name":"Who wants to know whether anyone is watching","url":"https://heliontechnologies.com/managed-detection-and-response/#who-checks"},{"@type":"WebPageElement","name":"How managed detection and response starts","url":"https://heliontechnologies.com/managed-detection-and-response/#how-it-starts"}],"significantLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/cybersecurity/","https://heliontechnologies.com/incident-response-plan-template/"],"relatedLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/backup-and-disaster-recovery/","https://heliontechnologies.com/cybersecurity/","https://heliontechnologies.com/support/","https://heliontechnologies.com/mdr-and-edr-what-every-dealership-should-know/","https://heliontechnologies.com/incident-response-plan-template/","https://heliontechnologies.com/microsoft-365-security/","https://heliontechnologies.com/dealership-edr-issue/","https://heliontechnologies.com/edr-killers-the-new-cyber-threat-targeting-dealerships/","https://heliontechnologies.com/safeguards-rule-breach-notification/","https://heliontechnologies.com/compliance/","https://heliontechnologies.com/co-managed-it/","https://heliontechnologies.com/an-effective-cyber-defense-evolves-edr-vs-xdr/","https://heliontechnologies.com/a-soc-saves-dealers-money-while-mitigating-the-risk-of-a-cybersecurity-breach/","https://heliontechnologies.com/valuable-vs-worthless-continuous-threat-monitoring/","https://heliontechnologies.com/dealer-cyber-insurance-the-tightening-of-underwriting-guidelines/","https://heliontechnologies.com/dms-outage-plan/","https://heliontechnologies.com/ftc-safeguards-rule-checklist/","https://heliontechnologies.com/price-quote/"],"citation":[{"@type":"CreativeWork","name":"Marsh McLennan research linking key cybersecurity controls to reduced cyber risk (2023)","url":"https://www.marsh.com/en/corp/about/news/groundbreaking-research-from-marsh-mclennan-reveals-direct-link-.html","publisher":{"@type":"Organization","name":"Marsh McLennan"}},{"@type":"CreativeWork","name":"Automobile Dealers and the FTC's Safeguards Rule: Frequently Asked Questions","url":"https://www.ftc.gov/business-guidance/resources/automobile-dealers-ftcs-safeguards-rule-frequently-asked-questions","publisher":{"@type":"Organization","name":"Federal Trade Commission"}},{"@type":"CreativeWork","name":"16 CFR 314.4 Elements of the information security program","url":"https://www.law.cornell.edu/cfr/text/16/314.4","publisher":{"@type":"Organization","name":"Legal Information Institute, Cornell Law School"}},{"@type":"CreativeWork","name":"SEC Adopts Rules on Cybersecurity Risk Management, Strategy, Governance, and Incident Disclosure by Public Companies","url":"https://www.sec.gov/newsroom/press-releases/2023-139","publisher":{"@type":"Organization","name":"U.S. Securities and Exchange Commission"}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/managed-detection-and-response/#service","name":"Helion Managed Detection and Response for Dealerships","serviceType":"Managed detection and response","description":"Helion Technologies watches dealership workstations, servers and accounts around the clock with live, US-based security analysts who investigate alerts, contain attacks and hand cleanup to the same team that runs managed IT for 2,000+ dealerships, with an 82-second average time to reach support and a 98% client retention rate.","url":"https://heliontechnologies.com/managed-detection-and-response/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion IT and security services for dealerships","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/managed-detection-and-response/#faq","url":"https://heliontechnologies.com/managed-detection-and-response/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What does managed detection and response include for a dealership?","acceptedAnswer":{"@type":"Answer","text":"It includes endpoint detection and response on your workstations and servers, around-the-clock monitoring by live, US-based analysts, investigation of every alert they pick up, and containment when an attack is real. Helion runs it inside managed IT, so the cleanup afterward comes from the same team."}},{"@type":"Question","name":"We already have EDR. Why would we need MDR?","acceptedAnswer":{"@type":"Answer","text":"Because EDR is the tool and MDR is the people who answer it. The software flags suspicious behavior, but somebody has to read the alert at 2 a.m. and decide. In our assessments, stores that say they have EDR often have machines that were never enrolled."}},{"@type":"Question","name":"Will our cyber insurance carrier ask about it?","acceptedAnswer":{"@type":"Answer","text":"Expect it to. Marsh McLennan's 2023 research lists endpoint detection and response among the three controls insurers recommend most, and notes those controls are commonly required by underwriters. Being able to say the tool is on every device, and watched, makes the renewal questionnaire a lot shorter."}},{"@type":"Question","name":"Does it cover the Safeguards Rule's monitoring requirement?","acceptedAnswer":{"@type":"Answer","text":"Two paths satisfy that part of the rule, and managed detection and response is the continuous monitoring one. The other is a yearly penetration test plus vulnerability assessments every six months. Helion also runs annual human-led penetration testing, so dealers in our compliance program aren't choosing between them."}},{"@type":"Question","name":"Which security tools does Helion use?","acceptedAnswer":{"@type":"Answer","text":"We don't publish our stack, and that's on purpose. Attackers shop for the products a target runs and bring tools built to switch them off. We'll walk you through the categories and how they're set up during the assessment, which is where that conversation belongs."}},{"@type":"Question","name":"Can our IT manager stay in charge of security?","acceptedAnswer":{"@type":"Answer","text":"Yes. On the co-managed path your IT manager keeps running the store's systems and Helion's analysts take the overnight watch. Nobody can read security alerts at 3 a.m. and still be sharp for the morning rush at the service drive, so this adds depth without replacing anyone."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/managed-detection-and-response/#howto","name":"How managed detection and response for dealerships starts with Helion","description":"Four steps from requesting the complimentary assessment to deciding who watches the alerts.","step":[{"@type":"HowToStep","position":1,"name":"Request the assessment","text":"Fill in the short form for our complimentary IT and cybersecurity assessment. It costs nothing, carries no obligation, and you don't need to be shopping for a new provider."},{"@type":"HowToStep","position":2,"name":"We check what's really running","text":"An engineer looks at whether endpoint protection is on every device, whether it's reporting, how it's set up and who reads the alerts today."},{"@type":"HowToStep","position":3,"name":"Findings arrive in writing","text":"You see the gaps, the machines nobody is watching, and what monitored coverage would look like across your rooftops."},{"@type":"HowToStep","position":4,"name":"You decide what's next","text":"Fix it yourself, or let us run it. Onboarding starts within weeks of signing. On the co-managed path your own IT manager stays in charge."}]}]}
+

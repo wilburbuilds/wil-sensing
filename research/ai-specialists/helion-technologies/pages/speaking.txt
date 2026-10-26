@@ -1,0 +1,287 @@
+URL: https://heliontechnologies.com/upcoming-events/
+Fetched: 2026-10-26T04:01:48Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/speaking/
+Content-Type: text/html
+Via: chrome-headless
+Title: Erik Nachbahr, Speaker on Dealership IT and AI | Helion
+Meta description: Erik Nachbahr, speaker and Helion Technologies founder, covers AI, cybersecurity, FTC Safeguards, DMS moves and buy-sell IT. See his talks and book him.
+Canonical: https://heliontechnologies.com/speaking/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Erik Nachbahr, Speaker on Dealership IT, Security and AI
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+SPEAKING
+
+Erik Nachbahr, Speaker on Dealership IT, Security and AI
+
+Nearly 30 years of dealership-only IT work, turned into talks on AI, security, compliance, DMS moves and buy-sells.
+
+Request a Complimentary Assessment →
+
+Erik Nachbahr, founder and president of Helion Technologies and a CISSP, speaks at dealership industry events, including AICPA and NADA, about AI, cybersecurity, FTC Safeguards, DMS transitions and the IT risk inside dealership acquisitions.
+
+Last updated: October 22, 2026
+
+Consumer AI vs dealership AI
+AI governance and guardrails
+FTC Safeguards as a program
+DMS transitions and Tekion
+IT risk in a buy-sell
+One speaker, dealerships only
+Who You’re Booking
+
+Erik founded Helion in 1997, and the company has worked only with car and truck dealerships ever since. Nothing else. Today it supports more than 2,000 dealerships and 35,000-plus dealership employees across managed IT, cybersecurity, compliance, Tekion enablement and managed AI. That’s where the talks come from. He isn’t guessing. He’s describing what Helion’s technicians and engineers run into inside dealerships every week, with every store kept anonymous. No names, ever.
+
+His full background, including the CISSP security credential, is on the Helion leadership page. This page is the speaking side. Talks, venues, a recording, and how to ask for a date.
+
+Plenty of speakers talk about dealership technology. Erik’s team keeps it running in 2,000-plus stores.
+
+SESSION TOPICS
+
+The Talks Erik Nachbahr Gives
+
+Each topic comes out of Erik’s own presentations and out of what Helion’s teams see in dealerships, week in and week out. Some rooms want the AI story. Others don’t. A CPA audience may care more about compliance and buy-sells, so tell us who’ll be in the seats and we’ll suggest the talk that fits them. Or pick one yourself.
+
+READ ONE BEFORE YOU PICK
+
+Scot McConnor’s AI governance guide is built on Erik’s DealersEdge webinar and carries its full transcript.
+
+Five talks
+What each one covers, and who it’s for
+
+Managed AI
+The Other Side of the Desk
+
+Dealers are buying AI to sell and service faster, and their customers have the same tools, often for free. Erik’s argument, from his own presentation, is that consumer AI may cancel out the gains a store pays for. Gross has always leaned on what the store knew and the shopper didn’t, from invoice and incentives to trade values, F&I product cost and labor times, and a chat window can close that gap before the customer ever walks in. Fixed ops is next. He doesn’t stop at the warning. The close is about prices and service recommendations that hold up when an AI checks them, and about staff who are ready for the customer who’s done that homework.
+
+Dealer principals, GMs, fixed ops.
+
+AI governance
+Guardrails Before the Fun Stuff
+
+Erik is no AI skeptic. He uses it all day, says so up front, and then asks what most AI talks skip, which is what a tool can reach once somebody connects it. In the DealersEdge webinar he put it bluntly. AI “has reach into whatever data that at the level that it’s given access, and it’s going to use it, believe me.” The rest is about control. Who signs off on a new tool? He starts there.
+
+Owners, CFOs, compliance leads.
+
+Compliance
+FTC Safeguards as a Running Program
+
+We hear the same answer a lot when we ask a store about the FTC Safeguards Rule, and it’s usually about a binder. Erik’s question goes one step further, because what he wants to know is whether anyone is watching the systems this week and whether there’s a report to show for it. In this talk he walks the room through what the Qualified Individual, the risk assessment and the monitoring look like in a store that keeps them running all year, rather than dusting them off when the cyber insurance renewal questionnaire arrives.
+
+CPAs, controllers, compliance officers.
+
+Tekion and DMS
+New DMS, Old Habits
+
+When we sit down with a store a few months after a DMS move, the new system can usually do a lot more than the old one did, yet the office is still printing the same reports and keying some deals in twice. Erik doesn’t think that’s a software problem. In his telling the process never got adapted and nobody came back to tune the system after the install, and this talk is about fixing both, along with the work that continues after Tekion’s own launch program.
+
+Groups planning a move, or just past one.
+
+Acquisitions
+The IT You Inherit in a Buy-Sell
+
+A dealer who buys a store buys its IT in the same deal, whether or not anybody looked at it first, and that can include aging computers in the F&I office, a server in a closet nobody has the password to, and vendor contracts that renew on their own. Sellers don’t tend to upgrade much once they’ve decided to sell, which is understandable from their side of the table. Erik’s talk shows the buyer what to look at before signing and what to fix first once the store is theirs.
+
+Buyers, and their CPAs.
+
+Hear Erik Nachbahr Speak Before You Book
+
+The easiest way to judge a speaker is to listen to one. In October 2026 Erik presented a 55-minute DealersEdge webinar on AI governance for dealerships, and he opened it with something close to a confession. “I’ve been doing IT for 30 years and this is probably one of the coolest things that’s happened in the computer world,” he told the audience, and then he spent most of the hour on what can go wrong with it. That’s the whole pitch, really. He’s not wrong.
+
+From there he works through personal AI accounts, one login shared across a sales floor, permissions AI tools inherit, and how a governance board sets the rules. It’s quick and plain, and it’s the closest thing on file to seeing him live. Worth a listen. You can watch it from 1:25 on YouTube, or read the full transcript in the AI governance guide.
+
+A fan of AI who’d rather you didn’t get burned by it.
+
+1:25
+
+Why someone who uses AI every day is the one talking about its risks.
+
+Start at the opening
+
+26:22
+
+The governance board and the policy, so a store decides which tools staff can use.
+
+Jump to governance
+
+36:24
+
+The five steps he gives a store to put AI under control.
+
+Jump to the five steps
+
+What the Talks Draw On
+1997
+Founded, and dealership-only from the start
+2,000+
+Dealerships supported
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+
+Those numbers are the source of the examples. Real ones. When Erik describes a seller who stopped upgrading computers, or a salesperson who wanted one AI login on every desk, he’s describing patterns Helion sees across that base, and the store in the story is never named.
+
+ON THE RECORD
+
+Where Erik Has Spoken and Been Interviewed
+
+This list sticks to what’s on file. Nothing padded. Need dates or session titles for a particular event? Ask in the request form below.
+
+Venue
+	Format	What’s on file
+AICPA	Dealership industry sessions	Listed in Erik’s speaking bio
+NADA	Dealership industry events	Listed in Erik’s speaking bio
+State dealer associations and vendor conferences	Industry events	Listed in Erik’s 2026 speaking bio
+DealersEdge	Webinar, October 2026	AI governance for dealerships, recorded, watch from 1:25
+Automotive News	Interviews, 2020 and 2024	IT upgrades and security and cybersecurity challenges in 2024
+WardsAuto	Interview, 2024	Cyberattacks targeting dealerships
+AutoSuccess and Auto Dealer Today	Bylined articles, 2019	Data privacy and moving the dealership to the cloud
+
+Every interview and article is collected on the Helion press page, newest first. Reporters welcome too. The request form below reaches the same team.
+
+FOR EVENT ORGANIZERS
+
+Request Erik Nachbahr for Your Event
+
+Use the form to tell us about the event. Details help. The message box is where they go, so add the event name, the city or a virtual format, the date you have in mind, who’ll be in the audience and the topic that interests you most. Rough details are fine.
+
+A Helion representative follows up to talk through the fit and Erik’s availability. That’s all it takes. Prefer the phone? Call (443) 541-1500 or email marketing@heliontechnologies.com.
+
+The more we know about the room, the better the talk.
+
+Tell Us About Your Event
+
+First name
+Last name
+Work email
+Phone
+Dealership or group
+How can we help?
+
+This is Helion’s main contact form, so the button mentions an assessment. Your event details still reach the right team. Privacy policy.
+
+Common Questions
+
+HEARD A STORY THAT SOUNDED LIKE YOUR STORE?
+
+A complimentary IT and cybersecurity assessment shows where your own dealership’s IT and security stand.
+
+What does Erik Nachbahr speak about?
+Where has Erik spoken before?
+Can we hear him before we book him?
+How do we request Erik for an event?
+Does he speak to CPA and accounting audiences?
+Who is Erik Nachbahr?
+More About Erik and Helion
+
+His background, his interviews, and the services behind each talk.
+
+Helion leadership
+Erik’s background, the CISSP and how he leads Helion.
+→
+Helion in the news
+Every interview and article, newest first.
+→
+Erik’s articles
+Everything he’s written for the Helion blog.
+→
+About Helion
+Dealership IT since 1997, and the team behind it.
+→
+AI governance for dealerships
+The guide built on his DealersEdge webinar.
+→
+Managed AI
+A private, governed AI workspace the store owns.
+→
+Continuous compliance
+FTC Safeguards run as a program, not a binder.
+→
+Tekion enablement
+Implementation through ongoing optimization.
+→
+DMS transition
+Planning and running a move between platforms.
+→
+Acquisition IT integration
+The IT side of a buy-sell, before and after closing.
+→
+
+Erik’s talks are about other people’s dealerships. The assessment is about yours.
+
+Request a Complimentary Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/speaking/#wpcf7-f100065-p100912-o1" id=""
+  - input type=text name="firstname" id="f-firstname" label="First name" placeholder="" aria="" required=false
+  - input type=text name="lastname" id="f-lastname" label="Last name" placeholder="" aria="" required=false
+  - input type=email name="email" id="f-email" label="Work email" placeholder="" aria="" required=false
+  - input type=tel name="phone" id="f-phone" label="Phone" placeholder="" aria="" required=false
+  - input type=text name="company" id="f-company" label="Dealership or group" placeholder="" aria="" required=false
+  - textarea type= name="message" id="f-message" label="How can we help?" placeholder="" aria="" required=false
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="alt_s" id="alt_s" label="" placeholder="" aria="" required=false
+  - input type=text name="hrtxfy5586" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/speaking\/","url":"https:\/\/heliontechnologies.com\/speaking\/","name":"Erik Nachbahr, Speaker on Dealership IT and AI | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/speaking\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/speaking\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/erik-nachbahr-speaker.webp","datePublished":"2026-10-22T15:08:52+00:00","dateModified":"2026-10-22T15:08:53+00:00","description":"Erik Nachbahr, speaker and Helion Technologies founder, covers AI, cybersecurity, FTC Safeguards, DMS moves and buy-sell IT. See his talks and book him.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/speaking\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/speaking\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/speaking\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/erik-nachbahr-speaker.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/erik-nachbahr-speaker.webp","width":1200,"height":630,"caption":"Erik Nachbahr speaks on dealership IT, security and AI."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/speaking\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Erik Nachbahr, Speaker on Dealership IT, Security and AI"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/speaking/","url":"https://heliontechnologies.com/speaking/","name":"Erik Nachbahr, Speaker on Dealership IT, Security and AI","description":"Erik Nachbahr, speaker and Helion Technologies founder, covers AI, cybersecurity, FTC Safeguards, DMS moves and buy-sell IT. See his talks and book him.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","breadcrumb":{"@id":"https://heliontechnologies.com/speaking/#breadcrumb"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/erik-nachbahr-speaker.webp","width":1200,"height":630},"about":{"@id":"https://heliontechnologies.com/leadership/#person-erik-nachbahr"},"mentions":[{"@type":"Thing","name":"Consumer AI in car buying","description":"Shoppers using AI tools to research invoice, incentives, trade values and service pricing before they visit a dealership."},{"@type":"Thing","name":"AI governance","description":"The policies, approvals and access controls a dealership sets for the AI tools its staff use."},{"@type":"Thing","name":"FTC Safeguards Rule","description":"The FTC rule that requires dealerships to run an information security program with a Qualified Individual, a risk assessment and ongoing monitoring."},{"@type":"Thing","name":"Dealer management system","alternateName":"DMS","description":"The core software a dealership runs sales, service, parts and accounting on, such as Tekion, CDK Global or Reynolds."},{"@type":"Thing","name":"Dealership acquisition IT risk","description":"The computers, accounts and vendor contracts a buyer inherits in a dealership buy-sell."},{"@type":"CreativeWork","name":"AI Governance for Dealerships, DealersEdge webinar","url":"https://www.youtube.com/watch?v=-37QsZDznro","creator":{"@id":"https://heliontechnologies.com/leadership/#person-erik-nachbahr"},"inLanguage":"en-US"}],"hasPart":[{"@type":"WebPageElement","name":"The talks Erik Nachbahr gives","url":"https://heliontechnologies.com/speaking/#talks"},{"@type":"WebPageElement","name":"Hear Erik Nachbahr speak before you book","url":"https://heliontechnologies.com/speaking/#clip"},{"@type":"WebPageElement","name":"Where Erik has spoken and been interviewed","url":"https://heliontechnologies.com/speaking/#venues"},{"@type":"WebPageElement","name":"Request Erik Nachbahr for your event","url":"https://heliontechnologies.com/speaking/#book"}],"significantLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/leadership/","https://heliontechnologies.com/press/"],"relatedLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/leadership/","https://heliontechnologies.com/ai-governance-for-dealerships/","https://heliontechnologies.com/erik-nachbahr-interviewed-for-automotive-news/","https://heliontechnologies.com/automotive-news-interviews-erik-nachbahr-dealership-cybersecurity/","https://heliontechnologies.com/wards-auto-interviews-erik-nachbahr-about-cyberattacks-targeting-dealerships/","https://heliontechnologies.com/erik-nachbahr-for-autosuccess-dealers-must-prep-for-data-privacy-revolution/","https://heliontechnologies.com/erik-nachbahr-for-auto-dealer-today-your-dealership-belongs-in-the-cloud/","https://heliontechnologies.com/press/","https://heliontechnologies.com/privacy/","https://heliontechnologies.com/company/","https://heliontechnologies.com/managed-ai/","https://heliontechnologies.com/compliance/","https://heliontechnologies.com/tekion-services/","https://heliontechnologies.com/dms-services/","https://heliontechnologies.com/dealership-acquisition-it/"],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/speaking/#faq","url":"https://heliontechnologies.com/speaking/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/leadership/#person-erik-nachbahr"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What does Erik Nachbahr speak about?","acceptedAnswer":{"@type":"Answer","text":"Five topics, all from dealership work. Consumer AI against dealership AI gains, AI governance and guardrails, FTC Safeguards as a running program, DMS transitions and Tekion, and the IT risk in dealership acquisitions. Each one draws on what Helion's teams see in stores, and no client is ever named."}},{"@type":"Question","name":"Where has Erik spoken before?","acceptedAnswer":{"@type":"Answer","text":"Erik's speaking bio lists dealership industry events including AICPA and NADA, along with state dealer association events and vendor conferences. In October 2026 he presented a DealersEdge webinar on AI governance, and Automotive News and WardsAuto have both interviewed him about dealership cybersecurity. Ask us for dates."}},{"@type":"Question","name":"Can we hear him before we book him?","acceptedAnswer":{"@type":"Answer","text":"Sure. The DealersEdge recording is on YouTube, and the opening at 1:25 is a fair sample of how he talks, quick and plain, and openly fond of AI while he lists its risks. If you'd rather read than watch, the AI governance guide has the full transcript."}},{"@type":"Question","name":"How do we request Erik for an event?","acceptedAnswer":{"@type":"Answer","text":"Use the request form on this page and put the event details in the message box. Include the date, the city or virtual format, the audience and the topic you're after. You can also call (443) 541-1500 or email marketing@heliontechnologies.com, and a Helion representative follows up. Either way works."}},{"@type":"Question","name":"Does he speak to CPA and accounting audiences?","acceptedAnswer":{"@type":"Answer","text":"He does. AICPA is on his speaking bio. Accountants who work with dealerships see the same exposure he talks about, from FTC Safeguards obligations to the IT that comes along with a buy-sell, which is why the compliance and acquisition talks fit those rooms."}},{"@type":"Question","name":"Who is Erik Nachbahr?","acceptedAnswer":{"@type":"Answer","text":"Erik Nachbahr founded Helion Technologies in 1997 and is its president. He holds the CISSP and has spent nearly 30 years working only with automotive and heavy truck dealerships. His full bio is on the leadership page, and his articles are on his author page."}}]}]}
+

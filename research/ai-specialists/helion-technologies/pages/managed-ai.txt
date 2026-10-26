@@ -1,0 +1,345 @@
+URL: https://heliontechnologies.com/managed-ai/
+Fetched: 2026-10-26T03:42:20Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/managed-ai/
+Content-Type: text/html
+Via: chrome-headless
+Title: Managed AI for Dealerships | Helion Technologies
+Meta description: Managed AI for dealerships: Helion gives your staff a private, governed AI workspace run by the same team that handles your IT and FTC compliance.
+Canonical: https://heliontechnologies.com/managed-ai/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Managed AI for Dealerships — Governed, Private, Built Into Your IT Program
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+THE FIFTH PILLAR · MANAGED AI
+Managed AI for Dealerships — Governed, Private, Built Into Your IT Program
+
+Your staff is already using AI. Helion makes sure it's yours — isolated, auditable, and managed by the same team that handles your IT, cybersecurity, and FTC compliance.
+
+Schedule Your AI Readiness Assessment
+57%
+of dealership staff now use AI in some capacity
+Reynolds & Reynolds, State of AI in Automotive Retail, Q1 2026
+
+Helion Managed AI is a private, dealership-branded AI workspace deployed and governed by Helion Technologies. Staff get a full AI capability across every department. Customer data stays inside your environment, isolated from public AI models, owned by the same team managing your IT and compliance.
+
+The tools are in the building. What's missing is any ownership over them.
+
+Reynolds & Reynolds (Q1 2026) found that 57% of dealership employees are already using AI tools. 70% of dealer principals are too.
+
+Dealership employees using AI
+57%
+Dealer principals using AI
+70%
+Reynolds & Reynolds, State of AI in Automotive Retail, Q1 2026
+SERVICE ADVISORS
+
+Pasting RO notes into ChatGPT.
+
+BDC
+
+Drafting lead responses in it, sometimes through an AI email assistant nobody approved.
+
+F&I
+
+Used it last week to summarize a deal jacket.
+
+All of it in personal accounts, outside your security controls, with no record of what left the building. Our security awareness training now covers AI use, too.
+
+$670,000
+
+Shadow AI premium added to the average breach cost · IBM 2025
+
+34.8%
+
+Of what employees paste into AI tools is sensitive data · Cyberhaven
+
+Dealerships are financial institutions under FTC Safeguards. That's exactly what's moving through those sessions.
+
+Helion manages your IT, cybersecurity, and FTC compliance. Managed AI is the fifth pillar. Same team, same phone number, same standard.
+
+Managed IT
+Cybersecurity
+Compliance
+Tekion Enablement
+Managed AI
+What Is Managed AI for Dealerships?
+
+Managed AI for dealerships is a recurring, governed service — not a software license, not a one-time project. A private AI environment built for your dealership, configured for each department's actual workflows, connected securely to your existing systems, with ongoing governance, access controls, and usage visibility managed by Helion.
+
+Your staff gets the AI capability they're already using in personal accounts. You get a program you actually own.
+
+This is different from the AI your DMS vendor is adding or the chatbot on your website. If a chatbot is already live on your site, start with our AI chatbot data security checklist for car dealerships.
+
+DMS AI · WEBSITE CHATBOT
+
+Those handle customer-facing interactions.
+
+MANAGED AI
+
+Managed AI handles the internal work.
+
+Writing
+Summarizing
+Drafting
+Researching
+
+The work your staff does every day, currently in tools you can't see.
+
+Your Own AI Workspace. Your Brand. Your Data.
+
+What Helion deploys is a private workspace that runs under your dealership's brand — not ours, not a vendor's, yours. Every user logs into an environment that looks like it belongs to your organization. Because it does.
+
+Isolated per tenant
+
+Data from your group doesn't commingle with any other organization's.
+
+Zero Data Retention
+
+Your prompts aren't stored by the model provider, and your data isn't used to train anything.
+
+Same access controls, extended to cover AI
+
+Because Helion already manages your identity environment, infrastructure, and security controls, AI access is governed the same way every other system in your dealership is. No separate login. No new vendor to track. Rex Marchant explains the access rule behind it in our guide to least privilege AI for dealership AI tools, and how to keep customer records private when you connect AI to your DMS data.
+
+Built Around How Dealerships Actually Work
+
+Generic AI tools assume standard office workflows. Dealerships don't run that way. Here's what Helion Managed AI covers by department:
+
+Service
+→ Repair order write-up cleanup
+→ Warranty documentation prep
+→ Advisor follow-up drafts
+Sales and BDC
+→ Lead response drafting from CRM notes
+→ Internet lead triage
+→ Follow-up messages in a consistent voice
+Parts
+→ Vendor quote comparison
+→ Obsolescence review
+→ Core and return documentation
+Office and accounting
+→ Month-end report summarization
+→ Deal jacket completeness checks
+→ Schedule reconciliation prep
+HR and operations
+→ Policy Q&A
+→ Onboarding content
+→ SOP drafting — especially useful for multi-store groups where the same questions get answered differently by different managers
+Leadership
+→ Plain-English questions against dealership reporting
+→ Vendor contract summarization
+→ No documents sent outside
+AI Governance That Connects to Your Compliance Program
+
+This is the integration no AI vendor can offer you, because no AI vendor manages your compliance program.
+
+Helion's Continuous Compliance program treats FTC Safeguards compliance as an ongoing operational function, not a one-time audit. The same logic applies to AI.
+
+California's ADMT rules, which took effect January 1, 2026, require businesses using automated decision-making in anything touching financing or credit decisions to maintain documented AI governance programs. Most dealers haven't mapped their AI tools against it yet.
+
+HELION MANAGED AI GENERATES AN AUDIT TRAIL
+
+Usage by department
+Access controls
+Model calls
+Governance record
+
+FEEDS DIRECTLY INTO
+
+Continuous Compliance program
+
+Not a parallel track. The same program.
+
+Nobody else in your vendor stack can do this. Nobody else owns both the AI deployment and the compliance program.
+
+Learn more about Helion's full IT and cybersecurity services →
+The Integration Advantage Nobody Else Has
+
+Every vendor adding AI to their product is working on the surface — an API, a chatbot wrapper, someone else's problem for the security layer underneath. Before any agent goes live, settle who controls AI agents at your dealership, from its own login to its sign-off rules.
+
+Helion manages the identity environment your staff authenticates through, the network your data travels across, and the security controls that govern what leaves your building. When Managed AI deploys into that environment, it inherits all of it. Not an integration project. A natural extension of what's already in place.
+
+Think of the Tekion Enablement practice as the model: Tekion's implementation team handles the migration, and Helion stays present after go-live. Managed AI works the same way for the AI tools your vendors are already adding to your stack.
+
+About Helion's Tekion Enablement practice →
+Managed AI
+INHERITS ALL OF IT ↓
+Security controls that govern what leaves your building
+The network your data travels across
+The identity environment your staff authenticates through
+
+MANAGED BY HELION
+
+The Numbers Worth Knowing
+METRIC
+NUMBER
+SOURCE
+Dealership staff currently using AI
+57%
+Reynolds & Reynolds, Q1 2026
+Dealer principals and executives using AI
+70%
+Reynolds & Reynolds, Q1 2026
+Corporate data pasted into AI that is sensitive
+34.8%
+Cyberhaven, 2025
+Shadow AI premium added to average breach cost
+$670,000
+IBM, 2025
+Dealerships under Helion management
+2,000+
+Helion proprietary
+Helion client retention rate
+98%
+Helion proprietary
+
+98% retention across 2,000+ dealerships. That's what an integrated stack compounds into over time — IT, security, compliance, and now AI under one team.
+
+Governed vs. Ungoverned AI — What the Difference Looks Like
+UNGOVERNED (CURRENT STATE)
+HELION MANAGED AI
+Where data goes
+Personal accounts, outside your visibility
+Private, isolated workspace under your brand
+Data retention
+Model provider's policy; often stored 30+ days
+Zero Data Retention — not stored by the model
+Access controls
+None — any employee with an email
+Same identity management as the rest of your IT
+Audit trail
+None
+Department-level usage visibility, compliance-ready
+FTC Safeguards connection
+Not addressed
+Feeds directly into Continuous Compliance program
+Model training on your data
+Possible on free/Plus tiers
+Contractually excluded
+Who's accountable
+Nobody, until something goes wrong
+Helion — same team, same phone number
+How Helion Deploys Managed AI
+1
+AI Readiness Assessment
+
+We map what's already in use across departments — which tools, by whom, for what. Multi-store groups typically find more active shadow AI use than leadership expected.
+
+2
+Workspace Deployment and Configuration
+
+Private workspace stood up under your branding, connected to Microsoft 365 and existing business systems, access controls and spend limits set per department.
+
+3
+Department Rollout and Training
+
+We start with service and BDC, where ROI is fastest, then expand. Before an agent touches your leads, read the questions to ask about an AI BDC for car dealerships. Training is department-specific — the service writer's workflow and the accounting team's look nothing alike.
+
+4
+Ongoing Governance and Compliance Reporting
+
+Usage monitored, access reviewed, audit trail fed into the Continuous Compliance program quarterly. Helion clients have the documentation when the FTC asks. Others scramble.
+
+Schedule your complimentary IT assessment →
+Managed AI Service Tiers
+Foundation
+
+Private branded workspace, Microsoft 365 connections, governance controls, rollout, and user training
+
+Assist
+
+Foundation plus department agents for service, sales, parts, and office workflows, and quarterly usage review
+
+Advantage
+
+Assist plus custom agent development and quarterly AI roadmap sessions with leadership
+
+Per-user monthly, plus a one-time onboarding fee.
+
+For dealerships with internal IT staff, the co-managed path means your IT/Ops Manager owns the AI program for the group rather than being bypassed by it.
+
+What People Ask First
+01
+What's the difference between Helion Managed AI and just giving everyone a Microsoft Copilot license?
+02
+Does the AI workspace connect to our DMS?
+03
+How does this relate to our FTC Safeguards compliance program?
+04
+Can we start with one department?
+05
+Is our customer data ever used to train the AI models?
+06
+We already have AI tools from our vendors — do we need another one?
+Your Staff Is Already Using AI. The Question Is Whether Anyone Owns It.
+
+Every week without a governed program is another week of usage happening in personal accounts, outside audit trails, outside your compliance posture.
+
+Helion has been the integration layer for 2,000+ dealerships for nearly 30 years. Managed AI is the next layer of the same program.
+
+Schedule Your AI Readiness Assessment
+
+Not ready to schedule? Start with a complimentary IT & Cybersecurity Assessment.
+
+Last updated: September 2026
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/managed-ai\/","url":"https:\/\/heliontechnologies.com\/managed-ai\/","name":"Managed AI for Dealerships | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"datePublished":"2026-10-04T15:33:38+00:00","dateModified":"2026-10-04T16:56:17+00:00","description":"Managed AI for dealerships: Helion gives your staff a private, governed AI workspace run by the same team that handles your IT and FTC compliance.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/managed-ai\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/managed-ai\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/managed-ai\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Services","item":"https:\/\/heliontechnologies.com\/services\/"},{"@type":"ListItem","position":3,"name":"Managed AI"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://heliontechnologies.com/managed-ai/#service","name":"Helion Managed AI for Dealerships","serviceType":"Managed AI for dealerships","description":"Managed AI for dealerships is a recurring, governed service, not a software license and not a one-time project: a private, dealership-branded AI workspace configured for each department's actual workflows, connected securely to existing systems, with ongoing governance, access controls, and usage visibility managed by Helion Technologies, the same team that manages the dealership's IT, cybersecurity, and FTC compliance.","url":"https://heliontechnologies.com/managed-ai/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Dealerships and multi-store dealer groups"}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/managed-ai/#faq","url":"https://heliontechnologies.com/managed-ai/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What's the difference between Helion Managed AI and just giving everyone a Microsoft Copilot license?","acceptedAnswer":{"@type":"Answer","text":"Copilot is a license. Nobody governs it, reviews usage, tracks what data went where, or connects it to your compliance program. A Copilot license lands in the building and 60 days later half the team isn't using it and nobody's checked whether the other half used it appropriately. Managed AI is a program, not a login."}},{"@type":"Question","name":"Does the AI workspace connect to our DMS?","acceptedAnswer":{"@type":"Answer","text":"For Tekion environments, yes — the integration extends naturally from the Enablement practice Helion already manages. For CDK and Reynolds & Reynolds, live DMS data access isn't in scope at launch. The deployment covers Microsoft 365, file storage, email, and business applications outside the DMS."}},{"@type":"Question","name":"How does this relate to our FTC Safeguards compliance program?","acceptedAnswer":{"@type":"Answer","text":"Directly. The governance data from Managed AI feeds into Helion's Continuous Compliance program. California's ADMT regulations, effective January 2026, also require documented AI governance for businesses using automated tools in financing or credit decisions. If your compliance program was written before your staff started using AI, there's a gap. This closes it."}},{"@type":"Question","name":"Can we start with one department?","acceptedAnswer":{"@type":"Answer","text":"Yes, and for most groups that's the right call. Service is usually first — highest volume of repetitive writing tasks, clearest ROI, most controlled environment before expanding to BDC, parts, and accounting."}},{"@type":"Question","name":"Is our customer data ever used to train the AI models?","acceptedAnswer":{"@type":"Answer","text":"No. Zero Data Retention means prompts and outputs aren't stored by the model provider and aren't used to train anything. That's a contractual commitment, not a configuration setting."}},{"@type":"Question","name":"We already have AI tools from our vendors — do we need another one?","acceptedAnswer":{"@type":"Answer","text":"Your DMS, CRM, and phone system vendors have added AI that talks to your buyers. That's customer experience. What they haven't addressed is what your staff does internally — the ChatGPT sessions happening right now in personal accounts. That's data exposure and compliance. Different problem, different program."}}]}]}
+

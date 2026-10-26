@@ -1,0 +1,242 @@
+URL: https://heliontechnologies.com/ai-legal-risks-for-dealerships/
+Fetched: 2026-10-26T03:58:36Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ai-legal-risks-for-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Legal Risks for Dealerships: Privacy, FTC and Liability
+Meta description: AI legal risks for dealerships come from old laws meeting new tools: privacy, FTC deception, AI calls and lending. Where they show up and the guardrails to set.
+Canonical: https://heliontechnologies.com/ai-legal-risks-for-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Legal Risks for Car Dealerships: Privacy, FTC and Liability
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI Legal Risks for Car Dealerships: Privacy, FTC and Liability
+By Alexis Merchant
+October 11, 2026 · 17 min read
+
+The biggest AI legal risks for dealerships are customer data pasted into public AI tools, chatbot promises the store is held to, AI calls and texts sent without consent, and credit or hiring decisions nobody can explain. None of it needs a new AI law, because the privacy, advertising, and lending rules you already follow cover all four.
+
+Last updated: October 11, 2026
+
+Erik Nachbahr, our founder, tells a story about speaking to rooms full of accountants and dealers, and I think about it every time a store asks me about AI.
+
+“When I speak at AICPA, everybody there is talking about AI and how it’s gonna make you a million dollars,” he says. “And my thing is, AI is the greatest thing ever, and our AI offering is gonna be ridiculous and awesome, but nobody wants to hear the thing I’m talking about. I’m gonna give you some guardrails and things you need to think about, because this is the stuff that actually matters to your business.” Then he gets to the part that bugs him. “Nobody wants to think about that. They just want to think about all the fun stuff.”
+
+He calls it the Wild West for AI and auto dealerships. From where I sit, he’s right. I’ve spent more than 10 years in this industry, starting in the service department where my dad was the service manager, and later about four years on Tekion’s Learning & Development team teaching dealership staff how to use new software. So I see AI the way the people on the floor see it. It’s a faster way to answer a customer, clean up a repair order note, or get a follow-up text out before lunch. Nobody on the service drive is thinking about federal law when they do that. Why would they?
+
+That’s the gap. It’s why I wrote this. I’m not a lawyer, and nothing here is legal advice, so take the specifics to your attorney. What I can do is show you where AI is already touching the law in your store, department by department, and which guardrails are worth putting in place first. If you want the version where somebody runs that for you, that’s what our managed AI for dealerships program does.
+
+What AI Legal Risks for Dealerships Actually Means
+
+AI legal risk at a dealership is the chance that an AI tool, or an employee using one, breaks a rule the store already answers to. That covers customer privacy under the FTC Safeguards Rule, deceptive statements under the FTC Act, consent rules for calls and texts, and fair lending and hiring laws. The tool is new. The rules aren’t.
+
+I want to stay on that last point for a second, because it’s the one dealers get wrong the most. A lot of people are waiting for “the AI law” to show up so they know what to do. The Federal Trade Commission answered that back on September 25, 2024, when it announced a sweep it named Operation AI Comply. The chair at the time said the cases “make clear that there is no AI exemption from the laws on the books.” So I’d stop asking whether a law applies to your chatbot. Ask which ones.
+
+And the tools are already in the building. Cox Automotive’s AI in Auto Retail Tracker, published in August 2026, found that 82% of dealers report using AI, and about a third either aren’t measuring what it does or aren’t sure how. Think about that. Most stores are using it, and a good share of them can’t tell you what it’s doing. Not great. AI is here and it is not leaving, so the work now is catching the rules up to the habits.
+
+Where the Risk Shows Up, Department by Department
+
+When I train a store on new software, I never start with the software. I start with who touches it and what they do with it on a normal Tuesday. Same exercise here, with AI.
+
+WHERE AI SHOWS UP	WHAT HAPPENS ON THE FLOOR	RULE THAT ALREADY COVERS IT	FIRST GUARDRAIL
+Service drive and BDC	An advisor pastes a customer’s name, phone, and repair history into a public chatbot to draft a reply	FTC Safeguards Rule, 16 CFR Part 314	An approved AI tool, and a short list of what never goes into any other one
+Website chatbot	The bot quotes a price, a rebate, or a trade value that isn’t real	FTC Act Section 5 and state deceptive practice laws	Limits on what the bot can state, plus a human handoff for pricing
+Outbound calls and texts	An AI voice agent calls a list of past service customers	Telephone Consumer Protection Act	Consent checked before the list is loaded
+F&I	A scoring tool steers which customers get which terms	Equal Credit Opportunity Act and Regulation B, plus new state rules	A person who can explain every decline in plain words
+Marketing	AI writes the ad and makes the vehicle photo	Advertising rules, OEM co-op terms, copyright	A manager reads every ad before it runs
+HR	A screening tool ranks technician applicants	Federal and state employment discrimination laws	A human makes the call, and you know what the tool scores on
+
+Six rows. Not one of them is really a technology problem, when you look at it. It’s a person doing their job a little faster with a tool nobody ever set rules for.
+
+Privacy: The Copy and Paste Problem
+
+This is the one I’d fix first, because it’s happening in your store today whether you’ve approved AI or not.
+
+Picture a service advisor with nine cars waiting and an upset customer in her inbox. She copies the whole thread, the name, the cell number, the VIN, the note about the declined brake job, and drops it into a free chatbot on her phone with “write a polite reply.” Ten seconds, tops. She meant well. She did it to take better care of the customer, and that’s exactly what makes it so hard to catch. Customer information just left the dealership and landed with a company you have no contract with. Assistants wired straight into the inbox raise the same problem at a bigger scale, which we cover in AI email assistants for dealerships.
+
+Dealerships are financial institutions under the FTC Safeguards Rule, and 16 CFR 314.4 expects you to know where customer information goes, train your people on handling it, and oversee the service providers that receive it. A public AI tool an employee signed up for on their own? None of those things. We’ve covered that single issue in more depth in our post on public AI and customer PII, and the full list of duties is in our guide to the FTC Safeguards Rule requirements.
+
+Here’s my trainer’s take, though. Telling people “don’t use AI” doesn’t work. It never has. They’ll nod in the meeting and paste the email anyway, because time is money on a service drive and the tool saves them time. Workarounds need to be left in the past, and you get there the same way every time. Give them a tool that’s allowed, show them how to use it, and make the safe way the easy way.
+
+The FTC Side: Your Chatbot’s Promises Are Your Promises
+
+If your website chatbot tells a shopper something that isn’t true, who said it? You did. Not the bot.
+
+That’s the direction every regulator and tribunal has gone so far. In February 2024, a Canadian tribunal ruled against Air Canada after its website chatbot gave a customer wrong information about a bereavement fare. The airline argued the bot was responsible for its own words, and the tribunal held the company to what its chatbot said. That isn’t a U.S. court. It doesn’t bind anybody here. So why bring it up? Because it’s the plainest example of the logic, and the FTC’s own statement about no AI exemption points the same way.
+
+Our industry has its own version. Back in December 2023, somebody talked a Chevrolet store’s chatbot into “agreeing” to sell a new Tahoe for a dollar, and it went around the internet in a day. We wrote about that kind of trick in the scary part of AI in car dealerships. Funny story. It’s a lot less funny if the bot had quoted a believable wrong price, like a rebate the customer didn’t qualify for, and the customer drove an hour to get it. The data side of the same bot, meaning what it collects, keeps, and can reach, is in my security checklist for AI chatbots at car dealerships.
+
+A quick word on the CARS Rule, since dealers still ask me. A federal appeals court threw out the FTC’s Combating Auto Retail Scams Rule in January 2025, and some people took that to mean the pressure was off. It isn’t. Not even close. The FTC Act’s ban on deceptive practices never went anywhere, and every state has its own version. A misleading price is a misleading price whether a salesperson, a banner ad, or a chatbot put it in front of the customer.
+
+Calls, Texts, and AI Voices
+
+AI voice agents are getting good. Really good. I’ve heard a few that would fool me for the first ten seconds, and stores are starting to use them for service reminders, missed-call follow-up, and equity mining.
+
+On February 8, 2024, the Federal Communications Commission ruled that AI-generated voices count as “artificial” voices under the Telephone Consumer Protection Act. In practice, an AI voice call gets treated like a prerecorded one, and those need the customer’s prior consent. The law lets a consumer sue for $500 per call, and more if a court finds it was willful. So do the math on a list of 2,000 past customers that nobody checked. It adds up fast.
+
+Who fixes that? The BDC manager. Not the vendor. Before any AI calling or texting campaign goes out, somebody at the store confirms where the consent came from and that opt-outs are honored. Your vendor’s sales rep saying “we’re compliant” doesn’t count. Sorry. If an AI agent is already working your leads, start with these questions about CRM access, texting consent, and conversation data.
+
+Liability in the F&I Office and in Hiring
+
+Credit is where I’d slow down the most, and I’ll be upfront that it’s also where you most need your attorney and not a blog post.
+
+If a tool helps decide who gets approved, what rate they see, or which products get offered, fair lending law comes with it. The Consumer Financial Protection Bureau said in Circular 2023-03 that a creditor using AI or a complex model still has to give a customer the specific, accurate reasons for a denial, and can’t hide behind a generic checklist. “The system said no” is not a reason. Not a legal one. If your F&I manager can’t explain a decision in plain words, the store has a problem before any regulator calls. NADA has published fair credit guidance for dealers for years, and it’s a good place to check whether a new tool fits the policy you already have.
+
+The states are moving too. This part changes fast. As I write this in October 2026, here’s where two of them stand.
+
+California’s privacy agency finished rules on automated decision-making technology that took effect January 1, 2026, and businesses that use it for significant decisions, lending included, have until January 1, 2027 to comply.
+Colorado went back and forth. Its 2024 AI law was delayed, then replaced in May 2026 by SB 26-189, which starts January 1, 2027 and is built around telling consumers when an automated tool was used and giving them a way to ask for a human review.
+
+Whether either one reaches your store depends on your size, your state, and what your tools really do. Ask counsel. Please. Hiring gets the same treatment, by the way. A résumé screener that quietly ranks applicants is making the kind of decision employment law has covered for decades, and “the software picked” won’t hold up any better in HR than it does in F&I.
+
+AI Guardrails a Dealership Can Put in Place This Month
+
+I drive an EV. I’ve had it a year now and put 11,000 miles on it, and I’ll admit I’m a fan, even though the paint scratches if you look at it wrong. The driver-assist is the part I don’t fully trust yet. It still has some AI learning to do, so my hands stay on the wheel, and that’s pretty much how I think about AI guardrails in a store. You keep driving. You just don’t let go.
+
+Where I picked up my way of doing this was a DMS conversion. A dealer group with more than 30 stores was moving from one system to another, and we got in the habit of trying every setting on a real deal before we trusted it. The state tax setup, for example, got run on one live deal with the F&I manager before the rest of the group ever saw it. So when a store asks me where to start with AI, I tell them the same thing, which is to start small and write down who’s responsible.
+
+GUARDRAIL	WHO OWNS IT	YOU’RE DONE WHEN
+Find out what’s in use	GM, with every department manager	You have a list of every AI tool tried in the last 30 days, and nobody got in trouble for being on it
+A one-page AI rule	Dealer principal or GM, reviewed by your attorney	It names the approved tools, the customer information that stays out of all others, and who to ask
+An approved AI tool	IT provider	Staff have a private workspace where what they type isn’t used to train a model
+A human check on customer-facing AI	Sales manager and BDC manager	Ads, chatbot scripts, and price or payment messages are read before they go out, and consent is confirmed before any call or text list is loaded
+Vendor answers in writing	Controller or office manager	Each vendor has said what data its AI feature sees, whether it trains a model, and how long it’s kept
+
+Do the top row first. Honestly, if that’s all a store got done this month I’d still call it a win, because nobody can make a rule about an app they’ve never heard of. And the list is going to be long. These things are free, and they’re on every phone in the building.
+
+Something the table can’t show is practice. I went to the Cleveland Auto Show in its last year at the I-X Center, and a couple of the brands had their cars locked, or tagged display only, and I remember thinking what a missed opportunity that was. People don’t go to an auto show to look through a window! They go to open the door and sit down and push the buttons. Training works the same way for me. Nobody on your service drive is going to learn this off a page they initialed, so get each department together for fifteen minutes, let them try it on examples from their own day, and then do that again next quarter. Hands on experience and repetition make a world of difference.
+
+Last one. I’ve been hearing about employees who built their own little apps with AI, a lead tracker, a parts lookup, that kind of thing, and I think it’s great that they’re curious. I’d only ask that if one of those apps has customer data in it, it goes on the same list as everything else, and at least one other person at the store knows it’s there.
+
+Who Should Own This at the Store
+
+My honest answer is that it shouldn’t be IT, at least not by itself, and I say that as somebody who works at an IT company. If you look back at that table, nearly every row is really a choice about how the store treats a customer, which makes it the dealer principal’s or the GM’s call before it’s anybody else’s. Your attorney is the one who tells you what your state requires, and then your IT and security people do their part by getting the approved tool into everyone’s hands, watching what leaves the network, and making AI one more piece of the program you already run for FTC Safeguards compliance.
+
+That last piece is where we come in. Helion Technologies has worked only with dealerships since 1997, and today we support 2,000-plus of them and 35,000 end users, so we’ve seen a lot of stores go through a lot of new technology. We aren’t your lawyers and we’d never pretend to be, but we can make sure that when your lawyer asks which AI tools touch customer data in your store and who approved them, somebody has a real answer.
+
+What Dealers Ask Me About AI and the Law
+Is there an actual AI law for car dealers yet?
+Our chatbot quoted a price that was wrong. Are we stuck with it?
+Can we just ban ChatGPT at the store and be done?
+Does an AI voice calling our service customers need consent?
+We’re a single-point store. Who’s supposed to own all this?
+Start With What’s Already Happening
+
+My dad ran his service department with one rule I still hear in my head, which was no shortcuts. AI isn’t a shortcut by itself. It turns into one when nobody has told the people on the floor where the lines are. That part’s on us. So this week, ask each department what they’re already using, and write down what you hear. Start there. That list is where your guardrails come from.
+
+And if you’d like a second set of eyes on where customer data is going in your store, AI tools included, our complimentary IT and cybersecurity assessment is a good place to begin, and this is what its AI readiness review covers. Your team does the hard part. We’ll help you get them set up for success.
+
+ABOUT THE AUTHOR
+
+Alexis Merchant
+
+Manager of Dealer Enablement Success, Helion Technologies
+
+Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning & Development team and now helps dealership teams get more from the system after go-live.
+
+Alexis Merchant on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What AI Legal Risks for Dealerships Actually Means
+Where the Risk Shows Up, Department by Department
+Privacy: The Copy and Paste Problem
+The FTC Side: Your Chatbot’s Promises Are Your Promises
+Calls, Texts, and AI Voices
+Liability in the F&I Office and in Hiring
+AI Guardrails a Dealership Can Put in Place This Month
+Who Should Own This at the Store
+What Dealers Ask Me About AI and the Law
+Start With What’s Already Happening
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/"},"author":{"name":"Alexis Merchant","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668"},"headline":"AI Legal Risks for Car Dealerships: Privacy, FTC and Liability","datePublished":"2026-10-11T14:54:43+00:00","dateModified":"2026-10-11T14:54:44+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/"},"wordCount":3399,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-legal-risks-for-dealerships.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/","url":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/","name":"AI Legal Risks for Dealerships: Privacy, FTC and Liability","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-legal-risks-for-dealerships.webp","datePublished":"2026-10-11T14:54:43+00:00","dateModified":"2026-10-11T14:54:44+00:00","description":"AI legal risks for dealerships come from old laws meeting new tools: privacy, FTC deception, AI calls and lending. Where they show up and the guardrails to set.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-legal-risks-for-dealerships.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-legal-risks-for-dealerships.webp","width":1200,"height":500,"caption":"AI at a dealership answers to the privacy, advertising, and lending rules the store already follows."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ai-legal-risks-for-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI Legal Risks for Car Dealerships: Privacy, FTC and Liability"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668","name":"Alexis Merchant","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","caption":"Alexis Merchant"},"description":"Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning &amp; Development team and now helps dealership teams get more from the system after go-live.","sameAs":["https:\/\/www.linkedin.com\/in\/alexis-merchant-49a747b1\/"],"url":"https:\/\/heliontechnologies.com\/author\/alexis-merchant\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Manager of Dealer Enablement Success"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ai-legal-risks-for-dealerships/#article","headline":"AI Legal Risks for Car Dealerships: Privacy, FTC and Liability","description":"AI legal risks for dealerships come from old laws meeting new tools: privacy, FTC deception, AI calls and lending. Where they show up and the guardrails to set.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ai-legal-risks-for-dealerships.webp","datePublished":"2026-10-11T10:54:43-04:00","dateModified":"2026-10-11T10:54:44-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/6ee62f2567da0a9d55c9714bbb395668"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ai-legal-risks-for-dealerships/"},"articleSection":"Managed AI","inLanguage":"en-US","about":[{"@type":"Thing","name":"Artificial intelligence legal risk at car dealerships"},{"@type":"Thing","name":"AI guardrails"},{"@type":"Legislation","name":"FTC Safeguards Rule (16 CFR Part 314)","url":"https://www.law.cornell.edu/cfr/text/16/314.4"}],"mentions":[{"@type":"GovernmentOrganization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"GovernmentOrganization","name":"Federal Communications Commission","url":"https://www.fcc.gov/"},{"@type":"GovernmentOrganization","name":"Consumer Financial Protection Bureau","url":"https://www.consumerfinance.gov/"},{"@type":"GovernmentOrganization","name":"California Privacy Protection Agency","url":"https://cppa.ca.gov/"},{"@type":"Legislation","name":"Telephone Consumer Protection Act (47 U.S.C. 227)","url":"https://www.law.cornell.edu/uscode/text/47/227"},{"@type":"Legislation","name":"Equal Credit Opportunity Act"},{"@type":"Legislation","name":"Colorado SB 26-189","url":"https://leg.colorado.gov/bills/sb26-189"},{"@type":"Organization","name":"Cox Automotive"},{"@type":"Organization","name":"National Automobile Dealers Association","url":"https://www.nada.org/"},{"@type":"Person","name":"Erik Nachbahr","@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"}],"keywords":"ai legal risks for dealerships, AI guardrails, dealership AI policy, FTC Safeguards Rule, dealership chatbot liability, TCPA AI voice calls"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/ai-legal-risks-for-dealerships/#faq","mainEntity":[{"@type":"Question","name":"Is there an actual AI law for car dealers yet?","acceptedAnswer":{"@type":"Answer","text":"Not one federal AI law, no, but the FTC Act, the Safeguards Rule, the TCPA, and fair lending rules already apply to anything your AI tools do. The FTC said as much in September 2024 when it announced Operation AI Comply. State rules are being added on top, with California and Colorado both set for January 1, 2027."}},{"@type":"Question","name":"Our chatbot quoted a price that was wrong. Are we stuck with it?","acceptedAnswer":{"@type":"Answer","text":"That one goes to your attorney the same day it happens, because the answer depends on your state and on what the customer was told. What I'd do in the meantime is save the chat transcript, find out how the bot got that number, and turn off its ability to talk price until someone fixes it. I wouldn't argue with the customer that the bot isn't the dealership. That argument has not gone well for anyone who's tried it."}},{"@type":"Question","name":"Can we just ban ChatGPT at the store and be done?","acceptedAnswer":{"@type":"Answer","text":"A ban on paper rarely survives a busy Saturday. People use these tools because they save time, and if you take one away without giving them another, they'll use it on their phones where you can't see it. A written rule plus an approved tool plus fifteen minutes of practice works much better than a memo."}},{"@type":"Question","name":"Does an AI voice calling our service customers need consent?","acceptedAnswer":{"@type":"Answer","text":"Since February 8, 2024, the FCC has treated AI-generated voices as artificial voices under the TCPA, so those calls need the same prior consent a prerecorded call does. Check the list before the campaign, not after the first complaint."}},{"@type":"Question","name":"We're a single-point store. Who's supposed to own all this?","acceptedAnswer":{"@type":"Answer","text":"One named person, and at a single-point store that's usually the GM or the controller, with your attorney and your IT provider behind them. No committee needed. It needs to be somebody who knows which tools are approved, keeps the one-page rule current, and gets asked before a department turns on a new AI feature. If nobody's name comes to mind, that's your first guardrail."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/ai-legal-risks-for-dealerships/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

@@ -4,7 +4,7 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 419. Other companies are added when their teardown is committed.
+Saved pages in this index: 446. Other companies are added when their teardown is committed.
 
 ## agencyva (16 saved pages)
 
@@ -91,6 +91,38 @@ Saved pages in this index: 419. Other companies are added when their teardown is
 | https://www.buildingaiagents.ai/privacy | 200 | https://www.buildingaiagents.ai/privacy | `research/ai-specialists/building-ai-agents/pages/privacy.txt` | Privacy / Building AI Agents |
 | https://tally.so/r/lb9zOo | 200 | https://tally.so/r/lb9zOo | `research/ai-specialists/building-ai-agents/pages/r__lb9zOo.txt` | AI Automation Audit |
 | https://tally.so/r/lb9zOo | 200 | https://tally.so/r/lb9zOo | `research/ai-specialists/building-ai-agents/pages/tally-lb9zOo-fields.txt` |  |
+
+## consulting-djv (27 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://luma.com/003gwzef | 200 | https://luma.com/003gwzef | `research/ai-specialists/consulting-djv/pages/003gwzef.txt` | Taller de IA Aplicada a Compras Corporativas · Luma |
+| https://consultingdjv.com/ai-readiness |  | https://consultingdjv.com/ai-readiness | `research/ai-specialists/consulting-djv/pages/ai-readiness-english-copy.txt` |  |
+|  |  |  | `research/ai-specialists/consulting-djv/pages/ai-readiness-tab-panes.txt` |  |
+| https://consultingdjv.com/ai-readiness | 200 | https://consultingdjv.com/ai-readiness | `research/ai-specialists/consulting-djv/pages/ai-readiness.txt` | AI-readiness |
+| https://calendly.com/dinojosevidili/30min | 200 | https://calendly.com/dinojosevidili/30min | `research/ai-specialists/consulting-djv/pages/dinojosevidili__30min.txt` | Select a Date & Time - Calendly |
+| https://luma.com/embed/event/evt-O5VLxMx7QqW73HH/simple | 200 | https://luma.com/embed/event/evt-O5VLxMx7QqW73HH/simple | `research/ai-specialists/consulting-djv/pages/embed__event__evt-O5VLxMx7QqW73HH__simple.txt` | Taller de IA Aplicada a Compras Corporativas · Luma |
+| https://consultingdjv.com/es | 200 | https://consultingdjv.com/es | `research/ai-specialists/consulting-djv/pages/es.txt` | Home - DJV Consulting |
+| https://consultingdjv.com/es/ai-readiness | 200 | https://consultingdjv.com/es/ai-readiness | `research/ai-specialists/consulting-djv/pages/es__ai-readiness.txt` | AI-readiness |
+| https://consultingdjv.com/es/portfolio | 200 | https://consultingdjv.com/es/portfolio | `research/ai-specialists/consulting-djv/pages/es__portfolio.txt` | DJV Consulting Portfolio |
+| https://consultingdjv.com/es/utility-pages/changelog | 200 | https://consultingdjv.com/es/utility-pages/changelog | `research/ai-specialists/consulting-djv/pages/es__utility-pages__changelog.txt` | Changelog - Crestfund - Free Webflow Website Template |
+| https://consultingdjv.com/es/utility-pages/licenses | 200 | https://consultingdjv.com/es/utility-pages/licenses | `research/ai-specialists/consulting-djv/pages/es__utility-pages__licenses.txt` | Licenses - Crestfund - Free Webflow Website Template |
+| https://consultingdjv.com/es/utility-pages/style-guide | 200 | https://consultingdjv.com/es/utility-pages/style-guide | `research/ai-specialists/consulting-djv/pages/es__utility-pages__style-guide.txt` | Style Guide - Crestfund - Free Webflow Website Template |
+| https://consultingdjv.com/es/utility-pages/terms | 200 | https://consultingdjv.com/es/utility-pages/terms | `research/ai-specialists/consulting-djv/pages/es__utility-pages__terms.txt` | Terms - Crestfund - Free Webflow Website Template |
+|  |  |  | `research/ai-specialists/consulting-djv/pages/home-links-and-alts.txt` |  |
+| https://consultingdjv.com/ | 200 | https://consultingdjv.com/ | `research/ai-specialists/consulting-djv/pages/index.txt` | Home - DJV Consulting |
+| https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a7e22ec32584560915ccca3_ai-board-operating-system.pdf |  | https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a7e22ec32584560915ccca3_ai-board-operating-system.pdf | `research/ai-specialists/consulting-djv/pages/pdf-ai-board-operating-system.txt` | ai-board-operating-system.pdf |
+| https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a29ef74bf5d6c6c04bdc_AI-Quick-Tricks-30-Days.pdf |  | https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a29ef74bf5d6c6c04bdc_AI-Quick-Tricks-30-Days.pdf | `research/ai-specialists/consulting-djv/pages/pdf-ai-quick-tricks-30-days.txt` | ai-quick-tricks-30-days.pdf |
+| https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a2c1977789b9d7485c2598d_AI_Readiness_Assessment.pdf |  | https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a2c1977789b9d7485c2598d_AI_Readiness_Assessment.pdf | `research/ai-specialists/consulting-djv/pages/pdf-ai-readiness-assessment.txt` | ai-readiness-assessment.pdf |
+| https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a7e22175cfb81a92397830d_Best%20Financial%20%26%20Intelligence%20Tools%20for%20Startups%20(2026).pdf |  | https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a7e22175cfb81a92397830d_Best%20Financial%20%26%20Intelligence%20Tools%20for%20Startups%20(2026).pdf | `research/ai-specialists/consulting-djv/pages/pdf-best-financial-tools-2026.txt` | best-financial-tools-2026.pdf |
+| https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a5e54c0e620d8ebbf94e115_Best_Models_for_BDG_and_FCST.pdf |  | https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a5e54c0e620d8ebbf94e115_Best_Models_for_BDG_and_FCST.pdf | `research/ai-specialists/consulting-djv/pages/pdf-best-models-bdg-fcst.txt` | best-models-bdg-fcst.pdf |
+| https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a5e53cb0c477efa04a2a046_AI%20Models%20for%20Finance%20%26%20Operations%20%E2%80%94%20Comparison%20Brief.pdf |  | https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a5e53cb0c477efa04a2a046_AI%20Models%20for%20Finance%20%26%20Operations%20%E2%80%94%20Comparison%20Brief.pdf | `research/ai-specialists/consulting-djv/pages/pdf-models-finance-ops-brief.txt` | models-finance-ops-brief.pdf |
+| https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a2ad8e3fe7786d68308f_DJV%20Consulting%20SME_SupplyChain_AI_Brochure.pdf |  | https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a2ad8e3fe7786d68308f_DJV%20Consulting%20SME_SupplyChain_AI_Brochure.pdf | `research/ai-specialists/consulting-djv/pages/pdf-sme-supplychain-brochure.txt` | sme-supplychain-brochure.pdf |
+| https://consultingdjv.com/portfolio | 200 | https://consultingdjv.com/portfolio | `research/ai-specialists/consulting-djv/pages/portfolio.txt` | DJV Consulting Portfolio |
+| https://consultingdjv.com/utility-pages/changelog | 200 | https://consultingdjv.com/utility-pages/changelog | `research/ai-specialists/consulting-djv/pages/utility-pages__changelog.txt` | Changelog - Crestfund - Free Webflow Website Template |
+| https://consultingdjv.com/utility-pages/licenses | 200 | https://consultingdjv.com/utility-pages/licenses | `research/ai-specialists/consulting-djv/pages/utility-pages__licenses.txt` | Licenses - Crestfund - Free Webflow Website Template |
+| https://consultingdjv.com/utility-pages/style-guide | 200 | https://consultingdjv.com/utility-pages/style-guide | `research/ai-specialists/consulting-djv/pages/utility-pages__style-guide.txt` | Style Guide - Crestfund - Free Webflow Website Template |
+| https://consultingdjv.com/utility-pages/terms | 200 | https://consultingdjv.com/utility-pages/terms | `research/ai-specialists/consulting-djv/pages/utility-pages__terms.txt` | Terms - Crestfund - Free Webflow Website Template |
 
 ## frontier-business-design (20 saved pages)
 

@@ -1,0 +1,40 @@
+URL: https://consultingdjv.com/utility-pages/licenses
+Fetched: 2026-10-26T03:45:06Z
+HTTP status: 200
+Final URL: https://consultingdjv.com/utility-pages/licenses
+Content-Type: text/html
+Via: chrome-headless
+Title: Licenses - Crestfund - Free Webflow Website Template
+Meta description: Crestfund is a free modern template designed for finance and venture firms, combining elegance with functionality to deliver a seamless and adaptable digital experience
+Canonical: 
+Robots: noindex
+H1: LICENSES
+
+English
+Spanish
+LICENSES
+
+Last updated: January 14, 2022
+
+All graphical assets in this template are licensed for personal and commercial use. If you'd like to use a specific asset, please check the license below.
+
+Asset
+
+All the photography is sourced from Pexels and Unsplash and falls under the Free License Agreement.
+
+All others graphics are custom made and are used only for display.
+
+Fonts
+
+The fonts used is Thunder Font, open-source fonts from befonts.com and Manrope from google fonts.
+
+Icons & Illustrations
+
+The icons used in are from SVGRepo and custom made in Figma (Free access to Figma file in Template Description) You can download and edit as you like.
+
+GET IN TOUCH
+DJV Consulting
+@2026 - Powered by Webflow
+Remote,
+Argentina
+

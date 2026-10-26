@@ -1,0 +1,121 @@
+URL: https://consultingdjv.com/utility-pages/style-guide
+Fetched: 2026-10-26T03:45:00Z
+HTTP status: 200
+Final URL: https://consultingdjv.com/utility-pages/style-guide
+Content-Type: text/html
+Via: chrome-headless
+Title: Style Guide - Crestfund - Free Webflow Website Template
+Meta description: Crestfund is a free modern template designed for finance and venture firms, combining elegance with functionality to deliver a seamless and adaptable digital experience
+Canonical: 
+Robots: noindex
+H1: Hello
+
+Styleguide for CRESTFUND
+Figma template by Atwww.
+Typeface: Manrope
+Aa
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+1234567890
+Headings
+Title H1
+Hello
+Size
+300px
+Line Height
+80%
+Letter Spacing
+-0.01em
+Weight
+Medium
+Title H2
+Hello
+Size
+250px
+Line Height
+80%
+Letter Spacing
++0.01em
+Weight
+Medium
+Title H3
+Hello
+Size
+200px
+Line Height
+80%
+Letter Spacing
+-0.01em
+Weight
+Medium
+Title H4
+Hello
+Size
+100px
+Line Height
+80%
+Letter Spacing
+-0.01em
+Weight
+Bold
+Title H5
+Hello
+Size
+50px
+Line Height
+90%
+Letter Spacing
+-0.03em
+Weight
+Regular
+Title H6
+Hello
+Size
+40px
+Line Height
+120%
+Letter Spacing
+-0.01em
+Weight
+Regular
+Paragraphs
+Paragraph 35PX
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+
+Size
+35px
+Line Height
+120%
+Weight
+Regular
+Paragraph 30PX
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+
+Size
+30px
+Line Height
+120%
+Weight
+Regular
+Paragraph 25PX
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+
+Size
+25px
+Line Height
+120%
+Weight
+Regular
+Paragraph 20PX
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+
+Size
+20px
+Line Height
+120%
+Weight
+Regular
+

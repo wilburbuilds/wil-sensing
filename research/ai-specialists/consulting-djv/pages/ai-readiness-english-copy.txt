@@ -1,0 +1,385 @@
+URL: https://consultingdjv.com/ai-readiness
+Fetched: 2026-10-26
+Via: English copy strings inside the page's inline assessment scripts. Headless Chrome saved the scripts; this file is those strings only.
+No score was selected. No form was submitted. No PDF was generated from a result.
+Spanish strings exist in the same scripts and are not copied here. The Spanish page is https://consultingdjv.com/es/ai-readiness.
+The visible welcome lines are also in ai-readiness-tab-panes.txt. Question text is not in the crawler's body innerText, because it is injected when Start assessment is clicked.
+
+===== DJV Consulting · AI Readiness =====
+H1: Is the company ready to invest in AI — or will you pay the learning curve twice?
+Lead: Find out in 10 minutes whether the company is ready for AI. Twelve questions. Four pillars. A gap map before you sign the next pilot.
+Band red: Alert · 0–59
+  Not ready to buy AI. Strengthen the foundations first.
+  The base is not there. Buying a model now gets expensive.
+Band amber: Caution · 60–89
+  Guided pilots only. Narrow scope, clear metrics.
+  Enough muscle for a pilot. Not for a program.
+Band green: Ready · 90–120
+  Ready to scale. Broader roadmap, larger investment.
+  The foundations can carry a more ambitious roadmap.
+Questions:
+1. [Strategy] Clear strategy
+   Is there a written AI strategy with measurable business goals and a 12–24 month horizon — or just slides and enthusiasm?
+2. [Strategy] High-value use cases
+   Are there 2–3 use cases with visible impact on cash, margin or risk, prioritized and ready to run this quarter?
+3. [Strategy] Executive sponsorship
+   Is there a sponsor with budget, real authority and a monthly cadence to unblock decisions — not a champion with no power?
+4. [Data] Quality and access
+   Are the critical data sets (finance, operations, customers) trusted, current and reachable by the people who decide — without a week of cleanup?
+5. [Data] Single source of truth
+   Do the metrics that will feed AI live in one system of record — or in five spreadsheets that disagree?
+6. [Data] Stable, documented processes
+   Is the process AI will touch documented and repeatable, or does it still live in one person's head?
+7. [Technology] Connected stack
+   Do ERP, CRM, payroll and BI exchange data — or is every hire, invoice or order re-keyed by hand?
+8. [Technology] Security and compliance
+   Are access, audit, data residency and what may enter a model written down?
+9. [Technology] Internal champions
+   Are there internal owners who can run, challenge and sustain the use cases when the consultant is gone?
+10. [Governance] Change management
+   Is there a communication, training and ownership plan so the pilot does not die in week six?
+11. [Governance] Acceptable-use policy
+   Is it written what may be loaded into a model, what is forbidden, and who is accountable when it fails?
+12. [Governance] Budget discipline
+   Does AI spend follow pilot → metric → scale — or move in waves of enthusiasm?
+What we would fix first:
+- AI has no P&L owner
+  · Write on one page the business outcome AI must move in 90 days (cash, margin or risk) — not a tool list.
+  · Freeze the backlog to one use case until that case has a metric, a baseline and a go/no-go date.
+  · Name an executive sponsor with budget and 45 locked minutes a month. Without that there is no program, only theater.
+- The data cannot support a decision
+  · Audit the five tables or reports that feed use case #1: definition, owner, cadence, last trusted date.
+  · Declare one source of truth per metric and retire the parallel copies this quarter.
+  · Document the source process on one page. If it cannot fit on a page, the model will learn the mess.
+- The stack is not ready for a model
+  · Map the use-case flow: origin, transform, consume, who touches it. “The ERP has AI” is not a map.
+  · Connect the highest-volume system first (ERP/payroll ↔ BI). Everything else waits.
+  · Name an internal champion with protected time and a human in the loop on any output that moves cash or risk.
+- No guardrails, no budget discipline
+  · Publish a one-page acceptable-use policy aligned to NIST AI RMF: allowed data, forbidden data, escalation.
+  · Set a pilot budget with a ceiling, a kill metric and a kill date. The next cheque is earned with evidence.
+  · Build adoption: who trains, who operates, what gets switched off at day 30 if unused.
+
+===== DJV Consulting · Human in the Loop =====
+H1: Can AI touch cash without creating liability?
+Lead: Twenty-four questions. Six loops. The weakest loop sets the ceiling: if nobody approves before money moves, you do not have control — you have theater.
+Band red: Uncontrolled · 0–95
+  Chat tools, no loop, no owner. Do not let a model move money.
+  AI acts. Nobody inherits the consequence.
+Band amber: Fragile loop · 96–155
+  Heroics, not architecture. Install HITL/HOTL by transaction type.
+  There is human judgment. There is no system.
+Band green: Governed loop · 156–240
+  Pattern chosen and evidence in motion. The CFO runs the outer loop.
+  Autonomy can live inside written limits.
+Questions:
+1. [Intent] One-sentence use case
+   Does the case fit in one sentence, with an owner and a cash or P&L metric — not “use ChatGPT”?
+2. [Intent] 13-week baseline
+   Is there a baseline for that metric for the last 13 weeks?
+3. [Intent] Kill criteria
+   Are kill criteria written, with a 90-day review date?
+4. [Intent] Control project, not IT
+   Does leadership treat this as a cash and control project — not a systems experiment?
+5. [Data] Named data product
+   Is the dataset a named product: owner, definition, refresh SLA, intended use?
+6. [Data] Aligned codes
+   Do customer, SKU, vendor and cost-center codes match across ERP, bank and operations?
+7. [Data] Weekly extract
+   Can you export a clean weekly extract without one person’s laptop?
+8. [Data] Steward and escalation
+   When a number is wrong, is there a named steward and an escalation path?
+9. [Oversight] HITL / HOTL / HIC chosen
+   Have you explicitly chosen HITL, HOTL or HIC in writing, by risk?
+10. [Oversight] Approve before money moves
+   If the action moves money, must a human approve before execution — not “if nobody objects in 24h, proceed”?
+11. [Oversight] Edit, not only accept
+   Can the reviewer edit the proposed action and see why the model proposed it?
+12. [Oversight] Timeout = no action
+   Is timeout behavior defined: no approval means no action?
+13. [Accountability] Who inherits the consequence
+   Does a named human inherit the consequence if the output is wrong?
+14. [Accountability] Approval limits
+   Do amount / vendor / discount limits run in the workflow, not on a slide?
+15. [Accountability] Human outer loop
+   Do humans own constraints, sampling, audit evidence, and who may expand autonomy?
+16. [Accountability] Manual fallback
+   If the model is down, can the manual process still close cash / AP / orders this week?
+17. [Evidence] Provenance
+   Does every material output have inputs, model version, timestamp and approver?
+18. [Evidence] Reconstruct in 15 minutes
+   Can you reconstruct who allowed this payment / PO / forecast in under 15 minutes?
+19. [Evidence] Scheduled sampling
+   Do you sample on a schedule? Are high-risk items reviewed 100%?
+20. [Evidence] Independent second check
+   Is there a second check that is not the same model grading itself?
+21. [Cadence] Weekly keep/fix/kill
+   Does a weekly meeting review the target metric and decide keep / fix / kill?
+22. [Cadence] Reviewer load
+   Do you measure items per reviewer per day, with a cap so people do not rubber-stamp?
+23. [Cadence] Trained on this failure mode
+   Are approvers trained on this use case’s failure modes — not a generic deck?
+24. [Cadence] Line staff in design from week one
+   Were front-line staff in the design from week one?
+What we would fix first:
+- There is no case that moves cash
+  · Pick one cash metric, one owner, a 13-week baseline.
+  · Freeze the backlog until the 90-day go/no-go.
+  · Write kill criteria on one page.
+- The model will automate the mess
+  · Name the use-case #1 dataset: owner, definition, weekly SLA.
+  · Align customer/SKU/vendor codes.
+  · Stop depending on one laptop for the extract.
+- People paste model text into live payments
+  · Choose HITL, HOTL or HIC by transaction type, in writing.
+  · Any action that moves money requires prior human approval.
+  · Timeout without approval = no action.
+- Nobody inherits the consequence
+  · Name the person who owns a wrong output.
+  · Put amount/vendor/discount limits in the workflow.
+  · Define a manual fallback so the week still closes.
+- You cannot reconstruct a decision
+  · Log inputs, version and approver on every material output.
+  · Calendar sampling; 100% review on high risk.
+  · A second check independent of the same model.
+- The human in the loop is falling asleep
+  · Weekly keep/fix/kill on the metric.
+  · Cap items per reviewer per day.
+  · Train this use case’s failure modes.
+
+===== DJV Consulting · Tokenomics & ROI =====
+H1: Are tokens a bill — or a cash return?
+Lead: Twenty-four questions. Six loops. Tokens are the bill. Value is cost per successful outcome and cash in the bank.
+Band red: Blind spend · 0–95
+  Seats and APIs, no map to cash. Diagnose the bill first.
+  You pay for tokens. You cannot show a return.
+Band amber: Invoice without a case · 96–155
+  Some cost view. Baseline, follow-up or cash line is weak.
+  There is an invoice. There is no case that pays the next cheque.
+Band green: CFO-grade loop · 156–240
+  Cost per success and a cash line under review. Fractional CFO runs keep/fix/kill.
+  Spend can be governed like a P&L.
+Questions:
+1. [Cost visibility] Bill by use case
+   Can you see this month’s AI bill split by use case, team and cost center — not one vendor lump sum?
+2. [Cost visibility] Owner of the bill
+   Is a named owner accountable for that bill — not “IT in general”?
+3. [Cost visibility] 90-day forecast
+   Do you forecast token / seat / API cost for the next 90 days inside a stated range?
+4. [Cost visibility] Explain a spike
+   Do you know input vs output vs cache (or seat vs overage) well enough to explain a spike in one meeting?
+5. [Unit economics] Cost per task
+   Do you track cost per task (invoice, collection action, PO match, forecast run)?
+6. [Unit economics] Cost per successful outcome
+   Do you count only completed, checked, accepted runs — not failed or reworked ones?
+7. [Unit economics] Model routing
+   Do you avoid sending every job to the most expensive model?
+8. [Unit economics] Fully loaded cost
+   Does cost include licenses, API, extra context, human review time and rework — not only the invoice line?
+9. [Value case] Case written before scale
+   Before go-live did you write current process cost, the number AI must improve, and how it is measured in currency?
+10. [Value case] Finance object
+   Is the target cash, margin, DSO, freight variance, write-off or leakage — not “adoption”?
+11. [Value case] 13-week baseline
+   Is there a 13-week baseline from before the tool?
+12. [Value case] Payback and owner
+   Is expected payback written (e.g. 90 days) with someone who will declare hit or miss?
+13. [ROI follow-up] Monthly review with finance
+   Is there at least a monthly review with finance and the use-case owner: cost, outcome, variance?
+14. [ROI follow-up] Actuals vs baseline in one file
+   Do actuals live in the same file as the original case — not a new narrative each quarter?
+15. [ROI follow-up] Keep / fix / kill
+   Are there keep/fix/kill rules (e.g. kill if the cash metric is flat after 90 days)?
+16. [ROI follow-up] No double counting
+   Are “hours saved” booked only if headcount, overtime or contractor spend actually fell — or capacity produced named extra output?
+17. [Cash impact] Working-capital line
+   Can you point to the bank or working-capital line this use case is supposed to move?
+18. [Cash impact] Movement in the last closed month
+   Can you show last month’s movement with the CFO’s cash definitions?
+19. [Cash impact] Timing to the bank
+   Is it explicit when the operational win becomes cash (e.g. DSO −5 days → cash in week N)?
+20. [Cash impact] Productivity is not ROI
+   If the metric is “productivity,” can you still show cash movement — or do you label it non-cash and not call it ROI?
+21. [Spend governance] Cap and alert
+   Is there a cap or alert when token/seat spend exceeds the use-case budget?
+22. [Spend governance] Shadow AI
+   Are personal tools or unsanctioned agents inventoried or blocked when they touch company data or money?
+23. [Spend governance] No production without a case
+   Can a new workload not go to production without current cost, target outcome and measurement?
+24. [Spend governance] Long context is not free
+   Does expanding autonomy or context windows require a cost check?
+What we would fix first:
+- You have an invoice, not tokenomics
+  · Split this month’s bill by use case and owner.
+  · Name the accountable for the invoice.
+  · Build a 90-day forecast with a range.
+- You pay for tokens, not outcomes
+  · Install cost per task and cost per successful outcome.
+  · Stop counting failed runs as ROI.
+  · Route cheap models first.
+- Spend started without a value case
+  · Freeze new workloads.
+  · Write current cost, cash/P&L target and a 13-week baseline.
+  · Payback date with an owner who declares hit/miss.
+- The case was a launch deck
+  · Monthly finance review in the same file.
+  · Keep/fix/kill rules at 90 days.
+  · Do not book hours saved without a real cost movement.
+- Operations may have moved; cash is not visible
+  · Name the working-capital line.
+  · Bridge: operational win → week it hits the bank.
+  · If there is no cash, do not call it ROI.
+- Consumption has no ceiling
+  · Cap and alert per use case.
+  · Shadow-AI inventory.
+  · No production without a three-line value case.
+
+===== DJV Consulting · Bridging Generations =====
+H1: Can the family cross the AI and succession bridge — or does the knowledge leave with the founder?
+Lead: Twenty-four questions. Six loops. AI and succession reinforce each other or block each other. The Architecture Gap closes with bridges, not scattered pilots.
+Band red: Divided · 0–95
+  AI and succession live in silos. Knowledge and control do not transfer.
+  AI activity is not building continuity.
+Band amber: Fragile bridge · 96–155
+  NextGen interest and some pilots exist. Governance, real roles and a mature succession plan are missing.
+  There is dialogue. There is no architecture.
+Band green: Governed continuity · 156–240
+  AI and succession reinforce each other. Values in structures, NextGen with accountability, knowledge documented.
+  The bridge can carry a designed transition.
+Questions:
+1. [Bridge] Open dialogue on AI and succession
+   Is there regular, structured conversation across generations on AI, risks and succession — not only “when we can”?
+2. [Bridge] Reverse mentoring in place
+   Is reverse mentoring formal: NextGen teaches application, seniors teach judgment and purpose?
+3. [Bridge] Shared digital vision
+   Do family and non-family managers share a written digital vision (charter or principles)?
+4. [Bridge] Intergenerational trust on digital topics
+   Is trust between generations on digital topics high, or is resistance the default?
+5. [Governance] AI on the board agenda
+   Are AI and succession on the board / family council agenda as strategy, not as an IT topic?
+6. [Governance] Accountability for AI-informed decisions
+   Is there clear ownership of AI-informed decisions — not just sponsorship?
+7. [Governance] AI principles aligned to values
+   Is there an AI principles statement linked to stewardship, reputation, human oversight and long-term goals?
+8. [Governance] Formal AI governance
+   Is there a formal AI governance framework (decision rights, review cycles, ethics, cost visibility)?
+9. [NextGen] Real roles with accountability
+   Does NextGen hold formal roles with P&L or functional accountability — not only observation?
+10. [NextGen] Substantive outside experience
+   Is there outside work experience of substance (quality of responsibility, not only duration)?
+11. [NextGen] Digital competencies in development
+   Does the NextGen development plan explicitly include AI and technology modernization competencies?
+12. [NextGen] Pilots with NextGen ownership
+   Are there high-impact AI pilots where NextGen has ownership and metrics — not only ideas?
+13. [Succession] Early and continuous plan
+   Is succession a continuous process with milestones and reviews — not a document near retirement?
+14. [Succession] Role clarity (ownership / gov / ops)
+   Are ownership, governance and operational management separated and clear?
+15. [Succession] Staged authority transfer
+   Is authority transferred in stages, not as a single cut?
+16. [Succession] Willingness to release control
+   Is current leadership willing to release operational control by design, not by force?
+17. [Knowledge] Cerebral capital documented
+   Is tacit knowledge (processes, stories, judgment) documented and accessible — not only in one head?
+18. [Knowledge] AI as knowledge amplifier
+   Are tools used to capture and scale cerebral capital rather than replace it?
+19. [Knowledge] Process owner distinct from model owner
+   Is there a process owner distinct from the model owner or the consultant?
+20. [Knowledge] Reduced single-person dependency
+   Is single-person dependency on critical processes measured and reduced?
+21. [Architecture] Use cases with business metrics
+   Are there 2–3 high-impact use cases tied to measurable outcomes (efficiency, quality, knowledge, customer value)?
+22. [Architecture] AI skills gap named and closed
+   Is the AI strategy and deployment skills gap named, with a plan to close it?
+23. [Architecture] Ability to attract external talent
+   Can the firm attract specialized external talent (especially AI) without losing family purpose?
+24. [Architecture] AI cost and ROI visibility
+   Is there visibility of AI operating cost and an ROI loop the board can review?
+What we would fix first:
+- No bridge: dialogue or trust is insufficient
+  · Install a monthly intergenerational cadence on AI and succession.
+  · Formalize reverse mentoring.
+  · Write a shared digital vision on one page or in the charter.
+- AI is not on the board agenda
+  · Put AI and succession on the board agenda as strategy.
+  · Name the accountable for AI-informed decisions.
+  · Publish AI principles linked to family values.
+- NextGen has no real roles
+  · Assign roles with P&L or functional accountability.
+  · Require outside experience of substance.
+  · Include AI competencies in the development plan.
+- Succession is a document, not a process
+  · Turn the plan into a continuous process with milestones.
+  · Separate ownership, governance and management.
+  · Design staged authority transfer.
+- Cerebral capital does not scale
+  · Document critical processes and judgment.
+  · Use AI to capture and make knowledge accessible.
+  · Reduce single-person dependency.
+- AI activity without architecture
+  · Freeze to 2–3 use cases with business metrics.
+  · Name and close the AI skills gap.
+  · Install cost visibility and an ROI loop for the board.
+
+
+===== Recommendations by question (same scripts, English only) =====
+These sit on the results screen. They were not in the first extract of fix-titles.
+
+--- DJV Consulting · AI Readiness ---
+1. The strategy lives in slides, not in the P&L
+   · Write a one-page memo: AI thesis, 12–24 month horizon, two business KPIs (cash, margin or risk), and what is explicitly out of scope.
+   · Tie every initiative to a forecast line — not to generic “efficiency”. If it does not move a number the CFO already watches, it does not enter.
+   · Review that page every quarter with the sponsor. With no cadence, the strategy expires in 90 days.
+2. There are ideas. There is no case that pays the next cheque
+   · List eight candidates and kill six this week. Two remain: one cash/margin, one operational risk.
+   · For each finalist: 12-week baseline, owner, effort, and the metric that decides continue or stop.
+   · Start only #1. DJV does not scale a portfolio until one pilot moves a visible number.
+3. There is executive interest. There is no authority
+   · Name a sponsor who can sign budget — not a staff-level “AI champion”.
+   · Put 45 fixed minutes a month on their calendar: unblocks, kill criteria, next cheque.
+   · If the sponsor cannot say no to a use case, they are not the sponsor. Find another or do not start.
+4. The data is not fit for a model that decides
+   · Pick the five sources for use case #1 and score each: freshness, completeness, owner, last reconciliation.
+   · Fix only what feeds that case. No nine-month data lake.
+   · Define who can see what before any tool is connected. Broad access + a model is a letterheaded leak.
+5. Five truths are not one
+   · Declare the system of record per metric (ERP, payroll, CRM). Everything else is a report, not the truth.
+   · Retire or archive parallel sheets in 30 days. If they stay alive, the model learns the drift.
+   · Publish a minimum dictionary: field name, formula, owner, cadence. One page, not a wiki.
+6. The process is not ready to be automated
+   · Draw the process AI will touch in 8–12 steps, with exceptions. If it will not fit on one sheet, it is not stable.
+   · Name a process owner — different from the model owner.
+   · Run the process four weeks with no AI and measure the baseline. Automating an informal ritual freezes the error.
+7. Systems do not talk; AI cannot read the company
+   · Inventory every re-key between ERP, CRM, payroll and BI. That is the hidden cost of the pilot.
+   · Integrate the highest-volume flow for use case #1 first. One clean connector beats three copilots.
+   · Forbid the model from being the glue. AI consumes an interface; it does not replace integration.
+8. Security and compliance trail the tool
+   · Classify use-case #1 data: public, internal, restricted, banned from models.
+   · Register vendors (model, region, retention, subprocessors) before the first production prompt.
+   · Define who audits outputs and how access is revoked on an exit. Human-in-the-loop is not optional if cash or third-party data moves.
+9. The knowledge leaves with the consultant
+   · Name an internal operator with protected hours — not “when they can”.
+   · Pair that person with the implementer for 90 days: run, challenge, document.
+   · Measure autonomy at day 60. If they cannot run the case without the external, the design failed.
+10. The pilot dies in week six from non-adoption
+   · 30-60-90 plan: who is informed, who is trained, who stops doing the work by hand.
+   · A 20-minute weekly ritual with real users. No complaints and no usage means kill or redesign.
+   · Commit managers: AI is not optional on the chosen process. Opt-in kills the pilot.
+11. Nobody wrote what may be loaded into a model
+   · One-page policy: allowed, forbidden (contracts, PII, pricing, M&A), official channels, what stays out.
+   · Name an incident accountable — a person with backup, not a committee.
+   · Brief managers in 30 minutes. A policy that lives in Legal and not in the workflow does not exist.
+12. The budget follows enthusiasm
+   · Three lines: discovery (low ceiling), pilot (ceiling + kill metric), scale (evidence only).
+   · Put the go/no-go date on the sponsor’s calendar before 40% of the pilot is spent.
+   · The next cheque is justified by baseline vs. result. No number, no renewal.
+
+--- DJV Consulting · Human in the Loop ---
+(no per-question recs on this object)
+
+--- DJV Consulting · Tokenomics & ROI ---
+(no per-question recs on this object)
+
+--- DJV Consulting · Bridging Generations ---
+(no per-question recs on this object)

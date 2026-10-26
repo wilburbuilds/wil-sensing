@@ -22,7 +22,7 @@ Wil Sensing finds the jobs a business does by hand that are worth handing off, m
 Fit call (free, 30 minutes, no commitment; can end in a no) → Job map (free, short; every applicable job, each with a measure and a baseline where possible; the owner keeps it) → Build (the first paid step; price sized to the jobs on the map, no amount published; retire, then plain automation, then AI only for messy input; tested before trust) → Run and govern (monthly, stoppable, living job-list review). No prices are published. There is no map fee and no fee credit.
 
 ## Capabilities and Constraints
-- Three pages: Home, How we work, Our Work, in `mockups/site/`. Words also live in `site-content-v1.md`. The live `index.html` is the previous site and is not this copy.
+- Three pages at the repo root: `index.html`, `how-we-work.html`, `our-work.html`, plus `site.css`. Words also live in `site-content-v1.md`. GitHub Pages serves the `main` branch from `/`.
 - Two actions: "Book a free 30-minute call. No commitment." (https://calendly.com/wilsensing/30min) and "Contact" (mailto:wilcsensing@gmail.com, address not printed). Contact is only in the close.
 - No prices, no team size, no "streamline," no "audit." The four ladder rungs are not a section. The build says work is tested before it is trusted and that how much it does on its own matches the stakes.
 - Source of the offer: the working proposition dated 2026-10-25. It wins over earlier site decisions.
@@ -41,7 +41,7 @@ From one local auto repair shop, where Wil was hired full-time for business deve
 - Knowledge kept, with no outcome figures: front-office chat sessions summarized into repeatable skills, and a technician research tool that returns step-by-step answers with sources.
 - $300+/month from replacing scheduling software is real and stays off the site, by Wil's choice.
 - Trust built in: people approve pricing changes, AI claims link to sources, AI notes labeled and deletable, customer data checked across about 100,000 records.
-Absent, never fabricate: testimonials, client logos, other client results, growth figures (pending), photos of the shop. The three "Beyond the shop" examples are synthetic placeholders.
+Absent, never fabricate: testimonials, client logos, other client results, growth figures (pending), photos of the shop. The three "Beyond the shop" examples are still on Our Work, tagged synthetic, while Wil reviews them.
 
 ## Design Standard: less is more
 Source: Jakub Krehel, "Less is more, more or less" (https://jakub.kr/writing/less-is-more). Wil adopted it 2026-10-24.

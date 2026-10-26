@@ -1,16 +1,14 @@
 # Wil Sensing site — content v1
 
-Status: updated 2026-10-25 to the working proposition (`proposition.md` wins where this disagreed).
-The public mockup is `mockups/site/`. The live `index.html` is not this copy.
-Markers: **[TBD]** = the proposition leaves it open. Do not invent it on the page.
+Status: this is the copy served from the repo root. GitHub Pages publishes `main` at the project site. Open items below are not printed on the pages.
 
 ## Decisions now in force
 
-- Positioning: "Hand off the busywork. Keep the decisions." A third line on speed is [TBD]. It is not on the site. No "in weeks" or other timeline promise.
+- Positioning: "Hand off the busywork. Keep the decisions." A third line on speed is still open. It is not on the site. No "in weeks" or other timeline promise.
 - Flow: free 30-minute fit call (no commitment; can end in a no) → free short Job map of every applicable job, not one job and not a set number → build, the first paid step, cheap-first, AI only where it helps → monthly run-and-govern, with a living job list. The first list is never the final one. Wil decided the Job map is free on 2026-10-26.
 - Measure test, shown as a template, not a result: Improve [measure] from [baseline] to [target] by [date].
 - Lightweight and fast: no six-month study, no slide deck.
-- Who we serve is [TBD]. No industry, size, or geography targeting on the page.
+- Who we serve is still open. No industry, size, or geography targeting on the page.
 - Plain language, a product for trades, and "one loop" are judgment calls. They are not stated as rules.
 - "Audit" is not used. "We" for the business. About stays personal. No team size. "Streamline" stays out.
 - No prices on the page. The fit call and the Job map are free. The build is the first paid step, and its price is sized to the jobs on the map. No amounts. There is no fee credit, because the map is free.
@@ -110,15 +108,20 @@ Pricing each part instead of a blanket markup, in a 90-day model. The tool only 
 People approve. Every AI claim shows its source. AI notes are labeled and can be deleted in one click. Customer data stayed separate across about 100,000 linked records. Some work moved from AI back to plain code where it had to be exact.
 
 ### Beyond the shop
-Three examples, each tagged **Synthetic placeholder** on the page. Not clients and not results. Replace or delete before launch.
+Still on the page, for Wil to review. Each example is tagged Synthetic placeholder. Not clients and not results.
 1. Sales pipeline
 2. Research
 3. Marketing run by AI agents
 
+## Removed before launch
+
+- The "Draft" footer label.
+- The empty "Photo of Wil" box. No photo is on the page.
+
 ## Removed from the previous draft
 
 - "One job at a time," "the job that eats the most hours," and any set count of jobs.
-- The hero subline and the third positioning line (still [TBD]).
+- The hero subline and the third positioning line (still open).
 - "Build for growth" / "Accelerate growth."
 - "It helps if the job repeats" and "probably not a fit if nothing repeats." A one-off job can still be a fit.
 - The job-word parade on Home (quotes, contracting, invoices, and the rest). Who we serve is being redefined.
@@ -129,12 +132,12 @@ Three examples, each tagged **Synthetic placeholder** on the page. Not clients a
 ## Open, not invented
 
 1. Third positioning line, and any speed promise, once timelines are set per business.
-2. Confirm the fit call is always free. The page says free, matching the working flow. The proposition still marks the confirm [TBD].
+2. Confirm the fit call is always free. The page says free, matching the working flow.
 3. How long the free Job map takes. No fee, and no amount on the site.
 4. How the build price and timeline are set. The page says the price is sized to the jobs on the map and gives no amount and no duration.
 5. Who we serve.
 6. Growth figures. "Build for growth" was removed rather than waiting on them.
 7. Shop story fact check, and the $217K time period (not stated).
-8. Photo of Wil.
-9. Replace or delete the synthetic Beyond-the-shop examples.
+8. Photo of Wil. The empty box was removed rather than shipping a placeholder.
+9. Beyond the shop: Wil is reviewing the three synthetic examples. They stay on Our Work, tagged as synthetic, until he says to keep or remove them.
 10. IP ownership of the shop tools (lawyer) before more detail goes public.

@@ -3,27 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>[Company] | Make the AI you already pay for actually work</title>
+<title>Wil Sensing | Make the AI you already pay for actually work</title>
 <meta name="description" content="Your AI tools guess because your business information is scattered across a dozen places. We pull it into one reliable foundation, then build automations on top that save hours, catch lost money, and stay under your control.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
 <script>document.documentElement.classList.add('js');</script>
 <style>
   :root {
-    --bg: #000;
-    --surface: #0b0b0b;
-    --surface-2: #111;
-    --line: rgba(255,255,255,.09);
-    --line-strong: rgba(255,255,255,.16);
-    --text: #fff;
-    --muted: rgba(255,255,255,.66);
-    --faint: rgba(255,255,255,.42);
-    --accent: #4ade80;
-    --radius: 16px;
+    --bg: #0c0b0a;
+    --surface: #161411;
+    --surface-2: #221e19;
+    --line: rgba(232, 206, 168, .13);
+    --line-strong: rgba(232, 206, 168, .24);
+    --text: #f6f1e7;
+    --muted: rgba(246, 241, 231, .68);
+    --faint: rgba(246, 241, 231, .42);
+    --accent: #e4a04a;
+    --accent-ink: #1c1308;
+    --radius: 8px;
     --wide: 70rem;
     --pad: clamp(1.25rem, 5vw, 2.5rem);
-    --font: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --font: "Outfit", ui-sans-serif, system-ui, sans-serif;
+    --display: "Fraunces", "Iowan Old Style", Georgia, serif;
   }
 
   *, *::before, *::after { box-sizing: border-box; }
@@ -49,25 +51,29 @@
   .wrap { max-width: var(--wide); margin: 0 auto; padding: 0 var(--pad); }
   .narrow { max-width: 46rem; }
   .center { text-align: center; margin-left: auto; margin-right: auto; }
+  .head.center { text-align: left; margin-left: 0; margin-right: 0; }
 
-  h1, h2, h3 { margin: 0; font-weight: 600; color: var(--text); }
-  h1 { font-size: clamp(2.6rem, 6.2vw, 5.25rem); line-height: 1.02; letter-spacing: -0.035em; }
-  h2 { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.1; letter-spacing: -0.03em; }
-  h3 { font-size: 1.0625rem; line-height: 1.45; letter-spacing: -0.02em; }
+  h1, h2, h3 { margin: 0; font-weight: 500; color: var(--text); }
+  h1, h2 { font-family: var(--display); font-weight: 500; letter-spacing: -0.025em; }
+  h1 { font-size: clamp(2.7rem, 5.2vw, 4.6rem); line-height: 1.04; }
+  h2 { font-size: clamp(2rem, 3.4vw, 2.85rem); line-height: 1.12; }
+  h3 { font-size: 1.0625rem; line-height: 1.45; letter-spacing: -0.015em; font-weight: 500; }
 
   .lede { font-size: clamp(1.05rem, 1.2vw, 1.15rem); font-weight: 300; color: var(--muted); line-height: 1.65; }
   .body-copy { font-weight: 300; color: var(--muted); font-size: 1.0625rem; }
   .body-copy strong { color: var(--text); font-weight: 500; }
 
-  section { padding: clamp(5rem, 11vw, 8.5rem) 0; position: relative; }
+  section { padding: clamp(4rem, 7.5vw, 6.25rem) 0; position: relative; }
+  main > section:nth-child(even) { background: #12100e; }
 
   .eyebrow {
-    display: inline-flex; align-items: center; gap: .75rem;
-    font-size: .8125rem; font-weight: 500; color: var(--muted);
-    margin-bottom: 1.25rem;
+    display: inline-flex; align-items: center; gap: .7rem;
+    font-size: .72rem; font-weight: 500; color: var(--accent);
+    letter-spacing: .16em; text-transform: uppercase;
+    margin-bottom: 1.1rem;
   }
-  .eyebrow .n { color: var(--accent); font-variant-numeric: tabular-nums; }
-  .eyebrow .rule { width: 1.75rem; height: 1px; background: var(--line-strong); }
+  .eyebrow .n { font-variant-numeric: tabular-nums; letter-spacing: .08em; }
+  .eyebrow .rule { width: 1.5rem; height: 1px; background: var(--accent); opacity: .55; }
   .head { margin-bottom: clamp(2.5rem, 5vw, 3.5rem); }
   .head .lede { margin-top: 1.25rem; }
 
@@ -75,30 +81,30 @@
   .btn {
     display: inline-flex; align-items: center; gap: .55rem;
     font-size: .9375rem; font-weight: 500; letter-spacing: -0.01em;
-    padding: .8rem 1.15rem; border-radius: 10px;
+    padding: .85rem 1.2rem; border-radius: 6px;
     transition: background-color .2s ease, color .2s ease, transform .2s ease, box-shadow .2s ease;
     white-space: nowrap;
   }
   .btn svg { width: 15px; height: 15px; transition: transform .2s ease; }
-  .btn-primary { background: #fff; color: #000; box-shadow: 0 0 0 1px rgba(255,255,255,.2), 0 8px 30px -10px rgba(255,255,255,.35); }
-  .btn-primary:hover { background: #e9e9e9; }
+  .btn-primary { background: var(--accent); color: var(--accent-ink); }
+  .btn-primary:hover { background: #f0b56a; }
   .btn-primary:hover svg { transform: translateX(2px); }
-  .btn-ghost { color: var(--muted); padding-left: .4rem; padding-right: .4rem; }
+  .btn-ghost { color: var(--accent); padding-left: .15rem; padding-right: .15rem; }
   .btn-ghost:hover { color: var(--text); }
   .btn-ghost:hover svg { transform: translateY(2px); }
-  .btn-sm { padding: .5rem .85rem; font-size: .8125rem; border-radius: 8px; }
+  .btn-sm { padding: .55rem .9rem; font-size: .8125rem; border-radius: 6px; }
 
   /* Header */
   .site-header {
     position: sticky; top: 0; z-index: 50;
-    background: rgba(0,0,0,.72);
+    background: rgba(12,11,10,.82);
     -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
     border-bottom: 1px solid transparent;
     transition: border-color .3s ease;
   }
   .site-header.scrolled { border-bottom-color: var(--line); }
   .site-header .wrap { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 1rem; }
-  .brand { font-weight: 600; font-size: 1.05rem; letter-spacing: -0.02em; }
+  .brand { font-family: var(--display); font-weight: 500; font-size: 1.25rem; letter-spacing: -0.02em; }
   .nav { display: flex; gap: 2rem; }
   .nav a { font-size: .875rem; color: var(--muted); transition: color .2s; }
   .nav a:hover { color: var(--text); }
@@ -117,7 +123,7 @@
     .mobile-nav.open { max-height: 24rem; border-top-color: var(--line); }
     .mobile-nav .wrap { display: grid; padding-top: .75rem; padding-bottom: 1.25rem; height: auto; gap: .25rem; }
     .mobile-nav a { padding: .7rem 0; color: var(--muted); border-bottom: 1px solid var(--line); }
-    .mobile-nav .btn { margin-top: 1rem; justify-content: center; color: #000; border: 0; }
+    .mobile-nav .btn { margin-top: 1rem; justify-content: center; color: var(--accent-ink); border: 0; }
   }
 
   /* Hero */
@@ -126,29 +132,37 @@
     min-height: calc(100svh - 64px);
     display: flex; align-items: center;
     padding: clamp(4rem, 9vw, 6rem) 0 clamp(4rem, 8vw, 6rem);
-    text-align: center;
+    text-align: left;
   }
   .hero::before {
     content: ""; position: absolute; inset: 0; pointer-events: none;
-    background: radial-gradient(50% 45% at 50% 42%, rgba(255,255,255,.07), rgba(255,255,255,0) 70%);
+    background:
+      radial-gradient(42% 55% at 8% 18%, rgba(228,160,74,.16), rgba(228,160,74,0) 70%),
+      radial-gradient(30% 40% at 90% 80%, rgba(228,160,74,.06), rgba(228,160,74,0) 70%);
   }
-  .stars { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
   .hero .wrap { position: relative; z-index: 1; width: 100%; }
-  .hero h1 { max-width: 15ch; margin: 0 auto; }
-  .hero .lede { max-width: 38rem; margin: 1.5rem auto 2.25rem; }
-  .hero-actions { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: .75rem 1.25rem; }
+  .hero h1 { max-width: 14ch; }
+  .hero .lede { max-width: 36rem; margin: 1.35rem 0 2rem; }
+  .hero-actions { display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; gap: .75rem 1.5rem; }
 
   .proof {
-    list-style: none; margin: 2.75rem auto 0; padding: 0;
-    display: flex; justify-content: center; flex-wrap: wrap; gap: .75rem 2.25rem;
-    font-size: .9375rem; color: var(--muted);
+    list-style: none; margin: 3rem 0 0; padding: 1.35rem 0 0;
+    display: grid; grid-template-columns: repeat(3, minmax(0, 15rem));
+    max-width: 46rem;
+    border-top: 1px solid var(--line);
+    font-size: .9375rem; color: var(--muted); font-weight: 300;
   }
-  .proof li { display: inline-flex; align-items: center; gap: .55rem; }
-  .proof li strong { color: var(--text); font-weight: 600; }
-  .proof svg { width: 15px; height: 15px; color: var(--accent); flex: none; }
-  .proof .dot { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
-  @media (max-width: 640px) {
-    .proof { flex-direction: column; align-items: center; gap: .6rem; }
+  .proof li { padding-right: 1.25rem; }
+  .proof li + li { padding-left: 1.25rem; border-left: 1px solid var(--line); }
+  .proof strong {
+    display: block;
+    font-family: var(--display); font-weight: 500; font-size: clamp(1.7rem, 2.2vw, 2.15rem);
+    letter-spacing: -0.03em; line-height: 1.05; color: var(--accent);
+    margin-bottom: .35rem;
+  }
+  @media (max-width: 720px) {
+    .proof { grid-template-columns: 1fr; gap: 1rem; }
+    .proof li, .proof li + li { padding: 0; border: 0; }
   }
 
   /* Cards */
@@ -162,8 +176,8 @@
     display: inline-flex; align-items: center; justify-content: center;
     min-width: 28px; height: 24px; padding: 0 .45rem;
     border-radius: 6px; border: 1px solid var(--line-strong);
-    background: var(--surface-2);
-    font-size: .75rem; font-weight: 600; color: var(--muted);
+    background: rgba(228,160,74,.08);
+    font-size: .75rem; font-weight: 600; color: var(--accent); border-color: rgba(228,160,74,.3);
     font-variant-numeric: tabular-nums;
     margin-bottom: 1.1rem;
   }
@@ -186,7 +200,7 @@
     color: var(--muted); font-weight: 300; font-size: 1rem;
   }
   .rows svg { width: 16px; height: 16px; flex: none; margin-top: .3rem; }
-  .rows.neg svg { color: rgba(255,255,255,.35); }
+  .rows.neg svg { color: rgba(246,241,231,.35); }
   .rows.pos svg { color: var(--accent); }
   .rows.pos li { color: var(--text); font-weight: 400; }
 
@@ -209,10 +223,10 @@
   .flow svg.lines { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
   .lines path { fill: none; vector-effect: non-scaling-stroke; }
   .tangle path { stroke: rgba(255,255,255,.2); stroke-width: 1; transition: opacity .6s ease; }
-  .links path { stroke: rgba(255,255,255,.28); stroke-width: 1; stroke-dasharray: 5 7; opacity: 0; transition: opacity .6s ease; }
-  .links path.base { stroke: rgba(255,255,255,.08); stroke-dasharray: none; }
+  .links path { stroke: rgba(228,160,74,.7); stroke-width: 1; stroke-dasharray: 5 7; opacity: 0; transition: opacity .6s ease; }
+  .links path.base { stroke: rgba(228,160,74,.2); stroke-dasharray: none; }
   .pulses { opacity: 0; transition: opacity .6s ease; }
-  .pulses circle { fill: #fff; }
+  .pulses circle { fill: #e4a04a; }
   .flow.is-after .tangle path { opacity: 0; }
   .flow.is-after .links path { opacity: 1; transition-delay: .9s; }
   .flow.is-after .pulses { opacity: 1; transition-delay: 1.3s; }
@@ -250,9 +264,9 @@
     transform: translate(-50%, -50%) scale(.6);
     opacity: 0;
     border-radius: 18px;
-    background: #fff; color: #000;
+    background: #f4efe6; color: var(--accent-ink);
     display: grid; place-items: center;
-    box-shadow: 0 0 0 7px rgba(255,255,255,.05), 0 0 0 8px rgba(255,255,255,.1), 0 0 60px rgba(255,255,255,.18);
+    box-shadow: 0 0 0 8px rgba(228,160,74,.14), 0 0 56px rgba(228,160,74,.32);
     transition: transform .7s cubic-bezier(.3,1.4,.5,1) .55s, opacity .5s ease .55s;
   }
   .node.core .core-box svg { width: 40px; height: 40px; }
@@ -304,15 +318,15 @@
   .result:nth-child(4), .result:nth-child(5) { grid-column: span 3; }
   .result::before {
     content: ""; position: absolute; inset: 0; pointer-events: none;
-    background: radial-gradient(70% 60% at 0% 0%, rgba(255,255,255,.06), rgba(255,255,255,0) 70%);
+    background: radial-gradient(70% 60% at 0% 0%, rgba(228,160,74,.1), rgba(228,160,74,0) 70%);
   }
-  .result h3 { font-size: 1.25rem; line-height: 1.3; margin-bottom: .6rem; }
+  .result { border-top: 2px solid var(--accent); }
+  .result h3 { font-size: 1.2rem; line-height: 1.3; margin-bottom: .6rem; font-family: var(--display); font-weight: 500; }
   .result .stat {
     display: block;
-    font-size: clamp(2.75rem, 4.5vw, 3.75rem); line-height: 1; letter-spacing: -0.04em; font-weight: 700;
-    margin-bottom: .9rem;
-    background: linear-gradient(180deg, #fff 30%, rgba(255,255,255,.55));
-    -webkit-background-clip: text; background-clip: text; color: transparent;
+    font-family: var(--display); font-weight: 500;
+    font-size: clamp(2.6rem, 4vw, 3.4rem); line-height: 1; letter-spacing: -0.03em;
+    margin-bottom: .85rem; color: var(--accent);
   }
   @media (max-width: 980px) {
     .results { grid-template-columns: 1fr 1fr; }
@@ -323,8 +337,8 @@
     .results { grid-template-columns: 1fr; }
     .result:nth-child(n) { grid-column: span 1; }
   }
-  .results-note { margin-top: 2.25rem; text-align: center; color: var(--muted); font-weight: 300; }
-  .results-cta { display: flex; justify-content: center; margin-top: 2rem; }
+  .results-note { margin-top: 2rem; color: var(--muted); font-weight: 300; }
+  .results-cta { display: flex; margin-top: 1.75rem; }
 
   /* 04 How it works: sticky intro + step cards */
   .split { display: grid; gap: clamp(2.5rem, 6vw, 5rem); grid-template-columns: .9fr 1.1fr; align-items: start; }
@@ -336,27 +350,27 @@
   .step li svg { width: 15px; height: 15px; color: var(--accent); flex: none; margin-top: .35rem; }
   .keep {
     margin-top: 1rem !important; padding: .8rem 1rem; border-radius: 10px;
-    background: rgba(74,222,128,.07); border: 1px solid rgba(74,222,128,.22);
+    background: rgba(228,160,74,.1); border: 1px solid rgba(228,160,74,.32);
     color: var(--text) !important; font-weight: 500 !important;
   }
   .progress { display: grid; gap: .25rem; margin-top: 2rem; }
   .progress a { display: flex; align-items: center; gap: .85rem; color: var(--faint); font-size: .9375rem; padding: .35rem 0; transition: color .25s; }
   .progress a .pip { width: 11px; height: 11px; border-radius: 50%; border: 1px solid var(--line-strong); flex: none; transition: background-color .25s, border-color .25s, box-shadow .25s; }
   .progress a.active { color: var(--text); }
-  .progress a.active .pip { background: #fff; border-color: #fff; box-shadow: 0 0 0 4px rgba(255,255,255,.12); }
+  .progress a.active .pip { background: var(--accent); border-color: var(--accent); box-shadow: 0 0 0 4px rgba(228,160,74,.16); }
   @media (max-width: 900px) { .progress { display: none; } }
 
   /* 05 Job Map */
   .measure-card { margin-top: 2rem; padding: 1.75rem 1.5rem; }
   .measure-card .k { font-size: .75rem; color: var(--faint); margin-bottom: .75rem; letter-spacing: .02em; }
   .card .measure {
-    color: var(--text);
-    font-size: clamp(1.25rem, 2vw, 1.6rem); line-height: 1.4; font-weight: 500; letter-spacing: -0.02em; margin: 0;
+    color: var(--text); font-family: var(--display);
+    font-size: clamp(1.3rem, 2vw, 1.65rem); line-height: 1.35; font-weight: 500; letter-spacing: -0.02em; margin: 0;
   }
   .measure .slot {
     color: var(--accent);
-    background: rgba(74,222,128,.08);
-    border: 1px dashed rgba(74,222,128,.35);
+    background: rgba(228,160,74,.1);
+    border: 1px dashed rgba(228,160,74,.4);
     border-radius: 6px; padding: 0 .3rem;
     -webkit-box-decoration-break: clone; box-decoration-break: clone;
   }
@@ -375,7 +389,7 @@
   .ladder .card { display: flex; flex-direction: column; }
   .ladder .chip { align-self: flex-start; }
   .meter { display: flex; gap: 4px; margin-top: auto; padding-top: 1.5rem; }
-  .meter i { flex: 1; height: 4px; border-radius: 2px; background: rgba(255,255,255,.1); }
+  .meter i { flex: 1; height: 4px; border-radius: 2px; background: rgba(246,241,231,.12); }
   .meter i.on { background: var(--accent); }
   .ladder-note { margin-top: 1.75rem; color: var(--muted); font-weight: 300; }
   .trust { margin-top: clamp(3rem, 6vw, 4.5rem); }
@@ -395,7 +409,7 @@
   .portrait {
     aspect-ratio: 4 / 5; border-radius: 20px; border: 1px solid var(--line);
     background:
-      radial-gradient(60% 50% at 50% 35%, rgba(255,255,255,.08), rgba(255,255,255,0) 70%),
+      radial-gradient(60% 50% at 50% 35%, rgba(228,160,74,.14), rgba(228,160,74,0) 70%),
       var(--surface);
     display: grid; place-items: center; position: relative; overflow: hidden;
     max-width: 24rem; width: 100%; justify-self: center;
@@ -404,7 +418,7 @@
     width: 96px; height: 96px; border-radius: 50%;
     display: grid; place-items: center;
     border: 1px solid var(--line-strong); background: #141414;
-    font-size: 2rem; font-weight: 600; letter-spacing: -0.03em;
+    font-family: var(--display); font-size: 2.4rem; font-weight: 500; letter-spacing: -0.03em; color: var(--accent);
   }
   .portrait .tag { position: absolute; left: 1rem; bottom: 1rem; font-size: .75rem; color: var(--faint); }
 
@@ -423,25 +437,18 @@
 
   /* Final CTA */
   .final-panel {
-    position: relative; overflow: hidden; text-align: center;
-    border: 1px solid var(--line); border-radius: 24px;
-    padding: clamp(4rem, 9vw, 6.5rem) clamp(1.25rem, 5vw, 3rem);
-    background:
-      radial-gradient(60% 70% at 50% 0%, rgba(255,255,255,.1), rgba(255,255,255,0) 70%),
-      var(--surface);
+    position: relative; overflow: hidden; text-align: left;
+    border-radius: 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+    padding: clamp(3.5rem, 8vw, 5.5rem) 0;
+    background: transparent;
   }
   .final-panel::before {
-    content: ""; position: absolute; inset: 0; pointer-events: none;
-    background-image:
-      linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
-    background-size: 44px 44px;
-    -webkit-mask-image: radial-gradient(60% 70% at 50% 20%, #000, transparent 75%);
-    mask-image: radial-gradient(60% 70% at 50% 20%, #000, transparent 75%);
+    content: ""; position: absolute; left: -10%; top: -40%; width: 55%; height: 180%; pointer-events: none;
+    background: radial-gradient(closest-side, rgba(228,160,74,.2), rgba(228,160,74,0) 70%);
   }
   .final-panel > * { position: relative; }
-  .final-panel h2 { max-width: 18ch; margin: 0 auto; font-size: clamp(2.1rem, 4.6vw, 3.4rem); }
-  .final-panel .lede { max-width: 32rem; margin: 1.25rem auto 2rem; }
+  .final-panel h2 { max-width: 16ch; font-size: clamp(2.1rem, 4vw, 3.15rem); }
+  .final-panel .lede { max-width: 32rem; margin: 1.15rem 0 1.75rem; }
 
   footer { padding: 2.5rem 0 3rem; color: var(--faint); font-size: .8125rem; }
   footer .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1rem; border-top: 1px solid var(--line); padding-top: 2rem; }
@@ -471,14 +478,14 @@
 
 <header class="site-header" id="header">
   <div class="wrap">
-    <a class="brand" href="#top">[Company]</a>
+    <a class="brand" href="#top">Wil Sensing</a>
     <nav class="nav" aria-label="Primary">
       <a href="#how">How it works</a>
       <a href="#results">Results</a>
       <a href="#about">About Wil</a>
       <a href="#faq">FAQ</a>
     </nav>
-    <a class="btn btn-primary btn-sm header-cta" href="#book">Book a free 30-minute call</a>
+    <a class="btn btn-primary btn-sm header-cta" href="https://calendly.com/wilsensing">Book a free 30-minute call</a>
     <button class="menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 8h16M4 16h16"/></svg>
     </button>
@@ -489,7 +496,7 @@
       <a href="#results">Results</a>
       <a href="#about">About Wil</a>
       <a href="#faq">FAQ</a>
-      <a class="btn btn-primary" href="#book">Book a free 30-minute call</a>
+      <a class="btn btn-primary" href="https://calendly.com/wilsensing">Book a free 30-minute call</a>
     </div>
   </nav>
 </header>
@@ -498,18 +505,17 @@
 
   <!-- Hero -->
   <section class="hero" id="top" aria-labelledby="hero-title">
-    <canvas class="stars" aria-hidden="true"></canvas>
     <div class="wrap">
       <h1 id="hero-title">Make the AI you already pay for actually work.</h1>
       <p class="lede">Your AI tools guess because your business information is scattered across a dozen places. We pull it into one reliable foundation, then build automations on top that save hours, catch lost money, and stay under your control.</p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href="#book">Book a free 30-minute call <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        <a class="btn btn-primary" href="https://calendly.com/wilsensing">Book a free 30-minute call <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
         <a class="btn btn-ghost" href="#results">See what we've delivered ↓</a>
       </div>
       <ul class="proof" aria-label="Results">
-        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><strong>$200K</strong> in lost revenue stopped</span></li><li class="dot" aria-hidden="true">·</li>
-        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><strong>48%</strong> more profit on parts pricing</span></li><li class="dot" aria-hidden="true">·</li>
-        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><strong>$300/month</strong> cut from software bills</span></li>
+        <li><strong>$200K</strong> in lost revenue stopped</li>
+        <li><strong>48%</strong> more profit on parts pricing</li>
+        <li><strong>$300/month</strong> cut from software bills</li>
       </ul>
     </div>
   </section>
@@ -553,7 +559,7 @@
         <div class="flow" id="flow" role="img" aria-label="Animation: your scattered tools, each wired by hand to your team, reorganize so they all feed one reliable foundation, which then feeds your team.">
           <svg class="lines" aria-hidden="true"><g class="tangle"></g><g class="links"></g><g class="pulses"></g></svg>
           <div class="col" data-col="tools" aria-hidden="true">Your tools</div>
-          <div class="col" data-col="core" aria-hidden="true">[Company]</div>
+          <div class="col" data-col="core" aria-hidden="true">Wil Sensing</div>
           <div class="col" data-col="team" aria-hidden="true">Your team</div>
 
           <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="12" cy="10" r="3"/><path d="M7 19c1-2.4 2.9-3.6 5-3.6s4 1.2 5 3.6"/></svg></div><span class="label">Customer records</span></div>
@@ -592,7 +598,7 @@
         <article class="card result"><h3>Sales reps focused on leads, not busywork.</h3><p>One business automated its sales pipeline so reps spend their time selling.</p></article>
       </div>
       <p class="results-note reveal">Every result starts the same way: a measured baseline, a clear target, and a date to check it.</p>
-      <div class="results-cta reveal"><a class="btn btn-primary" href="#book">Book a free 30-minute call <svg aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
+      <div class="results-cta reveal"><a class="btn btn-primary" href="https://calendly.com/wilsensing">Book a free 30-minute call <svg aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
     </div>
   </section>
 
@@ -729,7 +735,7 @@
         <h2 id="final-title">Find out what your business is leaving on the table.</h2>
         <p class="lede">In 30 minutes, we'll learn how your business runs and where it's losing time and money. No cost, no obligation.</p>
         <!-- TODO: replace with the real booking link -->
-        <a class="btn btn-primary" href="#book">Book a free 30-minute call <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        <a class="btn btn-primary" href="https://calendly.com/wilsensing">Book a free 30-minute call <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
       </div>
     </div>
   </section>
@@ -738,8 +744,8 @@
 
 <footer>
   <div class="wrap">
-    <span>© [Company]</span>
-    <a href="#book">Book a free 30-minute call</a>
+    <span>© Wil Sensing</span>
+    <a href="https://calendly.com/wilsensing">Book a free 30-minute call</a>
   </div>
 </footer>
 
@@ -777,36 +783,6 @@
     });
   }, { rootMargin: '-45% 0px -45% 0px' });
   document.querySelectorAll('.step').forEach(function (s) { stepIo.observe(s); });
-
-  /* Star field */
-  var canvas = document.querySelector('.stars');
-  var ctx = canvas.getContext('2d');
-  var stars = [];
-  function sizeStars() {
-    var dpr = Math.min(window.devicePixelRatio || 1, 2);
-    var w = canvas.offsetWidth, h = canvas.offsetHeight;
-    canvas.width = w * dpr; canvas.height = h * dpr;
-    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    var count = Math.round(w * h / 9000);
-    stars = [];
-    for (var i = 0; i < count; i++) {
-      stars.push({ x: Math.random() * w, y: Math.random() * h, r: Math.random() * 0.9 + 0.3, a: Math.random() * 0.5 + 0.15, s: Math.random() * 0.012 + 0.003, p: Math.random() * 6.28, v: Math.random() * 0.06 + 0.01 });
-    }
-  }
-  function drawStars(t) {
-    var w = canvas.offsetWidth, h = canvas.offsetHeight;
-    ctx.clearRect(0, 0, w, h);
-    for (var i = 0; i < stars.length; i++) {
-      var s = stars[i];
-      if (!reduce) { s.y -= s.v; if (s.y < -2) s.y = h + 2; }
-      var a = reduce ? s.a : s.a * (0.6 + 0.4 * Math.sin(t * s.s + s.p));
-      ctx.globalAlpha = a; ctx.fillStyle = '#fff';
-      ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, 6.283); ctx.fill();
-    }
-    if (!reduce) requestAnimationFrame(drawStars);
-  }
-  sizeStars(); requestAnimationFrame(drawStars);
-  window.addEventListener('resize', function () { sizeStars(); if (reduce) drawStars(0); });
 
   /* Flow diagram: tangled tools -> one reliable foundation -> your team */
   var flow = document.getElementById('flow');

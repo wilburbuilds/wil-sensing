@@ -12,7 +12,7 @@ Status: this is the copy served from the repo root. GitHub Pages publishes `main
 - Plain language, a product for trades, and "one loop" are judgment calls. They are not stated as rules.
 - "Audit" is not used. "We" for the business. About stays personal. No team size. "Streamline" stays out.
 - No prices on the page. The fit call and the Job map are free. The build is the first paid step, and its price is sized to the jobs on the map. No amounts. There is no fee credit, because the map is free.
-- The homepage states verified figures as stats, not as a shop story: $217K vendor credits found, not recovered; ~48% higher gross profit on eligible parts, in a 90-day model, modeled not realized; 11,139 purchase-order lines matched; about 100,000 linked records checked, with no customer's data on another customer's record; 4 real examples, businesses unnamed. Our Work still places the shop figures inside that example. The other examples have no numbers. The $300+/mo scheduling figure stays off. No invented results.
+- Homepage stats are two lines only: "Stopped over $200K in leakage." and "~48% more profit on eligible parts." "Over $200K" is the homepage phrasing of the existing $217K. Do not say owed, vendor credits, or not recovered on the homepage. Do not say modeled, 90-day, gross, or not yet realized. The profit is realized. Do not claim past money was recovered. Our Work keeps $217K and says the leak stopped going forward. The $300+/mo scheduling figure stays off. No invented results.
 - Design: B v3, light, dark bands. Less is more. Hero is the headline, the call button, and the draft card. Contact only in the close.
 
 ## Page 1: Home
@@ -41,11 +41,8 @@ Short work. No six-month study, and no slide deck. AI only where it helps. The f
 Improve [measure] from [baseline] to [target] by [date].
 
 Stats, not a shop story. Specific examples live on Our Work.
-- **$217K.** Vendor credits found, not recovered.
-- **~48%.** Higher gross profit on eligible parts, in a 90-day model. Modeled, not yet realized.
-- **11,139.** Purchase-order lines matched against billing.
-- **~100,000.** Linked records checked. No customer's data showed up on another customer's record.
-- **4.** Real examples. The businesses stay unnamed.
+- **Over $200K.** Stopped in leakage.
+- **~48%.** More profit on eligible parts.
 
 [See our work →] · [See how we work →]
 
@@ -103,10 +100,10 @@ The four examples below are peers. The shop is not the main example, and the oth
 Wil was hired full-time there for business development and marketing. Here's what he found and built there.
 
 ### Vendor credits
-Wil matched 11,139 purchase-order lines against billing and found vendor credits that weren't coming back. The leak stopped going forward. A person still checks the exceptions. **$217K. Found, not recovered.**
+Wil matched 11,139 purchase-order lines against billing and found vendor credits that weren't coming back. The leak stopped going forward. A person still checks the exceptions. **$217K. Stopped going forward.** Do not claim past money was recovered.
 
 ### Parts pricing
-Pricing each part instead of a blanket markup, in a 90-day model. The tool only flags. A person approves before anything changes. **About 48% higher gross profit on eligible parts. Modeled, not yet realized.**
+Pricing each part instead of a blanket markup. The tool only flags. A person approves before anything changes. **~48% more profit on eligible parts.** Realized. Not labeled modeled.
 
 ### What was built
 - One trusted record of customers, cars, orders, calls, and history.

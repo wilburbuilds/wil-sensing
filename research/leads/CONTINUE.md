@@ -138,9 +138,9 @@ All queries are `search_posts_all`, `lang:en -is:retweet`, max 25 results, unles
 
 Fit 5: Patriot Air; o5 Plumbing; Utility Plumbing Services; Mac 5 Services; Bayshore Plumbers; The Cooling Company; Miller's Towing; Pihl Excavating; Clear the Air.
 
-Fit 4: Jenner & Sons; Aaron Services; Raynor Door; J.J. Kokesh & Son; Boston Budget Plumbing; KVN Construction; Climate Masters; Cornel's Plumbing; Mundahl Law; Bootz & Duke; Perfect Smile Dental Care; Cornerstone Audiology; Jacksonville Dermatology; Finetone Hearing; Tender Care Veterinary Center; RVA Chiropractic; My Vision of the Valley; New Age Medspa; TONIIK; Accurate Towing; Offshore Marine Towing (TowBoatU.S. Fort Lauderdale); S&S Concrete Floors; Hughes & Cozad Orthodontics; Mountain View Therapy; AJ Long Electric; Way Cool Plumbing & Air; The Pets Place; Chris Rizzo Trucking; Crain Eye Clinic; OPDSF Pediatric Dentistry.
+Fit 4: Jenner & Sons; Aaron Services; Raynor Door; J.J. Kokesh & Son; Boston Budget Plumbing; KVN Construction; Climate Masters; Cornel's Plumbing; Mundahl Law; Bootz & Duke; Perfect Smile Dental Care; Cornerstone Audiology; Jacksonville Dermatology; Finetone Hearing; Tender Care Veterinary Center; RVA Chiropractic; My Vision of the Valley; New Age Medspa; TONIIK; M3 Physical Therapy; Salt Medical Aesthetics; Accurate Towing; Offshore Marine Towing (TowBoatU.S. Fort Lauderdale); S&S Concrete Floors; Hughes & Cozad Orthodontics; Mountain View Therapy; AJ Long Electric; Way Cool Plumbing & Air; The Pets Place; Chris Rizzo Trucking; Crain Eye Clinic; OPDSF Pediatric Dentistry.
 
-Fit 3: Blue Ridge Vascular; Kerner's Auto Service; Suite 200 Grille; Brushworks; Carter Law Group; Penn Veterinary Supply; Lindsey RV Repair; Grand Lake Plumbing & Heating; Isley's Home Service; Henry Plumbing; Windsor Medical Center.
+Fit 3: Blue Ridge Vascular; Kerner's Auto Service; Suite 200 Grille; Brushworks; Carter Law Group; Lindsey RV Repair; Grand Lake Plumbing & Heating; Isley's Home Service; Windsor Medical Center.
 
 ## Dedupe and rejections
 
@@ -159,6 +159,7 @@ Do not pick these up again unless a new page changes the reason.
 - Mile High Honda Acura, Markley Motors: dealer groups, not opened, rejected on the listing.
 - Tecta America, F.H. Paschen, Walsworth, Keck Medicine of USC: too large, from the X pass.
 - Boda Plumbing, Hanson's Plumbing, Emergency Plumbing Heating & Air, Snake 'n' Rooter: vendor case studies. The manual process described was already replaced (Sage, ServiceTitan, BILL, Praxedo).
+- Austin's Lawn Care & Landscaping, Johnson County, KS. Austin Heath, owner, is named on https://granum.com/customer-stories/austins-lawn-care/, opened 2026-10-26. The Google spreadsheet, lost paper tickets, and QuickBooks copy/paste are described as the old process, after a move to SingleOps. Not a current lead.
 - Precision HVAC "Tom Martinez," ClearWave Pools, SB Pools, ABC Plumbing: composite or fictional case studies.
 - Non-US hits: Doug Tarry Homes, PACE Cardiology, Aquanas Foods, Hua Kun, Raj Grocers, GB Autos, Driven Properties, Pavago, PVG Halifax, DS Water (London).
 - Hofmeister Family Dentistry: paper-chart project described as finished.
@@ -177,7 +178,9 @@ These had a real signal or a real name, and a required page did not open or did 
 - Central Heating & Plumbing, New Castle / Sharon, PA. SimplyHired office-manager text opened and says the job expired. The exploreVenango article that names Fran Lynch returned 403. Owner not confirmed.
 - Ultragloss, Akron. ultragloss.biz opened and did not name an owner or a trade in the extracted text. BBB returned 403. X post is an AP/AR clerk hire. Line of business and owner unfinished.
 - Windsor was included at fit 3 from the Medicare listing plus the X post. A search result said the office-manager seat was later marked filled. That update was not opened. Batch 2 should open it and drop the lead if the seat is filled.
-- Henry Plumbing's own site returned 403. Included at fit 3 from the March 2022 profile plus the X post. Batch 2 should open henryplumbingco.com before outreach.
+- Henry Plumbing, Savannah, GA. Removed from the 50 when two fully opened clinics took the seats. The March 2022 profile names Tonya Reed, co-owner with Todd. henryplumbingco.com returned 403. The July 2026 office-assistant post is from the X batch and was not re-opened on the company site. Do not add until that site opens.
+- Penn Veterinary Supply, Lancaster, PA. Accounts-receivable post opened on SimplyHired and says the company is family owned, with branches in Michigan, Florida, and North Carolina. Lita Miller is named president only in a December 6, 2021 release. No phone or email on the pages opened. Held out. Add only if a current officer page opens.
+- Rocky Mountains Distributing, Englewood, CO. Billing specialist page opened 2026-10-26: https://www.rockymountainsdistributing.com/billing-specialist. Duties include daily Southware service invoices, Excel pivot tables, and "Leverage automation and AI-driven tools." Pay on the page: $50,000–$60,000, in office. About page opened the same day: Colorado office 2580 S Tejon Street, Englewood, CO 80110, and a New Mexico office. Phone 800-758-1038. Info@RMDColorado.com. No president or owner is named on either page. Do not add until a page names the person. Do not take the name from a data-broker directory.
 - Blue Ridge Vascular careers page did not list the July coordinator role. Included at fit 3. Confirm before outreach.
 - Xpress Distributors, Tampa. Accounting-clerk job opened (QuickBooks and Zoho Books). FMCSA page shows SUHAIL@XPRESSDISTRIBUTORS.COM and (813) 622-6362. The president's full name was on a Sunbiz mirror that returned 403. Do not invent the surname from the mailbox.
 - Delta Food Supplies / AJAB LLC, Dallas. Paylocity title opened ("Bookkeeper – QuickBooks Desktop / AP & AR") but the duty body required JavaScript. Officer page returned 403. A homepage review names "Bhargav" with no title. Unfinished.
@@ -198,7 +201,7 @@ Continue Wil Sensing lead research, batch 2. Read research/leads/CONTINUE.md and
 
 Goal: 50 new US leads, same definition and 1–5 scoring as CONTINUE.md. Public pages only. Open every page you cite. No logins, no terms-violating scrapers, no invented names or revenue. Business contact info only. Do not contact anyone.
 
-Prioritize the "seen and not finished" list, starting with Kay Plumbing, The Plumber WNY, Columbia Floors, McGillicuddy Concrete, Xpress Distributors, and Delta Food Supplies. Then run new searches, not the batch 1 strings:
+Prioritize the "seen and not finished" list, starting with Rocky Mountains Distributing (job page is open; the missing piece is the officer's name), Kay Plumbing, The Plumber WNY, Columbia Floors, McGillicuddy Concrete, Xpress Distributors, Delta Food Supplies, Henry Plumbing, and Penn Veterinary Supply. Then run new searches, not the batch 1 strings:
 
 - Company career pages for "dispatcher," "scheduling coordinator," "billing specialist," "warranty clerk," or "AP clerk," plus a city, excluding remote and national chains.
 - Do not repeat the 64 X queries in CONTINUE.md. If new X material is supplied, verify the business on the web before it enters the 50.

@@ -44,27 +44,27 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 | 26 | My Vision of the Valley | Bethlehem | PA | Optometry | Estimate, see dossier | Dr. Roopal G. Rammohan, Founder | Front-office role reporting to the owner, covering calls, scheduling, check-in, and insurance | Phone scheduling; check-in and payments; insurance review | 4 | Company site and SimplyHired |
 | 27 | New Age Medspa | Anchorage | AK | Medspa | Estimate, see dossier | Natasha Sherrill, FNP-C, Founder | Front-desk role covering calls, texts, voicemails, scheduling, and cancellations | Message triage; calendar fill; check-in | 4 | Company site |
 | 28 | TONIIK | Studio City | CA | Functional medicine and aesthetics | Estimate, see dossier | MJ Gandon, MSN, FNP-BC, Founder | Hiring a guest coordinator and a patient-communications assistant for calls, texts, and the calendar | First-call handling; between-visit messages; calendar fill | 4 | Company site |
-| 29 | Accurate Towing Service | Toms River | NJ | Towing | Stated figure in dossier | Thomas Makuch Jr., Owner | Dispatcher/cashier role covering dispatch, impound paperwork, and billing | Driver dispatch; tow billing and collection; impound-release paperwork | 4 | Company site |
-| 30 | Offshore Marine Towing (TowBoatU.S. Fort Lauderdale) | Pompano Beach | FL | Marine towing | Estimate, see dossier | Chloe Collins, President | In-office dispatcher posting that includes invoice paperwork | Request intake; towboat dispatch; invoice preparation | 4 | Company site |
-| 31 | S&S Concrete Floors | New Ipswich | NH | Concrete construction | Estimate, see dossier | David M. Somero, President. Niel Somero is named Owner, Research & Development. Nathan Somero is vice president. | X hiring post and a university job board for an office manager covering AP, AR, payroll, and AIA billing | Accounts payable and payroll; customer billing and collections; job-file setup | 4 | X |
-| 32 | Hughes & Cozad Orthodontics | The Woodlands | TX | Orthodontics | Estimate, see dossier | Dr. Benjamin Cozad, Owner, on the NPI listing for North Houston Orthodontic Specialists PLLC, doing business as Hughes & Cozad. Dr. Todd Hughes is named as a doctor on the practice site. | X post hiring scheduling coordinators, with the office manager named in the post | Schedule fill; new-patient booking; reminder and no-show follow-up | 4 | X |
-| 33 | Mountain View Therapy | Medford | MA | Behavioral health | Stated figure in dossier | Christina Peterson, LICSW, Co-owner | April 21, 2026 billing-coordinator post for SimplePractice claims, EOBs, and denials | Claim submission; denial follow-up; deposit reconciliation | 4 | Simmons University job line |
-| 34 | AJ Long Electric | Fairfax | VA | Electrical | Estimate, see dossier | John Long, Founder. The about page says his son Matt runs it with him today. | Careers page lists a full-time service dispatcher at $45,000–$58,000 | Service-call dispatch; customer scheduling; job notes | 4 | Company site |
-| 35 | Way Cool Plumbing & Air | Phoenix | AZ | Plumbing and HVAC | Estimate, see dossier | Kirk Buscho, Owner | The about page says one person runs dispatch, scheduling, parts, and paperwork | Dispatch; parts and paperwork; schedule changes | 4 | Company site |
-| 36 | The Pets Place Animal Hospital | Riverside | CA | Veterinary | Estimate, see dossier | Dr. Stephen Hodgeson and Dr. David Boshoven, The careers page says they acquired the practice in December 2013. Dr. Hodgeson's bio discusses hospital ownership. | Hiring a veterinary receptionist for the front staff | Client check-in; phone scheduling; record updates | 4 | Company site |
-| 37 | Chris Rizzo Trucking, Inc. | Gloversville | NY | Waste and recycling hauling | Stated figure in dossier | Christopher P. Rizzo, President | Office coordinator post covering work orders, dispatch, billing, and accounts receivable | Work-order entry; dispatch support; invoicing and AR | 4 | Carrier registration and job page |
-| 38 | Crain Eye Clinic | Auburn | WA | Optometry | Estimate, see dossier | Dr. Brian Crain, Founder. Dr. Aaron Crain is named as a doctor who joined in 2011. The about page does not give Aaron an owner title. | September 9, 2026 classified for an optometric receptionist / patient care coordinator | Phones and scheduling; check-in and payments; insurance and EHR updates | 4 | Clinic site and PECAA classifieds |
-| 39 | OPDSF Pediatric Dentistry | San Francisco | CA | Pediatric dentistry | Estimate, see dossier | Dr. Dorothy Pang and Dr. Peter Lee, Founders | Treatment coordinator / RDA posting | Treatment coordination; schedule management; family follow-up | 4 | Company site |
-| 40 | Blue Ridge Vascular & Endovascular Institute | Roanoke | VA | Vascular surgery | Estimate, see dossier | Dr. Joshua Adams, Founder, president, and medical director | X and a July 2026 hiring post for a patient access and administrative coordinator. The practice careers page opened on 2026-10-26 did not list that role. | Scheduling; insurance verification and prior authorization; records indexing | 3 | X |
-| 41 | Kerner's Auto Service | Shelby Township | MI | Auto repair | Estimate, see dossier | Mike Martin, Owner, 2011–present | Service-advisor posting that includes intake, documentation, follow-up, and delivery | Repair-order intake; status updates; same-day close | 3 | Company site |
-| 42 | Suite 200 Grille | Milton | GA | Restaurant | Estimate, see dossier | Anthony Battaglia and Kelli Battaglia, Owners | X posts about a stack of AI assistants and books that were eight months behind. Fit is the monthly run-and-govern service, not a first build. | Reservation and guest messages; books close; purchasing and invoice match | 3 | X |
-| 43 | Brushworks Services Co. | Loveland | OH | Land clearing | Estimate, see dossier | Alex Boyd, Co-owner. Zach O'Dell is the other co-owner. | X post about paperwork, scheduling, and quoting across several jobs a day. He describes the company as already AI-forward, so the fit is governance. | Quoting; daily job scheduling; paperwork and safety records | 3 | X |
-| 44 | Carter Law Group | Southborough | MA | Business immigration | Estimate, see dossier | Attorneys Carter and Lebeaux, The firm page says "As business owners ourselves." First names were not on the pages that opened. A Justia page that other notes say names Kirk Carter returned 403 and is not used. | August 2026 PDF for an on-site administrative and billing coordinator | Client invoices and trust funding; payment matching; filing checklists | 3 | Firm site |
-| 45 | Penn Veterinary Supply, Inc. | Lancaster | PA | Veterinary distribution | Estimate, see dossier | Lita Miller, President, in a December 6, 2021 press release. The 2026 job page says tasks may be requested by "the Company President" and does not restate the name. | Accounts-receivable specialist posting for a family-owned distributor | Customer questions and account records; payment application; AR follow-up | 3 | SimplyHired and 2021 press release |
-| 46 | Lindsey RV Repair | White House | TN | Mobile RV repair | Estimate, see dossier | Gene Lindsey, Owner | The site's process is call or text Gene, then he drives to the rig. Scheduling and the job record sit with the owner. | Call intake; on-site job notes; invoice at the rig | 3 | Company site |
-| 47 | Grand Lake Plumbing & Heating | Grand Lake | CO | Plumbing and heating | Estimate, see dossier | Travis Appelhans, President. Melissa Appelhans is operations manager on the same page. | A live careers page for a company whose field model includes dispatch from home. No office or dispatcher title was on that page. | Service scheduling; dispatch records; customer callbacks | 3 | Company site |
-| 48 | Isley's Home Service | Mesa | AZ | HVAC and plumbing | Estimate, see dossier | John (Johnny D) Dargavel, Named in the job post as the person who bought the air-conditioning division in 1995. The page does not give him a current title. | Full-time HVAC/plumbing dispatcher and CSR posting in Mesa, $17–$20 an hour plus commission | Inbound scheduling; technician dispatch; customer records | 3 | Breezy job page |
-| 49 | Henry Plumbing Co. | Savannah | GA | Plumbing | 27 employees in a 2022 article | Tonya Reed, Co-owner, with her husband Todd, in the March 2022 profile | X post on 2026-07-30 hiring an office assistant. The company site returned 403 on 2026-10-26, so the job was not re-opened there. | Office scheduling; customer call intake; job paperwork | 3 | X |
+| 29 | M3 Physical Therapy | Los Angeles | CA | Physical therapy | Estimate, see dossier | Amanda Tigar, Director of Operations. Rebecca Schraven is named as the founder on the about page. | Patient care coordinator role: phones, scheduling, reminders, authorizations, payments, and daily data entry | Appointment scheduling; reminder calls and texts; payment collection and data entry | 4 | Company site |
+| 30 | Salt Medical Aesthetics | Bend | OR | Medspa | Estimate, see dossier | Suzanne Puryear, DNP-FNP, NP-C, and Shannon Patterson, RN-BSN, Founders | Patient coordinator role for scheduling, rebooking, payments, and memberships. New clinic opens 2026-11-30. | Scheduling and check-in; rebooking; payment and membership posting | 4 | Company site |
+| 31 | Accurate Towing Service | Toms River | NJ | Towing | Stated figure in dossier | Thomas Makuch Jr., Owner | Dispatcher/cashier role covering dispatch, impound paperwork, and billing | Driver dispatch; tow billing and collection; impound-release paperwork | 4 | Company site |
+| 32 | Offshore Marine Towing (TowBoatU.S. Fort Lauderdale) | Pompano Beach | FL | Marine towing | Estimate, see dossier | Chloe Collins, President | In-office dispatcher posting that includes invoice paperwork | Request intake; towboat dispatch; invoice preparation | 4 | Company site |
+| 33 | S&S Concrete Floors | New Ipswich | NH | Concrete construction | Estimate, see dossier | David M. Somero, President. Niel Somero is named Owner, Research & Development. Nathan Somero is vice president. | X hiring post and a university job board for an office manager covering AP, AR, payroll, and AIA billing | Accounts payable and payroll; customer billing and collections; job-file setup | 4 | X |
+| 34 | Hughes & Cozad Orthodontics | The Woodlands | TX | Orthodontics | Estimate, see dossier | Dr. Benjamin Cozad, Owner, on the NPI listing for North Houston Orthodontic Specialists PLLC, doing business as Hughes & Cozad. Dr. Todd Hughes is named as a doctor on the practice site. | X post hiring scheduling coordinators, with the office manager named in the post | Schedule fill; new-patient booking; reminder and no-show follow-up | 4 | X |
+| 35 | Mountain View Therapy | Medford | MA | Behavioral health | Stated figure in dossier | Christina Peterson, LICSW, Co-owner | April 21, 2026 billing-coordinator post for SimplePractice claims, EOBs, and denials | Claim submission; denial follow-up; deposit reconciliation | 4 | Simmons University job line |
+| 36 | AJ Long Electric | Fairfax | VA | Electrical | Estimate, see dossier | John Long, Founder. The about page says his son Matt runs it with him today. | Careers page lists a full-time service dispatcher at $45,000–$58,000 | Service-call dispatch; customer scheduling; job notes | 4 | Company site |
+| 37 | Way Cool Plumbing & Air | Phoenix | AZ | Plumbing and HVAC | Estimate, see dossier | Kirk Buscho, Owner | The about page says one person runs dispatch, scheduling, parts, and paperwork | Dispatch; parts and paperwork; schedule changes | 4 | Company site |
+| 38 | The Pets Place Animal Hospital | Riverside | CA | Veterinary | Estimate, see dossier | Dr. Stephen Hodgeson and Dr. David Boshoven, The careers page says they acquired the practice in December 2013. Dr. Hodgeson's bio discusses hospital ownership. | Hiring a veterinary receptionist for the front staff | Client check-in; phone scheduling; record updates | 4 | Company site |
+| 39 | Chris Rizzo Trucking, Inc. | Gloversville | NY | Waste and recycling hauling | Stated figure in dossier | Christopher P. Rizzo, President | Office coordinator post covering work orders, dispatch, billing, and accounts receivable | Work-order entry; dispatch support; invoicing and AR | 4 | Carrier registration and job page |
+| 40 | Crain Eye Clinic | Auburn | WA | Optometry | Estimate, see dossier | Dr. Brian Crain, Founder. Dr. Aaron Crain is named as a doctor who joined in 2011. The about page does not give Aaron an owner title. | September 9, 2026 classified for an optometric receptionist / patient care coordinator | Phones and scheduling; check-in and payments; insurance and EHR updates | 4 | Clinic site and PECAA classifieds |
+| 41 | OPDSF Pediatric Dentistry | San Francisco | CA | Pediatric dentistry | Estimate, see dossier | Dr. Dorothy Pang and Dr. Peter Lee, Founders | Treatment coordinator / RDA posting | Treatment coordination; schedule management; family follow-up | 4 | Company site |
+| 42 | Blue Ridge Vascular & Endovascular Institute | Roanoke | VA | Vascular surgery | Estimate, see dossier | Dr. Joshua Adams, Founder, president, and medical director | X and a July 2026 hiring post for a patient access and administrative coordinator. The practice careers page opened on 2026-10-26 did not list that role. | Scheduling; insurance verification and prior authorization; records indexing | 3 | X |
+| 43 | Kerner's Auto Service | Shelby Township | MI | Auto repair | Estimate, see dossier | Mike Martin, Owner, 2011–present | Service-advisor posting that includes intake, documentation, follow-up, and delivery | Repair-order intake; status updates; same-day close | 3 | Company site |
+| 44 | Suite 200 Grille | Milton | GA | Restaurant | Estimate, see dossier | Anthony Battaglia and Kelli Battaglia, Owners | X posts about a stack of AI assistants and books that were eight months behind. Fit is the monthly run-and-govern service, not a first build. | Reservation and guest messages; books close; purchasing and invoice match | 3 | X |
+| 45 | Brushworks Services Co. | Loveland | OH | Land clearing | Estimate, see dossier | Alex Boyd, Co-owner. Zach O'Dell is the other co-owner. | X post about paperwork, scheduling, and quoting across several jobs a day. He describes the company as already AI-forward, so the fit is governance. | Quoting; daily job scheduling; paperwork and safety records | 3 | X |
+| 46 | Carter Law Group | Southborough | MA | Business immigration | Estimate, see dossier | Attorneys Carter and Lebeaux, The firm page says "As business owners ourselves." First names were not on the pages that opened. A Justia page that other notes say names Kirk Carter returned 403 and is not used. | August 2026 PDF for an on-site administrative and billing coordinator | Client invoices and trust funding; payment matching; filing checklists | 3 | Firm site |
+| 47 | Lindsey RV Repair | White House | TN | Mobile RV repair | Estimate, see dossier | Gene Lindsey, Owner | The site's process is call or text Gene, then he drives to the rig. Scheduling and the job record sit with the owner. | Call intake; on-site job notes; invoice at the rig | 3 | Company site |
+| 48 | Grand Lake Plumbing & Heating | Grand Lake | CO | Plumbing and heating | Estimate, see dossier | Travis Appelhans, President. Melissa Appelhans is operations manager on the same page. | A live careers page for a company whose field model includes dispatch from home. No office or dispatcher title was on that page. | Service scheduling; dispatch records; customer callbacks | 3 | Company site |
+| 49 | Isley's Home Service | Mesa | AZ | HVAC and plumbing | Estimate, see dossier | John (Johnny D) Dargavel, Named in the job post as the person who bought the air-conditioning division in 1995. The page does not give him a current title. | Full-time HVAC/plumbing dispatcher and CSR posting in Mesa, $17–$20 an hour plus commission | Inbound scheduling; technician dispatch; customer records | 3 | Breezy job page |
 | 50 | Windsor Medical Center | East Windsor | NJ | Internal medicine | Estimate, see dossier | Sujanthy Sri Rajaram, MD, Vice president and authorized official on the Medicare listing | X post on 2026-08-21 hiring a medical office manager. A later "position filled" social post was seen only as a search result and was not opened, so it is not treated as fact. | Patient scheduling; phone and fax; insurance paperwork | 3 | X |
 
 ## Dossiers
@@ -797,7 +797,59 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://toniik.com/careers/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 29. Accurate Towing Service
+### 29. M3 Physical Therapy
+
+**Place.** Los Angeles and West Hills, CA. **Industry.** Physical therapy. **Fit.** 4. **Source.** Company site.
+
+**What they do.** Two-site orthopedic physical therapy practice, formerly Wilshire Linden Physical Therapy. The about page says it is a small, physical therapist owned practice. West Los Angeles: 10474 Santa Monica Blvd #435, Los Angeles, CA 90025, (310) 275-4137. West Hills: 7230 Medical Center Dr #401, West Hills, CA 91307, (747) 888-3562.
+
+**Scale.** ESTIMATE: two-location independent clinic. The about page says "small." Revenue and headcount not stated. The staff list names several patient care coordinators. That is a roster, not a headcount.
+
+**Decision-maker.** Amanda Tigar, Director of Operations, named on the about page. The patient care coordinator posting says to tell the director of operations about issues and to apply at careers@m3pt.com. Rebecca Schraven is named on the same about page as the founder, inside another clinician's bio. The page does not give Rebecca a current owner title.
+
+**Manual-work evidence.** Careers page, opened 2026-10-26, Patient Care Coordinator responsibilities: "Scheduling patients via in person and over the phone for both new evals and follow ups appointments," "Reminder calls / texts," "Patient Authorizations," "Patient related paperwork," "Collecting Patient Payments at time of visit," and "Daily data entry (excel, word and other programs)." A separate therapist posting on that page says the practice uses AI documentation. That sentence is about clinical notes, not this desk.
+
+**Likely jobs.**
+
+1. Improve new evaluations scheduled before the requested day from TBD percent to TBD percent by 2027-03-31.
+2. Improve visits with a reminder call or text sent beforehand from TBD percent to TBD percent by 2027-03-31.
+3. Improve visit payments and the day's data entry finished the same day from TBD percent to TBD percent by 2027-03-31.
+
+**Outreach angle.** Amanda is the named operator the coordinator reports issues to. The Job map is that front desk (schedule, reminders, payments, the spreadsheet), not the clinical notes the therapist posting already calls AI-assisted.
+
+**Contact.** https://www.m3pt.com/careers/ · careers@m3pt.com · (310) 275-4137
+
+**Confidence.** High. The director of operations, the founder mention, both addresses, and the coordinator duties are on pages that opened.
+
+**Pages.** https://www.m3pt.com/about/ ; https://www.m3pt.com/careers/ Seen 2026-10-26, except X post dates, which are in the evidence line.
+
+### 30. Salt Medical Aesthetics
+
+**Place.** Bend, OR. **Industry.** Medspa. **Fit.** 4. **Source.** Company site.
+
+**What they do.** Boutique medspa in Bend. The job page says it was founded by sisters Suzanne Puryear (DNP-FNP, NP-C) and Shannon Patterson (RN-BSN). Address on that page: 222 SE Urania Ln Suite 3, Bend, OR 97702. Phone: 541-527-8452.
+
+**Scale.** ESTIMATE: small single-site medspa that is opening another clinic. The job page says "We're a small, growing team" and "Our new clinic opens November 30th!" The seat is part-time, 20 to 30 hours a week, $20 to $25 an hour, with no benefits or PTO "at this stage." Revenue and headcount not stated. Ability to pay a full Job map is the thin spot. The timing is not.
+
+**Decision-maker.** Suzanne Puryear, DNP-FNP, NP-C, and Shannon Patterson, RN-BSN, Founders, named in the job post.
+
+**Manual-work evidence.** Patient Coordinator posting, opened 2026-10-26: "Manage scheduling, check-in, and check-out," "Support patient conversion, retention, and rebooking with genuine follow-ups," and "Process payments, memberships, and patient accounts accurately." Start date on the page: late October or early November. Apply to allie@saltbend.com.
+
+**Likely jobs.**
+
+1. Improve inbound requests with a booked visit or a logged next step the same day from TBD percent to TBD percent by 2027-03-31.
+2. Improve open provider slots rebooked within one business day from TBD percent to TBD percent by 2027-03-31.
+3. Improve visit and membership payments posted the day of the visit from TBD percent to TBD percent by 2027-03-31.
+
+**Outreach angle.** The sisters are hiring the person who will run the book as a second clinic opens on 2026-11-30. Offer the Job map as the operating record for that desk, and expect a smaller first engagement because the posted seat is part-time.
+
+**Contact.** https://www.saltbend.com/work-with-us · hello@saltbend.com · 541-527-8452
+
+**Confidence.** High. Both founders and the duties are on the job page.
+
+**Pages.** https://www.saltbend.com/work-with-us ; https://www.saltbend.com/ Seen 2026-10-26, except X post dates, which are in the evidence line.
+
+### 31. Accurate Towing Service
 
 **Place.** Toms River, NJ. **Industry.** Towing. **Fit.** 4. **Source.** Company site.
 
@@ -823,7 +875,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://accuratetowingservice.com/contact/ ; https://accuratetowingservice.com/dispatcher-cashier/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 30. Offshore Marine Towing (TowBoatU.S. Fort Lauderdale)
+### 32. Offshore Marine Towing (TowBoatU.S. Fort Lauderdale)
 
 **Place.** Pompano Beach, FL. **Industry.** Marine towing. **Fit.** 4. **Source.** Company site.
 
@@ -849,7 +901,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://towboatusftlauderdale.com/our-history/ ; https://towboatusftlauderdale.com/career-opportunities/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 31. S&S Concrete Floors
+### 33. S&S Concrete Floors
 
 **Place.** New Ipswich, NH. **Industry.** Concrete construction. **Fit.** 4. **Source.** X.
 
@@ -875,7 +927,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://x.com/HireScoreJobs/status/2110037967158861827 ; https://www.ssconcretefloors.com/about-us ; https://careercenter.csueastbay.edu/jobs/stang-decision-systems-office-manager-s-s-concrete-floors-new-ipswich-new-hampshire/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 32. Hughes & Cozad Orthodontics
+### 34. Hughes & Cozad Orthodontics
 
 **Place.** The Woodlands, TX. **Industry.** Orthodontics. **Fit.** 4. **Source.** X.
 
@@ -901,7 +953,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://x.com/HughesCozad/status/2111185652322566638 ; https://hughescozadortho.com/team/ ; https://npino.com/dental-clinic/1245696822-north-houston-orthodontic-specialists-pllc/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 33. Mountain View Therapy
+### 35. Mountain View Therapy
 
 **Place.** Medford, MA. **Industry.** Behavioral health. **Fit.** 4. **Source.** Simmons University job line.
 
@@ -927,7 +979,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://slis-jobline.simmons.edu/2026/04/21/billing-coordinator-mountain-view-therapy-medford-ma-hybrid/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 34. AJ Long Electric
+### 36. AJ Long Electric
 
 **Place.** Fairfax, VA. **Industry.** Electrical. **Fit.** 4. **Source.** Company site.
 
@@ -953,7 +1005,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://ajlongelectric.com/about-us ; https://ajlongelectric.com/careers Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 35. Way Cool Plumbing & Air
+### 37. Way Cool Plumbing & Air
 
 **Place.** Phoenix, AZ. **Industry.** Plumbing and HVAC. **Fit.** 4. **Source.** Company site.
 
@@ -979,7 +1031,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://www.callwaycool.com/about Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 36. The Pets Place Animal Hospital
+### 38. The Pets Place Animal Hospital
 
 **Place.** Riverside, CA. **Industry.** Veterinary. **Fit.** 4. **Source.** Company site.
 
@@ -1005,7 +1057,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://www.thepetsplaceanimalhospital.com/career-opportunities.html ; https://www.thepetsplaceanimalhospital.com/meet-the-doctors.html Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 37. Chris Rizzo Trucking, Inc.
+### 39. Chris Rizzo Trucking, Inc.
 
 **Place.** Gloversville, NY. **Industry.** Waste and recycling hauling. **Fit.** 4. **Source.** Carrier registration and job page.
 
@@ -1031,7 +1083,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://carrierintel.ai/carriers/1333783 ; https://easyapply.co/a/72ab19ff-eecd-4085-ac4c-f4f9224509a5 Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 38. Crain Eye Clinic
+### 40. Crain Eye Clinic
 
 **Place.** Auburn, WA. **Industry.** Optometry. **Fit.** 4. **Source.** Clinic site and PECAA classifieds.
 
@@ -1057,7 +1109,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://www.craineye.com/about ; https://www.pecaa.com/business-support/resource/classifieds.html Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 39. OPDSF Pediatric Dentistry
+### 41. OPDSF Pediatric Dentistry
 
 **Place.** San Francisco, CA. **Industry.** Pediatric dentistry. **Fit.** 4. **Source.** Company site.
 
@@ -1083,7 +1135,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://www.opdsf.com/about/ ; https://www.opdsf.com/careers/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 40. Blue Ridge Vascular & Endovascular Institute
+### 42. Blue Ridge Vascular & Endovascular Institute
 
 **Place.** Roanoke, VA. **Industry.** Vascular surgery. **Fit.** 3. **Source.** X.
 
@@ -1109,7 +1161,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://x.com/BRVascular/status/2079945532651270185 ; https://blueridgevascular.com/meet-dr-joshua-adams/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 41. Kerner's Auto Service
+### 43. Kerner's Auto Service
 
 **Place.** Shelby Township, MI. **Industry.** Auto repair. **Fit.** 3. **Source.** Company site.
 
@@ -1135,7 +1187,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://kernersauto.com/meet-the-team ; https://kerners-auto-service.careerplug.com/jobs/3632710/apps/new Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 42. Suite 200 Grille
+### 44. Suite 200 Grille
 
 **Place.** Milton, GA. **Industry.** Restaurant. **Fit.** 3. **Source.** X.
 
@@ -1161,7 +1213,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://x.com/SayItStraightAB/status/2109371167383375905 ; https://x.com/SayItStraightAB/status/2088045494631014482 ; https://www.suite200grille.com/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 43. Brushworks Services Co.
+### 45. Brushworks Services Co.
 
 **Place.** Loveland, OH. **Industry.** Land clearing. **Fit.** 3. **Source.** X.
 
@@ -1187,7 +1239,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://x.com/bprintco/status/2090462339732529652 ; https://www.brushworksco.com/about ; https://workwithground.com/about/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 44. Carter Law Group
+### 46. Carter Law Group
 
 **Place.** Southborough, MA. **Industry.** Business immigration. **Fit.** 3. **Source.** Firm site.
 
@@ -1213,33 +1265,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://cartervisalaw.com/why-choose-carter-law-group/ ; https://cartervisalaw.com/wp-content/uploads/2026/08/Administration-Billing-Coordinator-0826.pdf Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 45. Penn Veterinary Supply, Inc.
-
-**Place.** Lancaster, PA. **Industry.** Veterinary distribution. **Fit.** 3. **Source.** SimplyHired and 2021 press release.
-
-**What they do.** Veterinary products distributor. The December 6, 2021 release says the company is owned by the family of founder Richard Sexton and quotes Lita Miller, president.
-
-**Scale.** ESTIMATE: family-owned regional distributor. The job page says it has branches in Michigan, Florida, and North Carolina and is "free of corporate ownership." Headcount and revenue not stated. Street address not on the pages opened.
-
-**Decision-maker.** Lita Miller, President, in a December 6, 2021 press release. The 2026 job page says tasks may be requested by "the Company President" and does not restate the name..
-
-**Manual-work evidence.** SimplyHired page, opened 2026-10-26, Lancaster, PA: Accounts Receivable Specialist. Duties include customer questions and other tasks requested by the accounts-receivable supervisor or the company president. The page says the company is family owned. No post date. No QuickBooks or Salesforce mention in the text extracted.
-
-**Likely jobs.**
-
-1. Improve customer payments applied the day they arrive from TBD percent to TBD percent by 2027-03-31.
-2. Improve past-due accounts with a logged contact from TBD percent to TBD percent by 2027-03-31.
-3. Improve account questions answered the same day from TBD percent to TBD percent by 2027-03-31.
-
-**Outreach angle.** The AR seat is real and the company says it is family owned. Confirm Lita Miller is still president before using the 2021 name in an email.
-
-**Contact.** The pages opened did not print a phone or email. Use the company named on the job page and do not invent a number.
-
-**Confidence.** Medium. The job text opened. The president's name is five years old.
-
-**Pages.** https://www.simplyhired.com/job/Z0x4WIPLR1jgpluijdaFyxjr7c6d4c4ZJtS-9QAXrFpi0LBEMqKIiQ ; https://www.prweb.com/releases/penn-veterinary-supply-partners-with-vitusvet-to-promote-vetshiprx-860259396.html Seen 2026-10-26, except X post dates, which are in the evidence line.
-
-### 46. Lindsey RV Repair
+### 47. Lindsey RV Repair
 
 **Place.** White House, TN. **Industry.** Mobile RV repair. **Fit.** 3. **Source.** Company site.
 
@@ -1265,7 +1291,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://lindseyrvrepair.com/ ; https://lindseyrvrepair.com/about Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 47. Grand Lake Plumbing & Heating
+### 48. Grand Lake Plumbing & Heating
 
 **Place.** Grand Lake, CO. **Industry.** Plumbing and heating. **Fit.** 3. **Source.** Company site.
 
@@ -1291,7 +1317,7 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 
 **Pages.** https://www.grandlakeplumbing.com/plumber-hvac-contractor-directory-colorado/ ; https://www.grandlakeplumbing.com/careers/ Seen 2026-10-26, except X post dates, which are in the evidence line.
 
-### 48. Isley's Home Service
+### 49. Isley's Home Service
 
 **Place.** Mesa, AZ. **Industry.** HVAC and plumbing. **Fit.** 3. **Source.** Breezy job page.
 
@@ -1316,32 +1342,6 @@ Exclusions held: Tenicor, Erber Auto, and Tim Clark. None of those names appeare
 **Confidence.** Medium on the job. Low on the current decision-maker, which is why this is a 3.
 
 **Pages.** https://isleys-home-service.breezy.hr/p/a68945d7b0d2-customer-service-representative-dispatcher Seen 2026-10-26, except X post dates, which are in the evidence line.
-
-### 49. Henry Plumbing Co.
-
-**Place.** Savannah, GA. **Industry.** Plumbing. **Fit.** 3. **Source.** X.
-
-**What they do.** Fourth-generation plumbing contractor in Savannah, established in the 1960s according to the 2022 profile.
-
-**Scale.** The March 2022 Plumbing & Mechanical profile says 27 employees. That figure is from the article, not a current count. Revenue not stated. Address on the company contact page was not re-opened; the X bio and the article place the company in Savannah. The X bio address, 1209 E 59th Street, was not confirmed on a page that opened.
-
-**Decision-maker.** Tonya Reed, Co-owner, with her husband Todd, in the March 2022 profile.
-
-**Manual-work evidence.** Plumbing & Mechanical, March 2022, opened 2026-10-26: "Tonya Reed, co-owner with her husband Todd, of Henry Plumbing." The article says the company had 27 employees at that time. X post 2026-07-30, from the supplied X batch: "Henry Plumbing Company is looking for an organized, customer-focused Office Assistant." x.com was not opened. henryplumbingco.com returned 403.
-
-**Likely jobs.**
-
-1. Improve office calls with a scheduled visit or a logged next step from TBD percent to TBD percent by 2027-03-31.
-2. Improve job paperwork entered the day the work is finished from TBD percent to TBD percent by 2027-03-31.
-3. Improve estimates followed up within three business days from TBD percent to TBD percent by 2027-03-31.
-
-**Outreach angle.** Tonya and Todd were the named co-owners in 2022, and the company posted for an office assistant in July 2026. Confirm they are still the buyers, and confirm the assistant seat is still open, before writing.
-
-**Contact.** The company site did not open. Do not use a phone copied only from search. The X bio in the supplied batch gives a Savannah street address; that address was not re-verified on the company site, so it is not copied here.
-
-**Confidence.** Medium. The 2022 owner sentence opened. The 2026 job did not, except as quoted in the X batch.
-
-**Pages.** https://x.com/henry_plumbing/status/2082858895001694555 ; https://www.plumbermag.com/editorial/2022/03/plumbing-company-looks-ahead-in-training-and-customer-interactions Seen 2026-10-26, except X post dates, which are in the evidence line.
 
 ### 50. Windsor Medical Center
 

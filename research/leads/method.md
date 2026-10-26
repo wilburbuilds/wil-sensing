@@ -26,6 +26,8 @@ Accounts selling automation, including CableFi and Blue Collar OS, were excluded
 
 JavaScript shells were a practical failure. Ironstone's team page returned 200 and the owner name was not in the HTML. Those stayed unfinished rather than getting a name from a search snippet.
 
+A 403 or a thin extract was sometimes the fetch, not the site. M3 Physical Therapy returned 403 on the first try and opened on a second request the same day. Salt Medical Aesthetics returned a large page whose first extract missed the job text; a second parse found the founders and the patient-coordinator duties. Both replaced thinner rows. Retry a failed company page once before parking it.
+
 ## How to spend the next batch
 
 Start with the unfinished list in `CONTINUE.md`: the companies where one of the two pages already opened. Then look for new company career pages, city by city. Do not repeat the 64 X queries. Do not go back to Upwork unless the client is already named.

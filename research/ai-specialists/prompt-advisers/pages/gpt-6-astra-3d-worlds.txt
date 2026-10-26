@@ -1,0 +1,136 @@
+URL: https://www.promptadvisers.com/gpt-6-astra-3d-worlds
+Fetched: 2026-10-26T03:45:15Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/gpt-6-astra-3d-worlds
+Content-Type: text/html
+Via: chrome-headless
+Title: GPT-6 Astra 3D Worlds: How to Build One to Learn Anything
+Meta description: GPT-6 Astra 3D worlds turn any topic into a walkable, browser-playable lesson, built with Codex, Blender, and Babylon.js.
+Canonical: https://www.promptadvisers.com/gpt-6-astra-3d-worlds
+Robots: 
+H1: GPT-6 Astra 3D Worlds: How to Build One to Learn Anything
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+GPT-6 Astra 3D Worlds: How to Build One to Learn Anything
+
+GPT-6 Astra 3D worlds turn any topic into a walkable, browser-playable lesson, built with Codex, Blender, and Babylon.js.
+
+MARK KASHEF
+SEPTEMBER 14, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+GPT-6 Astra 3D worlds are browser-playable lessons Codex builds end to end, from one text prompt to a hosted, walkable tour, using Blender for the 3D assets and Babylon.js to render them in a browser. Mark Kashef used this pipeline to turn "how does Codex work" into a 12 station game you click through instead of a doc you read. The same works for anatomy, an engine, or any topic easier to explore than to read.
+
+TL;DR
+
+Codex spent about 18 hours and roughly 8 million tokens on Astra medium to turn one planning prompt into a hosted, playable 3D world with 12 stations.
+The build pairs two tools: Blender generates the 3D assets, Babylon.js renders them so the world loads and plays in a browser.
+A rubric covering mascot performance, lighting, camera fluidity, and navigation let Mark walk away for the build instead of babysitting it.
+The finished world hosts on Vercel, Railway, or here.now, and ships with downloadable lesson files, a feature atlas, and a capstone.
+How GPT-6 Astra 3D Worlds Actually Get Built
+
+A GPT-6 Astra 3D world starts as a plan, not a fire-and-forget prompt. Mark's plan told Codex what to build, how to test it, and where to host it, leaving Astra almost no guesses to make.
+
+WATCH ON YOUTUBE
+
+In Mark's video, a Codex mascot walks you station to station through 12 lessons on context management, file handling, and model selection, each paired with a multiple choice card you can answer, hint, or reveal. Every station has layers, so a room starts simple and lets you drill into examples like a real course.
+
+Join Early AI-dopters, 1,000+ people mastering Claude Code and Codex. Mark shares the full plan behind this build inside the community.
+
+How Do You Set Up Blender and Codex for This?
+
+You do not install Blender the normal way for this workflow. Open the Codex app, go to plugins, and search Blender, where you'll find two options, a game development studio plugin and a build 3D game rooms plugin.
+
+Mark installed both, though the second alone was sufficient for most builds. Either gets Codex to detect, install, and configure Blender automatically, and each ships with a skill that gives Astra a cheat sheet for building 3D scenes with less back and forth.
+
+How Do You Plan a 3D World Codex Can Build Alone?
+
+A plan that survives an unattended 18 hour run needs almost nothing left to guess. Mark's prompt named the exact experience, a premium, browser-playable tour of the Codex ecosystem led by a personified mascot, then spelled out what the player should understand after 10 seconds, then a minute in.
+
+The plan also needed one definition of done sentence: 12 core missions, three chapters, one capstone, a feature atlas, and downloadable resources. Before a full room, Mark had Codex produce a small visual target package first, an arrival shot, a mascot close up, one exhibit, and a short motion sample, so problems got caught while still cheap to fix.
+
+What Goes Wrong in the First Draft?
+
+The first pass at Mark's mascot room had real problems: blurry labels, no backdrop, and lighting that did not react properly as the camera moved. None of that is unusual for a first render, it's why the visual target package step exists.
+
+Catching those flaws on one small scene, instead of after all 12 stations rendered, saved the build from a full redo. Mark also learned Blender alone was not enough. He needed Babylon.js too, since Blender creates the assets but Babylon.js renders them into something playable in a browser.
+
+How Does Codex Test a 3D World Without You Watching?
+
+Codex tests a 3D world against a written rubric, not Mark's in-the-moment judgment, since he was not there to give it. The plan told Astra to run everything through its own internal browser, so it wasn't competing with Mark's Chrome tabs during the 18 hour build.
+
+The technical tests covered corrupted saves, disabled storage, missing assets, slow networks, aborted downloads, and graphics failures, plus latency logging so slowness was measurable. Passing those is not the same as passing what Mark calls the vibe test, so his plan also scored mascot identity, lighting, teaching clarity, and camera fluidity against a rubric. That discipline, giving GPT-6 Astra computer use a rubric instead of a vague goal, separates a build you can walk away from and one you have to babysit.
+
+How Much Does It Cost to Build One of These?
+
+Mark's 12 station world took about 18 hours and roughly 8 million tokens on GPT-6 Astra effort levels set to medium. That number came from a period when Astra ran on slash goal, a mode that keeps agents working until they judge the criteria satisfied, which Mark would not reach for now that OpenAI has made Astra less lazy by default.
+
+His current recommendation: plan with Astra on medium or high, then hand the build to a model like Soul or Luna on extra high. Rendering 3D assets burns real tokens regardless of model, so test cheaper ones for the parts that don't need the top tier.
+
+Mark's Final Thoughts
+
+Most 3D builds people ship with Astra are throwaway games nobody opens twice. A world built to teach something, Codex, Claude, anatomy, a slice of history, is the use case that sticks. Bring a real plan, a definition of done, and a rubric, and Codex hands back a finished, hosted lesson. That discipline is most of what we cover in our AI workshops and bootcamps.
+
+GPT-6 Astra 3D Worlds FAQs
+
+How do I use GPT-6 Astra to build a 3D learning world?
+
+Install the Blender plugin from inside the Codex app, write a planning prompt describing the topic and tour you want, then let Astra go back and forth on the plan before it builds. Mark's build started as one plain-language idea, then a detailed plan, then an 18 hour autonomous run.
+
+Do I need to know Blender to build a GPT-6 Astra 3D world?
+
+No. Codex installs and configures Blender through its plugin panel, and a bundled skill teaches Astra to build 3D scenes without much back and forth. You describe the world in plain language and review the plan, Astra handles the modeling.
+
+How long does it take Codex to build a 3D world like this?
+
+Mark's 12 station world took about 18 hours and roughly 8 million tokens on Astra medium, running unattended after one detailed prompt. A smaller, single-scene build takes a fraction of that, since most time goes into rendering and testing each station.
+
+What's the difference between Blender and Babylon.js in this workflow?
+
+Blender generates the 3D assets, the models, textures, and scenes. Babylon.js renders those assets so the finished world loads and runs inside a web browser. You need both, Blender alone only gets you files, not a playable experience.
+
+Can I host a GPT-6 Astra 3D world for free?
+
+Hosting cost depends on where you deploy, not on Astra. Mark used here.now, but Codex can target Vercel or Railway just as easily since the output is a standard web app. Check each host's free tier before committing.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/gpt-6-astra-3d-worlds#article","headline":"GPT-6 Astra 3D Worlds: How to Build One to Learn Anything","description":"GPT-6 Astra 3D worlds turn any topic into a walkable, browser-playable lesson, built with Codex, Blender, and Babylon.js.","image":["https://www.promptadvisers.com/blog/gpt-6-astra-3d-worlds/gpt-6-astra-3d-worlds-hero.webp"],"datePublished":"2026-09-14T00:00:00-05:00","dateModified":"2026-09-14T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/gpt-6-astra-3d-worlds","keywords":"GPT-6 Astra 3D worlds, Codex 3D world builder, Blender Babylon.js AI workflow, GPT-6 Astra Blender, AI learning game builder","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"GPT-6 Astra 3D Worlds: How to Build One to Learn Anything","description":"GPT-6 Astra 3D worlds turn any topic into a walkable, browser-playable lesson, built with Codex, Blender, and Babylon.js.","thumbnailUrl":["https://i.ytimg.com/vi/27qpBfBhpDk/maxresdefault.jpg"],"uploadDate":"2026-09-13T00:00:00-05:00","duration":"PT13M58S","contentUrl":"https://www.youtube.com/watch?v=27qpBfBhpDk","embedUrl":"https://www.youtube-nocookie.com/embed/27qpBfBhpDk","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I use GPT-6 Astra to build a 3D learning world?","acceptedAnswer":{"@type":"Answer","text":"Install the Blender plugin from inside the Codex app, write a planning prompt describing the topic and tour you want, then let Astra go back and forth on the plan before it builds. Mark's build started as one plain-language idea, then a detailed plan, then an 18 hour autonomous run."}},{"@type":"Question","name":"Do I need to know Blender to build a GPT-6 Astra 3D world?","acceptedAnswer":{"@type":"Answer","text":"No. Codex installs and configures Blender through its plugin panel, and a bundled skill teaches Astra to build 3D scenes without much back and forth. You describe the world in plain language and review the plan, Astra handles the modeling."}},{"@type":"Question","name":"How long does it take Codex to build a 3D world like this?","acceptedAnswer":{"@type":"Answer","text":"Mark's 12 station world took about 18 hours and roughly 8 million tokens on Astra medium, running unattended after one detailed prompt. A smaller, single-scene build takes a fraction of that, since most time goes into rendering and testing each station."}},{"@type":"Question","name":"What's the difference between Blender and Babylon.js in this workflow?","acceptedAnswer":{"@type":"Answer","text":"Blender generates the 3D assets, the models, textures, and scenes. Babylon.js renders those assets so the finished world loads and runs inside a web browser. You need both, Blender alone only gets you files, not a playable experience."}},{"@type":"Question","name":"Can I host a GPT-6 Astra 3D world for free?","acceptedAnswer":{"@type":"Answer","text":"Hosting cost depends on where you deploy, not on Astra. Mark used here.now, but Codex can target Vercel or Railway just as easily since the output is a standard web app. Check each host's free tier before committing."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"GPT-6 Astra 3D Worlds: How to Build One to Learn Anything","item":"https://www.promptadvisers.com/gpt-6-astra-3d-worlds"}]}]
+

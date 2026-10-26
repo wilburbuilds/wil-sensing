@@ -1,0 +1,100 @@
+URL: https://www.promptadvisers.com/terms-and-conditions
+Fetched: 2026-10-26T03:45:01Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/terms-and-conditions
+Content-Type: text/html
+Via: chrome-headless
+Title: Terms & Conditions | Prompt Advisers
+Meta description: The terms that govern your use of promptadvisers.com and its materials.
+Canonical: https://www.promptadvisers.com/terms-and-conditions
+Robots: 
+H1: TERMS & CONDITIONS
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · LEGAL
+
+TERMS & CONDITIONS
+
+LAST UPDATED JULY 7, 2026
+
+By accessing promptadvisers.com (the "Site"), you agree to these terms and conditions. If you do not agree with any of them, please do not use the Site. The materials on the Site are protected by copyright and trademark law.
+
+Use of the site
+
+You may view, download, and print pages from the Site for your own personal, non-commercial use. You may not:
+
+Republish, sell, or redistribute material from the Site without written permission.
+Use the Site's materials for commercial purposes or public display without attribution and consent.
+Remove copyright or proprietary notices from any materials.
+Use the Site in any way that damages it or interferes with anyone else's use of it.
+Intellectual property
+
+The Site and its original content, features, and functionality are and will remain the exclusive property of Prompt Advisers and its licensors, protected by the copyright, trademark, and other laws of Canada and other countries. Our name, wordmark, and trade dress may not be used in connection with any product or service without our prior written consent. Third-party names and logos that appear on the Site (including O'Reilly Media and the publications that have covered our work) belong to their respective owners.
+
+No professional advice
+
+Content on the Site, including the blog, videos, and course descriptions, is provided for general information and education. It is not legal, financial, or compliance advice, and it does not create a consulting relationship. Consulting engagements are governed by separately signed agreements.
+
+Disclaimer
+
+The materials on the Site are provided "as is." Prompt Advisers makes no warranties, expressed or implied, and disclaims all other warranties including implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the materials are accurate, complete, or current, and we may change them at any time without notice.
+
+Limitation of liability
+
+To the maximum extent permitted by law, Prompt Advisers and its suppliers are not liable for any damages arising from the use of, or the inability to use, the Site, even if we have been notified of the possibility of such damage. Some jurisdictions do not allow limitations on implied warranties or liability for incidental damages, so these limitations may not apply to you.
+
+Links
+
+The Site links to external websites we do not control and have not reviewed in full. A link does not imply endorsement, and use of any linked website is at your own risk.
+
+Changes to these terms
+
+We may revise these terms at any time by updating this page. By continuing to use the Site you agree to be bound by the current version.
+
+Your privacy
+
+How we handle your information is described in our Privacy Policy.
+
+Governing law
+
+These terms are governed by the laws of the Province of Ontario and the federal laws of Canada applicable in it, without regard to conflict of law provisions.
+
+Contact us
+
+By email: mark@promptadvisers.com, or via our contact page.
+
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Terms & Conditions","item":"https://www.promptadvisers.com/terms-and-conditions"}]}]
+

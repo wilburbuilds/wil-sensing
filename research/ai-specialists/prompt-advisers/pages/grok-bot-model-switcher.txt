@@ -1,0 +1,132 @@
+URL: https://www.promptadvisers.com/grok-bot-model-switcher
+Fetched: 2026-10-26T03:45:18Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/grok-bot-model-switcher
+Content-Type: text/html
+Via: chrome-headless
+Title: Grok Bot Model Switcher: Run Codex, Claude, or Any Model
+Meta description: Grok Bot model switcher swaps the model behind your chat to Codex, Claude, or OpenRouter for free, no new subscription needed.
+Canonical: https://www.promptadvisers.com/grok-bot-model-switcher
+Robots: 
+H1: Grok Bot Model Switcher: Run Codex, Claude, or Any Model
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+Grok Bot Model Switcher: Run Codex, Claude, or Any Model
+
+Grok Bot model switcher swaps the model behind your chat to Codex, Claude, or OpenRouter for free, no new subscription needed.
+
+MARK KASHEF
+SEPTEMBER 1, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+A Grok Bot model switcher keeps every part of Grok Bot you like, files, permissions, chat history, screen control, while swapping out the model answering underneath. I built one that routes a message to Codex, Claude, OpenRouter, or Kimi K2 before Grok Bot ever sees it, using accounts I already pay for.
+
+TL;DR
+
+Typing /provider and naming a model, Codex, OpenRouter, or Claude via the SDK, reroutes your next message to that model in seconds.
+Proof: an OpenRouter balance dropped from $20.93 by a few cents right after a Claude 4.6 response came back.
+Grok Bot's minimum $20 a month plan is still required to authenticate, but every model call past that runs on the account you already own.
+Sub-agents and file access still inherit Grok Bot's own permissions and models, only the main chat answers through your chosen provider.
+How the Grok Bot Model Switcher Works
+
+The Grok Bot model switcher works by intercepting your message before it reaches Grok Bot's own models, not by editing Grok Bot itself. I send /provider followed by a model name, Codex in this case, and within seconds Grok Bot answers through my Codex subscription instead of its default model.
+
+WATCH ON YOUTUBE
+
+Ask it what model it is running and it answers straight, mine came back as GPT 5.6. The same hookup works with Claude, Kimi K2, GLM, or anything reachable through OpenRouter, so the provider is never locked to one company.
+
+I walk through the full router build inside Early AI-dopters, 1,000+ people mastering Claude Code and Codex together.
+
+JOIN EARLY AI-DOPTERS
+
+The proof is watching real money move, not taking my word for it. I switched to OpenRouter, ran Claude 4.6 in the same chat, and put my balance on screen, starting at $20.93. I asked for full research on a Mac Studio M5 Max versus a Mac Mini M6 for running a 200 GB open source model. Minutes later the balance had ticked down a few cents, Claude doing the work, billed to my own account, inside a product that normally only runs xAI's models.
+
+How Do I Switch Models in Grok Bot?
+
+You switch models in Grok Bot by typing /provider for a one-time swap or /models to change your default going forward, both handled by the router in front of Grok Bot. The trickiest part was keeping the chat transcript intact across the swap, since a fresh model with no memory of your conversation is useless mid-task.
+
+That was solvable because every Grok Bot chat runs on its own sandboxed computer with a terminal in the corner. I tested this by logging into my own Claude Code account through that terminal, and it worked in under two minutes. The router formalizes the trick: your message goes to your saved provider first, and Grok Bot steps back in only when a tool call needs its permissions.
+
+Which Provider Should Power Your Grok Bot Model Switcher?
+
+The right provider depends on whether you want quality, cost, or coverage. OpenRouter alone carries hundreds of models, so I run different bots on different providers.
+
+PROVIDER	COST	BEST FOR	WATCH OUT FOR
+Codex subscription	Flat monthly	Coding-heavy chats	Only worth it if you already pay for Codex
+OpenRouter (paid)	Pay per token	Claude, GPT, any model on demand	Balance drains fast on research prompts
+OpenRouter (free tier)	$0	Simple, low-stakes requests	Frequent timeouts under load
+Claude via SDK	Flat monthly	Quality-sensitive work	Anthropic's usage policies have shifted before
+
+Pick the provider that matches the bot's job, then let the router handle the rest.
+
+What Are the Grok Bot Model Switcher's Limitations?
+
+The Grok Bot model switcher does not give your chosen model full run of the computer, Grok Bot still owns the permissions layer. If Claude asks to open a file, that file must already be whitelisted in Grok's action list before Grok will open it.
+
+Sub-agents work the same restricted way. Any helper agents Grok Bot spins up for research or QA still run on Grok's own models, not your switched provider. Your main conversation stays on your chosen model, leaning on those sub-agents for legwork and handling synthesis itself.
+
+Does the Grok Bot Model Switcher Cost Anything Extra?
+
+No, the switcher itself is free, you only pay the $20 minimum Grok Bot plan plus whatever provider account you route to. I built this because I could not justify $100 to $300 a month on a second subscription just for model choice.
+
+Because every bot gets its own saved provider, you can mix cost tiers on purpose. Point a research bot at Claude, a builder bot at Codex, and a fast-reply bot at a free OpenRouter model, and each spends only what its job requires, the same instinct behind building a Grok Bot alternative from scratch.
+
+If your team wants this built and maintained instead of DIY, that is the kind of project I take on through enterprise AI consulting, covered live in the AI workshops and bootcamps I run.
+
+Mark's Final Thoughts
+
+This is a Frankenstein build, and I say that with no shame. I did not touch Grok Bot's code, I built a router that intercepts the handoff, and it has held up across every version I have tested. Grok Bot will keep shipping updates, and I will keep patching to match, so watch for updates if you grab it. You should never be locked to one model just because you like one product's interface.
+
+Grok Bot Model Switcher FAQs
+
+What is the Grok Bot model switcher? It is a router I built that sits in front of Grok Bot and sends your message to the model you pick, Codex, Claude, Kimi K2, or GLM, before Grok Bot ever touches it. You keep Grok Bot's files, permissions, chat history, and screen control. Only the model answering changes.
+
+Do I need the $20 Grok Bot plan to switch models? Yes. The router needs a live Grok Bot session to authenticate, so the $20 a month plan is the floor. Everything past that runs on whatever provider account you already pay for, Codex, OpenRouter, or your own Claude access.
+
+Can sub-agents in Grok Bot use my chosen model too? Not yet. Helper agents Grok Bot spins up for research or QA still run on Grok's own models, not your switched provider. Your main conversation stays on your chosen model and can lean on those sub-agents for legwork.
+
+Is the Grok Bot model switcher official or a workaround? It is a workaround, not a native feature. I built it without touching Grok Bot's own code, so it is not guaranteed to survive every update. It has held up across the versions I have tested, and I patch it when something breaks.
+
+What free models can I run through Grok Bot with OpenRouter? OpenRouter carries a rotating list of free models, including options like Mini Max free, routed through Grok Bot at no cost. Expect occasional timeouts under load, so save them for simple requests, not anything urgent.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/grok-bot-model-switcher#article","headline":"Grok Bot Model Switcher: Run Codex, Claude, or Any Model","description":"Grok Bot model switcher swaps the model behind your chat to Codex, Claude, or OpenRouter for free, no new subscription needed.","image":["https://www.promptadvisers.com/blog/grok-bot-model-switcher/grok-bot-model-switcher-hero.webp"],"datePublished":"2026-09-01T00:00:00-05:00","dateModified":"2026-09-01T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/grok-bot-model-switcher","keywords":"Grok Bot model switcher, Grok Bot Codex, Grok Bot OpenRouter, switch Grok Bot model, Grok Router","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Grok Bot Model Switcher: Run Codex, Claude, or Any Model","description":"Grok Bot model switcher swaps the model behind your chat to Codex, Claude, or OpenRouter for free, no new subscription needed.","thumbnailUrl":["https://i.ytimg.com/vi/Jq3WcqtakNQ/maxresdefault.jpg"],"uploadDate":"2026-08-31T00:00:00-05:00","duration":"PT9M50S","contentUrl":"https://www.youtube.com/watch?v=Jq3WcqtakNQ","embedUrl":"https://www.youtube-nocookie.com/embed/Jq3WcqtakNQ","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the Grok Bot model switcher?","acceptedAnswer":{"@type":"Answer","text":"It is a router I built that sits in front of Grok Bot and sends your message to the model you pick, Codex, Claude through OpenRouter, Kimi K2, or GLM, before Grok Bot ever touches it. You keep Grok Bot's files, permissions, chat history, and screen control. Only the model answering changes."}},{"@type":"Question","name":"Do I need the $20 Grok Bot plan to switch models?","acceptedAnswer":{"@type":"Answer","text":"Yes. The router needs a live Grok Bot session to authenticate and hand off tool calls, so the $20 a month plan is the floor. Everything past that runs on whatever provider account you already pay for, Codex, OpenRouter, or your own Claude access."}},{"@type":"Question","name":"Can sub-agents in Grok Bot use my chosen model too?","acceptedAnswer":{"@type":"Answer","text":"Not yet. Helper agents Grok Bot spins up for research or QA still run on Grok's own models, not your switched provider. Your main conversation stays on your chosen model and can lean on those sub-agents for legwork."}},{"@type":"Question","name":"Is the Grok Bot model switcher official or a workaround?","acceptedAnswer":{"@type":"Answer","text":"It is a workaround, not a native feature. I built it on top of the app without touching Grok Bot's own code, so it is not guaranteed to survive every update. It has held up across the versions I have tested, and I patch it when something breaks."}},{"@type":"Question","name":"What free models can I run through Grok Bot with OpenRouter?","acceptedAnswer":{"@type":"Answer","text":"OpenRouter carries a rotating list of free models, including options like Mini Max free, routed through Grok Bot at no cost. They are not fully reliable, expect occasional timeouts under load, so save them for simple requests, not anything urgent."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Grok Bot Model Switcher: Run Codex, Claude, or Any Model","item":"https://www.promptadvisers.com/grok-bot-model-switcher"}]}]
+

@@ -1,0 +1,144 @@
+URL: https://www.promptadvisers.com/claude-code-mods
+Fetched: 2026-10-26T03:45:11Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/claude-code-mods
+Content-Type: text/html
+Via: chrome-headless
+Title: Claude Code Mods: 10 Worth Stealing (No IDE Needed)
+Meta description: Claude Code mods let you customize your setup in plain language. See the 10 I use, from auto-handoff to a flight recorder. Grab my pack inside.
+Canonical: https://www.promptadvisers.com/claude-code-mods
+Robots: 
+H1: Claude Code Mods: 10 Worth Stealing (No IDE Needed)
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · CLAUDE CODE
+
+Claude Code Mods: 10 Worth Stealing (No IDE Needed)
+
+Claude Code mods let you customize your setup in plain language. See the 10 I use, from auto-handoff to a flight recorder. Grab my pack inside.
+
+MARK KASHEF
+OCTOBER 5, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+Claude Code mods are small add-ons that change how Claude Code behaves, and you can build them by describing what you want in plain English. I tested ten of them, and a few are now part of my daily setup. Here is how they work and which ones are worth stealing.
+
+TL;DR
+
+A mod is code injected into your session. It can fire on events, so many mods spend zero AI credits.
+I showed 10 mods, including a model router, a flight recorder, and an auto-handoff that triggers at 85 percent of the context window.
+Mods install as plugins with a scope of user or project, so you control where they apply.
+You do not need an IDE. Everything ran inside the Claude desktop app.
+How Claude Code Mods Actually Work
+
+Think of buying a car and driving it home with the factory settings. That is how most people use Claude Code. Mods are the ambient lights and the better speakers.
+
+WATCH ON YOUTUBE
+
+This is not brand new if you already hack the terminal. What changed is the packaging. Anyone can now use natural language to customize Claude Code, technical or not.
+
+I share my full mod pack and the prompts to invoke each one in the second link under the video. For more builds like this, join Early AI-dopters, 1,000+ people mastering Claude Code and Codex.
+
+JOIN EARLY AI-DOPTERS
+What Is the Difference Between a Prompt, a Skill, and a Mod?
+
+A prompt is what you ask for right now, a skill is a reusable set of instructions for a job, and a mod is code that adds behavior while you work. Most people mix these up, so here is the clean split.
+
+"Summarize these notes" is a prompt. "Use my report writing process" is a skill. "List every file you touch during this change" is a mod. Mods are also close cousins of hooks, which fire on a specific event every single time without a model orchestrating them. Think of mods as Lego pieces you snap onto your harness.
+
+10 Claude Code Mods Worth Stealing
+
+You install each mod as a plugin, and the install command carries the word plugin because the plugin is the Trojan horse for the mod. I fed Claude Code the full article about mods, and it wrote the commands for me. The scope flag matters too. Scope user applies the mod to every chat, scope project limits it to one repo.
+
+Here is the lineup I walked through:
+
+Crimson Garden theme. A colored chat and a custom footer. Say "change it to an ocean blue theme" and it rewrites itself.
+Pet. A tiny pet that counts files as it eats them. Useless, but it proves the idea. Slash pet off removes it.
+Heat map. Type slash heat map to see where your files cluster. My SaaS repo was heavy on design.
+Flight recorder. Slash timeline shows every request, turn by turn. I watched it hit Opus, then Bash.
+Model router. I asked for two explore agents in parallel and saw Sonnet one and Sonnet two fire instead of Opus.
+Output tray. Slash tray lists every file created in a prompt, with a reveal button.
+Receipt. A lean summary of what was created, minus the extras.
+Bookmark. A TLDR note you can reopen later with slash bookmark open.
+Auto-handoff. The one I would build first.
+Mass remove. One bash command that nukes every mod at once.
+
+The flight recorder and router are a great pair. One cuts cost and the other proves it. You can even add a mod that tells you how much money the subagent setup saved.
+
+Does Auto-Handoff Actually Fix Context Rot?
+
+Yes, it hands your session to a fresh one before quality drops. With a million token window, I find you start leaving the green zone around 400 to 500 thousand tokens, and you land in what I call hallucination nation.
+
+Instead of watching the meter in the bottom right corner, the mod does it for you. Mine is set to 85 percent, but you can use 40 or 50. Slash handoff now triggers it early. This pairs well with a proper local AI setup or an agentic OS, where sessions run long.
+
+How Do You Remove Claude Code Mods You Do Not Want?
+
+Ask Claude Code to write a single bash command that removes them all. In my case it cycled through everything at the user scope, and the next session loaded none of them. Tinkering is safe because cleanup takes one prompt.
+
+The honest cons: mods need a restart of the session to take effect, and many of mine are novelty. Keep the two or three that save you time or money.
+
+Final Thoughts from Mark
+
+Mods let you build the features Anthropic has not shipped yet, without waiting on a roadmap. Start with auto-handoff, add the flight recorder, and delete the rest. Customization used to belong to people who lived in the terminal. Now it belongs to anyone who can describe what they want.
+
+Claude Code Mods FAQs
+
+What are Claude Code mods?
+
+Claude Code mods are small pieces of code injected into your session to add behavior while you work. You build them with plain language, and they can change colors, add panels, track files, or route models. Many fire on events like hooks do, so they often cost no AI credits to run.
+
+Are Claude Code mods the same as hooks?
+
+They are cousins. A hook fires on a specific event every time, with no language model needed. Mods work the same way. Claude Code sends an event with your request details, a file reads it, and the result comes back. Mods are repackaged so non-technical users can create them in natural language.
+
+Do I need an IDE to use Claude Code mods?
+
+No. I run everything inside the Claude desktop app. You open the built-in terminal, paste a plugin install command, and start a fresh session. Claude Code can write the mod for you if you feed it the article about mods first.
+
+How do I remove Claude Code mods I no longer want?
+
+Ask Claude Code to write a bash command that removes them all at once. Make sure it targets the right scope, user or project. Once it runs, start a new session and none of the mods will load. You can also toggle single ones, like typing slash pet then off.
+
+Can Claude Code mods save me money?
+
+Yes, in two ways. Most mods run as plain code, so they burn no tokens. And a model router mod can send subagents to Sonnet instead of Opus. Pair it with a flight recorder mod and you can verify the cheaper model is actually being used.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/claude-code-mods#article","headline":"Claude Code Mods: 10 Worth Stealing (No IDE Needed)","description":"Claude Code mods let you customize your setup in plain language. See the 10 I use, from auto-handoff to a flight recorder. Grab my pack inside.","image":["https://www.promptadvisers.com/blog/claude-code-mods/claude-code-mods-hero.webp"],"datePublished":"2026-10-05T00:00:00-05:00","dateModified":"2026-10-05T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/claude-code-mods","keywords":"Claude Code mods, Claude Code customization, Claude Code plugins, Claude Code hooks, auto handoff","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Claude Code Mods: 10 Worth Stealing (No IDE Needed)","description":"Claude Code mods let you customize your setup in plain language. See the 10 I use, from auto-handoff to a flight recorder. Grab my pack inside.","thumbnailUrl":["https://i.ytimg.com/vi/uvIopT_2sY0/maxresdefault.jpg"],"uploadDate":"2026-10-02T00:00:00-05:00","duration":"PT11M16S","contentUrl":"https://www.youtube.com/watch?v=uvIopT_2sY0","embedUrl":"https://www.youtube-nocookie.com/embed/uvIopT_2sY0","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What are Claude Code mods?","acceptedAnswer":{"@type":"Answer","text":"Claude Code mods are small pieces of code injected into your session to add behavior while you work. You build them with plain language, and they can change colors, add panels, track files, or route models. Many fire on events like hooks do, so they often cost no AI credits to run."}},{"@type":"Question","name":"Are Claude Code mods the same as hooks?","acceptedAnswer":{"@type":"Answer","text":"They are cousins. A hook fires on a specific event every time, with no language model needed. Mods work the same way. Claude Code sends an event with your request details, a file reads it, and the result comes back. Mods are repackaged so non-technical users can create them in natural language."}},{"@type":"Question","name":"Do I need an IDE to use Claude Code mods?","acceptedAnswer":{"@type":"Answer","text":"No. I run everything inside the Claude desktop app. You open the built-in terminal, paste a plugin install command, and start a fresh session. Claude Code can write the mod for you if you feed it the article about mods first."}},{"@type":"Question","name":"How do I remove Claude Code mods I no longer want?","acceptedAnswer":{"@type":"Answer","text":"Ask Claude Code to write a bash command that removes them all at once. Make sure it targets the right scope, user or project. Once it runs, start a new session and none of the mods will load. You can also toggle single ones, like typing slash pet then off."}},{"@type":"Question","name":"Can Claude Code mods save me money?","acceptedAnswer":{"@type":"Answer","text":"Yes, in two ways. Most mods run as plain code, so they burn no tokens. And a model router mod can send subagents to Sonnet instead of Opus. Pair it with a flight recorder mod and you can verify the cheaper model is actually being used."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Claude Code Mods: 10 Worth Stealing (No IDE Needed)","item":"https://www.promptadvisers.com/claude-code-mods"}]}]
+

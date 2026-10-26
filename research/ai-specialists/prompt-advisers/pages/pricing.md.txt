@@ -1,0 +1,163 @@
+URL: https://www.lockpick.app/pricing.md
+Fetched: 2026-10-26T03:50:24Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/pricing.md
+Content-Type: text/html
+Via: chrome-headless
+Title: 
+Meta description: 
+Canonical: 
+Robots: 
+H1: 
+
+# Lockpick pricing
+
+Lockpick checks your sites the way an attacker or an AI agent would, and tells you in plain words what to fix. Website scans never need your code. Repo and skill checks read public code and never run it.
+
+Plan catalogue 2026-10-17.1. Prices are in US dollars.
+
+The web version is at /pricing
+
+## Plans
+
+| Plan | Monthly | Yearly | Pulse scans | Deep scans | Sites | Seats | Auto-checks | Agent access (CLI, MCP, skills) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Free | $0 a month | $0 a month | 5 a month | No | 1 site at a time, switch any time | 1 seat | Weekly | Read reports and start Pulse scans |
+| Deep | $19 a month | $190 a year, about $16 a month | 100 a month | 20 a month | 3 sites | 1 seat | Weekly | Read reports and start Pulse and Deep scans |
+| Master Key | From $49 a month | From $490 a year | Coming soon | Coming soon | Coming soon | Coming soon | Coming soon | Coming soon |
+| Teams and agencies | Custom | Custom | Custom | Custom | Custom | Unlimited seats | Custom | Custom |
+
+## Need a few more Pulse scans?
+
+10 extra Pulse scans for US$5. One payment, no subscription.
+
+No expiry. For this workspace. Your included scans are used first. Site limits still apply. Tax may apply.
+
+### Who each plan is for
+
+- **Free**: For one site you want to keep an eye on.
+- **Deep**: For founders who want to know what's really exposed, week after week.
+- **Master Key** (Coming soon): For apps where people sign in and keep their own data.
+- **Teams and agencies**: For teams and agencies that check many sites. Tell us what you need.
+
+### What each plan includes
+
+**Free**
+
+- 5 Pulse scans a month
+- 1 site at a time, switch any time
+- Weekly auto-checks, each uses one of your scans
+- Your AI can start Pulse scans and read reports
+- Plain-words reports and fix prompts
+
+**Deep**
+
+- 20 Deep scans and 100 Pulse scans a month
+- 3 sites
+- Weekly auto-checks, emailed to you
+- Your AI can start Pulse and Deep scans and read reports
+- Plain-words reports and fix prompts
+- Up to 30 pages and 200 requests, plus everything a Pulse scan looks at
+- Your API, including GraphQL, OpenAPI routes and CORS
+- Supabase, Firebase and Convex access rules
+- Up to 20 scripts and the libraries in them against known advisories
+- Email and domain security, including DMARC, SPF and subdomain takeover
+- Your lockfile against known advisories, from the CLI
+
+**Master Key**
+
+- Signs in to your app with two test accounts
+- Checks whether one user can see another user's data
+- Plain-words reports and fix prompts
+
+**Teams and agencies**
+
+- Custom scan volume
+- Unlimited seats
+- Client workspaces and share pages with your name
+- Priority queue and email support
+- Plain-words reports and fix prompts
+
+## What each scan does
+
+Website scans look at what anyone online can see, never at your code. Repo and skill checks read public code and never run it. Reading your results is always free.
+
+| Scan | What it does |
+| --- | --- |
+| Quick check | The check on our home page. No account, its own daily limits. |
+| Repo and skill check | Reads a public GitHub repo, skill, plugin or MCP server, or the repo behind an npm or PyPI package, and never runs it. Free for everyone, with or without an account, and it uses no scan. |
+| Pulse | The homepage and the files it loads, email sender settings (SPF and DMARC), security headers and TLS, and public DNS, certificate and subdomain records, in at most 10 requests. |
+| Deep | Reads up to 30 pages, the scripts they load and your API surface. Needs a DNS record, meta tag or file that proves you control the site. |
+| Master Key | Master Key signs in to your app with two test accounts to check whether one user can see another user's data. Coming soon. |
+| Check again | Runs the same scan again to confirm a fix. Uses one scan of that tier, like an auto-check. |
+| Re-read this record | Rereads the public record behind a DNS finding. Free on every plan. |
+| CLI and MCP reads | Your agent reads reports and findings as often as it needs, through the CLI, MCP or the hosted connector for Claude. |
+
+## What changes between plans
+
+Every plan gets the same reports and the same fixes. These are the things that change.
+
+| Feature | What it means | Free | Deep | Master Key | Teams and agencies |
+| --- | --- | --- | --- | --- | --- |
+| Pulse scans | Quick outside checks of pages, headers, DNS and certificates. | 5 a month | 100 a month | Coming soon | Custom |
+| Deep scans | Thorough checks of up to 30 pages, on sites you have proven you control. | No | 20 a month | Coming soon | Custom |
+| Repo and skill checks | Public GitHub repos, skills, plugins and MCP servers, read and never run. | Free | Free | Coming soon | Free |
+| Sites | A site is one domain with all of its subdomains, so www and app count once. | 1 site at a time, switch any time | 3 sites | Coming soon | Custom |
+| Seats | Teammates share one workspace and one plan. Invites cost nothing extra. | 1 seat | 1 seat | Coming soon | Unlimited seats |
+| Workspaces you own | How many workspaces one account can own. The best plan among them sets the limit. | 3 workspaces | 10 workspaces | Coming soon | 10 workspaces |
+| Auto-checks | Auto-checks run on their own and email you the result, like antivirus for your site. | Weekly | Weekly | Coming soon | Custom |
+| Agent access | Your coding agent can read reports and start scans on every plan. On Deep it can start Deep scans too. | Read reports and start Pulse scans | Read reports and start Pulse and Deep scans | Coming soon | Custom |
+| Client workspaces | A workspace per client, with share pages that carry your name instead of ours. | No | No | Coming soon | Yes |
+| Queue priority | When the scanner is busy, priority scans start first. | Standard | Standard | Coming soon | Priority |
+| Support | How you reach us when something looks wrong. | Community | Email | Coming soon | Priority email |
+
+## Questions
+
+### Is it safe to scan my site?
+
+Yes. Scans only read what your site already shows the public, with a small, paced number of requests, at most 10 for a Pulse and 200 for a Deep scan. They never sign in, submit forms or change anything.
+
+### Do I need to be technical?
+
+No. Every report says what we found in plain words and what someone could do with it. Each finding comes with a fix prompt you can paste into your coding assistant, and Check again tells you when it's fixed.
+
+### Do you look at my code?
+
+Website scans never do. They only look at what anyone on the internet can see. Repo and skill checks read the public code of a GitHub link you paste and never run it.
+
+### Pulse or Deep, which do I need?
+
+Start with Pulse, a quick outside look at your homepage, email and security settings and public records. Choose Deep when you want us to walk through the whole site, up to 30 pages and your API, the way a determined attacker would. Deep needs proof that you own the site, a DNS record, a meta tag or a file, kept published.
+
+### What uses a scan?
+
+Every Pulse or Deep scan uses one scan from the month's allowance. That includes Check again, auto-checks and scans your AI starts. A quick check, Re-read this record and reading your results are free, and a scan that fails or that your site blocks doesn't count. When the month's scans run out, auto-checks wait for the reset and email you.
+
+### What counts as a site?
+
+One domain with all of its subdomains, so www and app count once. Free covers one site and Deep covers 3 sites. Teams and agencies get as many as they need.
+
+### How many people can use a plan?
+
+Free includes 1 seat and Deep includes 1 seat. Teams and agencies get unlimited seats in one shared workspace.
+
+### Do Early AI-dopters members get anything extra?
+
+Yes. Members get 10 Pulse scans a month on 2 sites and a free month of Deep. VIP members get 20 Pulse scans a month on 3 sites and 2 free months of Deep. Claim it from the Lockpick tile in EA Apps.
+
+### Will auto-checks slow down my site?
+
+No. An auto-check sends the same small, paced requests as a scan you start yourself, at most 10 for a Pulse and 200 for a Deep scan, once a week.
+
+### Can I cancel any time?
+
+Yes. Cancel from Billing, which opens Polar, our merchant of record. Your plan runs to the end of the period you paid for, then your workspace moves to the Free plan. Your sites, reports and history stay, and you can subscribe again whenever you like.
+
+### Do I get invoices?
+
+Yes. Polar, our merchant of record, sells paid plans and emails a receipt for every payment. Billing in Lockpick opens Polar's portal, where you download invoices, change your card or cancel.
+
+### What do you store?
+
+Your account, your sites and the reports we produce for them, with evidence kept in redacted form. We never store your code, your visitors' data or anything behind a login. The privacy policy has the details.
+

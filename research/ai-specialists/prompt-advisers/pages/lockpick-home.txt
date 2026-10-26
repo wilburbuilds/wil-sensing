@@ -1,0 +1,481 @@
+URL: https://www.lockpick.app/
+Fetched: 2026-10-26T03:52:31Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/
+Content-Type: text/html
+Via: chrome-headless
+Title: Lockpick · Know what you left open
+Meta description: Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and gives you a fix prompt for Lovable, Bolt, Cursor or Claude Code.
+Canonical: https://www.lockpick.app/
+Robots: 
+H1: You built it. Know what you left open.
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+PHP security alert
+New PHP flaws may affect your site.
+What to do ↗
+Skip to content
+How it works
+Pricing
+Docs
+Resources
+English
+Sign in
+You built it.
+Know what you left open.
+
+Antivirus for vibe-coded apps, websites, skills and repos.
+
+URL
+Check it
+Try an example
+
+This scan reads public website and domain information. We keep the results and redacted evidence. How your data is used
+
+71,007
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+,
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+71,007
+ new vulnerabilities published this year. A live estimate from Zero Day Clock data.
+
+We look at your homepage the way an attacker would.
+From the outside, the way anyone could. Website scans never need your code. Repo and skill checks read public code and never run it.
+We explain what we found in plain words.
+Each finding says what we saw and what someone could do with it. No jargon.
+We write the prompt that fixes it.
+Works with your AI coding agent. Copy the repair prompt into the tool you already use.
+Codex
+Gemini
+Claude Code
+Cursor
+Replit
+GitHub Copilot
+More bugs, exploited sooner.
+
+Your public assets are the first things an attacker can reach.
+
+71,007
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+,
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+71,007
+vulnerabilities published worldwide in 2026, a live estimate
+2.7×
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+×
+as many last quarter as a year before, 30k vs 11k
+135
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+exploited the day they went public, first half of 2026
+#1
+#
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+web apps and plugins were the most exploited category in 2026, 211 of 679
+
+Sources and methods behind these figures
+
+One leaked key, found and fixed.
+
+An example of what a Pulse scan finds. This mistake is common.
+
+Before
+After
+atlas.example
+A
+Atlas
+Studio
+
+Good morning, Studio
+
+1,248 customers
+37 invoices due
+
+View source
+/_next/static/chunks/app.js
+
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[931],{
+1204:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return s}});
+var r=n(7437),a=n(2265),i=n(6463);function l(e){return e.replace(/\s+/g," ")}
+let o={sm:640,md:768,lg:1024},u=(0,a.createContext)(o);
+function s(e){let{title:t,children:n}=e;return(0,r.jsx)("section",{children:n})}
+},3310:function(e,t,n){n.d(t,{Z:function(){return c}});var r=n(2265);
+function c(e){let[t,n]=(0,r.useState)(!1);return[t,()=>n(e=>!e)]}
+},4821:function(e,t,n){"use strict";n.d(t,{db:function(){return o}});
+var r=n(2265),a=n(8830);let c=(0,r.createContext)(null);
+function u(e){let{children:t}=e;return(0,r.useMemo)(()=>t,[t])}
+let i={SUPABASE_URL:"https://db.atlas.example",
+SUPABASE_SERVICE_ROLE_KEY:"eyJhbGciOiJI…"},
+o=(0,a.createClient)(i.SUPABASE_URL,i.SUPABASE_SERVICE_ROLE_KEY);
+function l(){return o.from("customers").select("*")}
+function d(e){return o.from("customers").delete().neq("id",e)}
+
+customers
+Anyone who opens atlas.example
+
+Name	Email
+Mara Quinn	mara@northwind.example
+Theo Albers	theo@kestrel.example
+Ines Duarte	ines@fieldnote.example
+and 1,245 more rows
+Delete all 1,248
+
+LockpickExample
+
+Database admin key in the website's code
+
+Found
+Pulse scan
+
+atlas.example
+A
+Atlas
+Studio
+
+Good morning, Studio
+
+1,248 customers
+37 invoices due
+
+View source
+/_next/static/chunks/app.js
+
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[931],{
+1204:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return s}});
+var r=n(7437),a=n(2265),i=n(6463);function l(e){return e.replace(/\s+/g," ")}
+let o={sm:640,md:768,lg:1024},u=(0,a.createContext)(o);
+function s(e){let{title:t,children:n}=e;return(0,r.jsx)("section",{children:n})}
+},3310:function(e,t,n){n.d(t,{Z:function(){return c}});var r=n(2265);
+function c(e){let[t,n]=(0,r.useState)(!1);return[t,()=>n(e=>!e)]}
+},4821:function(e,t,n){"use strict";n.d(t,{db:function(){return o}});
+var r=n(2265),a=n(8830);let c=(0,r.createContext)(null);
+function u(e){let{children:t}=e;return(0,r.useMemo)(()=>t,[t])}
+let i={SUPABASE_URL:"https://db.atlas.example",
+Key removed
+o=(0,a.createClient)(i.SUPABASE_URL,i.SUPABASE_ANON_KEY);
+function l(){return o.from("customers").select("*")}
+function d(e){return o.from("customers").delete().neq("id",e)}
+
+customers
+Anyone who opens atlas.example
+
+permission denied for table customers
+The website's public key cannot read this table.
+
+LockpickExample
+
+Database admin key in the website's code
+
+Fixed
+Checked again
+
+Before. Atlas's database admin key is in the website's code, and anyone who opens the site can open the customer table.
+
+What we saw
+
+A key that unlocks the whole database was sitting in the website's code.
+
+Technical detail
+What someone could do
+
+Read, change or delete every customer record. No password needed.
+
+The prompt
+
+A ready-to-paste prompt for your coding agent. Rotate the key, move it to the server, lock the table, then check again.
+
+Copy the prompt
+Free to start. Deep when you want more.
+Billing
+Yearly, 2 months free
+Monthly
+
+Prices in USD
+
+Free
+
+$0
+/month
+
+No card needed
+
+Pulse checks what your site exposes to the public.
+
+For one site you want to keep an eye on.
+
+Start free
+5 Pulse scans a month
+1 site at a time, switch any time
+Weekly auto-checks, each uses one of your scans
+Your AI can start Pulse scans and read reports
+Plain-words reports and fix prompts
+Deep
+Recommended
+
+$15.83
+/month
+
+Billed yearly: $190. 2 months free
+
+Deep follows routes and tests how your site handles access.
+
+For founders who want to know what's really exposed, week after week.
+
+Get Deep
+
+$190 charged once a year. Renews automatically until you cancel. Cancel anytime in Billing.
+
+20 Deep scans and 100 Pulse scans a month
+3 sites
+Weekly auto-checks, emailed to you
+Your AI can start Pulse and Deep scans and read reports
+Plain-words reports and fix prompts
+
+What Deep checks
+
+Up to 30 pages and 200 requests, plus everything a Pulse scan looks at
+Your API, including GraphQL, OpenAPI routes and CORS
+Supabase, Firebase and Convex access rules
+Up to 20 scripts and the libraries in them against known advisories
+Email and domain security, including DMARC, SPF and subdomain takeover
+Your lockfile against known advisories, from the CLI
+Master Key
+Coming soon
+
+From $40.83
+/month
+
+From $490 billed yearly · Not on sale yet
+
+Checks whether one user can see another user’s data.
+
+For apps where people sign in and keep their own data.
+
+Join the waitlist
+Signs in to your app with two test accounts
+Checks whether one user can see another user's data
+Plain-words reports and fix prompts
+Teams and agencies
+
+Priced to your sites and team
+
+More sites, seats and client workspaces.
+
+For teams and agencies that check many sites. Tell us what you need.
+
+Contact us
+Custom scan volume
+Unlimited seats
+Client workspaces and share pages with your name
+Priority queue and email support
+Plain-words reports and fix prompts
+See Deep
+
+Public HTTPS pages only. Scan only sites you are authorized to test.
+
+Questions before you scan.
+Is it safe to scan my site?
+Do you need my code?
+Which builders does it work with?
+What does “authorized to test” mean?
+What do Early AI-dopters members get?
+Can I cancel any time?
+Check your site before you share the link.
+Check it
+
+Only pick locks you own.
+
+Pricing
+Methodology
+Docs
+Blog
+Guides
+Security checks
+Learn with Pick
+Security and trust
+Lockpick for Claude
+Changelog
+Status
+Facts for AI assistants
+
+Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.
+
+Lockpick assesses public pages you are authorized to test, and public GitHub code it never runs.
+
+© 2026 Lockpick
+Terms
+Privacy
+Contact
+Cookie settings
+Sign in
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=text name="url" id="v3-check-url" label="URL" placeholder="Paste a site, GitHub repo or skill link" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.lockpick.app/#organization","name":"Lockpick","url":"https://www.lockpick.app/","description":"Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.","logo":{"@type":"ImageObject","@id":"https://www.lockpick.app/#logo","url":"https://www.lockpick.app/brand/lockpick-wordmark-email.png","width":480,"height":126},"sameAs":["https://www.npmjs.com/package/lockpicks"]},{"@type":"WebSite","@id":"https://www.lockpick.app/#website","name":"Lockpick","url":"https://www.lockpick.app/","description":"Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.","inLanguage":"en","publisher":{"@id":"https://www.lockpick.app/#organization"}}]}
+

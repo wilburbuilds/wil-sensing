@@ -1,0 +1,84 @@
+URL: https://www.lockpick.app/guides
+Fetched: 2026-10-26T03:50:24Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/guides
+Content-Type: text/html
+Via: chrome-headless
+Title: Guides · Lockpick
+Meta description: What to check before and after you ship an app built with Lovable, Bolt, Replit, v0, Cursor or Supabase, and how to fix what you find.
+Canonical: https://www.lockpick.app/guides
+Robots: 
+H1: Security guides for the tools you build with
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+Skip to content
+How it works
+Pricing
+Docs
+Resources
+English
+Sign in
+Check it
+Security guides for the tools you build with
+
+What to check before and after you ship an app built with Lovable, Bolt, Replit, v0, Cursor or Supabase, and how to fix what you find.
+
+Lovable security checklist for a live app
+What to check after you publish a Lovable app, where Lovable already helps, and what only an outside check of the live site shows.
+Updated Oct 8, 2026
+Fix it with your AI, prompts for Lovable, Bolt, Replit, v0, Cursor and Claude Code
+How to hand a security finding to the AI tool that built your app, with a fix prompt for each builder, and how to confirm the fix on the live site.
+Updated Oct 8, 2026
+Cursor security checklist for the app you ship
+Cursor writes the code, your host serves the site. What to check in the project, what to check on the live site, and how to fix it from Cursor.
+Updated Oct 8, 2026
+Bolt app security checklist for a live site
+What to check on a Bolt app before and after you publish it, what Bolt checks for you, and what the live site still shows to strangers.
+Updated Oct 8, 2026
+Default security settings of AI app builders, from their own docs
+Who can open your app, who sets data rules, which scan runs and where keys go, by default, in Lovable, Bolt, Replit, v0, Base44 and Google AI Studio.
+Updated Oct 8, 2026
+v0 app security checklist for a live Next.js site
+How environment variables, server code and the live site fit together in an app built with v0, and what to check before you share it.
+Updated Oct 8, 2026
+Supabase security checklist for apps built with AI
+Keys, row level security and the Data API grant change, explained for apps built with Lovable, Bolt, v0 or by hand, with what an outside check can and cannot prove.
+Updated Oct 8, 2026
+Run a Lockpick scan from Claude Code or Cursor
+Connect Lockpick to Claude Code or Cursor in a minute, ask it to check your site, and let it fix what it finds while you approve every scan.
+Updated Oct 8, 2026
+Replit app security checklist for a live app
+What to check on an app you built with Replit before you share it, from secrets to permission checks, and what an outside check adds.
+Updated Oct 8, 2026
+Pricing
+Methodology
+Docs
+Blog
+Guides
+Security checks
+Learn with Pick
+Security and trust
+Lockpick for Claude
+Changelog
+Status
+Facts for AI assistants
+
+Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.
+
+Lockpick assesses public pages you are authorized to test, and public GitHub code it never runs.
+
+© 2026 Lockpick
+Terms
+Privacy
+Contact
+Cookie settings
+Sign in
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.lockpick.app/#organization","name":"Lockpick","url":"https://www.lockpick.app/","description":"Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.","logo":{"@type":"ImageObject","@id":"https://www.lockpick.app/#logo","url":"https://www.lockpick.app/brand/lockpick-wordmark-email.png","width":480,"height":126},"sameAs":["https://www.npmjs.com/package/lockpicks"]},{"@type":"CollectionPage","@id":"https://www.lockpick.app/guides#collection","name":"Security guides for the tools you build with","description":"What to check before and after you ship an app built with Lovable, Bolt, Replit, v0, Cursor or Supabase, and how to fix what you find.","url":"https://www.lockpick.app/guides","inLanguage":"en","publisher":{"@id":"https://www.lockpick.app/#organization"},"mainEntity":{"@type":"ItemList","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"name":"Lovable security checklist for a live app","url":"https://www.lockpick.app/guides/lovable"},{"@type":"ListItem","position":2,"name":"Fix it with your AI, prompts for Lovable, Bolt, Replit, v0, Cursor and Claude Code","url":"https://www.lockpick.app/guides/fix-it-with-your-ai"},{"@type":"ListItem","position":3,"name":"Cursor security checklist for the app you ship","url":"https://www.lockpick.app/guides/cursor"},{"@type":"ListItem","position":4,"name":"Bolt app security checklist for a live site","url":"https://www.lockpick.app/guides/bolt"},{"@type":"ListItem","position":5,"name":"Default security settings of AI app builders, from their own docs","url":"https://www.lockpick.app/guides/ai-app-builder-security-defaults"},{"@type":"ListItem","position":6,"name":"v0 app security checklist for a live Next.js site","url":"https://www.lockpick.app/guides/v0"},{"@type":"ListItem","position":7,"name":"Supabase security checklist for apps built with AI","url":"https://www.lockpick.app/guides/supabase"},{"@type":"ListItem","position":8,"name":"Run a Lockpick scan from Claude Code or Cursor","url":"https://www.lockpick.app/guides/run-lockpick-from-claude-code-or-cursor"},{"@type":"ListItem","position":9,"name":"Replit app security checklist for a live app","url":"https://www.lockpick.app/guides/replit"}]}}]}
+

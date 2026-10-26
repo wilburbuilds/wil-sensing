@@ -1,0 +1,137 @@
+URL: https://www.promptadvisers.com/services
+Fetched: 2026-10-26T03:45:29Z
+HTTP status: 304
+Final URL: https://www.promptadvisers.com/consulting
+Content-Type: text/html
+Via: chrome-headless
+Title: Enterprise AI Consulting | Prompt Advisers
+Meta description: Advisory sprints, implementation programs, and fractional AI leadership. We install AI operating systems on Claude Code and Codex and hand you the keys.
+Canonical: https://www.promptadvisers.com/consulting
+Robots: 
+H1: STRATEGY YOU CAN SHIP, NOT SLIDEWARE.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · I / CONSULTING
+
+STRATEGY YOU CAN SHIP, NOT SLIDEWARE.
+
+ENGAGEMENT TYPES
+
+I
+ADVISORY SPRINT
+
+A short, intense reconnaissance. We audit the back of house, map what to automate first, and hand your team a plan it can run without us.
+
+FROM $15K
+
+II
+IMPLEMENTATION PROGRAM
+
+We build alongside your people until the workflow ships and holds under real load. The engagement ends when it works, not when the deck is done.
+
+ENTERPRISE, $50K AND UP
+
+III
+FRACTIONAL AI LEAD
+
+A senior operator on call. Compliance readiness, systems that talk to each other, and the judgment to know what not to build.
+
+MONTHLY RETAINER
+
+IV
+SECURITY & COMPLIANCE REVIEW
+
+Teams shipped faster with AI than their security review could keep up. We check what your estate shows the outside world, the way an attacker sees it, and hand back a prioritised fix list rather than a PDF nobody reads. It is the lens behind Lockpick, our own scanner, run by hand across a whole estate.
+
+FROM $20K
+
+II / THE METHOD
+
+01
+Clean the back of house.
+
+Before a single automation, we fix the data and the workflow underneath it.
+
+02
+Make the systems talk.
+
+The tools you already pay for should move information without a human in the middle.
+
+03
+Know what compliance means for you.
+
+We map the rules that actually apply so the build holds up to scrutiny.
+
+04
+Then, and only then, automate.
+
+Agents go on top of a house in order, never in place of one.
+
+ON RECORD
+
+“
+My advice usually boils down to three sentences. Clean your back of house. Make sure your systems can talk to each other. And understand what it means for you to be compliant.
+MARK KASHEF · IN ENTREPRENEUR
+
+III / QUESTIONS
+
+HOW DOES AN ENGAGEMENT START?
+
+With a free fifteen-minute call. We map where AI actually helps you and where it will not, then scope the work on the spot if we are a fit.
+
+WHAT DOES IT COST?
+
+Enterprise engagements run from $15k to $50k and up, depending on scope. Advisory is a monthly retainer. You will know the number before any work begins.
+
+DO YOU WORK WITH NON-TECHNICAL TEAMS?
+
+Constantly. Most of the people we train have never written code. The point is to make Claude Code and Codex usable by the people who own the work.
+
+WHICH TOOLS DO YOU BUILD ON?
+
+Primarily Claude Code and Codex, wired into the systems you already run. We are tool-agnostic where it matters and opinionated where it counts.
+
+HOW FAST CAN WE START?
+
+Discovery this week, scoping the next. Implementation timelines depend on the state of your back of house, which is the first thing we audit.
+
+I / CONSULTING
+
+LET'S SCOPE IT.
+BOOK YOUR FREE 15-MINUTE CALL
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Consulting","item":"https://www.promptadvisers.com/consulting"}]}]
+[{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How does an engagement start?","acceptedAnswer":{"@type":"Answer","text":"With a free fifteen-minute call. We map where AI actually helps you and where it will not, then scope the work on the spot if we are a fit."}},{"@type":"Question","name":"What does it cost?","acceptedAnswer":{"@type":"Answer","text":"Enterprise engagements run from $15k to $50k and up, depending on scope. Advisory is a monthly retainer. You will know the number before any work begins."}},{"@type":"Question","name":"Do you work with non-technical teams?","acceptedAnswer":{"@type":"Answer","text":"Constantly. Most of the people we train have never written code. The point is to make Claude Code and Codex usable by the people who own the work."}},{"@type":"Question","name":"Which tools do you build on?","acceptedAnswer":{"@type":"Answer","text":"Primarily Claude Code and Codex, wired into the systems you already run. We are tool-agnostic where it matters and opinionated where it counts."}},{"@type":"Question","name":"How fast can we start?","acceptedAnswer":{"@type":"Answer","text":"Discovery this week, scoping the next. Implementation timelines depend on the state of your back of house, which is the first thing we audit."}}]}]
+

@@ -1,0 +1,75 @@
+URL: https://www.promptadvisers.com/app
+Fetched: 2026-10-26T03:45:02Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/app
+Content-Type: text/html
+Via: chrome-headless
+Title: The Prompt Advisers App | Prompt Advisers
+Meta description: What the Prompt Advisers application is, what it does with Google services, and who can use it.
+Canonical: https://www.promptadvisers.com/app
+Robots: 
+H1: THE PROMPT ADVISERS APP
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · SOFTWARE
+
+THE PROMPT ADVISERS APP
+
+LAST UPDATED JULY 11, 2026
+
+The Prompt Advisers app is first-party software built and operated by Prompt Advisers (datascience2go Inc.) to run our own business. It is the application named "Prompt Advisers" on the Google sign-in consent screen, and it connects only to Google accounts that belong to our team.
+
+What the app does
+
+The app automates the day-to-day operations behind promptadvisers.com through Google's official APIs.
+
+Advertising. It creates, manages, and reports on our own Google Ads campaigns through the Google Ads API.
+Analytics and search. It reads our Google Analytics and Search Console data to build private performance dashboards and a daily report for our team.
+Email and files. It drafts and organizes messages in our own Gmail and Google Workspace accounts and manages files in our own Google Drive.
+Who can use it
+
+Nobody outside our team. The app is internal, it is not distributed to the public, there is no sign-up, and it never connects to accounts we do not own. If you are not part of Prompt Advisers, there is nothing here to install or log into.
+
+How data is handled
+
+The app touches data in our own accounts only. Our use of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements. We do not sell data, and we do not use data obtained through Google APIs to train machine-learning models. The practices that govern this website and our tools are described in our privacy policy and terms and conditions.
+
+Contact
+
+Questions about the app or its use of Google services go to mark@promptadvisers.com, or use the contact page.
+
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"App","item":"https://www.promptadvisers.com/app"}]}]
+

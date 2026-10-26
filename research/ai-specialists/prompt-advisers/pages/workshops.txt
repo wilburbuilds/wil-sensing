@@ -1,0 +1,361 @@
+URL: https://www.promptadvisers.com/workshops
+Fetched: 2026-10-26T03:44:54Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/workshops
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Workshops & Claude Code Training for Teams | Prompt Advisers
+Meta description: Claude Code and Codex training for technical and non-technical teams, taught by the O'Reilly live-course instructor. Build your curriculum from a menu.
+Canonical: https://www.promptadvisers.com/workshops
+Robots: 
+H1: TURN YOUR TEAM INTO SHIPPERS.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · II / TRAINING
+
+TURN YOUR TEAM INTO SHIPPERS.
+BOOK THE FREE 15-MINUTE CALL
+SEND A NOTE INSTEAD
+
+86.1k
+
+YOUTUBE SUBSCRIBERS
+
+5
+
+O'REILLY LIVE COURSES
+
+1k+
+
+COMMUNITY MEMBERS
+
+500+
+
+BUSINESSES ADVISED
+
+THE PROGRAM
+
+No fixed calendar.
+
+Scoped to your company.
+
+Done when your team ships.
+
+Every engagement moves through the same four phases. Some teams run them in a few intensive weeks, others across a quarter. The program ends when shipping with AI is muscle memory, not on a date we picked in advance.
+
+II / THE ARC
+
+01
+FOUNDATIONS
+
+Claude Code and Codex as an operating system, not a chatbot. Everyone gets a workspace, the mental model, and a first real win before the first session ends.
+
+02
+FLUENCY
+
+Tasks pulled from your actual backlog. Every person on the team ships something that runs in front of a colleague, not a toy exercise.
+
+03
+WORKFLOWS
+
+We wire the tools into the work your team already does, from intake to review, so the AI lives inside the job instead of beside it.
+
+04
+AUTONOMY
+
+Delegation, review, and the guardrails that let agents run without becoming a liability. The team leaves able to teach the next hire.
+
+III / FORMATS
+
+01
+EXECUTIVE BRIEFING
+
+A half-day for leadership on what AI changes, what it does not, and where to place the first bets.
+
+02
+TEAM BOOTCAMP
+
+The full program. Technical and non-technical tracks in one shared workspace, shipping real work at your company's pace.
+
+03
+NON-TECHNICAL TEAMS
+
+Operations, marketing, and finance learn to delegate real tasks to Claude Code and Codex.
+
+04
+TRAIN THE TRAINER
+
+We leave an internal champion who can onboard every future hire without us.
+
+IV / FAIR GAME
+
+IF YOUR TEAM TOUCHES CLAUDE, IT’S FAIR GAME.
+
+Sixty-plus topics across eight tracks, from first prompts to production agent systems. Everything on the menu can shape your curriculum. Or take a track we already run.
+
+01
+AI FLUENCY FOR EVERYONE
+
+For every employee. No code required.
+
+What Claude can do
+Spotting AI mistakes
+Three-part prompts
+When to use AI, when not to
+Data privacy basics
+02
+PROMPT ENGINEERING
+
+Getting exactly what you want out of the model.
+
+Few-shot examples
+Chain-of-thought reasoning
+Fast prompt iteration
+Structured outputs
+Long-document handling
+Testing prompt quality
+Prompt caching
+03
+CLAUDE CODE FUNDAMENTALS
+
+The operating system, not the chatbot.
+
+Setup across IDE, CLI, and web
+File operations
+Artifacts and live preview
+The permission model
+Shell and terminal automation
+Git without breaking context
+Verify before deploy
+CLAUDE.md project config
+Settings and customization
+04
+AGENTS AND AUTOMATION
+
+Work that runs while your team does something else.
+
+Agent fundamentals
+Skills, built-in and custom
+Hooks and event triggers
+Custom tools
+Connecting MCP servers
+Headless Claude in CI/CD
+Subagents and delegation
+Agent memory
+Failure handling and retries
+05
+BUILDING ON THE API
+
+For teams shipping Claude inside their own product.
+
+The Messages API
+Tool calling
+Vision and multimodal
+Streaming responses
+Token budgeting
+Cost optimization
+Prompt caching at scale
+Monitoring in production
+Rate limits and scale
+06
+ADVANCED AGENT SYSTEMS
+
+Production-grade autonomy with guardrails.
+
+Plan mode and approval gates
+Multi-agent orchestration
+Database and system integration
+Persistent state
+Building MCP servers
+The Agent SDK
+Performance tuning
+Sandboxing and isolation
+07
+ENTERPRISE ROLLOUT
+
+Taking it across an organization safely.
+
+Enterprise and Teams setup
+Roles and access control
+Shared projects
+Cost tracking and chargeback
+Audit and compliance
+Security hardening
+Proving ROI
+Adoption and change management
+08
+CLAUDE EVERYWHERE
+
+Every surface Claude lives on.
+
+Claude on the web
+The desktop app
+The command line
+IDE extensions
+Claude in Slack
+Claude in Chrome
+Computer use
+
+OR TAKE A TRACK WE ALREADY RUN
+
+10 TOPICS · READS LIKE A HALF-DAY SESSION
+
+AI FLUENCY FOR THE WHOLE COMPANY
+
+A half-day primer for non-technical teams on what Claude does, prompt basics, and responsible use.
+
+13 TOPICS · READS LIKE A MULTI-DAY BOOTCAMP
+
+CLAUDE CODE BOOTCAMP FOR ENGINEERS
+
+Hands-on intensive. File operations, git, automation, and verification on your real codebase.
+
+10 TOPICS · READS LIKE A HALF-DAY SESSION
+
+AI STRATEGY FOR LEADERSHIP
+
+An executive briefing on capabilities, governance, security, and where to place the first bets.
+
+16 TOPICS · READS LIKE A MULTI-DAY BOOTCAMP
+
+AGENT ENGINEERING MASTERCLASS
+
+Autonomous agents, MCP servers, multi-agent systems, and production deployment patterns.
+
+13 TOPICS · READS LIKE A MULTI-DAY BOOTCAMP
+
+BUILDING PRODUCTS ON CLAUDE
+
+The API end to end. Tool use, vision, streaming, cost, and scale for teams shipping AI features.
+
+SCOPE IT ON A CALL
+
+Take one as-is, remix the menu, or hand us an outcome.
+
+V / ON THE PUBLIC RECORD
+
+The same material we teach privately runs as live courses on O’Reilly, in front of thousands of learners. Mark Kashef holds a master’s in AI from Queen’s University and has advised hundreds of businesses; your team learns from him directly, not a junior facilitator with a deck.
+
+CLAUDE CODE FOR EVERYONE
+
+Hands-on live course where non-coders ship real apps, dashboards, and automations.
+
+CLAUDE COWORK FOR EVERYONE
+
+Delegating real knowledge work to desktop AI agents.
+
+OPENCLAW, CLAUDE COWORK, AND CLAUDE CODE COMPARED
+
+A structured comparison of the three agentic assistants.
+
+WHAT CLIENTS SAY
+
+“To say Mark went "above and beyond" is an absolute understatement. I got way more than I paid for. I have some background with prompt engineering, but Mark blew my mind. He's incredibly knowledgeable in what he does.”
+
+VERIFIED CLIENT REVIEW
+
+“Mark did an amazing job and went well beyond what I asked for. He's not only brilliant, he wants to set you up for success, so he explains what he's doing and how you can replicate the results.”
+
+KATHY · VERIFIED CLIENT REVIEW
+
+“A top tier expert at prompt engineering. He not only provides you with well thought out prompts, he takes the time to explain the prompts and teaches you how to apply them.”
+
+VERIFIED CLIENT REVIEW
+
+VI / QUESTIONS
+
+HOW MUCH DOES TEAM TRAINING COST?
+
+It is scoped to your team, so pricing depends on headcount, format, and depth. A free fifteen minute call gives you a firm number and a plan. Most engagements run as a fixed program rather than an hourly rate, so you know the full cost before we start.
+
+WHO ARE THE BOOTCAMPS FOR?
+
+Whole teams, not just engineers. Technical and non-technical tracks run in one shared workspace, so operations, marketing, and finance learn to delegate real tasks to Claude Code and Codex alongside the builders.
+
+DO PEOPLE NEED TO KNOW HOW TO CODE?
+
+No. Most of the people we train have never written code. The tracks meet each group where they work, and everyone ships something real early in the program.
+
+WHAT DOES THE PROGRAM COVER?
+
+Four phases: foundations builds the operating-system mental model and a first win, fluency ships tasks from your actual backlog, workflows wires the tools into your existing processes, and autonomy covers delegation, review, and guardrails. The topic menu on this page is all fair game; we assemble the curriculum that fits your team.
+
+CAN THE TRAINING BE CUSTOMIZED TO OUR STACK AND CODEBASE?
+
+Yes, and that is the point. There is no canned curriculum. Tasks come from your actual backlog, the tools get wired into the workflows your team already runs, and examples use your stack so the skills transfer the moment the session ends.
+
+HOW LONG DOES IT TAKE?
+
+It depends on your team and your calendar. Some companies run the arc in a few intensive weeks, others spread it across a quarter. We scope the timeline on the free call and the program ends when shipping is muscle memory, not on a fixed date.
+
+WHO TEACHES THE PROGRAMS?
+
+Mark Kashef, founder of Prompt Advisers and the instructor behind five live O'Reilly courses on Claude Code and agentic workflows. He holds a master's in AI from Queen's University and has advised hundreds of businesses. Your team learns from him directly, not a junior facilitator.
+
+HOW DO WE START?
+
+A free fifteen minute call scopes the right format: executive briefing, team bootcamp, or train the trainer. You leave with a plan either way.
+
+II / TRAINING
+
+TRAIN YOUR TEAM.
+BOOK YOUR FREE 15-MINUTE CALL
+
+OR SEND A NOTE
+
+NAME
+WORK EMAIL
+COMPANY
+INTEREST
+Enterprise consulting
+MESSAGE
+Website
+SEND THE MESSAGE
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type= name="name" id="v6-name" label="NAME" placeholder="Jane Doe" aria="" required=true
+  - input type=email name="email" id="v6-email" label="WORK EMAIL" placeholder="jane@company.com" aria="" required=true
+  - input type= name="company" id="v6-company" label="COMPANY" placeholder="Company or team" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+  - textarea type= name="message" id="v6-message" label="MESSAGE" placeholder="What are you trying to build, and by when?" aria="" required=true
+  - input type=text name="website" id="v6-website" label="Website" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Workshops","item":"https://www.promptadvisers.com/workshops"}]}]
+[{"@context":"https://schema.org","@type":"Course","name":"Claude Code for Everyone","description":"Hands-on live course where non-coders ship real apps, dashboards, and automations.","url":"https://www.oreilly.com/live-events/claude-code-for-everyone/0642572274368/","provider":{"@type":"Organization","name":"O'Reilly Media"},"instructor":{"@id":"https://www.promptadvisers.com/#founder"},"hasCourseInstance":{"@type":"CourseInstance","courseMode":"Online","instructor":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef"}}},{"@context":"https://schema.org","@type":"Course","name":"Claude Cowork for Everyone","description":"Delegating real knowledge work to desktop AI agents.","url":"https://www.oreilly.com/live-events/claude-cowork-for-everyone/0642572349431/","provider":{"@type":"Organization","name":"O'Reilly Media"},"instructor":{"@id":"https://www.promptadvisers.com/#founder"},"hasCourseInstance":{"@type":"CourseInstance","courseMode":"Online","instructor":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef"}}},{"@context":"https://schema.org","@type":"Course","name":"OpenClaw, Claude Cowork, and Claude Code Compared","description":"A structured comparison of the three agentic assistants.","url":"https://www.oreilly.com/live-events/openclaw-claude-cowork-and-claude-code-compared/0642572365134/","provider":{"@type":"Organization","name":"O'Reilly Media"},"instructor":{"@id":"https://www.promptadvisers.com/#founder"},"hasCourseInstance":{"@type":"CourseInstance","courseMode":"Online","instructor":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef"}}}]
+[{"@context":"https://schema.org","@type":"Course","@id":"https://www.promptadvisers.com/workshops#training-course","name":"Claude Code Training for Teams","description":"Live, hands-on Claude Code training for your team, taught by the O'Reilly live-course instructor and scoped to your stack and real workflows.","url":"https://www.promptadvisers.com/workshops","provider":{"@id":"https://www.promptadvisers.com/#organization"},"instructor":{"@id":"https://www.promptadvisers.com/#founder"},"inLanguage":"en","teaches":["Claude Code","agentic AI workflows","AI-assisted software delivery","delegation and guardrails for AI agents"],"audience":{"@type":"Audience","audienceType":"Software and cross-functional teams adopting AI"},"hasCourseInstance":{"@type":"CourseInstance","courseMode":["online","onsite"],"courseWorkload":"PT8H","instructor":{"@id":"https://www.promptadvisers.com/#founder"}}},{"@context":"https://schema.org","@type":"Service","@id":"https://www.promptadvisers.com/workshops#training-service","serviceType":"Corporate Claude Code training","name":"Claude Code Training for Teams","provider":{"@id":"https://www.promptadvisers.com/#organization"},"areaServed":"Worldwide","url":"https://www.promptadvisers.com/workshops"}]
+[{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does team training cost?","acceptedAnswer":{"@type":"Answer","text":"It is scoped to your team, so pricing depends on headcount, format, and depth. A free fifteen minute call gives you a firm number and a plan. Most engagements run as a fixed program rather than an hourly rate, so you know the full cost before we start."}},{"@type":"Question","name":"Who are the bootcamps for?","acceptedAnswer":{"@type":"Answer","text":"Whole teams, not just engineers. Technical and non-technical tracks run in one shared workspace, so operations, marketing, and finance learn to delegate real tasks to Claude Code and Codex alongside the builders."}},{"@type":"Question","name":"Do people need to know how to code?","acceptedAnswer":{"@type":"Answer","text":"No. Most of the people we train have never written code. The tracks meet each group where they work, and everyone ships something real early in the program."}},{"@type":"Question","name":"What does the program cover?","acceptedAnswer":{"@type":"Answer","text":"Four phases: foundations builds the operating-system mental model and a first win, fluency ships tasks from your actual backlog, workflows wires the tools into your existing processes, and autonomy covers delegation, review, and guardrails. The topic menu on this page is all fair game; we assemble the curriculum that fits your team."}},{"@type":"Question","name":"Can the training be customized to our stack and codebase?","acceptedAnswer":{"@type":"Answer","text":"Yes, and that is the point. There is no canned curriculum. Tasks come from your actual backlog, the tools get wired into the workflows your team already runs, and examples use your stack so the skills transfer the moment the session ends."}},{"@type":"Question","name":"How long does it take?","acceptedAnswer":{"@type":"Answer","text":"It depends on your team and your calendar. Some companies run the arc in a few intensive weeks, others spread it across a quarter. We scope the timeline on the free call and the program ends when shipping is muscle memory, not on a fixed date."}},{"@type":"Question","name":"Who teaches the programs?","acceptedAnswer":{"@type":"Answer","text":"Mark Kashef, founder of Prompt Advisers and the instructor behind five live O'Reilly courses on Claude Code and agentic workflows. He holds a master's in AI from Queen's University and has advised hundreds of businesses. Your team learns from him directly, not a junior facilitator."}},{"@type":"Question","name":"How do we start?","acceptedAnswer":{"@type":"Answer","text":"A free fifteen minute call scopes the right format: executive briefing, team bootcamp, or train the trainer. You leave with a plan either way."}}]}]
+

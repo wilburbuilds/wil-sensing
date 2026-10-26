@@ -1,0 +1,143 @@
+URL: https://www.promptadvisers.com/openai-decisions-api
+Fetched: 2026-10-26T03:45:07Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/openai-decisions-api
+Content-Type: text/html
+Via: chrome-headless
+Title: OpenAI Decisions API vs Jev: Cost, Speed, Accuracy
+Meta description: OpenAI Decisions API vs Jev, tested head to head on cost, speed, and accuracy. See which classifier wins for your use case. Watch the demos.
+Canonical: https://www.promptadvisers.com/openai-decisions-api
+Robots: 
+H1: OpenAI Decisions API vs Jev: Cost, Speed, Accuracy
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TOOL REVIEWS
+
+OpenAI Decisions API vs Jev: Cost, Speed, Accuracy
+
+OpenAI Decisions API vs Jev, tested head to head on cost, speed, and accuracy. See which classifier wins for your use case. Watch the demos.
+
+MARK KASHEF
+OCTOBER 9, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+The OpenAI Decisions API is a classifier service that takes text or an image, a question, and a set of allowed answers, then returns one answer with a confidence score. It launched the same day I recorded this, and it is OpenAI's take on Jev. I ran both through the same demos to compare cost, speed, and accuracy.
+
+TL;DR
+
+The Decisions API costs 10 cents per million input tokens, while Jev costs $0.042 per million, which makes Jev about 58 percent cheaper.
+The Decisions API takes images and text. Jev takes text only as of this recording.
+On report verification, the average call took 146 milliseconds on OpenAI and 155 on Jev, and both got every answer right.
+Pick Jev for cost at scale, and pick the Decisions API when you need images or slightly faster calls.
+How the OpenAI Decisions API Actually Works
+
+You send evidence and a question, and the API picks from the answers you define. Here is the part that surprised me. It is not a specialized model, it runs on GPT-6 Luna.
+
+WATCH ON YOUTUBE
+
+There are three question types. The first is true or false. OpenAI calls this a predicate, and Jev calls it a Noul. The second is multiple choice. The third is a how much question, where you hand it a rubric and it picks the right level.
+
+Want more hands-on tool comparisons like this one? Join Early AI-dopters, 1,000+ people mastering Claude Code and Codex.
+
+JOIN EARLY AI-DOPTERS
+
+Every question has three parts: the model, the evidence, and the judgment to make. The fastest way to try it is to feed the Decisions API docs to Codex, Claude, or Gemini and add your API key. Say you run an e-commerce shop and want to sort return complaints. You pick the choice type, write the instructions, and offer three options: damaged, no damage reported, or not enough information. It comes back with a confidence percentage.
+
+OpenAI Decisions API vs Jev: What Is Different?
+
+The big differences are images, price, and refusals. Everything else is close to identical. Here is the side-by-side from my notes.
+
+FEATURE	DECISIONS API	JEV
+Evidence	Text and images	Text only
+Answer types	Yes/no, choice, score	Yes/no, choice, score
+Input price	$0.10 per million tokens	$0.042 per million tokens
+Refusals	Can refuse a question	Always answers within your options
+Average speed	Slightly faster	Slightly slower
+
+The winner depends on your use case. If you need images, you only have one option. If you classify millions of text records, the price gap adds up. My guess is that the refusal rule exists to curb abuse around image understanding. If you want the full background on the other side, read my Jev AI use cases breakdown.
+
+Can the Decisions API Judge Photos?
+
+Yes, and it did it fast. I fed it three photos and asked it to tag each as visible damage, no visible damage, or cannot assess.
+
+It got all three right. The broken device came back as visible damage. The clean device came back as no visible damage. The closed package took a little longer, but it correctly said it could not assess. Cost per request was tiny at this scale. I could not run the same test on Jev because it cannot read images.
+
+Which Is Faster and Cheaper in Real Tests?
+
+Jev won on cost every time, and the Decisions API was slightly faster on average. I ran an outage investigation with five possible culprits: website, payments, authorization, database, or provider. I gave both services the same question, evidence, and options.
+
+Results were close. Checkout failures took 165 milliseconds on one and 144 on the other. Another run was 198 versus 134. On the deeper investigation mode, both reached the same conclusion. Across the full outage test, the average speed was 181 versus 143 milliseconds, and Jev cost almost half as much.
+
+On report verification, I checked five claims across three reports. Both agreed 100 percent. The biggest variance was around 50 milliseconds. Jev's average call was 155 milliseconds versus 146 for OpenAI, and the cost was 40 to 50 percent cheaper on Jev.
+
+Which One Should You Pick?
+
+Pick Jev if you want the cheapest option at scale, and pick the Decisions API if you need images or the faster average call. Accuracy was a tie. Median speed on the investigation test went to Jev.
+
+The honest con is my sample size. At tens of thousands of requests, the difference is hard to feel. It starts to matter at millions of records. If you want to skip both and train your own, I walked through how to build your own jev with claude opus. If you want a coding agent to wire it up for you, Codex or Claude Code can read the docs and build the integration.
+
+Final Thoughts from Mark
+
+Classifier APIs are becoming a normal part of the stack, and the price gap will probably narrow. I will keep testing as both services change and report back if anything material shifts. For now, match the tool to the job.
+
+OpenAI Decisions API FAQs
+
+What is the OpenAI Decisions API?
+
+It is OpenAI's classifier service. You send text or an image, ask a yes or no question, a multiple choice question, or a how much question with a rubric, and it returns an answer your app can use, plus a confidence score. It runs on GPT-6 Luna under the hood.
+
+Is the OpenAI Decisions API cheaper than Jev?
+
+No. In my testing, the Decisions API costs 10 cents per million input tokens, while Jev costs $0.042 per million. That makes Jev about 58 percent cheaper on paper. In my hands-on runs, Jev came in roughly 40 to 50 percent cheaper per test.
+
+Can the OpenAI Decisions API read images?
+
+Yes. It takes both text and images, so it is a multimodal classifier. Jev only takes text today. In my demo, it tagged device photos as visible damage, no visible damage, or cannot assess, and got all three right.
+
+Which is faster, the Decisions API or Jev?
+
+The Decisions API was slightly faster on average. On report verification, the average call was 146 milliseconds versus 155 for Jev. On the outage test, it was 143 versus 181. Jev had the faster median on the investigation test.
+
+Which classifier is more accurate?
+
+It was a tie in my tests. Both models agreed on every report claim and reached the same conclusion on the outage scenarios. The questions were not very hard, so harder edge cases could still separate them.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/openai-decisions-api#article","headline":"OpenAI Decisions API vs Jev: Cost, Speed, Accuracy","description":"OpenAI Decisions API vs Jev, tested head to head on cost, speed, and accuracy. See which classifier wins for your use case. Watch the demos.","image":["https://www.promptadvisers.com/blog/openai-decisions-api/openai-decisions-api-hero.webp"],"datePublished":"2026-10-09T00:00:00-05:00","dateModified":"2026-10-09T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/openai-decisions-api","keywords":"OpenAI Decisions API, Decisions API vs Jev, AI classifier API, GPT-6 Luna classifier, Jev alternative","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"OpenAI Decisions API vs Jev: Cost, Speed, Accuracy","description":"OpenAI Decisions API vs Jev, tested head to head on cost, speed, and accuracy. See which classifier wins for your use case. Watch the demos.","thumbnailUrl":["https://i.ytimg.com/vi/uTU5Ihgl_7Q/maxresdefault.jpg"],"uploadDate":"2026-10-09T00:00:00-05:00","duration":"PT9M40S","contentUrl":"https://www.youtube.com/watch?v=uTU5Ihgl_7Q","embedUrl":"https://www.youtube-nocookie.com/embed/uTU5Ihgl_7Q","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the OpenAI Decisions API?","acceptedAnswer":{"@type":"Answer","text":"It is OpenAI's classifier service. You send text or an image, ask a yes or no question, a multiple choice question, or a how much question with a rubric, and it returns an answer your app can use, plus a confidence score. It runs on GPT-6 Luna under the hood."}},{"@type":"Question","name":"Is the OpenAI Decisions API cheaper than Jev?","acceptedAnswer":{"@type":"Answer","text":"No. In my testing, the Decisions API costs 10 cents per million input tokens, while Jev costs $0.042 per million. That makes Jev about 58 percent cheaper on paper. In my hands-on runs, Jev came in roughly 40 to 50 percent cheaper per test."}},{"@type":"Question","name":"Can the OpenAI Decisions API read images?","acceptedAnswer":{"@type":"Answer","text":"Yes. It takes both text and images, so it is a multimodal classifier. Jev only takes text today. In my demo, it tagged device photos as visible damage, no visible damage, or cannot assess, and got all three right."}},{"@type":"Question","name":"Which is faster, the Decisions API or Jev?","acceptedAnswer":{"@type":"Answer","text":"The Decisions API was slightly faster on average. On report verification, the average call was 146 milliseconds versus 155 for Jev. On the outage test, it was 143 versus 181. Jev had the faster median on the investigation test."}},{"@type":"Question","name":"Which classifier is more accurate?","acceptedAnswer":{"@type":"Answer","text":"It was a tie in my tests. Both models agreed on every report claim and reached the same conclusion on the outage scenarios. The questions were not very hard, so harder edge cases could still separate them."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"OpenAI Decisions API vs Jev: Cost, Speed, Accuracy","item":"https://www.promptadvisers.com/openai-decisions-api"}]}]
+

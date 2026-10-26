@@ -1,0 +1,140 @@
+URL: https://www.promptadvisers.com/gpt-6-astra-computer-use
+Fetched: 2026-10-26T03:45:16Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/gpt-6-astra-computer-use
+Content-Type: text/html
+Via: chrome-headless
+Title: GPT-6 Astra Computer Use: 5 Real Workflows That Work
+Meta description: GPT-6 Astra computer use turns screen control into reusable workflows, from flight CLIs to Instagram setup, without an API.
+Canonical: https://www.promptadvisers.com/gpt-6-astra-computer-use
+Robots: 
+H1: GPT-6 Astra Computer Use: 5 Real Workflows That Work
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+GPT-6 Astra Computer Use: 5 Real Workflows That Work
+
+GPT-6 Astra computer use turns screen control into reusable workflows, from flight CLIs to Instagram setup, without an API.
+
+MARK KASHEF
+SEPTEMBER 6, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+GPT-6 Astra computer use lets the model see your screen and click through any app the same way you would, no API required. OpenAI shipped Astra on September 3, 2026, with computer use nearly twice as fast as before. Mark Kashef spent the days after release testing it against five real workflows, from booking flights to setting up a brand-new Instagram account.
+
+TL;DR
+
+A computer-use session built a reusable flight-search CLI that cut task time by 50 to 70 percent versus plain browser control (77 seconds to 23, and 50 seconds to 25).
+Astra can open Claude Desktop, connect to an MCP server, run a full test conversation, then flag inefficient code behind a slow tool call.
+One Astra agent audited another AI app's own computer-use feature, found it failing on a smaller-context model, and could have looped fixes on its own.
+Through Apple's iPhone Mirroring app, Astra took control of a real iPhone and reconfigured Instagram settings for a new account in five minutes.
+How GPT-6 Astra Computer Use Actually Works
+
+GPT-6 Astra computer use works by giving the model direct control of a screen, desktop or mobile, so it can operate any interface without a backend API. Computer use is not new. What changed with Astra is speed and reliability, especially in high mode.
+
+WATCH ON YOUTUBE
+
+The real value is not doing a task once. It is watching Astra do it once, then turning that session into a reusable script for a cheaper model to run later. Mark's example: a Google Flights search that becomes a command-line tool once Astra reverse-engineers its own steps.
+
+Join Early AI-dopters, 1,000+ people mastering Claude Code and Codex. Mark breaks down all five workflows in more depth inside the community.
+
+Turning a Flight Search Into a Reusable CLI
+
+A computer-use session can watch itself work, then write a command-line tool that repeats the job without a browser. Mark asked Astra to build a reusable flight-search CLI for Toronto to Sydney, then pushed further by asking whether it could handle any route, including multi-city trips that sometimes beat a direct flight. He then tested the CLI against plain computer use on two routes.
+
+ROUTE	VANILLA COMPUTER USE	REUSABLE CLI	TIME SAVED
+Toronto to Lisbon	77 seconds	23 seconds	~70%
+Toronto to Seoul	50 seconds	25 seconds	~50%
+
+The pattern applies past travel. Any site without an API can go through this loop: use Astra once to learn it, then hand the CLI to a cheaper model for every run after.
+
+How Do You Test an MCP Server With Computer Use?
+
+You test an MCP server by having Astra open Claude Desktop and run the conversation a new user would have. Building an MCP is easy. Watching a stranger connect it the first time is hard, and most builders skip it.
+
+Mark pointed Astra at his own community MCP, told it to find a lesson on building MCPs and check a claim against the source. Astra opened the app, watched the tool calls fire, then came back 20 minutes later with feedback and a note that one function was adding latency. The same approach checks whether a Codex skill behaves the same once ported to Claude.
+
+Can Astra Debug Its Own App's Computer Use?
+
+Yes, one Astra agent can audit another AI app's computer-use feature and catch where it fails. Mark ran this on Grokky, his own Grok Bot alternative, where computer use was the weakest feature since teaching a fresh agent to browse well is hard.
+
+He asked Astra to open Grokky, trigger its computer-use feature on a Google Flights search, and watch through the app's debug panel. The test failed: Grokky's model had too small a context window and no compaction step, so it lost track mid-task. Set as a background goal, Astra could have kept adjusting and redeploying the code until it passed.
+
+Automating Video Exports and Handoffs
+
+Computer use can babysit a long export, then carry the finished file through an editing handoff without you touching a keyboard. Mark renders his videos in 4K, which can take up to four hours. He built a workflow where Astra checks the render every 30 minutes, then opens Descript, uploads the video, and sends a detailed prompt to clean up stutters and dead air.
+
+Astra waits for the response, clicks through the timeline frame by frame to catch anything odd, exports in 4K, confirms the export finished, and uploads it to Google Drive for his editing team. Descript already has a command-line interface that gets you 80% of the way. Computer use covers what only exists inside the app window.
+
+Does Computer Use Work on Your Phone, Too?
+
+Yes, through Apple's iPhone Mirroring app, Astra can take control of a real iPhone from a Mac and operate it directly. Mark used this on a brand-new Instagram account, asking Astra to toggle every setting a new creator should have on, without sending messages or anything destructive.
+
+Astra opened iPhone Mirroring, found Instagram unprompted, confirmed the right account, and worked through settings like media quality on its own. Five minutes later it returned a full checklist of what it changed, a pattern that extends to any app with no desktop version at all.
+
+Mark's Final Thoughts
+
+None of these five workflows needed an API or custom code, just one clear prompt and a model fast enough to make computer use practical instead of a novelty. Astra is the first version where that holds up across a full day of real use. If your team wants help wiring workflows like these onto tools with no API, that is the work we do in enterprise AI consulting.
+
+GPT-6 Astra Computer Use FAQs
+
+What is GPT-6 Astra computer use?
+
+OpenAI's upgraded screen-control feature, where Astra clicks through a real interface, desktop or mobile, the same way a person would. It existed in earlier form for over a year, but Astra on high mode makes it fast enough for repeatable workflows.
+
+Do I need an API to use GPT-6 Astra computer use?
+
+No, that is the point. Computer use is built for apps and sites with no API or connector, like a flight search site or a phone-only app. Astra clicks through the interface instead of calling a backend.
+
+Can GPT-6 Astra control my phone, not just my computer?
+
+Yes. Through Apple's iPhone Mirroring app on a Mac, Astra can take control of your phone screen, open apps, and change settings, the same way it operates a desktop browser.
+
+Is GPT-6 Astra computer use faster than the older version?
+
+In Mark's flight-search test, a reusable CLI built on a computer-use session cut task time by 50 to 70 percent versus plain browser control. Fast mode also makes single runs feel closer to instant.
+
+Can computer use test my own app or MCP server?
+
+Yes. Astra can open Claude Desktop or Claude Code, connect to an MCP server, and run a back-and-forth conversation to check the experience a new user would have, flagging inefficient code behind a slow tool call.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/gpt-6-astra-computer-use#article","headline":"GPT-6 Astra Computer Use: 5 Real Workflows That Work","description":"GPT-6 Astra computer use turns screen control into reusable workflows, from flight CLIs to Instagram setup, without an API.","image":["https://www.promptadvisers.com/blog/gpt-6-astra-computer-use/gpt-6-astra-computer-use-hero.webp"],"datePublished":"2026-09-06T00:00:00-05:00","dateModified":"2026-09-06T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/gpt-6-astra-computer-use","keywords":"GPT-6 Astra computer use, Codex computer use, AI computer use automation, OpenAI computer use agent, computer use examples","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"GPT-6 Astra Computer Use: 5 Real Workflows That Work","description":"GPT-6 Astra computer use turns screen control into reusable workflows, from flight CLIs to Instagram setup, without an API.","thumbnailUrl":["https://i.ytimg.com/vi/tU-fO6cADvQ/maxresdefault.jpg"],"uploadDate":"2026-09-05T00:00:00-05:00","duration":"PT16M53S","contentUrl":"https://www.youtube.com/watch?v=tU-fO6cADvQ","embedUrl":"https://www.youtube-nocookie.com/embed/tU-fO6cADvQ","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is GPT-6 Astra computer use?","acceptedAnswer":{"@type":"Answer","text":"OpenAI's upgraded screen-control feature, where Astra clicks through a real interface, desktop or mobile, the same way a person would. It existed in earlier form for over a year, but Astra on high mode makes it fast enough for repeatable workflows."}},{"@type":"Question","name":"Do I need an API to use GPT-6 Astra computer use?","acceptedAnswer":{"@type":"Answer","text":"No, that is the point. Computer use is built for apps and sites with no API or connector, like a flight search site or a phone-only app. Astra clicks through the interface instead of calling a backend."}},{"@type":"Question","name":"Can GPT-6 Astra control my phone, not just my computer?","acceptedAnswer":{"@type":"Answer","text":"Yes. Through Apple's iPhone Mirroring app on a Mac, Astra can take control of your phone screen, open apps, and change settings, the same way it operates a desktop browser."}},{"@type":"Question","name":"Is GPT-6 Astra computer use faster than the older version?","acceptedAnswer":{"@type":"Answer","text":"In Mark's flight-search test, a reusable CLI built on a computer-use session cut task time by 50 to 70 percent versus plain browser control. Fast mode also makes single runs feel closer to instant."}},{"@type":"Question","name":"Can computer use test my own app or MCP server?","acceptedAnswer":{"@type":"Answer","text":"Yes. Astra can open Claude Desktop or Claude Code, connect to an MCP server, and run a back-and-forth conversation to check the experience a new user would have, flagging inefficient code behind a slow tool call."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"GPT-6 Astra Computer Use: 5 Real Workflows That Work","item":"https://www.promptadvisers.com/gpt-6-astra-computer-use"}]}]
+

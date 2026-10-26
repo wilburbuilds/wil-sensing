@@ -1,0 +1,138 @@
+URL: https://www.promptadvisers.com/fable-5-1-system-prompt
+Fetched: 2026-10-26T03:45:17Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/fable-5-1-system-prompt
+Content-Type: text/html
+Via: chrome-headless
+Title: Fable 5.1 System Prompt Leak: What Actually Changed
+Meta description: The Fable 5.1 system prompt leak shows 46 tools, up from 18, plus a rebuilt memory system. Here's what changed and if it's worth switching.
+Canonical: https://www.promptadvisers.com/fable-5-1-system-prompt
+Robots: 
+H1: Fable 5.1 System Prompt Leak: What Actually Changed
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI NEWS
+
+Fable 5.1 System Prompt Leak: What Actually Changed
+
+The Fable 5.1 system prompt leak shows 46 tools, up from 18, plus a rebuilt memory system. Here's what changed and if it's worth switching.
+
+MARK KASHEF
+SEPTEMBER 3, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+The Fable 5.1 system prompt leaked within an hour of release and runs close to 40,000 words, 2.3 times the size of Fable 5's. The bigger story is that tool references jumped from 18 to 46, mostly to support a rebuilt memory system and a new way of packaging answers. Here's what changed, and whether it's worth building around.
+
+TL;DR
+
+The leaked Fable 5.1 system prompt runs about 40,000 words, up from roughly 17,500 in Fable 5, a 2.3x jump.
+Tool references jumped from 18 to 46, a 2.6x increase, with more than six tools dedicated to memory alone.
+Memory now compartmentalizes into normal, sensitive, and banned categories, so health details or self-harm mentions get handled differently or never stored.
+Anthropic's public system prompt PDF is only about 10 percent of the full runtime prompt, according to the researcher who leaked it.
+How Big Is the Fable 5.1 System Prompt, Really?
+
+The leaked Fable 5.1 system prompt is roughly 40,000 words, more than double Fable 5's approximately 17,500, based on the version AI jailbreak researcher Pliny published within an hour of Fable 5.1's launch.
+
+WATCH ON YOUTUBE
+
+The file itself isn't the scandal some made it out to be. Anthropic already publishes a version of its system prompts on its own site, but the researcher points out that the public PDF is closer to 10 percent of the real runtime prompt, which he estimates runs near 300,000 characters once every tool gets counted. The published core covers behavior, safety, and tone, while the fuller runtime version adds memory handling, artifact navigation, and every tool listed below. Some coverage has conflated this leak with the earlier Fable 5 one, worth knowing before you read other takes.
+
+I break down leaks like this one first inside Early AI-dopters, 1,000+ people mastering Claude Code and Codex.
+
+JOIN EARLY AI-DOPTERS
+Why Did the Tool Count Jump From 18 to 46?
+
+Tool references jumped from 18 to 46 because Anthropic layered new services around the model instead of only training a smarter one, a 2.6x increase that outpaces the 2.3x growth in word count.
+
+More than six new tools handle memory alone: memory list, memory read, and memory write among them. Past chat handling got three dedicated tools, replacing a single vague instruction to "search and reference past chats." A newer category covers how answers get displayed, chart and card display, so Claude can hand back a chart instead of another wall of text. A few oddballs stand out: a tool that closes an unsafe session, one that triggers deeper research on its own, and one that suggests skills or plugins for your task.
+
+How Does Fable 5.1's Memory System Actually Work?
+
+Fable 5.1 reaches backward two ways: past chat search, and a newer curated memory system that files information by category instead of one bucket.
+
+Writing style notes and evolving project details merge into your normal, global memory across sessions. Health details and religion get tagged as sensitive, meaning they rarely get pulled into a conversation unless the topic is clearly related. A separate banned list covers credit card numbers or self-harm mentions, which never land in memory at all. The system is also better at classifying which category a new memory belongs to in the first place.
+
+Is Fable 5.1 Actually Smarter, or Just Better Packaged?
+
+Fable 5.1 does score higher on Anthropic's benchmarks, with the biggest jumps in agentic science and business workflows, but those numbers compare against a version of Fable 5 that got walked back after release, not the model at full strength.
+
+	FABLE 5	FABLE 5.1
+System prompt size	~17,500 words	~40,000 words
+Tools/functions referenced	18	46
+Memory system	Basic past chat search	Curated memory + past chat search
+Answer packaging	Mostly text	Charts, cards, quizzes, translation
+Biggest benchmark gains	n/a	Agentic science, business workflows
+
+Thirteen of the new tools exist purely to change how Claude communicates a result, not to make the reasoning better. Instead of another eight-paragraph essay, it can choose a chart, a comparison card, or a quiz to check your understanding. That's a real improvement, but it's packaging, not raw intelligence, worth knowing before crediting a better answer to a smarter model.
+
+Should You Switch to Fable 5.1?
+
+If you're already running Fable 5, moving to 5.1 costs you almost nothing and picks up harness-level gains that aren't exclusive to the new model. I'll run it on low reasoning most of the time, the same approach I use across AI reasoning effort levels, since the packaging gains show up regardless of effort.
+
+It's also worth retesting models you gave up on. Memory tools and chart display look like they live in the surrounding harness rather than being trained into the model, the same layered structure I mapped out in agentic OS. Models you wrote off after a bad session might already have quiet access to these upgrades. If you're still working through the access changes around Claude Fable 5, none of that changes here, this is a tooling upgrade on the same subscription rules.
+
+Mark's Final Thoughts
+
+The benchmark story and the system prompt story are two different upgrades wearing the same version number. One is genuine model improvement, the other a bigger harness doing more work behind the scenes, and only one is unique to Fable 5.1. Expect more of this pattern as providers compete on tooling as much as raw weights.
+
+Fable 5.1 System Prompt FAQs
+
+Is the Fable 5.1 system prompt leak real?
+
+It looks legitimate but is unverified. Researcher Pliny published it within an hour of Fable 5.1's September 1, 2026 release, matching his earlier Fable 5 leak. Anthropic has not confirmed or denied the exact contents, so treat the specifics as credible but unofficial.
+
+How much bigger is Fable 5.1's system prompt than Fable 5's?
+
+Roughly 2.3 times bigger. Fable 5's leaked prompt ran about 17,500 words, and the Fable 5.1 version runs close to 40,000. Most of that growth covers a rebuilt memory system and a longer tool list, not new safety or tone rules.
+
+Does Fable 5.1 have more tools than Fable 5?
+
+Yes, by a wide margin. The leaked prompt references 46 tools, up from 18 in Fable 5, a 2.6x jump. More than six handle memory alone, with others covering past chat search, chart display, research routing, and skill suggestions.
+
+What is Claude's curated memory system?
+
+Curated memory sorts what Claude remembers into categories instead of one flat file. Writing style and project details merge into normal memory, health and religion get tagged as sensitive and rarely invoked, and things like credit card numbers or self-harm mentions sit on a banned list that never gets stored.
+
+Should I switch to Fable 5.1 from Fable 5?
+
+If you already use Fable 5, moving to 5.1 is close to a free upgrade since the harness improvements likely apply broadly. Mark plans to run it on low reasoning by default, since the benchmark gains lean more on packaging and tooling than raw intelligence.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/fable-5-1-system-prompt#article","headline":"Fable 5.1 System Prompt Leak: What Actually Changed","description":"The Fable 5.1 system prompt leak shows 46 tools, up from 18, plus a rebuilt memory system. Here's what changed and if it's worth switching.","image":["https://www.promptadvisers.com/blog/fable-5-1-system-prompt/fable-5-1-system-prompt-hero.webp"],"datePublished":"2026-09-03T00:00:00-05:00","dateModified":"2026-09-03T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/fable-5-1-system-prompt","keywords":"Fable 5.1 system prompt, Fable 5.1 vs Fable 5, Claude memory tools, Fable 5.1 tools list","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Fable 5.1 System Prompt Leak: What Actually Changed","description":"The Fable 5.1 system prompt leak shows 46 tools, up from 18, plus a rebuilt memory system. Here's what changed and if it's worth switching.","thumbnailUrl":["https://i.ytimg.com/vi/cHVB2e-V80Y/maxresdefault.jpg"],"uploadDate":"2026-09-02T00:00:00-05:00","duration":"PT12M50S","contentUrl":"https://www.youtube.com/watch?v=cHVB2e-V80Y","embedUrl":"https://www.youtube-nocookie.com/embed/cHVB2e-V80Y","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is the Fable 5.1 system prompt leak real?","acceptedAnswer":{"@type":"Answer","text":"It looks legitimate but is unverified. Researcher Pliny published it within an hour of Fable 5.1's September 1, 2026 release, matching his earlier Fable 5 leak. Anthropic has not confirmed or denied the exact contents, so treat the specifics as credible but unofficial."}},{"@type":"Question","name":"How much bigger is Fable 5.1's system prompt than Fable 5's?","acceptedAnswer":{"@type":"Answer","text":"Roughly 2.3 times bigger. Fable 5's leaked prompt ran about 17,500 words, and the Fable 5.1 version runs close to 40,000. Most of that growth covers a rebuilt memory system and a longer tool list, not new safety or tone rules."}},{"@type":"Question","name":"Does Fable 5.1 have more tools than Fable 5?","acceptedAnswer":{"@type":"Answer","text":"Yes, by a wide margin. The leaked prompt references 46 tools, up from 18 in Fable 5, a 2.6x jump. More than six handle memory alone, with others covering past chat search, chart display, research routing, and skill suggestions."}},{"@type":"Question","name":"What is Claude's curated memory system?","acceptedAnswer":{"@type":"Answer","text":"Curated memory sorts what Claude remembers into categories instead of one flat file. Writing style and project details merge into normal memory, health and religion get tagged as sensitive and rarely invoked, and things like credit card numbers or self-harm mentions sit on a banned list that never gets stored."}},{"@type":"Question","name":"Should I switch to Fable 5.1 from Fable 5?","acceptedAnswer":{"@type":"Answer","text":"If you already use Fable 5, moving to 5.1 is close to a free upgrade since the harness improvements likely apply broadly. Mark plans to run it on low reasoning by default, since the benchmark gains lean more on packaging and tooling than raw intelligence."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Fable 5.1 System Prompt Leak: What Actually Changed","item":"https://www.promptadvisers.com/fable-5-1-system-prompt"}]}]
+

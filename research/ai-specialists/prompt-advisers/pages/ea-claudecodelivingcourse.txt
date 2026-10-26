@@ -1,0 +1,348 @@
+URL: https://ea-claudecodelivingcourse.vercel.app/
+Fetched: 2026-10-26T03:50:35Z
+HTTP status: 200
+Final URL: https://ea-claudecodelivingcourse.vercel.app/
+Content-Type: text/html
+Via: chrome-headless
+Title: Living Claude Code Course · Early AI-dopters
+Meta description: 50+ lessons on Claude Code. Updated every week as the model evolves. By Early AI-dopters.
+Canonical: 
+Robots: 
+H1: LIVING COURSE
+
+✦
+BUNDLED · $77/MO
+Grab ClaudeClaw + 1:1 coaching
+Join the community
+JUST SHIPPED
+Collaborating in Google Docs
+UP NEXT
+Loop Engineering
+INCLUDES
+61
+LESSONS
+CLAUDECLAW
+OS
+3
+1:1 COACHES
+WEEKLY
+UPDATES
+Claude Code
+LIVING COURSE
+
+UPDATED WEEKLY
+
+JUMP TO
+01
+Magic Course
+02
+Beginner → Intermediate
+03
+Second Brain
+04
+Teach Claude
+05
+Skills & Systems
+06
+Github 101
+WHAT YOU GET
+Three reasons it works.
+
+No theory. No 90-minute lectures. Every lesson is a real workflow you can clone, ship, and adapt.
+
+01 / Always current
+Updated weekly.
+
+When Claude 4.7 dropped, the walkthrough was inside within 24 hours. The curriculum keeps pace with Anthropic's release schedule.
+
+02 / Real systems
+Working code, not slides.
+
+Every Skill, MCP, and hook ships as a working artifact in the community vault. Clone, rip apart, remix.
+
+03 / 1:1 coaching
+3 coaches. Book any time.
+
+Three Claude Code coaches available for 1:1 calls, included in your $77/mo membership. Get unstuck, pressure-test your build, or pair on a real problem.
+
+CURRICULUM
+6 modules. 61 lessons.
+
+This is what's already inside, on day one. Every week adds more. These are your foundations.
+
+01
+MODULE 1 · 32 LESSONS
+🔮 Claude Code Magic Course
+01
+Advice for Non-Techies Before Starting
+02
+Live in the Future, It's Easier
+VIDEO
+03
+The Mental Model That Changes Everything
+VIDEO
+04
+What Claude Code Actually Does
+VIDEO
+05
+Using the Claude Ecosystem
+VIDEO
+06
+GUI vs CLI (Why the Terminal Matters)
+VIDEO
+07
+The Full Stack (API, CLI, MCP, Skills)
+VIDEO
+08
+From API to CLI in Five Minutes
+VIDEO
+09
+Context Engineering (The Concepts)
+VIDEO
+10
+Context Engineering (Applied)
+VIDEO
+11
+Executing Context Isolation
+VIDEO
+12
+Executing Subagent Patterns
+VIDEO
+13
+Frameworks vs Vanilla Approach
+VIDEO
+14
+Build Your Own Plan Mode
+VIDEO
+15
+Why HTML > Markdown for Planning
+VIDEO
+16
+The Meta Skill (Gemini Video)
+VIDEO
+17
+Create Your Own AI tutorials (Hyperframes)
+VIDEO
+18
+Dealing with Large Codebases
+VIDEO
+19
+Intro to Hooks 101
+VIDEO
+20
+Using Hooks Tactically
+VIDEO
+21
+Using Hooks For Memory Injection
+VIDEO
+22
+How to Skillchain Like A Pro
+VIDEO
+23
+Creating Your Own Agentic Harness
+VIDEO
+24
+Opus 4.7 Walkthrough (How to Assess)
+VIDEO
+25
+Master Claude Design
+VIDEO
+26
+Creating a Claude + Codex Command
+VIDEO
+27
+Using Claude for Data Engineering
+VIDEO
+28
+A Full Overview on Fable 5
+VIDEO
+29
+Build Light Mobile Apps (PWA)
+VIDEO
+30
+AI OS Engineering Masterclass
+VIDEO
+31
+Wargaming with Powerful Models
+VIDEO
+32
+How to Give Inline Feedback to CC
+VIDEO
+02
+MODULE 2 · 11 LESSONS
+✴️ Beginner to Intermediate Course
+01
+1) Getting Started & Environment Setup
+VIDEO
+02
+2) Slash Commands
+VIDEO
+03
+3) The Core Workflow
+VIDEO
+04
+4) MCPs (Model Context Protocol)
+VIDEO
+05
+5) Skills
+VIDEO
+06
+6) Sub-Agents
+VIDEO
+07
+7) Security Essentials with Hooks
+VIDEO
+08
+8) GitHub Integration and Mobile Workflows
+VIDEO
+09
+9) Validation and Visual Verification
+VIDEO
+10
+10) Tips, Tricks, and Power User Shortcuts
+VIDEO
+11
+Capstone Project - The Legendary Live Build
+VIDEO
+03
+MODULE 3 · 1 LESSONS
+🧠 Build Your Second Brain
+01
+Full Obsidian Setup Walkthrough and Resource
+04
+MODULE 4 · 2 LESSONS
+👨🏽‍🏫 How to Teach Claude to Anyone
+01
+My Best Walkthrough on Teaching Claude to Anyone
+02
+Exhibit A of the Demand for Claude Education
+05
+MODULE 5 · 11 LESSONS
+🎁 Claude Code Systems/Skills
+01
+ASCII Art Skills 🎨
+02
+Claude Architect Study Skill 🎓
+03
+The AI Strategy Factory 🏭
+04
+Self Improving Chatbot System 🔄
+05
+Document Polisher Claude Skill 📜
+06
+The e-Book Generator System 📕
+07
+The n8n Workflow Architect System 🧠
+08
+The Ultimate MegaRAG System 📚
+09
+Notebook LM Re-Imagined 📓
+10
+Changelog Notification Agent 🔔
+11
+Agentic Surveillance System 👀
+06
+MODULE 6 · 4 LESSONS
+☁️ Github 101
+01
+Absolute Basics of Github
+02
+Installing Github
+03
+What is a PR? How do you use it?
+04
+Difference Between Git and Github
+✓
+JUST SHIPPED
+Collaborating with Claude in Google Docs.
+
+Stop copy pasting between Claude and your documents. Claude Code generates the Doc, Sheet, or Slide deck, you leave comments right on the asset like you would with any human collaborator, and Claude reads them, actions them one by one, and replies inline so you have a full lineage of changes. Powered by the Google Workspace CLI, set up once in 10 to 15 minutes.
+
+COMING NEXT
+Loop Engineering.
+
+AI writes the code and AI reviews the code. Your job is to engineer the loop around it. Recurring and self-pacing runs with the /loop command, prompts that re-fire themselves on an interval, and the guardrails that let an agent keep shipping for hours without you babysitting the terminal.
+
+BUNDLED IN YOUR MEMBERSHIP
+Plus the full ClaudeClaw agentic OS.
+
+The agentic operating system we built on top of Claude. Long-term memory, scheduled agents, mission control, a hive mind that learns from every conversation. Yours the moment you join, with a coach available to onboard you.
+
+Mission Control
+Scheduled Agents
+Hive Mind
+Long-term Memories
+War Room
+Audit & Usage
+Grab ClaudeClaw + the course
+1:1 COACHING
+Three coaches. One subscription.
+
+Book any of them when you're stuck. Calls are included in your $77/mo membership, no extra fees, no upsell.
+
+SKILLS & MCPS
+Get unstuck on Skills, MCPs, hooks, and plan mode. Pair on real builds with someone who's shipped 50+ Claude Code systems.
+BOOK A SESSION →
+AGENTIC PATTERNS
+Subagents, context isolation, critic loops, agentic harnesses. Pressure-test your architecture before you ship.
+BOOK A SESSION →
+PRODUCTION BUILDS
+Going from prototype to paid client. Pricing, packaging, delivery flows, and the systems that hold up in production.
+BOOK A SESSION →
+RECEIPTS
+Real wins from the room.
+
+Pulled straight from our #wins channel. Closes, ships, transformations, retention, all from members building inside.
+
+€70K CLOSED
+
+Closed my first high-ticket deal today, totaling €70k. Ongoing discussions on retainer and maintenance.
+
+Mirza I.
+MEMBER · WINS
+€25K DEAL · CLAUDECLAW
+
+Closing a €25k deal today. Not luck. Not a fancy sales script. It was a system built inside ClaudeClaw.
+
+Tex H.
+MEMBER · WINS
+$15K TRAINING WIN
+
+$15k AI training win. After getting laid off, Mark walked me through the right strategy in a 1:1. Don't miss the half-off sessions.
+
+Tanya S.
+MEMBER · WINS
+$9K IN 7 DAYS
+
+My system has generated $9k for my client in 7 days. Real sales, zero human interaction apart from me building the system.
+
+Fabienne W.
+MEMBER · WINS
+CLAUDECLAW SCALE
+
+Spent the day going through ClaudeClaw. Made it my own. Upgraded my single agent to 12 agents across 3 businesses.
+
+Cheryl T.
+MEMBER · WINS
+RETENTION · CLAUDECLAW
+
+First Skool community I haven't quit after 30 days. ClaudeClaw alone is worth the subscription. Mark clearly knows what he's talking about.
+
+Christian S.
+MEMBER · WINS
+1,400+
+MEMBERS BUILDING
+1/wk
+NEW LESSONS SHIPPED
+$77/mo
+ALL-IN, NO UPSELL
+The model keeps shipping. Make sure you do too.
+
+Join Early AI-dopters and unlock the Living Course, every system we use, three coaches on call, and a room full of operators building at frontier speed.
+
+Join for $77/mo
+Review curriculum
+© 2026 EARLY AI-DOPTERS
+LIVING COURSE · UPDATED WEEKLY
+SKOOL.COM/EARLYAIDOPTERS
+

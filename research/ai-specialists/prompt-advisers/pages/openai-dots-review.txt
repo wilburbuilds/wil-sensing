@@ -1,0 +1,137 @@
+URL: https://www.promptadvisers.com/openai-dots-review
+Fetched: 2026-10-26T03:45:10Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/openai-dots-review
+Content-Type: text/html
+Via: chrome-headless
+Title: OpenAI Dots Review: My Honest Take After Testing It
+Meta description: OpenAI Dots review from hands-on testing: Slack setup, computer use, and sub-agents. See why I would skip it and what to use instead.
+Canonical: https://www.promptadvisers.com/openai-dots-review
+Robots: 
+H1: OpenAI Dots Review: My Honest Take After Testing It
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TOOL REVIEWS
+
+OpenAI Dots Review: My Honest Take After Testing It
+
+OpenAI Dots review from hands-on testing: Slack setup, computer use, and sub-agents. See why I would skip it and what to use instead.
+
+MARK KASHEF
+OCTOBER 5, 2026
+5 MIN READ
+WATCH THE VIDEO
+
+This OpenAI Dots review comes down to one sentence: Dots is a glorified Codex session that runs 24/7, and I see no reason to switch to it. I did not get early access, so I could say what I really found. Here is what works, what does not, and what I would use instead.
+
+TL;DR
+
+Dots runs on GPT-6 Astra, so you pay no extra tokens for now, but you can only run one Dot.
+Slack setup took about three clicks, and it replies inside threads.
+Computer use was slower than a normal Codex session. One minute in, it had not picked flight dates yet.
+It is not worth moving from the $20 plan to the $100 plan for this single feature.
+What OpenAI Dots Actually Looks Like
+
+Dots feels like Grok Bot with half the features missing. You get a familiar chat, GPT Live Voice calling, Slack, and its own computer.
+
+WATCH ON YOUTUBE
+
+Onboarding asks you to connect services. Even if you already connected them in Codex, they do not carry over, so you do it again. You can skip it entirely if you want.
+
+I test every new assistant against my own workflows. Early AI-dopters, 1,000+ people mastering Claude Code and Codex, gets the results first.
+
+JOIN EARLY AI-DOPTERS
+Can You Spin Up a Team of Dots?
+
+No, not today. That was my baseline expectation, so I asked Dots directly, and its most common answer was "I don't know." It cannot describe its own capabilities, and you can only use one for now.
+
+OpenAI did say it wants to support multiple Dots in the future. It can spin up sub-agents, and I saw one called Zeno that kept context for the rest of the chat. You can pause it so it does not run around the clock, and you can reboot it.
+
+Is OpenAI Dots Proactive Enough to Be an Assistant?
+
+No. Astra is a strong model, but it is not very proactive, and a personal assistant should be. You have to push it to act, and it does not tell you when it is in the middle of something.
+
+That leaves you wondering whether it is latency or work. Is it thinking? Should I say hello? Hermes Agent works out of the box, even with a local or open-source model. When I asked Dots to build a site explaining how it works, it reacted with a hammer and wrench emoji, then checkmarked it when done. I have had that behavior in Hermes for three months.
+
+How Does Dots Computer Use Hold Up?
+
+It holds up poorly next to Codex. I asked it to find a flight from Montreal to Johannesburg. The only sign of life was the word "thinking," and I had to open the computer manually to see it on the Emirates website.
+
+Grok Bot would have gone to Google Flights, a better aggregator. A minute in, Dots still had not picked dates. In a normal Codex session, I would have had a short list by then.
+
+Dots vs Grok Bot vs Hermes vs Codex
+
+The winner depends on what you already run, and Dots does not win a single row.
+
+TOOL	BEST FOR	WHERE IT FALLS SHORT
+OpenAI Dots	Slack help on a plan you already pay for	One agent, slow computer use, not proactive
+Grok Bot	Goal-tailored bots and group chats	Setup takes time
+Hermes Agent	Working out of the box, even with local models	Less polished UI
+Codex	Cloud runs, projects, built-in browser	Not a 24/7 persona
+
+If you want a custom Jarvis, I built my own setup, so see my Grok Bot alternative and my ranking of the best AI personal assistant options. For the models underneath, read how GPT-6 Astra computer use really performs.
+
+Final Thoughts from Mark
+
+I am sure Dots will get better. Today it does not earn a place in my workflow. If you use Grok Bot, stay on Grok Bot. If you use Hermes, stay on Hermes. Wait for multiple Dots before you pay for anything.
+
+OpenAI Dots Review FAQs
+
+What is OpenAI Dots?
+
+OpenAI Dots is a personal assistant that runs 24/7 on GPT-6 Astra. It connects to Slack, offers live voice, and gets its own computer for computer use. In my testing it behaved like a dedicated Codex session with a chat interface rather than a new kind of product.
+
+Can you run multiple Dots at once?
+
+Not yet. At launch you can only use one Dot. It can spin up sub-agents, and I saw one named Zeno, but you cannot build a team of Dots. OpenAI announced it wants to support multiple Dots working together in the future.
+
+Is OpenAI Dots worth upgrading to the $100 plan?
+
+Not in my view. I would not move from the $20 plan to the $100 plan just for this feature. Codex already offers cloud runs, projects, a built-in browser, and faster computer use. If Dots comes with a plan you already pay for, it is fine to play with.
+
+How does OpenAI Dots compare to Grok Bot?
+
+Grok Bot lets you create a bot, state its goal, and tailor itself to that goal. You can also build group chats where several bots work together. Dots has none of that today, and it is missing many Grok Bot features even though the look and feel is similar.
+
+Does OpenAI Dots work with Slack?
+
+Yes, and setup is easy, about three clicks. You authenticate, pick your workspace, grant access, and a small agent app appears. Then you can tag it and it replies in the thread. That makes it handy for group chats where anyone can pull in Codex.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/openai-dots-review#article","headline":"OpenAI Dots Review: My Honest Take After Testing It","description":"OpenAI Dots review from hands-on testing: Slack setup, computer use, and sub-agents. See why I would skip it and what to use instead.","image":["https://www.promptadvisers.com/blog/openai-dots-review/openai-dots-review-hero.webp"],"datePublished":"2026-10-05T00:00:00-05:00","dateModified":"2026-10-05T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/openai-dots-review","keywords":"OpenAI Dots review, OpenAI Dots, Dots vs Grok Bot, OpenAI personal assistant","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"OpenAI Dots Review: My Honest Take After Testing It","description":"OpenAI Dots review from hands-on testing: Slack setup, computer use, and sub-agents. See why I would skip it and what to use instead.","thumbnailUrl":["https://i.ytimg.com/vi/DdSRXsKkHOg/maxresdefault.jpg"],"uploadDate":"2026-09-30T00:00:00-05:00","duration":"PT6M54S","contentUrl":"https://www.youtube.com/watch?v=DdSRXsKkHOg","embedUrl":"https://www.youtube-nocookie.com/embed/DdSRXsKkHOg","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is OpenAI Dots?","acceptedAnswer":{"@type":"Answer","text":"OpenAI Dots is a personal assistant that runs 24/7 on GPT-6 Astra. It connects to Slack, offers live voice, and gets its own computer for computer use. In my testing it behaved like a dedicated Codex session with a chat interface rather than a new kind of product."}},{"@type":"Question","name":"Can you run multiple Dots at once?","acceptedAnswer":{"@type":"Answer","text":"Not yet. At launch you can only use one Dot. It can spin up sub-agents, and I saw one named Zeno, but you cannot build a team of Dots. OpenAI announced it wants to support multiple Dots working together in the future."}},{"@type":"Question","name":"Is OpenAI Dots worth upgrading to the $100 plan?","acceptedAnswer":{"@type":"Answer","text":"Not in my view. I would not move from the $20 plan to the $100 plan just for this feature. Codex already offers cloud runs, projects, a built-in browser, and faster computer use. If Dots comes with a plan you already pay for, it is fine to play with."}},{"@type":"Question","name":"How does OpenAI Dots compare to Grok Bot?","acceptedAnswer":{"@type":"Answer","text":"Grok Bot lets you create a bot, state its goal, and tailor itself to that goal. You can also build group chats where several bots work together. Dots has none of that today, and it is missing many Grok Bot features even though the look and feel is similar."}},{"@type":"Question","name":"Does OpenAI Dots work with Slack?","acceptedAnswer":{"@type":"Answer","text":"Yes, and setup is easy, about three clicks. You authenticate, pick your workspace, grant access, and a small agent app appears. Then you can tag it and it replies in the thread. That makes it handy for group chats where anyone can pull in Codex."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"OpenAI Dots Review: My Honest Take After Testing It","item":"https://www.promptadvisers.com/openai-dots-review"}]}]
+

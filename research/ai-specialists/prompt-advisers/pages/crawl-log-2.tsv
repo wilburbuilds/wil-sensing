@@ -1,0 +1,18 @@
+url	status	final	file	chars	title	note
+https://www.lockpick.app/pricing	200	https://www.lockpick.app/pricing	pricing.txt	5328	Pricing · Lockpick	
+https://www.lockpick.app/methodology	200	https://www.lockpick.app/methodology	methodology.txt	4169	How Lockpick checks a site · Lockpick	
+https://www.lockpick.app/	200	https://www.lockpick.app/	index.txt	8226	Lockpick · Know what you left open	
+https://www.lockpick.app/docs	200	https://www.lockpick.app/docs	docs.txt	4313	What is Lockpick · Docs · Lockpick	
+https://www.lockpick.app/community	200	https://ea-apps.vercel.app/	index.txt	862	EA Portal	
+https://www.lockpick.app/claude	200	https://www.lockpick.app/claude	claude.txt	10381	Claude connector · Lockpick	
+https://www.lockpick.app/ai-info	200	https://www.lockpick.app/ai-info	ai-info.txt	3400	Facts for AI assistants · Lockpick	
+https://www.lockpick.app/login	200	https://www.lockpick.app/login	login.txt	1075	Sign in · Lockpick	
+https://www.lockpick.app/signup	200	https://www.lockpick.app/signup	signup.txt	1099	Create account · Lockpick	
+https://www.lockpick.app/app/billing	200	https://www.lockpick.app/app/billing	app__billing.txt	1075	Sign in · Lockpick	
+https://www.lockpick.app/app/billing?plan=deep&interval=monthly&start=1	200	https://www.lockpick.app/app/billing?plan=deep&interval=monthly&start=1	app__billing__plan-deep-interval-monthly-start-1.txt	1208	Sign in · Lockpick	
+https://www.lockpick.app/app/billing?plan=deep&interval=yearly&start=1	200	https://www.lockpick.app/app/billing?plan=deep&interval=yearly&start=1	app__billing__plan-deep-interval-yearly-start-1.txt	1208	Sign in · Lockpick	
+https://www.lockpick.app/app/billing?waitlist=master-key	200	https://www.lockpick.app/app/billing?waitlist=master-key	app__billing__waitlist-master-key.txt	1167	Sign in · Lockpick	
+https://www.lockpick.app/pricing.md	200	https://www.lockpick.app/pricing.md	pricing.md.txt	8828		
+https://www.lockpick.app/guides	200	https://www.lockpick.app/guides	guides.txt	3219	Guides · Lockpick	
+https://www.lockpick.app/checks	200	https://www.lockpick.app/checks	checks.txt	15942	Checks · Lockpick	
+# queued but not fetched (max 16): 601

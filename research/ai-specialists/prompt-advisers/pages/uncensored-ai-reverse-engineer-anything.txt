@@ -1,0 +1,148 @@
+URL: https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything
+Fetched: 2026-10-26T03:45:05Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything
+Content-Type: text/html
+Via: chrome-headless
+Title: Uncensored AI + Reverse Engineer Anything: A Setup
+Meta description: Uncensored AI plus the Reverse Engineer Anything repo can rebuild an app you own for about $4. Here is the exact three-piece stack I used.
+Canonical: https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything
+Robots: 
+H1: Uncensored AI + Reverse Engineer Anything: A Setup
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+Uncensored AI + Reverse Engineer Anything: A Setup
+
+Uncensored AI plus the Reverse Engineer Anything repo can rebuild an app you own for about $4. Here is the exact three-piece stack I used.
+
+MARK KASHEF
+OCTOBER 17, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+Using uncensored AI to reverse engineer anything means pairing an unrestricted model with the open source REA repo, so the agent builds a copy of an app without refusing steps. In my test it cloned QuickTime Player in one shot for about $4.
+
+TL;DR
+
+The stack has three pieces: the Deepseek harness, an uncensored model, and the REA repo.
+GLM 5.2 got roughly 80% of a QuickTime Player clone in a single shot.
+The first version cost $4, and the polished version added $5 to $6.
+REA gets you most of the way, but server-side features like PowerPoint's SmartArt cannot be copied.
+How Uncensored AI and Reverse Engineer Anything Work Together
+
+REA gives your agent a ready-made toolkit to look inside a packed app, and an uncensored model removes the refusals. In the past week alone we saw open source takes on Photoshop, Premiere Pro, Word, PowerPoint, and Excel.
+
+WATCH ON YOUTUBE
+
+Why does the model matter? You can run REA with Claude, Codex, or Gemini. But those models sometimes decline to execute everything REA offers. I also expect labs to tighten their guard rails against these repos in the near future.
+
+Here is how REA works. You have an app you can use but not its source code. REA is an MCP server that works with Ghidra, a free tool that acts like Sherlock Holmes, taking apart the buttons, the functions, and the end state.
+
+Learn the setups behind videos like this inside Early AI-dopters, 1,000+ members mastering Claude Code and Codex.
+
+JOIN EARLY AI-DOPTERS
+What Do You Need to Set It Up?
+
+You need three pieces that snap together like Lego blocks: a harness, a brain, and the REA repo.
+
+The harness. The Deepseek harness is free and open source. It is the workbench your agent lives in, and it lets you swap in any model.
+The brain. An uncensored model. Run one locally from Hugging Face, such as a Qwen or GLM uncensored build, if your computer can handle it.
+REA. You hand your agent one line and the GitHub link, and it installs the tool.
+
+Think of the model as the brain in a jar. The harness supplies the limbs.
+
+Can You Run Uncensored Models Without a Strong Computer?
+
+Yes, you can use a hosted router instead of running the model yourself. Obliteration AI and Orca Router work like OpenRouter but give you uncensored models. I am not affiliated with either.
+
+Both offer pay as you go plans, like $5 or $10. You grab the API key, tell your agent to add it to the harness, and the model shows up in the dropdown.
+
+How Do You Rebuild an App With REA?
+
+You send one prompt: install this and help me use it to reverse engineer an app, plus the GitHub link. Then you name the target.
+
+My target was QuickTime Player. I use it to rewatch each final video before it goes live. Its flaw is playback speed. You only get double, faster, fast, normal, or half. I wanted a carbon copy with finer control.
+
+The harness runs locally, so it can see the apps on your machine and starts right away. Even with GLM 5.2 in the cloud, the install took under a minute. Depending on the model, you get a first version in 20 to 30 minutes.
+
+I right-clicked a video, chose open with, and picked my new app, Tempo. About 80% came in one shot. A few extra prompts changed the font, the look and feel, and added export formats. I could set speed at a granular level, see the audio waves, and change pitch.
+
+VERSION	COST	WHAT IT COVERED
+First working version	About $4	Playback, speed, audio waves, pitch
+Final polished version	Extra $5 to $6	Look, feel, fonts, export formats
+
+The first version was functional. The second was me being picky.
+
+Is Reverse Engineer Anything Worth Using?
+
+It is worth using as a convenience, not a miracle. Nothing in the repo is revolutionary. It centralizes the tools so your model spends effort on building, not on figuring out how to reverse engineer.
+
+It also has limits. Cloning is not 100%, and many clones miss features. The PowerPoint clone cannot rebuild SmartArt because that diagram library lives on a server. Expect 80% of the way there, not the last mile.
+
+One more note from me. Reverse engineering software can run into licensing and copyright rules. Stick to apps you own, and read the EFF reverse engineering FAQ before you ship anything. If your team needs help choosing safe AI builds, see our enterprise AI consulting.
+
+Final Thoughts from Mark
+
+I started on the fence about this repo. After tinkering, I think it is a handy way to save your agents work. Try it on a small app you already own, watch the cost, and see how far one shot goes. Then decide if the last 20% is worth your time.
+
+Uncensored AI Reverse Engineer Anything FAQs
+What is Reverse Engineer Anything (REA)?
+
+REA is an open source GitHub repo that packages the tools an AI agent needs to reverse engineer an app. It works as an MCP server paired with Ghidra, a free tool that breaks a compiled app into its parts. It is not revolutionary, but it saves your agent from figuring out the tooling.
+
+Why use an uncensored model with REA?
+
+Frontier models like Claude and Codex sometimes refuse to run everything REA offers. An uncensored or jailbroken model skips those guard rails. I expect frontier labs to patch their guard rails further, so friction with the big models will likely grow over time.
+
+How much does it cost to clone an app with REA?
+
+My first working version of a QuickTime Player clone cost about $4 in model usage. Getting to the polished final version added another $5 to $6, mostly because I was picky about the look and feel. Pay as you go routers start at around $5 to $10.
+
+Can REA clone an entire app perfectly?
+
+No. It usually gets you about 80 percent of the way. Anything that depends on a server, like PowerPoint's SmartArt library, cannot be copied from the local app. Buttons, shapes, text, and images are easier to rebuild than server-side features.
+
+Do I need a powerful computer to run an uncensored model?
+
+No. A local model from Hugging Face needs strong hardware, but you can skip that. Services like Obliteration AI or Orca Router work like OpenRouter and host uncensored models for you on a pay as you go plan. I am not affiliated with either.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything#article","headline":"Uncensored AI + Reverse Engineer Anything: A Setup","description":"Uncensored AI plus the Reverse Engineer Anything repo can rebuild an app you own for about $4. Here is the exact three-piece stack I used.","image":["https://www.promptadvisers.com/blog/uncensored-ai-reverse-engineer-anything/uncensored-ai-reverse-engineer-anything-hero.webp"],"datePublished":"2026-10-17T00:00:00-05:00","dateModified":"2026-10-17T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything","keywords":"uncensored AI reverse engineer anything, Reverse Engineer Anything, REA Ghidra MCP, uncensored AI model","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Uncensored AI + Reverse Engineer Anything: A Setup","description":"Uncensored AI plus the Reverse Engineer Anything repo can rebuild an app you own for about $4. Here is the exact three-piece stack I used.","thumbnailUrl":["https://i.ytimg.com/vi/ScSDVV5xhww/maxresdefault.jpg"],"uploadDate":"2026-10-12T00:00:00-05:00","duration":"PT6M40S","contentUrl":"https://www.youtube.com/watch?v=ScSDVV5xhww","embedUrl":"https://www.youtube-nocookie.com/embed/ScSDVV5xhww","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Reverse Engineer Anything (REA)?","acceptedAnswer":{"@type":"Answer","text":"REA is an open source GitHub repo that packages the tools an AI agent needs to reverse engineer an app. It works as an MCP server paired with Ghidra, a free tool that breaks a compiled app into its parts. It is not revolutionary, but it saves your agent from figuring out the tooling."}},{"@type":"Question","name":"Why use an uncensored model with REA?","acceptedAnswer":{"@type":"Answer","text":"Frontier models like Claude and Codex sometimes refuse to run everything REA offers. An uncensored or jailbroken model skips those guard rails. I expect frontier labs to patch their guard rails further, so friction with the big models will likely grow over time."}},{"@type":"Question","name":"How much does it cost to clone an app with REA?","acceptedAnswer":{"@type":"Answer","text":"My first working version of a QuickTime Player clone cost about $4 in model usage. Getting to the polished final version added another $5 to $6, mostly because I was picky about the look and feel. Pay as you go routers start at around $5 to $10."}},{"@type":"Question","name":"Can REA clone an entire app perfectly?","acceptedAnswer":{"@type":"Answer","text":"No. It usually gets you about 80 percent of the way. Anything that depends on a server, like PowerPoint's SmartArt library, cannot be copied from the local app. Buttons, shapes, text, and images are easier to rebuild than server-side features."}},{"@type":"Question","name":"Do I need a powerful computer to run an uncensored model?","acceptedAnswer":{"@type":"Answer","text":"No. A local model from Hugging Face needs strong hardware, but you can skip that. Services like Obliteration AI or Orca Router work like OpenRouter and host uncensored models for you on a pay as you go plan. I am not affiliated with either."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Uncensored AI + Reverse Engineer Anything: A Setup","item":"https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything"}]}]
+

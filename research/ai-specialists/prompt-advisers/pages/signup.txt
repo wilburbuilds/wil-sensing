@@ -1,0 +1,60 @@
+URL: https://www.lockpick.app/signup
+Fetched: 2026-10-26T03:50:20Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/signup
+Content-Type: text/html
+Via: chrome-headless
+Title: Create account · Lockpick
+Meta description: Evidence-grounded checks for your public website. Inspect, repair, and recheck.
+Canonical: 
+Robots: noindex, nofollow
+H1: Create your free account.
+
+Create an account to keep your scans.
+
+Lockpick checks your public homepage and tells you what to fix, in plain words.
+
+Public pages only
+Never submits your forms
+5 free Pulse scans a month on one site
+English
+Create your free account.
+
+It takes a minute. No card needed.
+
+Invite code from a friend (optional)
+Continue with Google
+Continue with GitHub
+Or use email
+Full name
+Email
+Password
+Show
+
+At least 8 characters.
+
+Create account
+
+By creating an account you agree to the Terms of Service
+(opens in a new tab)
+ and confirm that you have read the Privacy Policy
+(opens in a new tab)
+.
+
+Already have an account? Sign in
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=text name="name" id="name" label="Full name" placeholder="Your name" aria="" required=true
+  - input type=email name="email" id="email" label="Email" placeholder="you@company.com" aria="" required=true
+  - input type=password name="password" id="password" label="Password" placeholder="Pick a password" aria="" required=true
+  - button type=button name="" id="" label="" placeholder="" aria="Show password" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

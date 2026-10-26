@@ -1,0 +1,137 @@
+URL: https://www.promptadvisers.com/codex-sdk-internal-tools
+Fetched: 2026-10-26T03:45:20Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/codex-sdk-internal-tools
+Content-Type: text/html
+Via: chrome-headless
+Title: Codex SDK Internal Tools: Ditch the API Key Bill
+Meta description: Codex SDK internal tools run on your existing ChatGPT subscription instead of a metered API key, cutting the cost of every app you build.
+Canonical: https://www.promptadvisers.com/codex-sdk-internal-tools
+Robots: 
+H1: Codex SDK Internal Tools: Ditch the API Key Bill
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+Codex SDK Internal Tools: Ditch the API Key Bill
+
+Codex SDK internal tools run on your existing ChatGPT subscription instead of a metered API key, cutting the cost of every app you build.
+
+MARK KASHEF
+AUGUST 19, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+Codex SDK internal tools are apps built for your own team that run on your existing ChatGPT or Claude subscription instead of a separate, metered API key. You build the app the same way you always have. You just swap the billing layer, so every click costs nothing beyond the plan you already pay. Mark runs a meeting analyzer, a research board, and a thumbnail generator this way, all on one subscription, at zero extra cost per use.
+
+TL;DR
+
+Swapping an API key for the Codex SDK routes requests through your existing subscription instead of a metered credit card, so a 10-second meeting brief costs $0 extra.
+The bridge needs one instruction: tell your AI to wire the app to the Codex SDK (or Claude Agent SDK) with no arguments, and it finds your cached login on its own.
+A lower-cost Codex reasoning tier runs about 80% cheaper than Claude Sonnet 5 at normal API rates, already covered by the $100 a month ChatGPT plan Mark pays for.
+Both SDKs restrict this to internal or personal use in their terms of service, so it fits a brief maker or research tool, not a product you resell.
+How Codex SDK Internal Tools Replace API Keys
+
+Codex SDK internal tools replace the API key with a bridge that spins up a headless copy of your subscription every time your app fires a request. Most builders never question the API key step. You build an app, it works, then you bolt on a key with its own credit card, and every click quietly adds up.
+
+WATCH ON YOUTUBE
+
+The fix touches one layer. Only what sits behind the "run" button changes. Instead of hitting an API key tied to a separate bill, a request hits a bridge that knows one word: SDK. Tell Codex or Claude to wire the app through the Codex SDK or Claude Agent SDK, and it authenticates with your cached login instead of a key. A headless version of your subscription, the same session running in the background, picks up the request and hands back a result.
+
+Join Early AI-dopters, 1,000+ people mastering Claude Code and Codex. Mark walks through this bridge build in a full master class inside the community.
+
+Does This Work With Claude Instead of Codex?
+
+Yes, the same trick works with Claude through the Claude Agent SDK, and Mark used it first. Back in April, he built an internal setup called Claude Claw that routed requests through his Claude Code subscription instead of paying separate API costs for two agents he ran.
+
+Whatever the underlying service does through its normal interface, you can do through its SDK. If Codex generates text and images, an app wired to the Codex SDK does both without a separate image bill. Mark's thumbnail lab proves it: a request goes through the bridge into a headless Codex worker that spins up and returns three thumbnail concepts inside the existing subscription.
+
+How Much Does It Cost to Run Codex SDK Internal Tools?
+
+Codex SDK internal tools cost whatever your subscription already costs, with no per-click charge on top. Mark pays $100 a month for his Codex plan, and a mid-tier reasoning model run through the SDK costs roughly 80% less than Claude Sonnet 5 at normal API pricing, already included in that flat fee.
+
+	API KEY (METERED)	SDK BRIDGE (SUBSCRIPTION)
+Billing	Separate account, own credit card	Existing monthly plan
+Cost per extra click	Charged per request	$0 marginal cost
+Setup	Generate and store a key	Point the SDK at your cached login
+Model access	Whatever the key's plan allows	Every model your subscription includes
+Best for	Public products, external users	Internal tools, your own team
+
+Neither approach wins outright. An API key is still right for a product sold to paying customers outside your organization. The SDK bridge wins the moment the only user is you or your team.
+
+The Terms of Service Line You Can't Cross
+
+The terms of service for both SDKs limit subscription-based access to internal or personal use, and crossing that line can get your account banned. Mark is direct about it: do not spin up a SaaS product, swap through a series of subscription accounts, and sell access to the public while pocketing the margin. He says companies already do this, against the rules on both platforms.
+
+Stay inside the lane and the upside is real. Brief makers, research tools, file sorters, email triage, anything your team uses internally is fair game.
+
+The Mega-Prompt That Builds the Bridge For You
+
+A single detailed prompt gets Codex or Claude to build the bridge correctly on the first pass. Mark's prompt opens with a plain instruction: build a complete, runnable, local-first internal tool that turns pasted text into a structured brief. The constraint comes right after: all AI calls go through the Codex SDK using the cached ChatGPT login, no API key anywhere, do not ask for one, and ignore any key found in the shell.
+
+From there the prompt lays out the architecture and one file dedicated to the SDK wrapper, the part worth getting right since it tells the model how to authenticate without touching a key. An optional section covers sharing the app over Tailscale, a free private mesh network for small teams, reachable without opening a port to the public internet. This is the build process we walk teams through in our AI workshops and bootcamps, and it pairs well with a stable agentic OS once you run more than one of these tools.
+
+Mark's Final Thoughts
+
+This is not complicated, it is a one-line constraint added to a prompt you were already going to write. Point your build at the SDK, keep it internal, and every tool you ship after runs free inside a subscription you already pay for. If your team wants help wiring more than one of these up, that is the work we do in enterprise AI consulting.
+
+Codex SDK Internal Tools FAQs
+
+What is the Codex SDK?
+
+OpenAI's kit for wiring an app to Codex directly, instead of a separate API key. Your app authenticates through your cached ChatGPT login and runs on models already in your subscription.
+
+Can I really use my ChatGPT subscription instead of paying for API credits?
+
+Yes. Build the app against the Codex SDK with no API key configured, and it finds your login automatically, routing requests through a headless version of your subscription at no extra cost per click.
+
+Does this trick work with Claude instead of Codex?
+
+Yes. The Claude Agent SDK does the same job for a Claude subscription. Mark built an internal agent called Claude Claw back in April on this pattern, before doing it with Codex.
+
+Is it against the terms of service to build internal tools this way?
+
+Not if you keep it internal. Both SDKs restrict subscription access to internal or personal use. Selling a product built on someone else's subscription violates the terms and can get your account banned.
+
+How do I share an internal tool built this way with my team?
+
+Run it on a local host server and share it over a private mesh network like Tailscale, free for small teams and never open to the public internet.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/codex-sdk-internal-tools#article","headline":"Codex SDK Internal Tools: Ditch the API Key Bill","description":"Codex SDK internal tools run on your existing ChatGPT subscription instead of a metered API key, cutting the cost of every app you build.","image":["https://www.promptadvisers.com/blog/codex-sdk-internal-tools/codex-sdk-internal-tools-hero.webp"],"datePublished":"2026-08-19T00:00:00-05:00","dateModified":"2026-08-19T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/codex-sdk-internal-tools","keywords":"Codex SDK internal tools, Codex SDK vs API key, Claude SDK internal apps, avoid AI API costs, headless AI subscription","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Codex SDK Internal Tools: Ditch the API Key Bill","description":"Codex SDK internal tools run on your existing ChatGPT subscription instead of a metered API key, cutting the cost of every app you build.","thumbnailUrl":["https://i.ytimg.com/vi/JlXfoZvTwzk/maxresdefault.jpg"],"uploadDate":"2026-08-19T00:00:00-05:00","duration":"PT8M35S","contentUrl":"https://www.youtube.com/watch?v=JlXfoZvTwzk","embedUrl":"https://www.youtube-nocookie.com/embed/JlXfoZvTwzk","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the Codex SDK?","acceptedAnswer":{"@type":"Answer","text":"OpenAI's kit for wiring an app to Codex directly, instead of a separate API key. Your app authenticates through your cached ChatGPT login and runs on the models already in your subscription."}},{"@type":"Question","name":"Can I really use my ChatGPT subscription instead of paying for API credits?","acceptedAnswer":{"@type":"Answer","text":"Yes. Build the app against the Codex SDK with no API key configured, and it finds your login automatically, routing requests through a headless version of your subscription. Clicks inside the app cost nothing extra."}},{"@type":"Question","name":"Does this trick work with Claude instead of Codex?","acceptedAnswer":{"@type":"Answer","text":"Yes. The Claude Agent SDK does the same job for a Claude subscription. Mark built an internal agent called Claude Claw back in April on this pattern, months before doing it with Codex."}},{"@type":"Question","name":"Is it against the terms of service to build internal tools this way?","acceptedAnswer":{"@type":"Answer","text":"Not if you keep it internal. Both SDKs restrict subscription access to internal or personal use. Selling a product built on someone else's subscription to the public violates the terms and can get your account banned."}},{"@type":"Question","name":"How do I share an internal tool built this way with my team?","acceptedAnswer":{"@type":"Answer","text":"Run it on a local host server and share it over a private mesh network like Tailscale, free for small teams and never open to the public internet."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Codex SDK Internal Tools: Ditch the API Key Bill","item":"https://www.promptadvisers.com/codex-sdk-internal-tools"}]}]
+

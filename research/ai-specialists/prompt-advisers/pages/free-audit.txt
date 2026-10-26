@@ -1,0 +1,91 @@
+URL: https://www.promptadvisers.com/free-audit
+Fetched: 2026-10-26T03:44:55Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/free-audit
+Content-Type: text/html
+Via: chrome-headless
+Title: Book a free 15-minute AI audit | Prompt Advisers
+Meta description: Fifteen minutes, free. We map where AI actually helps your business and where it will not, and you leave with two or three wins to ship this quarter.
+Canonical: https://www.promptadvisers.com/free-audit
+Robots: 
+H1: FIFTEEN MINUTES. NO PITCH.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · THE FREE AUDIT
+
+FIFTEEN MINUTES. NO PITCH.
+
+We map where AI actually helps your business and, just as usefully, where it will not. You leave with two or three concrete wins you can ship this quarter, whether we end up working together or not. If Prompt Advisers is not the right fit, we will say so and point you somewhere better.
+
+15 MINUTES
+
+One call, no prep needed
+
+FREE
+
+No invoice, no obligation
+
+STRAIGHT ANSWERS
+
+Including no, when it is no
+
+WHAT SHOULD WE LOOK AT?
+Where AI fits in my business
+Training my team on Claude Code
+A build I want scoped
+Something is already broken
+YOUR NAME
+WORK EMAIL
+Website
+
+If nothing on the next screen works for you, we will reach out personally and find a time that does. That is what your email is for, and the only thing it is for.
+
+SEE AVAILABLE TIMES
+SKIP TO THE CALENDAR
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="name" id="" label="" placeholder="Jane Okafor" aria="" required=false
+  - input type=email name="email" id="" label="" placeholder="jane@company.com" aria="" required=false
+  - input type=text name="" id="" label="" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - button type=button name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Free AI audit","item":"https://www.promptadvisers.com/free-audit"}]}]
+

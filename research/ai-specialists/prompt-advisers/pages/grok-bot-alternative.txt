@@ -1,0 +1,131 @@
+URL: https://www.promptadvisers.com/grok-bot-alternative
+Fetched: 2026-10-26T03:45:19Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/grok-bot-alternative
+Content-Type: text/html
+Via: chrome-headless
+Title: Grok Bot Alternative: Build Your Own With Codex and Claude
+Meta description: Grok Bot alternative? Here is how I reverse engineered the leak and rebuilt it for free with Codex and OpenRouter.
+Canonical: https://www.promptadvisers.com/grok-bot-alternative
+Robots: 
+H1: Grok Bot Alternative: Build Your Own With Codex and Claude
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TOOL REVIEWS
+
+Grok Bot Alternative: Build Your Own With Codex and Claude
+
+Grok Bot alternative? Here is how I reverse engineered the leak and rebuilt it for free with Codex and OpenRouter.
+
+MARK KASHEF
+AUGUST 28, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+A Grok Bot alternative is possible to build yourself, for free, once you understand the six pieces that make xAI's always-on agent teams work. I watched someone reverse engineer Cursor's accidentally exposed Grok Bot build, then rebuilt my own version that runs on my existing Codex subscription, OpenRouter, and local models instead of a new subscription.
+
+TL;DR
+
+Grok Bot's six load-bearing pieces are the interface, the orchestration layer, the mailroom of agent-to-agent DMs, the memory layer, one sandboxed screen per agent, and the model underneath.
+Agents pass work with a tool literally called send to agent. Normal messages wait until an agent is free, urgent ones interrupt everything except your own back-and-forth with the bot.
+Group decisions run like a roundtable: a manager calls on each agent in turn, and any agent with nothing to add can pass instead of forcing a reply.
+I rebuilt this exact system, wired to my Codex subscription, OpenRouter, and local models, with zero added subscription cost.
+How This Grok Bot Alternative Works
+
+This Grok Bot alternative works because the leaked build was reconstructed piece by piece, not because anyone had to guess at it. A developer took the exposed parts of Cursor's Grok Bot integration and rebuilt a working, open version, and I used that same map to build mine.
+
+WATCH ON YOUTUBE
+
+The original leak was not the full product. It was enough of the client to show how agents get their own identity, memory, and DM inbox instead of a shared brain. Feed that same breakdown to Claude Code or Codex, and it can write you a functioning copy in an afternoon.
+
+I walk through this exact rebuild step by step inside Early AI-dopters, 1,000+ people mastering Claude Code and Codex together.
+
+JOIN EARLY AI-DOPTERS
+The Six Parts Behind Every Grok Bot Agent
+
+Every Grok Bot agent runs on the same six parts, whether it is xAI's paid version or the one I built myself: interface, orchestration layer, mailroom, memory, sandbox, and model.
+
+Each agent gets its own name, job, chat history, and private notes instead of sharing one memory pool with the rest of the team. A researcher agent can pull a stack of sources and only that agent knows about it until it chooses to share. That per-agent memory is also why two agents can work in parallel without waiting on each other, the same trick behind Claude Code's agent teams and the open source AgentMail framework.
+
+How Do Grok Bot's Agents Actually Talk to Each Other?
+
+Grok Bot's agents talk through direct messages sent by a tool literally called send to agent, not by sharing memory. A normal DM waits politely until the receiving agent finishes its current task, but a message marked urgent can cancel a background job outright.
+
+The one thing that never gets interrupted is your own conversation with the bot. Say you are fixing a pricing page animation and the agent discovers checkout is broken mid-fix. It will reroute the whole team to patch checkout first, but only after your current back-and-forth is resolved.
+
+When a call needs judgment instead of a handoff, the agents hold a meeting instead of trading DMs. A manager goes around the table, each agent contributes or passes, and the meeting ends with one assigned next step instead of an endless thread.
+
+Grok Bot vs a DIY Grok Bot Alternative
+
+The official Grok Bot and a homemade version share the same six-part architecture, but they land in different places on cost and control.
+
+	OFFICIAL GROK BOT	DIY GROK BOT ALTERNATIVE
+Monthly cost	Flat subscription on top of your model spend	Whatever your existing Codex, Claude, or OpenRouter plan already costs
+Model choice	Locked to xAI's models	Codex, Claude, OpenRouter, or local models, picked per agent
+Setup time	Instant, managed for you	An afternoon, feeding the architecture to a coding agent
+Control	Managed by xAI	You own the code, the memory, and the mailroom
+
+Neither path is automatically wrong. The managed version buys you zero setup time. Building your own buys you model flexibility and the ability to inspect exactly what each agent is doing.
+
+Does a Grok Bot Alternative Work Without an xAI Subscription?
+
+Yes, a DIY Grok Bot alternative runs entirely without an xAI subscription, because the architecture is model agnostic once you own the code. Mine runs on my existing Codex subscription for the heavy lifting, OpenRouter for anything Codex should not touch, and local models for cheap, repetitive steps.
+
+Permissions work the same way Claude Code's auto mode does. The first time an agent wants to publish a page or spend a credit card, it asks. Approve that action a couple of times and it adds the permission to its accepted list and stops asking, unless the situation looks bigger than what it already approved.
+
+If all you actually need is one assistant answering questions, not a six-agent swarm passing DMs, start with a best AI personal assistant setup instead. Agent teams solve a coordination problem you may not have yet, and xAI's own multi-agent documentation is worth a read before you commit to either path.
+
+Mark's Final Thoughts
+
+The Grok Bot leak was not the whole product, but it was enough to show the format is not magic, it is six parts stacked in the right order. I have the full breakdown, plus the exact prompts I fed my coding agent, linked free in the video description. If your team wants this built and supported instead of DIY, that is exactly the kind of project I take on through enterprise AI consulting and cover live in the AI workshops and bootcamps I run.
+
+Grok Bot Alternative FAQs
+
+What is Grok Bot and who makes it? Grok Bot is xAI's always-on multi-agent product, where each agent gets its own persistent cloud computer, memory, and job instead of one shared assistant. It is built to run agent teams around tasks like research, coding, and QA without you routing every message between them yourself.
+
+Is there a free Grok Bot alternative? Yes, the leaked client code let developers reconstruct the architecture, and I rebuilt my own version on top of it for free. It runs on a Codex subscription, OpenRouter credits, and local models instead of paying for a separate Grok Bot subscription.
+
+How do Grok Bot's agents avoid interrupting each other? Normal DMs wait until an agent finishes its current task, so nobody gets pulled off a build mid-step for something that can wait. Only messages marked urgent cancel an agent's active job, and even those never interrupt your own conversation with the bot.
+
+Can I build a Grok Bot alternative with Claude Code or Codex? Yes, this is exactly how I built mine. I fed Claude Code and Codex the reconstructed architecture, the mailroom, the memory layer, and the per-agent sandbox, and had it write the orchestration logic around models I already pay for.
+
+Do Grok Bot's agents share one memory? No, each agent keeps its own name, job, chat history, and private notes, and only shares what it chooses to send as a DM. That separation is what lets a researcher, builder, and reviewer agent work in parallel instead of waiting on one shared context window.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/grok-bot-alternative#article","headline":"Grok Bot Alternative: Build Your Own With Codex and Claude","description":"Grok Bot alternative? Here is how I reverse engineered the leak and rebuilt it for free with Codex and OpenRouter.","image":["https://www.promptadvisers.com/blog/grok-bot-alternative/grok-bot-alternative-hero.webp"],"datePublished":"2026-08-28T00:00:00-05:00","dateModified":"2026-08-28T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/grok-bot-alternative","keywords":"Grok Bot alternative, Grok Bot architecture, multi-agent AI system, AI agent team, Grok Bot open source","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Grok Bot Alternative: Build Your Own With Codex and Claude","description":"Grok Bot alternative? Here is how I reverse engineered the leak and rebuilt it for free with Codex and OpenRouter.","thumbnailUrl":["https://i.ytimg.com/vi/mAWT1HCBgbQ/maxresdefault.jpg"],"uploadDate":"2026-08-26T00:00:00-05:00","duration":"PT15M59S","contentUrl":"https://www.youtube.com/watch?v=mAWT1HCBgbQ","embedUrl":"https://www.youtube-nocookie.com/embed/mAWT1HCBgbQ","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Grok Bot and who makes it?","acceptedAnswer":{"@type":"Answer","text":"Grok Bot is xAI's always-on multi-agent product, where each agent gets its own persistent cloud computer, memory, and job instead of one shared assistant. It is built to run agent teams around tasks like research, coding, and QA without you routing every message between them yourself."}},{"@type":"Question","name":"Is there a free Grok Bot alternative?","acceptedAnswer":{"@type":"Answer","text":"Yes, the leaked client code let developers reconstruct the architecture, and I rebuilt my own version on top of it for free. It runs on a Codex subscription, OpenRouter credits, and local models instead of paying for a separate Grok Bot subscription."}},{"@type":"Question","name":"How do Grok Bot's agents avoid interrupting each other?","acceptedAnswer":{"@type":"Answer","text":"Normal DMs wait until an agent finishes its current task, so nobody gets pulled off a build mid-step for something that can wait. Only messages marked urgent cancel an agent's active job, and even those never interrupt your own conversation with the bot."}},{"@type":"Question","name":"Can I build a Grok Bot alternative with Claude Code or Codex?","acceptedAnswer":{"@type":"Answer","text":"Yes, this is exactly how I built mine. I fed Claude Code and Codex the reconstructed architecture, the mailroom, the memory layer, and the per-agent sandbox, and had it write the orchestration logic around models I already pay for."}},{"@type":"Question","name":"Do Grok Bot's agents share one memory?","acceptedAnswer":{"@type":"Answer","text":"No, each agent keeps its own name, job, chat history, and private notes, and only shares what it chooses to send as a DM. That separation is what lets a researcher, builder, and reviewer agent work in parallel instead of waiting on one shared context window."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Grok Bot Alternative: Build Your Own With Codex and Claude","item":"https://www.promptadvisers.com/grok-bot-alternative"}]}]
+

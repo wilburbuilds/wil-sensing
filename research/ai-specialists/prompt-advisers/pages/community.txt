@@ -1,0 +1,217 @@
+URL: https://www.promptadvisers.com/community
+Fetched: 2026-10-26T03:44:53Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/community
+Content-Type: text/html
+Via: chrome-headless
+Title: The Early AI-dopters Community | Prompt Advisers
+Meta description: A living Claude Code course updated weekly, twelve coaches on call, direct access to Mark, and a yearly in-person mastermind. 1,000+ members, 92% stay.
+Canonical: https://www.promptadvisers.com/community
+Robots: 
+H1: BECOME THE AI EXPERT IN THE ROOM.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · THE COMMUNITY
+
+BECOME THE AI EXPERT IN THE ROOM.
+
+EARLY AI-DOPTERS
+
+THE ROOM THAT KEEPS YOU AHEAD.
+
+Early AI-dopters is where entrepreneurs, operators, and business owners learn to run their companies on Claude Code and Codex, with Mark and Taha in the room every day. Everyone in AI is learning one thing; then the tech shifts and they are back to zero. Not in here. We build AI-generalists.
+
+Expert-led courses, twelve coaches available for 1:1 calls across Claude Code, n8n, security, and sales, daily nuggets from the frontier, and a vault of working systems you can clone. All signal, none of the hype.
+
+JOIN EARLY AI-DOPTERS
+SEE THE WALL OF WINS
+
+THE COMMUNITY, LIVE ON SKOOL
+
+0+
+
+MEMBERS
+
+0%
+
+STAY, MONTH OVER MONTH
+
+0
+
+LESSONS, GROWING WEEKLY
+
+0
+
+COACHES ON CALL
+
+II / THE LIVING COURSE
+
+A CLAUDE CODE COURSE THAT NEVER GOES STALE.
+
+Six modules and sixty lessons on day one, updated every single week. When a new model drops, the walkthrough is inside within days. Every lesson ships as a working system you can clone, rip apart, and remix, and the ClaudeClaw agentic OS comes bundled with membership.
+
+01
+CLAUDE CODE MAGIC COURSE
+
+31 lessons, beginner to superhuman
+
+02
+BEGINNER TO INTERMEDIATE
+
+11 lessons plus a live capstone build
+
+03
+BUILD YOUR SECOND BRAIN
+
+The full Obsidian + Claude setup
+
+04
+HOW TO TEACH CLAUDE TO ANYONE
+
+Turn fluency into influence
+
+05
+CLAUDE CODE SYSTEMS & SKILLS
+
+11 working systems to clone and remix
+
+06
+GITHUB 101
+
+The essentials, for non-engineers
+
+BROWSE THE FULL CURRICULUM
+
+III / REAL WINS, REAL MEMBERS
+
+THE EVER-GROWING WALL
+
+Not testimonials we wrote. Results members posted themselves, quoted word for word.
+
+“
+MEMBER WIN
+“Closed my first high-ticket deal today, totaling €70k, with retainer discussions already ongoing. These are enterprise and public-sector doors, and I know how hard they are to open.”
+MIRZA I. · FRANKFURT, GERMANY
+“
+MEMBER WIN
+“Put me in front of a terminal and I used to just stare at it. This community was the bridge from being scared of a terminal to genuinely loving Claude Code. Now I'm building my own apps.”
+LUTFIYA M. · BOARD-CERTIFIED TOXICOLOGIST
+“
+MEMBER WIN
+“Huge deal closed: 25k fixed plus 8.3k/month for a Business OS build.”
+DREW T. · BIRMINGHAM, AL
+“
+MEMBER WIN
+“My productivity in my day job went up tenfold. I built a security audit platform in about two weeks that I now run real customer audits through.”
+DAN W. · SENIOR MICROSOFT 365 CONSULTANT
+“
+MEMBER WIN
+“I woke up to sales, not leads. My system has generated 9k for my client in 7 days, with zero human interaction once it was built.”
+FABIENNE W. · HEALTH-TECH BUILDER
+“
+MEMBER WIN
+“I came in to learn and within months I wasn't just learning, I was shipping. I joined to learn and became someone worth learning from.”
+MICHAEL H. · PEDIATRIC ONCOLOGIST
+“
+MEMBER WIN
+“It helped me close three one-on-one clients, but the biggest win was building a tool for my daughter, recently diagnosed with ADHD and dyslexia, to help her stay on track in school.”
+CLEVETTE C. · MEMBER
+“
+MEMBER WIN
+“I met with Mark right after I was laid off, determined not to wait around to 'be chosen.' That led to a 15k AI training win.”
+TANYA S. · AI TRAINER
+“
+MEMBER WIN
+“I'm a newbie and just had my first real success. I trained Claude to turn messy Shopify orders, emails and CSVs into clean ERP uploads for a software client.”
+KEVIN J. · LEICESTER, UK
+SEE THE FULL WALL OF WINS
+
+BERLIN 2026 · THE FIRST EDITION
+
+IV / ONCE A YEAR, IN PERSON
+
+ONCE A YEAR, THE ROOM GETS AN ADDRESS.
+
+Everything else here runs online, every day of the year. Once a year it gets a postcode. A members-only, in-person mastermind capped at thirty seats: three days, one room, and the people you have been building beside all year, finally across the table.
+
+Berlin went first. Three days at betahaus Kreuzberg, six sessions, one rooftop, and a room that did not want to leave.
+
+FIRST EDITION
+
+BERLIN 2026
+
+Venue
+betahaus Kreuzberg
+Dates
+22–24 May
+Seats
+30 · sold out
+Coordinates
+52.50° N, 13.41° E
+
+3
+
+DAYS IN THE ROOM
+
+6
+
+SESSIONS ON STAGE
+
+7.4h
+
+RECORDED LIVE
+
+119
+
+SLIDES SHOWN
+
+163
+
+FRAMES SHOT
+
+“
+AI IS AN AMPLIFIER. MONEY WILL AMPLIFY IF YOU ARE AN AWFUL PERSON. AI WILL AMPLIFY IF YOU HAVE NO IDEA WHAT YOU ARE TALKING ABOUT.
+MARK · FROM THE BERLIN STAGE
+
+THE COMMUNITY
+
+GET IN THE ROOM.
+
+Direct access to Mark, Taha, and twelve coaches. The living Claude Code course, the ClaudeClaw OS, and 1,000+ builders who ship. Cancel anytime.
+
+JOIN US
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Community","item":"https://www.promptadvisers.com/community"}]}]
+

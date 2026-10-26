@@ -1,0 +1,96 @@
+URL: https://www.promptadvisers.com/privacy-policy
+Fetched: 2026-10-26T03:45:00Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/privacy-policy
+Content-Type: text/html
+Via: chrome-headless
+Title: Privacy Policy | Prompt Advisers
+Meta description: How Prompt Advisers collects, uses, and safeguards your information, and the choices you have about it.
+Canonical: https://www.promptadvisers.com/privacy-policy
+Robots: 
+H1: PRIVACY POLICY
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · LEGAL
+
+PRIVACY POLICY
+
+LAST UPDATED JULY 7, 2026
+
+Prompt Advisers ("we," "us," or "our") runs promptadvisers.com. This policy explains what information we collect when you visit the site or contact us, how we use it, and the choices you have. We keep it short because we collect very little.
+
+1. What we collect
+
+Information you give us. If you use the contact form, we receive the details you type: your name, email address, company, what you are interested in, and your message. If you book a call, scheduling happens through Calendly, which collects your name, email, and the time you pick under its own privacy policy.
+
+Information collected automatically. We use two analytics tools, Google Analytics and PostHog, to understand how the site is used: pages visited, approximate location (city level), device and browser type, and how you arrived here. This data is used in aggregate to improve the site. We do not use it to identify you personally, and we do not run advertising trackers or sell data to ad networks.
+
+Embedded content. Some pages embed YouTube videos. When you play one, YouTube may set cookies and collect viewing data under Google's privacy policy.
+
+2. How we use your information
+
+We use contact-form submissions for exactly one thing: replying to you about your inquiry. Form submissions are delivered to our inbox by our email provider and are not written to a marketing database. If you become a client, further handling of your information is governed by the engagement agreement we sign together.
+
+We use analytics data to see which pages are useful, where visitors come from, and what to improve.
+
+3. What we share
+
+We do not sell, trade, or rent your personal information. The only third parties that touch it are the service providers that make the site run: our hosting provider (Vercel), our email delivery provider (Resend), our scheduling provider (Calendly), and our analytics providers (Google Analytics, PostHog). Each processes data only to provide its service to us.
+
+If we are ever part of a merger, acquisition, or sale of assets, personal information may be among the transferred assets; we would post notice on this page before any change in how it is handled.
+
+4. Data retention and security
+
+Contact inquiries live in our email inbox and are kept only as long as they are useful for the conversation. Analytics data is retained on the default schedules of Google Analytics and PostHog. Data in transit to the site is encrypted over HTTPS. No security measure is perfect, but we deliberately minimize what we collect so there is little to lose.
+
+5. Your rights and choices
+
+Email mark@promptadvisers.com at any time to ask what information we hold about you, to correct it, or to have it deleted. We comply with Canada's anti-spam legislation (CASL): we only email you if you contacted us first or consented, and any promotional email we ever send will include a working unsubscribe. You can also block analytics with standard browser tools or extensions; the site works fine without them.
+
+6. Links to other websites
+
+The site links out to third-party websites (YouTube, O'Reilly, Skool, LinkedIn, X, and others). Their privacy practices are their own; this policy covers only promptadvisers.com.
+
+7. Changes to this policy
+
+If we change this policy, we will update this page and the date at the top. Significant changes get a visible notice on the site.
+
+8. Contact us
+
+Questions about this policy or your information: mark@promptadvisers.com.
+
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Privacy Policy","item":"https://www.promptadvisers.com/privacy-policy"}]}]
+

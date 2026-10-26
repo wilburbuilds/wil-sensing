@@ -4,7 +4,7 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 446. Other companies are added when their teardown is committed.
+Saved pages in this index: 516. Other companies are added when their teardown is committed.
 
 ## agencyva (16 saved pages)
 
@@ -292,6 +292,81 @@ Saved pages in this index: 446. Other companies are added when their teardown is
 | https://pixelnarratives.studio/websites | 200 | https://pixelnarratives.studio/websites | `research/ai-specialists/pixel-narratives/pages/websites.txt` | Visibility / Pixel Narratives |
 | https://pixelnarratives.studio/work-with-us | 200 | https://pixelnarratives.studio/work-with-us | `research/ai-specialists/pixel-narratives/pages/work-with-us.txt` | Work With Us / Pixel Narratives |
 | https://pixelnarratives.studio/work | 200 | https://pixelnarratives.studio/work | `research/ai-specialists/pixel-narratives/pages/work.txt` | Our Work / Pixel Narratives |
+
+## prompt-advisers (70 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://www.promptadvisers.com/careers | 304 | https://www.promptadvisers.com/about | `research/ai-specialists/prompt-advisers/pages/about.txt` | About Mark Kashef & Taha El Harti / Prompt Advisers |
+| https://www.promptadvisers.com/advanced-claude-code-mods | 200 | https://www.promptadvisers.com/advanced-claude-code-mods | `research/ai-specialists/prompt-advisers/pages/advanced-claude-code-mods.txt` | Advanced Claude Code Mods: Add Codex Features to Claude |
+| https://www.promptadvisers.com/agentic-os | 200 | https://www.promptadvisers.com/agentic-os | `research/ai-specialists/prompt-advisers/pages/agentic-os.txt` | The 5 Layers of Every Agentic OS, Explained |
+| https://www.lockpick.app/ai-info | 200 | https://www.lockpick.app/ai-info | `research/ai-specialists/prompt-advisers/pages/ai-info.txt` | Facts for AI assistants · Lockpick |
+| https://www.promptadvisers.com/ai-reasoning-effort-levels | 200 | https://www.promptadvisers.com/ai-reasoning-effort-levels | `research/ai-specialists/prompt-advisers/pages/ai-reasoning-effort-levels.txt` | AI Reasoning Effort Levels: The Setting Everyone Gets Wrong |
+| https://www.promptadvisers.com/app | 200 | https://www.promptadvisers.com/app | `research/ai-specialists/prompt-advisers/pages/app.txt` | The Prompt Advisers App / Prompt Advisers |
+| https://www.lockpick.app/app/billing | 200 | https://www.lockpick.app/app/billing | `research/ai-specialists/prompt-advisers/pages/app__billing.txt` | Sign in · Lockpick |
+| https://www.lockpick.app/app/billing?plan=deep&interval=monthly&start=1 | 200 | https://www.lockpick.app/app/billing?plan=deep&interval=monthly&start=1 | `research/ai-specialists/prompt-advisers/pages/app__billing__plan-deep-interval-monthly-start-1.txt` | Sign in · Lockpick |
+| https://www.lockpick.app/app/billing?plan=deep&interval=yearly&start=1 | 200 | https://www.lockpick.app/app/billing?plan=deep&interval=yearly&start=1 | `research/ai-specialists/prompt-advisers/pages/app__billing__plan-deep-interval-yearly-start-1.txt` | Sign in · Lockpick |
+| https://www.lockpick.app/app/billing?waitlist=master-key | 200 | https://www.lockpick.app/app/billing?waitlist=master-key | `research/ai-specialists/prompt-advisers/pages/app__billing__waitlist-master-key.txt` | Sign in · Lockpick |
+| https://www.promptadvisers.com/best-ai-personal-assistant | 200 | https://www.promptadvisers.com/best-ai-personal-assistant | `research/ai-specialists/prompt-advisers/pages/best-ai-personal-assistant.txt` | Best AI Personal Assistant in 2026: 5 Tools Ranked |
+| https://www.promptadvisers.com/blog | 200 | https://www.promptadvisers.com/blog | `research/ai-specialists/prompt-advisers/pages/blog.txt` | Blog / Prompt Advisers |
+| https://www.promptadvisers.com/build-your-own-jev-with-claude-opus | 200 | https://www.promptadvisers.com/build-your-own-jev-with-claude-opus | `research/ai-specialists/prompt-advisers/pages/build-your-own-jev-with-claude-opus.txt` | Build Your Own Jev With Claude Opus 5.5 / Prompt Advisers |
+| https://www.lockpick.app/checks | 200 | https://www.lockpick.app/checks | `research/ai-specialists/prompt-advisers/pages/checks.txt` | Checks · Lockpick |
+| https://www.promptadvisers.com/claude-code-mods | 200 | https://www.promptadvisers.com/claude-code-mods | `research/ai-specialists/prompt-advisers/pages/claude-code-mods.txt` | Claude Code Mods: 10 Worth Stealing (No IDE Needed) |
+| https://www.promptadvisers.com/claude-code-video-input | 200 | https://www.promptadvisers.com/claude-code-video-input | `research/ai-specialists/prompt-advisers/pages/claude-code-video-input.txt` | Claude Code Video Input: Feed It Raw MP4s, No Skill Needed |
+| https://www.promptadvisers.com/claude-codex-setup | 200 | https://www.promptadvisers.com/claude-codex-setup | `research/ai-specialists/prompt-advisers/pages/claude-codex-setup.txt` | Claude Codex Setup a Mess? Here's the Fix / Prompt Advisers |
+| https://www.promptadvisers.com/claude-fable-5 | 200 | https://www.promptadvisers.com/claude-fable-5 | `research/ai-specialists/prompt-advisers/pages/claude-fable-5.txt` | Claude Fable 5 Leaves Subscriptions July 8. Do This First |
+| https://www.promptadvisers.com/claude-skills | 200 | https://www.promptadvisers.com/claude-skills | `research/ai-specialists/prompt-advisers/pages/claude-skills.txt` | Claude Skills: What to Delete After the Linux Foundation Move |
+| https://www.lockpick.app/claude | 200 | https://www.lockpick.app/claude | `research/ai-specialists/prompt-advisers/pages/claude.txt` | Claude connector · Lockpick |
+| https://www.promptadvisers.com/codex-sdk-internal-tools | 200 | https://www.promptadvisers.com/codex-sdk-internal-tools | `research/ai-specialists/prompt-advisers/pages/codex-sdk-internal-tools.txt` | Codex SDK Internal Tools: Ditch the API Key Bill |
+| https://www.promptadvisers.com/community | 200 | https://www.promptadvisers.com/community | `research/ai-specialists/prompt-advisers/pages/community.txt` | The Early AI-dopters Community / Prompt Advisers |
+| https://www.promptadvisers.com/services | 304 | https://www.promptadvisers.com/consulting | `research/ai-specialists/prompt-advisers/pages/consulting.txt` | Enterprise AI Consulting / Prompt Advisers |
+| https://www.promptadvisers.com/contact | 200 | https://www.promptadvisers.com/contact | `research/ai-specialists/prompt-advisers/pages/contact.txt` | Contact / Prompt Advisers |
+| https://www.lockpick.app/docs | 200 | https://www.lockpick.app/docs | `research/ai-specialists/prompt-advisers/pages/docs.txt` | What is Lockpick · Docs · Lockpick |
+| https://ea-apps.vercel.app/ | 200 | https://ea-apps.vercel.app/ | `research/ai-specialists/prompt-advisers/pages/ea-apps.txt` | EA Portal |
+| https://ea-claudecodelivingcourse.vercel.app/ | 200 | https://ea-claudecodelivingcourse.vercel.app/ | `research/ai-specialists/prompt-advisers/pages/ea-claudecodelivingcourse.txt` | Living Claude Code Course · Early AI-dopters |
+| https://ea-testimonials.vercel.app/ | 200 | https://ea-testimonials.vercel.app/ | `research/ai-specialists/prompt-advisers/pages/ea-testimonials.txt` | Real Wins From Real Members · Early AI-dopters |
+| https://www.skool.com/earlyaidopters/plans?src=join | 200 | https://www.skool.com/earlyaidopters/plans?src=join | `research/ai-specialists/prompt-advisers/pages/earlyaidopters-plans.txt` | Early AI-dopters |
+| https://www.skool.com/earlyaidopters | 200 | https://www.skool.com/earlyaidopters/about | `research/ai-specialists/prompt-advisers/pages/earlyaidopters__about.txt` | Early AI-dopters |
+| https://www.promptadvisers.com/fable-5-1-system-prompt | 200 | https://www.promptadvisers.com/fable-5-1-system-prompt | `research/ai-specialists/prompt-advisers/pages/fable-5-1-system-prompt.txt` | Fable 5.1 System Prompt Leak: What Actually Changed |
+| https://www.promptadvisers.com/free-audit | 200 | https://www.promptadvisers.com/free-audit | `research/ai-specialists/prompt-advisers/pages/free-audit.txt` | Book a free 15-minute AI audit / Prompt Advisers |
+| https://www.promptadvisers.com/gpt-6-1-sol-vs-astra | 200 | https://www.promptadvisers.com/gpt-6-1-sol-vs-astra | `research/ai-specialists/prompt-advisers/pages/gpt-6-1-sol-vs-astra.txt` | GPT-6.1 Sol vs Astra: Which Should You Actually Use? |
+| https://www.promptadvisers.com/gpt-6-astra-3d-worlds | 200 | https://www.promptadvisers.com/gpt-6-astra-3d-worlds | `research/ai-specialists/prompt-advisers/pages/gpt-6-astra-3d-worlds.txt` | GPT-6 Astra 3D Worlds: How to Build One to Learn Anything |
+| https://www.promptadvisers.com/gpt-6-astra-computer-use | 200 | https://www.promptadvisers.com/gpt-6-astra-computer-use | `research/ai-specialists/prompt-advisers/pages/gpt-6-astra-computer-use.txt` | GPT-6 Astra Computer Use: 5 Real Workflows That Work |
+| https://www.promptadvisers.com/gpt-6-astra-effort-levels | 200 | https://www.promptadvisers.com/gpt-6-astra-effort-levels | `research/ai-specialists/prompt-advisers/pages/gpt-6-astra-effort-levels.txt` | GPT-6 Astra Effort Levels: Which One Should You Use? |
+| https://www.promptadvisers.com/grok-bot-alternative | 200 | https://www.promptadvisers.com/grok-bot-alternative | `research/ai-specialists/prompt-advisers/pages/grok-bot-alternative.txt` | Grok Bot Alternative: Build Your Own With Codex and Claude |
+| https://www.promptadvisers.com/grok-bot-model-switcher | 200 | https://www.promptadvisers.com/grok-bot-model-switcher | `research/ai-specialists/prompt-advisers/pages/grok-bot-model-switcher.txt` | Grok Bot Model Switcher: Run Codex, Claude, or Any Model |
+| https://www.lockpick.app/guides | 200 | https://www.lockpick.app/guides | `research/ai-specialists/prompt-advisers/pages/guides.txt` | Guides · Lockpick |
+| https://www.promptadvisers.com/higgsfield-alternative | 200 | https://www.promptadvisers.com/higgsfield-alternative | `research/ai-specialists/prompt-advisers/pages/higgsfield-alternative.txt` | Higgsfield Alternative: Build Your Own AI Creative Studio |
+| https://www.promptadvisers.com/ | 200 | https://www.promptadvisers.com/ | `research/ai-specialists/prompt-advisers/pages/index.txt` | Prompt Advisers / AI Consulting, Workshops & Bootcamps |
+| https://www.lockpick.app/ | 200 | https://www.lockpick.app/ | `research/ai-specialists/prompt-advisers/pages/index.txt` | Lockpick · Know what you left open |
+| https://www.lockpick.app/community | 200 | https://ea-apps.vercel.app/ | `research/ai-specialists/prompt-advisers/pages/index.txt` | EA Portal |
+| https://ea-testimonials.vercel.app/ | 200 | https://ea-testimonials.vercel.app/ | `research/ai-specialists/prompt-advisers/pages/index.txt` | Real Wins From Real Members · Early AI-dopters |
+| https://ea-claudecodelivingcourse.vercel.app/ | 200 | https://ea-claudecodelivingcourse.vercel.app/ | `research/ai-specialists/prompt-advisers/pages/index.txt` | Living Claude Code Course · Early AI-dopters |
+| https://www.promptadvisers.com/jev-ai-use-cases | 200 | https://www.promptadvisers.com/jev-ai-use-cases | `research/ai-specialists/prompt-advisers/pages/jev-ai-use-cases.txt` | 10 Practical Jev AI Use Cases to Cut LLM Costs |
+| https://www.promptadvisers.com/llms.txt | 200 | https://www.promptadvisers.com/llms.txt | `research/ai-specialists/prompt-advisers/pages/llms.txt` |  |
+| https://www.promptadvisers.com/local-ai-setup | 200 | https://www.promptadvisers.com/local-ai-setup | `research/ai-specialists/prompt-advisers/pages/local-ai-setup.txt` | Local AI Setup: The Command Center Anyone Can Build |
+| https://www.promptadvisers.com/local-ai-website-generator | 200 | https://www.promptadvisers.com/local-ai-website-generator | `research/ai-specialists/prompt-advisers/pages/local-ai-website-generator.txt` | Local AI Website Generator: Build 3D Sites for Free |
+| https://www.lockpick.app/ | 200 | https://www.lockpick.app/ | `research/ai-specialists/prompt-advisers/pages/lockpick-home.txt` | Lockpick · Know what you left open |
+| https://www.lockpick.app/login | 200 | https://www.lockpick.app/login | `research/ai-specialists/prompt-advisers/pages/login.txt` | Sign in · Lockpick |
+| https://www.skool.com/@mark-kashef-7464 | 200 | https://www.skool.com/@mark-kashef-7464 | `research/ai-specialists/prompt-advisers/pages/mark-kashef-7464.txt` | Mark Kashef |
+| https://www.promptadvisers.com/media | 200 | https://www.promptadvisers.com/media | `research/ai-specialists/prompt-advisers/pages/media.txt` | Media, Press & YouTube / Prompt Advisers |
+| https://www.lockpick.app/methodology | 200 | https://www.lockpick.app/methodology | `research/ai-specialists/prompt-advisers/pages/methodology.txt` | How Lockpick checks a site · Lockpick |
+| https://www.promptadvisers.com/ollama-codex-cli | 200 | https://www.promptadvisers.com/ollama-codex-cli | `research/ai-specialists/prompt-advisers/pages/ollama-codex-cli.txt` | Ollama Codex CLI: How to Save Your Astra Tokens |
+| https://www.promptadvisers.com/openai-decisions-api | 200 | https://www.promptadvisers.com/openai-decisions-api | `research/ai-specialists/prompt-advisers/pages/openai-decisions-api.txt` | OpenAI Decisions API vs Jev: Cost, Speed, Accuracy |
+| https://www.promptadvisers.com/openai-dots-review | 200 | https://www.promptadvisers.com/openai-dots-review | `research/ai-specialists/prompt-advisers/pages/openai-dots-review.txt` | OpenAI Dots Review: My Honest Take After Testing It |
+| https://www.promptadvisers.com/opencode-breach | 200 | https://www.promptadvisers.com/opencode-breach | `research/ai-specialists/prompt-advisers/pages/opencode-breach.txt` | OpenCode Breach: Protect Your AI API Keys Tonight |
+| https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow | 200 | https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow | `research/ai-specialists/prompt-advisers/pages/opus-5-5-gpt-6-astra-workflow.txt` | Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them |
+| https://www.promptadvisers.com/personal-ai-benchmark | 200 | https://www.promptadvisers.com/personal-ai-benchmark | `research/ai-specialists/prompt-advisers/pages/personal-ai-benchmark.txt` | Personal AI Benchmark: Test New Models on Your Own Work |
+| https://www.promptadvisers.com/php-vulnerability-wordpress | 200 | https://www.promptadvisers.com/php-vulnerability-wordpress | `research/ai-specialists/prompt-advisers/pages/php-vulnerability-wordpress.txt` | PHP Vulnerability WordPress Sites Must Check Now |
+| https://www.lockpick.app/pricing.md | 200 | https://www.lockpick.app/pricing.md | `research/ai-specialists/prompt-advisers/pages/pricing.md.txt` |  |
+| https://www.lockpick.app/pricing | 200 | https://www.lockpick.app/pricing | `research/ai-specialists/prompt-advisers/pages/pricing.txt` | Pricing · Lockpick |
+| https://www.promptadvisers.com/privacy-policy | 200 | https://www.promptadvisers.com/privacy-policy | `research/ai-specialists/prompt-advisers/pages/privacy-policy.txt` | Privacy Policy / Prompt Advisers |
+| https://www.promptadvisers.com/security | 200 | https://www.promptadvisers.com/security | `research/ai-specialists/prompt-advisers/pages/security.txt` | AI Security & Compliance Review / Prompt Advisers |
+| https://www.lockpick.app/signup | 200 | https://www.lockpick.app/signup | `research/ai-specialists/prompt-advisers/pages/signup.txt` | Create account · Lockpick |
+| https://www.promptadvisers.com/terms-and-conditions | 200 | https://www.promptadvisers.com/terms-and-conditions | `research/ai-specialists/prompt-advisers/pages/terms-and-conditions.txt` | Terms & Conditions / Prompt Advisers |
+| https://www.skool.com/@ty-wells-7394?g=earlyaidopters | 200 | https://www.skool.com/@ty-wells-7394?t=posts | `research/ai-specialists/prompt-advisers/pages/ty-wells-7394__t-posts.txt` | Ty Wells |
+| https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything | 200 | https://www.promptadvisers.com/uncensored-ai-reverse-engineer-anything | `research/ai-specialists/prompt-advisers/pages/uncensored-ai-reverse-engineer-anything.txt` | Uncensored AI + Reverse Engineer Anything: A Setup |
+| https://www.promptadvisers.com/workshops | 200 | https://www.promptadvisers.com/workshops | `research/ai-specialists/prompt-advisers/pages/workshops.txt` | AI Workshops & Claude Code Training for Teams / Prompt Advisers |
 
 ## schema-operations (32 saved pages)
 

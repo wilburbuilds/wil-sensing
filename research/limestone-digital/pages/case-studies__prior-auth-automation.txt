@@ -1,0 +1,360 @@
+URL: https://limestonedigital.com/case-studies/prior-auth-automation
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/case-studies/prior-auth-automation
+Content-Type: text/html; charset=UTF-8
+Title: Prior-Auth Automation: POC to Production - Limestone Digital
+Meta description: How we took a prior-auth browser extension from POC to production in 3 months: payer portal automation with human-in-the-loop control and HIPAA hardening.
+Canonical: https://limestonedigital.com/case-studies/prior-auth-automation
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Prior-Auth Automation: POC to Production
+
+Prior-Auth Automation: POC to Production - Limestone Digital
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Back to Case Studies
+Prior-Auth Automation: POC to Production
+How Limestone shipped supervised automation inside payer portals for a PE-backed healthcare platform
+Healthcare
+Prior Auth
+Automation
+UX/UI Design
+Industries
+Healthcare, Prior Authorization & Referral Management
+Platform
+Browser extension (Chrome, Manifest V3) + platform modernization
+Delivery scope
+Managed delivery, fixed price: automation engineering, product-wide UX audit and redesign, compliance hardening
+ABOUT THE PROJECT
+Project overview
+Engagement
+March 2026 — ongoing, production since June
+Team
+PM, BA, 3 full-stack developers, UX/UI designer, Design Lead
+Core technologies
+Chrome Extension (Manifest V3), React/TypeScript, Vite, client-side PDF processing
+The client is a PE-backed healthcare technology company focused on prior authorization and referral management, serving hospitals, health systems, and payers. The platform carries a decade of payer-specific workflow knowledge, with a roadmap for modernization without interrupting the workflow, EHR integration, and fax operations already running.
+Limestone joined in March 2026 on fixed-price managed delivery. An April proof of concept proved a browser extension could drive payer portals from inside the coordinator's own session. The team productized the extension with stakeholders in the loop at every stage, publishing to production in June.
+The Challenge
+Automate portals that were never meant to be automated.
+Payer portals refuse standardization
+Workflows branch on procedure codes, place of service, health plan, and clinical context. Every payer differs in authentication, data, and submission paths.
+Automation needs a human nearby
+MFA prompts, clinical questions, and unexpected portal states can't break the run. Intervention had to be part of the workflow, not a failure of it.
+A visibility gap
+High-volume workflows needed a UX overhaul to reduce friction, clarify case and payer states, and keep automation progress visible.
+Modernize without starting over
+Ten years of payer workflow knowledge and live operations had to survive the move: a V1.5 bridge toward the future platform, not a rewrite.
+WHAT WE BUILT
+Solution
+A production automation channel, inside the coordinator's browser. The extension runs payer-specific automation within the coordinator's own authenticated session, keeps a controlled connection to the platform, and hands control to a human whenever the portal demands one.
+Automated Execution
+Case data in, predefined payer workflows executed, portal interactions navigated, outcomes captured and synchronized back to the platform.
+Human-in-the-Loop Control
+Take over and resume, predefined MFA handoffs, general handoff for unanticipated conditions, and manual result entry, all inside the same run.
+Automation Control Center
+Cross-tab orchestration with centralized visibility over every active run, so coordinators monitor and switch between concurrent executions in real time.
+Action-Required Alerts
+Native OS notifications surface intervention requests regardless of which tab or application has focus.
+Observe Mode
+Captures real activity on non-scripted portals and turns it into the foundation for new automation scripts: observe, capture, send back.
+Execution Telemetry
+Every run captured: automated completion, handoffs, and workflow-level signals, the base for measuring script performance and prioritizing the next automation.
+DESIGN STREAM
+The redesign that carried the automation.
+An AI-driven platform redesign that unified five product areas on one token-based design system, with components and patterns reused instead of five separate looks. The payoff is consistency, faster delivery of new screens, and an interface coordinators can read at speed.
+INSIDE THE COORDINATOR'S SESSION
+Regulated by design, hardened before launch.
+Automation executes inside the coordinator's own authenticated browser session, not a separate system. Compliance work was delivered as engineering scope: a PHI remediation pass across recorded values, errors, notifications, logs, and stored output, session and transport hardening, structured logging with PHI redaction, and HIPAA-focused security work completed ahead of the production release.
+DELIVERY TIMELINE
+Four beats: prove it, productise it, ship it, scale it.
+March 2026
+Engagement Start
+Fixed-price managed delivery
+April
+Prove It
+Live portal driven in-session
+May
+Productise It
+Multi-tab · queue · integration
+June
+Ship It
+Hardened · published to production
+July+
+Scale It
+Observe Mode · payer library
+SUPERVISED AUTOMATION
+Not automation without people. Automation that knows when to ask.
+HUMAN INPUT EXPECTED
+Control passes over, and back.
+MFA, clinical questions, and unexpected portal states are part of the workflow, not errors. The coordinator steps in, automation resumes, and the case never leaves the run.
+KNOWLEDGE CARRIED FORWARD
+Modernization without starting over.
+The client's most valuable asset was a decade of payer workflow knowledge. Scripts were ported into the new TypeScript engine with legacy operations running throughout. Nothing was thrown away.
+A SYSTEM, NOT A SCRIPT LIBRARY
+Coverage that compounds.
+Observe Mode turns real portal sessions into new automations, and telemetry on completions and handoffs shows which workflows need attention next. Each run feeds the next script.
+TEN YEARS OF PAYER WORKFLOW KNOWLEDGE, CARRIED INTO A NEW ENGINE.
+Impact & Results
+What shipped, and what it proved.
+✓
+From proof of concept to a published production Chrome extension, establishing a new browser-based channel for payer portal automation.
+✓
+Human-in-the-loop automation became a production capability: automation handles the repeatable work while coordinators keep control for MFA, clinical questions, and manual paths.
+✓
+The Automation Control Center gives coordinators centralized visibility across concurrent runs, with native OS alerts whenever intervention is needed.
+✓
+Observe Mode made payer coverage a scalable expansion model: observe a new workflow, capture it, deploy a reusable script.
+✓
+Execution telemetry captures runs, completions, handoffs, and workflow signals, making automation measurable and improvable.
+✓
+A decade of payer workflow knowledge was extended into the new TypeScript automation engine without losing it.
+✓
+A unified design language and redesigned core experiences shipped across dashboards, work queues, case management, and automation controls.
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+[CLOSE]
+ENGINEERS, NOT CONSULTANTS
+Ready to move? Let's scope the work.
+Find out what it would take to solve your problem, and what it could cost.
+01
+Tell us what needs fixing.
+02
+Book a free assessment.
+03
+Discuss approach, cost and timing.
+Book a Free Assessment
+*About 2 minutes · No commitment
+Leave this field empty
+THE PROBLEM
+1 / 7
+What do you want to make happen?
+Choose the closest fit. We'll get into the details next.
+A
+Automate manual work with agents
+B
+Get an AI pilot into production
+C
+Build an AI feature or product
+D
+Ship software faster
+E
+Get our teams using AI properly
+F
+Find the right place to start
+THE PROBLEM
+2 / 7
+Tell us about the problem.
+What happens today, what's getting in the way, and what would better look like?
+The problem and the result you want
+Tell us a little more so we can understand the problem (at least 20 characters).
+A few sentences is enough. Please leave out confidential data.
+0/2,000
+YOUR BUSINESS
+3 / 7
+A little context about your business.
+This helps us bring the right experience to the conversation.
+Your role
+Select an option
+Founder / CEO
+CTO, CPTO or VP Engineering / Product
+COO, operations or compliance leader
+CFO / financial leader
+Engineering or product manager
+Engineer / individual contributor
+PE firm (operating partner, value creation)
+Other
+Your industry
+Select an option
+Healthcare
+Insurance
+Financial Services
+Logistics & transportation
+Software & technology
+Manufacturing & industrial
+Retail & e-commerce
+Professional services
+Private equity & VC
+Other
+YOUR BUSINESS
+4 / 7
+What size of business are we working with?
+A rough range is plenty. Annual revenue in USD or the equivalent.
+Annual company revenue (USD)
+Select an option
+Under $5M
+$5M-$25M
+$25M-$100M
+$100M-$500M
+$500M+
+Pre-revenue
+Prefer not to say
+Number of employees
+Select an option
+1-5
+5-25
+25-50
+50-100
+100-500
+500-1000
+1000+
+If you represent a portfolio, answer for the company this project is for.
+THE PROJECT
+5 / 7
+How close are you to making a move?
+A working pilot and a first idea need different next steps.
+Where are you today?
+Select an option
+Exploring the opportunity
+We have a defined problem
+A pilot is already running
+We need to improve a live system
+When would you like to start?
+Select an option
+Ready to start now
+Within 1–3 months
+Within 3–6 months
+Exploring, no deadline yet
+THE PROJECT
+6 / 7
+Have you set an investment range?
+For an initial implementation, in USD. It's fine if you need our help to work this out.
+A
+Under $25K
+B
+$25K–$75K
+C
+$75K–$150K
+D
+$150K+
+E
+We need your guidance
+YOUR DETAILS
+7 / 7
+Who should we speak with?
+Your details and answers help us prepare for your free assessment.
+Your name
+Company name
+Work email
+Company website (optional)
+Review your answers
++
+Goal
+Edit
+Problem
+Edit
+Role
+Edit
+Industry
+Edit
+Annual revenue
+Edit
+Employees
+Edit
+Stage
+Edit
+Timeline
+Edit
+Investment range
+Edit
+By continuing, you're asking Limestone Digital to contact you about this project.
+Back
+Continue
+Your brief is in. Choose a time.
+Book your free assessment with Mark to discuss the approach, likely cost and how soon we could start.
+Mark Ajzenstadt
+Founder, Limestone Digital
+Choose a time
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+Form 2: id=ld-fac-form name= method= action=
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='A Automate manual work with agents' name='requested_service' type=radio optional placeholder='' value='AI Agents'
+  field: label='B Get an AI pilot into production' name='requested_service' type=radio optional placeholder='' value='AI pilot to production'
+  field: label='C Build an AI feature or product' name='requested_service' type=radio optional placeholder='' value='Build AI feature/product'
+  field: label='D Ship software faster' name='requested_service' type=radio optional placeholder='' value='AI SDLC'
+  field: label='E Get our teams using AI properly' name='requested_service' type=radio optional placeholder='' value='AI enablement'
+  field: label='F Find the right place to start' name='requested_service' type=radio optional placeholder='' value='Other (Not Sure)'
+  field: label='The problem and the result you want' name='problem_description' type=textarea optional placeholder='For example: our operations team spends hours re-entering claims between systems. We want to reduce the manual work without losing human review.'
+  field: label='Your role' name='job_title_v2_simplified' type=select required placeholder='' options=[=Select an option | Founder / CEO=Founder / CEO | CTO, CPTO or VP Engineering / Product=CTO, CPTO or VP Engineering / Product | COO, operations or compliance leader=COO, operations or compliance leader | CFO / financial leader=CFO / financial leader | Engineering or product manager=Engineering or product manager | Engineer / individual contributor=Engineer / individual contributor | PE firm (operating partner, value creation)=PE firm (operating partner, value creation) | Other=Other]
+  field: label='Your industry' name='industry_v2_simplified' type=select required placeholder='' options=[=Select an option | Healthcare=Healthcare | Insurance=Insurance | Financial Services=Financial Services | Logistics & transportation=Logistics & transportation | Software & technology=Software & technology | Manufacturing & industrial=Manufacturing & industrial | Retail & e-commerce=Retail & e-commerce | Professional services=Professional services | Private equity & VC=Private equity & VC | Other=Other]
+  field: label='Annual company revenue (USD)' name='annual_revenue_v2_website_form' type=select required placeholder='' options=[=Select an option | Under $5M=Under $5M | $5M-$25M=$5M-$25M | $25M-$100M=$25M-$100M | $100M-$500M=$100M-$500M | $500M+=$500M+ | Pre-revenue=Pre-revenue | Prefer not to say=Prefer not to say]
+  field: label='Number of employees' name='numemployees' type=select required placeholder='' options=[=Select an option | 1-5=1-5 | 5-25=5-25 | 25-50=25-50 | 50-100=50-100 | 100-500=100-500 | 500-1000=500-1000 | 1000+=1000+]
+  field: label='Where are you today?' name='project_stage' type=select required placeholder='' options=[=Select an option | Exploring the opportunity=Exploring the opportunity | We have a defined problem=We have a defined problem | A pilot is already running=A pilot is already running | We need to improve a live system=We need to improve a live system]
+  field: label='When would you like to start?' name='start_timeline' type=select required placeholder='' options=[=Select an option | Ready to start now=Ready to start now | Within 1–3 months=Within 1–3 months | Within 3–6 months=Within 3–6 months | Exploring, no deadline yet=Exploring, no deadline yet]
+  field: label='A Under $25K' name='investment_range' type=radio optional placeholder='' value='Under $25K'
+  field: label='B $25K–$75K' name='investment_range' type=radio optional placeholder='' value='$25K–$75K'
+  field: label='C $75K–$150K' name='investment_range' type=radio optional placeholder='' value='$75K–$150K'
+  field: label='D $150K+' name='investment_range' type=radio optional placeholder='' value='$150K+'
+  field: label='E We need your guidance' name='investment_range' type=radio optional placeholder='' value='We need your guidance'
+  field: label='Your name' name='' type=text required placeholder='Alex Morgan'
+  field: label='' name='firstname' type=hidden optional placeholder=''
+  field: label='' name='lastname' type=hidden optional placeholder=''
+  field: label='Company name' name='company' type=text optional placeholder='Your company'
+  field: label='Work email' name='email' type=email required placeholder='alex@company.com'
+  field: label='Company website (optional)' name='website' type=text optional placeholder='company.com'
+  button: Review your answers +
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Back
+  button: Continue
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"Prior-Auth Automation: POC to Production","item":"https://limestonedigital.com/case-studies/prior-auth-automation"}]}
+
+{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://limestonedigital.com/case-studies/prior-auth-automation"},"headline":"Prior-Auth Automation: POC to Production","datePublished":"2026-09-04T13:27:42+00:00","dateModified":"2026-10-23T19:02:29+00:00","publisher":{"@id":"https://limestonedigital.com/#organization"},"author":{"@id":"https://limestonedigital.com/#organization"},"description":"How Limestone shipped supervised automation inside payer portals for a PE-backed healthcare platform","image":"https://limestonedigital.com/wp-content/uploads/2026/09/prior-hero-visual.png"}

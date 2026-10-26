@@ -1,0 +1,42 @@
+URL: https://www.skool.com/earlyaidopters/plans?src=join
+Fetched: 2026-10-26T03:52:35Z
+HTTP status: 200
+Final URL: https://www.skool.com/earlyaidopters/plans?src=join
+Content-Type: text/html
+Via: chrome-headless
+Title: Early AI-dopters
+Meta description: Master Claude Code, Codex, and everything AI, then get paid for it.  Build it, sell it, or run it at work.  All signal, none of the hype 🦾
+Canonical: 
+Robots: 
+H1: 
+
+Early AI-dopters
+Select your plan
+$43/month
+Standard
+Master Claude Code & Codex
+Access Your Co-Pilot & Resource Vault
+Join Live Calls
+Learn Prompt Engineering
+JOIN STANDARD
+$77/month
+Premium
+Get Everything in Standard
+Learn to Build & Sell AI Solutions
+Access All Courses, Including Local AI & ML
+Get 1:1 Coaching & Office Hours
+Deploy Your Agentic OS
+Leverage Our Community MCP
+JOIN PREMIUM
+$777/year
+VIP
+Save $147 Every Year
+Get Everything in Premium
+Access Leads From Our Agency
+Access Exclusive Masterminds
+Deploy Your Enterprise OS
+Unlock Annual Perks
+JOIN VIP
+
+Early AI-dopters
+

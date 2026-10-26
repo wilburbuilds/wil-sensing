@@ -1,0 +1,147 @@
+URL: https://www.promptadvisers.com/careers
+Fetched: 2026-10-26T03:45:32Z
+HTTP status: 304
+Final URL: https://www.promptadvisers.com/about
+Content-Type: text/html
+Via: chrome-headless
+Title: About Mark Kashef & Taha El Harti | Prompt Advisers
+Meta description: Mark Kashef, O'Reilly instructor with a decade in data science and 80k on YouTube, and Taha El Harti, who builds the production AI systems behind it.
+Canonical: https://www.promptadvisers.com/about
+Robots: 
+H1: MARK KASHEF.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · III / THE FOUNDER
+
+MARK KASHEF.
+
+BIOGRAPHY
+
+Mark Kashef is the founder of Prompt Advisers, an AI consultancy that has helped hundreds of businesses integrate generative AI into their workflows.
+
+01
+
+He brings over a decade in data science and machine learning, having served as a data scientist and data science manager across multiple startups.
+
+02
+
+Through a YouTube channel 80,000 strong, he helps professionals understand and apply the latest AI to real business problems.
+
+03
+
+A background in finance lets him pair technical depth with strategic business judgment.
+
+04
+
+He keynotes, moderates panels, and appears on podcasts on how AI is changing the way we work.
+
+05
+
+He holds a master’s of management in artificial intelligence from Queen's University.
+
+IV / A RECORD
+
+2019
+Over a decade in data science and machine learning, as a scientist and manager across startups.
+2022
+Prompt Advisers, founded days after ChatGPT launched.
+2025
+A 1,000+ person community. 80,000 watching on YouTube.
+2026
+Over five hundred businesses advised and counting. Thinking in AI, the forthcoming book.
+
+THE CO-FOUNDER
+
+TAHA EL
+HARTI.
+
+The yin to the yang. Where Mark teaches the room, Taha builds the systems behind it.
+
+V / THE CO-FOUNDER
+
+The other half of Prompt Advisers. He makes sure the AI we put in front of a client actually holds up inside a real company.
+
+01
+
+Five years building production AI systems, first for construction and home-services companies.
+
+02
+
+Three years implementing AI across insurance, from the first intake to the decision at the end.
+
+03
+
+A content creator and business coach who gets founders and operators shipping, not just planning.
+
+04
+
+The final sign-off on everything we build. If it reaches a client, it cleared him first.
+
+TWO OPERATORS, ONE STAGE. BERLIN, 2026.
+
+LATEST FROM TAHA
+
+VISIT THE CHANNEL
+
+Claude Code Slash Commands Worth Using (and Skipping)
+
+JUN 17, 2026
+
+Claude just dropped their most powerful model yet. (Fable 5)
+
+JUN 9, 2026
+
+How I use Opus 4.8 to Create Dashboards insanely quickly.
+
+JUN 6, 2026
+
+VI / OUR VALUES
+
+We teach. We don’t gatekeep.
+
+We ship proof, not slideware.
+
+We stay ahead of the shift, so you don’t have to.
+
+We only teach what we’ve done ourselves.
+
+III / THE FOUNDER
+
+WORK WITH MARK'S TEAM.
+BOOK YOUR FREE 15-MINUTE CALL
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"About","item":"https://www.promptadvisers.com/about"}]}]
+[{"@context":"https://schema.org","@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","jobTitle":"Founder","worksFor":{"@id":"https://www.promptadvisers.com/#organization"},"description":"Mark Kashef is the founder of Prompt Advisers, an AI consultancy that has helped hundreds of businesses seamlessly integrate generative AI into their workflows. With over a decade of experience in data science and machine learning, he has served in the roles of data scientist and data science manager at multiple startups. Through his popular YouTube channel, Mark helps professionals quickly understand and apply the latest AI innovations to solve real-world business challenges. He also has a background in finance, enabling him to combine technical depth with strategic business insight. Mark regularly delivers keynote talks, moderates panels, and appears on podcasts, offering insight into how AI is transforming the way we work. He's known for translating advanced AI concepts into accessible frameworks that decision makers can act on confidently. Mark holds a master's of management degree in artificial intelligence from Queen's University.","url":"https://www.promptadvisers.com/about","sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef"],"alumniOf":"Queen's University","knowsAbout":["Claude Code","Codex","generative AI","AI consulting","prompt engineering","corporate AI training"]},{"@context":"https://schema.org","@type":"Person","@id":"https://www.promptadvisers.com/#cofounder","name":"Taha El Harti","jobTitle":"Co-Founder","worksFor":{"@id":"https://www.promptadvisers.com/#organization"},"description":"Co-founder of Prompt Advisers. He builds the production AI systems behind the consultancy, with five years across construction and home services and three years across insurance. Content creator and business coach.","url":"https://www.promptadvisers.com/about","sameAs":["https://www.youtube.com/@Taha_EH"],"knowsAbout":["production AI systems","AI for construction and home services","AI for insurance","AI implementation","business coaching"]}]
+

@@ -1,0 +1,120 @@
+URL: https://limestonedigital.com/blog/bigger-doesnt-always-mean-better
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/bigger-doesn-t-always-mean-better
+Content-Type: text/html; charset=utf-8
+Title: Bigger doesn’t always mean better
+Meta description: Mid-market companies need digital transformation partners who understand them. Discover the PROOF Framework for better technology partnerships.
+Canonical: https://thefoundation.limestonedigital.com/p/bigger-doesn-t-always-mean-better
+Robots: max-image-preview:large
+H1: Bigger doesn’t always mean better | AI Foundation from Limestone Digital
+
+Bigger doesn’t always mean better
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+Bigger doesn’t always mean better
+Bigger doesn’t always mean better
+Episode 4
+Aug 26, 2025
+Hi there,
+Bigger doesn’t always mean better.
+This is particularly true in digital transformation.
+When selecting a partner, mid-market companies must look beyond size. They need to find methods designed with them in mind.
+Keep reading to learn more.
+Inside the Issue
+The Practical Toolkit:
+Dive into the PROOF Framework — a better framework for mid-market digital transformation.
+Industry Radar:
+Discover how to measure platform engineering success.
+Field Notes:
+When opportunity meets the abyss
+.
+The Practical Toolkit
+Mid-market companies pursuing digital transformation often start with what seems like the most straightforward approach.
+They partner with the largest consulting firm they can afford.
+Companies look to a firm’s size and reputation as indicators of quality and capability, because in many cases, this holds true.
+However, this approach can create unexpected challenges for mid-market data modernization projects.
+Large firms will naturally apply their proven methodologies.
+But these approaches — designed for enterprise budgets and timelines — don’t always align with mid-market constraints.
+Their open-ended nature can inadvertently lead to extended development cycles that consume mid-market resources without delivering concrete business value.
+Mid-market companies must find a way to get the customized treatment they require without taking on enterprise-level risk they can’t afford.
+Finding your way with the PROOF Framework
+Mid-market companies need to fundamentally shift how they evaluate and engage with technology partners.
+Over nine years of working with Limestone Digital customers who had challenging experiences with traditional vendors, founder and chairman Mark Ajzenstadt has developed the PROOF Framework.
+It’s a systematic approach that mid-market leaders can use to navigate partner selection, leading to projects that deliver measurable business outcomes within realistic timeframes.
+Here’s the TL;DR:
+P
+ilot with fixed scope and price
+R
+esults defined upfront
+O
+utcomes delivered quickly
+O
+wnership of risk transfers to vendor
+F
+ollow-up projects earned through trust
+Want PROOF from your technology partner?
+Dive into the full framework to learn how to move forward with digital transformation.
+Industry Radar
+How can you measure platform engineering success? DORA metrics, the SPACE framework, and NPS. (
+Xebia
+)
+Improving the quality of your unstructured data is essential. (
+Harvard Business Review
+)
+Field Notes
+When opportunity meets the abyss:
+A few months ago, a payments client spotted a massive market opportunity — a chance to capture 40% more transaction volume from a competitor’s outage.
+The problem? Their reporting system took days to generate the risk analytics they needed to safely scale up processing.
+By the time they had the data, the opportunity was gone. Competitors with real-time reporting had already captured the market share.
+Week 1:
+We diagnosed their bottleneck — legacy batch processing choking their analytics pipeline.
+Week 4:
+Deployed a real-time streaming architecture pilot.
+Week 6:
+Next market opportunity? They won’t be on the sidelines.
+Cost of the solution: Less than what they lost in that single weekend.
+Thank you for joining us for another edition of The Foundation.
+You’ll hear from us again in two weeks, with more insights from the industry experts.
+Don’t wait to kick off digital transformation.
+Get started today
+.
+Book a Call
+P.S. We want to make sure this newsletter hits the mark. So reply to this email and let us know what you think.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"bigger-doesn-t-always-mean-better","url":"https://thefoundation.limestonedigital.com/p/bigger-doesn-t-always-mean-better","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/bigger-doesn-t-always-mean-better"},"headline":"Bigger doesn’t always mean better","description":"Episode 4","datePublished":"2025-08-26T16:13:28.762Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/9debd4d4-1c63-4185-8871-2c7a7632b930/playbook-04-bigger-doesn-t-always-mean-better.png?t=1788797950"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:19:12Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/bigger-doesn-t-always-mean-better","name":"Bigger doesn’t always mean better"}}]}

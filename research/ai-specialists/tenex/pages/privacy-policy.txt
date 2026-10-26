@@ -1,0 +1,114 @@
+URL: https://www.tenex.co/privacy
+Fetched: 2026-10-26T03:34:36Z
+HTTP status: 200
+Final URL: https://www.tenex.co/privacy-policy
+Content-Type: text/html
+Via: chrome-headless
+Title: Privacy Policy | Tenex
+Meta description: How Tenex Labs collects, uses, stores, and protects your personal information when you visit tenex.co or use our services.
+Canonical: https://www.tenex.co/privacy-policy
+Robots: 
+H1: Privacy Policy | Privacy
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Privacy Policy
+Privacy
+
+‍Effective Date: April 1, 2025
+‍Last Updated: November 12, 2025
+
+1. Introduction
+‍
+Tenex Labs, LLC (“Tenex,” “we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how we collect, use, store, and protect your personal information when you visit tenex.co or engage with our Services, including subscribing to our newsletter.
+
+2. Information We Collect
+‍
+We may collect the following types of information:
+‍
+- Contact Information – such as your name, email, and company when you contact us, subscribe to our newsletter, or complete a form.
+- Professional Information – details you provide during consultations or business communications.
+- Technical Data – such as IP address, browser type, and usage analytics (via tools like Google Analytics).
+- Client Data (Project Work) – in the context of client engagements, we may access systems, data, or environments only as necessary to deliver contracted services. Such access is governed by the client’s contract and handled confidentially.
+‍
+We do not sell personal information.
+
+3. How We Use Information
+‍
+We use collected data to:
+‍
+- Respond to inquiries and provide requested services,
+- Manage client relationships and project communications,
+- Send newsletters and updates (you can unsubscribe anytime),
+- Improve our website and offerings,
+- Comply with legal or contractual obligations.
+
+4. Data Sharing
+‍
+We may share limited information with:
+‍
+- Vendors and service providers (e.g., email, analytics, hosting) who assist us in operations;
+- Legal authorities when required to comply with law or enforce our rights.
+‍
+We never sell, rent, or trade user information.
+
+5. Data Retention
+‍
+We retain personal data only as long as necessary for the purpose for which it was collected, or as required by law. Client project data is handled per the terms of each engagement contract.
+
+6. Security
+‍
+We implement reasonable technical and organizational measures to protect information from unauthorized access, loss, or misuse. However, no system is completely secure, and we cannot guarantee absolute protection.
+
+7. Your Rights (GDPR & CCPA)
+‍
+If you are located in the EU, UK, or California, you have the right to:
+‍
+- Access, correct, or delete your personal data;
+- Request data portability;Object to or restrict processing;
+- Withdraw consent at any time (where applicable).
+‍
+To exercise these rights, contact human@tenex.co.
+
+8. International Data Transfers
+‍
+Data may be stored or processed in the United States or other locations where we or our service providers operate. We use appropriate safeguards for international data transfers consistent with GDPR requirements.
+
+9. Updates to This Policy
+‍
+We may revise this Privacy Policy periodically. Updates will be posted on this page with a new effective date.
+
+10. Contact
+‍
+If you have questions about this Privacy Policy or our data practices, contact:
+‍
+📧 human@tenex.co
+‍🏢 Tenex Labs, LLC – New York, NY
+
+
+Stay on the right side  of history.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+human@tenex.co
+
+2026 Tenex. All rights reserved.
+
+Blog Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

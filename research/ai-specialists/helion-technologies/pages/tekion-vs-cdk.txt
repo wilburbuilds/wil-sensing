@@ -1,0 +1,296 @@
+URL: https://heliontechnologies.com/tekion-vs-cdk/
+Fetched: 2026-10-26T03:52:55Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/tekion-vs-cdk/
+Content-Type: text/html
+Via: chrome-headless
+Title: Tekion vs CDK: A DMS Comparison From the IT Side | Helion
+Meta description: Tekion vs CDK compared from the IT side: where each DMS runs, phones, network, integrations and security, plus six questions to settle before you switch.
+Canonical: https://heliontechnologies.com/tekion-vs-cdk/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Tekion vs CDK: A DMS Comparison From the IT Side
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+DMS COMPARISON
+
+Tekion vs CDK: A DMS Comparison From the IT Side
+
+What changes for your network, devices, phones, integrations and security when a store moves between the two, or decides to stay put.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Tekion and CDK both sell dealer management systems to franchised dealerships, and both run them as hosted platforms. For IT, the real difference shows up in a move. Phones, network services, integrations and user access all change hands.
+
+Last updated: October 14, 2026
+
+Internet circuits and failover
+PCs, printers and signature pads
+Phones and texting
+Third-party integrations
+User access and security
+One DMS on top of all of it
+Most of a DMS move happens below the login screen.
+
+Erik Nachbahr, who founded Helion Technologies in 1997, has walked a lot of stores through this exact switch. “It’s such a titanic shift from where you were on CDK or Reynolds and Reynolds that nobody absorbs all of it on the first pass,” he wrote in his post on life after Tekion go-live. He meant the people. The network’s the same way.
+
+Search for Tekion vs CDK and you mostly get feature grids and software reviews. Almost nobody covers the IT side, so this page does, for dealers looking at our Tekion enablement services or our DMS transition support. A demo shows you how a deal gets desked. It won’t show you what happens to that deal when the F&I printer can’t find the new system on the last Saturday of the month, with two customers waiting and the sales manager standing in the doorway. That part’s on us.
+
+Full disclosure. Helion is a Tekion Certified Partner, and we support stores running CDK every day. That’s why the comparison below sticks to what each company publishes.
+
+Why Tekion vs CDK Is a Live Question in 2026
+
+Both companies had a big year. Neither one forces a dealer to do anything, and nothing here is a reason to panic. It’s a reason to know your renewal date. Write it down.
+
+Tekion’s growth is the market story, since more franchised stores are now running its Automotive Retail Cloud and more dealer principals are being asked by their own general managers whether they’ll be next.
+
+CDK changed leadership this month and has been rolling its products into one platform it calls the Dealership Xperience Platform. One of the largest public dealer groups in the country had moved 70% of its stores to Tekion by late July 2026. Our DMS conversion checklist covers what a move like that asks of IT.
+
+Big news on both sides. Your contract matters more.
+
+February 2026
+
+At the NADA Show, Tekion reported more than 60% ARC revenue growth for 2025. Its site now counts 3,000+ dealerships running on the platform.
+
+Fast growth. More stores asking the question.
+
+October 2026
+
+CDK Global named Sudhakar Ramakrishna president and CEO, effective October 5, succeeding Brian MacDonald. Brookfield Business Partners has owned CDK since 2022.
+
+New leader. Same contracts on file.
+
+SIDE BY SIDE
+
+Tekion vs CDK, Compared Line by Line
+
+Everything here comes from the two companies’ own sites and announcements, as of October 2026. It’s what each one says about itself, not a ranking. Confirm the details with both before you sign anything. On Reynolds? Our Tekion vs Reynolds and Reynolds comparison asks the same questions. Weighing Dealertrack too? Our four-way DMS comparison lines up all four.
+
+Topic
+	Tekion	CDK
+Company	Pleasanton, California. Founded in 2016 by Jay Vijayan and Guru Sankararaman.	Spun off from ADP’s dealer services business in 2014. Owned by Brookfield Business Partners since 2022.
+DMS platform	Automotive Retail Cloud (ARC), which puts DMS, CRM, service, payments, payroll and analytics on one platform.	CDK Drive, plus Modern Retail, Fixed Operations, Intelligence and other suites on its Dealership Xperience Platform.
+Where it runs	Cloud-native. Staff use a web browser or Tekion’s own app for iPhone and iPad.	Hosted by CDK, which describes its platform as cloud-based software as a service.
+Integrations	Automotive Partner Cloud, listing 250+ partner integrations and 390 APIs.	Fortellis, CDK’s API platform and app marketplace since 2018, plus open APIs across its suites.
+Phones and network	Calling and texting inside ARC come through partners such as GoTo Connect and CallRevu.	Sells its own phone system, CDK Voice Connect, plus network, security and managed services.
+OEM ties	Certified with 50+ OEM brands, by Tekion’s count, Ford, GM, Toyota and Honda among them.	Serves automotive and heavy truck stores, with 80+ heavy truck OEM integrations on CDK Drive.
+Reported footprint	3,000+ dealerships.	9,000+ customers in the automotive and heavy truck markets.
+
+Sources: Tekion, Tekion Automotive Partner Cloud, CDK Global and CDK Voice Connect.
+
+BEFORE YOU SIGN
+
+Six IT Questions to Settle Before You Choose Tekion or CDK
+
+The demo covers screens and workflows. These are the questions it skips, and they apply whether you’re moving or renewing. Ask them in writing. Then lay the answers side by side.
+
+Want the IT side of either path priced out for your stores? Request a price quote.
+
+WHERE HELION FITS
+
+The network, the devices, the security and the Safeguards file under the DMS. We do that work for Tekion stores and CDK stores alike.
+
+Dealership DMS evaluation
+Same six questions, either path
+
+1 Who owns the phones?
+
+If your phones came from CDK, changing the DMS doesn’t end that phone contract by itself. Check the term, who holds the numbers, and how calls and caller details will reach the new system, because a service advisor who can’t see who’s calling loses the thread with the customer fast. Tekion connects calling and texting through partners, so that’s a choice you get to make. Our guide to re-bidding phones and network in a CDK to Tekion move walks through it.
+
+Pull the phone contract before you sign the DMS one.
+
+2 Who provides the network?
+
+Some stores buy circuits, firewalls, Wi-Fi or managed network services from the same company that sells them the DMS, and those line items tend to blur together on one invoice over the years. A move turns each of those into its own decision. New circuits carry lead times. Order early.
+
+List every network line item on the current invoice.
+
+3 Is the internet ready to be the DMS?
+
+Both platforms are hosted, so a rooftop that loses its circuit loses its DMS. Tekion’s Implementation Terms also put electrical work, data cabling and the readiness sign-off on the dealer. Our Tekion network requirements guide walks through it.
+
+Pull the primary circuit and watch the store keep working.
+
+4 Which devices have to change?
+
+Printers, signature pads, check scanners and the PC on every desk in the building meet the new system on day one, including the impact printer in accounting that nobody has touched since the last conversion. A browser-based DMS on an out-of-support PC is still slow.
+
+Print a real deal jacket and a real RO from every printer. Every one.
+
+5 Which integrations come along?
+
+F&I menus, credit bureaus, OEM parts ordering, payroll and the CRM all connect to the DMS today, and every one of them has its own vendor, its own contract and its own idea of how long a new connection should take. Each one gets rebuilt for the new platform or confirmed for the renewal. Ask every vendor whether it’s on Tekion’s Automotive Partner Cloud.
+
+Ask who pays for each new connection.
+
+6 Who gets access, and how does the data come out?
+
+Build user roles from today’s org chart instead of copying old accounts, and turn on multi-factor authentication from day one. A store that arranges financing falls under the FTC Safeguards Rule, which requires MFA and oversight of service providers.
+
+Get the export format and dates in writing.
+
+How Much IT Work Each Path Puts on Your Stores
+
+The dots show how much of the IT work lands on the store’s side.
+
+1
+Renew CDK
+
+Same platform. Still a good moment to review circuits, phones, access and the vendor file before you sign again.
+
+2
+Move one rooftop to Tekion
+
+A phone plan, rebuilt integrations, device checks and an honest readiness sign-off, all at one store.
+
+3
+Convert a group in waves
+
+The same work at every rooftop, sequenced store by store, with each wave learning from the last one.
+
+None of them is wrong. A single-point store with one controller and a server closet that doubles as the copier room weighs these very differently than a 20-rooftop group with an IT director and three states of circuits to replace. Our DMS transition team plans the IT side of whichever path you land on.
+
+What Helion Brings to a Tekion or CDK Decision
+82 sec
+Average time to reach a support agent
+98%
+Client retention rate
+2,000+
+Automotive and heavy truck dealerships
+1997
+Working only with dealerships since
+
+Those stores run Tekion, CDK and most of the rest of the DMS market, so we’ve already seen what a move tends to break, from the phone tree that still points at the old system to the label printer in parts that nobody tested. Usually it’s the printers. On a Saturday.
+
+How Helion Handles the IT Side of a Tekion or CDK Decision
+1
+Complimentary assessment
+
+We walk the network, devices and circuits at each rooftop and read the IT, phone and DMS invoices you pay now, because the phone and network lines on a DMS bill are where most of the surprises in a move are hiding. Bring all of them.
+
+2
+Rooftop readiness
+
+Circuits, failover, cabling, Wi-Fi, PCs and printers, checked against what the new system needs, one store at a time.
+
+3
+Cutover week
+
+Help desk coverage, a paper fallback, a phishing watch and user access rebuilt with multi-factor authentication.
+
+4
+After go-live
+
+Our Tekion enablement team stays on after go-live, extending the momentum Tekion’s own team builds.
+
+More on Tekion, CDK and DMS Moves
+
+Pick the piece that matches where you are in the decision.
+
+Tekion enablement services
+From launch prep through ongoing optimization.
+→
+DMS transition support
+Before, during and after the switch, not just go-live day.
+→
+Tekion network requirements
+Circuits, cabling and security to have ready first.
+→
+DMS conversion checklist
+The IT plan for switching platforms, phase by phase.
+→
+After Tekion go-live
+Where stores leave value unused once they’re live.
+→
+Optimize or migrate?
+When the DMS you have is worth keeping.
+→
+FTC Safeguards compliance
+Vendor oversight, disposal records and the rest of the file.
+→
+Dealership cybersecurity
+Monitoring and protection around whichever DMS you run.
+→
+Karmak vs Procede
+The same comparison for heavy truck DMS choices.
+→
+Managed IT support
+What’s covered day to day, from monitoring to the help desk.
+→
+Common Questions
+
+STILL COMPARING PROPOSALS?
+
+Bring both to a complimentary IT and cybersecurity assessment. We’ll tell you what your network is ready for.
+
+Is Tekion better than CDK?
+Is Tekion cloud-based?
+How long does a move from CDK to Tekion take?
+Who owns CDK Global?
+Do our phones have to change if we leave CDK?
+Does switching DMS change our FTC Safeguards obligations?
+Does Helion work with Tekion and CDK dealers?
+
+Tekion or CDK, the DMS is only as steady as the network under it. Let’s check yours before the contract does.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/tekion-vs-cdk\/","url":"https:\/\/heliontechnologies.com\/tekion-vs-cdk\/","name":"Tekion vs CDK: A DMS Comparison From the IT Side | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/tekion-vs-cdk\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/tekion-vs-cdk\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-vs-cdk.webp","datePublished":"2026-10-14T15:34:47+00:00","dateModified":"2026-10-14T15:42:20+00:00","description":"Tekion vs CDK compared from the IT side: where each DMS runs, phones, network, integrations and security, plus six questions to settle before you switch.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/tekion-vs-cdk\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/tekion-vs-cdk\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/tekion-vs-cdk\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-vs-cdk.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/tekion-vs-cdk.webp","width":1200,"height":630,"caption":"Tekion vs CDK compared from the IT side, a guide from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/tekion-vs-cdk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Tekion vs CDK: A DMS Comparison From the IT Side"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/tekion-vs-cdk/","url":"https://heliontechnologies.com/tekion-vs-cdk/","name":"Tekion vs CDK: A DMS Comparison From the IT Side","description":"Tekion vs CDK compared from the IT side: where each DMS runs, phones, network, integrations and security, plus six questions to settle before you switch.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/tekion-vs-cdk.webp","width":1200,"height":630},"about":[{"@type":"CreativeWork","name":"Tekion Automotive Retail Cloud","publisher":{"@type":"Organization","name":"Tekion","url":"https://tekion.com/"}},{"@type":"CreativeWork","name":"CDK Drive","publisher":{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"}}],"mentions":[{"@type":"Organization","name":"Tekion","url":"https://tekion.com/"},{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"},{"@type":"Organization","name":"Brookfield Business Partners"},{"@type":"CreativeWork","name":"Tekion Automotive Partner Cloud","publisher":{"@type":"Organization","name":"Tekion","url":"https://tekion.com/"}},{"@type":"CreativeWork","name":"Fortellis","publisher":{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"}},{"@type":"Service","name":"CDK Voice Connect","brand":{"@type":"Organization","name":"CDK Global","url":"https://www.cdkglobal.com/"}},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR Part 314","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/tekion-vs-cdk/#service","name":"Helion IT Support for Tekion and CDK DMS Decisions","serviceType":"DMS transition and IT support for automotive dealerships","description":"Helion Technologies, a Tekion Certified Partner that also supports CDK stores, handles the IT side of a Tekion vs CDK decision: circuit and failover readiness, device changes, phones, integrations, user access with multi-factor authentication and FTC Safeguards vendor oversight, backed by an 82-second average time to reach a support agent and a 98% client retention rate.","url":"https://heliontechnologies.com/tekion-vs-cdk/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Franchised automotive dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion services around a dealership DMS","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement services","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"DMS transition support","url":"https://heliontechnologies.com/dms-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/tekion-vs-cdk/#faq","url":"https://heliontechnologies.com/tekion-vs-cdk/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Is Tekion better than CDK?","acceptedAnswer":{"@type":"Answer","text":"It depends on the store, not the logo. Tekion's Automotive Retail Cloud is a cloud-native platform built since 2016, and CDK serves 9,000+ automotive and heavy truck customers on its own hosted platform. Your OEMs, integrations, phones and contract dates usually settle it."}},{"@type":"Question","name":"Is Tekion cloud-based?","acceptedAnswer":{"@type":"Answer","text":"Yes. Tekion describes its Automotive Retail Cloud as cloud-native, and staff reach it through a web browser or Tekion's own app for iPhone and iPad. That makes your internet circuit part of the DMS."}},{"@type":"Question","name":"How long does a move from CDK to Tekion take?","acceptedAnswer":{"@type":"Answer","text":"About 120 days from kickoff to go-live, according to Tekion's own 2026 guide to choosing a DMS, followed by 60 to 90 days of optimization. Your stores' readiness can push that date either way. Start the IT work early."}},{"@type":"Question","name":"Who owns CDK Global?","acceptedAnswer":{"@type":"Answer","text":"Brookfield Business Partners, since July 2022, after a deal announced that April. CDK was spun off from ADP's dealer services business in 2014, and Sudhakar Ramakrishna became its president and CEO on October 5, 2026."}},{"@type":"Question","name":"Do our phones have to change if we leave CDK?","acceptedAnswer":{"@type":"Answer","text":"Not always. If your phones come from CDK Voice Connect, that contract is separate from the DMS, so check its term and who holds your numbers. Tekion connects calling and texting through partners such as GoTo Connect and CallRevu. Plan the phones first."}},{"@type":"Question","name":"Does switching DMS change our FTC Safeguards obligations?","acceptedAnswer":{"@type":"Answer","text":"The rule stays the same, but your paperwork doesn't. A new DMS vendor is a new service provider, so it has to be vetted, bound by security terms in the contract and reviewed over time under 16 CFR 314.4(f). Same rule, new file."}},{"@type":"Question","name":"Does Helion work with Tekion and CDK dealers?","acceptedAnswer":{"@type":"Answer","text":"On the IT side, yes. Helion is a Tekion Certified Partner and also supports stores running CDK, handling the network, devices, security and Safeguards work around whichever DMS a store uses."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/tekion-vs-cdk/#howto","name":"How Helion Technologies handles the IT side of a Tekion or CDK decision","description":"Four steps from a complimentary assessment to support after go-live when a dealership chooses between Tekion and CDK.","step":[{"@type":"HowToStep","position":1,"name":"Complimentary assessment","text":"We walk the network, devices and circuits at each rooftop and read the IT, phone and DMS invoices you pay now, because the phone and network lines on a DMS bill are where most of the surprises in a move are hiding. Bring all of them."},{"@type":"HowToStep","position":2,"name":"Rooftop readiness","text":"Circuits, failover, cabling, Wi-Fi, PCs and printers, checked against what the new system needs, one store at a time."},{"@type":"HowToStep","position":3,"name":"Cutover week","text":"Help desk coverage, a paper fallback, a phishing watch and user access rebuilt with multi-factor authentication."},{"@type":"HowToStep","position":4,"name":"After go-live","text":"Our Tekion enablement team stays on after go-live, extending the momentum Tekion's own team builds."}]}]}
+

@@ -1,0 +1,154 @@
+URL: https://demo.varickagents.com/client-002/setup
+Fetched: 2026-10-26T03:35:51Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-002/setup
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Sales Transformation Case Study
+Meta description: Sales department transformation case study for a $2.8B enterprise SaaS company.
+Canonical: 
+Robots: 
+H1: How tribal knowledge became an executable system
+
+V
+VARICK
+SALES ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Enterprise SaaS Corp
+|
+Sales Department
+|
+3.5-Month Implementation
+CHAPTER 02
+How tribal knowledge became an executable system
+
+Everything the team knew, written and unwritten, was compiled into rules agents could execute. Enterprise SaaS Corp's existing tools stayed in place. Nothing migrated.
+
+SOP Compiler
+
+Upload a deal playbook. The SOP Compiler extracts executable rules.
+
+Enterprise_Deal_Playbook_v3.1.pdf
+38 rules extracted · 12 unwritten rules captured from interviews
+Compiled
+EXTRACTED RULES
+12 rules
+01
+
+Deals >$500K require deal desk review and pricing approval before proposal generation
+
+98%
+02
+
+Discounts >15% on annual contracts require VP Sales approval; >25% requires CRO sign-off
+
+97%
+03
+
+Security questionnaires matched against knowledge base before manual review; auto-respond if confidence >92%
+
+94%
+04
+
+Commission calculated at standard rate unless deal includes non-standard terms flagged in CPQ
+
+96%
+05
+
+Territory assignment follows named account list first, then geo/segment rules, then round-robin
+
+95%
+06
+
+CS handoff package must include deal summary, implementation requirements, success criteria, and technical notes within 24 hours of signature
+
+99%
+Show 6 more rules
+Unwritten Rules
+
+Captured from interviews with their senior team. The tribal knowledge that used to live in people's heads.
+
+Marcus always handles Meridian Health deals because he built the relationship at their last company
+
+Source: Enterprise AE
+Relationship-specific
+
+Q4 pricing exceptions get more flexibility because of annual quota pressure; deals pushed to Jan get standard rates
+
+Source: Deal Desk Lead
+Period-specific
+
+Healthcare vertical deals need HIPAA addendum even when the prospect doesn't ask for it
+
+Source: VP Sales
+Vertical-specific
+
+The APAC team processes security questionnaires differently because of regional data sovereignty requirements
+
+Source: Sales Ops Manager
+Region-specific
+
+If a deal has been in negotiation >60 days, the forecast probability should be manually downgraded regardless of stage
+
+Source: CRO
+Timing rule
+
+Comp disputes from the top 10% of quota carriers get escalated to VP Sales Ops, not standard queue
+
+Source: Sales Ops Manager
+Priority override
+System Integration
+
+Zero migration. Agents connected to the existing stack through three integration methods.
+
+API Integration
+Email & Slack Ingestion
+File Ingestion
+
+Direct read/write access to structured data. Real-time sync.
+
+Salesforce
+Gong
+Clari
+DocuSign
+CPQ
+Slack
+Agent Configuration
+
+Confidence thresholds set per workflow. Below the threshold, agents escalate to human review.
+
+WORKFLOW
+THRESHOLD
+AUTO-APPROVE
+ESCALATION
+Deal Routing
+90%
+82%
+18%
+Pricing Validation
+95%
+71%
+29%
+Forecast Scoring
+88%
+76%
+24%
+Security Response
+92%
+70%
+30%
+Next: Team Views
+

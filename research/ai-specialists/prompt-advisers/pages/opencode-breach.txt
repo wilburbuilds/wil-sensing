@@ -1,0 +1,137 @@
+URL: https://www.promptadvisers.com/opencode-breach
+Fetched: 2026-10-26T03:45:05Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/opencode-breach
+Content-Type: text/html
+Via: chrome-headless
+Title: OpenCode Breach: Protect Your AI API Keys Tonight
+Meta description: The OpenCode breach shows why AI API keys need caps. Here are the two settings I told you to check tonight, plus what the attack means for 2027.
+Canonical: https://www.promptadvisers.com/opencode-breach
+Robots: 
+H1: OpenCode Breach: Protect Your AI API Keys Tonight
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI NEWS
+
+OpenCode Breach: Protect Your AI API Keys Tonight
+
+The OpenCode breach shows why AI API keys need caps. Here are the two settings I told you to check tonight, plus what the attack means for 2027.
+
+MARK KASHEF
+OCTOBER 19, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+The OpenCode breach is a warning that an AI API key works like a credit card number, and whoever holds it can run up your bill overnight. If you ever saved a key for Claude, Codex, or Gemini inside another app, delete it and make a new one tonight. Then cap it so a leak can only cost you a small, fixed amount.
+
+TL;DR
+
+Hackers got into an old OpenCode system and may have exposed keys saved in the Console, which OpenCode says hit 1.4% of Console users.
+One developer's key started being used at 2:00 a.m. and had over $400 in charges by 9:36 that morning.
+A monthly cap of $20 to $30 and a usage alert are the two settings that shrink the blast radius of a stolen key.
+Uncensored models run six to nine months behind frontier models, so attackers with agents that never sleep are likely the biggest AI story of 2027.
+What the OpenCode Breach Actually Was
+
+The short version is that an old system leaked keys, and the keys were used to feed a distillation attack. Here is the part that stung. The first charges hit at 2:00 a.m. and the developer only posted about it at 9:36 a.m., hours before OpenCode said anything publicly.
+
+WATCH ON YOUTUBE
+
+OpenCode is a free AI coding tool, close to Claude Code or Codex, and it says 16 million developers use it each month. Its Console website is where people save the keys that connect their accounts. Someone got into an old Console system the team was already shutting down.
+
+Security habits like this get unpacked inside Early AI-dopters, 1,000+ members mastering Claude Code and Codex.
+
+JOIN EARLY AI-DOPTERS
+What Is a Distillation Attack?
+
+A distillation attack means asking a top AI model millions of questions and training a cheaper model on the answers. Think of it as a monkey see, monkey do model that copies the original's lessons without paying for the original's training.
+
+Attackers use fake accounts and many IP addresses to do it. Stolen keys are a shortcut, because they come from accounts the providers already trust. Anthropic has written about detecting these attacks. DeepSeek and Qwen are accused of doing this over time.
+
+Why Are AI Agents Making Attacks Different in 2027?
+
+Attackers now run AI agents that think, adapt, and retry, and they never sleep. One of OpenCode's builders said his team needed agents running 24/7 because that is what the attackers seem to have. Old bots brute forced every door they could see. New ones read the response and change tactics.
+
+Here is what worries me. The recipe is simple. You need a harness, which is a set of tools one AI brain can use. You add an uncensored model you download or rent for pennies. Give it web access and penetration testing tools and you have a mini hacker in your pocket.
+
+My team uses that same setup for defense. Plenty of people will use it for offense. I covered one version of the tooling in my uncensored AI reverse engineer anything walkthrough, and I can see the line from reverse engineering anything to breaking into anything.
+
+How Real Is the Threat Beyond OpenCode?
+
+It is real and it is already global. In South Korea, CrowdStrike traced attacks on several banks back to what looks like one person. Their main model was DeepSeek, with GLM 5.3 as another. Japan called a cyber emergency after a wave of attacks, and hundreds of French supermarket fridges were warmed up.
+
+Andreessen Horowitz mapped this year's cyber attacks and the curve looks exponential. Uncensored models are six to nine months behind. Extrapolate five to six months and they could match something like Opus 5.5 or GPT 6.1 Astra by early next year.
+
+Which Two Settings Should You Change Tonight?
+
+Set a monthly cap and a usage alert on every AI API key you keep. A bank calls you when your card is stolen, and a login from a new device sends a prompt. A stolen AI key just shows up as a bill.
+
+First, go to your API keys, delete every one you do not actively use, and rename the rest so you know what each is for. Then set a monthly cap of $20 to $30, like a pay as you go phone plan. Second, turn on a usage alert, which many apps make you opt into. Check the official guidance from your provider for the exact setting.
+
+Also check the quiet places keys hide: skills with a key pasted in, the environment file on your laptop, and plugins you never audited.
+
+If you ship vibe-coded apps to customers, my team built a free scanner called Lockpick. Give it your URL and it returns a patch list and a one-click prompt for your AI to fix it. For a whole company, our enterprise AI consulting does the same check by hand. The OWASP Top Ten is a good baseline for what to fix first.
+
+Final Thoughts from Mark
+
+Cybersecurity is going to be cat and mouse. Frontier models will get better at defense, uncensored models will get better at offense, and for every lock there will be a key. You do not need to become an expert. You need a cap, an alert, and the habit of checking what you paste where. I will make more plain-language security videos.
+
+OpenCode Breach FAQs
+
+What happened in the OpenCode breach?
+
+Someone got into an old OpenCode system the team was already shutting down. API keys that users saved in the OpenCode Console may have been exposed. OpenCode says the incident tied back to a large-scale distillation attack that hit 1.4% of Console users. One developer reported over $400 in charges overnight.
+
+What is a distillation attack?
+
+A distillation attack is when someone asks a frontier AI model millions of questions, often through fake accounts and many IP addresses, then trains a cheaper model on the answers. Stolen API keys help because they come from accounts the AI provider already trusts.
+
+Do I need to worry if I only use ChatGPT or Claude?
+
+Not about this incident. If you only use ChatGPT or Claude directly and never handed an API key to another app, you are not exposed to the OpenCode breach. If you ever created an API key for any AI account, you should still rotate it and set a cap.
+
+How do I limit the damage if my AI API key is stolen?
+
+Use one key per app, delete keys you do not use, and set a monthly spending cap of something like $20 to $30. Then turn on a usage alert so the AI company emails you when spending crosses a limit. A stolen key can then only burn through your cap.
+
+Can I scan my vibe-coded app for security problems for free?
+
+Yes. Lockpick, a tool my team built, is free. You give it the URL of your web app, or a skill or GitHub repo, and it returns a list of things to patch plus a one-click prompt you can feed to your AI of choice to fix them.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/opencode-breach#article","headline":"OpenCode Breach: Protect Your AI API Keys Tonight","description":"The OpenCode breach shows why AI API keys need caps. Here are the two settings I told you to check tonight, plus what the attack means for 2027.","image":["https://www.promptadvisers.com/blog/opencode-breach/opencode-breach-hero.webp"],"datePublished":"2026-10-19T00:00:00-05:00","dateModified":"2026-10-19T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/opencode-breach","keywords":"OpenCode breach, AI API key security, distillation attack, AI cybersecurity 2027, uncensored AI models","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"OpenCode Breach: Protect Your AI API Keys Tonight","description":"The OpenCode breach shows why AI API keys need caps. Here are the two settings I told you to check tonight, plus what the attack means for 2027.","thumbnailUrl":["https://i.ytimg.com/vi/vLowH7tqRL0/maxresdefault.jpg"],"uploadDate":"2026-10-19T00:00:00-05:00","duration":"PT12M40S","contentUrl":"https://www.youtube.com/watch?v=vLowH7tqRL0","embedUrl":"https://www.youtube-nocookie.com/embed/vLowH7tqRL0","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What happened in the OpenCode breach?","acceptedAnswer":{"@type":"Answer","text":"Someone got into an old OpenCode system the team was already shutting down. API keys that users saved in the OpenCode Console may have been exposed. OpenCode says the incident tied back to a large-scale distillation attack that hit 1.4% of Console users. One developer reported over $400 in charges overnight."}},{"@type":"Question","name":"What is a distillation attack?","acceptedAnswer":{"@type":"Answer","text":"A distillation attack is when someone asks a frontier AI model millions of questions, often through fake accounts and many IP addresses, then trains a cheaper model on the answers. Stolen API keys help because they come from accounts the AI provider already trusts."}},{"@type":"Question","name":"Do I need to worry if I only use ChatGPT or Claude?","acceptedAnswer":{"@type":"Answer","text":"Not about this incident. If you only use ChatGPT or Claude directly and never handed an API key to another app, you are not exposed to the OpenCode breach. If you ever created an API key for any AI account, you should still rotate it and set a cap."}},{"@type":"Question","name":"How do I limit the damage if my AI API key is stolen?","acceptedAnswer":{"@type":"Answer","text":"Use one key per app, delete keys you do not use, and set a monthly spending cap of something like $20 to $30. Then turn on a usage alert so the AI company emails you when spending crosses a limit. A stolen key can then only burn through your cap."}},{"@type":"Question","name":"Can I scan my vibe-coded app for security problems for free?","acceptedAnswer":{"@type":"Answer","text":"Yes. Lockpick, a tool my team built, is free. You give it the URL of your web app, or a skill or GitHub repo, and it returns a list of things to patch plus a one-click prompt you can feed to your AI of choice to fix them."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"OpenCode Breach: Protect Your AI API Keys Tonight","item":"https://www.promptadvisers.com/opencode-breach"}]}]
+

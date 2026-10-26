@@ -1,0 +1,135 @@
+URL: https://heliontechnologies.com/contact/
+Fetched: 2026-10-26T03:56:18Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/contact/
+Content-Type: text/html
+Via: chrome-headless
+Title: Contact Helion's Dealership IT Team | Helion Technologies
+Meta description: Contact Helion Technologies: send a message or call (443) 541-1500 about managed IT and cybersecurity for automotive and heavy-truck dealerships.
+Canonical: https://heliontechnologies.com/contact/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Talk to Us
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Home
+/
+Contact
+Talk to Us
+
+Whether you're dealing with too many vendors and no one owning the system, planning a Tekion migration, or just want to know what "one integrated team" actually looks like for your dealership group, we're here.
+
+No sales pitch required. Start with a conversation.
+
+Request a Complimentary IT & Cybersecurity Assessment
+
+We'll review your current setup, identify gaps, and show you exactly where you stand, with no obligation.
+
+First name
+Last name
+Work email
+Phone
+Dealership or group
+How can we help?
+CALL US
+(443) 541-1500
+TECH SUPPORT
+In Maryland
+(410) 252-8830
+Outside Maryland
+(877) 219-8830
+EMAIL
+marketing@heliontechnologies.com
+HEADQUARTERS
+3000 Falls Rd, Suite 300
+Baltimore, MD 21211
+HELP DESK HOURS
+Open whenever your stores are, 7 days a week
+Closed Christmas Day and Thanksgiving Day
+After-hours and weekend support included at no extra charge.
+82
+SECONDS
+Existing Clients
+
+Already working with us? Call tech support and our team picks up in an average of 82 seconds.
+
+In Maryland: (410) 252-8830 · or send a support request
+(877) 219-8830
+2,000+
+dealerships
+35,000+
+end users
+98%
+client retention
+~30 yrs
+exclusively in automotive and heavy truck
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/contact/#wpcf7-f100065-p611-o1" id=""
+  - input type=text name="firstname" id="f-firstname" label="First name" placeholder="" aria="" required=false
+  - input type=text name="lastname" id="f-lastname" label="Last name" placeholder="" aria="" required=false
+  - input type=email name="email" id="f-email" label="Work email" placeholder="" aria="" required=false
+  - input type=tel name="phone" id="f-phone" label="Phone" placeholder="" aria="" required=false
+  - input type=text name="company" id="f-company" label="Dealership or group" placeholder="" aria="" required=false
+  - textarea type= name="message" id="f-message" label="How can we help?" placeholder="" aria="" required=false
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="alt_s" id="alt_s" label="" placeholder="" aria="" required=false
+  - input type=text name="hrtxfy5586" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/contact\/","url":"https:\/\/heliontechnologies.com\/contact\/","name":"Contact Helion's Dealership IT Team | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"datePublished":"2018-12-10T18:38:40+00:00","dateModified":"2026-10-07T12:40:03+00:00","description":"Contact Helion Technologies: send a message or call (443) 541-1500 about managed IT and cybersecurity for automotive and heavy-truck dealerships.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/contact\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/contact\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/contact\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Contact"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+

@@ -1,0 +1,56 @@
+URL: https://www.madcityintegrations.com/consultation
+Fetched: 2026-10-26T03:33:42Z
+HTTP status: 200
+Final URL: https://www.madcityintegrations.com/consultation
+Content-Type: text/html
+Via: chrome-headless
+Title: Free consultation | Mad City Integrations
+Meta description: Book a free consultation with Mad City Integrations to find the first useful AI build for your business.
+Canonical: https://www.madcityintegrations.com/consultation
+Robots: index, follow
+H1: Free consultation to determine the best fit for you.
+
+Skip to content
+Services
+Calculator
+About
+Book a consultation
+Free consultation to determine the best fit for you.
+Website
+Name
+Business name
+Email
+Phone
+Notes / reason for inquiry
+I agree to receive non-marketing calls and texts from Mad City Integrations LLC about my inquiry, consultation scheduling, and follow-up, which may be sent using automated technology. Msg frequency varies. Msg & data rates may apply. Reply STOP to opt out or HELP for help. Consent is not a condition of purchase.
+
+View our Privacy Policy and Terms and Conditions.
+
+By submitting this form, you agree that Mad City Integrations LLC may use the information you provide to respond to your inquiry as described in our Privacy Policy.
+
+Book a free consultation
+© 2026 Mad City Integrations LLC
+Madison, Wisconsin
+Services
+Lead lifecycle system
+Online presence optimization
+Custom AI builds
+Calculator
+About
+Consultation
+Privacy Policy
+Terms and Conditions
+contact@madcityintegrations.com
++1 (608) 471-6833
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type= name="website" id="" label="" placeholder="" aria="" required=false
+  - input type= name="name" id="" label="" placeholder="Your name" aria="" required=true
+  - input type= name="businessName" id="" label="" placeholder="Business name" aria="" required=true
+  - input type=email name="email" id="" label="" placeholder="you@example.com" aria="" required=true
+  - input type=tel name="phone" id="" label="" placeholder="(608) 555-0100" aria="" required=false
+  - textarea type= name="notes" id="" label="" placeholder="What would you like help with?" aria="" required=false
+  - input type=checkbox name="communicationConsent" id="" label="" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

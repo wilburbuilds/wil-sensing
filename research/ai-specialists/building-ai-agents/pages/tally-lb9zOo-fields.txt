@@ -1,0 +1,108 @@
+URL: https://tally.so/r/lb9zOo
+Fetched: 2026-10-26T03:41:33Z
+HTTP status: 200
+Final URL: https://tally.so/r/lb9zOo
+Via: public __NEXT_DATA__ on the same URL as r__lb9zOo.txt
+Linked from: https://www.buildingaiagents.ai/apply (iframe src and the Open the form in a new tab href in that page HTML)
+Note: The crawler innerText is the first step only (Full name, 1 of 10). The form was not advanced and was not submitted. Question labels and options below are the public form payload. Progress element in the HTML: max=11 value=1 aria-valuetext and text node Page 1 of 11.
+
+--- form payload (not submitted) ---
+
+AI Automation Audit
+1 of 10
+Full name
+field INPUT_TEXT required=True placeholder=Enter your full name
+[page-break]
+
+2 of 10
+Email address
+field INPUT_EMAIL required=True placeholder=email@example.com
+[page-break]
+
+3 of 10
+Phone number
+field INPUT_PHONE_NUMBER required=True placeholder=Enter your phone number
+[page-break]
+
+4 of 10
+Company name
+field INPUT_TEXT required=True placeholder=Your company name
+Company website
+field INPUT_LINK required=False placeholder=https://yourwebsite.com
+[page-break]
+
+5 of 10
+Your role
+options required=True
+- Founder/Owner
+- Executive/Senior Leader
+- Operations
+- Sales/Marketing
+- Technical/IT
+- Team Member
+- Other
+Team size
+options required=True
+- Just me
+- 2–10
+- 11–50
+- 51–200
+- 200+
+[page-break]
+
+6 of 10
+What are some pains that you’re experiencing in your business today?
+options required=True
+- Repetitive manual work or data entry
+- Leads or follow-ups slipping through the cracks
+- Slow customer onboarding, service, or support
+- Reporting and data are disconnected
+- Internal bottlenecks or slow approvals
+- Knowledge is scattered across tools and people
+- Scaling requires adding more headcount
+- Not sure where AI or automation could help
+- Other
+[page-break]
+
+7 of 10
+How soon would you like to solve this?
+options required=True
+- Within 30 days
+- 1–3 months
+- 3–6 months
+- More than 6 months
+- Just exploring
+[page-break]
+
+8 of 10
+If we identify a strong opportunity, what investment range could you consider?
+options required=True
+- Under $10,000
+- $10,000–$25,000
+- $25,000–$50,000
+- $50,000–$100,000
+- $100,000+
+- Not sure—I need help scoping it
+[page-break]
+
+9 of 10
+Tell us more about what’s happening today. What is happening, who it affects, how often, and what have you tried so far?
+field TEXTAREA required=True placeholder=Share details...
+[page-break]
+
+10 of 10
+Choose three consultation windows (Central Time). Morning: 9 AM–12 PM CT; Afternoon: 1–4 PM CT.
+options required=True
+- Mon: Morning
+- Mon: Afternoon
+- Tue: Morning
+- Tue: Afternoon
+- Wed: Morning
+- Wed: Afternoon
+- Thu: Morning
+- Thu: Afternoon
+- Fri: Morning
+- Fri: Afternoon
+[thank-you]
+
+Thanks—your audit is in review. Akshay will personally review it and follow up within one business day to confirm a consultation time.Important: Please do not send passwords, private access keys, or any sensitive credentials in your response.

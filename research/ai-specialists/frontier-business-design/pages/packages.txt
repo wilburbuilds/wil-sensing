@@ -1,0 +1,124 @@
+URL: https://frontierbusinessdesign.com/packages/
+Fetched: 2026-10-26T03:34:46Z
+HTTP status: 200
+Final URL: https://frontierbusinessdesign.com/packages/
+Content-Type: text/html
+Via: chrome-headless
+Title: Work With Us: Fractional COO Engagements | Frontier
+Meta description: Three ways to work with a fractional COO: Individual Coaching at $250/hr, System Builds from $2,500, or an Operating Partner from $3,000/mo.
+Canonical: https://frontierbusinessdesign.com/packages/
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: WORK WITH US
+
+Skip to content
+Home
+About Us
+Work With Us
+Contact Us
+Contact Us
+WORK WITH US
+
+Where you start depends on what your business needs right now.
+
+Not sure? Take the assessment and we will figure it out.
+
+TAKE THE ASSESSMENT
+You're Working IN Your Business, Not ON It
+
+You started your business to serve clients and build something meaningful. But somewhere along the way, you became the person everyone depends on for every decision, every approval, every crisis. Your team waits for you. Your systems break down without you. Your growth is limited by your capacity. It doesn’t have to be this way.
+
+Sound Familiar?
+Everything runs through you
+No clear accountability on your team
+Reactive instead of strategic
+Can't take a vacation without chaos
+Revenue plateau despite demand
+Individual Coaching
+$250/hr
+
+One-on-one coaching with an operator who has done the job.
+
+BEST FOR:
+
+Owners who want a sharper plan and a sounding board, or a key leader you are growing to run the day-to-day.
+
+WHAT WE WORK ON:
+Building a 90-day plan and actually executing it
+Getting out of the day-to-day and delegating with confidence
+Leading a team and holding people accountable
+Making faster, clearer decisions under pressure
+Running leadership meetings that drive the business
+Having the hard conversations you have been putting off
+Reading your basic financial documents
+Growing from operator to leader, or from owner to CEO
+Book a Discovery Call
+System Builds
+From $2,500
+
+One defined project, built with your team and handed off working.
+
+BEST FOR:
+
+Owners who know what’s broken and want it fixed, installed and owned by the team.
+
+PROJECTS INCLUDE:
+A diagnosis of your biggest gaps, with a 30-, 60- or 90-day operational plan
+An org chart that shows who owns what
+A weekly scorecard with the few numbers that run the business
+A weekly meeting rhythm that ends in decisions and clear to-dos
+SOPs and checklists your team will actually use
+A hiring and onboarding system that ramps new people fast
+Clean handoffs between the office and the field
+Book a Discovery Call
+MOST COMPREHENSIVE
+Operating Partner
+From $3,000/mo
+
+Billed monthly
+
+I embed as your part-time COO and build the operating system with you, then run it alongside your team.
+
+BEST FOR:
+
+Owners ready to stop being responsible for everything, and leadership teams that need structure and accountability.
+
+WHAT’S INCLUDED:
+Diagnose how the business runs today and where it breaks
+Build the org chart and define who owns what
+Stand up the weekly scorecard and the numbers to watch
+Set the weekly operating rhythm and run the meetings
+Drive the priorities to done and hold the team accountable
+Coach your leaders until they can run it without me
+Step in when you are out of the office
+Book a Discovery Call
+Not Sure Which One Fits?
+Start with the assessment.
+It takes 20 minutes and shows you where your business is strongest and weakest.
+Or book a free 30-minute call, or read the FAQ.
+Take the Assessment
+
+Designing businesses worth leading.
+
+Frontier Business Design
+Lubbock, TX · Serving owners nationwide
+(806) 790-7951
+johnc@frontierbusinessdesign.com
+
+Facebook
+ 
+X-twitter
+ 
+Linkedin
+Quick Links
+Home
+About Us
+Work With Us
+Contact
+Privacy Policy
+Terms of Service
+
+© 2026 Frontier Business Design™. All Rights Reserved.
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://frontierbusinessdesign.com/#place","address":{"@type":"PostalAddress"}},{"@type":["LocalBusiness","Organization"],"@id":"https://frontierbusinessdesign.com/#organization","name":"Fractional COO for $1M\u2013$10M Service Businesses","url":"https://frontierbusinessdesign.com","email":"johnc@frontierbusinessdesign.com","address":{"@type":"PostalAddress"},"logo":{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/#logo","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","contentUrl":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","caption":"Fractional COO for $1M\u2013$10M Service Businesses","inLanguage":"en-US","width":"1200","height":"1200"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"description":"We are an Operations Partner for founder-led service-based companies doing $500K to $10M. We bring the clarity, alignment and execution needed to build a business that isn't completely dependent on you.","location":{"@id":"https://frontierbusinessdesign.com/#place"},"image":{"@id":"https://frontierbusinessdesign.com/#logo"},"telephone":"18067907951"},{"@type":"WebSite","@id":"https://frontierbusinessdesign.com/#website","url":"https://frontierbusinessdesign.com","name":"Fractional COO for $1M\u2013$10M Service Businesses","alternateName":"Frontier Business Design","publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-packages.png?fit=1200%2C630&amp;ssl=1","url":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-packages.png?fit=1200%2C630&amp;ssl=1","width":"1200","height":"630","caption":"Frontier Business Design: Three ways to work with a fractional COO","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frontierbusinessdesign.com/packages/#webpage","url":"https://frontierbusinessdesign.com/packages/","name":"Work With Us: Fractional COO Engagements | Frontier","datePublished":"2026-02-05T15:20:43+00:00","dateModified":"2026-10-14T19:07:28+00:00","isPartOf":{"@id":"https://frontierbusinessdesign.com/#website"},"primaryImageOfPage":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-packages.png?fit=1200%2C630&amp;ssl=1"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign","url":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","caption":"frontierbusinessdesign","inLanguage":"en-US"},"sameAs":["http://frontierbusinessdesign-iqyks.wordpress.com"],"worksFor":{"@id":"https://frontierbusinessdesign.com/#organization"}},{"@type":"Article","headline":"Work With Us: Fractional COO Engagements | Frontier","keywords":"fractional COO pricing","datePublished":"2026-02-05T15:20:43+00:00","dateModified":"2026-10-14T19:07:28+00:00","author":{"@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign"},"publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"description":"Three ways to work with a fractional COO: Individual Coaching at $250/hr, System Builds from $2,500, or an Operating Partner from $3,000/mo.","name":"Work With Us: Fractional COO Engagements | Frontier","@id":"https://frontierbusinessdesign.com/packages/#richSnippet","isPartOf":{"@id":"https://frontierbusinessdesign.com/packages/#webpage"},"image":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-packages.png?fit=1200%2C630&amp;ssl=1"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://frontierbusinessdesign.com/packages/#webpage"}}]}
+

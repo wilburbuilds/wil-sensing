@@ -1,0 +1,141 @@
+URL: https://boomautomations.com/careers
+Fetched: 2026-10-26T03:45:18Z
+HTTP status: 200
+Final URL: https://boomautomations.com/careers
+Content-Type: text/html
+Via: chrome-headless
+Title: Careers | Boom Automations
+Meta description: A custom AI operating system your company and its bespoke agents run on, live in 90 days. Then we make your team AI-native.
+Canonical: 
+Robots: 
+H1: Build the systems that run real companies.
+
+Solutions
+Case Studies
+Process
+Thesis
+Apply to Work with Us
+
+Careers
+
+Build the systems that run real companies.
+
+Boom is a small team deploying AI agent systems into mid-market operations: finance, revenue, and ops. Every engineer here ships into production, sits with the client, and owns the result.
+
+Three open roles. All full-time.
+
+How we work
+
+Ship into production weekly
+
+No sandboxes. Your work runs inside a client's real stack within the first month.
+
+Sit with the operator
+
+You'll be in the room with the CFO, the ops lead, the person whose week you're giving back.
+
+Small team, large surface area
+
+You'll touch discovery, architecture, build, deployment, and results reporting on every engagement.
+
+Open roles
+
+Forward Deployed Engineer
+Full-time
+Miami or remote (US)
+2 open seats
+What you'll do
+Embed with our clients' teams. You'll work inside their operations, not from a distance, and own the deployment end to end: map the department, design the agent system, ship it into their stack.
+Build with your preferred models and tools, whether that's Claude Code, Codex, or something else; integrate against ERPs, CRMs, and finance tools.
+Run weekly working sessions with client operators and turn feedback into shipped changes within days.
+Instrument what you ship and report the result back to the client: hours saved, process time cut.
+What we look for
+You've shipped production software that real users depend on.
+You can code. TypeScript or Python, and you can read the rest.
+You understand data: structures, databases, schemas, and how information moves between systems.
+Hands-on with LLM APIs, agents, and tool calling.
+Comfortable explaining a system to a COO in plain language.
+Bias to ship: you'd rather deploy a v1 this week than a v3 next quarter.
+Nice to have
+Postgres or another relational database in production, plus APIs and webhooks.
+You've worked directly with customers or operators before.
+Lovable or a similar tool for shipping interfaces fast.
+Apply for this role
+Technical Assistant
+Full-time
+Miami or remote (US)
+1 open seat
+What you'll do
+Keep deployments moving: client environments, access, integrations, and documentation of what was built.
+Sit in the working sessions and turn feedback into tracked items that get closed.
+Test what ships before the client sees it and flag what breaks.
+Build the simple automations that don't need an engineer.
+What we look for
+You can read a workflow, an API doc, and a spreadsheet without help.
+Organized to a fault. Nothing you own gets dropped.
+Comfortable with Claude, Claude Code, and Lovable, or fast to pick them up.
+You want to become an engineer here, and this is how you start.
+Apply for this role
+Associate Marketer
+Full-time
+Miami or remote (US)
+1 open seat
+What you'll do
+Turn client results into case studies, posts, and talks. You own the pipeline from "the client said yes" to "it's live."
+Run Boom's content on X and LinkedIn: drafting, scheduling, replies, reporting.
+Support events and speaking: decks, follow-up, the photos that end up on this site.
+Keep the website current as the work evolves.
+What we look for
+You write clearly and fast in a plain voice, without the AI gloss.
+You've shipped content that got results and can show the numbers.
+You use AI tools daily and know where they help and where they don't.
+You're interested in operations and AI, not just marketing.
+Apply for this role
+Apply
+
+Forward Deployed Engineer · Full-time · Miami or remote (US)
+
+Role
+Forward Deployed Engineer
+Technical Assistant
+Associate Marketer
+Full name
+Email
+LinkedIn URL
+GitHub or portfolio URL
+What's the best thing you've shipped?
+0/40 min
+Resume link
+Submit application
+
+Rebuilding departments with AI agent systems.
+
+252 NW 29th St. 9th Floor #1021
+Miami, FL 33137
+Solutions
+OS Build-Out
+SaaS Consolidation
+Agent Deployment
+Ongoing Management & Enablement
+Company
+Our Thesis
+Featured At
+Case Studies
+Careers
+Get Started
+Apply to Work with Us
+FAQ
+© 2026 Boom Automations
+Get Started →
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - select type= name="" id="" label="" placeholder="" aria="" required=false options=Forward Deployed Engineer | Technical Assistant | Associate Marketer
+  - input type= name="" id="" label="" placeholder="Jane Doe" aria="" required=false
+  - input type=email name="" id="" label="" placeholder="you@domain.com" aria="" required=false
+  - input type=url name="" id="" label="" placeholder="https://linkedin.com/in/…" aria="" required=false
+  - input type=url name="" id="" label="" placeholder="https://github.com/…" aria="" required=false
+  - textarea type= name="" id="" label="" placeholder="What it was, who used it, and what you owned." aria="" required=false
+  - input type=url name="" id="" label="" placeholder="Google Drive or Dropbox link" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

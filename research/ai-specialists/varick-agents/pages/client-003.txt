@@ -1,0 +1,59 @@
+URL: https://demo.varickagents.com/client-003
+Fetched: 2026-10-26T03:35:38Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-003
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Operations Transformation Case Study
+Meta description: Operations department transformation case study for a $3.5B consumer goods manufacturer.
+Canonical: 
+Robots: 
+H1: The Varick Operations Engine
+
+V
+VARICK
+OPERATIONS ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Consumer Goods Manufacturer
+|
+Operations Department
+|
+4-Month Implementation
+Case Study Evidence
+The Varick Operations Engine
+
+How Varick deployed an operations control layer across a $3.5B consumer goods company with 5,200 employees, a 380-person operations org, 9 distribution centers, and 340 suppliers.
+
+$3.5B revenue · 380-person operations org · 9 distribution centers
+
+View Case Study
+5 CHAPTERS · DOCUMENTED ENGAGEMENT
+01
+Discovery
+Diagnosis agent mapped the operation and surfaced opportunities
+02
+Setup
+SOP compilation, system integration, and agent configuration
+03
+Team Views
+What coordinators, directors, and the COO saw each day
+04
+Under the Hood
+How agents orchestrate, learn, and adapt
+05
+Outcomes
+The results after 4 months in production
+

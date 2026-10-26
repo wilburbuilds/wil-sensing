@@ -1,0 +1,234 @@
+URL: https://heliontechnologies.com/how-to-buy-a-phone-system/
+Fetched: 2026-10-26T03:34:39Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/how-to-buy-a-phone-system/
+Content-Type: text/html
+Via: chrome-headless
+Title: How to Buy a Dealership Phone System | Helion Technologies
+Meta description: Buying a phone system for your automobile or heavy truck dealership should not be taken lightly. Here are some tips that can help.
+Canonical: https://heliontechnologies.com/how-to-buy-a-phone-system/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: How to Buy a Phone System
+
+Skip to content
+Helion Technologies
+Services ▾
+Managed IT
+Managed Microsoft 365Backup and Disaster RecoveryAcquisition IT IntegrationIT Help DeskNetwork and Wi-Fi ManagementvCIO and IT Strategy
+Cybersecurity
+Managed Detection and ResponseSecurity Awareness TrainingPenetration TestingIncident Response
+Compliance
+FTC Safeguards ChecklistOEM Cybersecurity RequirementsISO 27001 vs TISAXPrivacy Laws by StateIncident Response TemplateRisk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDKTekion vs Reynolds
+Managed AI
+AI Readiness AssessmentSecure AI Chat
+DMS Transition
+DMS Comparison
+Industries ▾
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT SupportProcede IT SupportKarmak vs Procede
+Dealer GroupsLocations
+About ▾
+About HelionLeadershipSpeakingClient TestimonialsContact
+Working at Helion
+Resources ▾
+BlogCase Studies & DownloadsFAQsPressState of Dealership Cybersecurity
+Contact Us
+Client Portal
+Menu
+Menu
+Services
+Managed IT
+Managed Microsoft 365
+Backup and Disaster Recovery
+Acquisition IT Integration
+IT Help Desk
+Network and Wi-Fi Management
+vCIO and IT Strategy
+Cybersecurity
+Managed Detection and Response
+Security Awareness Training
+Penetration Testing
+Incident Response
+Compliance
+FTC Safeguards Checklist
+OEM Cybersecurity Requirements
+ISO 27001 vs TISAX
+Privacy Laws by State
+Incident Response Template
+Risk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDK
+Tekion vs Reynolds
+Managed AI
+AI Readiness Assessment
+Secure AI Chat
+DMS Transition
+DMS Comparison
+Industries
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT Support
+Procede IT Support
+Karmak vs Procede
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Contact
+Working at Helion
+Resources
+Blog
+Case Studies & Downloads
+FAQs
+Press
+State of Dealership Cybersecurity
+Contact Us
+Client Portal
+Resources / Blog
+How to Buy a Phone System
+By Erik NachbahrFebruary 4, 2019 · 4 min read
+
+The process of purchasing a phone system is not to be taken lightly. Phone calls into dealerships outnumber Internet leads by four to one, and many studies show that dealers are not able to handle both the volume and routing of incoming calls in a way that meets customer expectations.
+
+When you’re buying a new phone system your top three goals are:
+
+Understand what capabilities your dealership needs
+Research which phone systems will meet these capabilities
+Choose a phone system that will scale and support your dealership as needs change in the future
+
+The right system, configured expertly, can assist with answering more calls and getting customers connected with an appropriate agent. That’s why many dealerships are opting for IP phone systems, and specifically Unified Communications Platforms (UCPs). UCPs leverage several other tools to turn a phone system into a two-way communications platform that offers dealers the following advantages:
+
+Allows remote and mobile workers to access features no matter where they are, including voice mail, instant messaging and single-reach numbers
+Supports multimedia communications on a variety of devices
+Better customer experience
+Scalable for future expansion and multiple stores
+Supports call routing for BDCs and call centers
+Increases business productivity
+
+The biggest problem that dealers run into with IP phones is dropped calls and poor call quality. This happens for one of two reasons: the dealer’s IT infrastructure is incapable of supporting the phone system, or the phone system vendor relies on the public Internet to send and receive voice calls once they are converted into data packets.
+
+Cloud-Hosted or Self-Hosted?
+
+Some phone system vendors offer cloud-hosted (aka public-hosted) solutions.  Think of cloud-hosted phone systems as similar to Skype. Would you use Skype as a videoconferencing solution for your business? Most businesses would not. Skype sends video packets over the public Internet and the service is notorious for poor video quality and dropped connections. The same thing happens to your phone calls when they travel over the public Internet.
+
+With a self-hosted VoIP phone system, the box of hardware is on-site at your dealership or data center. The box connects to your phones through a private, digital circuit provided by a telephone carrier.
+
+Although a self-hosted system requires purchasing the equipment up front, it is far more reliable than a hosted solution. Additionally, you own the equipment so the longer-term cost of ownership is the same, if not less, than paying ongoing subscription fees for a public-hosted solution.
+
+When a phone system vendor approaches you, there is one essential question you need to ask: Does any of this system run over the public Internet?
+
+If the answer is yes, run the other way.
+
+IT Infrastructure
+
+Purchasing an IP phone system may require that you upgrade your IT infrastructure so it can support all the additional data flowing through your network. Be sure to have your phone system vendor assess the current state of your Internet connections, routers and switches to see if they will support their systems’ requirements.
+
+Experience Counts
+
+ Find a vendor with experience servicing auto dealerships. Here’s why experience matters. Recently a dealer signed on with a phone system vendor. During installation the vendor used some of the on-site equipment that belonged to the dealer’s DMS provider. Unbeknown to the phone vendor, the dealer was in the process of switching DMS providers. Soon the phone equipment was shut off along with the rest of the DMS, and the phone system went completely down.
+
+Auto dealerships are unique business eco-systems. Your partnerships and the way you use phones is different from other businesses. When you are vetting potential vendors, ask if they have other dealership clients. If they don’t, keep looking.
+
+Consolidate Carriers
+
+If you are part of an auto group that has more than one location, you have extra negotiating power. I often see situations where individual stores have their own carrier and negotiate their own deals.
+
+Multiple store groups should all use the same telephone carrier. Carriers will give substantial discounts for larger organizations.
+
+Sign 36-Month Contracts: Never Five Years!
+
+Many dealers agree to sign a five-year contract with their phone carrier, believing it will save them money. But locking yourself in gives you less flexibility in negotiating changes. After three years your carrier has recouped its initial costs. Their costs drop dramatically, but your costs suddenly skyrocket.
+
+In my experience it’s better to sign a 36-month contract. Don’t automatically renew with the same carrier! Bid your business out to competition.
+
+Your phone system is your dealership’s primary communications tool. When it’s time to buy a new system take the time to become informed, do your research and vet several vendors. Your customers will thank you.
+
+About the author
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles  
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★4.9 · 244 Google Reviews
+
+Recent Articles
+
+AI Phishing Lures Aimed at Dealership Ad AccountsOctober 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the PlanOctober 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership CallerOctober 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a DealershipOctober 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★ 4.9 · 244 Google Reviews
+
+in
+Services
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+Industries
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+Resources
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved. support@heliontechnologies.com Support RequestPrivacy Policy Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"How to Buy a Phone System","datePublished":"2019-02-04T14:57:29+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/"},"wordCount":794,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2019\/02\/Office-phone.jpg","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/","url":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/","name":"How to Buy a Dealership Phone System | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2019\/02\/Office-phone.jpg","datePublished":"2019-02-04T14:57:29+00:00","description":"Buying a phone system for your automobile or heavy truck dealership should not be taken lightly. Here are some tips that can help.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2019\/02\/Office-phone.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2019\/02\/Office-phone.jpg","width":1000,"height":667,"caption":"Dialing telephone keypad concept for communication, contact us and customer service support"},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/how-to-buy-a-phone-system\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"How to Buy a Phone System"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

@@ -1,0 +1,304 @@
+URL: https://www.tenex.co/playbooks/due-diligence-your-first-agent-eval
+Fetched: 2026-10-26T03:34:03Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/due-diligence-your-first-agent-eval
+Content-Type: text/html
+Via: chrome-headless
+Title: Due Diligence: Your First Agent Eval | Tenex
+Meta description: Evals show that your agent can do what you've taught it, so you're not waiting for a real-world mistake to find out.
+Canonical: https://www.tenex.co/playbooks/due-diligence-your-first-agent-eval
+Robots: 
+H1: Due Diligence: Your First Agent Eval
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Due Diligence: Your First Agent Eval
+
+Evals show that your agent can do what you've taught it, so you're not waiting for a real-world mistake to find out.
+
+0 of 6 steps
+0 / 60 pts
+THE PLAYBOOK
+✓
+START HERE
+Why Evals, and Why Now
+10 pts
+📖 Learn
+📋 Implement
+
+So you built an agent that does a real job, nice. But before you deploy, it is wise to test it out to ensure it's not going to make a mess in the real world. That's where evals come in. They’re made up of a short list of situations your agent has to handle, with yes/no checks for whether it got each one right. They aren't perfect, but they help refine your agent so it understands what "right" means for its tasks. The more important the task, the more important evals are. This is a guide for putting your first eval together without writing any code.
+
+‍
+
+Continue to Implementation →
+✓
+STEP 1
+Define the Behavior
+10 pts
+📖 Learn
+📋 Implement
+
+Pick one job to test, on an agent you use for real work, or, if you're starting from scratch, a job you want an agent to do. It should be specific enough that you can call the result right or wrong, ideally one you run often or where a mistake costs the most.
+
+Some examples of jobs, by team:
+
+Sales: turn call notes into a follow-up email and log the call in the CRM, or reply to inbound requests for your services.
+Support: answer "where can I find the doc?" with the right link.
+Ops: find the first open meeting slot during business hours that works for everyone.
+
+Write down five to ten situations the job has to handle, and what good looks like in each. These are your test scenarios: the first cases your agent has to pass, and keep passing. When it handles all of them, it's ready for real use.
+
+Where scenarios come from:
+
+Real inputs first: past emails, requests or notes the agent has handled, or that you handled before it existed.
+Made-up ones only for gaps you can name: a doc that doesn't exist, a call that went nowhere, a request you haven't seen yet. Mark them as made up.
+One-owner sign-offs: the person who is best at this job writes or approves what good looks like for every case.
+
+What goes in the last column: for written work like an email, a few short constraints. For an action, what should happen in your systems, like the call logged in the CRM. For a job with one correct answer, like "where's the onboarding doc?", the answer itself: the correct link.
+
+Template: your scenarios table
+
+Job	Input	What good looks like
+Follow-up email	Call notes where the prospect asked about pricing	Mentions the call; no formal opener; no price we haven't agreed to; ends with one next step; call logged in the CRM
+Follow-up email	Call notes from a call that went nowhere	Three sentences or fewer; thanks them; offers one easy next step
+Follow-up email	Call notes with two people on the call	Addresses both by name; mentions the call; ends with one next step
+Follow-up email	Call notes where the prospect asked for a discount (made up)	Doesn't agree to a discount; says who can discuss pricing; ends with one next step
+Paste into your AI assistant, if you have real examples:
+
+Here are real [emails / requests / notes] my agent handles: [paste them].
+Group them by type and pick the five to ten that best cover the range, including the tricky ones.
+Put them in a table with three columns: job, input, what good looks like. Leave the last column blank.
+
+COPY
+Paste into your AI assistant, to fill a gap:
+
+My agent does this job: [job]. My real examples are missing these situations: [list the gaps].
+Write one realistic input for each, the way someone would actually send it.
+Just the inputs: I'll write what good looks like.
+
+COPY
+Continue to Implementation →
+✓
+STEP 2
+Write the Checklist
+10 pts
+📖 Learn
+📋 Implement
+
+For some jobs, "right" is black and white: was the right link sent? For others it's a judgment call: does this email sound like us? Evals handle both the same way, by turning "right" into yes/no questions.
+
+Why yes/no and not a score? Vivek Trivedy of LangChain, who walked Tenex co-founder Alex Lieberman through evals, explains it this way: ask an AI to rate something from 1 to 10 and it hedges, answering 7 or 8 almost every time. It can't hedge on yes or no. Anthropic's new eval guide says the same: grade against a checkable rubric, not a 1-to-10 scale. If you need more nuance, use a few named levels, like pass, partial and fail, rather than a number. Arize's tests found yes/no the most consistent across models, named levels a workable middle ground, and number scores the least reliable.
+
+The checklist should come from the person who is best at the job. They know what good looks like; the checklist is how you capture it. As Vivek puts it, "humans writing down what good looks like is still one of the highest leveraged things an organization can do." Start from the "what good looks like" column in Step 1: what shows up across most of your cases?
+
+Good checklist questions:
+
+Ask about one thing at a time.
+Can be answered from the output or from what the agent did, like whether a record was updated.
+Reflect your actual standards, like length, tone and what you never say to a customer.
+
+Template: a checklist for a sales follow-up (email and CRM)
+
+1. Does it mention something specific from the call?                Yes / No
+2. Is it three paragraphs or fewer?                                 Yes / No
+3. Does it skip formal openers like "I hope this finds you well"?   Yes / No
+4. Is every paragraph three sentences or fewer?                     Yes / No
+5. Does it end with one clear next step?                            Yes / No
+6. Did it log the call in the CRM?                                  Yes / No
+7. Did it leave alone any records it wasn't asked to touch?         Yes / No
+8. Does it avoid promising prices or dates we haven't agreed?       Yes / No
+9. Does it follow our brand guidelines on [specific rule]?          Yes / No
+💡
+
+Pro Tip: If an output passes the checklist but still looks wrong to you, the checklist is missing a question. If outputs keep failing the same question, fix the agent's instructions.
+
+Paste into your AI assistant:
+
+Here's a job my agent does: [job]. Here's what a good result looks like, in my words: [description].
+Turn this into a checklist of five to ten yes/no questions. Each question should check one thing
+and be answerable from the output or from what the agent did. Flag any question that's really a judgment call,
+and suggest how to make it more concrete.
+
+COPY
+Continue to Implementation →
+✓
+STEP 3
+Set Up the Grader
+10 pts
+📖 Learn
+📋 Implement
+
+The grader checks your agent's work against the checklist, so you don't have to read every output closely yourself. There are two kinds:
+
+Simple automated checks, for black-and-white questions. Is the link correct? Is the email three paragraphs or fewer? If your tool can't do this on its own, a coding assistant like Codex, Cursor or Claude Code can write a check like this in minutes. Or skip it and let the AI grader handle these too.
+An AI grader, for judgment calls. You give any AI model the output, what the agent did, and your checklist, and it answers each question yes or no, with a reason. It works in any chat assistant. Use a different model to grade than the one that did the work, so the grader isn't checking its own homework.
+Template: the AI grader prompt
+
+You are checking an AI agent's work against a checklist.
+
+The job the agent was given:
+[paste the job and anything the agent was given]
+
+What the agent produced:
+[paste the output]
+
+What the agent did:
+[paste its actions, like the records it created or changed, or its log]
+
+Answer each question below with YES or NO. For each, give a one-sentence
+reason that points to the part of the output or the action you're basing it on.
+If you can't tell, answer NO and say why. Don't guess.
+
+Checklist:
+1. [question]
+2. [question]
+3. [question]
+
+End with PASS if every answer is YES. Otherwise, end with FAIL.
+
+COPY
+💡
+
+Pro Tip: Before you trust the grader, pull ten things your agent has already produced, have your best person grade them by hand, and compare. Where they disagree, reword the question until they match. Then run the grader twice on the same output: if its verdict changes, the question is ambiguous. For a long checklist, grade each question separately, so the grader focuses on one thing at a time. For the engineering version of this step, see Ash Tilawat's playbook, How to Test Your AI, Step 4: Create Your Rubric.
+
+🎥
+
+Optional: want the full conversation? Alex and Vivek go further into the advanced material, like testing on full copies of your systems and agents that improve themselves. Watch the episode.
+
+Continue to Implementation →
+✓
+STEP 4
+Run and Iterate
+10 pts
+📖 Learn
+📋 Implement
+
+Now run the agent on every scenario from Step 1 and grade the results. Where it fails, adjust its instructions or tools and run it again, until it handles every scenario. Then it's ready for real use. If it passes everything on the first try, add harder cases, or use the eval to try a cheaper model and see whether it still passes. Because these are scenarios you wrote down, nothing real gets touched, and you find the problems before anyone else does.
+
+The by-hand version works in any tool. Add two columns to your scenarios table from Step 1:
+
+Input	What good looks like	What it actually did	Pass or fail
+Call notes where the prospect asked about pricing	Mentions the call; no formal opener; no price we haven't agreed to; ends with one next step; call logged in the CRM	[paste its reply]	[grader result]
+Call notes from a call that went nowhere	Three sentences or fewer; thanks them; offers one easy next step	[paste its reply]	[grader result]
+
+Give each scenario to your agent, paste its reply and what it did into the table, and grade it with your checklist or the AI grader.
+
+Three habits that make the results trustworthy:
+
+Run each scenario a few times. AI doesn't answer the same way twice, so one good answer proves little. Three runs is a sensible default.
+Compare with and without. Run the same scenarios through the plain model, without your custom instructions. If it does just as well, your setup isn't what's making it work.
+Hold a few back. Set two or three scenarios aside and don't look at them while you fix the instructions. Check them at the end. If the ones you worked on pass but the hidden ones still fail, you've tuned the agent to the test, not to the job.
+
+When it makes a mistake in real use, add that situation to your table, along with what good looks like, so you test for it every time from then on.
+
+🧰
+
+Tools that can do this for you (last checked Sep 28, 2026). Optional: the by-hand version teaches the method, and these automate it.
+
+Built a skill in Claude Code? Its eval command (claude plugin eval) writes the test cases with you, runs each one several times and compares against Claude without your skill. You can ask Claude to run it for you.
+Promptfoo: open source and works with any model. Its skill-testing guide runs the same tasks against two versions of a skill side by side, checking whether the agent actually uses the skill and whether the work gets better, with Claude, Codex and others. It's also what OpenAI recommends as it retires its own evals platform, which shuts down Nov 30, 2026. It runs from the command line, so ask your AI assistant to set it up with you.
+LangSmith: for testing and tracing agents that run for a team (see the end of this step).
+⚠️
+
+Warning: AI will find shortcuts. If the answer is visible anywhere in a test, like a placeholder that gives it away, it will use it and pass without doing the job. Make every scenario look like real life.
+
+💡
+
+Pro Tip for engineers: The next level up is an environment: a full copy of the systems your agent uses, filled with realistic data, so it can take real actions safely. Harbor is the open-source framework Vivek's team uses.
+
+The quickest start is to borrow an existing eval in Harbor format and have a coding assistant like Claude Code or Codex explain it and adapt it to your agent. To check the environment itself, run several different models through it and look for strange results.
+
+Paste into your AI assistant:
+
+Here are my agent's current instructions: [paste].
+Here are the scenarios it failed, with what should have happened and what it did instead: [paste].
+Suggest specific changes to the instructions that would fix these failures
+without breaking the scenarios it already passes.
+Fix the rule that caused each failure. Don't paste the failed examples into the instructions.
+
+COPY
+
+Choosing a model. Your test scenarios also answer a question Tenex hears from clients constantly: which model should we use for this job? Run each model you're considering on your scenarios and compare the pass rate with the cost. Vivek's illustration: if one model passes 60% and another passes 55% at a third of the price, whether the difference is worth it depends on the job. For internal work, cheaper is often fine. For anything customers see, you may want the best.
+
+When your team relies on it. Once other people use your agent, or it runs on its own inside your tools, you can't check every run by hand. You'll want every run logged and checked automatically, which takes a platform like LangSmith, Langfuse, Braintrust or Arize, and usually an engineer to set it up. What stays with you is deciding what good looks like.
+
+Evals don't replace your judgment. They're how you put it in writing, so the agent can meet it every time.
+
+If you're ready to put evals to work across your team, and to find the right model for each job, Tenex can help.
+
+Build Your AI Engine
+Continue to Implementation →
+✓
+STEP 5
+FAQs
+10 pts
+📖 Learn
+📋 Implement
+
+Do I need to know how to code to run evals?
+
+No. Writing jobs, checklists and scenarios takes no code, the AI grader is a prompt you paste into any chat assistant, and the by-hand table works in any tool.
+
+Which AI tool do I need?
+
+Any. The method works the same in ChatGPT, Claude, Gemini or Copilot. Tools that automate parts of it are optional, and they change fast, so learn the method first.
+
+What's the difference between an eval and a test?
+
+A test checks that software does exactly what it was built to do. An eval checks whether an AI's work is good enough, including judgment calls like tone, where there's no single right answer.
+
+How many test scenarios do I need?
+
+Start with five to ten for one job. Then add one every time the agent gets something wrong in real use. The set grows as you learn where it fails.
+
+Where do test scenarios come from?
+
+Real inputs first: past emails, requests or notes the agent has handled. Make up cases only for gaps you can name, like a request it's never seen, and mark them. Either way, the job's owner writes or approves what good looks like for each.
+
+Why run the same scenario more than once?
+
+Because AI doesn't answer the same way twice. A scenario that passes once and fails twice isn't passing.
+
+Can AI grade AI's work?
+
+Yes, if you give it a yes/no checklist. Check it against a person on a handful of examples first, and reword any question where they disagree.
+
+Why yes/no instead of a score from 1 to 10?
+
+Because AI graders hedge. Asked for a score, they drift toward 7 or 8. Yes or no forces a real answer.
+
+What's a trace?
+
+A log of everything an agent did on a real run: every lookup, every tool it used, every message. It's how you find out why it did something wrong.
+
+How do evals help me choose a model?
+
+Run each model you're considering on your test scenarios, then compare how many it passes with what it costs. The right trade-off depends on the job.
+
+When should I fine-tune a smaller model?
+
+Most teams should start by improving the agent's instructions and tools, which is cheaper and faster. For narrow, repetitive jobs, Vivek says some teams are fine-tuning small open-source models on their own data, and seeing results close to top models at around a tenth of the cost.
+
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Due Diligence: Your First Agent Eval","description":"Evals show that your agent can do what you've taught it, so you're not waiting for a real-world mistake to find out.","image":"https://www.tenex.co/assets/playbooks/your-first-agent-eval.png","datePublished":"2026-09-29T14:00:00.000Z","dateModified":"2026-09-29T14:00:00.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/due-diligence-your-first-agent-eval"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Due Diligence: Your First Agent Eval","item":"https://www.tenex.co/playbooks/due-diligence-your-first-agent-eval"}]}]
+

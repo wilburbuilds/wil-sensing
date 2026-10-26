@@ -1,0 +1,92 @@
+URL: https://frontierbusinessdesign.com/contact-us/
+Fetched: 2026-10-26T03:34:41Z
+HTTP status: 200
+Final URL: https://frontierbusinessdesign.com/contact-us/
+Content-Type: text/html
+Via: chrome-headless
+Title: Book a Discovery Call | Frontier Business Design
+Meta description: Book a 30-minute discovery call with John Claborn. Based in Lubbock, TX, serving trades and home-service owners nationwide. Straight answers on fit.
+Canonical: https://frontierbusinessdesign.com/contact-us/
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Let's start a conversation
+
+Skip to content
+Home
+About Us
+Work With Us
+Contact Us
+Contact Us
+GET IN TOUCH
+Let's start a conversation
+
+Ready to build your business with intention? We’re here to help.
+
+BOOK A DISCOVERY CALL
+
+Pick a 30-minute time that works for you. We’ll look at where the business is stuck and tell you straight whether Frontier is the right fit. Prefer to write first? Use the form and we’ll reply within 24 business hours.
+
+Book a Discovery Call
+Email
+
+johnc@frontierbusinessdesign.com
+
+Phone
+
+(806) 790-7951
+
+Response Time
+
+We respond within 24 business hours
+
+Location
+
+Lubbock, TX (serving clients nationwide virtually)
+
+WHAT TO EXPECT
+30-minute intro conversation
+Discussion of your current challenges
+Assessment of fit and potential approach
+Clear next steps if we're aligned
+Full Name 
+Email Address 
+Company Name 
+Phone Number
+What's your biggest challenge right now? 
+SEND A MESSAGE
+By submitting this form, you agree to our privacy policy. We’ll never share your information.
+Pick a Time
+
+Designing businesses worth leading.
+
+Frontier Business Design
+Lubbock, TX · Serving owners nationwide
+(806) 790-7951
+johnc@frontierbusinessdesign.com
+
+Facebook
+ 
+X-twitter
+ 
+Linkedin
+Quick Links
+Home
+About Us
+Work With Us
+Contact
+Privacy Policy
+Terms of Service
+
+© 2026 Frontier Business Design™. All Rights Reserved.
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="" id=""
+  - input type=text name="form_fields[name]" id="form-field-name" label="Full Name" placeholder="Your Full Name " aria="" required=true
+  - input type=email name="form_fields[email]" id="form-field-email" label="Email Address" placeholder="Your Email Address" aria="" required=true
+  - input type=text name="form_fields[field_e9c67b4]" id="form-field-field_e9c67b4" label="Company Name" placeholder="Your Company" aria="" required=true
+  - input type=tel name="form_fields[field_2023c81]" id="form-field-field_2023c81" label="Phone Number" placeholder="(555) 123-4567" aria="" required=false
+  - textarea type= name="form_fields[message]" id="form-field-message" label="What's your biggest challenge right now?" placeholder="Tell us about your business, your goals, and the challenges you're currently facing..." aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://frontierbusinessdesign.com/#place","address":{"@type":"PostalAddress"}},{"@type":["LocalBusiness","Organization"],"@id":"https://frontierbusinessdesign.com/#organization","name":"Fractional COO for $1M\u2013$10M Service Businesses","url":"https://frontierbusinessdesign.com","email":"johnc@frontierbusinessdesign.com","address":{"@type":"PostalAddress"},"logo":{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/#logo","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","contentUrl":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","caption":"Fractional COO for $1M\u2013$10M Service Businesses","inLanguage":"en-US","width":"1200","height":"1200"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"description":"We are an Operations Partner for founder-led service-based companies doing $500K to $10M. We bring the clarity, alignment and execution needed to build a business that isn't completely dependent on you.","location":{"@id":"https://frontierbusinessdesign.com/#place"},"image":{"@id":"https://frontierbusinessdesign.com/#logo"},"telephone":"18067907951"},{"@type":"WebSite","@id":"https://frontierbusinessdesign.com/#website","url":"https://frontierbusinessdesign.com","name":"Fractional COO for $1M\u2013$10M Service Businesses","alternateName":"Frontier Business Design","publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-contact.png?fit=1200%2C630&amp;ssl=1","url":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-contact.png?fit=1200%2C630&amp;ssl=1","width":"1200","height":"630","caption":"Frontier Business Design: Book a 30-minute Discovery Call","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frontierbusinessdesign.com/contact-us/#webpage","url":"https://frontierbusinessdesign.com/contact-us/","name":"Book a Discovery Call | Frontier Business Design","datePublished":"2025-12-21T09:03:04+00:00","dateModified":"2026-10-14T19:07:30+00:00","isPartOf":{"@id":"https://frontierbusinessdesign.com/#website"},"primaryImageOfPage":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-contact.png?fit=1200%2C630&amp;ssl=1"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://frontierbusinessdesign.com/author/theruggedface/","name":"theruggedface","url":"https://frontierbusinessdesign.com/author/theruggedface/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/50e5eafee3502edb97b37349d1bc0ef64c2be0e0dceee5848c76c713faf79aa8?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/50e5eafee3502edb97b37349d1bc0ef64c2be0e0dceee5848c76c713faf79aa8?s=96&amp;d=mm&amp;r=g","caption":"theruggedface","inLanguage":"en-US"},"sameAs":["https://frontierbusinessdesign-iqyks.wpcomstaging.com"],"worksFor":{"@id":"https://frontierbusinessdesign.com/#organization"}},{"@type":"Article","headline":"Book a Discovery Call | Frontier Business Design","keywords":"fractional COO Lubbock TX","datePublished":"2025-12-21T09:03:04+00:00","dateModified":"2026-10-14T19:07:30+00:00","author":{"@id":"https://frontierbusinessdesign.com/author/theruggedface/","name":"theruggedface"},"publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"description":"Book a 30-minute discovery call with John Claborn. Based in Lubbock, TX, serving trades and home-service owners nationwide. Straight answers on fit.","name":"Book a Discovery Call | Frontier Business Design","@id":"https://frontierbusinessdesign.com/contact-us/#richSnippet","isPartOf":{"@id":"https://frontierbusinessdesign.com/contact-us/#webpage"},"image":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/og-contact.png?fit=1200%2C630&amp;ssl=1"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://frontierbusinessdesign.com/contact-us/#webpage"}}]}
+

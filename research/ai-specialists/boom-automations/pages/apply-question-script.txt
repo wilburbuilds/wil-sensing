@@ -1,0 +1,69 @@
+URL: https://boomautomations.com/apply
+Fetched: 2026-10-26T03:39:18Z
+Source: https://boomautomations.com/assets/index-dsrhWyIn.js
+Note: Question prompts shipped in the apply page's public client bundle. They render one at a time, after the visitor types an answer. This research did not type into a field and did not submit the form. The first message, rendered without typing, is in apply-waited.txt. Strings below are the bundle's own literals. A ${...} mark is an interpolation in that source, not a sentence that was shown on screen.
+
+Static fallback, present in the same bundle, not shown on the render in apply-waited.txt:
+"Leave your details and the team will follow up directly."
+fields: Your name | Company | you@company.com | +1 555 000 0000
+button: Submit
+success line: Application received. We'll be in touch.
+
+1. id=name kind=text
+prompt: Hi, I'm Sonic, one of the agents running on Boom's internal operating system. Before we book your consultation, I've got a few quick questions. Takes about a minute. First, what's your name?
+placeholder: Your name
+retry: I didn't quite catch that. What's your name?
+
+2. id=company kind=text
+prompt template: Great to meet you, ${firstName}. What company are you with?
+placeholder: Company name
+retry: Which company are you with?
+
+3. id=email kind=text
+prompt: Thanks. What's your work email? (We route applications by company domain, so personal emails won't work here.)
+placeholder: you@company.com
+retry: We'll need your company email for this one. It's how we route your application internally. What's your work email?
+
+4. id=phone kind=text
+prompt: And the best phone number to reach you?
+placeholder: +1 555 000 0000
+retry: That number doesn't look quite right. What's the best phone number to reach you?
+
+5. id=role kind=single
+prompt template: What's your role at ${company}?
+options: Founder / CEO | C-Suite / VP | Director / Manager | Other
+
+6. id=team kind=single
+prompt: How big is the team?
+options: 1–10 | 11–50 | 51–200 | 201–500 | 500+
+
+7. id=revenue kind=single
+prompt: Roughly, what's your annual revenue? This helps us scope the right solution.
+options: Under $1M | $1–5M | $5–20M | $20–50M | $50M+ | Prefer not to say
+
+8. id=interests kind=multi
+prompt: What are you most interested in?
+options: AI-native operating system | AI agents | Workflow automation | All of the above
+followUp: Good choice. That's exactly the kind of work we do best.
+minSelect: 1
+
+9. id=stack kind=multi
+prompt: What does your current tech stack look like? Select any you use, and tell me if you're running an ERP like NetSuite.
+options: NetSuite | Salesforce | HubSpot | QuickBooks | Google Workspace | Slack | Notion | Mostly spreadsheets | Other
+extra text allowed: yes
+minSelect: 1
+
+10. id=context kind=text
+prompt: Before we get to scheduling, anything else that would help us prep? Biggest bottlenecks, what's driving the timing, what you've already tried. The more context, the better the consultation. (Totally optional.)
+placeholder: Anything that would help us prep…
+followUp: That helps, thanks.
+skippable: yes
+
+11. id=windows kind=multi
+prompt template: Last one. Heads up: we only hold consultation spots through ${lastDayLabel}, so these are the only times available. Pick two or three 30-minute slots and we'll confirm one within a couple of hours.
+minSelect: 2
+maxSelect: 3
+slot rule in the same bundle: start tomorrow, take the next 3 days that are not Saturday or Sunday, and for each day offer "Morning 9–12", "Afternoon 12–3", and "Late afternoon 3–6". The date in the prompt is that third weekday, formatted weekday-month-day. It was not rendered, because reaching this step requires typing.
+
+closing template, after the last answer:
+That's everything, ${firstName}. Your application is with the team now. If it's a fit, you'll see an invite from us within a couple of hours. Talk soon.

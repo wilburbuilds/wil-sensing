@@ -1,0 +1,61 @@
+URL: https://www.lockpick.app/app/billing?plan=deep&interval=monthly&start=1
+Fetched: 2026-10-26T03:50:21Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/app/billing?plan=deep&interval=monthly&start=1
+Content-Type: text/html
+Via: chrome-headless
+Title: Sign in · Lockpick
+Meta description: Evidence-grounded checks for your public website. Inspect, repair, and recheck.
+Canonical: 
+Robots: noindex, nofollow
+H1: Welcome back.
+
+Your plan is one step away.
+
+Lockpick checks your public homepage and tells you what to fix, in plain words.
+
+Public pages only
+Never submits your forms
+5 free Pulse scans a month on one site
+English
+
+Sign in to continue to checkout for Deep. New here? Create an account and we take you straight there.
+
+Welcome back.
+
+Sign in to see your scans and what to fix next.
+
+New here? Create an account
+
+Continue with Google
+Continue with GitHub
+
+New to Lockpick? Continuing with a provider above creates an account, and you agree to the Terms of Service
+(opens in a new tab)
+ and confirm that you have read the Privacy Policy
+(opens in a new tab)
+.
+
+Or use email
+Email
+Password
+Forgot password?
+Show
+Sign in
+
+New here? Create an account
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="email" label="Email" placeholder="you@company.com" aria="" required=true
+  - input type=password name="password" id="password" label="Password" placeholder="Your password" aria="" required=true
+  - button type=button name="" id="" label="" placeholder="" aria="Show password" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

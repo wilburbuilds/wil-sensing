@@ -1,0 +1,215 @@
+URL: https://heliontechnologies.com/dealership-it-services-boston/
+Fetched: 2026-10-26T04:00:55Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-it-services-boston/
+Content-Type: text/html
+Via: chrome-headless
+Title: Dealership IT Services in Boston | Helion Technologies
+Meta description: Dealership IT services in Boston and New England from Helion Technologies. Managed IT, cybersecurity, Tekion support and compliance. Help in 82 seconds.
+Canonical: https://heliontechnologies.com/dealership-it-services-boston/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealership IT Services in Boston & New England
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+GREATER BOSTON, NEW HAMPSHIRE AND RHODE ISLAND
+
+Dealership IT Services in Boston & New England
+
+One dealership-only IT team for your stores from Danvers to Warwick. A live person answers in 82 seconds on average.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Last updated: October 19, 2026
+
+Helion Technologies provides dealership IT services in Boston and across New England for automotive and heavy truck stores in Massachusetts, southern New Hampshire, Rhode Island and Connecticut, covering managed IT, cybersecurity, Tekion support and FTC Safeguards compliance. A live support agent answers in 82 seconds on average.
+
+Dealership IT Services in Boston Answer to a 2010 Rule
+
+Ask a Massachusetts dealer when they wrote their first information security program and the honest answer is often “when the FTC made us, in 2023.” The state got there first. Since March 1, 2010, anyone holding personal information about a Massachusetts resident has had to keep a written security program, and a dealership holds plenty of it in every deal jacket, credit application and service record. Nearly every store qualifies.
+
+That’s the first thing that sets this market apart. The second is how often a group crosses a state line. A store in Burlington, another in Nashua and a third in Warwick is a normal footprint here, and each of those states writes its own rules. Each one counts.
+
+We’ve worked through rules like these since 1997. Helion Technologies supports automotive and heavy truck dealerships and nobody else, and this page is part of our dealership IT services by location hub. Here’s what’s different about Boston and the states around it.
+
+Remote first
+Most tickets close by phone or remote session, so a backup on the Southeast Expressway never decides how long a store stays down.
+On site when it needs hands
+Field technicians are dispatched for a dead switch, new cabling or a store relocation off Route 1.
+Watched around the clock
+A US-based team monitors networks, servers and security alerts 24/7, in every state your stores are in.
+
+Our dealership help desk is in Baltimore. Whenever your New England stores are open, 7 days a week, the help desk is open too, so the porter who opens the service drive before sunrise in Worcester and the closer still finishing a deal at 10 on a Saturday night in Nashua both reach the same team, with the same notes on your stores in front of them. After-hours calls, weekend coverage and field dispatch are all part of one monthly number, and that number doesn’t change when a problem turns out bigger than it looked. No trip charges. Nothing extra shows up later. Ask any provider for the help desk metrics a dealer principal should see, and compare.
+
+What the Massachusetts Security Rule Asks of a Dealership
+
+The regulation is 201 CMR 17.00, and it applies to any business that owns or licenses personal information about a Massachusetts resident, wherever the business sits. Somebody at the store has to own the program. Staff and contractors get trained on it, and someone looks it over at least once a year, or sooner when the business changes in a way that touches customer data. Vendors count too. They have to be able to protect what you hand them, and your contract has to say they will.
+
+The technical list is where stores fall short. Personal information on laptops and other portable devices has to be encrypted, and so does anything sent over a public or wireless network. Each person needs their own login, not a shared one taped under the keyboard at the parts counter. Accounts lock after too many bad passwords, and a salesperson who quits on Friday loses access on Friday, not the week after. Add current patches, a firewall, anti-malware and monitoring for anyone who shouldn’t be in the system. That’s a lot of IT. Few stores check every box.
+
+Here’s the good news. The FTC’s amended Safeguards Rule asks for much of the same, so one well-built program can answer both. We keep the technical side running and documented, and our dealership compliance team keeps the program current. If you’re starting from zero, read what a comprehensive information security program is first, then the FTC Safeguards Rule requirements.
+
+Who Picks Up When a Boston Store Calls
+2,000+
+Dealerships under management nationwide
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+82s
+Average time to reach a support agent
+New England Rules for Boston Dealerships
+
+Six lines matter for a group with stores around Boston. One federal rule, two Massachusetts rules, and three newer state privacy acts that treat dealers very differently from one state to the next.
+
+RULE	WHAT IT IS	DATE OR DEADLINE	AT THE STORE
+FTC Safeguards Rule	
+Federal rule for dealers that arrange financing or leasing
+Applies	Amended rule in force June 9, 2023	A written security program, a qualified individual, multi-factor authentication, encryption, testing and vendor oversight. Get the checklist
+Massachusetts data security regulation	
+201 CMR 17.00
+Applies	In force since March 1, 2010	A written program, encrypted laptops, unique logins, vendor contracts that require safeguards and a yearly review.
+Massachusetts breach law	
+M.G.L. chapter 93H
+Applies	As soon as practicable	Customers, the Attorney General and the state’s consumer affairs office are all told, and the count isn’t a reason to wait.
+New Hampshire privacy act	
+RSA 507-H
+Dealers usually exempt	In force January 1, 2025	Exempts financial institutions and data covered by the Gramm-Leach-Bliley Act, which takes most franchised dealers out of it.
+Rhode Island privacy act	
+R.I. Gen. Laws 6-48.1
+Dealers usually exempt	In force January 1, 2026	Carries the same exemption for financial institutions and data covered by the Gramm-Leach-Bliley Act.
+Connecticut Data Privacy Act	
+As amended by Public Act 25-113
+Ask your attorney	Entity exemption ended July 1, 2026	Only data covered by the Gramm-Leach-Bliley Act is exempt now, so marketing, service and website data can fall under it.
+
+Massachusetts still has no comprehensive consumer privacy law. The House and Senate each passed a version in 2026, and as this page is written the two are still being worked out in a conference committee. Nothing is signed yet. Until it is, the breach law and the security regulation carry the load. The breach law wants notice as soon as practicable and without unreasonable delay, and it says plainly that not knowing the final count yet is no reason to hold it back.
+
+The neighbors keep firmer clocks. Rhode Island gives a business 45 days from confirming a breach, and brings in its Attorney General and the credit bureaus above 500 residents. Connecticut allows 60 days from discovery, with the Attorney General told no later than the customers. New Hampshire says as soon as possible. Plan for the shortest clock. Then there’s the FTC, whose rule in 16 CFR 314.4 adds its own 30-day notice once 500 or more consumers are involved. Your attorney decides how each rule applies to you, and our compliance team keeps the program that answers all of them. Stores further afield? Compare them in dealership privacy laws by state, and follow rule changes in FTC Safeguards Rule news.
+
+Dealership Cybersecurity in Boston
+
+Picture the morning after a February nor’easter. The showroom’s closed. Nobody’s at the store. The plows are still out, and the business office is finishing deals from kitchen tables on company laptops. If those laptops aren’t encrypted and the remote connection only asks for a password, that’s the day an attacker has the easiest time of the year. It’s also exactly what the Massachusetts rule was written to prevent.
+
+CDK Global’s 2024 survey of dealers found that 35% had a cyberattack or incident that year, and 92% of them said it did real financial or operational damage. June 2024 then showed what a vendor outage does to a store that never planned for one. Our dealership cybersecurity work covers the store’s side. A live, US-based security operations center watches the network through managed detection and response, advanced endpoint detection and response guards the computers, and multi-factor authentication goes on email and remote access. Microsoft 365 security closes the inbox where most attacks start, and security awareness training teaches everyone with a login to spot the fakes. Penetration testing and vulnerability scanning shows where an attacker would get in, and our look at auto dealership ransomware shows how those attacks usually begin. If one gets through anyway, incident response for dealerships takes it from there.
+
+Not sure whether you need an IT provider or a security one? Read MSP vs MSSP for dealerships. If the DMS goes dark again, our DMS outage plan and backup and disaster recovery for dealerships keep the store selling. Want to know where your laptops and logins stand before the next storm? Start with a complimentary IT and cybersecurity assessment. We’ll write the gaps down.
+
+Where We Work Around Boston
+
+Massachusetts has 386 franchised new-car dealers, according to NADA Data 2025, and a lot of them line Route 1, Route 128 and the I-495 belt, close enough together that one group can run a store in Norwood, another in Braintree and a truck branch out near the I-495 interchange without anyone thinking twice about the drive between them. Family groups grew big here, like Quirk, which started as a single lot in 1977. We mention it for scale, not as a client. Franchised car and truck dealers are represented by the Massachusetts State Automobile Dealers Association, which speaks for more than 400 of them.
+
+We already know what growth across state lines does to IT here. One New England auto group we support, with stores in three states, went through four dealership acquisitions and ten store relocations while working with us, and IT never became the thing that slowed a deal down. That’s the pattern we know. Its CEO’s take was that the group now spends far less time thinking about computer problems and far more on the business. More stories like it are in Helion’s dealership case studies.
+
+Boston
+Quincy
+Braintree
+Norwood
+Newton
+Burlington
+Woburn
+Danvers
+Framingham
+Worcester
+Nashua
+Manchester
+Providence
+Warwick
+
+Your town isn’t on the list? That’s fine. We support automotive dealerships and heavy truck dealerships across New England and the rest of the country. Truck groups with branches far apart can start with IT support for remote truck dealership branches and networking a multi-branch truck dealership. Stores in other metros? See our pages for Philadelphia, Baltimore, Washington, DC, Charlotte, Atlanta, Tampa Bay, Miami-Fort Lauderdale, Chicago, Detroit, Houston, Denver, Dallas-Fort Worth, Los Angeles, New York and San Francisco.
+
+What a Boston Store Gets
+Managed IT
+
+One monthly number covers the help desk, monitoring and field dispatch, nights and weekends included.
+
+Co-managed IT
+
+Your IT manager keeps the final say, with a dealership-only team working behind them.
+
+Cybersecurity
+
+A live, US-based security operations center watching your network every hour of every day.
+
+Tekion enablement
+
+Conversion help, escalations and staff training for stores moving to Tekion, and support after go-live.
+
+Staff already using AI tools? Managed AI gives them a private, governed workspace instead, built on least-privilege access for AI tools, and our guide shows how to connect generative AI to your DMS without exposing customer data. Weighing a DMS change? The DMS comparison lays out the options side by side, Tekion vs Reynolds and Reynolds covers one common move from the IT side, and the Tekion network requirements are worth reading before any move. Leaving CDK? Rethink your phones and network too. Running several rooftops? The dealer groups page shows how one team covers all of them, and dealership acquisition IT integration covers what to check before you buy the next one.
+
+Common Questions
+
+Already a client and need help right now? Reach support through the contact page.
+
+Does Helion Technologies offer dealership IT services in Boston?
+What do managed IT services in Boston cost a dealership?
+Does Helion have an office in Boston?
+Does 201 CMR 17.00 apply to our dealership?
+We have a store in Connecticut. What changed there in 2026?
+We already have an IT manager. Do we have to replace them?
+Do you support heavy truck dealers around Boston?
+
+See where IT and security stand at your New England stores.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Want a number first? Request a price quote or call (443) 541-1500.
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-boston\/","url":"https:\/\/heliontechnologies.com\/dealership-it-services-boston\/","name":"Dealership IT Services in Boston | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-boston\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-boston\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-boston-ma.webp","datePublished":"2026-10-19T15:22:36+00:00","dateModified":"2026-10-19T15:32:23+00:00","description":"Dealership IT services in Boston and New England from Helion Technologies. Managed IT, cybersecurity, Tekion support and compliance. Help in 82 seconds.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-boston\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-it-services-boston\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-boston\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-boston-ma.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-boston-ma.webp","width":1200,"height":630,"caption":"Dealership IT services in Boston from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-boston\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Dealership IT Services in Boston &#038; New England"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-it-services-boston/","url":"https://heliontechnologies.com/dealership-it-services-boston/","name":"Dealership IT Services in Boston & New England","description":"Dealership IT services in Boston and New England from Helion Technologies. Managed IT, cybersecurity, Tekion support and compliance. Help in 82 seconds.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-it-services-boston-ma.webp","width":1200,"height":630},"about":{"@id":"https://heliontechnologies.com/dealership-it-services-boston/#service"},"mentions":[{"@type":"Legislation","name":"Massachusetts Standards for the Protection of Personal Information of Residents of the Commonwealth","legislationIdentifier":"201 CMR 17.00","legislationJurisdiction":"US-MA","url":"https://www.law.cornell.edu/regulations/massachusetts/201-CMR-17-03"},{"@type":"Legislation","name":"Massachusetts security breach notification law","legislationIdentifier":"M.G.L. c. 93H","legislationJurisdiction":"US-MA","url":"https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXV/Chapter93H/Section3"},{"@type":"Legislation","name":"New Hampshire Expectation of Privacy act","legislationIdentifier":"RSA 507-H","legislationJurisdiction":"US-NH","url":"https://gc.nh.gov/rsa/html/LII/507-H/507-H-mrg.htm"},{"@type":"Legislation","name":"Rhode Island Data Transparency and Privacy Protection Act","legislationIdentifier":"R.I. Gen. Laws 6-48.1","legislationJurisdiction":"US-RI","url":"https://webserver.rilegislature.gov/Statutes/TITLE6/6-48.1/INDEX.htm"},{"@type":"Legislation","name":"Rhode Island Identity Theft Protection Act notification of breach","legislationIdentifier":"R.I. Gen. Laws 11-49.3-4","legislationJurisdiction":"US-RI","url":"https://webserver.rilegislature.gov/Statutes/TITLE11/11-49.3/11-49.3-4.htm"},{"@type":"Legislation","name":"Connecticut Data Privacy Act","legislationIdentifier":"Conn. Gen. Stat. 42-515 et seq.","legislationJurisdiction":"US-CT","url":"https://www.cga.ct.gov/current/pub/chap_743jj.htm"},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR 314.4","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314/section-314.4"},{"@type":"Organization","name":"Massachusetts State Automobile Dealers Association","url":"https://www.msada.org/"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/dealership-it-services-boston/#service","name":"Helion Dealership IT Services in Boston and New England","serviceType":"Dealership IT services","description":"Helion Technologies provides dealership IT services in Boston and across New England for automotive and heavy truck dealerships in Massachusetts, southern New Hampshire, Rhode Island and Connecticut, including managed IT, co-managed IT, cybersecurity, Tekion enablement and FTC Safeguards compliance, with an 82-second average time to reach a support agent and a 98% client retention rate.","url":"https://heliontechnologies.com/dealership-it-services-boston/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":[{"@type":"AdministrativeArea","name":"Greater Boston"},{"@type":"City","name":"Boston, Massachusetts"},{"@type":"City","name":"Quincy, Massachusetts"},{"@type":"City","name":"Braintree, Massachusetts"},{"@type":"City","name":"Norwood, Massachusetts"},{"@type":"City","name":"Newton, Massachusetts"},{"@type":"City","name":"Burlington, Massachusetts"},{"@type":"City","name":"Woburn, Massachusetts"},{"@type":"City","name":"Danvers, Massachusetts"},{"@type":"City","name":"Framingham, Massachusetts"},{"@type":"City","name":"Worcester, Massachusetts"},{"@type":"City","name":"Nashua, New Hampshire"},{"@type":"City","name":"Manchester, New Hampshire"},{"@type":"City","name":"Providence, Rhode Island"},{"@type":"City","name":"Warwick, Rhode Island"},{"@type":"State","name":"Massachusetts"},{"@type":"State","name":"New Hampshire"},{"@type":"State","name":"Rhode Island"},{"@type":"State","name":"Connecticut"}],"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups in Greater Boston, Massachusetts, New Hampshire, Rhode Island and Connecticut"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Dealership IT services available in Boston and New England","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT for dealerships","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed AI for dealerships","url":"https://heliontechnologies.com/managed-ai/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-it-services-boston/#faq","url":"https://heliontechnologies.com/dealership-it-services-boston/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Does Helion Technologies offer dealership IT services in Boston?","acceptedAnswer":{"@type":"Answer","text":"Yes. Helion Technologies supports automotive and heavy truck dealerships across Greater Boston, southern New Hampshire, Rhode Island and Connecticut with managed IT, cybersecurity, Tekion support and FTC Safeguards compliance. Most help is remote, a support agent answers in 82 seconds on average, and field technicians are dispatched for the jobs that need hands."}},{"@type":"Question","name":"What do managed IT services in Boston cost a dealership?","acceptedAnswer":{"@type":"Answer","text":"It depends on how many stores you run and which services you pick, so we don't post a rate card. What we can tell you is what's inside the price. After-hours calls, weekend coverage and field dispatch are part of the monthly number, so a Saturday night outage in Framingham doesn't come back weeks later as its own invoice with a trip charge on it. Shopping around first? Read our look at the best managed IT providers for dealerships, then request a price quote for a real figure. The dealership IT budget checklist and our comparison of in-house vs managed IT help with next year's numbers."}},{"@type":"Question","name":"Does Helion have an office in Boston?","acceptedAnswer":{"@type":"Answer","text":"No. Helion Technologies is headquartered in Baltimore, Maryland, and supports New England stores remotely, with field technicians dispatched when a job needs someone on site. Our guide to onsite vs remote IT support explains when that is. We share your time zone, and whenever your New England stores are open, 7 days a week, the help desk is open too."}},{"@type":"Question","name":"Does 201 CMR 17.00 apply to our dealership?","acceptedAnswer":{"@type":"Answer","text":"If you hold personal information about Massachusetts residents, almost certainly, and that includes a store in New Hampshire that sells to them. The regulation requires a written information security program, encryption on laptops and other portable devices, and vendor contracts that require safeguards. The rule follows the customer. Much of it lines up with the FTC Safeguards Rule, so one program can cover both."}},{"@type":"Question","name":"We have a store in Connecticut. What changed there in 2026?","acceptedAnswer":{"@type":"Answer","text":"On July 1, 2026, Connecticut ended its privacy act's blanket exemption for financial institutions covered by the Gramm-Leach-Bliley Act. Only the data that federal law covers is still exempt. That's a big shift. A dealer's marketing lists, service records and website data can now fall under the state act, so it's worth a conversation with your attorney before the next email campaign goes out to everyone who bought or serviced a car at that store."}},{"@type":"Question","name":"We already have an IT manager. Do we have to replace them?","acceptedAnswer":{"@type":"Answer","text":"Not at all. With co-managed IT, your IT manager keeps the keys, the vendor calls and the final say, while Helion adds the help desk, the security operations center and extra hands for the projects one person can't cover from Danvers to Providence. They stay in charge. They just stop working alone. Our co-managed IT responsibility matrix shows who owns what."}},{"@type":"Question","name":"Do you support heavy truck dealers around Boston?","acceptedAnswer":{"@type":"Answer","text":"We do, and we have for years. A truck store keeps different hours than the car store down the road, often runs a different DMS, and has a parts counter that's busy before the sun's up. We support Karmak and Procede shops. For security, read heavy truck dealership cybersecurity and how the FTC Safeguards Rule applies to heavy truck dealers."}}]}]}
+

@@ -1,0 +1,147 @@
+URL: https://limestonedigital.com/blog/man-vs-token
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/man-vs-token
+Content-Type: text/html; charset=utf-8
+Title: 🟪 man vs. token
+Meta description: tokens cost more than humans?
+Canonical: https://thefoundation.limestonedigital.com/p/man-vs-token
+Robots: max-image-preview:large
+H1: 🟪 man vs. token | AI Foundation from Limestone Digital
+
+🟪 man vs. token
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 man vs. token
+🟪 man vs. token
+Uber blew its AI budget in four months. We shipped 122 PRs with two engineers.
+Jul 21, 2026
+Reading time: 8 minutes | Issue 35 |
+Book a Call
+Happy Tuesday.
+George Sivulka, CEO of Hebbia and a16z contributor,
+published an article
+last week titled
+"You just hired a million bad employees."
+The thesis: for the first time in history, humans are cheaper than software. Token spend per employee at top firms now exceeds labor costs. And AI is creating more jobs than it eliminates.
+I read it twice. Then I sent it to Anatolii, our COO, with two words: “He's right.”
+Inside the Issue
+Why humans are now cheaper than tokens, and what that means for your AI budget this quarter
+The V.U.E. gate: the three-word framework behind 90% AI-generated code that shipped to production on schedule
+Uber’s $1,500/month token cap, Accenture targeting mid-market agents, and 73% of enterprises blowing their AI budgets
+Man vs. Token
+Sivulka frames the problem using a railroad analogy. In the 1830s, American track mileage grew 120x in a decade. Then the system broke. Two trains collided on the Western Railroad in Massachusetts because individual conductors couldn’t coordinate a network that had outgrown them. The railroad companies spent decades building management: geographic managers, defined roles, clear hierarchies. Modern management was born.
+AI is breaking the system the same way. Sivulka’s formulation: “We just gave every employee, even the worst ones, infinite headcount and infinite budget.” The parallel between token workforces and human workforces runs through seven dimensions that anyone managing an engineering budget should read carefully.
+Three of the seven hit closest to what I see in our client portfolio every week.
+Tokenmaxxing is throwing bodies at the problem.
+Uber rolled out Claude Code in December 2025. By February, usage doubled. By April, the CTO told The Information he’d blown through the entire 2026 AI budget. Monthly costs per engineer ranged from $500 to $2,000. One executive racked up $1,200 in a single two-hour session. Uber’s COO later admitted it was getting harder to justify rising token costs without evidence they were producing more useful features. The company eventually capped every employee at $1,500 per month per tool. That cap is a management decision, not a technical one. Sivulka would call it the first step toward treating tokens like the workforce they are.
+Source: Forbes —
+forbes.com
+| Bloomberg —
+bloomberg.com
+Wasted tokens are the new headcount bloat.
+Sivulka writes that 80% of tokens today do nothing, the same way 80% of employees at a mismanaged company produce no meaningful impact. The FinOps Foundation’s 2026 State of FinOps report backs this up with a different number: 73% of enterprises exceeded their AI cost projections. Not because token prices went up. Prices fell 67% year over year. Consumption grew faster than anyone’s budget model anticipated. Token prices dropped. Invoices climbed. The math breaks because volume-based pricing doesn’t behave like the software line items CFOs know how to model.
+Source: FinOps Foundation State of FinOps 2026 —
+finops.org
+Evals are the new OKRs.
+This is where Sivulka’s argument gets sharp. He points out that 99% of AI revenue today sits in coding, because coding has built-in evals. Code runs or it doesn’t. Broader AI use cases will only come online when someone builds the equivalent evaluation infrastructure. A firm’s eval suite, he argues, will become its most valuable resource.
+I agree with the diagnosis. I disagree about where this leads.
+Our read:
+Sivulka describes what he calls “AI transformation companies” as the next trillion-dollar opportunity. He’s right that they’re needed. But I see two possible futures, and the probability split between them changes everything about how you should spend your next dollar on AI.
+Scenario 1 (I give it 50-60% odds):
+The frontier labs achieve the self-improvement cycle. AI research and model improvement is the main goal of every major lab right now because it’s a competition. They’re not optimizing for enterprise adoption. They’re racing to be the first to close the loop where AI improves AI. If they succeed, and governments don’t intervene in time, the resulting capability jump makes most of the infrastructure work we do today look quaint. Everything we know about evals, deterministic logic, and agent orchestration becomes irrelevant on a timeline measured in years, not decades. Think four years.
+Scenario 2 (40-50%):
+AI delivers incremental, iterative improvements over time. Models get better slowly. Enterprise adoption requires infrastructure, deterministic logic, evaluation frameworks, and the messy integration work of connecting AI to existing systems. The work Sivulka describes. The work we do every day.
+Even if Scenario 1 is more probable, every dollar you spend today needs to be a Scenario 2 dollar. You can’t buy Scenario 1 readiness. There’s no term sheet addendum that protects you from a discontinuous capability jump. But you can ship Scenario 2 value this quarter. And if Scenario 2 wins, the companies that built eval infrastructure, token management discipline, and human oversight layers will own the next decade.
+One of our engagements this year is the clearest proof I’ve seen of what disciplined Scenario 2 work produces.
+A logistics company, 100+ employees, needed to rebuild their core invoicing platform. Brownfield. Legacy system that had outgrown its original architecture. Real users, real delivery operations, real consequences if something broke.
+We deployed a two-person Velocity Pod. Two engineers. They used AI for roughly 90% of code generation. In the first 90 days, they merged 122 pull requests. 104 of those required fewer than five reviewer comments. They deployed to upper environments at month four and moved into production by months five to six. The engagement is still running. Same two engineers, still shipping.
+The difference between this engagement and Uber’s budget meltdown is one thing: management. Not of people. Of tokens.
+Here’s who should be uncomfortable.
+If your engineering team adopted AI coding tools in the last year and you can’t answer two questions, you’re tokenmaxxing. Question one: what percentage of AI-generated code survived its first month in production without rework? Question two: what is your cost per shipped feature, including token spend? If those numbers don’t exist, you have a token workforce with no OKRs. Sivulka would call that looping. I’d call it a science project with a growing invoice.
+Sources: George Sivulka, “You just hired a million bad employees” —
+a16z.news
+(July 14, 2026) | Limestone Digital engagement data (anonymized, 2026) | FinOps Foundation State of FinOps 2026
+The V.U.E. Gate: What Token Management Looks Like in Production
+The logistics engagement produced those numbers because of a management layer we’ve codified into a three-word framework: V.U.E. Verify, Understand, Explain.
+The agent handles roughly 90% of code generation. A senior engineer reviews every pull request. Nothing merges unless that engineer can verify the change does what the spec requires, understand every line well enough to debug it without the agent, and explain the architectural reasoning to another human.
+That gate is the eval Sivulka is asking for. Not a benchmark score. A production discipline.
+But the V.U.E. gate only works because of what happens before any code gets generated. In the first week of this engagement, no code was written. Zero. The team scanned the entire repository and built a knowledge graph: markdown files documenting every module, dependency, data flow, and domain term. The agents read that graph before touching anything. Sivulka calls this the “100X token,” the idea that some amount of context can cut AI effort by orders of magnitude. We call it Step 0.
+The full loop runs six steps: define requirements from the task tracker, write an AI-assisted technical spec, generate a change plan, implement with human review of every AI-generated change, test until behavior matches expectations, then finalize with AI-generated PR descriptions that made reviews faster and safer.
+Three things produced the time savings. Upfront context eliminated false starts. The agent handled mechanical coding so engineers focused on design and review. Tight spec-to-PR discipline kept scope from drifting.
+If you’re deploying AI coding tools to your team this quarter, try Step 0 before anything else. Pick one critical service. Spend a week building the knowledge graph. Document every module, dependency, and domain term in markdown that an agent can read. Then measure the difference in the quality of AI-generated code before and after context acquisition. The gap will tell you whether your tokens are working or looping.
+01
+Uber capped AI coding tool spend at $1,500 per employee per month.
+After burning through the entire 2026 AI budget in four months, Uber set per-tool spending limits on agentic coding tools like Claude Code and Cursor. The cap applies per tool, meaning an engineer can spend $1,500 on each. Uber’s 95% adoption rate and 70% AI-originated code made the budget collapse less about waste and more about a pricing model that enterprise finance teams haven’t learned to forecast. A $1,500 cap is a policy response. A context-acquisition protocol is an engineering response. Both are needed.
+Source: Bloomberg —
+bloomberg.com
+| Forbes —
+forbes.com
+02
+Accenture and Google Cloud launched "Accenture Edge" for mid-market AI.
+Six agentic solution areas targeting companies below enterprise scale: customer intelligence, cybersecurity, workforce enablement, and three others. This is the $7B Anthropic-Accenture JV model (Issue 11) now flowing downstream. The mid-market AI consulting space just got a new entrant with 700,000 consultants behind it. Whether those consultants can do the infrastructure plumbing that actually ships AI remains the same question I asked in May.
+Source: Accenture Newsroom —
+newsroom.accenture.com
+(July 7, 2026)
+03
+73% of enterprises blew their AI budgets in 2026.
+The FinOps Foundation’s State of FinOps report, surveying 1,192 practitioners managing $83B in annual cloud spend, found that AI is now the fastest-growing cost category. Two years ago, 31% of FinOps teams managed AI spend. Today: 98%. The skill they most want to develop: AI cost management. Token prices fell 67% year over year. Invoices climbed anyway.
+Source: FinOps Foundation State of FinOps 2026 —
+finops.org
+04
+AI coding agents write 180% more code but ship only 30% more software.
+An MIT study covered by Forbes found that AI agents boosted code volume by roughly 180% while production-shipped code rose only 30%. The 150-point gap is Sivulka’s “loops” in hard data. More tokens spent on tokens. Code churn rose from 3.1% to 5.7% across AI-assisted codebases. If your team’s PR count went up but your deployment frequency didn’t, this study explains why.
+Source: Forbes —
+forbes.com
+(June 10, 2026)
+05
+54% of C-suite executives say AI adoption is "tearing their company apart."
+Writer’s 2026 Enterprise AI survey of 2,400 respondents found that 97% of companies deployed AI agents in the past year, but 79% face challenges in adoption, a double-digit increase from 2025. The cultural and structural strain is now the primary barrier, not the technology. Sivulka’s “context hoarding” parallel (employees refusing to teach AI their workflows because they recognize the replacement risk) is showing up in the data.
+Source: Writer 2026 AI Adoption Survey —
+writer.com
+Bring this to your next engineering standup:
+"What percentage of our AI token spend last month produced code that’s still in production today?"
+I’ve started asking this in every first call with prospective clients. Nobody has the number. Not one. They can tell me their monthly Cursor bill. They can tell me how many PRs their team merged. They can’t connect the two. That gap between spend and shipped value is exactly the management failure Sivulka describes. Token workforces need OKRs. If your tokens don’t have them, you’re running a payroll with no performance reviews.
+The Token Management Readiness Checklist. Five questions that map your current AI coding workflow to Sivulka’s seven parallels, scored red/yellow/green, with Limestone’s V.U.E. gate and Step 0 context acquisition as the corrective framework for each failure mode.
+If the checklist revealed more reds than greens, the Velocity Framework diagnostic is where we start. We measure your token spend against shipped value, build the context-acquisition layer your agents are missing, and install the V.U.E. gate that turns AI-generated volume into production-grade output. The method produced 122 merged PRs in 90 days on a complex brownfield codebase with two engineers. It’s repeatable. Two diagnostic slots open in August.
+Book a Call
+Until next Tuesday,
+— Mark Ajzenstadt
+Founder, Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"man-vs-token","url":"https://thefoundation.limestonedigital.com/p/man-vs-token","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/man-vs-token"},"headline":"🟪 man vs. token","description":"Uber blew its AI budget in four months. We shipped 122 PRs with two engineers.","datePublished":"2026-07-21T17:07:45.056Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/add1f798-bc1a-4b6f-99e0-d7ff48cebe7a/playbook-35-man-vs-token.png?t=1788796792"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T15:59:46Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/man-vs-token","name":"🟪 man vs. token"}}]}

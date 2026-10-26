@@ -1,0 +1,110 @@
+URL: https://thefoundation.limestonedigital.com/
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/
+Content-Type: text/html; charset=utf-8
+Title: AI Foundation by Limestone Digital | AI Foundation from Limestone Digital
+Meta description: The #1 newsletter for practical tips on AI engineering, AI governance, & AI transformation.
+
+One email a week from inside AI-native engineering teams shipping AI to production.
+Canonical: https://thefoundation.limestonedigital.com/
+Robots: 
+H1: The AI Foundation | AI Foundation from Limestone Digital
+
+AI Foundation by Limestone Digital | AI Foundation from Limestone Digital
+AI Foundation by Limestone Digital
+Login
+Subscribe
+The AI Foundation
+The
+#1 newsletter
+for practical tips on AI engineering, AI governance, & AI transformation.
+One email a week from inside
+AI-native engineering teams
+shipping AI to production.
+Published Tuesdays.
+Subscribe
+Join 3000+ PE Partners & Enterprise Leaders
+Featured
+Oct 20, 2026
+•
+7 min read
+🟪 "FDE washing"
+Only 13% of CIOs say AI has delivered transformational value.
+Oct 13, 2026
+•
+7 min read
+🟪 data foundation is king
+The unsexy work that decides if AI ships.
+Oct 6, 2026
+•
+8 min read
+🟪 escape the "pilot purgatory"
+If AI is in your exit story, a list of pilots won't prove it.
+Articles
+Oct 20, 2026
+•
+7 min read
+🟪 "FDE washing"
+Only 13% of CIOs say AI has delivered transformational value.
+Oct 13, 2026
+•
+7 min read
+🟪 data foundation is king
+The unsexy work that decides if AI ships.
+Oct 6, 2026
+•
+8 min read
+🟪 escape the "pilot purgatory"
+If AI is in your exit story, a list of pilots won't prove it.
+Sep 29, 2026
+•
+11 min read
+🟪 the slow death of the enterprise
+AI won't kill your company in a quarter. It will do it one quarter at a time.
+Sep 22, 2026
+•
+9 min read
+🟪 the Microsoft playbook
+Licenses don't change how the work gets done.
+Sep 15, 2026
+•
+7 min read
+🟪 the AI consultancy trap
+Where AI budgets go to die.
+Load more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=d771377c-a86e-425a-8925-800f7bd49a27 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Email'
+  button: Subscribe
+
+Form 2: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"WebSite","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/"}
+
+{"@context":"https://schema.org","@type":"WebPage","url":"https://thefoundation.limestonedigital.com/"}

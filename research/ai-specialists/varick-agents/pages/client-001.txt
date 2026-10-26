@@ -1,0 +1,57 @@
+URL: https://demo.varickagents.com/client-001
+Fetched: 2026-10-26T03:35:35Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: The Varick Finance Engine
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+Case Study Evidence
+The Varick Finance Engine
+
+How Varick deployed a full finance operating layer across a $4B manufacturer with 3,200 employees and a 280-person finance org spanning 14 entities in 6 countries.
+
+$4B revenue · 280-person finance team · 6 connected systems
+
+View Case Study
+5 CHAPTERS · DOCUMENTED ENGAGEMENT
+01
+Discovery
+Diagnosis agent mapped the operation and surfaced opportunities
+02
+Setup
+SOP compilation, system integration, and agent configuration
+03
+Team Views
+What AP specialists, directors, and the CFO saw each day
+04
+Under the Hood
+How agents orchestrate, learn, and adapt across 14 entities
+05
+Outcomes
+The results after 4 months in production
+

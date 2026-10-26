@@ -1,0 +1,158 @@
+URL: https://audit.varickagents.com/demo/plan
+Fetched: 2026-10-26T03:35:59Z
+HTTP status: 200
+Final URL: https://audit.varickagents.com/demo/plan
+Content-Type: text/html
+Via: chrome-headless
+Title: Finance Operations Diagnostic — Varick Agents
+Meta description: Audit deliverable for finance operations diagnostic engagement
+Canonical: 
+Robots: 
+H1: The Plan
+
+V
+VARICK
+AUDIT DELIVERABLE
+CHAPTERS
+01
+The Audit
+02
+The Findings
+03
+The Plan
+←
+Back to Overview
+Confidential
+Finance Operations Diagnostic
+The Plan
+$4B Industrial Manufacturer · 280-Person Finance Org
+Audit Complete
+CHAPTER 03
+The Plan
+
+What we do about it, how long it takes, and what it's worth. 20 automation opportunities across 6 sub-functions. $16.8M projected annual value.
+
+AUTOMATION OPPORTUNITY MAP
+Low
+Med
+High
+complexity
+Total value across all opportunities
+$16.8M/yr
+Accounts Payable
+$8.2M
+5 items
+Invoice Intake + Auto-coding
+$1.1M
+PO Matching Automation
+$0.8M
+Exception Triage — 12 Repeatable Types
+$2.4M
+Payment Timing Optimization
+$3.6M
+Vendor Master Unification
+$0.3M
+Accounts Receivable
+$2.1M
+3 items
+Close Management
+$2.4M
+4 items
+Expense Management
+$0.7M
+2 items
+Treasury
+$0.9M
+3 items
+FP&A + Tax
+$1.3M
+3 items
+4-MONTH IMPLEMENTATION TIMELINE
+Month 1
+Month 2
+Month 3
+Month 4
+AP Exception Triage
+Ramp→NetSuite Sync
+Invoice Intake + Auto-coding
+Vendor Master Unification
+Close Readiness Tracking
+AR Collections Prioritization
+Cash Application Automation
+Intercompany Reconciliation
+PO Matching Automation
+Policy Violation Detection
+Journal Entry Automation
+Entity Close Task Management
+Payment Timing Optimization
+Daily Cash Position
+Rolling Cash Forecast
+FX Exposure Monitoring
+Variance Analysis Auto-gen
+Management Reporting
+Tax Estimate Assembly
+Dispute Detection + Routing
+Full Cross-system Integration
+
+Month 1: Accuracy trajectory: 88% week 1 → 96% week 3 → 97%+ by go-live. Human reviews every output during this phase.
+
+Month 2: AR and intercompany workstreams launch. Intercompany reconciliation runs longest due to 3-ERP complexity.
+
+Month 3: First full close cycle with the new system runs this month. Target: 12 days or less, down from 18–22.
+
+Month 4: Second close cycle with full system. Target: 7–9 days.
+
+PROJECTED ANNUAL VALUE
+Labor redeployment
+$9.2M
+AP, AR, Close, Treasury, FP&A
+Early payment discount capture
+$3.6M
+Automated invoice processing
+DSO improvement on AR book
+$2.1M
+Intelligent collections
+Error reduction + audit avoidance
+$1.9M
+Intercompany, vendor master
+$16.8M
+projected annual value
+
+Labor redeployment means shifting hours from manual coordination to higher-value work. Not headcount reduction. AP analysts move from processing exceptions to vendor relationship management and spend optimization. The controller stops checking 14 Excel files and starts doing actual financial strategy.
+
+INVESTMENT SUMMARY
+Phase 1
+Completed
+Audit
+Phase 2
+Implementation
+4 months
+Phase 3
+Ongoing
+Usage-based
+NEXT STEPS
+01
+Scope Alignment Call
+
+Review this deliverable together. Confirm which opportunities from the roadmap are in Phase 2. Prioritize by business impact and dependency chain. Align on success metrics.
+
+02
+Implementation Kickoff
+
+FDE deploys on-site for the first 2 weeks to shadow workflows and configure initial agents. Transitions to remote with weekly syncs. First agent outputs in week 1.
+
+03
+Your Team's Role
+
+System admin access needed for NetSuite and Oracle. Weekly 30-min sync with Controller. AP Team Lead as primary SME for Month 1. AR Team Lead for Month 2.
+
+04
+Governance Setup
+
+Approval workflows configured before any agent goes live. Every output reviewed by a human during the ramp-up phase. Confidence thresholds determine when human review reduces.
+
+05
+First Close Cycle
+
+Month 3 target: run the first full close cycle with agents handling exception triage, Ramp sync, and close tracking. Target close time: 12 days, down from 18–22.
+

@@ -1,0 +1,19 @@
+URL: https://www.tenex.co/ and https://www.tenex.co/about-us
+Fetched: 2026-10-26T03:36:00Z
+HTTP status: 200
+Via: read-only HTML (img alt attributes). The headless-Chrome innerText files omit these alts.
+Note: alts are image labels, not sentences.
+
+Homepage https://www.tenex.co/ section text "Partnered with the best:"
+alt="Anthropic"
+alt="OpenAI"
+alt="Vercel"
+alt="Lovable"
+alt="LangChain"
+alt="Braintrust"
+
+About https://www.tenex.co/about-us section text "Trusted by the best:"
+alt="Snapback Sports logo"
+alt="Blip logo"
+alt="EightAI logo"
+alt="Garman Homes logo"

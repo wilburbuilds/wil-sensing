@@ -1,0 +1,292 @@
+URL: https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a5e54c0e620d8ebbf94e115_Best_Models_for_BDG_and_FCST.pdf
+Fetched: 2026-10-26
+Via: GET pdf, pypdf extract_text (not the HTML crawler). Read-only.
+Title: best-models-bdg-fcst.pdf
+Note: Free-kit PDF linked from https://consultingdjv.com/ai-readiness. Full text extract.
+
+AI MODELS · BUDGETING & FORECASTING · 2026
+DJV CONSULTING · BEST MODELS FOR BDG & FCST · 1/7
+IN-DEPTH ANALYSIS  ·  5 MODELS  ·  6 SME SCENARIOS
+Best Models
+for BDG & FCST.
+Which AI model should your business trust for budgeting and forecasting? This summary compares
+Claude, Perplexity, Grok, OpenAI and Gemini across research, modeling, scenario planning and reporting
+— and shows the
+hybrid workflow
+that fits SMEs best.
+MODELS
+compared in depth
+5
+SCENARIOS
+SME situations
+6
+TOP PICK
+primary model
+Claude
+TIME TO ROI
+after consistent use
+6+ mo
+KEY TAKEAWAY
+1.
+Claude leads modeling, scenario work and reporting —
+the primary model for most SMEs.
+2.
+Perplexity is unmatched for real-time research and
+sourced market data.
+3.
+Grok and OpenAI add real-time reasoning and agentic
+depth for specific needs.
+RECOMMENDED BY SME SIZE
+MICRO
+Claude Pro only.
+< $1M rev, 1–5 staff
+SMALL
+Perplexity + Claude, add Grok.
+$1–10M rev
+MEDIUM
+Claude Team + Perplexity + Grok/OpenAI.
+$10M+ rev, team 10+
+
+AI MODELS · BUDGETING & FORECASTING · 2026
+DJV CONSULTING · BEST MODELS FOR BDG & FCST · 2/7
+SECTION 01 · CAPABILITIES
+Where each model wins.
+Core capability breakdown across the budgeting & forecasting workflow.
+01
+PERPLEXITY
+Data ingestion & research
+Perplexity is best-in-class: real-time web search with citations, premium data sources and file uploads — ideal
+for competitor financials and economic indicators.
+02
+CLAUDE
+Quantitative modeling & computation
+Claude leads complex modeling. Artifacts enable live, interactive environments for Monte Carlo simulations,
+ARIMA/Prophet forecasts and automated Excel generators.
+03
+CLAUDE
+Scenario planning & sensitivity
+Claude's long context and iterative Artifacts make it superior for dynamic base/best/worst scenarios; Grok and
+OpenAI handle multi-variable what-if analysis well.
+04
+CLAUDE
+Reporting & visualization
+All models generate professional reports, but Claude produces the most polished, structured outputs; Perplexity
+adds reliable, sourced citations.
+SECTION 02 · SCENARIOS
+How each model performs, scenario by scenario →
+Six realistic SME situations and the recommended model mix for each — see next page.
+
+AI MODELS · BUDGETING & FORECASTING · 2026
+DJV CONSULTING · BEST MODELS FOR BDG & FCST · 3/7
+SECTION 02 · SCENARIOS
+Scenario analysis.
+Six realistic SME situations and the recommended model mix for each.
+05
+CLAUDE
+Stable growth (10–15% predictable increase)
+Claude builds the cleanest baseline forecast with variance analysis; Perplexity validates assumptions with market data.
+06
+HYBRID
+Economic downturn / recession risk
+Claude excels at downside scenarios, cash-runway analysis and Monte Carlo risk modeling; Perplexity supplies the
+latest macro data.
+07
+CLAUDE
+Rapid scaling / expansion
+Claude handles multi-entity consolidation and pro-forma forecasts; Perplexity is essential for market sizing in new
+geographies.
+08
+CLAUDE
+Seasonal or cyclical business
+Claude's interactive Artifacts make seasonal indices and demand shocks easy to adjust; Perplexity adds real-time
+weather/cycle data.
+09
+HYBRID
+High uncertainty / volatile markets
+Perplexity and Grok are strongest for real-time data integration; Claude builds the most robust probabilistic models and
+decision trees.
+10
+CLAUDE
+New product launch or major investment
+Claude leads NPV/IRR modeling and break-even analysis with precise financial logic; Grok and OpenAI follow close
+behind.
+
+AI MODELS · BUDGETING & FORECASTING · 2026
+DJV CONSULTING · BEST MODELS FOR BDG & FCST · 4/7
+SECTION 03 · STRATEGY
+Turning model choice into ROI.
+11
+ROI & time savings
+Typical SMEs cut the monthly forecasting cycle from 8–15 hours to 2–4 hours. Cost runs $20–40/user/month vs.
+thousands for FP&A software — real ROI builds after 6+ months.
+12
+Implementation roadmap
+Month 1: pilot Claude Pro + Perplexity Pro on one budget cycle. Months 2–3: standardize prompts and connect to
+Excel/Sheets. Month 4+: add Grok/OpenAI and scale to Team plans.
+13
+Risks & mitigations
+Cross-verify every number in Excel — numerical hallucinations happen. Use Enterprise plans for sensitive data; keep
+human sign-off mandatory on all financial decisions.
+SECTION 04 · RECOMMENDATIONS
+The right stack for your size.
+14
+By SME size
+Micro (<$1M, 1–5 staff): Claude Pro only. Small ($1–10M): Perplexity + Claude hybrid, add Grok. Medium ($10M+, team
+10+): Claude Team + Perplexity + selective Grok/OpenAI.
+15
+Excel add-ins — top picks
+Claude in Excel or Microsoft Copilot for AI-native modeling. Power Query + Power Pivot (free) for data prep. Macabacus
+or Shortcut AI for investment-grade 3-statement models.
+16
+Best practices & final call
+Research → Model → Validate → Report. Structure prompts with historical data + clear assumptions. Start Claude Pro +
+Perplexity Pro this month and run a side-by-side test.
+
+AI MODELS · BUDGETING & FORECASTING · 2026
+DJV CONSULTING · BEST MODELS FOR BDG & FCST · 5/7
+QUICK REFERENCE
+Summary
+and recommendation.
+Every finding from this analysis, condensed into one reference grid.
+SECTION 01
+CAPABILITIES
+01
+Research
+Perplexity
+02
+Modeling
+Claude
+03
+Scenario plan.
+Claude
+04
+Reporting
+Claude
+SECTION 02
+SCENARIOS
+05
+Stable growth
+Claude
+06
+Downturn
+Hybrid
+07
+Scaling
+Claude
+08
+Seasonal
+Claude
+09
+Volatility
+Hybrid
+10
+New launch
+Claude
+SECTION 03
+STRATEGY
+11
+ROI & time
+Faster cycle
+12
+Roadmap
+4-month plan
+13
+Risks
+Human sign-off
+SECTION 04
+RECOMMEND.
+14
+By SME size
+3 tiers
+15
+Excel add-ins
+Copilot/Claude
+16
+Best practices
+Test this month
+OVERALL RECOMMENDATION
+Claude-first,
+Perplexity-assisted.
+Perplexity for research, Claude for modeling & reporting,
+Grok/OpenAI to validate real-time or math-heavy edge cases.
+BY SME SIZE
+MICRO
+Claude Pro only
+SMALL
+Perplexity + Claude + Grok
+MEDIUM
+Claude Team + Perplexity + Grok/OpenAI
+RULE OF THUMB — 
+Perplexity for research inputs · Claude for modeling & output · Grok/OpenAI for real-time validation and math-heavy edge
+cases.
+
+AI MODELS · BUDGETING & FORECASTING · 2026
+DJV CONSULTING · BEST MODELS FOR BDG & FCST · 6/7
+SECTION 05 · BEST PRACTICES
+Prompting like a pro.
+Five habits that turn any model into a reliable forecasting partner.
+01
+Structure every prompt
+Provide historical data, clear assumptions and the desired output format upfront; ask for an interactive Artifact when
+using Claude.
+02
+Iterate, don't restart
+After the first output, reply with “make this more conservative” or “add [element]” instead of rewriting the whole
+prompt.
+03
+Run the hybrid workflow
+Perplexity for real-time research → Claude or Grok for modeling → always a validation pass before reporting.
+04
+Always verify in Excel
+Export every AI-generated number to Excel for a final check — numerical hallucinations happen even in strong models.
+05
+Build a shared prompt library
+Save your best-performing prompts in a shared library and use Claude Projects to keep recurring budget cycles
+consistent.
+
+AI MODELS · BUDGETING & FORECASTING · 2026
+DJV CONSULTING · BEST MODELS FOR BDG & FCST · 7/7
+SECTION 05 · PROMPT LIBRARY
+Ready-to-use prompt library.
+Copy, swap in your own [bracketed] data, and go.
+06
+Data prep & cleaning
+“Clean and structure this financial data for forecasting; flag missing
+values and outliers.”
+07
+Baseline forecasting
+“Build a 12–18 month baseline forecast using trend and seasonality;
+list every assumption.”
+08
+Scenario & sensitivity
+“Build Base/Upside/Downside scenarios with a sensitivity table for
+the top 5 variables.”
+09
+Cash flow & liquidity
+“Forecast monthly cash flow for 12 months; flag negative periods and
+mitigation options.”
+10
+Research integration
+“Summarize the latest market, competitor and regulatory data for
+[industry], with sources.”
+11
+Monte Carlo modeling
+“Run a 1,000+ iteration Monte Carlo simulation; summarize the
+probability of each outcome.”
+12
+Report generation
+“Turn this forecast into a board-ready report with summary, risks and
+recommendations.”
+13
+Interactive model (Artifacts)
+“Build an interactive model with adjustable [key assumptions] and
+auto-recalculating charts.”
+14
+Validation & review
+“Review this forecast for logical errors and unrealistic assumptions;
+flag high-risk areas.”
+15
+Hybrid workflow
+“Step 1: Perplexity research. Step 2: Claude/Grok modeling with our
+data. Step 3: validate & report.”
+

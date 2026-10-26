@@ -1,0 +1,100 @@
+URL: https://demo.varickagents.com/client-002/team
+Fetched: 2026-10-26T03:35:52Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-002/team
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Sales Transformation Case Study
+Meta description: Sales department transformation case study for a $2.8B enterprise SaaS company.
+Canonical: 
+Robots: 
+H1: What their team saw each day
+
+V
+VARICK
+SALES ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+AE
+VP Sales
+CRO
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Enterprise SaaS Corp
+|
+Sales Department
+|
+3.5-Month Implementation
+CHAPTER 03
+What their team saw each day
+
+AE View. Their enterprise rep opened the queue each morning and saw 4 items requiring human judgment, down from 20+ before Varick. Everything else was handled overnight.
+
+AE
+VP Sales
+CRO
+WHAT AGENTS HANDLED THAT DAY
+12
+Deals processed
+3
+Security questionnaires
+847
+CRM fields auto-populated
+1
+Forecast updated
+Before deployment, this took 4 hours/day. After deployment, it took 40 minutes.
+Queue snapshot
+4 items required human judgment
+OPP-4821
+high
+Stalled Approval
+Meridian Health Systems · $1.4M ACV
+
+Pricing approval stalled 48 hours. Non-standard discount (22%) requires VP Sales sign-off. Buyer expecting proposal by Friday.
+
+91%
+SEC-0312
+high
+Security Questionnaire
+NovaCare Financial · $820K ACV
+
+Incoming 200-question security questionnaire. Agent matched 142 questions (71%) from knowledge base. 58 need manual review.
+
+87%
+COMP-0089
+medium
+Comp Dispute
+Multi-deal impact · $34,200 commission delta
+
+Commission calculation dispute: territory overlap on 3 deals closed in Q4. System credited West region; rep claims Central ownership.
+
+94%
+CSH-1147
+low
+CS Handoff Ready
+Apex Manufacturing · $640K ACV
+
+Contract signed 2 hours ago. CS handoff package assembled with deal summary, implementation requirements, and technical specifications.
+
+97%
+Weekly time saved
+14h
+Week 1
+19h
+Week 2
+22h
+Week 3
+26h
+Week 4
+Next: VP Sales View
+

@@ -1,0 +1,65 @@
+URL: https://careers.limestonedigital.com/v/244850-forward-deployed-ai-engineer-google-workspace-vertex-ai
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/244850-forward-deployed-ai-engineer-google-workspace-vertex-ai
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Forward Deployed AI Engineer (Google Workspace, Vertex AI)
+Meta description: Requirements:&nbsp; - 5+ years of software engineering, strong Python - Production experience with LLM applications: tool calling, structured output, prompt and context design, evaluation, guardrai...
+Canonical: 
+Robots: 
+H1: Forward Deployed AI Engineer (Google Workspace, Vertex AI)
+
+Limestone digital s.r.o. - Forward Deployed AI Engineer (Google Workspace, Vertex AI)
+Job openings
+Forward Deployed AI Engineer (Google Workspace, Vertex AI)
+Full-time
+·
+Brazil, South America
+Requirements:
+- 5+ years of software engineering, strong Python
+- Production experience with LLM applications: tool calling, structured output, prompt and context design, evaluation, guardrails
+- Hands-on Google Cloud. Vertex AI and ADK preferred, solid GCP serverless experience accepted
+- Google Workspace APIs in production (Calendar, Gmail, Sheets) and Apps Script
+- OAuth 2.0, service accounts, domain-wide delegation, least-privilege access
+- Integration engineering: webhooks, event-driven flows, retries, idempotency, logging and alerting
+- Builds deterministic workflows first and adds the model where it pays off
+- Upper-intermediate or better spoken and written English, comfortable running calls with business users alone
+- Careful with sensitive data and strict confidentiality rules
+Nice-to-Have:
+- Vertex AI Agent Engine, Memory Bank, Gen AI evaluation service
+- Slack apps (Bolt, Block Kit, slash commands, interactive approvals)
+- Calendar scheduling logic: availability search, constraints, time zones, recurring events
+- Admin SDK Reports API or other Workspace audit tooling
+- MCP servers and clients, A2A
+- Claude or Gemini models in production, model routing
+- Financial services, private equity or executive assistant workflows
+- Experience teaching non-technical users
+Responsibilities:
+- Own delivery of agents and automations from the first workflow walkthrough to production and support
+- Turn documented client processes into a design: which steps are code, which use a model, where a human approves
+- Build agents in ADK, deploy on Vertex AI Agent Engine or Cloud Run, connect to Google Workspace and Slack
+- Set up evaluation and regression checks so each agent is retested when a model version changes
+- Run a short daily or near-daily sync with the client contact during her morning hours
+- Write short runbooks and walk client users through how each solution works
+- Keep monthly work plans and status current for the architect and account lead
+- Follow the client confidentiality policy: approved tools only, no AI note takers, no client data outside approved locations
+About project:
+The client is a US-based financial services firm that runs fully on Google Workspace and Slack. The project builds AI agents and automations for the firm’s internal operations: scheduling, OKR tracking, email handling, and team requests across the executive office and operations teams.
+The focus is on reliable, production-grade solutions. Deterministic logic comes first, and LLMs are used where they add real value, backed by evaluation and human oversight.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

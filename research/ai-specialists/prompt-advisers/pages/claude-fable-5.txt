@@ -1,0 +1,131 @@
+URL: https://www.promptadvisers.com/claude-fable-5
+Fetched: 2026-10-26T03:45:26Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/claude-fable-5
+Content-Type: text/html
+Via: chrome-headless
+Title: Claude Fable 5 Leaves Subscriptions July 8. Do This First
+Meta description: Claude Fable 5 leaves subscriptions on July 8. Here is the war-gaming workflow I use to bank its intelligence so cheaper models can run it later.
+Canonical: https://www.promptadvisers.com/claude-fable-5
+Robots: 
+H1: Claude Fable 5 Leaves Subscriptions July 8. Do This First
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · CLAUDE CODE
+
+Claude Fable 5 Leaves Subscriptions July 8. Do This First
+
+Claude Fable 5 leaves subscriptions on July 8. Here is the war-gaming workflow I use to bank its intelligence so cheaper models can run it later.
+
+MARK KASHEF
+JULY 6, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+Claude Fable 5 drops out of Claude subscriptions on July 8, and most people are spending the last of their access in exactly the wrong way. There is a third move almost nobody is talking about.
+
+What Losing Claude Fable 5 Access Actually Means
+
+The clock is real but the obituary is wrong. Fable 5 is not permanently leaving subscriptions. After July 8, Pro, Max, and Team plans lose the included allowance, and the model moves to separate usage credits at API rates of 10 dollars per million input tokens and 50 dollars per million output. Anthropic says it will fold Fable 5 back into subscriptions once capacity allows, with no fixed date.
+
+WATCH ON YOUTUBE
+
+The real question is how to spend the remaining window so Claude Fable 5 keeps working for you after the meter starts. My answer is to stop asking it to build and start asking it to war-game.
+
+Playbooks like this land first inside Early AI-dopters, 1,000+ people mastering Claude Code and Codex. The full prompt pack lives in there.
+
+JOIN EARLY AI-DOPTERS
+Stop Asking for Plans. Ask for War Games.
+
+Anthropic's own guidance says to use Fable as an executor and let a cheaper model write the plan. That advice is backwards for this week. A plan is a blue-sky document. It assumes every step lands, breaks the work into tidy phases, and never tells you what happens when reality throws an error.
+
+A war game is a different artifact. The AI fights the mission on paper, move by move, through three beats. Action, reaction, counteraction. It makes a move, reality humbles it, and it documents the counter-move before anything ever runs. You are using the model's raw experience to map the unknown unknowns, the questions you would never have thought to ask.
+
+Picture July 8. Most people will be holding a stack of builds that got 80 percent of the way there, and the last 20 percent is famously the hardest part to hand off. You could instead be holding your ten hardest projects fully simulated, ready to run on any model, on your schedule.
+
+The War-Game Prompt, Move by Move
+
+The template is short and it transfers to any mission. It opens with a war-game order. You are not executing this mission, you are purely war-gaming it, and a cheaper executor will run the brief later. Naming the executor matters, because Fable can tailor the whole route to how that specific model behaves.
+
+THE WAR-GAME ORDER TEMPLATE, EVERY MOVE WITH AN EXPECTED OBSERVATION AND A FAILURE BRANCH, AT 5:40.
+
+From there, five rules do the heavy lifting. Every move states its expected observation, exactly what you should see if it worked. Every move carries its most likely failure, the signal it gives off, and the counter-move. Every fork gets a trigger, if you observe X, take route B. Assumptions that recon could not settle get flagged for your input. And the file ends with abort conditions, the moments where the executor should stop rather than improvise.
+
+Below the order sits the mission brief. For a website that means the business, the problem, the audience, the one action you want visitors to take, and how to verify the result page by page. Swap the brief and the same order war-games sales copy, a tax review, or an entire agentic OS.
+
+Run the List, Not One Idea at a Time
+
+Do not feed these in one at a time. One folder is the machine that makes this compound.
+
+THE FABLE-LAST-WEEK FOLDER. TEN MISSIONS IN TASKS, WAR GAMES OUT, GRADED AGAINST SUCCESS.MD, AT 10:35.
+
+Ten mission files sit in a tasks folder. A wargames folder starts empty. SUCCESS.md holds my definition of properly war-gamed, and LEDGER.md logs every grade and every blocker, with placeholder variables wherever the model needs my input. One goal prompt has Fable draft all ten breadth first, fanning out parallel subagents to work the list at the same time. Then a loop grades every draft against the standard, red-teams the weakest, and patches what breaks until each one survives an honest attempt to kill it.
+
+ONE FINISHED WAR GAME. EVERY MOVE CARRIES ITS EXPECTED RESULT, ITS FAILURE SIGNAL, AND THE COUNTER-MOVE, AT 12:10.
+
+A million tokens later, the folder is full of blueprints. My list mixed a site rebuild, copy, a local AI stack sized to my exact machine, tax optimizations, a self-teaching chatbot, and an advisor council that splits work across Claude, Codex, and open models. Yours will look different, and that is the point. Turning a list like this into missions worth gaming is most of what we do in our AI workshops and bootcamps.
+
+Final Notes from Mark
+
+This is not rocket science. It is planning taken to its natural extreme, using the smartest model available to simulate the fight instead of renting it by the round. Fable 5 will be back, and when it returns you will have a war-gaming muscle that makes every capable model better. Spend the window banking judgment, not keystrokes.
+
+Claude Fable 5 FAQs
+
+Is Claude Fable 5 gone for good after July 8?
+
+No. Fable 5 leaves the included subscription allowance on July 8, but Anthropic has said the change is not permanent. The model stays available through usage credits at API rates, and the company says it plans to bring it back into standard subscriptions once it has the capacity to support demand.
+
+How much does Claude Fable 5 cost after it leaves subscriptions?
+
+After July 8 you pay through separate usage credits at the published API rates, which are 10 dollars per million input tokens and 50 dollars per million output tokens. That is roughly five times the price of most frontier models, which is exactly why banking its judgment now beats renting its keystrokes later.
+
+What is AI war-gaming?
+
+AI war-gaming means asking a model to fight a project on paper instead of executing it. Every move states what you should observe if it worked, the most likely failure, the signal that failure gives off, and the counter-move. Forks get triggers, unresolved assumptions get flagged, and the file ends with abort conditions.
+
+Why not just have Fable 5 build everything before the deadline?
+
+Because you will run out of tokens with a pile of builds that are 80 percent done, and the last 20 percent is the hardest part to hand to a weaker model. A war game costs a fraction of a full build and leaves you a complete blueprint that any capable model can execute on your schedule.
+
+Can cheaper models really execute a Claude Fable 5 war game?
+
+Yes, and that is the whole point. Models like Opus 4.8, GPT 5.5, or a strong open-source model are solid executors that struggle with foresight. The war game hands them the foresight up front, every fork already mapped, so they execute with far fewer wrong turns than they would from a normal plan.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/claude-fable-5#article","headline":"Claude Fable 5 Leaves Subscriptions July 8. Do This First","description":"Claude Fable 5 leaves subscriptions on July 8. Here is the war-gaming workflow I use to bank its intelligence so cheaper models can run it later.","image":["https://www.promptadvisers.com/blog/claude-fable-5/claude-fable-5-hero.webp"],"datePublished":"2026-07-06T00:00:00-05:00","dateModified":"2026-07-06T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/claude-fable-5","keywords":"Claude Fable 5, Fable 5 access, AI war-gaming, war-game prompt, Claude Fable 5 subscription","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Claude Fable 5 Leaves Subscriptions July 8. Do This First","description":"Claude Fable 5 leaves subscriptions on July 8. Here is the war-gaming workflow I use to bank its intelligence so cheaper models can run it later.","thumbnailUrl":["https://i.ytimg.com/vi/nuwlyQXrADg/maxresdefault.jpg"],"uploadDate":"2026-07-05T00:00:00-05:00","duration":"PT13M58S","contentUrl":"https://www.youtube.com/watch?v=nuwlyQXrADg","embedUrl":"https://www.youtube-nocookie.com/embed/nuwlyQXrADg","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is Claude Fable 5 gone for good after July 8?","acceptedAnswer":{"@type":"Answer","text":"No. Fable 5 leaves the included subscription allowance on July 8, but Anthropic has said the change is not permanent. The model stays available through usage credits at API rates, and the company says it plans to bring it back into standard subscriptions once it has the capacity to support demand."}},{"@type":"Question","name":"How much does Claude Fable 5 cost after it leaves subscriptions?","acceptedAnswer":{"@type":"Answer","text":"After July 8 you pay through separate usage credits at the published API rates, which are 10 dollars per million input tokens and 50 dollars per million output tokens. That is roughly five times the price of most frontier models, which is exactly why banking its judgment now beats renting its keystrokes later."}},{"@type":"Question","name":"What is AI war-gaming?","acceptedAnswer":{"@type":"Answer","text":"AI war-gaming means asking a model to fight a project on paper instead of executing it. Every move states what you should observe if it worked, the most likely failure, the signal that failure gives off, and the counter-move. Forks get triggers, unresolved assumptions get flagged, and the file ends with abort conditions."}},{"@type":"Question","name":"Why not just have Fable 5 build everything before the deadline?","acceptedAnswer":{"@type":"Answer","text":"Because you will run out of tokens with a pile of builds that are 80 percent done, and the last 20 percent is the hardest part to hand to a weaker model. A war game costs a fraction of a full build and leaves you a complete blueprint that any capable model can execute on your schedule."}},{"@type":"Question","name":"Can cheaper models really execute a Claude Fable 5 war game?","acceptedAnswer":{"@type":"Answer","text":"Yes, and that is the whole point. Models like Opus 4.8, GPT 5.5, or a strong open-source model are solid executors that struggle with foresight. The war game hands them the foresight up front, every fork already mapped, so they execute with far fewer wrong turns than they would from a normal plan."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Claude Fable 5 Leaves Subscriptions July 8. Do This First","item":"https://www.promptadvisers.com/claude-fable-5"}]}]
+

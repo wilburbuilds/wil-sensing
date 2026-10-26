@@ -1,0 +1,368 @@
+URL: https://blog.helloparalegal.com/2026/02/26/deploy-ai-agent-law-firm-guide/
+Fetched: 2026-10-26T03:38:08Z
+HTTP status: 200
+Final URL: https://blog.helloparalegal.com/2026/02/26/deploy-ai-agent-law-firm-guide/
+Content-Type: text/html
+Via: chrome-headless
+Title: How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step) - Hello Paralegal
+Meta description: A practical step-by-step guide to deploying your first AI agent for your solo law firm. Start with intake, configure your rules, test it, monitor it, and scale. No coding required.
+Canonical: https://blog.helloparalegal.com/2026/02/26/deploy-ai-agent-law-firm-guide/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step) | How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step)
+
+Skip to content
+
+Hello Paralegal
+
+Front Page
+Sample Page
+Sample Page
+How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step)
+
+Written by
+
+Ankita Srivastava
+
+in
+
+Uncategory
+How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step)
+
+Most attorneys who are skeptical about AI agents have tried one of two things: a chatbot that answered basic questions but couldn’t actually do anything, or a complex automation tool that required an engineering degree to set up. Neither of those is what we’re talking about here.
+
+An AI agent for a law firm is a system that monitors a trigger, makes decisions based on rules you’ve set, takes real actions (sends emails, creates calendar events, drafts documents, logs data), and completes tasks end-to-end without waiting for you to click anything. Once it’s deployed, it runs. You focus on client work while it handles the process work.
+
+This guide walks you through deploying your first agent, step by step. You don’t need to know how to code. You don’t need an IT team. You need a clear understanding of which workflow you’re starting with, what rules the agent should follow, and how you’ll verify it’s working correctly before you trust it with live clients.
+
+Start with intake. It’s the highest-ROI first deployment for most solo attorneys, and the lessons you learn configuring your intake agent will make every subsequent agent faster to set up.
+
+Step 1: Map the Workflow You’re Automating
+
+Before you touch any configuration, write down exactly how the workflow works today. Do this on paper or in a simple doc. Be specific.
+
+For client intake, your current workflow probably looks something like this:
+
+Potential client submits a contact form or calls the office
+You or your staff review the inquiry within some number of hours (or days)
+You decide whether it’s worth pursuing based on practice area fit and basic facts
+If it fits, you send an intake questionnaire or call to gather more information
+If it doesn’t fit, you send a decline or referral response
+If the client completes intake, you schedule a consultation
+If the client doesn’t respond to the questionnaire, you (maybe) follow up once
+
+That’s the baseline. Now add two columns: which steps require your judgment, and which steps follow a rule you could write down. Most of steps 3 through 7 follow rules once you document them. The agent will handle the rules. You’ll handle the judgment calls.
+
+Write down your specific qualification criteria for step 3. Something like: “Personal injury cases in Ohio with incidents in the last 2 years, minimum claimed damages above $10,000, no conflicts with existing clients.” The more specific your criteria, the more reliably the agent screens. Vague criteria produce inconsistent screening.
+
+Step 2: Choose Your Starting Agent Type
+
+You have several agent types available for a law firm. Here’s a quick overview to help you decide where to start:
+
+Agent Type	What It Automates	Best First Choice If…
+Intake Agent	Lead screening, questionnaires, consultation scheduling	You’re spending more than 10 hours/month on intake
+Phone Agent	Inbound calls, qualification, callback scheduling	You’re losing leads to voicemail regularly
+Document Agent	Retainer agreements, demand letters, routine filings	Document drafting is your biggest time sink
+Billing Agent	Invoice generation, payment reminders, trust tracking	You have slow collections or skip billing tasks
+Deadline Agent	SOL tracking, calendar population, deadline alerts	You’re managing 20+ active matters and worry about gaps
+Research Agent	Case law research, statute summaries, memo drafts	Research is eating 10+ hours per month
+
+For most solo attorneys, intake is the right starting point. The ROI is immediate and visible. New leads start getting faster responses within days. Your calendar starts populating with pre-qualified consultations. The feedback loop is short enough that you can tune the agent quickly in the first two weeks based on real results.
+
+If you’re genuinely terrified of missing a deadline right now, start with the deadline agent instead. That’s the highest-stakes workflow, and getting it automated early is defensible even if the ROI calculation is less clean.
+
+Step 3: Configure Your Rules
+
+This is the most important step and the one most people rush. Slow down here. The rules you configure are the agent’s operating logic. Poorly written rules produce agents that send the wrong response to the wrong person. Well-written rules produce agents that handle everything correctly without your involvement.
+
+For an intake agent, you need to configure four categories of rules:
+
+Qualification Rules
+
+What makes a lead worth pursuing? Be exhaustive. Think through edge cases.
+
+Practice areas you accept (be specific: “personal injury including auto accidents and slip-and-fall, but NOT medical malpractice”)
+Geographic jurisdiction requirements (state, county, federal court?)
+Statute of limitations window (incidents within the past X years)
+Minimum case value or claim size, if applicable
+Case types you won’t take regardless of other factors
+Conflict of interest triggers (opposing parties, co-defendants in past cases)
+Response Rules
+
+What happens after qualification? You need to define:
+
+What the initial acknowledgment message says (this goes out within minutes of the inquiry)
+Which intake questionnaire template gets sent for which case type
+How long to wait before a follow-up (48 hours is typical)
+How many follow-ups to send before marking the lead inactive (usually 2 to 3)
+What the decline message says and whether it includes a referral recommendation
+Scheduling Rules
+
+Once a lead completes intake, how does a consultation get scheduled?
+
+Your available consultation windows (days and times)
+Consultation length (30 minutes? 60 minutes?)
+Buffer time between consultations
+Whether consultations are phone, video, or in-person by default
+What the confirmation email says
+Whether a reminder goes out 24 hours before
+Escalation Rules
+
+This is the category most people underspecify. Define exactly what should trigger a notification to you immediately, rather than being handled automatically.
+
+Any lead that mentions urgency, court dates, or imminent deadlines
+Any lead that seems distressed or in crisis (configure keyword triggers)
+Potential high-value cases above a threshold you set
+Any inquiry that doesn’t fit cleanly into your qualification rules
+Any existing client contacting you through the intake channel (the agent should recognize them)
+
+Write all of this out before you touch the configuration interface. The act of writing it forces clarity. You’ll catch gaps in your own logic that you’d otherwise miss.
+
+Step 4: Write Your Templates
+
+Your agent sends messages on your behalf. Those messages need to sound like you, not like a customer service bot from 2018. Spend real time on your templates. They’re not a technical task. They’re a voice task.
+
+Here’s what to write for an intake agent deployment:
+
+Initial acknowledgment: Short, warm, human. Confirms you received their inquiry, sets expectations for next steps, and sends the intake questionnaire. Two to four sentences maximum. First person, second person. No legal jargon.
+Intake questionnaire: The actual questions you need answered to evaluate the case. Organized by section. Not overwhelming. 10 to 15 questions for a standard intake, not 40.
+Follow-up message (48 hours): Friendly check-in. Reminds them you sent a questionnaire. Gives them an easy way to respond or ask questions. Does not sound automated.
+Second follow-up (96 hours): Brief. Acknowledges they may have moved on. Leaves the door open. Closes the loop.
+Decline message: Professional, brief, no false hope. Include a referral if you have one. Don’t make it feel like a form letter even though it is one.
+Consultation confirmation: Day, time, format (phone/video/in-person), what to bring or prepare, your contact info if something comes up.
+
+Read each template out loud before you finalize it. If it sounds robotic when you say it, it’ll sound robotic to your clients. Fix it.
+
+Step 5: Connect Your Systems
+
+Your agent needs to connect to the systems you already use. The exact integrations depend on your stack, but for an intake agent you typically need:
+
+Intake trigger: Your contact form, your email inbox (for inquiries that come in directly), or a dedicated phone line if you’re integrating with a phone agent
+Case management system: Clio, MyCase, PracticePanther, Filevine, or whatever you use. The agent needs to be able to create matters and log activity
+Calendar: Google Calendar or Outlook, depending on your setup. The agent books consultations here
+Email or messaging: The channel through which the agent sends questionnaires and follow-ups
+E-signature tool: If your intake includes any documents that need signing, you’ll want DocuSign, Adobe Sign, or a similar integration
+
+If you’re using Hello Paralegal, the system comes with pre-built connectors for the major legal practice management platforms. You authorize the connection, test it with a dummy case, and you’re done. You don’t have to build integrations from scratch.
+
+If you’re building your own stack, this step takes longer. Verify each connection by running a test before you go live. A broken integration is worse than no integration because it creates the appearance of action without the actual follow-through.
+
+Step 6: Test With Fake Leads Before Going Live
+
+This step is non-negotiable. Do not put a live agent in front of real clients until you’ve tested it with fake leads and verified every path through the workflow.
+
+Create at least four test scenarios:
+
+A qualifying lead that completes intake: Submit a contact form with qualifying facts, fill out the questionnaire, and verify that the agent screens correctly, sends the right questionnaire, follows the scheduling flow, and logs everything properly in your case management system.
+A qualifying lead that doesn’t respond: Submit a qualifying inquiry and don’t fill out the questionnaire. Verify that the follow-up messages go out at the right intervals with the right content.
+A non-qualifying lead: Submit an inquiry outside your practice area or jurisdiction. Verify that the decline message goes out correctly and doesn’t include any language that implies you might take the case.
+An escalation trigger: Submit an inquiry that includes urgent language (a deadline, a distressed tone, or a high-value indicator). Verify that the agent escalates to you rather than handling it automatically.
+
+Check every output against your rules. If the agent sends a qualifying lead the decline message, figure out why. If the follow-up doesn’t go out on schedule, trace the issue. Fix everything before you go live. This testing phase typically takes a few hours. It saves a lot of client-facing embarrassment.
+
+Step 7: Launch and Monitor the First 30 Days Closely
+
+When you go live, don’t walk away. The first 30 days are a calibration period. Real leads behave differently than test leads. You’ll see edge cases you didn’t anticipate. You’ll find gaps in your qualification rules. You’ll notice that your follow-up timing works well or doesn’t, depending on your client base.
+
+During the first 30 days, do these things:
+
+Review the agent activity log every day for the first two weeks. Look at what it did, what it sent, and how leads responded. Spot anything that doesn’t look right immediately.
+Check that escalation triggers are working. If you’re not getting any escalation notifications during a period when you’re getting leads, either your escalation rules are too narrow or something is broken.
+Talk to your first few clients who went through the automated intake. Ask them what the experience felt like. Did the messages feel personal? Were the questions relevant? Was the scheduling process easy?
+Track your conversion rate from inquiry to consultation. Compare to your baseline before the agent. If conversion improves (it usually does), you know it’s working. If it drops, something in the flow is creating friction.
+
+Expect to make three to five adjustments in the first 30 days. That’s normal. It’s not a sign that something is wrong. It’s a sign that you’re paying attention.
+
+Step 8: Add Your Second Agent
+
+Once your intake agent is running smoothly and you trust it, add your second agent. Most attorneys add either a document agent or a deadline agent next, depending on where they feel the most pressure.
+
+The process is the same: map the workflow, configure the rules, write the templates, connect the systems, test with fake cases, launch, and monitor. Each subsequent agent takes less time to configure because you’ve already done the hard thinking about your practice workflows.
+
+By the time you have three agents running, you’ll have a clear view of which parts of your practice are fully automated and which parts still need your attention. That visibility itself is valuable. Most solo attorneys have never had a clear picture of where their time actually goes. Agents make that visible by handling the repeatable work while escalating everything else.
+
+Step 9: Scale Workflows, Not Just Tools
+
+The goal isn’t just to have six agents running. The goal is to scale your practice without scaling your headcount. These are different objectives, and the distinction matters.
+
+Agents let you take on more clients because the administrative load per client drops dramatically. A solo attorney running without agents might handle 25 to 35 active matters before the wheels come off. A solo attorney with a full agent stack can comfortably manage 60 to 80 active matters, because the intake, document, deadline, billing, and communication tasks are handled by agents rather than by the attorney personally.
+
+That’s not just about saving time. It’s about changing the capacity ceiling of your practice. And it’s the reason attorneys who deploy agents early tend to grow faster than those who stick with traditional staffing models.
+
+Review your agent stack every quarter. Ask whether the rules are still accurate (practice areas change, fee structures change, jurisdictions expand). Ask whether new workflow categories have emerged that would benefit from an agent. Ask whether any agents are generating a lot of escalations, because that means either the rules need refinement or the task is more complex than agents can reliably handle.
+
+Common Deployment Mistakes and How to Avoid Them
+
+A few patterns show up consistently when agent deployments don’t go well:
+
+Configuring vague rules and expecting specific results. “Screen for good personal injury cases” is not a rule. “Personal injury cases in Ohio, auto accidents or slip-and-fall, incident date within 2 years, claimed damages above $15,000, no medical malpractice” is a rule. Be specific.
+
+Skipping the testing phase. This one always comes back to bite. A misconfigured template that sends a decline message to a strong lead is not just an administrative error. It’s a lost client. Test every path before going live.
+
+Underspecifying escalation triggers. If you configure an agent that handles everything and escalates nothing, you’ll eventually have the agent handle something it should have flagged to you. The cost of under-configuring escalation triggers is higher than the cost of over-configuring them. When in doubt, escalate.
+
+Writing templates that sound robotic. Client communications are a trust signal. If your intake messages feel like a corporate auto-reply, clients notice. Read every template out loud. Fix anything that doesn’t sound like you.
+
+Not reviewing agent activity in the first 30 days. An agent running unreviewed for a month can quietly be handling edge cases incorrectly the whole time. Check the logs. Tune the rules. It’s a calibration period, not a hands-off deployment.
+
+What Hello Paralegal Does Differently
+
+Hello Paralegal isn’t a generic AI platform you configure yourself from scratch. It’s a purpose-built agent system for solo law firms. That means the configuration templates already include law firm logic. The integrations are pre-built for the case management systems solo attorneys actually use. The escalation triggers are pre-populated with law firm edge cases you’d otherwise have to think through yourself.
+
+You still configure your specific rules. Your practice areas, your fee structure, your voice in client communications. But you’re not starting from a blank canvas. You’re starting from a foundation built specifically for the kind of practice you’re running.
+
+Most attorneys get their first agent live within a week of starting the setup process. The testing and calibration phase takes another one to two weeks. By the end of week three, the agent is running live and you’re already seeing the difference in how many hours you’re not spending on intake admin.
+
+If you’re ready to start, your first step is a 30-minute intake review call where we map your existing workflow and identify which agent type will have the fastest impact for your specific practice. From there, setup is straightforward.
+
+You’ve already done the hardest part of this guide by reading it. You know how agents work, what they need to run correctly, and what mistakes to avoid. The next step is just doing it.
+
+←AI Sanctions in Court: What Every Solo Lawyer Using AI Agents Needs to Know
+6 AI Agents That Do What a $65,000 Paralegal Does (For Under $1,500/Month)→
+Comments
+Leave a Reply
+
+Your email address will not be published. Required fields are marked *
+
+Comment *
+
+Name *
+
+Email *
+
+Website
+
+Save my name, email, and website in this browser for the next time I comment.
+
+MORE POSTS
+What Is Agentic AI for Lawyers? The Plain-English Guide (2026)
+April 6, 2026
+How to Hire a Virtual Paralegal in 2026: The Solo Lawyer’s Complete Guide
+April 6, 2026
+How to Automate Client Intake for a Solo Law Firm Using AI in 2026
+April 2, 2026
+Can AI Answer Phone Calls for Your Law Firm? Yes. Here’s How.
+March 31, 2026
+Hello Paralegal
+Blog
+About
+FAQs
+Authors
+Events
+Shop
+Patterns
+Themes
+
+Twenty Twenty-Five
+
+Designed with WordPress
+
+Never Miss Out on Important Updates!
+
+Subscribe to notifications and get instant alerts for everything that matters to you. Stay ahead with real-time updates!
+
+Subscribe
+Remind Me Later
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="https://blog.helloparalegal.com/wp-comments-post.php" id="commentform"
+  - textarea type= name="comment" id="comment" label="Comment *" placeholder="" aria="" required=true
+  - input type=text name="author" id="author" label="Name *" placeholder="" aria="" required=true
+  - input type=email name="email" id="email" label="Email *" placeholder="" aria="" required=true
+  - input type=url name="url" id="url" label="Website" placeholder="" aria="" required=false
+  - input type=checkbox name="wp-comment-cookies-consent" id="wp-comment-cookies-consent" label="Save my name, email, and website in this browser for the next time I comment." placeholder="" aria="" required=false
+  - input type=submit name="submit" id="submit" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#article","isPartOf":{"@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/"},"author":{"name":"Ankita Srivastava","@id":"https:\/\/blog.helloparalegal.com\/#\/schema\/person\/4f3130fff113e2cf63b6fdbbe2df5a74"},"headline":"How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step)","datePublished":"2026-02-26T11:05:15+00:00","mainEntityOfPage":{"@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/"},"wordCount":2756,"commentCount":0,"image":{"@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#primaryimage"},"thumbnailUrl":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2026\/04\/featured-219-1.webp","articleSection":["Uncategory"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#respond"]}]},{"@type":"WebPage","@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/","url":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/","name":"How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step) - Hello Paralegal","isPartOf":{"@id":"https:\/\/blog.helloparalegal.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#primaryimage"},"image":{"@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#primaryimage"},"thumbnailUrl":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2026\/04\/featured-219-1.webp","datePublished":"2026-02-26T11:05:15+00:00","author":{"@id":"https:\/\/blog.helloparalegal.com\/#\/schema\/person\/4f3130fff113e2cf63b6fdbbe2df5a74"},"breadcrumb":{"@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#primaryimage","url":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2026\/04\/featured-219-1.webp","contentUrl":"https:\/\/blog.helloparalegal.com\/wp-content\/uploads\/2026\/04\/featured-219-1.webp","width":1200,"height":630},{"@type":"BreadcrumbList","@id":"https:\/\/blog.helloparalegal.com\/2026\/02\/26\/deploy-ai-agent-law-firm-guide\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/blog.helloparalegal.com\/"},{"@type":"ListItem","position":2,"name":"How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step)"}]},{"@type":"WebSite","@id":"https:\/\/blog.helloparalegal.com\/#website","url":"https:\/\/blog.helloparalegal.com\/","name":"Hello Paralegal","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/blog.helloparalegal.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Person","@id":"https:\/\/blog.helloparalegal.com\/#\/schema\/person\/4f3130fff113e2cf63b6fdbbe2df5a74","name":"Ankita Srivastava","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/secure.gravatar.com\/avatar\/79e10f99b06d68b5f0fef70f69c7a01a738089c5a5e04d350e14bdbf2b2e71eb?s=96&d=mm&r=g","url":"https:\/\/secure.gravatar.com\/avatar\/79e10f99b06d68b5f0fef70f69c7a01a738089c5a5e04d350e14bdbf2b2e71eb?s=96&d=mm&r=g","contentUrl":"https:\/\/secure.gravatar.com\/avatar\/79e10f99b06d68b5f0fef70f69c7a01a738089c5a5e04d350e14bdbf2b2e71eb?s=96&d=mm&r=g","caption":"Ankita Srivastava"},"url":"https:\/\/blog.helloparalegal.com\/author\/ann\/"}]}
+
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Deploy Your First AI Agent for Your Law Firm (Step-by-Step)",
+  "description": "A practical step-by-step guide to deploying your first AI agent for your solo law firm. Start with intake, configure your rules, test it, monitor it, and scale.",
+  "author": {
+    "@type": "Organization",
+    "name": "Hello Paralegal"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hello Paralegal",
+    "url": "https://helloparalegal.com"
+  },
+  "datePublished": "2026-04-02",
+  "url": "https://helloparalegal.com/deploy-ai-agent-law-firm-guide"
+}
+
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the best first AI agent to deploy for a solo law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most solo attorneys, an intake agent is the best starting point. It delivers immediate, measurable ROI through faster lead response times and better intake-to-consultation conversion rates. The feedback loop is short, making it easy to tune quickly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to deploy an AI agent for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With Hello Paralegal, most attorneys get their first agent live within one week. The testing and calibration phase takes another one to two weeks. The full process from start to live operation typically runs two to three weeks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to know how to code to deploy an AI agent for my law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Hello Paralegal is designed for attorneys, not engineers. You configure workflow rules, write communication templates, and connect your existing systems through a guided setup process. No coding required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I test an AI agent before putting it in front of real clients?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Create at least four test scenarios: a qualifying lead that completes intake, a qualifying lead that doesn't respond, a non-qualifying lead, and an escalation trigger. Run each scenario manually and verify that the agent's outputs match your configured rules before going live."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What integrations does an AI agent need for a law firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An intake agent typically needs to connect to your contact form or email inbox, your case management system (Clio, MyCase, PracticePanther, etc.), your calendar (Google or Outlook), and your email channel for outbound communication. E-signature tools like DocuSign are useful if intake includes documents."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many active matters can a solo attorney handle with AI agents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Solo attorneys with a full agent stack (intake, documents, deadlines, billing, communication) can typically manage 60 to 80 active matters. Without agents, the practical ceiling is usually 25 to 35 before administrative work starts impacting case quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my AI agent is making mistakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Review your agent activity logs to identify which rule or template produced the wrong output. Agents make mistakes when rules are vague, escalation triggers are missing, or templates are ambiguous. Fix the specific rule and re-test before relying on that path again."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I review my AI agent configuration?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Review your agent stack quarterly. Check whether your practice areas or fee structures have changed, whether escalation triggers are firing at the right rate, and whether any new workflow categories have emerged that agents could handle. Daily reviews for the first 30 days after each new deployment."
+      }
+    }
+  ]
+}
+
+

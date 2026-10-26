@@ -1,0 +1,206 @@
+URL: https://heliontechnologies.com/how-does-dealership-it-fit-in-with-todays-top-auto-trends/
+Fetched: 2026-10-26T03:34:30Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/how-does-dealership-it-fit-in-with-todays-top-auto-trends/
+Content-Type: text/html
+Via: chrome-headless
+Title: Dealership IT and Today's Top Auto Industry Trends | Helion
+Meta description: Dealership IT decides how well you handle top auto trends: digital-native buyers, autonomous and electric vehicles, ride-sharing and growing cyber threats.
+Canonical: https://heliontechnologies.com/how-does-dealership-it-fit-in-with-todays-top-auto-trends/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: How does dealership IT fit in with today’s top auto trends?
+
+Skip to content
+Helion Technologies
+Services ▾
+Managed IT
+Managed Microsoft 365Backup and Disaster RecoveryAcquisition IT IntegrationIT Help DeskNetwork and Wi-Fi ManagementvCIO and IT Strategy
+Cybersecurity
+Managed Detection and ResponseSecurity Awareness TrainingPenetration TestingIncident Response
+Compliance
+FTC Safeguards ChecklistOEM Cybersecurity RequirementsISO 27001 vs TISAXPrivacy Laws by StateIncident Response TemplateRisk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDKTekion vs Reynolds
+Managed AI
+AI Readiness AssessmentSecure AI Chat
+DMS Transition
+DMS Comparison
+Industries ▾
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT SupportProcede IT SupportKarmak vs Procede
+Dealer GroupsLocations
+About ▾
+About HelionLeadershipSpeakingClient TestimonialsContact
+Working at Helion
+Resources ▾
+BlogCase Studies & DownloadsFAQsPressState of Dealership Cybersecurity
+Contact Us
+Client Portal
+Menu
+Menu
+Services
+Managed IT
+Managed Microsoft 365
+Backup and Disaster Recovery
+Acquisition IT Integration
+IT Help Desk
+Network and Wi-Fi Management
+vCIO and IT Strategy
+Cybersecurity
+Managed Detection and Response
+Security Awareness Training
+Penetration Testing
+Incident Response
+Compliance
+FTC Safeguards Checklist
+OEM Cybersecurity Requirements
+ISO 27001 vs TISAX
+Privacy Laws by State
+Incident Response Template
+Risk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDK
+Tekion vs Reynolds
+Managed AI
+AI Readiness Assessment
+Secure AI Chat
+DMS Transition
+DMS Comparison
+Industries
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT Support
+Procede IT Support
+Karmak vs Procede
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Contact
+Working at Helion
+Resources
+Blog
+Case Studies & Downloads
+FAQs
+Press
+State of Dealership Cybersecurity
+Contact Us
+Client Portal
+Resources / Blog
+How does dealership IT fit in with today’s top auto trends?
+By Erik NachbahrSeptember 7, 2018 · 3 min read
+
+There's no doubt that the automotive retail sector is changing. Your role as a dealership operator will have to shift with the times as consumer preferences enter a new era. The coming decade's trends may be driven by factors that are already emerging, such as increasing automation, a preference for alternative fuel types and the rise of ride-sharing services such as Uber and Lyft. Though there's no one-step way to get your dealership up to date, there are a few notable practices that help, and IT improvements may be the key.
+
+The following are a few of the most prominent industry-wide changes being felt across the automotive world, along with some ways you can prepare your dealership to thrive in the unfamiliar industry of 2019 and beyond.
+
+New customers, new preferences
+
+The people aging into buying their first cars today are digital-native millennials, who have always had access to massive quantities of data. The way they shop is very different from the practices and preferences of previous generations, and that extends to auto shopping. According to Deloitte, today's buyers are balancing general happiness with the dealership experience with an increasing focus on online shopping and an interest in self-directed research.
+
+The rise of online channels alongside the continuing relevance of in-person dealerships should serve as an incentive to improve the connection between customer data gathered online and the in-person sales experience. Deloitte pointed out that when individuals shop online, dealing with original equipment manufacturers and dealerships, they create a fragmented trail of data. If your IT systems aren't up to the task of aggregating that data, people may feel a disconnect between the researching and buying parts of their journey. Your focus should be on reducing that gap.
+
+What does tomorrow's auto industry look like?
+Changing vehicle types
+
+PricewaterhouseCoopers offered several suggestions about the future of auto usage around the world. Trends such as autonomous and self-driving cars, as well as shared usage and ride-hailing, will change the ways cars are operated and sold. Intense usage of fewer cars could lead to frequent replacement, along with different maintenance and service needs.
+
+Will your departments, from sales to the repair shop, be able to cope with selling and maintaining vehicles with new systems such as electric drive trains and autonomous driving features? This may come down to IT infrastructure as well, with the latest data from the OEM piped directly to your team. Weak internet or Wi-Fi could leave the sales or maintenance team unprepared to deal with these new, high-mileage workhorse cars.
+
+The need for security
+
+While focusing on the changing automotive industry, your company should watch out for a potentially disruptive trend across all sectors and regions – the continued evolution of cybercriminals and data thieves. As every part of the auto value chain becomes increasingly digital, it's worth asking whether your servers, databases and other systems can withstand an attack. Considering the deep integration of cars and advanced computers, the importance of IT security only grows with time.
+
+Determining whether your technological systems are up to industry standards is an important process, and it's never to early to ask. Request a dealership IT assessment to see where your needs lie.
+
+About the author
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles  
+
+In this article
+
+New customers, new preferencesChanging vehicle typesThe need for security
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★4.9 · 244 Google Reviews
+
+Recent Articles
+
+AI Phishing Lures Aimed at Dealership Ad AccountsOctober 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the PlanOctober 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership CallerOctober 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a DealershipOctober 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★ 4.9 · 244 Google Reviews
+
+in
+Services
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+Industries
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+Resources
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved. support@heliontechnologies.com Support RequestPrivacy Policy Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"How does dealership IT fit in with today&#8217;s top auto trends?","datePublished":"2018-09-07T12:06:10+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/"},"wordCount":553,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2018\/09\/Whats-in-store-for-the-auto-industry_2767_40178060_0_14109831_500.webp","inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/","url":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/","name":"Dealership IT and Today's Top Auto Industry Trends | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2018\/09\/Whats-in-store-for-the-auto-industry_2767_40178060_0_14109831_500.webp","datePublished":"2018-09-07T12:06:10+00:00","description":"Dealership IT decides how well you handle top auto trends: digital-native buyers, autonomous and electric vehicles, ride-sharing and growing cyber threats.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2018\/09\/Whats-in-store-for-the-auto-industry_2767_40178060_0_14109831_500.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2018\/09\/Whats-in-store-for-the-auto-industry_2767_40178060_0_14109831_500.webp","width":500,"height":334,"caption":"What's in store for the auto industry?"},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/how-does-dealership-it-fit-in-with-todays-top-auto-trends\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"How does dealership IT fit in with today&#8217;s top auto trends?"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

@@ -1,0 +1,105 @@
+URL: https://www.morningside.ai/case-study/building-new-zealands-first-ai-enabled-industrial-distributor
+Fetched: 2026-10-26T03:52:40Z
+HTTP status: 200
+Final URL: https://www.morningside.ai/case-study/building-new-zealands-first-ai-enabled-industrial-distributor
+Content-Type: text/html
+Via: chrome-headless
+Title: Building New Zealand's First AI-Enabled Industrial Distributor | Morningside AI
+Meta description: Asmuss Group is one of New Zealand's leading industrial distributors, supplying steel and flow control products across the country through a network of 15+ warehouses.
+Canonical: https://www.morningside.ai/case-study/building-new-zealands-first-ai-enabled-industrial-distributor
+Robots: 
+H1: Asmuss Group: Building New Zealand's First AI-Enabled Industrial Distributor
+
+Skip to main content
+Services
+Team
+GET IN TOUCH
+Asmuss Group: Building New Zealand's First AI-Enabled Industrial Distributor
+
+Asmuss Group is one of New Zealand's leading industrial distributors, supplying steel and flow control products across the country through a network of 15+ warehouses. Leadership saw a strategic opportunity: rather than relying solely on cost reduction, they wanted to use AI to unlock growth their competitors couldn't match.
+
+Industry
+
+Manufacturing / Steel & Flow Control
+
+Location
+
+New Zealand
+
+Size
+
+40+ Sales Reps, 15 Warehouses, nationwide distribution network
+
+Challenge
+
+Modernizing operations to drive growth and efficiency
+
+The Challenge
+
+The numbers told a stark story. Sales reps were losing hours weekly to CRM updates and spending 20% of their time on meeting prep instead of selling. The customer service team manually handled tens of thousands of emails per month. Technical experts fielded hundreds routine product inquiries monthly—questions that pulled them away from complex, high-value work. And across 15 warehouses, manual inventory tracking meant ERP data was inconsistent enough to occasionally delay sales.
+
+What made this harder: despite strong interest in AI across the company, most employees rated their own AI knowledge below the organizational average. The appetite for change was there—but the know-how wasn't.
+
+‍
+
+Our Approach
+
+We spent 9 weeks inside the business. That meant a company-wide AI Readiness Assessment, strategic alignment sessions with the executive team, and 20+ in-depth interviews across Sales, Customer Support, Admin, and Supply Chain.
+
+Rather than prescribing solutions from the outside, we mapped actual workflows, pressure-tested automation opportunities with the people doing the work, and built detailed ROI models for every initiative—time savings, cost reduction, revenue uplift. The result was an "Asmuss 2030 Vision" roadmap with a phased implementation plan that included a mix of quick wins and larger AI transformations.
+
+‍
+
+Outcomes & Impact
+
+From 19 identified opportunities, we prioritized 6 that could genuinely move the business. These aren't back-office experiments—they target the revenue engine: how reps prepare for and follow up on sales calls, how customer inquiries get handled at scale, how technical knowledge gets distributed without bottlenecking experts, and how inventory stays accurate in real-time.
+
+What the roadmap makes possible: 1,600+ hours per month redirected from admin to customer-facing work. Hundreds of thousands in projected annual cost savings. Millions in revenue growth opportunity from increased sales capacity. Hundreds of hours per month freed up for additional customer meetings.
+
+Asmuss now has a concrete plan to evolve from reactive, manual operations to proactive, AI-augmented business development—with the numbers to back every recommendation.
+
+‍
+
+Why This Matters
+
+Asmuss came to us with a problem we see constantly: they knew AI could help, they had plenty of ideas, but they had no framework for deciding what was worth doing. With limited resources, you can't afford to bet on the wrong initiatives.
+
+Our job was to cut through the noise. Nine weeks of systematic assessment—surveys, interviews, workflow mapping, financial modeling—gave them something actionable: 6 validated solutions, prioritized by ROI, with implementation costs and timelines leadership could take to the board.
+
+B2B companies that outperform their competitors aren't the ones who cut hardest. They're the ones who find ways to do more with the same resources. That's the playbook we built for Asmuss-a clear, ROI-positive path to outperform competitors while they're still figuring out where to start.
+
+AI is here. Most will react. The few with a plan will lead.
+We build for those few.
+GET IN TOUCH
+© 2026 MORNINGSIDE AI
+|
+TERMS & CONDITIONS
+|
+PRIVACY POLICY
+|
+LINKEDIN
+|
+CONTACT
+
+--- json-ld ---
+
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Assmuss",
+  "description": "Asmuss Group is one of New Zealand&#39;s leading industrial distributors, supplying steel and flow control products across the country through a network of 15+ warehouses.",
+  "url": "https://www.morningside.ai/case-study/building-new-zealands-first-ai-enabled-industrial-distributor",
+  "image": "https://cdn.prod.website-files.com/6952bda3347da6c20416f23c/6952bdeeb07a70411de11ee3_asmuss-cs-img.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Morningside AI",
+    "@id": "https://www.morningside.ai/#organization"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Morningside AI",
+    "@id": "https://www.morningside.ai/#organization"
+  }
+}
+
+

@@ -1,0 +1,89 @@
+URL: https://frontierbusinessdesign.com/terms-of-service/
+Fetched: 2026-10-26T03:34:50Z
+HTTP status: 200
+Final URL: https://frontierbusinessdesign.com/terms-of-service/
+Content-Type: text/html
+Via: chrome-headless
+Title: Terms of Service - Fractional COO for $1M–$10M Service Businesses
+Meta description: The terms that govern your use of the Frontier Business Design website.
+Canonical: https://frontierbusinessdesign.com/terms-of-service/
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Terms of Service
+
+Skip to content
+Home
+About Us
+Work With Us
+Contact Us
+Contact Us
+Terms of Service
+
+Effective date: June 14, 2026
+
+Welcome to frontierbusinessdesign.com (the “Site”), operated by Frontier Business Design (“Frontier,” “we,” “us,” or “our”). By using the Site, you agree to these terms. If you do not agree, please do not use the Site.
+
+Use of the Site
+
+You may use the Site for lawful purposes only. You agree not to misuse it, interfere with how it works, or try to access areas you are not authorized to use.
+
+Our content
+
+The content on the Site, including text, graphics, logos, and materials, belongs to Frontier or its licensors and is protected by law. You may view and share it for your own non-commercial use. You may not copy, resell, or republish it without our written permission.
+
+Informational purpose, not professional advice
+
+The content on the Site is general information about our services. It does not create a consulting, advisory, or other professional relationship, and it is not a substitute for advice built around your specific business. A working relationship begins only when we both sign a written agreement.
+
+No guaranteed results
+
+We share examples of past work to show what is possible. Every business is different. We do not guarantee any specific result, revenue, or outcome from using the Site or engaging our services.
+
+Scheduling and forms
+
+When you book a call or submit a form, you agree to give accurate information. Bookings are subject to availability and confirmation.
+
+Third-party tools and links
+
+The Site uses and links to third-party tools and websites, such as our scheduling provider and assessment tool. We are not responsible for their content, availability, or practices. Your use of them is governed by their own terms.
+
+Limitation of liability
+
+To the fullest extent allowed by law, Frontier is not liable for any indirect, incidental, or consequential damages that arise from your use of the Site. The Site is provided “as is” without warranties of any kind.
+
+Changes
+
+We may update the Site and these terms at any time. The effective date above shows when these terms were last changed. Continued use of the Site means you accept the current terms.
+
+Governing law
+
+These terms are governed by the laws of the State of Texas, without regard to its conflict-of-law rules. Any dispute will be handled in the courts located in Lubbock County, Texas.
+
+Contact
+
+Questions about these terms? Email johnc@frontierbusinessdesign.com
+
+Designing businesses worth leading.
+
+Frontier Business Design
+Lubbock, TX · Serving owners nationwide
+(806) 790-7951
+johnc@frontierbusinessdesign.com
+
+Facebook
+ 
+X-twitter
+ 
+Linkedin
+Quick Links
+Home
+About Us
+Work With Us
+Contact
+Privacy Policy
+Terms of Service
+
+© 2026 Frontier Business Design™. All Rights Reserved.
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://frontierbusinessdesign.com/#place","address":{"@type":"PostalAddress"}},{"@type":["LocalBusiness","Organization"],"@id":"https://frontierbusinessdesign.com/#organization","name":"Fractional COO for $1M\u2013$10M Service Businesses","url":"https://frontierbusinessdesign.com","email":"johnc@frontierbusinessdesign.com","address":{"@type":"PostalAddress"},"logo":{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/#logo","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","contentUrl":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","caption":"Fractional COO for $1M\u2013$10M Service Businesses","inLanguage":"en-US","width":"1200","height":"1200"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"description":"We are an Operations Partner for founder-led service-based companies doing $500K to $10M. We bring the clarity, alignment and execution needed to build a business that isn't completely dependent on you.","location":{"@id":"https://frontierbusinessdesign.com/#place"},"image":{"@id":"https://frontierbusinessdesign.com/#logo"},"telephone":"18067907951"},{"@type":"WebSite","@id":"https://frontierbusinessdesign.com/#website","url":"https://frontierbusinessdesign.com","name":"Fractional COO for $1M\u2013$10M Service Businesses","alternateName":"Frontier Business Design","publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1","url":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1","width":"1200","height":"1200","caption":"Frontier Business Design logo","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frontierbusinessdesign.com/terms-of-service/#webpage","url":"https://frontierbusinessdesign.com/terms-of-service/","name":"Terms of Service - Fractional COO for $1M\u2013$10M Service Businesses","datePublished":"2026-06-15T01:50:58+00:00","dateModified":"2026-10-14T19:07:48+00:00","isPartOf":{"@id":"https://frontierbusinessdesign.com/#website"},"primaryImageOfPage":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign","url":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","caption":"frontierbusinessdesign","inLanguage":"en-US"},"sameAs":["http://frontierbusinessdesign-iqyks.wordpress.com"],"worksFor":{"@id":"https://frontierbusinessdesign.com/#organization"}},{"@type":"Article","headline":"Terms of Service - Fractional COO for $1M\u2013$10M Service Businesses","datePublished":"2026-06-15T01:50:58+00:00","dateModified":"2026-10-14T19:07:48+00:00","author":{"@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign"},"publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"description":"The terms that govern your use of the Frontier Business Design website.","name":"Terms of Service - Fractional COO for $1M\u2013$10M Service Businesses","@id":"https://frontierbusinessdesign.com/terms-of-service/#richSnippet","isPartOf":{"@id":"https://frontierbusinessdesign.com/terms-of-service/#webpage"},"image":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://frontierbusinessdesign.com/terms-of-service/#webpage"}}]}
+

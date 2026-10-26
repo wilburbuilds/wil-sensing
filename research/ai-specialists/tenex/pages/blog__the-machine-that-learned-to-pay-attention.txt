@@ -1,0 +1,343 @@
+URL: https://www.tenex.co/blog/the-machine-that-learned-to-pay-attention
+Fetched: 2026-10-26T03:34:29Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog/the-machine-that-learned-to-pay-attention
+Content-Type: text/html
+Via: chrome-headless
+Title: The Machine That Learned to Pay Attention | Tenex
+Meta description: Part B: follow one ambiguous word through a transformer, from the tokenizer to attention to the next word, plus the models reshaping the field.
+Canonical: https://www.tenex.co/blog/the-machine-that-learned-to-pay-attention
+Robots: 
+H1: The Machine That Learned to Pay Attention
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to Blog
+
+AI FUNDAMENTALS
+
+The Machine That Learned to Pay Attention
+
+Part B of the series: follow one ambiguous word through a transformer, station by station, from tokenizer to attention to the dice roll that picks the next word — plus the remodels and challengers reshaping modern models.
+
+RAGHAV DIXIT
+·
+JULY 16, 2026
+·
+17 MIN READ
+
+THE TLDR
+
+A transformer works by letting every word ask every other word how relevant it is, all at once, and bending its own meaning toward the answers. Each token produces a query, a key and a value; the dot product between a query and a key scores relevance; softmax turns those scores into shares; and each token adds a blend of everyone's values to itself. Stack that with an MLP thirty to a hundred times, add a rotation for position and a bypass lane so the signal survives the depth, and you have GPT.
+
+PART B OF TWO
+
+Start with Part A: Vectors are all you need · Originally published on X
+
+“I sat on the river bank.” “I withdrew cash from the bank.” You read both without blinking. The same word walked into two different buildings and your brain sorted it out so fast you never felt the fork in the road.
+
+A machine feels it. Part A of this series ended on exactly this crack: every word had one embedding (Part A’s arrow in meaning space), decided before the model ever saw your sentence.
+
+bank
+one embedding
+riverside
+vault
+fixed before the sentence was read
+neither
+A fixed embedding cannot serve both banks.
+
+For decades the field tried to patch this by reading sentences the way we do: one word at a time, left to right, carrying a running memory as you go. Those were recurrent networks, and they worked until the sentences got long. By word forty, the memory of word three had been squeezed through so many updates that almost nothing survived. Long-range meaning kept falling out the back of the truck.
+
+Then, in 2017, a team at Google published a paper with an unusually cocky title: “Attention Is All You Need.” Their idea: stop reading in order. Let every word look at every other word simultaneously and decide for itself what matters. That architecture is the transformer, and it is the T in GPT.
+
+Here is how we are going to learn it: we stay with “bank”. Poor thing has two jobs, riversides and vaults, and no way to know which shift it is working. We follow bank through the entire machine, station by station. By the end, “transformer” will not be a word you nod along to. It will be a place you have walked through, next to a small ambiguous word finally figuring out who it is.
+
+Station one: bank gets an ID badge
+
+First, let’s zoom in on something I glossed over in Part A. Models don’t actually read words; they read tokens: chunks of text from a fixed menu of roughly 30,000 to 260,000 pieces, depending on the model. The cutting is done at the door by the tokenizer, a small separate program that is essentially the badge clerk of the whole operation.
+
+Our protagonist is lucky, the clerk knows “bank” well enough to hand it a single badge, with its own ID number and its own embedding. A rarer word gets shattered at the door: “unbelievable!” might enter as four pieces, un, believ, able, !.
+
+bank keeps one badge; a rarer word shatters into ID'd pieces
+
+But…why chunks?
+
+Letters would make every sentence enormously long, and length costs; whole words would need a menu of millions, and every typo would fall off it. Chunks split the difference: a small menu that can still spell anything.
+
+Hold the menu idea, because it explains real failures. Ask a 2023-era chatbot how many r’s are in “strawberry” and it famously struggled: it never saw letters, only chunk IDs, the same way you remember a song perfectly but don’t know how its title is spelled. Newer models have patched that party trick, but the blindness underneath is still real.
+
+The menu is also a physical thing, not a metaphor.
+
+It gets built once, before training ever starts, by counting which chunks are common in a big pile of text. So a chunk can earn a badge while barely appearing in training: a word the model owns but never learned to use. In 2023 researchers found exactly that inside GPT’s menu: a token called SolidGoldMagikarp, a Reddit username with a badge and almost no practice. Ask the model to say it back and it would dodge, ramble, or insult you. A badge with no employee behind it.
+
+Every strange thing in LLMs has a mechanical reason like that; we are just usually not shown the machinery.
+
+Station two: bank interviews the room
+
+Now the main event. Your sentence is a row of token embedding’s, and bank’s embedding arrives ambiguous. Here is how it figures itself out.
+
+Each token produces three small embedding’s, made with three learned weight matrices, the same Wx move from Part A done three times (each one a matrix multiplication, the “matmul” that GPUs spend their lives doing). Each has a job:
+
+a query, its question: what am I looking for? Bank’s query says: I am ambiguous, who here can pin me down?
+a key, its label: what do I contain? River’s key says: water, terrain, edges of things.
+a value, its handout: if you decide I matter, here is what I will hand you.
+
+You already run this computation. A friend texts “meet me at the bank in 20”. You scroll up. Three messages back she mentioned her paddle board. Case closed, and you pack sunscreen instead of a checkbook. Your question, which bank, matched against the content of an earlier message, paddle board, water. That is a query meeting a key, and getting it wrong sends you to the wrong building.
+
+The machine does the same with arithmetic: to decide how much bank should care about river, take the dot product (Part A’s similarity score) of bank’s query with river’s key. You know what that computes: alignment. Question and content pointing the same way means a big score.
+
+I lean on this mechanism at work in a very unglamorous way. One of my tools reads a week of scattered team standup updates and answers a single question for the leads: what got mentioned once and then dropped? That is attention’s job description at team scale, scoring every update against one question and letting the loudest matches carry the answer. Nothing about it is magic. It is relevance scoring, run patiently over more text than anyone wants to reread.
+
+bank asks the room who can pin it down; the grid forms, and the formula assembles from pieces you know
+
+Every token runs this interview with every other token, all at once.
+
+Softmax then assigns probabilities to the scores, shares that add up to 1. Bigger score, bigger share. Each token then adds to itself a blend of everyone’s values, mixed in those proportions. Bank walked in ambiguous, heard “river” answer loudest, and walked out bent hard toward riversides.
+
+the machine has one habit with big consequences…each token’s label and handout get filed in the KV cache, a memory room they occupy for the whole conversation so no future word redoes the work. The room only grows; you will watch it fill at station five.
+
+Where does all that context end up living? In the place most explanations skip: bank’s own embedding. The blend physically changes bank’s numbers. The next station builds its fresh questions, labels, and handouts from those updated numbers. No separate notebook says “bank means riverbank here”; the understanding lives in the embedding itself, compounding layer after layer (station four will pin down what a layer is).
+
+The famous formula, softmax(QKᵀ/√d)V, is the interview written for all tokens at once. Q, K, and V are every token’s queries, keys, and values collected into three grids, one row per token; the little T lays the key grid on its side so every query can meet every key; dividing by √d (d is just how many numbers each embedding holds) tames the scores so softmax blends instead of crowning one winner. Every piece is something you have met.
+
+Two details, quickly, because the story depends on both.
+
+First: there is more than one interview. Bank needs grammar help and meaning help at the same time, so the station runs several interview panels in parallel, each with its own smaller question, label, and handout matrices. These panels are the attention heads. Nobody assigns their jobs; a trained model simply grows one head tracking who-did-what-to-whom, another tracking pronouns, another tone. A final learned matrix folds their findings into one answer, an editor merging eight reporters’ notes into a single story.
+
+Second: no reading ahead. Training is the guessing game: predict the next token while the full text sits on the table. Let attention peek forward and the model copies the answer instead of learning it.
+
+So a causal mask hard-blocks every look ahead: an exam hall where you can reread your earlier answers but never turn the page. That mask is what “decoder-only” means, and it is why a machine built to read can also write.
+
+One problem remains, though. The machine reads everything at once, so it cannot tell your sentence’s first word from its last. Fixing that is the entire job of the next station.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+Station three: bank gets a seat number
+
+“Dog bites man” and “man bites dog” produce identical interviews. The blindness is a feature (it is what made transformers parallel and fast), so instead of giving it up, position gets injected back in. The modern answer is RoPE, rotary position embeddings.
+
+The first thing to understand is where RoPE stores the position…basically nowhere.
+
+There is no seat-number list on the side. Just before the interviews, the machine rotates each token’s question and label embeddings by an angle set by its seat: bank at seat 2 gets a small twist, at seat 5 a bigger one. The twist is the storage.
+
+The interview score is a dot product, and a dot product cares about the angle between two embeddings. Rotate bank and river each by their own seat, and their score now carries one extra fact: how many seats apart they sit.
+
+And the smuggling is done with taste. Picture a dinner party; a couple sitting three seats apart is a couple whether the table numbers its chairs from one or from twenty; the gap matters, not the addresses. Same here: slide bank and river down the table together and both embeddings twist further, but the angle between them, and so their score, does not move.
+
+position becomes rotation; the angle between two words survives sliding
+
+Watch the pair slide in the clip: the addresses change, but the gap stays constant. So bank now knows what it means and where it sits. Time to see the full machine it rides through.
+
+Station four: bank rides the assembly line
+
+After all that buildup, a transformer block is just two moves. First move: attention, the interviews you just watched, where bank gathers context from the room. Second move: an MLP, Part A’s f(Wx + b) machine, where bank digests what it heard alone; two thirds of the block’s weights live here.
+
+the assembly line: tokens, positions, attention, MLP, the residual highway, the norm knobs
+
+One more trick that makes deep stacks possible: around each move runs a bypass lane (a residual connection) carrying a copy of bank that skips the move untouched. Moves may only add notes to that copy, never overwrite it, so the signal survives any depth. The cure has a hero story: in 2015 a Microsoft team entered the big image-recognition contest with a network 152 layers deep, seven times deeper than anyone could train, and won by a distance. The bypass was the whole secret. (A small volume knob between the moves, the norm, keeps the numbers in range.)
+
+Talk, think, keep a copy, stay in range; thats all a block is and each block is one layer. Stack this thirty to a hundred times, and you end up with GPT. What exits the last block is still bank, the untouched copy plus every note. That final embedding is the machine’s whole verdict on the sentence, and it is what gets scored to pick the next word.
+
+One warning before we turn it on. Google any of this and you will meet the famous 2017 diagram, which has two towers where ours has one. The original was built for translation: an encoder that reads the input with no causal mask, and a decoder, the masked writer, glancing at the reader as it works. GPT kept only the writer; that is all “decoder-only” means. The clip below shows the split: the reader looking both ways, the writer masked, the deletion. (One relic if you study the old diagram: its little wave symbol is representing RoPE, the seat trick, in its 2017 costume.)
+
+the reader looking both ways, the writer masked, the deletion
+
+We now have the machine standing still. Now let’s turn it on.
+
+Station five: the machine speaks
+
+Generation is one humble loop: read everything so far, predict one token, append it, go again. The memory room from station two is what makes the loop affordable: every earlier word’s cards are already filed, so each lap through the stack computes only the newest word and consults the room for the rest.
+
+the generation loop, and the memory that grows with every word
+
+Now the pick at the end of each lap. One last Wx scores bank’s finished embedding (the bypass copy plus all its notes) against every token on the menu, and softmax turns the scores into shares. The model does not take the top word. It picks at random, in proportion to the shares like a weighted dice roll.
+
+So, for instance, after “I sat on the bank and watched the…” water is 31%, boats 14%, sunset 9%, and spreadsheet near zero. Run the sentence three times and water, the favorite, still only wins about once; the other two rolls land on smaller slices like boats or sunset. The dice have no memory and no taste for novelty. They just fall in proportion to the shares, which is exactly why the same prompt can answer differently twice.
+
+scores become shares; top-p trims the weird tail; the pick lands
+
+Why gamble at all?
+
+Always taking the safest word reads correct and dead; the dice are where surprise lives. Two knobs keep them from going feral: top-p deletes the nonsense tail (keep only the top slices, adding to about 90 percent), and temperature sharpens or flattens the shares, safer or wilder.
+
+You have seen this station fail. In February 2024, ChatGPT spent a day answering the internet in half-Spanish gibberish. The postmortem pointed right here: a bug scrambling the numbers that feed the pick. Every interview upstream was fine. The dice were broken.
+
+Both knobs live on in the developer version, and you now know which part they turn: the pick, not the brain. (Today’s “thinking effort” dial buys something else: a hidden stretch of this same loop before the answer you see begins.) Which leaves the one question this whole walkthrough has dodged: where did the brain come from?
+
+Intermission: how bank’s machine was raised
+
+So, the machine we are learning went to school three times.
+
+First, pretraining: Part A’s guessing game played over more text than you could read in ten thousand lifetimes. Guess the token, take the punishment, nudge the weights, again. Out of that one chore fall grammar, facts, and something that walks and talks like understanding.
+
+reading the internet, one guess at a time
+
+But a model raised on the internet knows language, not manners.
+
+Ask it how to fix your sleep and it may answer with another question, because the internet is full of question lists.
+
+So, second, fine-tuning: the same game on a small curated diet of good answers, until helpful is the only pattern that fits. And third, reinforcement: for answers that are only better or worse, not right or wrong, the model earns a reward and climbs toward it. Gradient ascent. Part A’s descent with the sign flipped.
+
+pretrain, imitate, reinforce; the ascent hill is the descent animation, flipped
+
+That third stage is where the field’s money is pouring right now, and part of my own week is spent building the training grounds it runs on. It gets its own post. For today: descent taught the machine language. Ascent teaches it judgment.
+
+Station six: bank meets a photograph
+
+One promise left to cash from Part A: every kind of input enters through the same door. Watch how anticlimactic it is.
+
+Cut a photo into small square patches and project each one into an embedding the same size as bank (one matrix in simple designs, a small vision network in most production models). That is it. A patch of sky gets a badge, gets a seat, joins the interviews; bank can attend to a patch of river as easily as to the word “river.” The paper that proved it has a title that does all the work: “An Image Is Worth 16x16 Words.” And you have used it: paste a screenshot into a chat, and what you actually sent was a few hundred patch tokens standing in line with your words.
+
+a photo becomes patches; the patches join the words in the same space
+
+Audio is slices of sound, same door. There is no second theory of AI for images and a third for sound. Different doors, same room, same interviews. And every guest who walks in, word, patch, or sound slice, pays rent in the same memory room. At planet scale, that rent is about to become the whole story.
+
+Now lets re-model: same machine, smarter bills
+
+Run the classic machine at that scale and three bills explode. The modern era is engineers refusing to pay them.
+
+The compute bill. Bank was paying for the entire MLP in every block. Mixture of experts(MoE) splits the MLP into specialists and adds a front desk that wakes only the most relevant; which is quite a common idea, just how a hospital does not page every doctor for every patient.
+
+This is the trick behind the biggest shock in recent AI history: in late December 2024, DeepSeek shipped a frontier-class MoE model with a published final-run cost near 5.6 million dollars, when everyone assumed the club fees ran to hundreds of millions. Weeks later its R1 topped the app charts, and US tech stocks lost about a trillion dollars of value in a day, nearly 600 billion of it NVIDIA. The sleeping experts still take up memory; what they save is work. That is why model names now come in pairs, like “30B, 3B active.”
+
+the router wakes 2 of 8 experts; the rest sleep and do no work
+
+The memory bill. While the six sleeping experts in the above clip save work, a different bill keeps growing: every attention head was hoarding its own K,V cards, multiplying bank’s memory room. Grouped-query attention makes four heads share one pantry: each keeps its own questions, but they draw from one shared set of labels and handouts. A quarter of the cache, almost none of the quality. Llama 2 shipped it in 2023; nearly everyone copied.
+
+eight heads, two shared pantries, the cache shrinks fourfold
+
+The quadratic bill. The two shared pantries you just watched shrink the cache, but they do not touch the deeper problem: everyone-interviews-everyone means doubling the chat quadruples the work. So some layers watch only a sliding window of recent neighbors, a spotlight instead of a floodlight, and stacked layers still pass distant news along like gossip crossing a town. Mistral rode exactly this to fame in 2023.
+
+a moving spotlight; stacked layers still carry the news
+
+Modern models mix all three, plus the standard fittings: RMSNorm, RoPE, and SwiGLU(Part A’s modern squiggle). Labs publish a spec sheet with every model, they call it a model card, and you could now read one as a parts list you understand.
+
+The challengers: what if memory were cheap?
+
+One family of architects looked at those bills and asked the radical question: why keep the memory room at all?
+
+State space models bring back the running memory from the trucks at the top of this post, with the two upgrades the old machines never had: First, the memory is selective : it reads each word and decides what to keep and what to forget, the earlier versions ran the same fixed update on every word and never weighed what that word was worth.
+
+Second, and this is the fix that let it scale, the whole model trains in one parallel sweep over the entire sentence, rather than crawling word by word the way the old machines were stuck doing. Keep the notebook, drop the crawl.
+
+The cost grows in a straight line, double the text, double the work, no worse. Bank either earns a place in the notebook or it does not. Watch the two counters race in the clip; the exploding one is your long chats.
+
+everyone-talks-to-everyone vs one running memory
+
+The paper that made SSMs popular, Mamba, has my favorite origin story in modern AI. It was rejected by peer review (the step where scientists judge whether a result is solid enough to publish) at a major conference, in the same season half the field was already building on it. The reviewers said not proven. The builders said “too useful to wait”.
+
+The builders won: today’s strongest cheap models are hybrids, mostly SSM layers with a few attention layers kept for perfect recall where it counts, and NVIDIA’s Nemotron family matches same-size pure transformers at up to three times the speed with the newest generation stacking MoE on top.
+
+My take is that hybrids winning the price-for-quality race feels settled. The stranger thing I am watching is this. Every machine in this post freezes after training; the one you talk to is done learning, and forgets you when the chat ends. The next real frontier is models that keep learning from natural interaction. Whoever cracks that cheaply changes what these machines are.
+
+Finally…Bank finds out who it is
+
+A lot happened here, a small word walked in with two possible lives and no way to choose between them. It asked the whole sentence for help, and river answered loudest. It took a twist for its seat, rode the talk-think line a few dozen laps with an untouchable copy of itself always running on the bypass, and then sat in the memory room while the dice picked each next word. And somewhere in those laps, quietly, without anyone announcing it, bank became a river bank. Not because a rule said so. Because everything around it kept saying water.
+
+That is the whole trick, and I still find it a little moving: the machine never looks anything up. It lets meaning settle out of context, one interview at a time. Everything else you have heard about, the images walking in wearing patch badges, the remodels shrinking the bills, the challengers questioning the rent, is engineering wrapped around that one idea.
+
+Three things you can use this week:
+
+Long chats degrade for a physical reason. The memory room only grows and attention spreads thinner across it. When a conversation goes stale, start fresh and restate what matters. You are resetting the cache, not offending the model.
+Put your context up front and be specific. Attention routes by relevance scores; explicit, close-together details give the queries something to lock onto. Vague context scores weakly against everything.
+You now know which knob turns which part. Top-p and temperature turn the dice, not the brain. Effort settings buy hidden tokens of the same loop before the answer you see begins. And “trained on our data” might mean pretraining, fine-tuning, or a prompt; asking “fine-tuned, or prompted?” cuts through most of the marketing.
+
+The machinery you use every day is not beyond you. It never was.
+
+Next in the series: reinforcement learning from the ground up, the math frontier labs are betting the decade on, from someone who builds its training grounds.
+
+COMMON QUESTIONS
+
+Questions leaders ask us
+What is attention in a transformer?
+
+It is relevance scoring, run over every pair of words at once. Each token makes a query (what am I looking for), a key (what do I contain) and a value (what I hand you if you decide I matter). The dot product of one token's query with another's key scores how much they should care about each other, softmax turns those scores into shares that add to 1, and each token adds to itself a blend of everyone's values in those proportions. The famous formula softmax(QKᵀ/√d)V is that interview written for all tokens at once.
+
+Why do AI models struggle to count letters in a word?
+
+Models do not read letters. They read tokens: chunks of text from a fixed menu of roughly 30,000 to 260,000 pieces, cut at the door by the tokenizer. Asking how many r's are in strawberry asks about something the model never saw, the same way you can remember a song perfectly without knowing how its title is spelled. Newer models have patched the party trick, but the blindness underneath is still real.
+
+Why does the same prompt give different answers each time?
+
+Because the model does not take the top word. It scores every token on the menu, softmax turns those scores into shares, and it picks at random in proportion to those shares, like a weighted dice roll. The dice have no memory. Temperature and top-p are the knobs on that roll: temperature sharpens or flattens the shares, top-p deletes the nonsense tail.
+
+Why do long AI chats get worse over time?
+
+There is a physical reason. Every earlier token's key and value cards are filed in the KV cache, a memory room that only grows, and attention spreads thinner across it as it fills. When a conversation goes stale, start fresh and restate what matters. You are resetting the cache, not offending the model.
+
+What is a mixture of experts (MoE) model?
+
+A model that splits the MLP into specialists and adds a front desk that wakes only the most relevant ones, the way a hospital does not page every doctor for every patient. The sleeping experts still take up memory; what they save is work. It is why model names now come in pairs, like 30B, 3B active, and it is the trick behind DeepSeek shipping a frontier-class model in late December 2024 with a published final-run cost near 5.6 million dollars.
+
+What are state space models and are they replacing transformers?
+
+They bring back a single running memory instead of a growing memory room, with two upgrades: the memory is selective, deciding per word what to keep, and the model trains in one parallel sweep instead of crawling word by word. Cost grows in a straight line rather than quadratically. Today's strongest cheap models are hybrids, mostly SSM layers with a few attention layers kept for perfect recall where it counts.
+
+SOURCES
+
+Vaswani et al. — Attention Is All You Need (Google, 2017)
+Su et al. — RoFormer: Enhanced Transformer with Rotary Position Embedding (RoPE)
+He et al. — Deep Residual Learning for Image Recognition (ResNet, Microsoft, 2015)
+Dosovitskiy et al. — An Image Is Worth 16x16 Words
+Ainslie et al. — GQA: Training Generalized Multi-Query Transformer Models (grouped-query attention)
+Gu & Dao — Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+DeepSeek-AI — DeepSeek-V3 Technical Report
+Original essay by Raghav Dixit on X
+
+KEEP READING
+
+AI FUNDAMENTALS
+
+Vectors Are All You Need
+
+Part A of a series that builds modern AI from the ground up: how words become vectors, why the dot product runs everything, and how a machine learns by nudging numbers until it stops being wrong.
+
+AI STRATEGY
+
+The PHP Crisis Was a Decision-Making Crisis
+
+What a stalled security fix in the software behind most of the web says about how teams make hard decisions.
+
+AI ADOPTION
+
+We Need to Talk About Slop
+
+We surveyed our team about AI slop: how they define it, how they spot it, and how often they get wrongly accused of it. Here's what they told us.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"The Machine That Learned to Pay Attention","description":"Part B of the series: follow one ambiguous word through a transformer, station by station, from tokenizer to attention to the dice roll that picks the next word — plus the remodels and challengers reshaping modern models.","url":"https://www.tenex.co/blog/the-machine-that-learned-to-pay-attention","mainEntityOfPage":"https://www.tenex.co/blog/the-machine-that-learned-to-pay-attention","image":"https://www.tenex.co/assets/blog/the-machine-that-learned-to-pay-attention-header.jpg","datePublished":"2026-07-16T00:00:00.000Z","dateModified":"2026-07-16T00:00:00.000Z","author":{"@type":"Person","name":"Raghav Dixit"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"},{"@type":"ListItem","position":3,"name":"The Machine That Learned to Pay Attention","item":"https://www.tenex.co/blog/the-machine-that-learned-to-pay-attention"}]}]
+

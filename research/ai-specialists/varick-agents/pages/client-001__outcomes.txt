@@ -1,0 +1,150 @@
+URL: https://demo.varickagents.com/client-001/outcomes
+Fetched: 2026-10-26T03:35:50Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001/outcomes
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: What they were left with
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+CHAPTER 05
+What they were left with
+
+Month 1 vs. Month 4 at Industrial Manufacturing Corp. The agents got smarter, the close got faster, and the team shifted from processing to strategy.
+
+Before & after
+METRIC
+BEFORE
+AFTER
+Close cycle
+18-22 days
+7-9 days
+59%
+AP Exceptions at Close
+600-800
+< 50
+94%
+Intercompany Error Rate
+4%
+0.3%
+92%
+DSO Improvement
+Baseline
+-11 days
+-11 days
+Daily Cash Position
+10:30 AM
+7:00 AM
+3.5 hrs earlier
+FP&A Variance Analysis
+Day 10
+Day 2
+80%
+The accuracy curve
+
+Agents get smarter every week. Human feedback and SOP changes are absorbed automatically. 88% to 97.4% in four months.
+
+85%
+90%
+95%
+100%
+W0
+W2
+W4
+W6
+W8
+W10
+W12
+W14
+W16
+Go-live: AP + Ramp
+Feedback loop activated
+AR + Intercompany deployed
+Close Mgmt + Treasury
+FP&A + Tax deployed
+97.4% overall accuracy
+Full Audit Trail
+
+Every agent action with timestamp, reasoning, confidence, and human approvals. Searchable and filterable.
+
+Search audit trail...
+07:02:14
+Treasury
+Auto-processed
+
+Assembled daily cash position from 6 bank accounts across 3 currencies
+
+98%
+08:14:22
+AP Exception Classification
+Escalated to human
+
+Classified ICR-2847 as Type 4: FX Timing Variance (DE-03 → US-01)
+
+91%
+08:14:25
+Entity Matching
+Auto-processed
+
+Matched Oracle GL 51000 to NetSuite GL 5100-200 via crosswalk. FX variance: $3,412
+
+95%
+Show all 5 entries
+They own all of this
+PE sponsors own the agents
+
+Every workflow, every rule, every model. Deployed on their infrastructure, inside their VPC, within their security perimeter. Full portfolio company ownership.
+
+Data never leaves their environment
+
+Processing happens in their environment. No data sent to external servers. Full compliance with PE sponsor security policies and SOX requirements.
+
+Walk away anytime
+
+Zero vendor lock-in. Keep everything if the engagement ends. The IP is in the methodology, not the output.
+
+Like hiring an architect
+
+The PE sponsors own the building. We designed and built it. The blueprints, the structure, the systems. All theirs.
+
+ROI SUMMARY
+$2.1-2.6M
+Headcount redeployed (16 positions)
+$1.5-2.0M
+Capacity recovered
+$2.8-3.6M
+Early payment discount capture
+$1.6-2.1M
+DSO improvement on AR book
+$1.4-1.9M
+Error reduction & audit prep
+They never paid more than the value created.
+Ready to start?
+
+The engagement was scoped through diagnosis first, so leadership had a clear picture before committing.
+
+Schedule a Conversation
+

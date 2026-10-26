@@ -1,0 +1,131 @@
+URL: https://heliontechnologies.com/wp-content/uploads/2026/04/Helion-Mossy-Automotive-Group-Case-Study.pdf
+Fetched: 2026-10-26T04:05:00Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/wp-content/uploads/2026/04/Helion-Mossy-Automotive-Group-Case-Study.pdf
+Content-Type: application/pdf
+Via: curl-pdftotext
+Title: Helion-Mossy-Automotive-Group-Case-Study.pdf
+Meta description: 
+Canonical: https://heliontechnologies.com/wp-content/uploads/2026/04/Helion-Mossy-Automotive-Group-Case-Study.pdf
+Robots: 
+H1: 
+
+--- pdf page 1 ---
+CASE STUDY
+Helion Saves Mossy Automotive Group Over 
+$400K by Upgrading IT Infrastructure
+Mossy Automotive Group, which operates 14 stores in the San Diego area, grew to that 
+size without a unified technology strategy in place. As a result, they were experiencing 
+cost overruns, security vulnerabilities, and other issues related to IT.
+Working with Helion, Mossy was able to overhaul their IT infrastructure to eliminate 
+waste, improve performance, and reduce risk, saving over $400,000 in the process. 
+Like many auto groups that have grown gradually, Mossy's IT infrastructure was not built 
+according to a master plan. 
+“We have 1,200 employees using over 1,000 PCs, ” says John Epps, CFO of Mossy 
+Automotive Group. "For years, we added equipment on an as-needed basis, so our 
+network was a hodge-podge of PCs, operating systems, network connections, and off-
+the-shelf software." 
+Eventually, that hodge-podge infrastructure started to cause major issues. Mossy was 
+expanding at such a rate that internal IT staff had problems keeping up with growing 
+Summary
+The Problem
+
+--- pdf page 2 ---
+demands. Server crashes, network glitches, and carrier issues were contributing to 
+increased system downtime, which brought down productivity. 
+"We had too many instances where our network was down for more than a day, which 
+has a huge negative impact on our daily gross," says Epps. "We decided we had to  
+do something."
+Mossy Automotive Group's CPA firm referred Epps to Helion, an IT managed services 
+provider that focuses exclusively on dealerships.
+The first step to upgrading Mossy's IT network was an evaluation of the current 
+infrastructure by Helion's IT consultants. After the assessment, Helion made the 
+following recommendations:
+The Solution
+"Helion switched Mossy 
+Automotive Group to a new 
+data network carrier that 
+provided 1,000% more Internet 
+bandwidth to Mossy stores 
+over a fiber optic network."
+Helion switched Mossy Automotive Group to a new data network carrier that provided 
+1,000% more Internet bandwidth to Mossy stores over a fiber optic network. The best 
+part? It came at half the cost of their 
+previous data provider. 
+Helion also took steps to increase 
+resiliency and reduce outages. 
+“Most of our locations had single 
+Internet connections for data, so 
+Helion made sure the new network 
+had built-in redundancies. This 
+means that if one connection at one 
+location fails, another connection 
+will instantly pick up the slack, so 
+there is zero downtime," says Epps. 
+Switch to a new data network provider.
+In addition, Helion identified a risk to Mossy's wireless networks that had gone unnoticed. 
+“They reconfigured our various wireless network access points to establish a barrier 
+between the wireless network we used internally and the public Wi-Fi we offer
+
+--- pdf page 3 ---
+"Helion reduced the 
+server count from 36 to 12, 
+maintaining functionality while 
+eliminating waste."
+customers," says Epps. "Had we not done that, a hacker could easily have used our 
+public Wi-Fi to gain access to our private network data." 
+Switching to a new data carrier while increasing resiliency significantly reduced costs for 
+Mossy Automotive Group. 
+"Before Helion, we were having multiple email server failures that would shut us  
+down for a day or so. There's a definite return by not having those down days," says 
+Epps. "Switching data carriers and consolidating equipment has easily saved us more 
+than $300,000."
+Helion's assessment also identified equipment redundancies that were adding 
+unnecessary costs.
+For example, Mossy Automotive 
+Group had 36 servers, including 
+exchange servers for moving 
+data from store to store and from 
+dealer management systems to 
+OEMs. Helion reduced the server 
+count from 36 to 12, maintaining 
+functionality while eliminating waste.
+Eliminate unnecessary equipment.
+Helion also replaced hundreds of outdated PCs with newer, faster computers. This has 
+increased employee productivity and contributes to a more secure network. Prior to 
+intervention from Helion, many employees were still using Windows XP, which no longer 
+receives security patches from Microsoft.
+IP-PBX systems are less costly, easier to manage, and more reliable than  
+traditional PBX systems. They also provide integrated and unified messaging across 
+multiple locations.
+Switching phone carriers has saved Mossy Automotive Group "in the multiple thousands 
+of dollars," according to Epps.
+Switch to an IP phone system.
+
+--- pdf page 4 ---
+Schedule a free in-person 
+IT assessment. 
+GET AN IT RISK ASSESSMENT
+Since partnering with Helion, Mossy Automotive Group hasn't looked back. The 
+maintenance of its IT network has become a top priority, but fortunately, it’s one they no 
+longer have to worry about. 
+“Helion's round-the-clock monitoring allows us to maintain our business uptime, 
+which is absolutely essential for any dealership. If systems go down, our dealers can’t 
+write repair orders or sell vehicles," says Epps. "Partnering with an MSP has saved us 
+hundreds of thousands of dollars and many headaches, while allowing us to focus on 
+doing what we do best: selling cars."
+The Results
+Helion used its experience 
+and industry knowledge to 
+renegotiate these licenses  
+with vendors."
+In their initial assessment, 
+Helion identified hundreds of 
+redundant equipment licenses 
+in Mossy’s systems. Helion used 
+its experience and industry 
+knowledge to renegotiate these 
+licenses with vendors.
+"This alone saved us $100,000,"  
+says Epps.
+Eliminate redundant software licenses.

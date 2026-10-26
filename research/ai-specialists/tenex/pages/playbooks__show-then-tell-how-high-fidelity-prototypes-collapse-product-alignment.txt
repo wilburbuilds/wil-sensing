@@ -1,0 +1,279 @@
+URL: https://www.tenex.co/playbooks/show-then-tell-how-high-fidelity-prototypes-collapse-product-alignment
+Fetched: 2026-10-26T03:34:10Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/show-then-tell-how-high-fidelity-prototypes-collapse-product-alignment
+Content-Type: text/html
+Via: chrome-headless
+Title: AI for PMs: Skip the PRD, Ship a Prototype, and Get Unlimited Buy In | Tenex
+Meta description: The shortcut for PMs, founders, and operators tired of explaining their ideas to death
+Canonical: https://www.tenex.co/playbooks/show-then-tell-how-high-fidelity-prototypes-collapse-product-alignment
+Robots: 
+H1: Show, Then Tell: How High-Fidelity Prototypes Collapse Product Alignment
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Show, Then Tell: How High-Fidelity Prototypes Collapse Product Alignment
+
+A practical guide to replacing PRDs with working prototypes using AI tools like Bolt and Lovable.
+
+0 of 6 steps
+0 / 60 pts
+THE PLAYBOOK
+✓
+START HERE
+Meet the Human Behind the Playbook
+10 pts
+📖 Learn
+📋 Implement
+The Human
+
+Bolt almost didn't happen. StackBlitz had spent years building developer tools without finding traction. Runway was tight. Bolt wasn't a moonshot—it was a last disciplined attempt before winding down. Then it launched. People used it immediately. What started as a survival play became the company's lifeline.
+
+Alex Berger, COO of Bolt (or Bolt.new as the lame man says), operates with a bias toward velocity over explanation. His philosophy is simple: teams slow down when ideas spend too long in docs instead of user hands. Bolt was built quickly, shipped quickly, and refined in public. The product reflects the operating rhythm.
+
+Here's how concrete that gets. Alex rents apartments through Airbnb and ran into a frustrating edge case with their long-term rental tax logic. Instead of writing a critique or drafting a PRD, he built a prototype that showed what better could look like.
+
+That single move captures the mindset: prototype the change, test it live, and let the experience speak. It's the same approach that saved StackBlitz and now defines how Bolt ships. The fastest way to prove an idea isn't to argue for it. It's to let people click, see, and feel it working.
+
+‍
+
+"First step, you need to have an idea. If you're a product manager, a designer, an entrepreneurial person—I think you already have one." 
+— Alex Berger
+
+
+‍
+
+‍
+
+Continue to Implementation →
+✓
+STEP 1
+Pick a screen
+10 pts
+📖 Learn
+📋 Implement
+
+Before you open any tool, you need to have an idea.
+
+Once you have that, you need to know exactly which screen you're prototyping against.
+
+Log into the actual product—yours, your company's, whatever you're trying to improve. Navigate to the specific modal, page, or component that frustrates you. This is your canvas.
+
+Alex picked a tax breakdown modal inside his Airbnb hosting account. He wasn't trying to rebuild Airbnb's entire billing system. He wanted to change how one modal handled tax withholdings for long-term rentals. That's it.
+
+Do this:
+
+Open your product in Chrome (has to be Chrome for the next steps)
+Navigate to the exact screen you want to change
+If it's a modal, trigger it so it's visible on screen
+Ask yourself: "What's the one thing I wish this did differently?"
+
+‍
+
+The smaller the surface area, the faster you ship. This playbook isn't about building new products from scratch—it's about prototyping small changes that can make big differences. You're not parading as the company's designer. You're a PM, founder, or operator with an idea, and you want to show people what "better" looks like before anyone commits resources. Pick the one modal, one card, one button that matters most.
+
+‍
+
+"Screenshots are great to capture styles, but we have access to the code here. Which is better in a lot of ways. 
+— Alex Berger
+
+‍
+
+‍
+
+Continue to Implementation →
+✓
+STEP 2
+Snatch the bones
+10 pts
+📖 Learn
+📋 Implement
+
+‍
+
+‍
+
+Screenshots show what it looks like. Code shows how it's built. Grab both.
+
+Most people would just screenshot the screen and paste it into their AI tool. That works, but you'll get a lookalike—close enough to demo, not close enough to feel real. The problem is screenshots only show the AI what something looks like. They don't show how it's built.
+
+There's a trick: you can copy the actual code behind any element in your browser. When you give the AI both the screenshot AND the code, it can recreate the real thing—same fonts, same spacing, same everything. Your prototype stops looking like a mockup and starts looking like it came from engineering.
+
+You don't need to understand any of the code. You're just copying and pasting.
+
+Do this:
+
+With the screen visible, take a screenshot of just the element you're prototyping (Cmd+Shift+4 on Mac, or your screenshot tool of choice). Crop tight—just the modal or component.
+Right-click directly on the element and select Inspect. Chrome DevTools opens—a panel will appear on the right side (or bottom) of your screen. It looks intimidating. Ignore that.
+In the DevTools panel, look at the code on the left side (called "Elements"). You'll see a line of code already highlighted in blue—that's the element you clicked on. Hover over nearby lines and watch the page: the corresponding element will highlight. When the right chunk is highlighted (the full modal or component, not just one button), right-click that code and select Copy element.
+Right-click the same code again and select Copy styles.
+
+You now have three things: a screenshot (how it looks), the element code (what it's made of), and the styles (how it's styled). You don't need to understand what any of this means.
+
+‍
+
+Continue to Implementation →
+✓
+STEP 3
+Mirror it
+10 pts
+📖 Learn
+📋 Implement
+
+‍
+
+‍
+
+You're building a clean template to put your idea on top of.
+
+This feels like a waste of time. It's not. When you share this prototype with stakeholders, the "before" state needs to feel real. If it looks like a rough mockup, they'll treat your "after" state like a rough mockup too. Fidelity earns attention.
+
+Do this:
+
+Go to Bolt, Lovable, or any AI prototyping tool
+Paste your screenshot into the chat (drag and drop the image, or Cmd+V if it's on your clipboard)
+Paste the element code you copied (Cmd+V — it'll look like a wall of code, that's fine)
+Paste the styles you copied (same deal — wall of code, don't worry about it)
+Add a prompt like this:
+
+‍
+
+‍
+
+Mirror Prompt
+
+I pasted a screenshot of a modal from [product name], along with the code and CSS from Chrome DevTools.
+
+  Create an accurate replica of this modal. Match the fonts, spacing, and styles exactly.
+
+  Don't worry about backend logic, databases, or making it functional. This is for prototyping only. I need a clean template I can build on top of.
+
+COPY
+Hit enter and let it ruminate
+
+‍
+
+When it finishes, compare the result to your screenshot. It should be close—same fonts, same spacing, same visual hierarchy. If something's off (a button doesn't have rounded corners, the font weight is wrong), most tools have a visual selector—click on the element and tell it what to fix.
+
+If it's way off: Don't wrestle with it. AI is non-deterministic. Sometimes it stutters. Just start a new chat and paste your materials again. "Oftentimes the right answer is just to start over," Alex says. "It probably just stuttered. Don't go wrestle with it trying to fix it."
+
+‍
+
+Continue to Implementation →
+✓
+STEP 4
+Add the thing
+10 pts
+📖 Learn
+📋 Implement
+
+Okay, idea guy. Let it rip.
+
+Now you've got a pixel-perfect copy of the current state. Time to add your idea.
+
+Alex added a hover state that revealed an "Adjust tax collection" button, which opened a new modal where hosts could toggle which taxes to withhold. When you changed the toggles and hit save, the numbers in the original modal updated. That's it. One interaction. But it let stakeholders feel the idea instead of reading about it.
+
+Do this:
+
+Write out what interaction you want to add. Be specific about:
+What triggers it (hover, click, etc.)
+What appears (button, modal, dropdown, etc.)
+What changes when someone uses it
+If there's logic involved (calculations, rules, etc.), write that out too. You can even paste in notes from ChatGPT if you've been working through the logic there.
+Paste this as a new prompt. Here are two example structures depending on what you're building:
+
+‍
+
+Example A: Adding a New Action
+
+When the user hovers over [element], show a button that says "[button text]".
+
+  When they click that button, open a new modal that lets them [do the thing].
+
+  When they save, [describe what updates].
+
+  Store everything locally. Don't worry about databases or production concerns—I'm just trying to get this idea approved.
+
+COPY
+Example B: Changing Existing Behavior
+
+Replace the [current element] with a [new element type — dropdown, toggle, input field, etc.].
+
+  When the user interacts with it, [describe what should happen].
+
+  Show the change immediately in [wherever the result should display].
+
+  Keep it simple. No backend, no database. This is a prototype.
+
+COPY
+For complex prompts, switch to a stronger model if your tool allows it. Claude Opus or GPT-4 handle multi-step logic better than faster models. It's slower but worth it.
+Let it build. Watch the plan it generates—it should roughly match what you asked for.
+
+‍
+
+One interaction is enough to collapse hours of PRD debates into a five-second experience.
+
+‍
+
+Continue to Implementation →
+✓
+STEP 5
+Send the link + shut up
+10 pts
+📖 Learn
+📋 Implement
+
+Your prototype is done.
+
+Finally, now you need to get it in front of the people who can say yes.
+
+Do this:
+
+Find the Share or Deploy option in your tool (usually top right)
+Generate a shareable link
+Copy it
+Send it to your stakeholders with minimal explanation. Something like:
+
+‍
+
+"I've been thinking about how we handle [problem]. Built a quick prototype to show what I mean. Click around—curious what you think."
+
+That's it. Don't write a PRD. Don't schedule a meeting to walk them through it. Don't explain every decision you made. Send the link. Let them click. Let the experience make your argument for you.
+
+When feedback comes back, it'll be concrete. "I liked the toggle but the save button felt buried." "What happens if someone turns off all the taxes?" These are real reactions to a real thing—not abstract comments on a document nobody fully read.
+
+If something's broken or ugly: Fix it and send an updated link. Or start over. "It's pretty easy to just click redo," Alex says. The cost of iteration is near zero. The cost of waiting for consensus on a PRD is months.
+
+The Takeaway
+
+Alignment is the real bottleneck in modern product development. High-fidelity prototypes remove ambiguity faster than documents ever could. AI makes those prototypes cheap enough to use early.
+
+The teams that move fastest decide sooner.
+
+Hire Us As Your Chief AI Officer
+
+We have the muscle—and the reps. Want us to run this exact playbook inside your org? Talk to us today.
+
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"AI for PMs: Skip the PRD, Ship a Prototype, and Get Unlimited Buy In","description":"The shortcut for PMs, founders, and operators tired of explaining their ideas to death","image":"https://cdn.prod.website-files.com/68af32cbd5555c406456f114/695af8a01e4d55548e344fe8_compressed-Tenex%20-%20Bolt%20-%20Thumbnail%202%20(1)-min-min.png","datePublished":"2026-01-05T01:18:17.000Z","dateModified":"2026-01-05T01:18:17.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/show-then-tell-how-high-fidelity-prototypes-collapse-product-alignment"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Show, Then Tell: How High-Fidelity Prototypes Collapse Product Alignment","item":"https://www.tenex.co/playbooks/show-then-tell-how-high-fidelity-prototypes-collapse-product-alignment"}]}]
+

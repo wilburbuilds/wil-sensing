@@ -1,0 +1,106 @@
+URL: https://www.promptadvisers.com/media
+Fetched: 2026-10-26T03:44:58Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/media
+Content-Type: text/html
+Via: chrome-headless
+Title: Media, Press & YouTube | Prompt Advisers
+Meta description: Where the work shows up: Entrepreneur, O'Reilly, CNBC, Microsoft Learn, Pinecone, and the latest from Mark Kashef's YouTube channel.
+Canonical: https://www.promptadvisers.com/media
+Robots: 
+H1: WHERE THE WORK SHOWS UP.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · IV / SIGNAL
+
+WHERE THE WORK SHOWS UP.
+
+IN PRINT & ON AIR
+
+ENTREPRENEUR
+↗
+
+WIRED
+↗
+
+CNBC
+↗
+
+RYAN DOSER · YOUTUBE
+↗
+
+LEADING AI AGENTS
+↗
+
+ENTREPRENEUR
+I Built a 7-Figure Business Teaching People How to Engineer AI Prompts
+WIRED
+On who's to blame when AI agents screw up.
+PINECONE
+Contributor on retrieval and practical AI systems.
+CNBC
+On how operators put AI to work.
+
+V / THE CHANNEL
+
+86.1K YOUTUBE SUBSCRIBERS
+
+Anthropic Just Donated Claude Skills. Here's What to Delete.
+
+AI Just Found a Serious Problem With the Internet
+
+The OpenCode Hack Was Just the Beginning
+
+Your Claude + Codex Setup Is a Mess (Here's the Fix)
+
+Uncensored AI + REA Can Reverse Engineer Anything
+
+OpenAI's Decisions API just dropped. Here's how it compares to Jev.
+
+WATCH THE CHANNEL
+
+VI / SPEAKING
+
+AVAILABLE FOR KEYNOTES, PANELS, AND PODCASTS.
+
+ENQUIRE ABOUT A DATE
+
+IV / SIGNAL
+
+PUT US ON RECORD.
+BOOK YOUR FREE 15-MINUTE CALL
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Media","item":"https://www.promptadvisers.com/media"}]}]
+

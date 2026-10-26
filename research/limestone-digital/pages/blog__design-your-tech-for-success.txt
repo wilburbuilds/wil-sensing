@@ -1,0 +1,102 @@
+URL: https://limestonedigital.com/blog/design-your-tech-for-success
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/design-your-tech-for-success
+Content-Type: text/html; charset=utf-8
+Title: Design your tech for success
+Meta description: Why new software goes unused and the four-step process that ensures adoption in modernization projects.
+Canonical: https://thefoundation.limestonedigital.com/p/design-your-tech-for-success
+Robots: max-image-preview:large
+H1: Design your tech for success | AI Foundation from Limestone Digital
+
+Design your tech for success
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+Design your tech for success
+Design your tech for success
+Episode 5
+Sep 9, 2025
+Hi there,
+So you’re looking to modernize your software systems to keep up with the competition.
+You deploy new, custom tools expecting them to fundamentally change how your organization operates (for the better, of course).
+But then, your people don’t use them. What gives?
+Keep reading to learn more about what’s standing in the way of adoption.
+Inside the Issue
+The Practical Toolkit:
+Discover why UX/UI designers need to lead discovery in software modernization.
+Industry Radar:
+Opening a window into the future of Windows.
+Field Notes:
+Prototype one workflow, win big.
+The Practical Toolkit
+Mid-market companies need to modernize their software systems because their legacy tech stacks are causing major headaches.
+And the pressure to move is palpable. With every minute they spend waiting, frustration builds internally.
+Meanwhile, they fall further behind their more agile competitors who are already taking advantage of all the efficiencies new solutions have to offer.
+“Stakeholders want something that’s working yesterday, and the budget often reflects that urgency as well,” says Limestone UX/UI design team lead Anastasia Milokhina, reflecting on the high-pressure situation. “The temptation always is to skip research, or cut the corners on design.”
+When teams lock in feature lists based on user requests without truly understanding what those users need, systems don’t work for users down the road.
+This requires product teams to spend additional time rolling back changes and reworking the solution.
+Design as discovery, not decoration
+Before building anything, product teams need to go beyond what users want to find out what they actually need.
+Anastasia and the team at Limestone have found a way to do just that, without sacrificing speed: They bring UX/UI designers into the discovery process so that it feels less like discovery and more like active product building.
+“People often can’t articulate what they really need until they see and interact with something tangible,” Anastasia shares. But instead of drawing out this clarity with a finished product, she notes that the Limestone team uses rough sketches.
+They give users a sense of what the interface layout might look like and how it will impact their workflows (for better or worse). And the rough nature of the designs allows the team to iterate quickly based on user feedback.
+The result is a validated concept that the team can build with confidence.
+Anastasia breaks down Limestone’s design-led discovery process into four key steps:
+Write down what you already know
+Pick the most critical workflows
+Create rough low- to mid-fidelity wireframes of different screens
+Test interactive prototypes with real users
+Get into the details of each step in our latest playbook.
+Industry Radar
+A Microsoft executive shares his vision of the future of Windows. Spoiler: AI, voice input, and the cloud are going to play major roles. (
+TechRadar
+)
+You can train generative AI using your company’s data. Find out how. (
+Harvard Business Review
+)
+Field Notes
+Before rolling out a new tool, pick just one critical workflow and prototype it first. Let users react to it. This not only reveals what matters most, but also builds buy-in before launch.
+Thank you for joining us for another edition of The Foundation.
+You’ll hear from us again in two weeks, with more insights from the industry experts.
+Ready to modernize your tech stack
+and
+make sure people actually use your new tools? Contact us today.
+Book a Call
+P.S. We want to make sure this newsletter hits the mark. So reply to this email and let us know what you think.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"design-your-tech-for-success","url":"https://thefoundation.limestonedigital.com/p/design-your-tech-for-success","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/design-your-tech-for-success"},"headline":"Design your tech for success","description":"Episode 5","datePublished":"2025-09-09T18:40:24.716Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/feae148e-4c0a-4317-b9fd-3e59b1fc1b77/playbook-05-design-your-tech-for-success.png?t=1788797926"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:18:47Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/design-your-tech-for-success","name":"Design your tech for success"}}]}

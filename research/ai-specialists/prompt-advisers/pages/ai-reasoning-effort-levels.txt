@@ -1,0 +1,131 @@
+URL: https://www.promptadvisers.com/ai-reasoning-effort-levels
+Fetched: 2026-10-26T03:45:25Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/ai-reasoning-effort-levels
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Reasoning Effort Levels: The Setting Everyone Gets Wrong
+Meta description: AI reasoning effort levels control thinking budget, not smarts. See the framework for picking low, medium, high, or max.
+Canonical: https://www.promptadvisers.com/ai-reasoning-effort-levels
+Robots: 
+H1: AI Reasoning Effort Levels: The Setting Everyone Gets Wrong
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+AI Reasoning Effort Levels: The Setting Everyone Gets Wrong
+
+AI reasoning effort levels control thinking budget, not smarts. See the framework for picking low, medium, high, or max.
+
+MARK KASHEF
+JULY 14, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+AI reasoning effort levels set how many tokens a model spends thinking before it answers, not how smart that model is. Low, medium, high, and max are budget dials, not intelligence dials. Mark Kashef ran one task across 12 effort levels on Claude Code and Codex and got nearly identical outputs. Here is what each level does and how to pick one without guessing.
+
+How AI Reasoning Effort Levels Actually Work
+
+Every model provider ships some version of the same dial. GPT-5.6 alone has six tiers across three model sizes, Luna, Terra, and Sol, an 18-way combination for a single task. Grok gives far fewer choices. Claude sits at four: low, medium, high, and max.
+
+WATCH ON YOUTUBE
+
+The setting people get wrong is treating that dial like a smarts knob. Set it to max and you assume you get the smartest possible answer. In practice, the model family and its weights decide how smart the answer is. Effort only decides how much token budget it spends checking its own work first.
+
+Mark drops a new module every week in his Claude Code Living course inside Early AI-dopters, 1,000+ people mastering Claude Code and Codex.
+
+JOIN EARLY AI-DOPTERS
+Why Low Effort Beats High on a Frontier Model
+
+Here is the part almost nobody expects: on a genuine frontier model, low effort often beats high effort on a weaker one. Claude Fable 5 on low effort carries more firepower in its weights than a smaller model burning through high effort re-checking itself. Mark's rule is to start at the bottom of the ladder every time, especially on a frontier model, and only climb if the output is underwhelming.
+
+Low gives the model a small thinking budget. It picks a tool, runs it, and takes the first result, fine for tasks where you already know what done looks like: a button color, a route, a spreadsheet. Medium adds a second pass where the model checks its own path. High is where token usage jumps hardest, forcing a plan, a check-in, an execution, then a review of the path taken.
+
+Where Extra High and Max Actually Backfire
+
+Extra high, max, heavy, whatever a provider calls its top tier, exists for long tasks needing reflection at every milestone. Mark estimates eight out of ten tasks run at this level do not need it, and some get worse. Overthinking a multiple choice question is the analogy: you know the answer is B, but a large thinking budget talks you into D. The same failure shows up in coding tasks, where a model on max spins through paths A, B, C, and D for a job that only needed path A.
+
+The Model-Then-Effort Framework Mark Actually Uses
+
+Mark's approach is sequential, not a single dial. Pick the model first, then pick the effort level inside that model family.
+
+Sonnet, on low or medium, for anything generation-based: UI tweaks, routing, Excel, Word, or PowerPoint files.
+Opus, starting on low, stepping up only if the analysis feels shallow.
+A frontier model, starting on low effort, reserved for genuinely hard problems, climbing only with evidence more firepower is needed.
+
+Learning a model family's rhythm rarely takes more than an hour of testing, the same habit we drill into people during our AI workshops and bootcamps. The same logic holds across providers: on GPT-5.6, start Sol on low before assuming you need Luna on extra high just because the name sounds smarter.
+
+The 12-Effort-Level Test That Proves the Point
+
+Mark ran one identical prompt, build a sentiment dashboard tracking X posts about Grok, Codex, and Claude Code, across every effort level on Claude Code and Codex. The differences were mostly cosmetic. Claude on low shipped a working dashboard with no chart points, medium added the points, high added context for whether a score was good or bad, and extra high added a favicon. On Codex, low already looked close to finished, medium introduced a small text bug, and high through max mostly swapped visual styles.
+
+None of these runs found a fundamentally different answer, just small aesthetic differences at two to five times the token cost, the real argument against reflexively maxing out effort.
+
+Why the Harness Matters More Than the Effort Setting
+
+The model itself is a brain in a jar. It has no hands until something gives it tools to edit files, run code, or spin up a server, the same idea behind every layer of an agentic OS. Google's own engineering team put a number on this: the model is roughly 10 percent of the outcome, the harness the rest. That is why the same effort level means something different across providers, each calibrating its tiers against its own model family, detailed in Anthropic's effort documentation, OpenAI's reasoning guide, and xAI's reasoning guide.
+
+Mark's Final Thoughts
+
+Effort is not a proxy for intelligence, and treating it that way burns tokens for cosmetic gains. Pick the model first, start low, and only spend more when the output gives you a reason to. As usage-based billing spreads, being deliberate about AI reasoning effort levels is the difference between running ten tasks and running two.
+
+AI Reasoning Effort Levels FAQs
+
+What does AI reasoning effort actually control?
+
+AI reasoning effort controls how many tokens a model spends thinking before it answers, not how intelligent that model is. Low effort takes the first workable path quickly, while higher levels add more checking passes and self-correction. The model's underlying weights, not the effort dial, decide how smart the final answer actually is.
+
+Does higher reasoning effort mean a smarter AI model?
+
+No. A frontier model on low effort often outperforms a weaker model burning through its highest effort tier, because training and weights set the ceiling, not the thinking budget. Treating extra high or max as a smarts switch is the most common AI reasoning effort levels mistake Mark sees, and it wastes tokens for little or no gain.
+
+What effort level should I use with Claude Code?
+
+Start on low for straightforward tasks like UI tweaks, file generation, or routing changes, especially on a frontier model. Move to medium only if the output feels shallow, and reserve high for problems that need a documented plan and a real check-in before execution. Day to day work rarely needs to go past medium.
+
+Why did GPT-5.6 add six effort tiers instead of three?
+
+More tiers give finer control over cost and latency across three model sizes, Luna, Terra, and Sol, producing 18 possible combinations. That granularity helps at scale, but it multiplies the confusion, since the names suggest a straight line to more intelligence when they actually map to token budget. Start on Sol at low and climb only with evidence.
+
+When should I actually use max or extra high effort?
+
+Save it for long running tasks that need reflection at every milestone, work where an error two steps in changes everything three steps later. Mark estimates roughly eight out of ten tasks people run at this level do not need it, and several checked passes on medium usually reach the same result for a fraction of the tokens and time.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/ai-reasoning-effort-levels#article","headline":"AI Reasoning Effort Levels: The Setting Everyone Gets Wrong","description":"AI reasoning effort levels control thinking budget, not smarts. See the framework for picking low, medium, high, or max.","image":["https://www.promptadvisers.com/blog/ai-reasoning-effort-levels/ai-reasoning-effort-levels-hero.webp"],"datePublished":"2026-07-14T00:00:00-05:00","dateModified":"2026-07-14T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/ai-reasoning-effort-levels","keywords":"AI reasoning effort levels, reasoning effort setting, Claude effort levels, GPT-5.6 reasoning effort, Codex reasoning effort","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"AI Reasoning Effort Levels: The Setting Everyone Gets Wrong","description":"AI reasoning effort levels control thinking budget, not smarts. See the framework for picking low, medium, high, or max.","thumbnailUrl":["https://i.ytimg.com/vi/4__5q76f04s/maxresdefault.jpg"],"uploadDate":"2026-07-13T00:00:00-05:00","duration":"PT16M20S","contentUrl":"https://www.youtube.com/watch?v=4__5q76f04s","embedUrl":"https://www.youtube-nocookie.com/embed/4__5q76f04s","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What does AI reasoning effort actually control?","acceptedAnswer":{"@type":"Answer","text":"AI reasoning effort controls how many tokens a model spends thinking before it answers, not how intelligent that model is. Low effort takes the first workable path quickly, while higher levels add more checking passes and self-correction. The model's underlying weights, not the effort dial, decide how smart the final answer actually is."}},{"@type":"Question","name":"Does higher reasoning effort mean a smarter AI model?","acceptedAnswer":{"@type":"Answer","text":"No. A frontier model on low effort often outperforms a weaker model burning through its highest effort tier, because training and weights set the ceiling, not the thinking budget. Treating extra high or max as a smarts switch is the most common AI reasoning effort levels mistake Mark sees, and it wastes tokens for little or no gain."}},{"@type":"Question","name":"What effort level should I use with Claude Code?","acceptedAnswer":{"@type":"Answer","text":"Start on low for straightforward tasks like UI tweaks, file generation, or routing changes, especially on a frontier model. Move to medium only if the output feels shallow, and reserve high for problems that need a documented plan and a real check-in before execution. Day to day work rarely needs to go past medium."}},{"@type":"Question","name":"Why did GPT-5.6 add six effort tiers instead of three?","acceptedAnswer":{"@type":"Answer","text":"More tiers give finer control over cost and latency across three model sizes, Luna, Terra, and Sol, producing 18 possible combinations. That granularity helps at scale, but it multiplies the confusion, since the names suggest a straight line to more intelligence when they actually map to token budget. Start on Sol at low and climb only with evidence."}},{"@type":"Question","name":"When should I actually use max or extra high effort?","acceptedAnswer":{"@type":"Answer","text":"Save it for long running tasks that need reflection at every milestone, work where an error two steps in changes everything three steps later. Mark estimates roughly eight out of ten tasks people run at this level do not need it, and several checked passes on medium usually reach the same result for a fraction of the tokens and time."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"AI Reasoning Effort Levels: The Setting Everyone Gets Wrong","item":"https://www.promptadvisers.com/ai-reasoning-effort-levels"}]}]
+

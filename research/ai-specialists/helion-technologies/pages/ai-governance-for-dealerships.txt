@@ -1,0 +1,304 @@
+URL: https://heliontechnologies.com/ai-governance-for-dealerships/
+Fetched: 2026-10-26T03:57:34Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ai-governance-for-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Governance for Dealerships: Shadow AI and Data Risk
+Meta description: AI governance for dealerships, explained: where shadow AI exposes customer data, and how a board, a written policy, and a governed AI platform put it in check.
+Canonical: https://heliontechnologies.com/ai-governance-for-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Governance for Dealerships: Shadow AI, Data Exposure and What to Do Next
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI Governance for Dealerships: Shadow AI, Data Exposure and What to Do Next
+By Scot McConnor
+October 14, 2026 · 68 min read
+
+AI governance for dealerships means deciding which AI tools your people may use, what dealership data each tool can reach, and who approves anything new, so the store gets the productivity without customer data leaking out. Most stores already have shadow AI in the building, so the work starts with a governance board, a written policy, and a governed corporate platform.
+
+Last updated: October 14, 2026
+
+A salesperson called our help desk with what they figured was a simple request. They wanted their personal ChatGPT account installed on every computer on the sales floor, signed in as them on each one, so the whole team could share it.
+
+Nobody was being sneaky, as far as we could tell. They meant well. They’d found a tool that made the job easier and wanted everybody to have it. But look at what that setup actually is. Every salesperson can read every other salesperson’s conversations, customer details go into an account the store doesn’t own, and nobody at the dealership can see any of it or switch it off.
+
+Erik Nachbahr, who founded Helion Technologies, told that story in a DealersEdge webinar this month, and it’s the one I keep coming back to. It isn’t a hacker story. It’s an enthusiasm story, which is what AI risk looks like at most dealerships right now.
+
+I’ve been in this business nearly 30 years, starting on the sales floor in the late ’90s, and new technology has always come into stores the same way. Somebody on the floor finds it, it works, and it spreads before anybody decides anything. Nobody plans it. AI is doing it faster than anything I’ve seen, and the numbers back that up: Stanford’s 2026 AI Index puts generative AI at 53% adoption in three years, faster than the personal computer or the internet. Erik put it as “capability outrunning our control of that capability,” and I can’t improve on that.
+
+So this post is about the deciding. Who picks the AI your people use, what it’s allowed to touch, and what happens to the data afterward. That’s AI governance, and it’s the center of our managed AI for dealerships program. The full webinar is below with chapters and a transcript, if you’d rather hear it from Erik.
+
+What AI Governance for Dealerships Covers
+
+AI governance for dealerships is the set of rules, owners, and controls that decide which AI tools staff can use, what customer and business data those tools can reach, how long that data is kept, and who signs off before a new AI project goes live. It belongs inside the store’s FTC Safeguards program, not next to it.
+
+The reason it matters comes down to four things every AI tool does with what you give it. Erik calls them ingest, retain, reuse, and connect, and his advice is to assume every tool does all four unless you know otherwise.
+
+WHAT AI DOES	WHAT IT LOOKS LIKE AT A DEALERSHIP	THE GOVERNANCE QUESTION
+Ingest: takes in whatever you type, upload, or point it at	A finance manager pastes a customer email in to fix the wording, name and phone number included	What may never go into any AI tool?
+Retain: keeps the conversation, often longer than people expect	Months of chat history sit in an account that belongs to one employee	Whose account holds it, and for how long?
+Reuse: on some plans, uses your chats to train future models	A spreadsheet of used car costs becomes training data	Is training switched off for everyone?
+Connect: works with the permissions of whoever connects it	An AI hooked into a manager’s Microsoft 365 account can read what that manager can read	Whose access is it borrowing?
+
+Now put that next to what’s in a dealership. The DMS and the CRM are full of names, addresses, Social Security numbers, credit applications, and card data. Shared drives hold pay plans. Mailboxes hold everything else. Erik connects AI to his own Excel, Word, PowerPoint, mailbox, and calendar and calls it “the greatest thing since sliced bread,” and he means it. He also points out what happens when the person doing the connecting has admin rights: “AI gets, has reach into whatever data that at the level that it’s given access, and it’s going to use it, believe me.” He’s right.
+
+The pressure to keep up is real. Cox Automotive’s AI in Auto Retail Tracker found in its May 2026 survey of 483 dealers that 52% think they’re behind their peers on AI, up from 47% in March. The same research found 63% of dealers trust AI built into their dealership tools more than standalone AI. Honestly, that second number makes me feel better. It tells me most dealers already sense the difference between a tool somebody set up for the store and one an employee signed up for on a slow Tuesday.
+
+We see it from the inside, too. Helion Technologies supports 2,000-plus dealerships and about 35,000 dealership employees, and Erik’s read on that base is blunt. Plenty of everyday users still have administrative rights on their computers, almost nobody has had AI-specific security training, and a lot of the AI being set up is going in with no plan behind it. “You are bringing in a very capable system into a system that has limited security,” is how he said it. That’s the gap.
+
+The tool isn’t the risk. The access is. Rex Marchant’s guide to least-privilege access for AI tools at the dealership covers what to scope down first.
+
+Watch: AI Governance for Dealerships, the DealersEdge Webinar
+
+In this 55-minute DealersEdge webinar, Helion Technologies founder Erik Nachbahr walks through where dealership AI goes wrong, from personal accounts on sales floor computers to AI tools with network-wide admin rights, and how to put it under control.
+
+Video chapters
+0:00 Introduction from DealersEdge
+1:25 Why an AI enthusiast is talking about risk
+4:00 Adoption numbers
+6:22 Where dealers use AI today
+7:12 Four kinds of AI
+9:38 Ingest, retain, reuse, connect
+12:02 The dealership data AI can reach
+14:40 Dealerships are not security-ready
+16:16 Secure development and the FTC
+17:54 Personal AI accounts (shadow AI)
+19:45 One login shared across the sales floor
+20:41 DMS and CRM data pulled into spreadsheets and public chats
+22:17 Inherited permissions
+24:05 “Just build it”
+26:22 Governance board and policy
+28:59 Governed corporate AI platform
+32:08 Managed AI and data aggregation
+36:24 The five steps
+39:46 Recap
+41:31 Q&A
+Read the full webinar transcript
+
+If you only have ten minutes, start at 17:54. That stretch, through about 26:00, is the part every dealer principal should hear.
+
+Shadow AI at the Dealership: Four Versions We’ve Seen
+
+Shadow AI is any AI tool staff use for work without the store’s approval. At a car or heavy truck dealership that usually means a personal ChatGPT, Claude, or Gemini account, either installed on a store computer or just open in a browser tab, which is why nobody in IT ever sees it go in.
+
+The first is the plainest. A salesperson set up their own AI account on a dealership workstation and started using it for work. “There’s no audit trail, there’s no off switch,” Erik said, and in several cases like it we’ve seen customer data go in. It doesn’t take much. Asking the AI to clean up an email to a customer puts that customer’s personal information into an account the store doesn’t control (we break down the mailbox permissions behind AI email assistants separately), and if the salesperson uploads their customer list to work it over, well, in Erik’s words, “now those belong to them and they can take it with them when they go.”
+
+You’ve met the second one. One personal login, shared across the sales floor.
+
+The third one is quieter and probably more common. Dealers are pulling data out of the DMS and the CRM into spreadsheets, feeds, and Power BI, which is reasonable, and then asking us where they should put the download, because right now it’s sitting on somebody’s PC. From there, big chunks of it get loaded into personal or desktop versions of ChatGPT and Claude to ask questions about it. Your DMS provider and your CRM vendor were vetted to protect that data. The laptop in the used car manager’s office wasn’t. Big difference. “Now the dealer is becoming responsible,” Erik said, and that’s exactly right. Rex Marchant lays out the safer route in our guide to connecting generative AI to your DMS.
+
+Then there’s the fourth, and it’s the one that worries me most, because it looks like progress. An IT person at a dealership asked us for admin rights “to do this AI thing.” When we dug in, they were about to launch an AI tool with network-wide administrative access. Picture what it could answer. What do the executives make? What are the pay plans? With that kind of access, AI can see all of it, and anyone who can type a question can ask. We sat down with them and talked it through before anything went live. During the webinar, an attendee said a version of it had already happened at their store: an executive drafted a resignation letter in AI, and the whole store saw it.
+
+We’ve written separately about public AI and customer PII, which goes deeper on the first version. What all four have in common is that nobody involved was trying to hurt the store.
+
+That’s why it slips by.
+
+Does ChatGPT Train on Your Data? It Depends on the Plan
+
+When a question came in at the end of the webinar about why you’d turn off “train the model,” Erik’s answer was the most practical two minutes of the hour. Training on means the provider may use what your people type to improve the model, and that model answers everybody else’s questions too. His example was a spreadsheet of used car sale prices and costs. He called it an oversimplification, and it is. The point holds, though: you don’t want your cost on a unit feeding answers for someone shopping that VIN.
+
+PLAN	TRAINS ON YOUR CHATS BY DEFAULT?	WHERE TO CHECK
+ChatGPT Free, Plus, and Pro (personal)	Yes, unless the user turns it off	Settings, Data Controls, “Improve the model for everyone”
+ChatGPT Business and Enterprise	No, off by default	OpenAI business data commitments
+Claude Free, Pro, and Max (personal)	The user chooses in Privacy Settings, and chats kept for training are held up to 5 years	Anthropic consumer terms update
+Claude for Work (Team and Enterprise)	No, the consumer training change doesn’t apply	Same Anthropic notice
+Microsoft Copilot with a work account	No, prompts, responses, and Microsoft 365 data aren’t used to train the foundation models	Microsoft Learn
+Gemini (personal Google account)	Yes, activity can be used to improve Google’s services, including training	“Keep Activity” setting, Gemini privacy hub
+Gemini in Google Workspace	No, not without the customer’s permission	Workspace admin console
+
+So Erik’s rule of thumb, that training is on unless somebody turned it off, holds for the personal accounts your people are most likely using, and it mostly doesn’t hold for business plans. That’s the governance argument in one table. The store’s plans protect the store’s data by default, and personal ones leave it to each employee to find the setting. Plans and settings change, so check them again before you sign anything. The table reflects each vendor’s own pages as of October 2026.
+
+Erik’s answer to whether an admin, at least, should be allowed to train the model was no. Nobody at the store should. “You want to use the model,” he said, “but there’s no value to you in helping to train the model.”
+
+Turn it off. Do it for the whole store at once, not one account at a time.
+
+Start With a Governance Board and a Written Policy
+
+Some of our clients already run every AI idea through a small committee before anybody buys anything. Erik’s favorite part is how short their list of questions is. What is it? Do we need it? What’s it going to do? How do we secure it? Once a project clears those questions, it still needs a one-page AI implementation plan before anybody buys seats.
+
+That board should have real authority, so put the dealer principal or a VP on it, along with the general manager, the controller or whoever serves as the Qualified Individual under the Safeguards Rule, and your IT and security lead. Its job is approving tools. Anything not on the approved list doesn’t get used, and that sentence goes into company policy where everyone can see it.
+
+Why a board? Why not just a memo? Because of how AI projects usually start. Somebody at the top says “we need to be doing AI,” hands it to whoever’s closest, and the security questions get waved off. Erik’s description of that person was generous but accurate: “people that want to implement are often lackadaisical or cavalier about security, right? Nobody will notice this. It’s not a big deal. I got to get this thing rolled out.”
+
+The policy can be short. When an attendee asked whether every employee should sign off on an AI usage policy, Erik said “absolutely, 100%” and told them to put it in the employee handbook. He also gave the first rule to write: “no personal use of AI whatsoever in the dealership and no uploading any dealership data into any AI, right? That’s not corporate controlled.” We’ve published a plain-language dealership AI policy template you can fill in department by department, so I won’t repeat it here. If the board wants a baseline before its first meeting, our AI readiness assessment for dealerships checks which AI tools staff already use, what customer data those tools can reach, and whether a written policy exists.
+
+One more thing the board should know going in. The FTC Safeguards Rule already asks a dealership to adopt secure development practices for in-house applications that handle customer information, and to test the security of outside ones, under 16 CFR 314.4(c)(4). The FTC’s technology office has also told AI companies that it will hold them to their promises about customer data, including promises not to train on it, which tells you that setting is worth reading before anybody signs. An AI project is software, so it goes through the same continuous compliance program as everything else. The wider legal picture, from chatbot promises to AI calls and texts, is in our post on AI legal risks for dealerships.
+
+If it’s not approved, it’s not used. Write that sentence down first.
+
+Give People a Governed Platform, or They’ll Pick Their Own
+
+Banning has a catch. “You can’t just say nobody’s allowed to use AI,” Erik said. “You want them to use AI, but then you need to restrict how it’s used.” AI is too useful to keep people away from, so if the store doesn’t hand them something, they’ll go find it themselves.
+
+What you hand them is a governed corporate AI platform. Microsoft Copilot is one. ChatGPT and Claude both sell business and enterprise plans, and there are others. Which one matters less than how it’s set up, and a well-run one gives the store a few things a personal account never will.
+
+Sign-in runs through your existing Microsoft 365 or Google accounts with single sign-on, so multi-factor authentication carries over, and adding someone to a group hands them a license.
+When someone leaves, you turn off one account and the AI access goes with it. Their chat history stays with the store.
+Training on your data gets switched off once, for the whole organization.
+Connections to approved apps, like the CRM, are set centrally, with control over who can reach what.
+Shared projects let a team keep its prompts and files in one place instead of in twelve personal accounts.
+Usage can be audited. Who’s using it, how much, and for what.
+
+Then comes the objection I’d make if I were the controller. “So now I have to pay for everybody’s AI?” Not everybody’s. The governance board decides who actually needs it, and if they’re using it for the store’s business, the store pays for it, the same as their DMS login. I’d put the business office near the top of that list. Erik’s view is that every accounting person should have AI connected to Excel, and he called the productivity gain there “massive.”
+
+And yes, you can block personal AI on store computers, depending on what tools you have in place. It’s worth doing. But it only goes so far, and Erik compared it to blocking Facebook years ago: people just sat on the sales floor and used their phones. The policy has to be there either way, which is why we cover blocking as part of managed cybersecurity rather than as the whole answer.
+
+Blocking buys you time. A sanctioned tool is what ends the workaround.
+
+Decide Where Your Data Lives Before AI Touches It
+
+Somebody at one of our clients once asked us to set up a computer in an office closet so they could build an AI tool in-house and run it there. Erik’s reaction on the webinar was the right one. “That’s very 2008, right? We’re going way backwards.” He’s not wrong.
+
+The better pattern takes a little more thought up front. A lot of dealers want AI to answer questions across all their data, from sales and service to the CRM, and getting everything into one place has never been easy in this business. Data aggregation tools pull those sources together so the data can be validated and stored securely. For clients who use them, we keep that data in a private cloud repository the outside world can’t reach, and the AI gets read-only access to it. It can read the data. It can’t change it, export it, or keep a copy.
+
+Compare that to the spreadsheets sitting on PCs from the third version of shadow AI above. Same data, very different exposure. And remember that collecting data in one place makes that place a richer target, which is the whole reason the controls matter. Erik summed up the risk in one line: “Aggregating data concentrates risk into a more rich target.”
+
+Read-only, validated, and somewhere you control. That’s the bar.
+
+Build in Small Steps, Not One Big Leap
+
+There’s a loud crowd on LinkedIn telling dealers to fire their vendors and build their own software with AI. Erik pushed back on that in public and got flamed for it, and he made a fair point about his own position: he doesn’t write software and has no stake either way. He’s just watched dealers try custom applications for years. That counts for something.
+
+His path has five steps, starting after the store has a governed corporate platform with single sign-on and training switched off.
+
+STEP	WHAT IT LOOKS LIKE AT A DEALERSHIP
+1. Saved prompts and shared projects	A team builds proposals and pricing in one shared project everyone can update
+2. Automated workflows	No-code routing that moves information from one place to the next
+3. AI agents	An agent watches BDC calls and notes for missed and dropped calls, or follows a used car through recon across three departments and flags where it’s stuck
+4. Dashboards	Consolidated data from the aggregation layer, in one view
+5. Custom applications	Software the store builds itself, which most dealers probably don’t need
+
+“We’re seeing a lot of dealers skipping over steps one through four right to step five,” Erik said, “and there’s going to be consequences around that.” The security side of step five has its own post, on vibe coding security risks at dealerships.
+
+For a first project, Erik flips the usual question around. Don’t ask “we want AI, what should we do with it?” Ask where your people waste time checking three systems to find the status of one thing. Recon is a good example. So is BDC quality control, and we listed the questions to settle before an AI BDC for car dealerships works your leads. We’re building one ourselves right now, an agent that reads our own support tickets for unhappy customers so somebody can reach out and turn things around quickly.
+
+Step five can wait. For most stores, it can wait for good. If you’re weighing step three, Erik laid out three first projects for AI agents at car dealerships and who should control them.
+
+What Dealers Asked During the Webinar
+Can we just block ChatGPT and Claude on store computers?
+Does every employee really need to sign an AI policy?
+Somebody already pasted customer data into a personal account. Can we get it back?
+Is Microsoft Copilot the only AI we can actually control?
+Shouldn’t at least an admin be allowed to train the model?
+Somebody at the Store Has to Decide How
+
+Erik opened his recap on the webinar with this: “You’re already using AI. Who? Who’s deciding how?” At a lot of dealerships the honest answer to the last one is the salesperson with the best personal account.
+
+Whenever something isn’t going the way I want, I ask myself one thing: “What am I not doing?” For AI, the answer at most stores is the deciding: a board, a policy, a platform the store owns, and a clear idea of where the data lives. None of it is expensive. And the timing is on your side, because personal AI is out there. It just isn’t everywhere yet. As Erik put it, “Now’s the time to really clamp down on this and have your own solution.”
+
+If you want to know where you stand first (who has admin rights, what’s connected to what, and where AI is already in use), that’s part of our complimentary IT and cybersecurity assessment, and our AI readiness assessment page lists everything it reviews. It’s a good place to start the board’s first meeting. Decide how your store uses AI before the sales floor decides for you.
+
+ABOUT THE AUTHOR
+
+Scot McConnor
+
+VP of Technology Advisory, Helion Technologies
+
+Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.
+
+Scot McConnor on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What AI Governance for Dealerships Covers
+Watch: AI Governance for Dealerships, the DealersEdge Webinar
+Shadow AI at the Dealership: Four Versions We’ve Seen
+Does ChatGPT Train on Your Data? It Depends on the Plan
+Start With a Governance Board and a Written Policy
+Give People a Governed Platform, or They’ll Pick Their Own
+Decide Where Your Data Lives Before AI Touches It
+Build in Small Steps, Not One Big Leap
+What Dealers Asked During the Webinar
+Somebody at the Store Has to Decide How
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/"},"author":{"name":"Scot McConnor","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101"},"headline":"AI Governance for Dealerships: Shadow AI, Data Exposure and What to Do Next","datePublished":"2026-10-14T15:36:17+00:00","dateModified":"2026-10-14T15:36:18+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/"},"wordCount":13998,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-governance-for-dealerships-shadow-ai-data-exposure.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/","url":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/","name":"AI Governance for Dealerships: Shadow AI and Data Risk","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-governance-for-dealerships-shadow-ai-data-exposure.webp","datePublished":"2026-10-14T15:36:17+00:00","dateModified":"2026-10-14T15:36:18+00:00","description":"AI governance for dealerships, explained: where shadow AI exposes customer data, and how a board, a written policy, and a governed AI platform put it in check.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-governance-for-dealerships-shadow-ai-data-exposure.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-governance-for-dealerships-shadow-ai-data-exposure.webp","width":1200,"height":500,"caption":"AI governance starts with a decision at the table, before any tool goes in."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ai-governance-for-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI Governance for Dealerships: Shadow AI, Data Exposure and What to Do Next"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101","name":"Scot McConnor","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","caption":"Scot McConnor"},"description":"Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.","sameAs":["https:\/\/www.linkedin.com\/in\/scot-mcconnor-a58b043\/"],"url":"https:\/\/heliontechnologies.com\/author\/scot-mcconnor\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"VP of Technology Advisory"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ai-governance-for-dealerships/#article","headline":"AI Governance for Dealerships: Shadow AI, Data Exposure and What to Do Next","description":"AI governance for dealerships, explained: where shadow AI exposes customer data, and how a board, a written policy, and a governed AI platform put it in check.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ai-governance-for-dealerships-shadow-ai-data-exposure.webp","datePublished":"2026-10-14T11:36:17-04:00","dateModified":"2026-10-14T11:36:18-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/17d54fad11c197dca04f1cb8d7157101"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ai-governance-for-dealerships/"},"articleSection":"Managed AI","inLanguage":"en-US","video":{"@id":"https://heliontechnologies.com/ai-governance-for-dealerships/#video--37QsZDznro"},"about":[{"@type":"Thing","name":"AI governance for dealerships"},{"@type":"Thing","name":"Shadow AI"},{"@type":"Thing","name":"Dealership customer data exposure"}],"mentions":[{"@type":"Person","name":"Erik Nachbahr","@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"},{"@type":"Organization","name":"DealersEdge"},{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"},{"@type":"Organization","name":"Stanford Institute for Human-Centered Artificial Intelligence","url":"https://hai.stanford.edu/"},{"@type":"GovernmentOrganization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"Legislation","name":"FTC Safeguards Rule, 16 CFR 314.4(c)(4)","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314/section-314.4"},{"@type":"CreativeWork","name":"ChatGPT"},{"@type":"CreativeWork","name":"Claude"},{"@type":"CreativeWork","name":"Microsoft Copilot"},{"@type":"CreativeWork","name":"Gemini"}],"keywords":"ai governance for dealerships, shadow ai, ai governance policy, ai in car dealerships, dealership ai policy, does chatgpt train on your data, governed ai platform, ftc safeguards rule ai"}
+{"@context":"https://schema.org","@type":"VideoObject","@id":"https://heliontechnologies.com/ai-governance-for-dealerships/#video--37QsZDznro","name":"AI Governance for Dealerships: Shadow AI, Data Exposure, and What to Do Next","description":"DealersEdge webinar: Helion Technologies founder Erik Nachbahr on shadow AI, dealership data exposure, AI governance boards, and governed AI platforms for car and heavy truck dealers.","thumbnailUrl":["https://i.ytimg.com/vi/-37QsZDznro/maxresdefault.jpg","https://i.ytimg.com/vi/-37QsZDznro/hqdefault.jpg"],"uploadDate":"2026-10-12T11:54:49-07:00","duration":"PT55M41S","contentUrl":"https://www.youtube.com/watch?v=-37QsZDznro","embedUrl":"https://www.youtube.com/embed/-37QsZDznro","url":"https://www.youtube.com/watch?v=-37QsZDznro","inLanguage":"en-US","isFamilyFriendly":true,"publisher":{"@id":"https://heliontechnologies.com/#organization"},"actor":{"@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"},"transcript":"DealersEdge host [0:10] Hello everyone, [...] I want to welcome you to this management topic update on artificial intelligence in dealerships, where dealers are getting it wrong and how to get it right. With us today is our good friend Erik Nachbahr, president and founder of Helion Technologies and a certified information systems security professional. Erik brings extensive experience helping dealerships manage their technology and protecting their businesses from cyber security threats. Today, Erik will examine how dealerships are using AI and some of the risks that can come with it, including employees using personal AI accounts, exposing sensitive customer information and building applications without adequate security. DealersEdge host [0:55] He'll also discuss how to establish clear policies, control access to dealership data and take manageable steps towards putting AI to work and putting AI to work safely and effectively. Erik is well versed on this topic, but he can't know everything on your mind. So as you think of them, please enter your questions, comments and concerns into the chat feature on the right and we'll stop periodically to address them. Erik, welcome back to DealersEdge and the stage is yours. Erik Nachbahr [1:25] Thanks. Great to be here. Welcome, everybody. So I've got about 10 hours of content to squeeze into 40 minutes. So I'm going to talk fast and you're going to need to think fast. This stuff is probably, you know, when I think about AI, I've been doing IT for 30 years and this is probably one of the coolest things that's happened in the computer world, you know, kind of ever. It's almost sci-fi, actually, as far as I'm concerned. So when we talk about the risks, I don't want you to think for a second that I don't love AI, OK? Not a slide in this deck wasn't touched by AI. Every visual right is created by AI. You know, it's it's the I use it every day, all day for for everything in my life. Erik Nachbahr [2:14] I'm already at the point where I can't imagine not having it. So that said, you know, we there's a lot you need to be thinking about in the dealership world. And it's not being thought about. In fact, I posted something on LinkedIn a week or two ago. And, you know, somebody who turns out sells AI, you know, kind of freaked out on me and said, oh, you're this is twenty twenty two talk, which I thought was also funny. Right. Like, ah, you're talking way back in twenty twenty two. But if we look at AI, you know, you see a lot in the news right now. And I just was listening to a report today that was talking about the dangers of AI. It was actually a report on the pope talking about the dangers of AI of all things. And, you know, at a kind of high level, right, the human race, there are definitely risks, but those are harder to kind of wrap your head around. Erik Nachbahr [3:10] But there are a lot of, you know, maybe existential threats to humanity as far as AI goes. But it really revolves around, I think, for us today. And what we want to address is this notion of capability outrunning our control of that capability. And how do you get the capabilities of AI and harness them for your business while keeping them under control? So if you think about who's using AI today, right, we're all using it personally. If you're not come out from under your rock, it's it's OK. You want to use AI. It's the greatest thing ever. We're using it at work. There's really not even if you think, oh, I'm not using it yet. I want to be using it. Well, you are using it. Right. Because there's all these different ways that AI is getting leverage. So we're all using AI in some form or another and some of us more actively and some of us less actively. Erik Nachbahr [4:00] So we've come a long way from this. If you all remember, there was kind of this alarm of like disruptor in the automotive industry where somebody had a website chat bot that did a car deal for a dollar. And that was like, oh, what's going to happen with AI? I mean, that's almost quaint now. Right. I mean, we're seeing so many different things with AI and now consumer level AI shopping for cars. And it's really, really fascinating. But we've come a long way just in a few short years with with the depth at which AI is getting leveraged. And if you look at AI around the globe, it's massively, massively adopted. Fifty three percent global adoption of generative AI. We're going to talk about what that means in a second here. Eighty eight percent of companies are using AI. Erik Nachbahr [4:48] These stats always are interesting to me. And these and these are from McKinsey, but it's probably one hundred percent. Eighty percent of users report productivity gains with AI. Again, I go back to who were the 20 percent of users that don't feel productivity gains from AI. It's probably closer to 100 percent. And then this is the one that blows my mind. Corporate AI investment this year, over half a trillion dollars globally. So this is here to stay. It's taking over the world and it's and it's really a matter of how do we leverage it in the dealership? Well, what do we see in automotive? A few stats on that. Sixty three percent of dealers prefer AI built into existing tools. So that's an interesting one. And we're going to dig into that a little bit more. Erik Nachbahr [5:34] Fifty two percent of dealers say they're trailing their peers on AI. Not surprising, right. What are other people doing? Am I behind, you know, I seeing that and talking to our clients. Sixty nine percent of dealers expect AI to grow revenue. I there's signals that there are ways that AI will help grow revenue. Certainly, there's going to be signals, I think, and things I'm seeing where AI as it's facing our industry. Right. Not not how we're using it in automotive. But I think we're going to see consumers leveraging AI maybe to erode some of those margins. But I think overall, it's going to it's going to grow revenue. Here's an interesting one. Forty forty plus exhibitors at NADA are AI branded. Erik Nachbahr [6:22] They're saying we're an AI product that's up four hundred percent over last year. So there is absolutely a massive growth. And if you look at how dealers are adopting AI today, we are seeing them everywhere. Now, not every dealer has every one of these, but we're seeing them absolutely being used in BDC operations. I'll give you an example of that in a little bit. Telephone auto attendance. Very useful way to deploy AI. Website chat bots are, you know, that's the main one that we're seeing. Application integration. So a lot of applications either on the back end or front end have AI deployed. Custom software. We're going to talk a little bit about that. And there's some positives there, but we're seeing a heavy push by dealers and at dealers for custom software. Erik Nachbahr [7:12] And then end user AI tools. Right. If you're using ChatGPT or Claude or, you know, Gemini or whatever tool you're using, typing stuff in. So as we talk about AI risk areas and I'm not just going to talk about risks and say, I'm going to give you some things that you can walk away with to deal with. Let's just get a couple different definitions in place so you understand what these different pieces are doing. So there are four main kinds of AI that do different things that we interact with. The first one is predictive AI. And predictive AI is typically used in applications to go out, search, look at things and then generate forecasts. Erik Nachbahr [7:59] So predictive AI is really trying to give us what's happening based on a model and based on statistical information. Generative AI is, for example, in ChatGPT generating images. You see all these videos probably across your TikTok or YouTube feed of crazy stuff. Right. And people, you know, voiceovers and everything else. That stuff is getting done with generative AI. So where you're creating videos, you're creating images. You've got conversational AI. So I was in a hotel not that long ago where I called the reception and it actually was answered by AI. And said, what do you want? I want room service. And it connected me to room service. So that's a conversational AI, chat bots or conversational AI. And then you've got agentic AI. Erik Nachbahr [8:47] So though agentic AI is taking multi-steps. So an example of agentic AI would be, and we had a customer looking at this, where they wanted AI to go in and to regularly assess telephone calls and emails inbound to the BDC and look for drop calls, missed calls, overhandled calls and customer sentiment. And then bring those back and report on them. So that would be agentic AI, where you've got an AI basically following a process and doing a workflow and going out and doing things on its own schedule or schedule you set. Those are the four main kinds of AI just for purposes of definition. Erik Nachbahr [9:38] Now, something that you have to understand about AI is what happens with conversations that you have with AI, broadly speaking. So the first thing AI does is it ingests whatever you're interfacing with, whether it's you're prompting it by typing something in or you're uploading a document or a graphic, or one of the things I like to do is I say, hey, I'm working on this, look at this, and I'll point it to a webpage, right? Hey, I want to give some sort of input on a product, point it to a webpage. It ingests all of that information. The next thing it does with that is it retains that information. And that's something that people worry about and should worry about. And we'll talk more about that, but it retains that information. Erik Nachbahr [10:24] So conversations are stored, they're often stored longer than you think they would be. Then it reuses that information. So it reuses that information for you. But it also, and you might have heard the term training the model, AI needs to go out and get data. And the more data it gets, the better it gets at doing whatever that thing is, we're asking it to do, or it's getting directed to do. That's how it trains itself. Well, when you give it data, unless specified otherwise, it's ingesting that data and training the model. So a wild example of that is there was a software developer at, I believe it was [a large hardware maker], that was working on their driver, the software that ru
+…[truncated]
+

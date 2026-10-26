@@ -1,0 +1,80 @@
+URL: https://www.tenex.co/events
+Fetched: 2026-10-26T03:33:53Z
+HTTP status: 200
+Final URL: https://www.tenex.co/events
+Content-Type: text/html
+Via: chrome-headless
+Title: Events | Tenex
+Meta description: Live workshops, build sessions, and webinars from the Tenex team — plus recordings of past sessions.
+Canonical: https://www.tenex.co/events
+Robots: 
+H1: Events
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Events
+
+Live workshops, build sessions, and webinars with the team embedded in client repos — plus recordings of every past session.
+
+RECORDINGS
+HUMAN IN THE LOOP
+Show, Don't Tell: AI Assisted Prototyping for PMs + Designers (w/ Bolt COO, Alex Berger)
+
+December 17, 2025 • 4:00 PM - 5:00 PM EST • Riverside (Virtual)
+
+Show, Don't Tell: AI Assisted Prototyping for PMs + Designers (w/ Bolt COO, Alex Berger): a live Human in the Loop session hosted by Tenex on December 17, 2025.
+
+Watch Recording
+HUMAN IN THE LOOP
+10x your eng org’s productivity with Jellyfish.co
+
+December 10, 2025 • 4:00 PM - 5:00 PM EST • Riverside (Virtual)
+
+10x your eng org’s productivity with Jellyfish.co: a live Human in the Loop session hosted by Tenex on December 10, 2025.
+
+Watch Recording
+HUMAN IN THE LOOP
+How to build an AI receptionist that never sleeps (w/ Ruchir Baronia of Frontdesk)
+
+December 3, 2025 • 4:00 PM - 5:00 PM EST • Riverside (Virtual)
+
+How to build an AI receptionist that never sleeps (w/ Ruchir Baronia of Frontdesk): a live Human in the Loop session hosted by Tenex on December 3, 2025.
+
+Watch Recording
+HUMAN IN THE LOOP
+Your 2026 AI Strategy: Build a Plan That Actually Works
+
+December 2, 2025 • 4:00 PM - 5:00 PM EST • Riverside (Virtual)
+
+Your 2026 AI Strategy: Build a Plan That Actually Works: a live Human in the Loop session hosted by Tenex on December 2, 2025.
+
+Watch Recording
+HUMAN IN THE LOOP
+Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick)
+
+November 25, 2025 • 2:00 PM - 3:00 PM EST • Riverside (Virtual)
+
+Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick): a live Human in the Loop session hosted by Tenex on November 25, 2025.
+
+Watch Recording
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"CollectionPage","name":"Events","description":"Live workshops, build sessions, and webinars from the Tenex team — plus recordings of past sessions.","url":"https://www.tenex.co/events","isPartOf":{"@id":"https://www.tenex.co/#website"},"mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"10x your eng org’s productivity with Jellyfish.co","url":"https://www.tenex.co/events/10x-your-eng-orgs-productivity-with-jellyfish-co"},{"@type":"ListItem","position":2,"name":"How to build an AI receptionist that never sleeps (w/ Ruchir Baronia of Frontdesk)","url":"https://www.tenex.co/events/how-to-build-an-ai-receptionist-that-never-sleeps-w-ruchir-baronia-of-frontdesk"},{"@type":"ListItem","position":3,"name":"Show, Don't Tell: AI Assisted Prototyping for PMs + Designers (w/ Bolt COO, Alex Berger)","url":"https://www.tenex.co/events/show-dont-tell-ai-assisted-prototyping-for-pms-designers-w-bolt-coo-alex-berger"},{"@type":"ListItem","position":4,"name":"Tenex Testing Gemini 3: Live building with Google DeepMind's new AI tools (w/ DeepMind Product Lead, Logan Kilpatrick)","url":"https://www.tenex.co/events/tenex-testing-gemini-3-live-building-with-google-deepminds-new-ai-tools-w-deepmind-product-lead-logan-kilpatrick"},{"@type":"ListItem","position":5,"name":"Your 2026 AI Strategy: Build a Plan That Actually Works","url":"https://www.tenex.co/events/your-2026-ai-strategy-build-a-plan-that-actually-works"}]}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://www.tenex.co/events"}]}]
+

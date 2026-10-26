@@ -1,0 +1,256 @@
+SOURCE: DOM text of Webflow tab panes on https://consultingdjv.com/ai-readiness
+Method: headless Chrome, script and style nodes removed, textContent of each .w-tab-pane.
+Inactive panes are display:none, so the crawler's body innerText omitted them. No score was selected. No form was submitted. No PDF was opened.
+
+===== PANE w-tabs-0-data-w-pane-0 (1122 chars) =====
+DJV Consulting · AI Readiness
+          Is the company ready to invest in AI — or will you pay the learning curve twice?
+          Find out in 10 minutes whether the company is ready for AI. Twelve questions. Four pillars. A gap map before you sign the next pilot.
+          
+            12questions · 0 to 10
+            4maturity pillars
+            120maximum score
+          
+          Start assessment
+        
+      
+
+      
+        
+          
+          
+          
+          
+            
+            5
+          
+          012345678910
+          
+            0–3No foundation
+            4–6Partially in place
+            7–10Solid and reliable
+          
+          
+            Back
+            
+          
+        
+      
+
+      
+        Your results
+        
+        
+        
+          
+            Overall score
+            0/120
+            
+          
+          
+        
+        
+        
+        
+          Download / print report
+          Restart
+        
+      
+    
+  
+
+  
+Review your score with usA 30-minute walkthrough of your score and the one constraint blocking cash or AI impact.Your Free Call
+
+===== PANE w-tabs-0-data-w-pane-1 (1126 chars) =====
+DJV Consulting · Human in the Loop
+          Can AI touch cash without creating liability?
+          Twenty-four questions. Six loops. The weakest loop sets the ceiling: if nobody approves before money moves, you do not have control — you have theater.
+          
+            24questions · 0 to 10
+            6HITL dimensions
+            240maximum score
+          
+          Start assessment
+        
+      
+      
+        
+          
+          
+          
+          
+            
+            5
+          
+          012345678910
+          
+            0–3Absent or theater
+            4–6Informal, person-dependent
+            7–10Written, owned, evidenced
+          
+          
+            Back
+            
+          
+        
+      
+      
+        Your results
+        
+        
+        
+          
+            Overall score
+            0/240
+            
+          
+          
+        
+        
+        
+        
+          Download / print report
+          Restart
+        
+      
+    
+  
+
+  
+Review your score with usA 30-minute walkthrough of your score and the one constraint blocking cash or AI impact.Your Free Call
+
+===== PANE w-tabs-0-data-w-pane-2 (1087 chars) =====
+DJV Consulting · Tokenomics & ROI
+          Are tokens a bill — or a cash return?
+          Twenty-four questions. Six loops. Tokens are the bill. Value is cost per successful outcome and cash in the bank.
+          
+            24questions · 0 to 10
+            6tokenomics dimensions
+            240maximum score
+          
+          Start assessment
+        
+      
+      
+        
+          
+          
+          
+          
+            
+            5
+          
+          012345678910
+          
+            0–3Blind or theater
+            4–6Partial, no cadence
+            7–10Visible, measured, with a kill rule
+          
+          
+            Back
+            
+          
+        
+      
+      
+        Your results
+        
+        
+        
+          
+            Overall score
+            0/240
+            
+          
+          
+        
+        
+        
+        
+          Download / print report
+          Restart
+        
+      
+    
+  
+
+  
+Review your score with usA 30-minute walkthrough of your score and the one constraint blocking cash or AI impact.Your Free Call
+
+===== PANE w-tabs-0-data-w-pane-3 (1194 chars) =====
+DJV Consulting · Bridging Generations
+          Can the family cross the AI and succession bridge — or does the knowledge leave with the founder?
+          Twenty-four questions. Six loops. AI and succession reinforce each other or block each other. The Architecture Gap closes with bridges, not scattered pilots.
+          
+            24questions · 0 to 10
+            6continuity dimensions
+            240maximum score
+          
+          Start assessment
+        
+      
+      
+        
+          
+          
+          
+          
+            
+            5
+          
+          012345678910
+          
+            0–3Absent or resisted
+            4–6Informal, person-dependent
+            7–10Written, owned, evidenced
+          
+          
+            Back
+            
+          
+        
+      
+      
+        Your results
+        
+        
+        
+          
+            Overall score
+            0/240
+            
+          
+          
+        
+        
+        
+        
+          Download / print report
+          Restart
+        
+      
+    
+  
+
+  
+Review your score with usA 30-minute walkthrough of your score and the one constraint blocking cash or AI impact.Your Free Call
+
+===== LINKS (unique) =====
+DJV Consulting	https://consultingdjv.com/
+English	https://consultingdjv.com/ai-readiness
+Spanish	https://consultingdjv.com/es/ai-readiness
+AI Readiness	https://consultingdjv.com/ai-readiness#w-tabs-0-data-w-pane-0
+Human in the Loop	https://consultingdjv.com/ai-readiness#w-tabs-0-data-w-pane-1
+ROI-Cash	https://consultingdjv.com/ai-readiness#w-tabs-0-data-w-pane-2
+Family Business	https://consultingdjv.com/ai-readiness#w-tabs-0-data-w-pane-3
+Your Free Call	https://calendly.com/dinojosevidili
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a2c1977789b9d7485c2598d_AI_Readiness_Assessment.pdf
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a29ef74bf5d6c6c04bdc_AI-Quick-Tricks-30-Days.pdf
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a2c1981789b9d7485c2657f_AI%20Readiness%20Assessment.avif
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a7e22175cfb81a92397830d_Best%20Financial%20%26%20Intelligence%20Tools%20for%20Startups%20(2026).pdf
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a7e22ec32584560915ccca3_ai-board-operating-system.pdf
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a5e54c0e620d8ebbf94e115_Best_Models_for_BDG_and_FCST.pdf
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a2ad8e3fe7786d68308f_DJV%20Consulting%20SME_SupplyChain_AI_Brochure.pdf
+	https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a5e53cb0c477efa04a2a046_AI%20Models%20for%20Finance%20%26%20Operations%20%E2%80%94%20Comparison%20Brief.pdf
+	https://www.linkedin.com/in/dino-jose-vidili/

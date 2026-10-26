@@ -1,0 +1,124 @@
+URL: https://www.tenex.co/playbooks
+Fetched: 2026-10-26T03:33:51Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks
+Content-Type: text/html
+Via: chrome-headless
+Title: Playbooks | Tenex
+Meta description: Step-by-step playbooks from real client work. Pick one, follow the instructions, and ship the result in your own stack.
+Canonical: https://www.tenex.co/playbooks
+Robots: 
+H1: Playbooks
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Playbooks
+
+A curated library of AI-driven tools, guides, and templates for scaling your work. Built from real experiments by leading experts and ready to deploy inside your stack. Each playbook is a step-by-step guide built from real client work. Pick one, follow the instructions, and ship the result in your own stack—no consulting required.
+
+The Gauntlet Loop: Pushing Agents Past "Good Enough"
+
+How to keep an agent working until its output holds up against a real reference, not just until it looks good enough.
+
+View Playbook
+Your First Team of Grok Bots: From Easy Mode to God Mode
+
+How to go from asking one bot a question to a team of bots that work on their own.
+
+View Playbook
+Your First App Without Coding: From Plan to Build
+
+How to go from "can you just build this?" to a live app your team logs into, without writing the code yourself.
+
+View Playbook
+Stay Slop-Free: Say Yes to These 8 Questions
+
+Eight yes-or-no questions, four on process and four on the artifact, to ask before your writing reaches its audience.
+
+View Playbook
+Your Claude Is Only as Good as Your File System: The 30-Minute Setup
+
+JJ Englert has run 50 Claude trainings for Anthropic, and almost everyone gets the same thing wrong: their files. Here is the layered setup that makes every new chat pick up where the last one left off, plus two free skills to build or audit yours.
+
+View Playbook
+Due Diligence: Your First Agent Eval
+
+Evals show that your agent can do what you've taught it, so you're not waiting for a real-world mistake to find out.
+
+View Playbook
+Sovereign AI: How to Build a Local AI Lab That Never Stops Working
+
+Why Alex Finn runs his own models at home instead of renting frontier intelligence, and how to find the always-on work that would bankrupt you on per-token billing.
+
+View Playbook
+Your Google Traffic Has an Expiration Date. Here's What Replaces It.
+
+How to show up in ChatGPT, Perplexity, and Gemini—before your competitors do. HubSpot's CMO breaks down the AEO strategy that grew their AI search traffic 15x in one year.
+
+View Playbook
+How to Test Your AI Before It Embarrasses You: 5-Stage Framework for Evaluating Agents + LLMs
+
+How Gauntlet's CTO built a 5-stage AI evaluation framework that turns vibe-coded demos into enterprise-grade systems—and open-sourced the whole thing.
+
+View Playbook
+Build an AI Agent That Replaces 90% of Your Sales Team
+
+How Vercel's GTM Engineering Director built a weekend project that saved $2M and turned a 20-person SDR team into 2.
+
+View Playbook
+Claude Code 101: How to Build a Competitive Intelligence Brief Using Subagents
+
+This step-by-step guide teaches non-technical leaders how to install Claude Code, run parallel AI agents, connect to Notion, and build a competitive intelligence brief in 20 minutes.
+
+View Playbook
+How to Monitor Customer Health as You Scale: 3 AI Agents That Set You Up for Success
+
+An AI-powered system for service businesses that want early warning signals—not surprises. Built using the data you already have, Zapier, and Claude.
+
+View Playbook
+Show, Then Tell: How High-Fidelity Prototypes Collapse Product Alignment
+
+A practical guide to replacing PRDs with working prototypes using AI tools like Bolt and Lovable.
+
+View Playbook
+The Definitive Field Guide to Vibe Coding Using Gemini 3
+
+Build prototypes the way Google does: talk ideas into working apps and use them to earn buy-in—using Google AI Studio.
+
+View Playbook
+How to Build + Execute an AI Strategy That Doesn’t Suck in 6 Steps
+
+Have to figure out your AI strategy by… yesterday? This is the exact playbook Tenex uses to create and execute AI roadmaps for high-growth startups and enterprises valued at $50 billion and beyond.
+
+View Playbook
+The 5-Step Guide For Creating Hollywood-Caliber Ads Using AI
+
+PJ Ace's playbook for creating cinematic, studio-grade commercials with AI tools and tight writing.
+
+View Playbook
+Build Decks At The Speed Of Thought with AI
+
+Turn messy notes into Fortune‑50‑ready decks using the PowerPoint killer, Gamma, and the help of your daily-driver LLM—compressing dozens of hours of work into 30 minutes.
+
+View Playbook
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"CollectionPage","name":"Playbooks","description":"Each playbook is a step-by-step guide built from real client work. Pick one, follow the instructions, and ship the result in your own stack—no consulting required.","url":"https://www.tenex.co/playbooks","isPartOf":{"@id":"https://www.tenex.co/#website"},"mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"The Gauntlet Loop: Pushing Agents Past \"Good Enough\"","url":"https://www.tenex.co/playbooks/gauntlet-loop"},{"@type":"ListItem","position":2,"name":"Your First Team of Grok Bots: From Easy Mode to God Mode","url":"https://www.tenex.co/playbooks/your-first-team-of-grok-bots"},{"@type":"ListItem","position":3,"name":"Your First App Without Coding: From Plan to Build","url":"https://www.tenex.co/playbooks/your-first-app-without-coding"},{"@type":"ListItem","position":4,"name":"Stay Slop-Free: Say Yes to These 8 Questions","url":"https://www.tenex.co/playbooks/stay-slop-free-say-yes-to-these-8-questions"},{"@type":"ListItem","position":5,"name":"Your Claude Is Only as Good as Your File System: The 30-Minute Setup","url":"https://www.tenex.co/playbooks/set-up-claude-file-system-claude-md-workspace"},{"@type":"ListItem","position":6,"name":"Due Diligence: Your First Agent Eval","url":"https://www.tenex.co/playbooks/due-diligence-your-first-agent-eval"},{"@type":"ListItem","position":7,"name":"Sovereign AI: How to Build a Local AI Lab That Never Stops Working","url":"https://www.tenex.co/playbooks/sovereign-ai-build-a-local-ai-lab-that-never-stops-working"},{"@type":"ListItem","position":8,"name":"Your Google Traffic Has an Expiration Date. Here's What Replaces It.","url":"https://www.tenex.co/playbooks/answer-engine-optimization-aeo-complete-guide"},{"@type":"ListItem","position":9,"name":"How to Test Your AI Before It Embarrasses You: 5-Stage Framework for Evaluating Agents + LLMs","url":"https://www.tenex.co/playbooks/how-to-test-your-ai-5-stage-framework-for-evaluating-agents-llms"},{"@type":"ListItem","position":10,"name":"Build an AI Agent That Replaces 90% of Your Sales Team","url":"https://www.tenex.co/playbooks/build-an-ai-agent-that-replaces-90-of-your-sales-team"},{"@type":"ListItem","position":11,"name":"Claude Code 101: How to Build a Competitive Intelligence Brief Using Subagents","url":"https://www.tenex.co/playbooks/how-to-use-claude-code-101"},{"@type":"ListItem","position":12,"name":"How to Monitor Customer Health as You Scale: 3 AI Agents That Set You Up for Success","url":"https://www.tenex.co/playbooks/monitor-customer-health-3-ai-agents"},{"@type":"ListItem","position":13,"name":"Show, Then Tell: How High-Fidelity Prototypes Collapse Product Alignment","url":"https://www.tenex.co/playbooks/show-then-tell-how-high-fidelity-prototypes-collapse-product-alignment"},{"@type":"ListItem","position":14,"name":"The Definitive Field Guide to Vibe Coding Using Gemini 3","url":"https://www.tenex.co/playbooks/guide-to-vibe-coding-using-gemini-3"},{"@type":"ListItem","position":15,"name":"How to Build + Execute an AI Strategy That Doesn’t Suck in 6 Steps","url":"https://www.tenex.co/playbooks/build-an-ai-strategy-that-works"},{"@type":"ListItem","position":16,"name":"The 5-Step Guide For Creating Hollywood-Caliber Ads Using AI","url":"https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai"},{"@type":"ListItem","position":17,"name":"Build Decks At The Speed Of Thought with AI","url":"https://www.tenex.co/playbooks/build-ai-presentations-fast"}]}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Playbooks","item":"https://www.tenex.co/playbooks"}]}]
+

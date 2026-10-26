@@ -1,0 +1,190 @@
+URL: https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a29ef74bf5d6c6c04bdc_AI-Quick-Tricks-30-Days.pdf
+Fetched: 2026-10-26
+Via: GET pdf, pypdf extract_text (not the HTML crawler). Read-only. Not a form.
+Title: ai-quick-tricks-30-days.pdf
+Note: Free-kit PDF linked from https://consultingdjv.com/ai-readiness. Text extract, not a redesign of the layout.
+
+SMB OPERATIONS · 2026 EDITION
+10 AI tricks.
+30 days.
+Real cash.
+Quick wins your business 
+can ship this month.
+Ten AI plays in Finance, Operations and Supply Chain that you can stand up with off-the-shelf tools, no engineers, and
+zero new headcount. Every play is designed to pay for itself before the next billing cycle closes.
+3 areas. 10 plays. 
+< 30 days.
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 01 · FINANCE
+Auto-collect overdue invoices.
+THE PLAY
+Have an AI assistant draft personalized payment-reminder emails by aging bucket and send via your inbox.
+$
+HOW TO SHIP
+Export AR aging weekly. Use an AI writer to generate friendly / firm / final-notice variants. Schedule sends.
+CASH IMPACT
+Pulling DSO down by 5-10 days on a USD 200k AR book frees ~USD 30k of working capital in 30 days.
+$
+QUICK-WIN TAKEAWAY
+If you sell on credit, this is the single fastest cash unlock in the brief.
+DJV CONSULTING · AI QUICK TRICKS · 1/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 02 · FINANCE
+Hunt down silent SaaS leaks.
+THE PLAY
+Feed the last 3 months of bank and card statements to AI and ask it to flag recurring charges and duplicates.
+$
+HOW TO SHIP
+Use a private chat session, paste CSV, request a categorized table with renewal dates and owners.
+CASH IMPACT
+SMBs typically cancel 15-25% of SaaS spend on first sweep. On USD 4k/month tooling that is USD 700+ saved monthly.
+$
+QUICK-WIN TAKEAWAY
+One afternoon of cleanup beats a quarter of cost-cutting meetings.
+DJV CONSULTING · AI QUICK TRICKS · 2/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 03 · FINANCE
+Forecast cash 13 weeks out.
+THE PLAY
+Drop your bank ledger into AI and ask for a rolling 13-week cash forecast with best / base / worst cases.
+$
+HOW TO SHIP
+Refresh weekly. Tag big inflows, payroll, taxes and rent. Ask AI to flag the first week you go below your floor.
+CASH IMPACT
+Catching a cash crunch 4-6 weeks early is the difference between a financing call and an emergency loan.
+$
+QUICK-WIN TAKEAWAY
+You do not need a CFO — you need a Sunday-night 30-minute habit.
+DJV CONSULTING · AI QUICK TRICKS · 3/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 04 · OPERATIONS
+AI front desk for inbound email.
+THE PLAY
+Route info@ and ventas@ through an AI that classifies, drafts a reply and tags the lead in your CRM.
+$
+HOW TO SHIP
+Use an inbox-native assistant. Train it on 30 past threads. Keep human approval on send for the first week.
+CASH IMPACT
+Cutting first-response time from hours to minutes lifts SMB quote-to-close by 20-30% on warm leads.
+$
+QUICK-WIN TAKEAWAY
+Speed of reply is the cheapest competitive moat you can buy.
+DJV CONSULTING · AI QUICK TRICKS · 4/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 05 · OPERATIONS
+Turn every meeting into action.
+THE PLAY
+Record internal and client meetings, let AI summarize and extract owners, due dates and decisions.
+$
+HOW TO SHIP
+Enable a meeting notetaker on Google Meet or Zoom. Auto-post the action list to the team channel.
+CASH IMPACT
+Recovering 3 hours per person per week of follow-up and re-explaining is real margin on services revenue.
+$
+QUICK-WIN TAKEAWAY
+Decisions only count when somebody owns them with a date.
+DJV CONSULTING · AI QUICK TRICKS · 5/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 06 · OPERATIONS
+Quote and proposal autopilot.
+THE PLAY
+Build an AI assistant that takes a short brief and outputs a branded quote, scope and timeline draft.
+$
+HOW TO SHIP
+Upload 5 winning past proposals as the style reference. Lock pricing rules. Sales edits, never starts blank.
+CASH IMPACT
+Cut proposal turnaround from 2 days to 2 hours. More at-bats per week = more deals closed in the same month.
+$
+QUICK-WIN TAKEAWAY
+You do not need more leads — you need faster, sharper responses.
+DJV CONSULTING · AI QUICK TRICKS · 6/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 07 · OPERATIONS
+AI SOPs for repeat work.
+THE PLAY
+Record yourself doing a recurring task once. Let AI write the SOP, checklist and training script for the team.
+$
+HOW TO SHIP
+Use a screen recorder plus an AI doc generator. Store SOPs in one shared drive everyone can search.
+CASH IMPACT
+Onboarding a new hire goes from 4 weeks to 1. Sick days and vacations stop breaking the operation.
+$
+QUICK-WIN TAKEAWAY
+Tribal knowledge is a hidden tax — write it down once, charge nobody twice.
+DJV CONSULTING · AI QUICK TRICKS · 7/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 08 · SUPPLY CHAIN
+Smarter reorder points.
+THE PLAY
+Feed 12 months of sales by SKU to AI and ask for reorder points and safety stock by item.
+$
+HOW TO SHIP
+Export sales + lead times from your ERP / POS. Review the AI list with your buyer before pushing to the system.
+CASH IMPACT
+Cutting overstock by 10% on a USD 150k inventory frees USD 15k of cash and reduces obsolescence write-offs.
+$
+QUICK-WIN TAKEAWAY
+Inventory is cash wearing a costume — count it like cash.
+DJV CONSULTING · AI QUICK TRICKS · 8/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 09 · SUPPLY CHAIN
+Supplier price negotiations, prepped.
+THE PLAY
+Before every supplier call, ask AI for market price ranges, alternative vendors and 3 negotiation angles.
+$
+HOW TO SHIP
+Paste your last invoice. Ask: benchmarks, comparable suppliers, payment-term swaps, and 2 polite scripts.
+CASH IMPACT
+A 2-3% unit cost reduction on your top 10 SKUs typically pays the entire annual AI tooling bill.
+$
+QUICK-WIN TAKEAWAY
+You are not asking for a discount — you are arriving informed.
+DJV CONSULTING · AI QUICK TRICKS · 9/10
+
+SMB OPERATIONS · 2026 EDITION
+PLAY 10 · SUPPLY CHAIN
+Demand sensing from weak signals.
+THE PLAY
+Have AI scan local news, weather, holidays and competitor promos weekly and flag SKUs likely to spike.
+$
+HOW TO SHIP
+Stand up a weekly research workflow. Output: top 5 SKUs to push, top 5 to throttle, with a 1-line reason each.
+CASH IMPACT
+Even one avoided stockout on a hero SKU per month easily covers a USD 20/month AI subscription.
+$
+QUICK-WIN TAKEAWAY
+Small businesses do not lose to bigger ones — they lose to faster ones.
+DJV CONSULTING · AI QUICK TRICKS · 10/10
+
+SMB OPERATIONS · 2026 EDITION
+30-DAY PLAYBOOK
+How to roll it out.
+WEEK 1
+Pick 2 plays — one from Finance, one from Operations. Run them manually. Measure the baseline.
+$
+WEEK 2
+Add a Supply Chain play. Templatize the prompts. Document the 3 workflows as 1-page SOPs.
+WEEK 3-4
+Hand ownership to one person per play. Review the cash impact weekly. Kill what does not pay.
+QUICK-WIN TAKEAWAY
+10 plays is the menu — not the order. Two paying plays beat ten half-done experiments.
+DJV CONSULTING · AI QUICK TRICKS · PLAYBOOK
+
+SMB OPERATIONS · 2026 EDITION
+Stop guessing.
+Start cashing in.
+Blending senior management experience with cutting-edge AI to deliver sustainable financial growth for small
+and mid-sized businesses.
+DJV Consulting
+DM  “AI  QUICK  WIN”
+Save  –  Share  –  Follow
+

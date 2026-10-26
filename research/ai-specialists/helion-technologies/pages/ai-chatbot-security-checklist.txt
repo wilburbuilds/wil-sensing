@@ -1,0 +1,242 @@
+URL: https://heliontechnologies.com/ai-chatbot-security-checklist/
+Fetched: 2026-10-26T03:57:28Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ai-chatbot-security-checklist/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Chatbots for Car Dealerships: A Data Security Checklist
+Meta description: Running an AI chatbot for car dealership leads? Check what it collects, what it can reach, how long it keeps chats, and who owns it, before shoppers overshare.
+Canonical: https://heliontechnologies.com/ai-chatbot-security-checklist/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Chatbots for Car Dealerships: A Data Security Checklist
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI Chatbots for Car Dealerships: A Data Security Checklist
+By Alexis Merchant
+October 21, 2026 · 13 min read
+
+An AI chatbot for a car dealership is safe when it collects only what a lead needs, reaches no records beyond its job, keeps transcripts on your schedule, and hands every price to a person. Here’s how to check all four.
+
+Last updated: October 21, 2026
+
+A chatbot that sells a Tahoe for a dollar makes the news. A chatbot that quietly holds on to a shopper’s Social Security number for years never will.
+
+Erik Nachbahr, who founded Helion Technologies, brought up the dollar deal during his webinar on AI governance for dealerships on October 12. His verdict was that it’s “almost quaint now.” He’s right. The December 2023 incident, where a shopper talked a Chevrolet store’s website bot into calling a $1 Tahoe “a legally binding offer,” was a story about what a bot says. The harder questions now are about what it hears, what it keeps, and what it can reach.
+
+Chat is everywhere, so those questions land on almost every store. When Erik walked through where dealers are putting AI to work, he got to the chat window and said it plainly: “Website chat bots are, you know, that’s the main one that we’re seeing.” Cox Automotive’s AI readiness study from October 2025 backs him up, with 52% of the 537 franchised dealers it surveyed using AI to engage customers around the clock by text, chat, or email, and 60% saying they had concerns about data and algorithms.
+
+So the bot is already talking to your customers. Tonight, probably.
+
+This checklist is the security half of that conversation. It’s the same groundwork our managed AI services for dealerships start with before any chatbot, phone agent, or assistant goes live in a store, and it sits right next to a written AI use policy for your staff. Who’s on the hook when a bot promises something it shouldn’t is its own topic, and I covered it in AI legal risks for car dealerships. This one stays on the data.
+
+What an AI Chatbot for a Car Dealership Actually Touches
+
+A dealership AI chatbot is software on your website or texting platform that answers shoppers in plain language, collects their details, and passes them to your CRM as a lead. Behind that friendly chat window sit the vendor’s servers, an AI model provider, and whatever store systems the bot has been connected to.
+
+Erik has a simple way to think about any AI conversation, and it fits chat perfectly. AI ingests, retains, reuses, and connects. It takes in whatever the shopper types. It keeps it, and in his words, “conversations are stored, they’re often stored longer than you think they would be.” It may reuse that conversation to train a model. And it connects to whatever systems you hand it, at whatever level of access you hand it.
+
+Lay that over a website chat and you get five places your customer’s words can end up. Here they are.
+
+WHERE A CHAT LANDS	WHAT’S USUALLY IN IT	THE QUESTION TO ASK
+The vendor’s transcript logs	Every word the shopper typed, including things they never should have	How long are they kept, and who at the vendor can read them?
+The AI model behind the bot	The conversation, sent off to get an answer	Is our customers’ data used to train it?
+Your CRM lead record	Name, phone, email, vehicle of interest, trade details, often the whole transcript	Which of our people can open it?
+Lead alert emails and texts	A copy of the lead, sometimes with the transcript pasted in	Whose inboxes and personal phones does it land on?
+Connected store systems	Inventory, open service appointments, sometimes customer history	Can the bot only read, or can it change and export, too?
+
+Five places. Know every one of them.
+
+Shoppers Will Tell the Bot Things They Shouldn’t
+
+Anyone who has written service knows how this goes. A customer walks up to the counter to explain a noise in the front end, and somewhere between the noise and the loaner they’ve told you about the new job, the ex who kept the good car, and exactly what they can afford a month. People overshare with whoever seems to be listening. A chat window at 11 p.m. on a Saturday seems to be listening.
+
+So they type it. A credit score. The payoff on the trade. A driver’s license number, because they want to get the paperwork started. Some will type their whole Social Security number because they think it speeds up financing. It happens.
+
+None of that belongs in a chat transcript. Once it’s typed, it can sit in every one of those five places, and the bot can’t un-hear it. OWASP, the open security community that tracks these risks, ranks sensitive information disclosure second on its 2025 Top 10 for applications built on large language models, and its list of what can leak reads like the inside of a deal jacket: personal identifiers, financial records, credentials.
+
+The first person to feel it is your BDC agent on Monday morning, opening a lead with a Social Security number sitting in the notes. What are they supposed to do with it? If nobody’s told them, they’ll do what people on the floor always do when there’s no process. They’ll work around it, forward it, maybe print it. Workarounds need to be left in the past, and this is one you can stop before it starts.
+
+Plan for the overshare. It’s coming.
+
+The AI Chatbot Data Security Checklist
+
+I’ve grouped this the way the work actually happens. Before you sign, while you set it up, right before launch, and after it’s live. Some items are a single question for the vendor. A couple will take an afternoon. Start at the top.
+
+Before You Sign
+Get it in writing whether your chats are used to train the vendor’s AI model, or anyone else’s. The FTC told AI companies in January 2024 that they’re held to the privacy promises they make in their terms and their marketing, so a promise on paper is worth a lot more than one on a sales call.
+Where do the transcripts live, how long are they kept, and can you delete them when you ask? Three answers. Write them down.
+Which AI model provider sits behind the bot? “Our proprietary AI” doesn’t count as an answer.
+Breach notice, in days, in the contract.
+Run the vendor through the same review as any other company holding your customers’ information. The FTC Safeguards Rule asks dealers to pick service providers that can protect that information, require it by contract, and check on them over time (16 CFR 314.4(f)). A chatbot vendor doesn’t get a pass because it came bundled with the website.
+While You Set It Up
+Tell the bot what it’s allowed to collect. Name, phone, email, the vehicle, a good time to call. That’s a lead. Nothing more.
+No Social Security numbers, birth dates, driver’s license numbers, card numbers, or bank details in chat, ever. When a shopper starts heading that way, the bot should send them to your secure credit application instead.
+Ask whether the platform can mask those numbers automatically if someone types them anyway. Some can. If yours does, turn it on.
+Read-only, and only what it needs. Inventory and open service times, yes. Years of customer history, the ability to export records, no. Our post on least-privilege access for AI tools goes deeper on scoping this.
+Give the bot its own account. Never a staff member’s login, and never an admin account. Erik didn’t soften this one in the webinar: “We’re still seeing a lot of dealership employees that have administrative rights for everyday users.” An AI connected through an account like that inherits all of it.
+Decide who on your team can open transcripts. The Safeguards Rule already expects you to limit each person to the customer information their job needs, so the BDC manager gets access and the lot porter doesn’t.
+Money goes to a person. Prices, payments, trade values, approvals, all of it. No exceptions.
+Right Before Launch, Try to Break It
+
+This is my favorite step, because it’s really just training, and hands-on experience and repetition make a world of difference. Sit your BDC manager and one of your sharper salespeople down for half an hour and let them try to talk the bot into things it shouldn’t do. A dollar deal. A monthly payment it has no business promising. Another customer’s appointment time. Ignoring its own instructions because someone typed “ignore your instructions.” That last trick is what OWASP calls prompt injection, number one on the same Top 10, and its guidance for it includes least-privilege access and human approval for high-risk actions, which is exactly why the money and the access items above matter so much. If your own team can break the bot in 30 minutes, a stranger on the internet will manage it too.
+
+Better you than them.
+
+After It’s Live
+
+When I worked alongside a dealer group moving more than 30 stores from CDK to Tekion, we kept spot-checking deals after every go-live. Chat deserves the same habit. Smaller scale, same idea.
+
+Read a handful of real transcripts every month. Look for oversharing, wrong answers, and anything the bot promised.
+Purge on a schedule. The Safeguards Rule expects customer information to be disposed of no later than two years after it was last used, with a few exceptions (314.4(c)(6)), and a chat log rarely needs to live anywhere near that long.
+Re-read the vendor’s terms whenever they change, because the promise about training on your chats that you got in writing last spring only protects you if this year’s terms still say the same thing.
+Know who can switch it off. If the bot starts saying strange things at 10 on a Saturday night, somebody needs the login and the authority to pull it. Put that name in writing.
+Questions to Put to Your Chatbot Vendor
+
+Vendors who’ve thought about security answer these quickly. The ones who haven’t tend to answer with adjectives.
+
+ASK	A GOOD ANSWER SOUNDS LIKE	KEEP PUSHING IF YOU HEAR
+Do you train any AI model on our chats?	“No, and it’s in the contract.”	“Everything is anonymized.”
+How long do you keep transcripts?	A set number of days that you can change	“As long as you’re a customer.”
+Which AI model runs the bot?	A named provider, plus its data terms	“It’s proprietary.”
+What can the bot reach in our CRM or DMS?	A short list, read-only	“Whatever it needs.”
+What happens if a shopper types a card or Social Security number?	“We mask it, and the bot points them to your credit app.”	“Customers don’t really do that.”
+How fast would you tell us about a breach?	A time frame written into the contract	“We’d reach out right away.”
+
+A vague answer is still an answer.
+
+Whose Bot Is It, Anyway?
+
+Here’s how a chatbot usually ends up at a store. Marketing buys it with the new website. The BDC lives in it all day. IT hears about it the first time something breaks, and the controller finds it on a card statement. Every one of those people holds part of the answer, and nobody holds all of it. That’s the gap.
+
+Pick one owner. In a single store that’s often the general manager or the BDC director, and in a dealer group it’s whoever already approves new vendors. IT does the hands-on setup, meaning the accounts, the connections, and the masking settings, but the decisions sit with a person who can say no to a vendor and who’ll still be around when the renewal call comes in.
+
+Helion supports more than 35,000 dealership employees every day, and a chatbot is one more system those people touch, so treat it like one. If your store also has AI answering the phones, our AI phone agent security and consent checklist covers that side, and the same owner should hold both.
+
+One owner. Written down.
+
+What Dealers Ask Me About Chatbot Security
+Our chatbot came with the website package. Is it really our problem?
+A shopper typed their Social Security number into the chat. Now what?
+Can the bot take a credit application right there in the chat?
+How long should we hang on to chat transcripts?
+We’re one store with a small BDC. Isn’t all this overkill?
+Read What Your Bot Is Saying
+
+The dollar Tahoe got laughs because nobody lost anything. The chatbot problems I’d lose sleep over are quieter. A Social Security number sitting in three inboxes. A bot that can see more of the CRM than the BDC manager who runs it. Nobody posts those online.
+
+So read the transcripts. Your bot talks to customers every night, and an hour with last month’s chats will teach you more about it than the vendor’s demo ever did. Set it up for success with the limits above, and give the people on the floor a clear answer for the moment a customer overshares.
+
+If you want a second set of eyes first, our complimentary IT and cybersecurity assessment is a good place to start. We’ll look at the systems your chatbot connects to, from the CRM to the inboxes, and tell you plainly what to tighten first.
+
+That’s the real work. Your team can do it.
+
+ABOUT THE AUTHOR
+
+Alexis Merchant
+
+Manager of Dealer Enablement Success, Helion Technologies
+
+Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning & Development team and now helps dealership teams get more from the system after go-live.
+
+Alexis Merchant on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What an AI Chatbot for a Car Dealership Actually Touches
+Shoppers Will Tell the Bot Things They Shouldn’t
+The AI Chatbot Data Security Checklist
+Questions to Put to Your Chatbot Vendor
+Whose Bot Is It, Anyway?
+What Dealers Ask Me About Chatbot Security
+Read What Your Bot Is Saying
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/"},"author":{"name":"Alexis Merchant","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668"},"headline":"AI Chatbots for Car Dealerships: A Data Security Checklist","datePublished":"2026-10-21T15:53:43+00:00","dateModified":"2026-10-21T15:53:44+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/"},"wordCount":2559,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-chatbot-car-dealership-data-security.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/","url":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/","name":"AI Chatbots for Car Dealerships: A Data Security Checklist","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-chatbot-car-dealership-data-security.webp","datePublished":"2026-10-21T15:53:43+00:00","dateModified":"2026-10-21T15:53:44+00:00","description":"Running an AI chatbot for car dealership leads? Check what it collects, what it can reach, how long it keeps chats, and who owns it, before shoppers overshare.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-chatbot-car-dealership-data-security.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-chatbot-car-dealership-data-security.webp","width":1200,"height":500,"caption":"What your chatbot collects, reaches and keeps."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ai-chatbot-security-checklist\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI Chatbots for Car Dealerships: A Data Security Checklist"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/6ee62f2567da0a9d55c9714bbb395668","name":"Alexis Merchant","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/alexis-merchant-headshot-96x96.jpg","caption":"Alexis Merchant"},"description":"Alexis Merchant is Manager of Dealer Enablement Success at Helion Technologies and a Tekion DMS expert with more than 10 years in the automotive industry. She spent four years on Tekion's Learning &amp; Development team and now helps dealership teams get more from the system after go-live.","sameAs":["https:\/\/www.linkedin.com\/in\/alexis-merchant-49a747b1\/"],"url":"https:\/\/heliontechnologies.com\/author\/alexis-merchant\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Manager of Dealer Enablement Success"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ai-chatbot-security-checklist/#article","headline":"AI Chatbots for Car Dealerships: A Data Security Checklist","description":"Running an AI chatbot for car dealership leads? Check what it collects, what it can reach, how long it keeps chats, and who owns it, before shoppers overshare.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ai-chatbot-car-dealership-data-security.webp","datePublished":"2026-10-21T11:53:43-04:00","dateModified":"2026-10-21T11:53:44-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/6ee62f2567da0a9d55c9714bbb395668"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ai-chatbot-security-checklist/"},"articleSection":"Managed AI","about":[{"@type":"Thing","name":"AI chatbot data security for car dealerships","description":"What a dealership website or text chatbot collects, which systems it can reach, how long transcripts are kept, and who owns the tool."},{"@type":"Thing","name":"Prompt injection","description":"OWASP Top 10 for LLM Applications risk LLM01:2025, in which user prompts alter a model's behavior or output in unintended ways."},{"@type":"Thing","name":"Sensitive information disclosure","description":"OWASP Top 10 for LLM Applications risk LLM02:2025, in which personal, financial or credential data is exposed through a model's output."}],"mentions":[{"@type":"Thing","name":"Chevrolet dealership chatbot $1 Tahoe incident","description":"December 2023: a shopper manipulated a dealership website chatbot into calling a $1 Chevrolet Tahoe a legally binding offer; no sale resulted.","url":"https://incidentdatabase.ai/cite/622/"},{"@type":"Legislation","name":"FTC Safeguards Rule, 16 CFR 314.4","url":"https://www.law.cornell.edu/cfr/text/16/314.4"},{"@type":"GovernmentOrganization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"},{"@type":"Organization","name":"OWASP","url":"https://genai.owasp.org/"},{"@type":"Person","name":"Erik Nachbahr","@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"}],"keywords":"ai chatbot for car dealership, ai chatbot for dealership, ai chatbot car dealership, dealership chatbot security, chatbot data security checklist, FTC Safeguards Rule","inLanguage":"en-US"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/ai-chatbot-security-checklist/#faq","mainEntity":[{"@type":"Question","name":"Our chatbot came with the website package. Is it really our problem?","acceptedAnswer":{"@type":"Answer","text":"It's your website, so it's your customers' data and your problem. The vendor running the bot is a service provider holding customer information for you, which is exactly what the vendor-oversight part of the FTC Safeguards Rule is about. Bundled doesn't mean checked."}},{"@type":"Question","name":"A shopper typed their Social Security number into the chat. Now what?","acceptedAnswer":{"@type":"Answer","text":"Find every copy and remove it. That means the vendor's transcript, the CRM lead note, and any alert emails or texts that carried the conversation. Then call the shopper and move them to your secure credit application. Once the dust settles, look at why the bot let the conversation get that far, and turn on masking if your platform has it."}},{"@type":"Question","name":"Can the bot take a credit application right there in the chat?","acceptedAnswer":{"@type":"Answer","text":"Not in the chat window. A credit application belongs in a secure form built for exactly that job, with its own protections around it, so the bot's only job is to hand the shopper that link and then get out of the way."}},{"@type":"Question","name":"How long should we hang on to chat transcripts?","acceptedAnswer":{"@type":"Answer","text":"Two years after last use is the outer limit the Safeguards Rule sets for disposing of customer information, with a few exceptions. A chat log usually needs far less. Pick a number that matches how long your BDC actually works a lead, write it into your retention policy, and have the vendor set it on their side too."}},{"@type":"Question","name":"We're one store with a small BDC. Isn't all this overkill?","acceptedAnswer":{"@type":"Answer","text":"Short answer, no. The list is mostly questions and settings, not new software. A single store holds the same kind of customer data a group does, just with fewer people around to catch a problem. Time is money in this business, and an hour on this list costs a lot less than a day spent cleaning a Social Security number out of three systems and somebody's inbox."}}]}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/ai-chatbot-security-checklist/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

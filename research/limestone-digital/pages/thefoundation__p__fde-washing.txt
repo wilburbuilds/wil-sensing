@@ -1,0 +1,169 @@
+URL: https://thefoundation.limestonedigital.com/p/fde-washing
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/fde-washing
+Content-Type: text/html; charset=utf-8
+Title: 🟪 "FDE washing"
+Meta description: Only 13% of CIOs say AI has delivered transformational value.
+Canonical: https://thefoundation.limestonedigital.com/p/fde-washing
+Robots: max-image-preview:large
+H1: 🟪 "FDE washing" | AI Foundation from Limestone Digital
+
+🟪 "FDE washing"
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 "FDE washing"
+🟪 "FDE washing"
+Only 13% of CIOs say AI has delivered transformational value.
+Oct 20, 2026
+Reading time: 8 minutes | Issue #48 |
+Book a Discovery Call
+Happy Tuesday.
+Mark here.
+Yesterday, Gartner released its 2027 CIO agenda survey at its IT Symposium in Orlando. It asked 2,002 CIOs and technology executives how AI was working out for them. The headline:
+only 13% say it has delivered significant or transformational value
+for their enterprise so far.
+But the number that caught my attention was further down. Only 17% have guidelines for abandoning low-value AI that’s already in production. Those CIOs are 2.6 times more likely to be among the ones getting results.
+“Volume is not value,” said Alicia Mullery, the Gartner VP Analyst who presented the findings.
+I posted
+a short version of this on X
+yesterday.
+Inside the Issue
+What Gartner’s 17% finding tells you about FDE washing
+Four lines for the contract and five questions for the vendor
+Accenture and Workday, India’s FDE hiring spike, a GSA model clause, Gartner on governance, and Anthropic’s academy
+FDE Washing
+Gartner ran the survey between May and July, then compared its “vanguards” with everyone else. These are CIOs who deliver better business outcomes and who report that their CEOs see high value from AI. Two of the practices that set them apart involve knowing when to stop.
+Only 31% of CIOs have guidelines for deciding when a pilot shouldn’t move into production. Those who do are 2.3 times more likely to be vanguards. Just 17% have guidelines for abandoning low-value AI that’s already running, and that group is 2.6 times more likely to be vanguards.
+As Mullery put it, CIOs “need business partners who are willing and ready to walk away from low value investments.”
+I wouldn’t read the 2.6x figure as cause and effect. My guess is that CIOs who write a walk-away rule also write proper business cases. The rule is one sign of that discipline, and it’s worth looking for in your own portcos.
+Now try putting it into practice when your vendor’s engineers built the agent and are still the only people who can run it. You can cancel the contract, but the agent stops working when they leave. So you keep paying.
+That’s where FDE washing gets expensive.
+What Gartner means by it
+On September 29, Gartner predicted that by 2028,
+70% of enterprises will abandon agentic AI built by vendor forward-deployed engineering
+, “trapped by soaring costs and unable to evolve it on their own.”
+Gartner says “many providers now use ‘forward deployed’ as a label for implementation, professional services” and AI consulting. Some, it adds, “charge premium fees without the delivery depth, program management, or change management maturity to justify them.”
+It calls this “FDE washing,” “where consulting services are marketed as FDE.” The customer can make quick progress at first without building the ability to carry on alone. They may also be overpaying for work a traditional services or partner model could deliver “more cost-effectively and with more predictable results.”
+The same release predicts that through 2028, fewer than 20% of FDE engagements will turn recurring customer needs into capabilities in the vendor’s core product. My read is that most of what an FDE builds for you stays custom code, and whoever wrote it ends up maintaining it. If that’s the vendor, your agent depends on them for as long as you run it.
+Why the label is spreading faster than the skill
+Gartner’s Mukul Saha estimates there are about 2,000 active FDEs, with demand “probably quadruple that,” he told
+Channel Dive
+.
+Vendors are putting serious money behind the model. AWS committed $1 billion to a dedicated FDE unit in June. In July, Microsoft put $2.5 billion into a new company that will embed 6,000 engineers with customers. Gartner’s Alex Coqueiro expects 85% of tech providers to run FDE programs as a core AI delivery model by the end of this year, according to
+CIO Dive
+.
+With demand at roughly four times supply, I’d expect plenty of existing services to turn up under the new title. Some vendors say as much. “We have been doing FDE for a long time,” SHI’s Ryan Sheehan told
+The Register
+.
+Palantir’s CTO, Shyam Sankar, says he coined the term in 2007 after Alex Karp asked him why French restaurants are so good. Nineteen years later, everyone has it on the menu.
+Gartner estimates FDE consulting fees at $200,000 to $400,000 a quarter for each use case, before platform and integration costs. Coqueiro has warned that “without a clear exit plan and internal ownership, FDEs quietly become permanent staff augmentation.”
+At those rates, that’s an expensive way to add headcount you don’t control.
+Who should be uncomfortable: any operating partner whose portco signed an “FDE” engagement this year where the vendor holds the prompts, the test set and the deploy keys, and the statement of work has no end date.
+Our take: put the walk-away rule in the contract
+Before a portco signs for AI work, I’d put the walk-away rule somewhere it can be enforced: in the contract. Four lines:
+The metric that decides whether it’s working, agreed before anyone builds.
+This is exhibit one from Issue #46: the baseline signed by the process owner. Without it, line 3 has nothing to measure against.
+The date you check it.
+AWS describes its own forward-deployed engagements as “45-day sprints.” Asking for a review date in the contract seems reasonable.
+What happens if it misses: you stop paying, and you keep everything built so far.
+Lawyers already draft provisions like this. Mayer Brown’s
+September guidance
+on agentic AI says a contract “could provide for termination, a refund, and assistance in moving the work elsewhere.” Its list of transition assistance includes “export of the workflow rules, records, operating materials, and other information needed to move the work.”
+The name of the person on your side who runs it the day after the vendor leaves.
+Gartner tells clients to “execute the exit plan established at the start rather than extending the engagement because internal teams are not ready.” Putting a name in the contract makes that responsibility harder to leave until later.
+A vendor who won’t sign those four lines is selling you a subscription to themselves.
+We embed engineers in client companies too, so I hold us to the same rule. Our terms are month-to-month, and if we don’t deliver, you don’t pay. Clients can leave at the end of any month.
+At the payments company from last week’s issue, the client’s own team operates the warehouse. One of their engineers migrated a table using only the AI-generated how-to we left behind. We’ve also had CTOs bring their Limestone team to their next company. That’s the relationship we want: clients who can leave and choose to stay.
+Embedded engineers can do valuable work. Saha says the same: “If you truly have the right FDE model, we see it bringing good outcomes.”
+Part of that work is making sure your team can carry on without them. If every fix, model change or new workflow requires another vendor engagement, that part of the job is still unfinished.
+Five Questions Before a Portco Signs for AI Work
+Send these to the vendor in writing before the statement of work is final. Each comes with a reason you can point to if they ask why.
+1. Who owns the code, prompts, eval sets and agent configurations from day one?
+Agree on ownership and access before work starts, and read the data clause alongside the IP clause. Venable’s lawyers
+point out
+that permission to process customer data to “improve,” “build,” or “enhance” a vendor’s services can also authorize model training.
+2. What’s the handover plan?
+Put it in the statement of work, with a timeline and a named person on your side who takes over. Saha told
+IT Brew
+that his concern is clients lacking “the right internal capability to take over and run” the system when the contract ends.
+3. Which of our engineers will build alongside yours from week one?
+Your team needs time running the system while the vendor is still there to help. Gartner lists “talent atrophy” among the risks of FDE engagements, which
+The Register
+describes as what happens when organizations hire FDEs but don’t train their own teams.
+4. What will it cost to run after you leave?
+Ask for an estimate at expected usage that covers inference, hosting and monitoring. Then ask what happens to the bill if usage doubles.
+In yesterday’s survey, 51% of CIOs said they expect AI to raise the total cost of ownership of technology solutions. As Mullery put it, “AI costs are probabilistic and determined at run time.” A single number in a proposal won’t tell you enough.
+5. Can our team change models without you?
+Ask how the vendor would test and deploy a replacement, and what would need rebuilding. Mayer Brown notes that a model provider “may retune, restrict, or retire the model or change its safety controls at any time, with limited notice.” One of the safeguards it lists is to “preserve a tested alternative model or other fallback for critical functions.”
+The 48-hour swap test from Issue #46 is one way to check.
+Start with the AI statement of work in your portfolio that carries the largest quarterly fee. Email the vendor all five questions and ask for written answers by the end of next week. Names and dates are a good sign.
+If all you get back is a meeting invite, you’ve learned something too.
+01
+Accenture and Workday launched an FDE program.
+Announced
+on October 13
+, it sends joint teams into clients’ HR and finance functions to move Workday agents into production. The teams work within each client’s existing processes, data, policies and controls. The release says lessons from those deployments will inform Workday’s product and Accenture’s client approaches. It doesn’t mention handover or what the client keeps. If a portco runs Workday, ask question 2 before the team arrives.
+02
+India’s FDE postings rose nearly 19-fold in a year.
+Indeed data
+reported on October 14
+show June postings up 1,807% year on year. Yet the same report says many professionals discussing the role on Glassdoor India are asking how it differs from conventional software engineering. Your vendor should be able to explain the difference.
+03
+GSA now writes model retirement into its AI clause.
+GSAR 552.239-7001 took effect yesterday as a class deviation,
+Wiley reports
+. If a third-party provider deprecates a model outside the contractor’s control, the contractor has five business days to notify the contracting officer and must “make best efforts to provide a successor model when available.” It’s worth checking whether your portcos’ AI contracts address model retirement at all.
+04
+Gartner says agent plans are outrunning governance.
+In a survey of more than 2,000 CIOs and technology executives, 71% expect to deploy agentic AI within 12 months. Only 21% have agentic AI governance capabilities today. At its
+opening keynote
+, Gartner told more than 7,500 CIOs and IT executives that “your need to build AI value is strong, but your ability to govern the risk is weak.”
+05
+Anthropic wants your engineers to be the FDEs.
+Its Claude Frontier Academy
+puts $100 million
+behind training 10,000 “Frontier Deployed Engineers” by the end of 2027. Organizations nominate their own engineers, who spend a 12-week residency leading a Claude use case inside their organization. The first cohorts include Morgan Stanley and Novo Nordisk, alongside Accenture, Bain and McKinsey. When an enterprise sends its own people, the skill stays within the client’s team, which is what question 3 asks for. The training is Claude-specific, so question 5 still applies.
+The Walk-Away Clause.
+The five questions to ask the vendor, then the four lines to put in the contract. Screenshot it and attach it to the next AI statement of work before anyone signs.
+If a portco or your company is about to sign for AI work, send us the statement of work first. On a 30-minute call, we’ll go through the four lines and five questions with you and point out what’s missing.
+→ BOOK A DISCOVERY CALL ←
+Until next Tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"fde-washing","url":"https://thefoundation.limestonedigital.com/p/fde-washing","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/fde-washing"},"headline":"🟪 \"FDE washing\"","description":"Only 13% of CIOs say AI has delivered transformational value.","datePublished":"2026-10-20T15:36:42.047Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/545813c8-2bb9-4e61-a0ea-2334d43ae8c3/playbook-48-fde-washing.png?t=1792510308"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-10-20T15:36:55Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/fde-washing","name":"🟪 \"FDE washing\""}}]}

@@ -1,0 +1,186 @@
+URL: https://www.varickagents.com/blog/solving-the-ai-adoption-problem
+Fetched: 2026-10-26T03:33:38Z
+HTTP status: 200
+Final URL: https://www.varickagents.com/blog/solving-the-ai-adoption-problem
+Content-Type: text/html
+Via: chrome-headless
+Title: Solving the AI Adoption Problem
+Meta description: Varick Agents brings AI to your business enabling faster, smarter moves with real time data and market intelligence. Automate your business today.
+Canonical: https://www.varickagents.com/blog/solving-the-ai-adoption-problem
+Robots: max-image-preview:large
+H1: Solving the AI Adoption Problem
+
+V
+
+Varick Agents
+
+HOW IT WORKS
+
+CASE STUDIES
+
+CAREERS
+
+BLOG
+
+Book a Call
+
+Solving the AI Adoption Problem
+
+by
+
+Vas Moza
+
+6 min read
+
+It's no surprise that most AI pilots fail. AI users aren’t in the market for a tool to help get work done. They just want the work to be done.
+
+But most enterprise AI is still packaged as something employees have to use before the work gets done. It gives them a copilot or a chatbot and then asks them to figure out where it fits into the task they’re working on. The AI does not own the workflow, the employee still does.
+
+That means that employee adoption becomes the bottleneck to getting a financial outcome out of AI, because value will only be realized if employees embrace it and use it properly, but the issue with this approach is that enterprise AI has a major employee adoption problem.
+
+Most companies hover around 25-30% adoption rates, and getting employees to embrace new technologies at scale (especially for non-coding tasks) is a very difficult problem to solve. If you’ve been doing your job the same way with the same tools for 10+ years, it’s nearly impossible to break that way of working.
+
+We’ve learned that you can’t just give the company another AI tool and expect them to adopt it when they’ve been doing work the same way their entire career. And if you can’t rely on employee adoption, the best solution to driving ROI with this technology is by embedding it as far into the background of the operations of the company as possible.
+
+Companies need less tools
+
+The mistake we see in enterprise AI deployments is companies handing an interface to every employee in the client’s company. Even if it looks like the right move because it gives each analyst a way to control a swarm of agents to automate most of their manual work, adoption rates won’t move up much because the way that the employee does their work becomes habitual after a few years. It’s nearly impossible to break that habit, and they’ll treat the product like another tool.
+
+We realized that in order to get the company to adopt AI, a software interface wasn’t going to move the needle. With enterprise AI, things would have to be different from the enterprise software way of delivering a product.
+
+Enterprise Software vs Enterprise AI
+
+When a company bought a CRM, or just about any other SaaS product, it came with an interface. In that era, the interface was the product.
+
+SaaS interfaces existed because companies needed tools to help their employees get work done. We realized that in an age of abundant intelligence, companies don’t want tools to help get work done – they just want it done. So instead of selling a tool to help get the task done, we just started selling the outcome. And an outcome doesn't necessarily need everyone in the organization to use an interface – it should just happen.
+
+If enterprise software was the era of software as a service, enterprise AI is the era of outcomes as a service.
+
+How to sell the outcome
+
+It starts by internalizing the fact that work has been done in the same place for an employee's entire career. Finance lives in Excel and NetSuite, sales lives in Salesforce, Slack, and email, and so on.
+
+We stopped building new places for people to use AI and started putting AI into the places where they already worked.
+
+Instead of asking a finance team to open a new platform to do accounts payable, we built agents on top of NetSuite, where the accounts payable work already lived. The agent runs in the background and handles the manual parts of the workflow, inside the system the team already uses.
+
+What happens when you push AI as far into the background of a company as possible
+
+The result was that the employee that spent their entire career using the same tools didn't have to learn a new AI platform or figure out how to manage agents. They kept working where they already worked, and the manual work underneath the process started getting done for them.
+
+And that led to an explosion in enterprise AI adoption, and major ROI gains came very quickly after. After we figured this out, going forward, each deployment we do can be traced back to these 2 quick principles.
+
+The first principle: build where the work already happens
+
+If the workflow runs through NetSuite, build on top of NetSuite. If it runs through Salesforce, build on top of Salesforce. The system might be old and legacy, but it's where the business actually runs.
+
+We do this by either building on top of APIs where they exist, or through computer-use agents where they don't. The agent reads from the systems the company already trusts, acts inside the workflow the team already uses, and writes back to the source of truth the business already runs on.
+
+The second principle: move the AI into the background without taking away control
+
+The person doing accounts payable shouldn't have to manage a swarm of agents to get the benefit – but instead have one employee governing the agent.
+
+That's why we built a control plane for the process owner in the company. It shows them which agents are running, and it lets them pause a workflow, change a permission, or pull an agent back without writing any code internally.
+
+Governance is easy to get wrong when putting enterprise agents far into the background because it eliminates human usage and can make the client feel like they have less control. It’s been a big focus of ours to innovate and create a few interfaces where a company has complete control over their agent – but proper governance should be embedded into the agents themselves.
+
+The agent, in every single run it does, should pause before making a decision and ask if a human in the loop is necessary for this task. If it is, it notifies a human exactly where that human already is (email, Slack, etc). It should reference internal policy, and act exactly as a human would. And the only way to replicate how an accounts payable analyst works at a client’s company is to sit on site for weeks and collect as much context on the workflow and tribal knowledge as possible.
+
+Taking a services oriented approach was an early bet that we made, because of the fact that each company's back office operations are extremely different. Coding is universal, which means the AI product (Claude Code/Codex etc) can be generic, but when you’re dealing with procurement or operations, every company has their slight differences in the way that they do their work – and those differences are only captured by sending in forward deployed engineers to get the full context.
+
+TLDR
+
+The winning formula to enterprise AI is: very technically robust agents + as far in the background of a company’s operations as possible + all the proper governance for clients to understand that they’re in control of the agents.
+
+Innovating on the frontier of how companies use AI is a big mission but we’re well on our way. We’re now opening a limited number of August engagements. Given the ROI targets we’re aiming to deliver to our August clients, we’re currently focused on companies doing over $1B in annual revenue at this time. To book a time or dive deeper into demos, case studies, blog posts and more, visit varickagents.com
+
+SCHEDULE DISCOVERY
+
+Deploy Your First AI Agent
+
+Book a Call
+
+CASE STUDIES
+
+Watch Varick Agents in Action
+
+View Deployments
+
+V
+
+Varick Agents
+
+Varick designs and deploys AI agent systems that 
+
+execute operational workflows inside enterprise organizations.
+
+1.1
+
+HOME
+
+HOME
+
+1.2
+
+HOW IT WORKS
+
+HOW IT WORKS
+
+1.3
+
+CAREERS
+
+CAREERS
+
+1.4
+
+CASE STUDIES
+
+CASE STUDIES
+
+1.5
+
+FAQ
+
+FAQ
+
+2.1
+
+X / TWITTER
+
+X / TWITTER
+
+2.2
+
+LINKEDIN
+
+LINKEDIN
+
+2.3
+
+BLOG
+
+BLOG
+
+2.4
+
+SUPPORT
+
+SUPPORT
+
+2.5
+
+PRIVACY
+
+PRIVACY
+
+2.6
+
+PRIVACY NOTICE
+
+PRIVACY NOTICE
+
+© 2026 Varick Agents. All rights reserved. Company names and logos are trademarks of their respective owners.
+
+311 California Street #750, San Francisco, CA, 94104
+

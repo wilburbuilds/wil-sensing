@@ -1,0 +1,150 @@
+URL: https://demo.varickagents.com/client-003/outcomes
+Fetched: 2026-10-26T03:35:58Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-003/outcomes
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Operations Transformation Case Study
+Meta description: Operations department transformation case study for a $3.5B consumer goods manufacturer.
+Canonical: 
+Robots: 
+H1: What they were left with
+
+V
+VARICK
+OPERATIONS ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Consumer Goods Manufacturer
+|
+Operations Department
+|
+4-Month Implementation
+CHAPTER 05
+What they were left with
+
+Month 1 vs. Month 4 at Consumer Goods Manufacturer. The agents got smarter, disruption response got faster, and the team shifted from processing to strategy.
+
+Before & after
+METRIC
+BEFORE
+AFTER
+Disruption response
+2-4 days
+< 6 hours
+95%
+Stockout rate
+6.8%
+2.9%
+-57%
+SKU forecast accuracy
+71%
+86%
++15pp
+PO amendment rate
+23%
+4%
+-83%
+Inventory carrying costs
+Baseline
+-22%
+22%
+Returns disposition
+5-7 days
+Same day
+95%
+The accuracy curve
+
+Agents get smarter every week. Human feedback and SOP changes are absorbed automatically. 85.0% to 96.8% in four months.
+
+85%
+90%
+95%
+100%
+W0
+W2
+W4
+W6
+W8
+W10
+W12
+W14
+W16
+Go-live
+Feedback loop activated
+Demand sensing calibrated
+Top 10 exceptions autonomous
+Supplier scorecards live
+96.8% overall accuracy
+Full Audit Trail
+
+Every agent action with timestamp, reasoning, confidence, and human approvals. Searchable and filterable.
+
+Search audit trail...
+06:14:22
+Exception Detection
+Auto-processed
+
+Detected supplier delay: Pacific Components shipment TRK-44821, 3 days late, 340 units short
+
+99%
+06:14:24
+Context Assembly
+Auto-processed
+
+Assembled cross-system context: DC-4 inventory, affected orders, alternative suppliers, DC-7 surplus
+
+98%
+06:14:26
+Impact Assessment
+Auto-processed
+
+Calculated impact: $127K revenue at risk, 12 orders, 3 with 48-hour commitments
+
+94%
+Show all 5 entries
+They own all of this
+The client owns the agents
+
+Every workflow, every rule, every model. Deployed on their infrastructure, inside their VPC, within their security perimeter.
+
+Their data never leaves
+
+Processing happens in their environment. No supply chain data sent to external servers. Full compliance with their security policies.
+
+Walk away anytime
+
+Zero platform lock-in. They keep everything if the engagement ends. Our IP is in the methodology, not the output.
+
+Like hiring an architect
+
+They own the building. We designed and built it. The blueprints, the structure, the systems. All theirs.
+
+ROI SUMMARY
+$10.1-13.7M
+Recurring annual value
+$9.3M
+One-time working capital release
+$3.2-4.2M
+Stockout reduction value
+$1.8-2.2M
+Headcount redeployed (14 coordinators)
+They never paid more than the value created.
+Ready to start?
+
+The engagement was scoped through diagnosis first, so leadership had a clear picture before committing.
+
+Schedule a Conversation
+

@@ -1,0 +1,214 @@
+URL: https://heliontechnologies.com/dealership-it-services-chicago/
+Fetched: 2026-10-26T04:00:56Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-it-services-chicago/
+Content-Type: text/html
+Via: chrome-headless
+Title: Dealership IT Services in Chicago | Helion Technologies
+Meta description: Dealership IT services in Chicago and Northwest Indiana from Helion Technologies. Managed IT, cybersecurity and Tekion support. Help in 82 seconds.
+Canonical: https://heliontechnologies.com/dealership-it-services-chicago/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealership IT Services in Chicago
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+CHICAGOLAND AND NORTHWEST INDIANA
+
+Dealership IT Services in Chicago
+
+One dealership-only IT team for your stores from Libertyville to Merrillville. A live person answers in 82 seconds on average.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Last updated: October 18, 2026
+
+Helion Technologies provides dealership IT services in Chicago for automotive and heavy truck stores in Cook, DuPage, Lake, Will and Kane counties and Northwest Indiana, covering managed IT, cybersecurity, Tekion support and FTC Safeguards compliance. A live support agent answers in 82 seconds on average.
+
+Dealership IT Services in Chicago Start With the Time Clock
+
+Walk into almost any service department in the suburbs and ask how the techs clock in. A lot of the time the answer is a finger on a scanner by the door. In most states that’s a payroll detail. In Illinois it’s a legal question, because the state has a biometric privacy law with its own consent rules and its own right to sue, and a dealership’s IT is usually what collects and stores those scans.
+
+That’s one thing that makes this market different. The other is the state line. Plenty of groups with stores in Schaumburg or Orland Park also run a rooftop in Merrillville or Schererville, and Indiana has its own breach law with a hard deadline.
+
+We’ve worked through questions like these since 1997. Helion Technologies supports automotive and heavy truck dealerships and nobody else, and this page is part of our dealership IT services by location hub. Here’s what’s different about Chicago.
+
+Remote first
+Most tickets close by phone or remote session, so a jam on the Kennedy never decides how long a store stays down.
+On site when it needs hands
+Field technicians are dispatched for a dead switch, new cabling or a rooftop opening in Joliet.
+Watched around the clock
+A US-based team monitors networks, servers and security alerts 24/7, in Illinois and Indiana alike.
+
+Our help desk is in Baltimore. Whenever your Chicago-area stores are open, 7 days a week, the help desk is open too. That covers the porter who opens the service drive in the dark and the closer still working a deal at 10 on a Saturday night. After-hours calls, weekend coverage and field dispatch all sit inside one monthly number that doesn’t change when the problem turns out to be bigger than it looked. No trip charges. Nothing extra shows up later.
+
+The everyday side of that is managed IT support for dealerships, and onsite vs remote IT support explains when a technician really needs to be in the building. Already have an IT manager you trust? Keep them. Co-managed IT puts our team behind that person instead of in their chair.
+
+The Biometric Question Illinois Dealers Ask First
+
+The Illinois Biometric Information Privacy Act covers fingerprints, hand scans and face geometry. Before a business collects any of them, it needs a written policy that’s available to the public, with a retention schedule, and it needs informed written consent from each person. The Act also lets individuals sue. A 2024 amendment limited that to one recovery per person rather than one per scan, which helped, but the consent and retention rules didn’t change at all.
+
+There’s a wrinkle that matters to dealers. Section 25(c) says the Act doesn’t apply to a financial institution subject to the Gramm-Leach-Bliley Act, and a store that arranges financing usually is one. We haven’t found a court ruling on a dealership, though, so treat that as an argument your attorney can make, not something to build a time clock policy on. The Illinois entry in our state privacy law guide has the same caution.
+
+The IT work is the part we handle. We find every device that takes a scan (time clocks, door readers, the key cabinet), map where the templates are stored and which vendor holds them, and set the deletion schedule your policy promises. Your attorney writes the policy. Our dealership compliance team makes sure the systems do what it says.
+
+Who Picks Up When a Chicago Store Calls
+2,000+
+Dealerships under management nationwide
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+82s
+Average time to reach a support agent
+Illinois and Indiana Rules for Chicago Dealerships
+
+Five lines matter here. One federal rule does most of the work, Illinois adds a breach law and the biometric law, and Indiana adds a breach law with a firm deadline plus a newer privacy act that most dealers won’t fall under.
+
+RULE	WHAT IT IS	DATE OR DEADLINE	AT THE STORE
+FTC Safeguards Rule	
+Federal rule for dealers that arrange financing or leasing
+Applies	Amended rule in force June 9, 2023	A written security program, a qualified individual, multi-factor authentication, encryption, testing and vendor oversight. Get the checklist
+Illinois Personal Information Protection Act	
+815 ILCS 530
+Applies	Most expedient time possible	Above 500 Illinois residents, the Attorney General hears about it no later than the customers do.
+Biometric Information Privacy Act	
+740 ILCS 14
+Ask your attorney	Consent before the first scan	A public written policy, a retention schedule and signed consent for every fingerprint or face scan. The GLBA exemption is untested for dealers.
+Indiana breach law	
+Indiana Code 24-4.9
+Applies	45 days from discovery	Customers and the Indiana Attorney General are both notified. Above 1,000 people, the credit bureaus are told too.
+Indiana Consumer Data Protection Act	
+Indiana Code 24-15
+Dealers usually exempt	In force January 1, 2026	Exempts financial institutions subject to the Gramm-Leach-Bliley Act and the data that law covers, which takes most franchised dealers out of it.
+
+Illinois still has no comprehensive consumer privacy law of the Virginia kind, so the breach law is where most of the work sits. The Personal Information Protection Act wants customers told in the most expedient time possible and without unreasonable delay, and once more than 500 Illinois residents are involved, the Attorney General has to hear about it no later than they do. Indiana’s breach law is stricter on time. It puts a 45-day outer limit on the notice and copies the state Attorney General every time.
+
+A group with stores in Naperville and Merrillville could owe both on the same morning, plus the FTC. The federal rule in 16 CFR 314.4 needs a written security program and its own 30-day notice to the FTC once 500 or more consumers are involved. Your attorney decides how each rule applies to you, and our compliance team keeps the program that answers all of them. Stores in other states too? Compare them in dealership privacy laws by state, and follow rule changes as they happen in FTC Safeguards Rule news.
+
+Dealership Cybersecurity in Chicago
+
+Pull a list of every login at a busy Chicago store and read it with the controller. You’ll almost always find a salesperson who left in the spring, a former F&I manager whose email still forwards somewhere and a vendor account nobody remembers creating. Each of those is a door. Attackers don’t need to break a window when a key is still hanging by the back entrance.
+
+CDK Global’s 2024 survey of dealers found that 35% had a cyberattack or incident that year, and 92% of them said it did real financial or operational damage. Then June 2024 showed what a vendor outage does to a store that never planned for one. Our dealership cybersecurity work covers the store’s side. A live, US-based security operations center watches the network through managed detection and response, advanced endpoint detection and response guards the computers, and multi-factor authentication goes on email and remote access. Microsoft 365 security closes the inbox where most attacks start, and security awareness training teaches everyone with a login to spot the fakes. Penetration testing and vulnerability scanning shows where an attacker would get in, and our look at auto dealership ransomware shows how those attacks usually start.
+
+Not sure whether you need an IT provider or a security one? Read MSP vs MSSP for dealerships. If the DMS goes dark again, our DMS outage plan and backup and disaster recovery for dealerships keep the store selling. Want the login list cleaned up? Start with a complimentary IT and cybersecurity assessment. We’ll write the gaps down.
+
+Where We Work Around Chicago
+
+Illinois has 698 franchised new-car dealers, according to NADA Data 2025, and most of them sit in the six counties around the city. Big family groups grew up here, like Napleton, which opened its first business on the South Side in 1931, and Fields, which started with one Evanston store in 1971. We mention them for scale, not as clients. It’s a market where a single group can run a dozen rooftops without ever leaving the tollway system. On the truck side, the intermodal complex at Joliet and Elwood is the nation’s largest inland port, according to the Federal Highway Administration, so heavy truck dealers along I-55 and I-80 rarely get a slow week.
+
+Franchised dealers are represented statewide by the Illinois Automobile Dealers Association and in the metro by the Chicago Automobile Trade Association, which has produced the Chicago Auto Show since 1935. Our team works from Baltimore. Your clock still sets the schedule.
+
+Chicago
+Schaumburg
+Arlington Heights
+Libertyville
+Elgin
+Naperville
+Aurora
+Oak Brook
+Orland Park
+Joliet
+Hammond
+Schererville
+Merrillville
+Valparaiso
+
+Your town isn’t on the list? That’s fine. We support automotive dealerships and heavy truck dealerships across Illinois, Indiana and the rest of the country. Truck groups with branches far apart can start with IT support for remote truck dealership branches and networking a multi-branch truck dealership. Stores in other metros? See our pages for Atlanta, Charlotte, Tampa Bay, Miami-Fort Lauderdale, Washington, DC, Baltimore, Philadelphia, Boston, New York, Detroit, San Francisco, Houston, Denver, Dallas-Fort Worth and Los Angeles.
+
+What a Chicago Store Gets
+Managed IT
+
+One monthly number covers the help desk, monitoring and field dispatch, nights and weekends included.
+
+Co-managed IT
+
+Your IT manager keeps the final say, with a dealership-only team working behind them.
+
+Cybersecurity
+
+A live, US-based security operations center watching your network every hour of every day.
+
+Tekion enablement
+
+Conversion help, escalations and staff training for stores moving to Tekion, and support after go-live.
+
+Staff already using AI tools? Managed AI gives them a private, governed workspace instead, built on least-privilege access for AI tools. Weighing a DMS change? The DMS comparison lays out the options side by side, Tekion vs Reynolds and Reynolds covers one common move from the IT side, and the Tekion network requirements are worth reading before any move. Running several rooftops? The dealer groups page shows how one team covers all of them, and dealership acquisition IT integration covers what to check before you buy the next one.
+
+Common Questions
+
+Already a client and need help right now? Reach support through the contact page.
+
+Does Helion Technologies offer dealership IT services in Chicago?
+What do managed IT services in Chicago cost a dealership?
+Does Helion have an office in Chicago?
+Do fingerprint time clocks put our dealership under BIPA?
+Our group has stores in Illinois and Indiana. Which breach law applies?
+We already have an IT manager. Do we have to replace them?
+Do you support heavy truck dealers around Chicago?
+
+See where IT and security stand at your Chicago-area stores.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Want a number first? Request a price quote or call (443) 541-1500.
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/","url":"https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/","name":"Dealership IT Services in Chicago | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-chicago-il.webp","datePublished":"2026-10-18T15:48:25+00:00","dateModified":"2026-10-18T15:57:03+00:00","description":"Dealership IT services in Chicago and Northwest Indiana from Helion Technologies. Managed IT, cybersecurity and Tekion support. Help in 82 seconds.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-chicago-il.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-chicago-il.webp","width":1200,"height":630,"caption":"Dealership IT services in Chicago from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-chicago\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Dealership IT Services in Chicago"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-it-services-chicago/","url":"https://heliontechnologies.com/dealership-it-services-chicago/","name":"Dealership IT Services in Chicago","description":"Dealership IT services in Chicago and Northwest Indiana from Helion Technologies. Managed IT, cybersecurity and Tekion support. Help in 82 seconds.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-it-services-chicago-il.webp","width":1200,"height":630},"about":{"@id":"https://heliontechnologies.com/dealership-it-services-chicago/#service"},"mentions":[{"@type":"Legislation","name":"Illinois Personal Information Protection Act","legislationIdentifier":"815 ILCS 530","legislationJurisdiction":"US-IL","url":"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2702&ChapterID=67"},{"@type":"Legislation","name":"Illinois Biometric Information Privacy Act","legislationIdentifier":"740 ILCS 14","legislationJurisdiction":"US-IL","url":"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3004&ChapterID=57"},{"@type":"Legislation","name":"Indiana disclosure of security breach law","legislationIdentifier":"Indiana Code 24-4.9","legislationJurisdiction":"US-IN","url":"https://www.in.gov/attorneygeneral/consumer-protection-division/id-theft-prevention/security-breaches/security-breach-faqs-and-notification-form-for-businesses/"},{"@type":"Legislation","name":"Indiana Consumer Data Protection Act","legislationIdentifier":"Indiana Code 24-15","legislationJurisdiction":"US-IN","url":"https://iga.in.gov/pdf-documents/123/2023/senate/bills/SB0005/SB0005.05.ENRH.pdf"},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR 314.4","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314/section-314.4"},{"@type":"Organization","name":"Illinois Automobile Dealers Association","url":"https://illinoisdealers.com/"},{"@type":"Organization","name":"Chicago Automobile Trade Association","url":"https://www.cata.info/"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/dealership-it-services-chicago/#service","name":"Helion Dealership IT Services in Chicago","serviceType":"Dealership IT services","description":"Helion Technologies provides dealership IT services in Chicago for automotive and heavy truck dealerships in Cook, DuPage, Lake, Will and Kane counties and Northwest Indiana, including managed IT, co-managed IT, cybersecurity, Tekion enablement and FTC Safeguards compliance, with an 82-second average time to reach a support agent and a 98% client retention rate.","url":"https://heliontechnologies.com/dealership-it-services-chicago/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":[{"@type":"AdministrativeArea","name":"Chicago metropolitan area"},{"@type":"City","name":"Chicago, Illinois"},{"@type":"City","name":"Schaumburg, Illinois"},{"@type":"City","name":"Arlington Heights, Illinois"},{"@type":"City","name":"Libertyville, Illinois"},{"@type":"City","name":"Elgin, Illinois"},{"@type":"City","name":"Naperville, Illinois"},{"@type":"City","name":"Aurora, Illinois"},{"@type":"City","name":"Oak Brook, Illinois"},{"@type":"City","name":"Orland Park, Illinois"},{"@type":"City","name":"Joliet, Illinois"},{"@type":"City","name":"Hammond, Indiana"},{"@type":"City","name":"Schererville, Indiana"},{"@type":"City","name":"Merrillville, Indiana"},{"@type":"City","name":"Valparaiso, Indiana"},{"@type":"State","name":"Illinois"},{"@type":"State","name":"Indiana"}],"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups in Chicago, the Illinois suburbs and Northwest Indiana"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Dealership IT services available in Chicago","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT for dealerships","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed AI for dealerships","url":"https://heliontechnologies.com/managed-ai/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-it-services-chicago/#faq","url":"https://heliontechnologies.com/dealership-it-services-chicago/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Does Helion Technologies offer dealership IT services in Chicago?","acceptedAnswer":{"@type":"Answer","text":"Yes. Helion Technologies supports automotive and heavy truck dealerships across Chicago, the collar counties and Northwest Indiana with managed IT, cybersecurity, Tekion support and FTC Safeguards compliance. Most help is remote, a support agent answers in 82 seconds on average, and field technicians are dispatched for the jobs that need hands."}},{"@type":"Question","name":"What do managed IT services in Chicago cost a dealership?","acceptedAnswer":{"@type":"Answer","text":"It depends on how many stores you run and which services you pick, so we don't post a rate card. What we can tell you is what's inside the price. After-hours calls, weekend coverage and field dispatch are part of the monthly number, so a Saturday night outage in Aurora doesn't come back weeks later as its own invoice with a trip charge on it. Shopping around first? Read our look at the best managed IT providers for dealerships, then request a price quote for a real figure. The dealership IT budget checklist and our comparison of in-house vs managed IT help with next year's numbers."}},{"@type":"Question","name":"Does Helion have an office in Chicago?","acceptedAnswer":{"@type":"Answer","text":"No. Helion Technologies is headquartered in Baltimore, Maryland, and supports Chicago-area stores remotely, with field technicians dispatched when a job needs someone on site. Whenever your Chicago-area stores are open, 7 days a week, the help desk is open too."}},{"@type":"Question","name":"Do fingerprint time clocks put our dealership under BIPA?","acceptedAnswer":{"@type":"Answer","text":"Possibly, and it's worth an hour with your attorney. Illinois' Biometric Information Privacy Act requires a public written policy and signed consent before anyone's fingerprint is scanned. Its exemption for businesses covered by the Gramm-Leach-Bliley Act may reach a dealer that arranges financing, but we haven't seen a court decide that for a dealership. We'll find every device that takes a scan and where the data goes."}},{"@type":"Question","name":"Our group has stores in Illinois and Indiana. Which breach law applies?","acceptedAnswer":{"@type":"Answer","text":"Often both, since each state's law follows its own residents rather than the store's address. Indiana sets a 45-day limit and copies its Attorney General on every notice. Illinois brings in its Attorney General once more than 500 residents are affected. Your attorney makes the final call. Plan for the stricter clock."}},{"@type":"Question","name":"We already have an IT manager. Do we have to replace them?","acceptedAnswer":{"@type":"Answer","text":"Not at all. With co-managed IT, your IT manager keeps the keys, the vendor calls and the final say, while Helion adds the help desk, the security operations center and extra hands for the projects one person can't cover from Waukegan to Valparaiso. They stay in charge. They just stop working alone. Our co-managed IT responsibility matrix shows who owns what."}},{"@type":"Question","name":"Do you support heavy truck dealers around Chicago?","acceptedAnswer":{"@type":"Answer","text":"We do, and we have for years. A truck store keeps different hours than the car store down the road, often runs a different DMS, and has a parts counter that's busy before the sun's up. We support Karmak and Procede shops. For security, read heavy truck dealership cybersecurity and how the FTC Safeguards Rule applies to heavy truck dealers."}}]}]}
+

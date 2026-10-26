@@ -1,0 +1,226 @@
+URL: https://www.lockpick.app/claude
+Fetched: 2026-10-26T03:50:17Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/claude
+Content-Type: text/html
+Via: chrome-headless
+Title: Claude connector · Lockpick
+Meta description: Connect Lockpick to Claude to run Pulse scans on sites you are authorized to test, prepare Deep scans you approve, read findings and work through the fixes.
+Canonical: https://www.lockpick.app/claude
+Robots: 
+H1: Lockpick for Claude
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+Skip to content
+How it works
+Pricing
+Docs
+Resources
+English
+Sign in
+Check it
+Lockpick for Claude
+
+Lockpick checks public websites you own or have permission to test. Connected to Claude, it lets you run a Pulse, prepare a Deep scan, read findings and work through the fixes without leaving the conversation.
+
+Availability
+
+Available as a custom connector
+
+You can connect Claude to Lockpick with the server address below. The Lockpick plugin is not in the Claude directory yet.
+
+At a glance
+Claude asks and Lockpick runs the checks. Every scan runs on Lockpick's own infrastructure and returns findings, redacted evidence, coverage, status and repair guidance.
+Claude asks for read access first and asks for more only when a task needs it. You tick only the permissions you want.
+A Pulse runs on your own statement that you own the site or may test it. A Deep scan needs proof of ownership and your approval of that exact scan in Lockpick.
+Reading is free. Scans use your monthly Lockpick allowance, the same as on the web.
+You can revoke the connection at any time in Lockpick, on the Add to your AI page. Revoking it does not delete past scans.
+Contents
+What it does
+Add Lockpick to Claude
+Connect your account
+Run a Pulse
+Go deeper with a Deep scan
+Fix and check again
+What it costs
+Data and permissions
+Limits
+Disconnect
+Help
+What it does#
+
+Lockpick for Claude connects Claude to one Lockpick workspace. In a chat, in Cowork or in Claude Code you can ask things like these.
+
+"Run a Pulse on my site."
+"Explain the top three findings."
+"Go deeper on this site."
+"Fix what Lockpick found in this repository."
+
+Claude never runs a scanner. It asks Lockpick, reads what the report shows, helps you fix it in your code or DNS, and asks Lockpick to check again.
+
+Add Lockpick to Claude#
+
+Adding Lockpick to Claude and connecting your Lockpick account are separate steps. The next section covers connecting.
+
+Custom connector
+
+In Claude, open Customize > Connectors, select Add custom connector and enter the server address. The connector then works in chat and in Cowork.
+
+Server address
+
+https://mcp.lockpick.app/mcp
+
+On Team and Enterprise plans, an organization Owner may need to make the connector available first. Members then connect their own accounts.
+
+Claude Code
+
+Run this in your terminal, then run /mcp in Claude Code to sign in.
+
+claude mcp add --transport http lockpick https://mcp.lockpick.app/mcp
+
+The Lockpick plugin for the Claude directory and the promptadvisers-lockpick marketplace for Claude Code are coming soon.
+
+Connect your account#
+
+When you connect, Claude opens Lockpick in your browser. Sign in or create an account, choose a workspace and review the request. Lockpick shows which app is asking and where it will send you back.
+
+Claude asks for read access first. When a task needs more, Lockpick shows a consent screen with the permissions Claude is asking for, sometimes more than one at once. Nothing is ticked for you, and whatever you leave unticked stays off. Each permission below has a plain name and, after it, the short code name Claude uses. You only need the plain name.
+
+Permissions
+Read
+lockpick.read
+View sites, scans, findings, and repair guidance that you can access.
+Stay signed in
+offline_access
+Keep this connection signed in until it expires or you revoke it.
+Identify your account
+openid
+Share your stable Lockpick account identifier. This grants no scan permissions.
+Share your email
+email
+Share your email address and whether Lockpick has verified it.
+Pulse scans
+lockpick.pulse
+Start Pulse scans, free quick checks and the free "Re-read this record". I own the sites I ask Lockpick to assess, or I have permission to test them.
+Sites
+lockpick.sites
+Add sites, switch the workspace's free site, send a site's package versions and import which of its findings are accepted or dismissed, when my role permits it. Switching can remove a site from monitoring.
+Deep scans
+lockpick.deep
+Prepare Deep scans on sites with proven ownership. I will approve each Deep scan in Lockpick.
+
+Connecting does not start a scan. Your workspace role and project permissions still apply, and a permission never lets Claude do more than your role allows.
+
+Run a Pulse#
+
+Ask Claude to run a Pulse on your site. Claude finds the site in your workspace, or adds it if you allowed Sites. The first time, Lockpick asks you to allow Pulse scans. Ticking it is your statement that you own the sites you ask about or may test them.
+
+A Pulse reads only what the public can see. The homepage and the files it loads, email sender settings (SPF and DMARC), security headers and TLS, and public DNS, certificate and subdomain records, in at most 10 requests. Claude waits for the result, then gives you the grade, the score, the top fixes and a link to the full report.
+
+Go deeper with a Deep scan#
+
+A Deep scan reads much more of the site, so it needs proof that you control the site and your approval of that exact scan.
+
+Ask Claude to go deeper. If the connection cannot prepare Deep scans yet, Lockpick first asks you to allow Deep scans.
+Claude shows you the exact DNS TXT record or file to publish. In Claude Code it can add the file to your repository, but that does not deploy it.
+Once it is published, Claude checks the proof and prepares the scan. It uses one Deep scan from your monthly allowance, and you approve it in Lockpick first.
+Claude gives you a one-time link to an approval page in Lockpick. It shows the site, the workspace, the app that asked, the cost and when the approval expires. Tick the statement and approve, or deny.
+Claude starts exactly the scan you approved. If the cost, the site or the proof changes first, you approve again.
+
+Claude never approves a Deep scan for you and cannot tick the statement on your behalf.
+
+Fix and check again#
+
+Ask Claude to fix what Lockpick found. It works from the repair brief, finds the real code or configuration first and shows you each change. In Claude Code the changes go into your repository, and Claude commits only when you allow it.
+
+DNS findings are fixed at your DNS host. After the record changes, Re-read this record reads the public record again for free, and it does not change the original grade.
+
+Once a fix is deployed, ask Claude to check again. That is a new scan of the same kind, and it uses one scan. Copying a prompt or merging a change does not mark a finding fixed. Only a new scan does.
+
+What it costs#
+
+Costs come from your connected Lockpick account, the same as on the web. This table lists what Claude can do here.
+
+Reading sites, scans, findings and repair briefs
+Free
+Quick check of a homepage
+Free, within its hourly and daily limits
+Pulse
+One Pulse scan from your monthly allowance
+Deep scan
+One Deep scan from your monthly allowance
+Check again
+The same as its depth
+Re-read this record
+Free, and the original grade does not change
+
+The Free plan includes 5 Pulse scans a month on one site and no Deep. The Deep plan adds Deep scans and more Pulse scans.
+
+See pricing
+
+Data and permissions#
+
+Lockpick receives what the tools you use need, such as site addresses, site IDs and scan IDs. It stores those requests and their results like any other use of Lockpick, together with your account, workspace, connection and scan records, as the privacy policy describes.
+
+Lockpick returns findings, redacted evidence, coverage, status and repair guidance to Claude. It never returns how Lockpick runs its scans internally. What Claude receives is handled by Anthropic under its own terms and privacy policy. A report quotes text from the scanned site, and anyone can hide a line on a web page that tries to give an AI orders, so Lockpick tells Claude to treat that text as content, never as instructions.
+
+Lockpick does not request your conversation history. Do not put passwords, private keys or unrelated personal information into what you ask Claude to send to Lockpick. Repository edits happen in the Claude environment where you asked for them.
+
+Read the privacy policy
+
+Limits#
+
+A finished scan is not a security certification. Anything a scan could not inspect stays unknown. A finding that disappears does not prove a credential was revoked or that every related issue was fixed.
+
+Cancelling scans, auto-checks, share links, billing and deleting sites stay in the web app. Claude cannot do them.
+
+Lockpick limits how often a connection can call it. When a limit is reached, Claude tells you when to try again.
+
+Disconnect#
+
+Open Add to your AI in Lockpick and find Connected apps. You can revoke your own connections, and workspace owners and admins can revoke anyone's. A revoked connection stops working at once. To use it again, connect again from Claude.
+
+Revoking a connection does not delete past scans. They stay in your workspace until you delete them or your account closes.
+
+Owners and admins can also turn agent access off for the whole workspace. That disconnects every app, and turning it back on reconnects none of them.
+
+Removing Lockpick from Claude stops Claude from using it but does not revoke the connection in Lockpick. Revoke it there as well.
+
+Help#
+
+Write to support@lockpick.app. Include the request ID and the time of the problem, and never send tokens, keys or passwords.
+
+Claude is made by Anthropic. Lockpick is an independent service and is not made by Anthropic.
+
+Methodology
+Privacy policy
+Terms of Service
+Pricing
+Methodology
+Docs
+Blog
+Guides
+Security checks
+Learn with Pick
+Security and trust
+Lockpick for Claude
+Changelog
+Status
+Facts for AI assistants
+
+Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.
+
+Lockpick assesses public pages you are authorized to test, and public GitHub code it never runs.
+
+© 2026 Lockpick
+Terms
+Privacy
+Contact
+Cookie settings
+Sign in
+

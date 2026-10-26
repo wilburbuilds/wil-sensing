@@ -1,0 +1,149 @@
+URL: https://www.lockpick.app/methodology
+Fetched: 2026-10-26T03:50:12Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/methodology
+Content-Type: text/html
+Via: chrome-headless
+Title: How Lockpick checks a site · Lockpick
+Meta description: What Pulse and Deep look at, what they leave alone, and how to read a result.
+Canonical: https://www.lockpick.app/methodology
+Robots: 
+H1: How Lockpick checks a site
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+Skip to content
+How it works
+Pricing
+Docs
+Resources
+English
+Sign in
+Check it
+How Lockpick checks a site
+
+What Pulse and Deep look at, what they leave alone, and how to read a result.
+
+Watch the walkthrough
+
+Four minutes with Pick, from adding your site to handing the fix to your AI. Captions are on screen, so it works with the sound off.
+
+Play the walkthrough
+4 min
+0:00
+Meet Lockpick
+0:44
+Add your site
+1:26
+Your first scan
+2:19
+Read your report
+3:10
+Fix it with your AI
+Read the transcript
+Pulse and Deep
+
+Two depths of the same outside look. Pulse is free on every plan. Deep comes with the Deep plan and goes much further, on sites you have proven you own.
+
+Pulse
+
+A quick outside look, the way a stranger or a bot sees your site
+
+What we look at
+The homepage and the files it loads, email sender settings (SPF and DMARC), security headers and TLS, and public DNS, certificate and subdomain records, in at most 10 requests.
+How long
+Usually under 15 seconds
+Needs proof you own it
+No, just confirm you're allowed
+Deep
+
+A careful walk through your site, the way a determined attacker would
+
+What we look at
+Up to 30 readable pages and 20 scripts, files that should not be public, admin areas, and your API if you have one. If your site builds its pages in the browser, the report says how much Deep could read.
+How long
+2 to 8 minutes
+Needs proof you own it
+Yes, a DNS record, a meta tag or a file, kept published
+
+Neither one changes anything on your site.
+
+From finding to fix
+
+Every scan ends in the same loop, so you know when a problem is really gone.
+
+Scan
+
+Run a Pulse or Deep scan, or let a weekly auto-check run one for you.
+
+Read the finding
+
+Each finding says in plain words what is open, what someone could do with it and the evidence we saw.
+
+Hand the fix to your AI
+
+Copy the fix prompt into Lovable, Bolt, Replit, Cursor or Claude Code. Review and test the change before you deploy it.
+
+Check again
+
+Check again runs the same scan to confirm the fix. It uses one scan from the month’s allowance.
+
+For a DNS finding, Re-read this record reads the public record again for free, without a new scan.
+
+Weekly auto-checks
+
+Turn on an auto-check and Lockpick scans your site once a week, then emails you the grade, what was fixed, what is new and the one thing to fix first. The Free plan checks weekly with Pulse. The Deep plan checks weekly with Pulse or Deep.
+
+Each auto-check uses one scan from the month’s allowance, the same as a scan you start. When the scans run out, auto-checks wait for the reset and email you.
+
+Questions
+Which websites can I assess?
+Do I need to understand security?
+Does my coding agent run the scan?
+What does Pulse look at?
+Does Lockpick follow robots.txt?
+Does a clean result mean my app is secure?
+Will Lockpick change my code?
+What happens if the scan stops early?
+Can I keep the results forever?
+Sources
+
+The live vulnerability count on the home page starts from Zero Day Clock, which counted 57,871 CVEs published from January to August 2026. We extend it at the same daily rate.
+
+See what your site shows
+
+Start with a free look at your homepage, then decide how far to go.
+
+Check it
+See pricing
+Pricing
+Methodology
+Docs
+Blog
+Guides
+Security checks
+Learn with Pick
+Security and trust
+Lockpick for Claude
+Changelog
+Status
+Facts for AI assistants
+
+Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.
+
+Lockpick assesses public pages you are authorized to test, and public GitHub code it never runs.
+
+© 2026 Lockpick
+Terms
+Privacy
+Contact
+Cookie settings
+Sign in
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"FAQPage","@id":"https://www.lockpick.app/methodology#faq","url":"https://www.lockpick.app/methodology","mainEntity":[{"@type":"Question","name":"Which websites can I assess?","acceptedAnswer":{"@type":"Answer","text":"Only sites you own or are authorized to test. Check the exact HTTPS origin before starting. Permission for one site does not include other domains, shared hosting infrastructure or third-party services."}},{"@type":"Question","name":"Do I need to understand security?","acceptedAnswer":{"@type":"Answer","text":"Start with the plain-language explanation, then open the evidence if you need more detail. Your coding agent can help with a repair, but you should review and test the proposed change."}},{"@type":"Question","name":"Does my coding agent run the scan?","acceptedAnswer":{"@type":"Answer","text":"Lockpick runs the scan on its own infrastructure. Your coding agent can help apply the fix prompt in your repository. Your results show the evidence and next steps. Private workflows and internal logs are not part of the report."}},{"@type":"Question","name":"What does Pulse look at?","acceptedAnswer":{"@type":"Answer","text":"The homepage and the files it loads, email sender settings (SPF and DMARC), security headers and TLS, and public DNS, certificate and subdomain records, in at most 10 requests. It does not sign in, submit forms, access your database or prove that user roles are isolated. Deep goes further, up to 30 readable pages and 20 scripts plus your API, once you prove you own the site. When a site builds its pages in the browser, the report shows how much Deep could read."}},{"@type":"Question","name":"Does Lockpick follow robots.txt?","acceptedAnswer":{"@type":"Answer","text":"Pulse reads one page, the homepage a visitor opens, and the files it loads, the way a visitor’s browser does. It also reads robots.txt, your sitemap and security.txt, and never crawls any other page. Deep reads robots.txt for discovery only. Its Sitemap directive and the routes it names guide what Deep checks, but Deep still requests routes the file disallows, because robots.txt is a request to well-behaved crawlers, not access control. Deep runs only on sites you have proven you own."}},{"@type":"Question","name":"Does a clean result mean my app is secure?","acceptedAnswer":{"@type":"Answer","text":"No. It means the completed checks did not observe a concern in the sampled response. Unknown checks and untested areas remain visible. A public homepage check cannot establish the security of the whole application."}},{"@type":"Question","name":"Will Lockpick change my code?","acceptedAnswer":{"@type":"Answer","text":"No changes are made automatically. Review the fix prompt with your coding agent, test the proposed fix, and decide whether to deploy it. Copying a prompt does not resolve a finding. Check again to compare new evidence."}},{"@type":"Question","name":"What happens if the scan stops early?","acceptedAnswer":{"@type":"Answer","text":"If a scan stops early, the report marks which checks finished and which did not. A partial result never shows as clean."}},{"@type":"Question","name":"Can I keep the results forever?","acceptedAnswer":{"@type":"Answer","text":"Reports stay in your workspace until you delete them or close your account. Never put passwords, access tokens or customer data in a target URL or repair brief."}}]}]}
+

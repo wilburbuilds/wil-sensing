@@ -1,0 +1,149 @@
+URL: https://intel.pixelnarratives.studio/privacy
+Fetched: 2026-10-26T03:41:33Z
+HTTP status: 200
+Final URL: https://intel.pixelnarratives.studio/privacy
+Content-Type: text/html
+Via: chrome-headless
+Title: Web Intelligence by Pixel Narratives — Find Conversion Gaps, SEO Weaknesses & Revenue Leakage
+Meta description: Free AI-powered website diagnostic tool. Analyze any business site for conversion gaps, SEO weaknesses, AI discoverability risks, and revenue leakage in minutes.
+Canonical: https://webintel.replit.app/
+Robots: index, follow
+H1: Privacy Policy
+
+WEB INTELLIGENCE
+
+A Visibility Tool by Pixel Narratives
+
+PIXELNARRATIVES.STUDIO
+New Audit
+Dashboard
+Compare
+FREE CONSULTATION
+Talk to an Expert
+We build from here.
+
+VISIBILITY. ATTENTION. IMPLEMENTATION.
+
+LEGAL
+
+Privacy Policy
+
+Last updated: June 6, 2026
+
+This Privacy Policy describes how Web Intelligence, a tool by Pixel Narratives, handles the information submitted through this service. We are committed to being transparent about what we collect, why we collect it, and how you can have it removed.
+
+WHAT DATA WE COLLECT
+
+When you submit a URL for auditing, we collect and store the following:
+
+The URL you submit for analysis
+The business type you select (e.g. restaurant, e-commerce)
+The full audit results produced for that URL, including scores, page metadata, and AI-generated recommendations
+Publicly available business profile data retrieved for the audited site, including Google rating, review count, and related authority signals
+The timestamp of when the audit was run
+
+We do not collect your name, email address, IP address, or any other personally identifiable information. No account is required to use this tool.
+
+HOW WE USE IT
+
+The data we store is used solely to:
+
+Display your audit history on the Dashboard
+Enable the Compare feature across multiple audits
+Power anonymised benchmarks that help contextualize scores by business type
+
+We do not sell, share, or use this data for advertising or marketing purposes.
+
+DATA RETENTION
+
+Audit records are retained indefinitely so that history and comparison features remain functional. If you wish to have a specific audit or all audits associated with a URL removed, see the data deletion section below.
+
+THIRD-PARTY SERVICES
+
+This tool relies on three external services to produce audit results:
+
+Google PageSpeed Insights API — Performance, accessibility, and SEO scores are fetched from Google's public API. The URL you submit is sent to Google to generate these scores and is subject to Google's terms and data policies.
+Google Places API — The submitted URL's domain is used to look up publicly available Google Business Profile data (rating, review count, listing status). This lookup is subject to Google Maps Platform Terms of Service.
+AI Analysis (OpenAI) — Crawled page content and scores are sent to an AI model to generate written recommendations and summaries. No personally identifiable information is included in these requests.
+
+We do not control how these third-party providers handle data once it leaves our system. Please review their respective privacy policies for details.
+
+AUTOMATED CRAWLING
+
+When you submit a URL, our automated crawler (SiteAuditBot/1.0) sends HTTP requests directly to the target site to gather page content, links, and metadata. By submitting a URL, you confirm you own or have explicit permission to audit that website. Do not submit URLs for sites you are not authorised to analyse.
+
+DATA DELETION
+
+You can delete individual audits from the Recent Audits list on the home page or from the Dashboard. If you would like all records for a particular URL removed from our database, or have any other data-related requests, please contact us at pixelnarratives.studio/contact and we will process your request promptly.
+
+CHANGES TO THIS POLICY
+
+We may update this policy as the tool evolves. Material changes will be reflected in the "last updated" date at the top of this page.
+
+© 2026 PIXEL NARRATIVES. ALL RIGHTS RESERVED.
+
+ACCURACY
+
+Results are based on a sample of up to 20 pages and may not reflect the full site. Findings are AI-generated and may vary between runs on the same site.
+
+AUTHORIZED USE
+
+By submitting a URL, you confirm you own or have explicit permission to audit that website. Do not use this tool on sites you are not authorized to analyze.
+
+DATA STORAGE
+
+Submitted URLs, business type, and audit results are stored to power benchmarking and history features.
+
+PERFORMANCE DATA
+
+Performance scores are sourced from Google PageSpeed Insights API and are subject to Google's data policies. Business profile data (rating, reviews, listing status) is retrieved from Google Places API and is subject to Google Maps Platform Terms.
+
+BOT DISCLOSURE
+
+Audits are performed by an automated crawler (SiteAuditBot/1.0) that sends HTTP requests to the target site. The crawler respects standard HTTP responses and site availability.
+
+INFORMATIONAL ONLY
+
+Audit results are for informational purposes only and do not constitute professional SEO, legal, marketing, or security advice.
+
+© 2026 PIXEL NARRATIVES. ALL RIGHTS RESERVED.
+
+PRIVACY POLICY
+TERMS OF SERVICE
+PIXELNARRATIVES.STUDIO
+
+--- json-ld ---
+
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Web Intelligence",
+      "url": "https://WebIntel.replit.app",
+      "description": "AI-powered website diagnostic tool that analyzes business websites for conversion gaps, SEO weaknesses, AI discoverability risks, and revenue leakage using multi-page crawling and OpenAI analysis.",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "browserRequirements": "Requires JavaScript",
+      "inLanguage": "en",
+      "creator": {
+        "@type": "Organization",
+        "name": "Pixel Narratives",
+        "url": "https://www.pixelnarratives.studio"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Free website audit and diagnostic reports"
+      },
+      "featureList": [
+        "Conversion clarity analysis",
+        "SEO weakness detection",
+        "AI discoverability scoring",
+        "Lead capture gap identification",
+        "Google PageSpeed Insights integration",
+        "Multi-page site crawling",
+        "Competitive benchmark comparisons"
+      ]
+    }
+    
+

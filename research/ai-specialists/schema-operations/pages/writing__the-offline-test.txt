@@ -1,0 +1,129 @@
+URL: https://schemaoperations.com/writing/the-offline-test/
+Fetched: 2026-10-26T03:33:50Z
+HTTP status: 200
+Final URL: https://schemaoperations.com/writing/the-offline-test/
+Content-Type: text/html
+Via: chrome-headless
+Title: The offline test — Schema Ops
+Meta description: You can tell how healthy a company is by how long the founder can stay offline. Three days is usually fine. Ten days shows you every yes that never left.
+Canonical: https://schemaoperations.com/writing/the-offline-test/
+Robots: 
+H1: The offline test
+
+Skip to content
+
+Live webinar, Nov 15 at 9 AM ETStop being the system: a 30-minute working session.
+
+Reserve a seat
+S
+SchemaOps
+Services
+Webinars
+Writing
+About
+Get in touch
+
+ESSAY
+DESIGN
+
+The offline test
+
+You can tell how healthy a company is by how long the founder can stay offline. Three days is usually fine. Ten days shows you every yes that never left.
+
+Written by
+Martin Toomey
+Published
+18 February 2026
+Reading time
+3 min read
+
+Share on X
+All writing
+
+Ican tell how healthy a company is by how long the founder can stay offline.
+
+Not "take a vacation." Actually offline. Phone on do-not-disturb. No Slack. No email. No "just checking one thing."
+
+Three days is usually fine.
+
+Five days and the Slack channels start filling with questions that used to go to the founder.
+
+Ten days and someone has either made a call they weren't supposed to make or frozen something that should have moved.
+
+The length of time before something breaks is a better scorecard than the one on the wall.
+
+Most founders hear this and argue with the number. They picture a cruise or a week in the mountains. They are not testing the company. They are testing whether they can ignore the company. Those are different things.
+
+What the test actually measures
+
+Three days works because most decisions can wait. People finish the work already in motion. They do not invent new work that needs you.
+
+Five days is where the real map shows up. The questions that hit Slack are the decisions still sitting with you. Pricing exceptions. Scope changes. Which lead is real. Which problem is urgent. The team is not incompetent. They are following the rule you wrote: when in doubt, ask the founder.
+
+Ten days forces a choice. Someone either moves without permission or stops. Both outcomes are data. The first shows where the line was never drawn. The second shows where the line was drawn so high that nothing moves without you.
+
+The test does not care how good the numbers look while you are there. It cares whether the numbers still move when you are not the operating system.
+
+What usually breaks
+
+The Slack channels fill because the decision rights were never written down. "Ask me" is the policy. No one owns the exception. No one owns the next step when the normal path stalls. So the path stalls until you reappear.
+
+The frozen work is usually the thing only you can unstick. A vendor who needs a call. A client who wants a discount. A hire who is waiting on a yes. The work is not stuck. The yes is stuck.
+
+The unauthorized call is the other failure mode. Someone finally decides because the alternative is worse. They pick the safer option, not the right one, because they do not have the standard. Then you come back and reverse it. Next time they wait longer.
+
+None of this is a people problem. It is a design problem. The company still routes the hard parts through one person.
+
+How to raise the score
+
+Write the line. Over the line you decide. Under the line someone else decides without asking. Put a dollar amount or a clear condition on it. Three percent off list. A change under fifteen hundred dollars. A hire inside the approved seat and budget. Write the three bands. Put them where the work already happens.
+
+Name the owner of the exceptions. The sales lead owns the middle band. The project lead owns scope changes inside the contract. If you cannot name the person, the box is still you. Do not add more volume until the owner can move it.
+
+Run the scorecard without you. Five numbers. Each number has an owner. Green or yellow means they move it. Red means they bring options, not the problem. If the meeting still requires your commentary to stay green, the scorecard is theater.
+
+Then test it. Take three days. Tell the team you are offline. Watch which questions still arrive. Those are the yeses that never left. Fix those. Then try five. The goal is not thirty days. The goal is that ten days no longer produces either a bad call or a freeze.
+
+The companies that pass this test do not have better people. They have fewer decisions that still require the founder. The founder is not in every thread. The numbers still move. The scorecard on the wall starts to match the one that shows up when the phone stays quiet.
+
+Most owners never run the math until a buyer does it for them. The offline test is cheaper.
+
+NEW ESSAYS
+
+New pieces go out on X first.
+
+Follow @Toomey1313
+
+IS THIS THE THING IN THE WAY?
+
+Send me one word.
+
+DESIGN, MARGIN or INPUTS. Tell me which one sounds like your company and we'll start there.
+
+Get in touch
+S
+SchemaOps
+
+Operating design for founder-led companies that have stopped growing
+
+SITE
+
+Services
+Webinars
+Writing
+About
+Contact
+
+ELSEWHERE
+
+@Toomey1313 on X
+hello@schemaoperations.com
+
+START A CONVERSATION
+
+Design, margin or inputs. Tell me which one is in the way.
+
+© 2026 Schema Ops. All rights reserved.
+
+New essays go out on X first
+

@@ -1,0 +1,29 @@
+URL: https://playbook.boomautomations.com/case-studies
+Fetched: 2026-10-26T03:44:22Z
+HTTP status: 200
+Final URL: https://playbook.boomautomations.com/case-studies
+Content-Type: text/html
+Via: chrome-headless
+Title: The AI & Automation Agency Master Playbook | Luke Pierce
+Meta description: The complete guide to positioning, selling, delivering, and scaling an AI agency, plus the complete Pricing Guide. Free from Luke Pierce.
+Canonical: 
+Robots: 
+H1: Get Access to 3 AI Implementation Case Studies
+
+FREE RESOURCE BY LUKE PIERCE
+Get Access to 3 AI Implementation Case Studies
+
+A marketing agency, a PE firm, and a multi-location healthcare group. What the assessment found, the full tech stack, what we absorbed vs. kept vs. killed, the timelines, and the results after launch.
+
+Send Me The Case Studies
+
+No spam. Unsubscribe anytime.
+
+*Disclaimer: Company names and identifying details in these case studies have been redacted for confidentiality. All figures reflect actual client engagements. These examples are provided for educational purposes only and do not constitute a guarantee of results. Outcomes vary based on expertise, execution, team, and individual business circumstances.
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=text name="" id="" label="" placeholder="First Name" aria="" required=false
+  - input type=email name="" id="" label="" placeholder="Email Address" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

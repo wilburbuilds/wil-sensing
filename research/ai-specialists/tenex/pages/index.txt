@@ -1,0 +1,82 @@
+URL: https://tenex.co/
+Fetched: 2026-10-26T03:33:57Z
+HTTP status: 200
+Final URL: https://www.tenex.co/
+Content-Type: text/html
+Via: chrome-headless
+Title: Tenex | AI Transformation & AI Engineering Partner
+Meta description: Tenex is your AI transformation partner. We set and execute your enterprise AI strategy at startup speed, then ship it with outcome-based AI engineering squads.
+Canonical: https://www.tenex.co/
+Robots: 
+H1: Win the next decade.
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Win the next decade.
+Your AI transformation partner.
+
+We set & execute your enterprise AI strategy at startup speed.
+
+Learn more
+OUR APPROACH
+Tenex helps you shift from AI-absent to AI-native.
+Strategy
+
+No 6-month strategy work. No 200-slide presentations. We get right to work on holistic & function-specific audits that surface the most compelling AI use cases.
+
+Learn more
+Transformation
+
+Custom partnership that combines bespoke change management & AI tooling with baseline metrics to drive measurable ROI.
+
+Learn more
+Engineering
+
+Outcome‑based, subscription‑style engineering squads that leverage AI acceleration to ship software faster and more affordably— you pay for features delivered, not hours logged.
+
+Learn more
+
+AI isn’t scary. Ignoring it is.
+
+Partnered with the best:
+
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Stay on the right side of history.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Service","name":"Tenex Strategy","description":"No 6-month strategy work. No 200-slide presentations. We get right to work on holistic & function-specific audits that surface the most compelling AI use cases.","url":"https://www.tenex.co/ai-transformation","serviceType":"Tenex Strategy","provider":{"@id":"https://www.tenex.co/#organization"},"areaServed":"Worldwide"},{"@context":"https://schema.org","@type":"Service","name":"Tenex Transformation","description":"Custom partnership that combines bespoke change management & AI tooling with baseline metrics to drive measurable ROI.","url":"https://www.tenex.co/ai-transformation","serviceType":"Tenex Transformation","provider":{"@id":"https://www.tenex.co/#organization"},"areaServed":"Worldwide"},{"@context":"https://schema.org","@type":"Service","name":"Tenex Engineering","description":"Outcome‑based, subscription‑style engineering squads that leverage AI acceleration to ship software faster and more affordably— you pay for features delivered, not hours logged.","url":"https://www.tenex.co/ai-engineering","serviceType":"Tenex Engineering","provider":{"@id":"https://www.tenex.co/#organization"},"areaServed":"Worldwide"}]
+

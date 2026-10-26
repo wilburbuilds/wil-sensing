@@ -1,0 +1,264 @@
+URL: https://www.lockpick.app/checks
+Fetched: 2026-10-26T03:50:25Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/checks
+Content-Type: text/html
+Via: chrome-headless
+Title: Checks · Lockpick
+Meta description: Each page says what a check looks for, why it matters and how to fix it with your AI.
+Canonical: https://www.lockpick.app/checks
+Robots: 
+H1: What Lockpick checks, one page each
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+Skip to content
+How it works
+Pricing
+Docs
+Resources
+English
+Sign in
+Check it
+What Lockpick checks, one page each
+
+Each page says what a check looks for, why it matters and how to fix it with your AI.
+
+Connection and certificates
+Does your site load over HTTPS for every visitor?
+What the HTTPS check reads, what a passing result does and does not prove, and how to keep every page on an encrypted connection.
+Updated Oct 8, 2026
+Does your site tell browsers to always use HTTPS?
+The HSTS check looks for a Strict-Transport-Security header. Here is what it means when it is missing and how to add it safely.
+Updated Oct 8, 2026
+Does your HSTS rule cover your other subdomains too?
+The HSTS reach check looks at whether a long-lived Strict-Transport-Security rule includes your subdomains, and when it is safe to extend it.
+Updated Oct 8, 2026
+Which TLS version does your site negotiate, and is it current?
+The TLS version check reads which protocol version a scan connection used. Here is what a modern result does and does not prove.
+Updated Oct 8, 2026
+Which of your addresses does your site certificate cover?
+The certificate coverage check compares names in public certificate logs with the names your certificate covers, so forgotten addresses surface.
+Updated Oct 8, 2026
+Is your site certificate about to expire?
+The certificate expiry check warns when your site certificate expires within a month. Here is what to check so renewal does not lock visitors out.
+Updated Oct 8, 2026
+Why do visitors see a certificate warning on your site?
+The certificate failure check reports when a secure connection fails the checks every browser makes. Here is what each failure means and how to fix it.
+Updated Oct 8, 2026
+Browser security settings
+Does your site send a Content Security Policy?
+The CSP check looks for an enforced Content Security Policy that limits where scripts load from. Here is what it shows and how to add one in steps.
+Updated Oct 8, 2026
+Does your Content Security Policy also lock down plugins, base and forms?
+This check reads three directives in an enforced CSP that are easy to miss, and explains what each one blocks and how to add them.
+Updated Oct 8, 2026
+Can other sites show your pages inside a frame?
+The framing check looks for frame-ancestors or X-Frame-Options, the settings that stop clickjacking. Here is what a missing one means and how to fix it.
+Updated Oct 8, 2026
+Does your site stop browsers from guessing file types?
+The file type check looks for X-Content-Type-Options set to nosniff. Here is what it protects against and how to add it in one line.
+Updated Oct 8, 2026
+How much of your page address do you share when visitors click away?
+The referrer check looks for an explicit Referrer-Policy. Here is what browsers do without one and which value fits most sites.
+Updated Oct 8, 2026
+Does your site declare which browser features it may use?
+The browser feature check credits a declared Permissions-Policy that limits camera, microphone and other powerful features. A missing one is never reported.
+Updated Oct 8, 2026
+Does your site keep windows from other sites away from it?
+The window isolation check credits a Cross-Origin-Opener-Policy on your pages. Absence is never scored, because popups for sign-in and payments may need it off.
+Updated Oct 8, 2026
+Cookies and sign-in sessions
+Do the cookies on your public pages carry the right protections?
+The cookie flags check reads Secure, HttpOnly and SameSite on cookies your public pages set. Here is what each flag does and which cookies need them.
+Updated Oct 8, 2026
+Could a shared cache hand one visitor another visitor’s session?
+This Deep scan check reads the session address of common sign-in libraries and its cache headers. An empty answer is normal; a cacheable one needs fixing.
+Updated Oct 8, 2026
+Is your sign-in system handing sessions to visitors who never signed in?
+This Deep scan check flags a sign-in library session address that returns a real user or session to a visitor with no cookie. Treat it as urgent.
+Updated Oct 8, 2026
+Is your sign-in cookie missing a protection?
+This Deep scan check recognises the session cookie of common sign-in libraries and flags one set without Secure, HttpOnly or SameSite.
+Updated Oct 8, 2026
+Page content and forms
+Does your secure page load anything over plain HTTP?
+The mixed content check reads your HTML for scripts, images and files at http addresses on an https page. Here is why it matters and how to fix it.
+Updated Oct 8, 2026
+Do the forms on your site send data over HTTPS?
+The form destination check reads where the forms on a page say they send data, and flags any plain http destination. No form is ever submitted.
+Updated Oct 8, 2026
+Could your login form leak passwords in the address or over HTTP?
+The password form check reads how a form with a password field declares it will send data, and flags plain HTTP or passwords placed in the address.
+Updated Oct 8, 2026
+Code anyone can download
+Is a private API key sitting in your site code?
+The secret key check reads pages, scripts and source maps for text shaped like a private key for a known service. Here is what to do when it finds one.
+Updated Oct 8, 2026
+Does your browser code mix untrusted input with risky methods?
+This check flags scripts that both read input an attacker can control and call methods that insert or run content. It is a code review lead, not a proven bug.
+Updated Oct 8, 2026
+Can anyone download readable source code for your site?
+The public source map check reads source maps a Deep scan can download, which can reveal file names and original code. Here is when that matters.
+Updated Oct 8, 2026
+Do your scripts point to a source map?
+This check notes when a script names a source map in a header or trailing comment. The reference alone does not show the map is public.
+Updated Oct 8, 2026
+Is your live site serving a development build?
+This check flags pages that load a script or library build meant for development. Here is why it slips through and how to ship the production build.
+Updated Oct 8, 2026
+Do scripts from other sites carry an integrity hash?
+The subresource integrity check reads whether scripts and styles from other sites carry an integrity hash. Here is when to add one and when you cannot.
+Updated Oct 8, 2026
+Does your site load scripts from a host with a past security incident?
+This check matches the script hosts your pages load against published supply-chain incident reports. A match is a reason to review, not proof of harm.
+Updated Oct 8, 2026
+Files and error pages
+Does your site show error details or stack traces to the public?
+The error output check flags responses that show stack traces or debug output from your server. Here is what they reveal and how to turn them off.
+Updated Oct 8, 2026
+Does your server list the files in a folder to anyone?
+The folder listing check flags pages that are automatic listings of a server folder. Here is why they matter and how to turn listings off.
+Updated Oct 8, 2026
+Are settings or deployment files readable on your live site?
+The deployment file check, in Deep scans, looks for configuration, build and history files served at public addresses, confirmed by their content.
+Updated Oct 8, 2026
+APIs
+Is your API description public, and does it match your API?
+This Deep scan check reads public API descriptions such as OpenAPI documents, and which operations they say need sign-in. A description proves nothing about enforcement.
+Updated Oct 8, 2026
+Is your interactive API documentation open to anyone?
+This Deep scan check flags interactive API documentation reachable without signing in. It is reconnaissance value for attackers, not a flaw on its own.
+Updated Oct 8, 2026
+Does your site let other websites read responses with your visitors’ cookies?
+The CORS check sends one request with an unrelated origin and flags a response that trusts it while allowing credentials. Here is why that matters.
+Updated Oct 8, 2026
+Does an API route on your site answer without signing in?
+This Deep scan check sends one read-only request with no cookie, token or key to API routes your site uses, and flags any that return data.
+Updated Oct 8, 2026
+Does your API skip the sign-in its documentation promises?
+This Deep scan check flags an operation your API description marks as protected that still returns data without sign-in. One of the two is wrong.
+Updated Oct 8, 2026
+Can anyone list your GraphQL schema?
+This Deep scan check sends one introspection request with no credentials and notes when a GraphQL endpoint lists its operations to anyone.
+Updated Oct 8, 2026
+Do your API responses send the right protective headers?
+This Deep scan check reads JSON responses from your API for nosniff, cache rules on personal data and a restricted cross-origin rule.
+Updated Oct 8, 2026
+Does your API advertise methods that change data?
+This Deep scan check asks API routes which methods they accept and notes ones that list create, change or delete methods. Nothing is ever written.
+Updated Oct 8, 2026
+Is your site sending password hashes to the browser?
+This Deep scan check flags password hashes in public pages or API responses, usually from sending whole user records to the browser. Here is the fix.
+Updated Oct 8, 2026
+Databases and backends
+Can anyone read your Supabase tables with the public anon key?
+This Deep scan check reads tables your site code names with the public anon key and flags any that return rows. Here is what that does and does not prove.
+Updated Oct 8, 2026
+Can anyone read your Firebase Realtime Database?
+This Deep scan check sends one shallow public read to the Firebase Realtime Database your site uses and flags it when entries come back.
+Updated Oct 8, 2026
+Do your Convex functions return data to anyone who calls them?
+This Deep scan check calls Convex query functions your site code uses, with no sign-in and no arguments, and flags any that return data.
+Updated Oct 8, 2026
+Email
+Does your domain publish an SPF record that refuses unknown senders?
+The SPF check reads whether your mail domain publishes one SPF record ending in a soft fail or hard fail. Here is what that does and what it leaves out.
+Updated Oct 8, 2026
+Why does Lockpick report DKIM as not tested?
+DKIM needs a selector and a signed message to verify, so a scan reports it as not tested instead of guessing. Here is how to check it yourself.
+Updated Oct 8, 2026
+Can anyone send email that looks like it came from your domain?
+The email spoofing check reads your DMARC policy to see whether mail servers are told to stop fake mail from your domain. Here is how to close the gap safely.
+Updated Oct 8, 2026
+Would you find out if someone faked email from your domain?
+The DMARC reports check reads whether your DMARC record names an address for aggregate reports, so spoofing and broken senders do not stay invisible.
+Updated Oct 8, 2026
+Is your SPF record broken or too permissive?
+The broken SPF check finds duplicate SPF records, ones that let any sender pass, and ones over the DNS lookup limit. Here is how to repair each.
+Updated Oct 8, 2026
+Your domain and subdomains
+Is DNSSEC turned on for your domain?
+The DNSSEC check reads whether your domain has a DS record at its parent zone. Here is what DNSSEC protects and why a missing one is informational.
+Updated Oct 8, 2026
+Does your domain say which authorities may issue its certificates?
+The CAA check reads whether your domain publishes a CAA record. Here is what it limits, why a missing one is informational, and how to add it.
+Updated Oct 8, 2026
+Which addresses on your domain are controlled by other companies?
+This check lists subdomains that point to services run by other companies, so each one has a known owner. Pointing elsewhere is normal; forgetting is the risk.
+Updated Oct 8, 2026
+Could someone take over a forgotten subdomain of yours?
+The subdomain takeover check flags addresses that point at a service where the account behind them looks unclaimed. Here is why it is urgent and how to fix it.
+Updated Oct 8, 2026
+Do your subdomains depend on a domain that is about to lapse?
+This check flags subdomains pointing to a domain that looks unregistered, is being deleted or expires soon, so a new owner never inherits your traffic.
+Updated Oct 8, 2026
+Is your own domain close to expiring or being deleted?
+The domain registration check reads public registry data for your domain and flags near expiry or deletion status, so renewal never fails quietly.
+Updated Oct 8, 2026
+Has someone registered a domain that looks like yours?
+The lookalike check reads public records for common variations of your domain and lists the ones that are registered. Here is what to do about them.
+Updated Oct 8, 2026
+Sitemaps and search
+Does your sitemap point attackers to a private area?
+This check flags sitemap entries whose names suggest an admin, app, API or test area. Listing is not a flaw; an unprotected area would be.
+Updated Oct 8, 2026
+Does your site give search engines a sitemap?
+This search visibility check looks for a sitemap where search engines expect one. It never affects your security grade. Here is how to publish one.
+Updated Oct 8, 2026
+Does your robots.txt point search engines to your sitemap?
+This search visibility check flags a sitemap that robots.txt does not name. One line fixes it, and it never affects your security grade.
+Updated Oct 8, 2026
+Can search engines read your sitemap?
+This search visibility check flags a sitemap that breaks the sitemap format, so search engines may ignore part or all of it. It never affects your security grade.
+Updated Oct 8, 2026
+Does your sitemap list addresses search engines will skip?
+This search visibility check flags sitemap entries that are insecure, duplicated, relative or on another site. It never affects your security grade.
+Updated Oct 8, 2026
+Are the last-updated dates in your sitemap believable?
+This search visibility check flags sitemap dates that are invalid, in the future or all identical, which search engines learn to ignore.
+Updated Oct 8, 2026
+Does your sitemap list pages your robots.txt blocks?
+This search visibility check flags sitemap pages that robots.txt tells search engines to skip. One of the two lists needs changing.
+Updated Oct 8, 2026
+Disclosure and protection
+Does your server announce its software version to everyone?
+The version banner check reads Server and X-Powered-By headers for exact versions. Here is why that helps attackers and why it never proves a flaw.
+Updated Oct 8, 2026
+Does your site tell security researchers how to reach you?
+The security contact check looks for a current security.txt file. Here is what it should contain and why a missing one is not a vulnerability.
+Updated Oct 8, 2026
+What does it mean when your firewall blocks a Lockpick scan?
+When your edge firewall turns a Deep scan away partway through, the report credits it as a working control. Here is what that means for your results.
+Updated Oct 8, 2026
+Pricing
+Methodology
+Docs
+Blog
+Guides
+Security checks
+Learn with Pick
+Security and trust
+Lockpick for Claude
+Changelog
+Status
+Facts for AI assistants
+
+Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.
+
+Lockpick assesses public pages you are authorized to test, and public GitHub code it never runs.
+
+© 2026 Lockpick
+Terms
+Privacy
+Contact
+Cookie settings
+Sign in
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.lockpick.app/#organization","name":"Lockpick","url":"https://www.lockpick.app/","description":"Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.","logo":{"@type":"ImageObject","@id":"https://www.lockpick.app/#logo","url":"https://www.lockpick.app/brand/lockpick-wordmark-email.png","width":480,"height":126},"sameAs":["https://www.npmjs.com/package/lockpicks"]},{"@type":"CollectionPage","@id":"https://www.lockpick.app/checks#collection","name":"What Lockpick checks, one page each","description":"Each page says what a check looks for, why it matters and how to fix it with your AI.","url":"https://www.lockpick.app/checks","inLanguage":"en","publisher":{"@id":"https://www.lockpick.app/#organization"},"mainEntity":{"@type":"ItemList","numberOfItems":65,"itemListElement":[{"@type":"ListItem","position":1,"name":"Does your site load over HTTPS for every visitor?","url":"https://www.lockpick.app/checks/https"},{"@type":"ListItem","position":2,"name":"Does your site tell browsers to always use HTTPS?","url":"https://www.lockpick.app/checks/hsts"},{"@type":"ListItem","position":3,"name":"Does your HSTS rule cover your other subdomains too?","url":"https://www.lockpick.app/checks/hsts-scope"},{"@type":"ListItem","position":4,"name":"Which TLS version does your site negotiate, and is it current?","url":"https://www.lockpick.app/checks/tls-version"},{"@type":"ListItem","position":5,"name":"Which of your addresses does your site certificate cover?","url":"https://www.lockpick.app/checks/certificate-coverage"},{"@type":"ListItem","position":6,"name":"Is your site certificate about to expire?","url":"https://www.lockpick.app/checks/certificate"},{"@type":"ListItem","position":7,"name":"Why do visitors see a certificate warning on your site?","url":"https://www.lockpick.app/checks/certificate-invalid"},{"@type":"ListItem","position":8,"name":"Does your site send a Content Security Policy?","url":"https://www.lockpick.app/checks/csp"},{"@type":"ListItem","position":9,"name":"Does your Content Security Policy also lock down plugins, base and forms?","url":"https://www.lockpick.app/checks/csp-completeness"},{"@type":"ListItem","position":10,"name":"Can other sites show your pages inside a frame?","url":"https://www.lockpick.app/checks/frame"},{"@type":"ListItem","position":11,"name":"Does your site stop browsers from guessing file types?","url":"https://www.lockpick.app/checks/mime"},{"@type":"ListItem","position":12,"name":"How much of your page address do you share when visitors click away?","url":"https://www.lockpick.app/checks/referrer"},{"@type":"ListItem","position":13,"name":"Does your site declare which browser features it may use?","url":"https://www.lockpick.app/checks/permissions-policy"},{"@type":"ListItem","position":14,"name":"Does your site keep windows from other sites away from it?","url":"https://www.lockpick.app/checks/isolation"},{"@type":"ListItem","position":15,"name":"Do the cookies on your public pages carry the right protections?","url":"https://www.lockpick.app/checks/cookies"},{"@type":"ListItem","position":16,"name":"Could a shared cache hand one visitor another visitor’s session?","url":"https://www.lockpick.app/checks/auth-session"},{"@type":"ListItem","position":17,"name":"Is your sign-in system handing sessions to visitors who never signed in?","url":"https://www.lockpick.app/checks/auth-session-exposed"},{"@type":"ListItem","position":18,"name":"Is your sign-in cookie missing a protection?","url":"https://www.lockpick.app/checks/session-cookie"},{"@type":"ListItem","position":19,"name":"Does your secure page load anything over plain HTTP?","url":"https://www.lockpick.app/checks/mixed"},{"@type":"ListItem","position":20,"name":"Do the forms on your site send data over HTTPS?","url":"https://www.lockpick.app/checks/forms"},{"@type":"ListItem","position":21,"name":"Could your login form leak passwords in the address or over HTTP?","url":"https://www.lockpick.app/checks/password-forms"},{"@type":"ListItem","position":22,"name":"Is a private API key sitting in your site code?","url":"https://www.lockpick.app/checks/secrets"},{"@type":"ListItem","position":23,"name":"Does your browser code mix untrusted input with risky methods?","url":"https://www.lockpick.app/checks/client-code"},{"@type":"ListItem","position":24,"name":"Can anyone download readable source code for your site?","url":"https://www.lockpick.app/checks/source-map"},{"@type":"ListItem","position":25,"name":"Do your scripts point to a source map?","url":"https://www.lockpick.app/checks/source-map-advertised"},{"@type":"ListItem","position":26,"name":"Is your live site serving a development build?","url":"https://www.lockpick.app/checks/development-build"},{"@type":"ListItem","position":27,"name":"Do scripts from other sites carry an integrity hash?","url":"https://www.lockpick.app/checks/integrity"},{"@type":"ListItem","position":28,"name":"Does your site load scripts from a host with a past security incident?","url":"https://www.lockpick.app/checks/script-host-incident"},{"@type":"ListItem","position":29,"name":"Does your site show error details or stack traces to the public?","url":"https://www.lockpick.app/checks/diagnostics"},{"@type":"ListItem","position":30,"name":"Does your server list the files in a folder to anyone?","url":"https://www.lockpick.app/checks/directory"},{"@type":"ListItem","position":31,"name":"Are settings or deployment files readable on your live site?","url":"https://www.lockpick.app/checks/deployment"},{"@type":"ListItem","position":32,"name":"Is your API description public, and does it match your API?","url":"https://www.lockpick.app/checks/api-schema"},{"@type":"ListItem","position":33,"name":"Is your interactive API documentation open to anyone?","url":"https://www.lockpick.app/checks/api-docs-public"},{"@type":"ListItem","position":34,"name":"Does your site let other websites read responses with your visitors’ cookies?","url":"https://www.lockpick.app/checks/cors"},{"@type":"ListItem","position":35,"name":"Does an API route on your site answer without signing in?","url":"https://www.lockpick.app/checks/api-open"},{"@type":"ListItem","position":36,"name":"Does your API skip the sign-in its documentation promises?","url":"https://www.lockpick.app/checks/api-auth-mismatch"},{"@type":"ListItem","position":37,"name":"Can anyone list your GraphQL schema?","url":"https://www.lockpick.app/checks/graphql-introspection"},{"@type":"ListItem","position":38,"name":"Do your API responses send the right protective headers?","url":"https://www.lockpick.app/checks/api-headers"},{"@type":"ListItem","position":39,"name":"Does your API advertise methods that change data?","url":"https://www.lockpick.app/checks/api-method-matrix"},{"@type":"ListItem","position":40,"name":"Is your site sending password hashes to the browser?","url":"https://www.lockpick.app/checks/password-hash"},{"@type":"ListItem","position":41,"name":"Can anyone read your Supabase tables with the public anon key?","url":"https://www.lockpick.app/checks/supabase-open-table"},{"@type":"ListItem","position":42,"name":"Can anyone read your Firebase Realtime Database?","url":"https://www.lockpick.app/checks/firebase-public-db"},{"@type":"ListItem","position":43,"name":"Do your Convex functions return data to anyone who calls them?","url":"https://www.lockpick.app/checks/convex-public-function"},{"@type":"ListItem","position":44,"name":"Does your domain publish an SPF record that refuses unknown senders?","url":"https://www.lockpick.app/checks/spf"},{"@type":"ListItem","position":45,"name":"Why does Lockpick report DKIM as not tested?","url":"https://www.lockpick.app/checks/dkim"},{"@type":"ListItem","position":46,"name":"Can anyone send email that looks like it came from your domain?","url":"https://www.lockpick.app/checks/email-spoofing"},{"@type":"ListItem","position":47,"name":"Would you find out if someone faked email from your domain?","url":"https://www.lockpick.app/checks/email-no-reporting"},{"@type":"ListItem","position":48,"name":"Is your SPF record broken or too permissive?","url":"https://www.lockpick.app/checks/spf-health"},{"@type":"ListItem","position":49,"name":"Is DNSSEC turned on for your domain?","url":"https://www.lockpick.app/checks/dns-integrity"},{"@type":"ListItem","position":50,"name":"Does your domain say which authorities may issue its certificates?","url":"https://www.lockpick.app/checks/certificate-authority"},{"@type":"ListItem","position":51,"name":"Which addresses on your domain are controlled by other companies?","url":"https://www.lockpick.app/checks/third-party-subdomain"},{"@type":"ListItem","position":52,"name":"Could someone take over a forgotten subdomain of yours?","url":"https://www.lockpick.app/checks/claimable-subdomain"},{"@type":"ListItem","position":53,"name":"Do your subdomains depend on a domain that is about to lapse?","url":"https://www.lockpick.app/checks/expiring-delegate"},{"@type":"ListItem","position":54,"name":"Is your own domain close to expiring or being deleted?","url":"https://www.lockpick.app/checks/domain-registration"},{"@type":"ListItem","position":55,"name":"Has someone registered a domain that looks like yours?","url":"https://www.lockpick.app/checks/lookalike"},{"@type":"ListItem","position":56,"name":"Does your sitemap point attackers to a private area?","url":"https://www.lockpick.app/checks/sitemap"},{"@type":"ListItem","position":57,"name":"Does your site give search engines a sitemap?","url":"https://www.lockpick.app/checks/sitemap-missing"},{"@type":"ListItem","position":58,"name":"Does your robots.txt point search engines to your sitemap?","url":"https://www.lockpick.app/checks/sitemap-unadvertised"},{"@type":"ListItem","position":59,"name":"Can search engines read your sitemap?","url":"https://www.lockpick.app/checks/sitemap-invalid"},{"@type":"ListItem","position":60,"name":"Does your sitemap list addresses search engines will skip?","url":"https://www.lockpick.app/checks/sitemap-entries"},{"@type":"ListItem","position":61,"name":"Are the last-updated dates in your sitemap believable?","url":"https://www.lockpick.app/checks/sitemap-lastmod"},{"@type":"ListItem","position":62,"name":"Does your sitemap list pages your robots.txt blocks?","url":"https://www.lockpick.app/checks/sitemap-robots-conflict"},{"@type":"ListItem","position":63,"name":"Does your server announce its software version to everyone?","url":"https://www.lockpick.app/checks/disclosure"},{"@type":"ListItem","position":64,"name":"Does your site tell security researchers how to reach you?","url":"https://www.lockpick.app/checks/security-policy"},{"@type":"ListItem","position":65,"name":"What does it mean when your firewall blocks a Lockpick scan?","url":"https://www.lockpick.app/checks/bot-protection"}]}}]}
+

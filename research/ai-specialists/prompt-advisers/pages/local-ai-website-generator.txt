@@ -1,0 +1,136 @@
+URL: https://www.promptadvisers.com/local-ai-website-generator
+Fetched: 2026-10-26T03:45:22Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/local-ai-website-generator
+Content-Type: text/html
+Via: chrome-headless
+Title: Local AI Website Generator: Build 3D Sites for Free
+Meta description: A local AI website generator builds a full 3D scroll site free, no APIs. See the exact open model stack Mark used to build one live.
+Canonical: https://www.promptadvisers.com/local-ai-website-generator
+Robots: 
+H1: Local AI Website Generator: Build 3D Sites for Free
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+Local AI Website Generator: Build 3D Sites for Free
+
+A local AI website generator builds a full 3D scroll site free, no APIs. See the exact open model stack Mark used to build one live.
+
+MARK KASHEF
+AUGUST 12, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+A local AI website generator builds an entire site, hero video, 3D scroll effect, and copy, using open-weight models on your own computer instead of a closed API. No Sora, no Runway, no monthly bill. I built three of these offline, and I'm showing you the stack.
+
+TL;DR
+
+Three pieces: a coding harness (I use pi.dev), a local video model (MiniMax H3), and a text model in the 27 to 40 billion parameter range to build the site.
+A low-res test clip took about 4.5 hours on an M5 Max Pro with 128GB of RAM. A higher-res hero clip took 8 hours on that machine, up to 2 days on a Mac Mini.
+The same clip from a closed, cloud-only video model cost around 2 dollars and rendered in minutes: free and slow versus paid and fast.
+One detailed prompt, built around three custom skills, was enough for the agent to build, test its own browser output, and self-correct a full scroll-scrubbed site with zero manual edits.
+How a Local AI Website Generator Actually Works
+
+Three moving parts, not one miracle model: a harness that gives a language model hands, a local video model for visuals, and a text model that writes and structures the site.
+
+WATCH ON YOUTUBE
+
+Think of the text model as a brain in a jar that can only talk. A harness like pi.dev gives it limbs: it loops, checks its own work, writes and edits files, and looks at images, the same layered idea behind any agentic OS. I chose pi.dev because it ships as a near-blank canvas I keep layering skills onto, instead of someone else's opinionated setup.
+
+I break down setups like this one, plus how to get Claude Code and Codex to build and improve your own local harness, inside Early AI-dopters, 1,000+ people mastering agentic AI together.
+
+JOIN EARLY AI-DOPTERS
+
+For video, I run MiniMax H3, an open-weight omni-modal model, through ComfyUI. It looks like a tangle of nodes and wires, but you never touch it. My harness picks every parameter itself and hands ComfyUI the finished workflow.
+
+How Much Does a Local AI Website Generator Cost to Run?
+
+In dollars, close to nothing. In time, hours to days. My low-res first pass took about 4.5 hours on an M5 Max Pro with 128GB of RAM. A high-quality hero clip took roughly 8 hours on that laptop, and up to 2 days on a slower Mac Mini.
+
+That is the real cost: electricity and patience, not a subscription. The same clip from a closed, cloud-only model at full 2K cost around 2 dollars and finished in minutes. Need it fast today, paid cloud wins. Have hardware idle overnight, local wins on cost.
+
+One free shortcut: open source upscalers take a rough local render and sharpen it, from unusable to presentable, for nothing but extra render time.
+
+Do You Need Expensive Hardware for a Local AI Website Generator?
+
+No, but your parameter budget shrinks with your hardware. For the text model, 27 to 40 billion parameters is comfortable, and I have seen it work down to 15 billion. Below 9 billion, no amount of skill or harness tricks closes the gap.
+
+The video model is the heavier lift. My tests ran on an M5 Max Pro with 128GB of RAM, more than most people own. Smaller hardware just means lower resolution or a longer wait, the same way a local AI setup scales to whatever RAM you have.
+
+The Three Skills That Turn Prompts Into 3D Sites
+
+A default harness cannot build a nuanced 3D scroll site on its own, so I built three skills: immersive-web for the 3D scroll style, editorial-web for a flatter, copy-first layout, and effects-menu for more than one way to load a page. I had Codex read my pi.dev harness, study patterns from other open source repos, and hack in the skills until the output stopped looking generic.
+
+That skill layer separates a local AI website generator from a plain local chatbot. Without it, an open model loads pages the same boring way every time.
+
+Building One Live: The Meridian Bank Demo
+
+For the demo, I fed the harness a new hero clip, a vault door opening into a bank vault, generated in about 9 hours, plus one detailed prompt. Local models need far more explicit instructions than Codex or Claude, which infer intent on their own. The prompt named the skill to use, described the video and its roughly 362 frames, and named a made-up private bank, Meridian, its tagline, and the vibe I wanted.
+
+I pasted the prompt and ran it. The agent built a to-do list, called the immersive-web skill, broke the hero video into frames to map the scroll, and started writing the site. Ten minutes later it had a working scroll-scrubbed page. The first attempt rendered blank, and without me touching anything, the agent used its own browser tooling to catch that and loop until the site rendered.
+
+Mark's Final Thoughts
+
+None of this replaces Claude or GPT for most work. A local AI website generator gives you a free, private lane for the expensive, iterative parts, generating video and retrying builds, that would otherwise burn API credits fast. Local video models keep improving every few months. The three-piece stack, harness, video model, text model, is what will still matter once today's model names are old news.
+
+Local AI Website Generator FAQs
+
+What is a local AI website generator?
+
+It builds a website, its 3D visuals, video backdrops, and copy, entirely with open-weight models on your own hardware instead of a closed API like Sora or Runway. You need three pieces: a coding harness, a local video model, and a text model to structure the site.
+
+Is a local AI website generator actually free?
+
+The models and software cost nothing. You pay in electricity and time: a high-res hero clip can take 8 hours on a strong laptop or up to 2 days on a slower one. A cloud-only video model cost me around 2 dollars for the same clip, so free wins on cost, not speed.
+
+What hardware do you need to run a local AI website generator?
+
+At least an 8 to 15 billion parameter text model, though 27 to 40 billion is more comfortable, plus a GPU with enough VRAM for a video model like MiniMax H3. My tests ran on an M5 Max Pro with 128GB of RAM, more firepower than most people have.
+
+Can Claude Code or Codex help set up a local AI website generator?
+
+Yes, and it is the easiest entry point. Point either at your hardware specs and the install docs for a harness like pi.dev, ComfyUI, and a local model, and it handles installation and dependency fixes. That is also how the skills in this setup got built in the first place.
+
+Do I need coding experience to run a local AI website generator?
+
+No, but you need patience. Once a harness like pi.dev is wired to a local text model and video model, you write one detailed prompt describing the site, hero video, and vibe, then let the agent build, check its own browser output, and fix itself until it matches the brief.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/local-ai-website-generator#article","headline":"Local AI Website Generator: Build 3D Sites for Free","description":"A local AI website generator builds a full 3D scroll site free, no APIs. See the exact open model stack Mark used to build one live.","image":["https://www.promptadvisers.com/blog/local-ai-website-generator/local-ai-website-generator-hero.webp"],"datePublished":"2026-08-12T00:00:00-05:00","dateModified":"2026-08-12T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/local-ai-website-generator","keywords":"local AI website generator, free AI 3D website builder, local AI video generation, MiniMax H3 ComfyUI, pi.dev coding harness","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Local AI Website Generator: Build 3D Sites for Free","description":"A local AI website generator builds a full 3D scroll site free, no APIs. See the exact open model stack Mark used to build one live.","thumbnailUrl":["https://i.ytimg.com/vi/FSnubu4Lpz8/maxresdefault.jpg"],"uploadDate":"2026-08-11T00:00:00-05:00","duration":"PT14M0S","contentUrl":"https://www.youtube.com/watch?v=FSnubu4Lpz8","embedUrl":"https://www.youtube-nocookie.com/embed/FSnubu4Lpz8","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a local AI website generator?","acceptedAnswer":{"@type":"Answer","text":"It builds a website, its 3D visuals, video backdrops, and copy, entirely with open-weight models on your own hardware instead of a closed API like Sora or Runway. You need three pieces: a coding harness, a local video model, and a text model to structure the site."}},{"@type":"Question","name":"Is a local AI website generator actually free?","acceptedAnswer":{"@type":"Answer","text":"The models and software cost nothing. You pay in electricity and time: a high-res hero clip can take 8 hours on a strong laptop or up to 2 days on a slower one. A cloud-only video model cost me around 2 dollars for the same clip, so free wins on cost, not speed."}},{"@type":"Question","name":"What hardware do you need to run a local AI website generator?","acceptedAnswer":{"@type":"Answer","text":"At least an 8 to 15 billion parameter text model, though 27 to 40 billion is more comfortable, plus a GPU with enough VRAM for a video model like MiniMax H3. My tests ran on an M5 Max Pro with 128GB of RAM, more firepower than most people have."}},{"@type":"Question","name":"Can Claude Code or Codex help set up a local AI website generator?","acceptedAnswer":{"@type":"Answer","text":"Yes, and it is the easiest entry point. Point either at your hardware specs and the install docs for a harness like pi.dev, ComfyUI, and a local model, and it handles installation and dependency fixes. That is also how the skills in this setup got built in the first place."}},{"@type":"Question","name":"Do I need coding experience to run a local AI website generator?","acceptedAnswer":{"@type":"Answer","text":"No, but you need patience. Once a harness like pi.dev is wired to a local text model and video model, you write one detailed prompt describing the site, hero video, and vibe, then let the agent build, check its own browser output, and fix itself until it matches the brief."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Local AI Website Generator: Build 3D Sites for Free","item":"https://www.promptadvisers.com/local-ai-website-generator"}]}]
+

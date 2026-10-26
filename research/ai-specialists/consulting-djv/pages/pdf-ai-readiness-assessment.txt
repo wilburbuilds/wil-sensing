@@ -1,0 +1,196 @@
+URL: https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a2c1977789b9d7485c2598d_AI_Readiness_Assessment.pdf
+Fetched: 2026-10-26
+Via: GET pdf, pypdf extract_text (not the HTML crawler). Read-only. Not a form.
+Title: ai-readiness-assessment.pdf
+Note: Free-kit PDF linked from https://consultingdjv.com/ai-readiness. Text extract, not a redesign of the layout.
+
+AI READINESS · MID-MARKET · 2026
+DJV CONSULTING · AI READINESS ASSESSMENT · 1/4
+ASSESSMENT · 12 QUESTIONS · 10 MINUTES
+AI
+Readiness.
+Find out in 10 minutes whether your company is ready to invest in AI — or whether you should
+strengthen the fundamentals before spending a dollar.
+FORMAT
+questions
+12
+SCALE
+per question
+0–10
+TOTAL
+points
+/120
+CRITICAL THRESHOLD
+= not ready
+< 60
+HOW TO USE
+1. Rate each question from 0 to 10: 0–3 not
+true at all, 4–6 somewhat true, 7–10 very true.
+2. Add the 12 scores to get a total out of 120.
+3. Place the total in one of the 3 bands to
+interpret the result.
+INTERPRETATION BANDS
+0–59
+Not ready to buy AI.
+Strengthen fundamentals first.
+60–89
+Guided pilots only.
+Narrow scope, clear metrics.
+90–120
+Ready to scale.
+Broader roadmap, greater
+investment.
+
+AI READINESS · MID-MARKET · 2026
+DJV CONSULTING · AI READINESS ASSESSMENT · 2/4
+SECTION 01 · STRATEGY
+Strategy & use cases
+ 01
+Clear AI strategy
+"We have a clearly defined AI strategy that is aligned with business objectives and documented
+— not just a vague 'we should use AI'."
+ SCORE
+__/10
+02
+Concrete, high-value use cases
+"We have identified 2–3 specific problems or workflows where AI could create measurable value
+(lower costs, higher conversion, faster cycles)."
+ SCORE
+__/10
+03
+Executive sponsorship
+"A senior leader (CEO/COO/business unit head) explicitly sponsors the AI initiatives, with clear
+expectations and accountability."
+ SCORE
+__/10
+SECTION 02 · DATA
+Data & process foundations
+04
+Data quality and accessibility
+"Our operational and customer data is digital, reasonably clean and accessible from a small
+number of reliable systems."
+ SCORE
+__/10
+05
+Single source of truth
+"For key metrics (revenue, pipeline, churn, inventory) we have a single source of truth, not
+conflicting spreadsheets or manual reports."
+ SCORE
+__/10
+06
+Documented, stable processes
+"Key workflows (sales, support, operations, finance) are documented, followed consistently and
+measured with basic KPIs."
+ SCORE
+__/10
+
+AI READINESS · MID-MARKET · 2026
+DJV CONSULTING · AI READINESS ASSESSMENT · 3/4
+SECTION 03 · TECHNOLOGY
+Technology & team
+07
+Modern, connected tech stack
+"Core systems (CRM, ERP, ticketing, marketing, productivity) are up to date and integrable via
+APIs or connectors, not isolated legacy."
+ SCORE
+__/10
+08
+Basic security, compliance & risk
+"We have baseline security controls, access management and a clear view of compliance
+constraints relevant to AI projects."
+ SCORE
+__/10
+09
+Internal capacity and champions
+"We have at least one internal 'AI champion' and a small cross-functional team (business +
+IT/data) comfortable adopting new tools."
+ SCORE
+__/10
+SECTION 04 · GOVERNANCE
+Change, governance & return
+ 10
+Change management and culture
+"Culture open to experimentation and change; in the last 2–3 years we have successfully rolled
+out new software or process changes."
+ SCORE
+__/10
+ 11
+Governance and acceptable use
+"We have — or can quickly define — guidelines for acceptable AI use, privacy and
+review/approval processes."
+ SCORE
+__/10
+ 12
+Budget discipline and ROI
+"We have realistic budget (time and money) for AI experiments and we are prepared to measure
+return and stop what doesn't work."
+ SCORE
+__/10
+
+AI READINESS · MID-MARKET · 2026
+DJV CONSULTING · AI READINESS ASSESSMENT · 4/4
+SCORING SHEET
+Summary and total.
+Transfer the scores, add up each section and get the overall total. Use the final band to define the next step.
+ SECTION 01
+STRATEGY
+ SECTION 02
+ DATA
+ SECTION 03
+TECHNOLOGY
+ SECTION 04
+GOVERNANCE
+01 Clear AI strategy
+SCORE ____ / 10
+04 Data quality and
+accessibility
+SCORE ____ / 10
+07 Modern, connected
+tech stack
+SCORE ____ / 10
+10 Change management
+and culture
+SCORE ____ / 10
+02 Concrete, high-value
+use cases
+SCORE ____ / 10
+05 Single source of truth
+SCORE ____ / 10
+08 Basic security,
+compliance & risk
+SCORE ____ / 10
+11 Governance and
+acceptable use
+SCORE ____ / 10
+03 Executive sponsorship
+SCORE ____ / 10
+06 Documented, stable
+processes
+SCORE ____ / 10
+09 Internal capacity and
+champions
+SCORE ____ / 10
+12 Budget discipline and
+ROI
+SCORE ____ / 10
+ SUBTOTAL
+____ / 30
+ SUBTOTAL
+____ / 30
+ SUBTOTAL
+____ / 30
+ SUBTOTAL
+____ / 30
+OVERALL TOTAL
+____ / 120
+0–59
+Strengthen fundamentals
+first
+60–89
+Guided pilots, narrow
+scope
+90–120
+Ready to scale AI
+investment
+Per-question rubric — 0–3 missing foundation · 4–6 partially in place · 7–10 solid and reliable.
+

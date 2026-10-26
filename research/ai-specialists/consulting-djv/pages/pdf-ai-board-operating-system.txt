@@ -1,0 +1,294 @@
+URL: https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a7e22ec32584560915ccca3_ai-board-operating-system.pdf
+Fetched: 2026-10-26
+Via: GET pdf, pypdf extract_text (not the HTML crawler). Read-only. Not a form.
+Title: ai-board-operating-system.pdf
+Note: Free-kit PDF linked from https://consultingdjv.com/ai-readiness. Text extract, not a redesign of the layout.
+
+SMB OPERATIONS · 2026 EDITION
+AI Board
+Operating
+System.
+For SMEs and Mid-Market Companies
+Executive alignment, TokenOps and P&L linkage.
+A structured framework to manage AI as a portfolio of business use cases with clear owners, measurable economics, and
+explicit links to revenue, margin, and cash conversion.
+5 layers.  9 sections.  90-day rollout.
+DJV CONSULTING · AI BOARD OS · 2026 EDITION
+
+SMB OPERATIONS · 2026 EDITION
+Why most AI programs fail.
+ EXECUTIVE OVERVIEW
+Mid-market AI programs fail not because of model quality, but because companies launch disconnected pilots without clear
+problem selection, governance, or a financial control mechanism. The result: fragmented experimentation, hidden spend, and no
+credible answer to whether AI is improving operating income or cash generation.
+USE CASES
+Selected because they look innovative — not because they solve expensive or revenue-critical bottlenecks.
+ $
+TOKEN COSTS
+Buried in software or IT budgets instead of being mapped to workflows and cost centers.
+ $
+GOVERNANCE
+Managers use AI tools individually, but there is no layer to define approved models, data rules, or quality thresholds.
+ $
+KPI TRACKING
+The company tracks outputs (prompts, content volume) — not the P&L; lines that should move as a result.
+ $
+An effective implementation starts with operating discipline, not model experimentation.
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Executive alignment sprint.
+ LAYER 1 · 5-DAY SPRINT
+The 5-day sprint aligns the CEO, COO, CFO, and business-unit leaders on baseline maturity, strategic priorities, and the current AI
+cost structure. It ends with a 90-day launch plan and the first version of the executive AI scorecard.
+DAY 1 — STRATEGIC CONTEXT
+Establish the case for action. Produce a one-page statement of why AI matters now, a readiness assessment, and a baseline view of current AI spend.
+DAY 2 — USE-CASE DISCOVERY
+Convert general interest into a shortlist of 10–15 concrete use cases per function, scored by business impact, feasibility, and time to value.
+DAY 3 — ECONOMICS & DESIGN
+Convert shortlisted use cases into mini-products with economic logic — target user, workflow event, token budget, and measurement KPI.
+DAY 4 — GOVERNANCE & RISK
+Establish an AI council, define approved models and data rules, set human-review thresholds, and document incident escalation paths.
+DAY 5 — ROADMAP & SCORECARD
+Deliver a 90-day launch plan, 12-month roadmap, and the first executive AI scorecard showing owners, P&L; impact, and token budgets.
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Portfolio design.
+ LAYER 2 · USE-CASE PORTFOLIO
+AI should be treated as a portfolio of business bets, not a single technology project. Each use case belongs in one of three buckets
+with explicit financial linkage.
+PRODUCTIVITY
+Save manager or team time. Examples: meeting summaries, proposal drafts, HR policy Q&A.;
+FINANCIAL LINK: Opex leverage
+EFFICIENCY
+Reduce unit costs or errors. Examples: support triage, forecasting support, invoice classification.
+FINANCIAL LINK: Margin improvement
+GROWTH
+Improve revenue speed or retention. Examples: lead qualification, campaign optimization, AI customer service.
+FINANCIAL LINK: Revenue and gross profit
+QUICK-WIN TAKEAWAY
+A good portfolio includes quick wins and strategic builds. Quick wins create confidence and free capacity, while larger use cases can later become
+differentiated workflows.
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Token economics, P&L and cash.
+ LAYER 3 · TOKENOPS & P&L
+TokenOps extends FinOps discipline into the AI layer. Every AI interaction should be tagged with business function, workflow,
+feature, environment, and user role so that costs can be allocated correctly.
+CORE TOKEN METRICS
+Cost per 1,000 tokens by model and vendor · Tokens per workflow event · Average cost per business event · Active AI users by function · Quality metrics
+(approval rate, edit rate, accuracy).
+P&L MAPPING
+Customer-facing AI belongs in COGS. Internal copilots sit in departmental Opex (sales, support, finance, G&A;). The CFO must explain where spend sits and
+what output it produces.
+CASH-POSITIVE LOGIC
+Many AI wins first show up as working-capital improvements. Reducing DSO improves cash quickly. Reducing manager time improves accounting margins
+only if headcount growth is avoided.
+AI ROI FORMULA
+AI ROI = (Incremental gross profit + Labor savings + Churn avoided)
+         − AI run cost − Implementation cost
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Sales and Marketing AI.
+ LAYER 4 · CROSS-FUNCTIONAL
+SALES — THE PLAY
+AI in sales improves research speed, response quality, and pipeline conversion. Use cases: lead qualification, account research, proposal drafting, call
+summaries, next-best-action.
+SALES — KEY KPIs
+Qualified meetings per rep · Pipeline coverage · Win rate · Sales cycle days · Average deal margin · AI-assisted output per rep. Maps to revenue growth and
+gross profit.
+MARKETING — THE PLAY
+Campaign ideation, content production, segmentation, performance analysis, and lead scoring. AI adds value when it improves campaign velocity without
+driving up CAC.
+MARKETING — KEY KPIs
+MQLs · Cost per lead · Lead-to-opportunity conversion · Campaign ROI · CAC payback · Repeat purchase uplift · AI content productivity. Connects to marketing
+Opex and lifecycle gross profit.
+QUICK-WIN TAKEAWAY
+Even without large engineering teams, AI can already increase research speed, qualification quality, and response rates for SME sales teams.
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Customer Service and Operations.
+ LAYER 4 · CROSS-FUNCTIONAL
+CUSTOMER SERVICE — THE PLAY
+High-value use cases: agent assist, automated triage, knowledge search, response drafting, and self-service deflection. Labor cost and service speed can be
+measured directly.
+CUSTOMER SERVICE — KEY KPIs
+First response time · First contact resolution · Cost per ticket · Deflection rate · CSAT · Churn from service issues. Connects to support Opex and revenue
+retention.
+OPERATIONS — THE PLAY
+Focus on planning quality, throughput, and waste reduction. Use cases: demand forecasting, scheduling assistance, reorder recommendations, anomaly
+detection, SOP copilots.
+OPERATIONS — KEY KPIs
+Forecast accuracy · On-time delivery · Inventory turns · Scrap or defect rate · Labor productivity · Overtime % · AI-driven planning savings. Maps to COGS and
+working capital.
+QUICK-WIN TAKEAWAY
+Customer service improvement can often be measured within weeks — support cost is visible quickly and makes an ideal first AI pilot for SMEs.
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Finance, HR and IT.
+ LAYER 4 · CROSS-FUNCTIONAL
+FINANCE — THE PLAY
+Variance commentary, scenario analysis, forecasting support, spend review, and AI cost governance. AI accelerates interpretation and decision support — not
+accounting controls.
+FINANCE — KEY KPIs
+Monthly close days · Forecast accuracy · DSO · DPO · Operating cash flow · Budget-vs-actual Opex · AI spend by cost center. Links directly to operating cash
+and working capital.
+HR — THE PLAY
+Job-description drafting, interview support, employee policy assistants, onboarding material generation, training content creation. Good candidates for safe
+early deployment.
+IT & DATA — THE PLAY
+Code assistance, documentation, log analysis, incident summarization, internal search. Increases speed for scarce technical talent and improves knowledge
+transfer.
+QUICK-WIN TAKEAWAY
+Finance-team AI is particularly important at scale — AI spend can grow rapidly and become one of the fastest-rising software costs if not governed early.
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Board-level metrics.
+ LAYER 5 · KPI COCKPIT
+KPI
+WHY IT MATTERS
+CORRELATED LINE
+Revenue growth
+Captures top-line momentum.
+Revenue
+Gross margin %
+Shows delivery and service efficiency.
+COGS, gross profit
+Operating income / EBITDA
+Tracks operating performance.
+Opex, operating profit
+Operating cash flow
+Tests whether profit converts to cash.
+Cash flow
+Working capital
+Shows short-term operating health.
+Current assets/liabilities
+Cash conversion cycle
+Measures cash discipline.
+AR, inventory, AP
+AI spend as % of revenue
+Prevents hidden AI expansion.
+Opex and COGS
+AI ROI realized
+Shows economic return from AI portfolio.
+Margin, revenue, cash
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Dashboard design rules.
+ LAYER 5 · KPI COCKPIT
+REVIEW CADENCE
+Review weekly at executive level and monthly in more detail by finance and function leaders. Keep it on the leadership meeting agenda — not a standalone
+reporting session.
+EACH KPI MUST INCLUDE
+Owner · Target · Threshold · Prior-period comparison · Last refresh date · One-line action note. Without these, the dashboard is a passive report — not a
+management system.
+STAGE 1 — ASSISTED MODE
+AI drafts or recommends but humans approve every external or financially material output. Ideal for sales outreach drafts, meeting summaries, support
+suggestions, forecast narratives.
+STAGE 2 — SEMI-AUTOMATED
+Once quality thresholds are stable, automate low-risk repetitive tasks while keeping humans in the loop for exceptions: ticket tagging, lead routing, reminder
+emails, internal summaries.
+STAGE 3 — MANAGED SCALE
+Shift focus to model routing, usage optimization, vendor leverage, and long-term economic tuning. TokenOps becomes a core finance capability for
+cost-to-quality optimization.
+DJV CONSULTING · AI BOARD OS
+
+SMB OPERATIONS · 2026 EDITION
+Days 1–30.
+ 90-DAY ROLLOUT
+First month: alignment and pilots.
+Complete the alignment sprint, prioritize the first pilots, establish baseline measurements, and connect the main data sources for
+those workflows. Human approval must remain in place for all externally visible use cases.
+ACTION 1
+Complete the 5-day executive alignment sprint. Align the CEO, COO, CFO and function heads on the AI priority list and scorecard format.
+ACTION 2
+Prioritize 2–3 pilots with the highest business impact and fastest time to value. Define the use case owner, KPI, and token budget for each.
+ACTION 3
+Establish baseline measurements for each pilot: volume, cost, quality, and time. Without a baseline, you cannot claim improvement.
+ACTION 4
+Connect the main data sources. Identify any data-quality or access issues that would block the pilot from running in production.
+ACTION 5
+Keep human approval on all externally visible outputs. Set up a simple log to track approvals, edits, and rejections — this is your earliest quality signal.
+DJV CONSULTING · AI BOARD OS · ROLLOUT
+
+SMB OPERATIONS · 2026 EDITION
+Days 31–60.
+ 90-DAY ROLLOUT
+Second month: standardize and measure.
+Move toward standardized prompts, role-based training, workflow documentation, and first dashboard reporting. Refine usage tags
+and cost attribution so finance can see the initial token-economics picture clearly.
+ACTION 6
+Standardize prompts for each active use case. Document the approved prompt templates and store them in a shared location all users can access.
+ACTION 7
+Run role-based training sessions. Ensure each function understands how to use the AI tool, when to escalate, and what the quality thresholds are.
+ACTION 8
+Publish the first AI dashboard report to the leadership team. Show cost by function, usage volume, quality metrics, and a preliminary ROI estimate.
+ACTION 9
+Refine usage tags and cost attribution. Every token call should map to a business function and workflow event. Finance must be able to read the cost report.
+ACTION 10
+Review the governance structure. Confirm the AI council is meeting regularly and that the escalation path for incidents, hallucinations, and compliance risks is
+clear.
+DJV CONSULTING · AI BOARD OS · ROLLOUT
+
+SMB OPERATIONS · 2026 EDITION
+Days 61–90.
+ 90-DAY ROLLOUT
+Third month: scale what works.
+Review which pilots improved speed, quality, margin, or cash — then scale only those use cases with clear evidence.
+Low-performing or low-adoption experiments should be stopped rather than allowed to persist as innovation theater.
+ACTION 11
+Review each pilot against its baseline KPIs. Declare each use case a pass, fail, or needs adjustment based on the evidence — not on enthusiasm.
+ACTION 12
+Scale only the use cases with clear evidence of improvement. Define what 'scale' means: more users, more functions, higher volume, or reduced human
+review.
+ACTION 13
+Stop low-performing experiments explicitly. Document what was learned and why it was stopped. This is a sign of discipline, not failure.
+ACTION 14
+Update the AI scorecard with 90-day results. Present to the board or executive committee: ROI realized, token costs, governance status, and Q2 roadmap.
+ACTION 15
+Publish a Q2 roadmap based on what you learned. Identify the next 3–5 use cases for the next quarter. Assign owners and initial token budgets.
+DJV CONSULTING · AI BOARD OS · ROLLOUT
+
+SMB OPERATIONS · 2026 EDITION
+Board and CEO checklist.
+ GOVERNANCE
+The leadership team should review these questions at every quarterly board meeting.
+STRATEGY
+Are AI use cases tied to strategic priorities and budget logic? Can each use case be explained in terms of the P&L; line it is intended to improve?
+FINANCE
+Can the CFO identify where AI costs sit in the P&L; and which workflows they support? Is there a clear view of AI's cash effect — not just technology spend?
+ADOPTION
+Are managers adopting the tools in their actual workflows, or only testing them informally? What is the active-user rate by function?
+RISK
+Are low-risk workflows being scaled faster than high-risk, customer-facing ones? Is the human-review threshold appropriate for each use case?
+GOVERNANCE
+Is the AI council meeting regularly? Are incidents, hallucinations, and compliance risks being logged and escalated through the defined path?
+VALUE
+Is the KPI cockpit helping management make faster decisions, or is it only adding reporting complexity? Is each KPI owned and actioned?
+DJV CONSULTING · AI BOARD OS · GOVERNANCE
+
+SMB OPERATIONS · 2026 EDITION
+The practical lesson.
+ FINAL SYNTHESIS
+The most effective AI implementations in SMEs and mid-market companies behave less like innovation labs and more like
+disciplined operating systems. Companies that align leadership quickly, pick use cases with explicit business logic, govern
+token economics tightly, and connect operational KPIs to P&L; and cash outcomes are far more likely to scale AI
+successfully.
+PRINCIPLE 1: DISCIPLINE FIRST
+Start with operating discipline, not model experimentation. The governance layer, ownership structure, and financial linkage must be in place before you scale.
+PRINCIPLE 2: PORTFOLIO LOGIC
+AI should not be managed as a technology trend, but as a portfolio of controllable business decisions with visible economic consequences.
+PRINCIPLE 3: CASH VISIBILITY
+Track cash impact separately from accounting impact. Many AI wins show up as working-capital improvements before they appear in the income statement.
+PRINCIPLE 4: STOP FAST
+Low-performing experiments should be stopped, not extended. Innovation theater is the enemy of operating leverage. Two paying plays beat ten half-done
+experiments.
+DJV CONSULTING · AI BOARD OS · 2026 EDITION
+

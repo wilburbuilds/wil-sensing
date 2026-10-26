@@ -1,0 +1,34 @@
+URL: https://www.promptadvisers.com/llms.txt
+Fetched: 2026-10-26T03:50:51Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/llms.txt
+Content-Type: text/html
+Via: chrome-headless
+Title: 
+Meta description: 
+Canonical: 
+Robots: 
+H1: 
+
+# Prompt Advisers
+
+> The AI consultancy that teaches. Enterprise AI consulting, workshops, and team bootcamps on Claude Code and Codex, co-founded by Mark Kashef (O'Reilly live-course instructor behind an 80k-subscriber YouTube channel on practical AI) and Taha El Harti.
+
+Prompt Advisers installs AI operating systems inside companies, then trains the teams who run them. Two registers of work: consulting engagements (advisory sprints, implementation programs, fractional AI leadership) and team training (workshops and team bootcamps for technical and non-technical teams).
+
+## Pages
+
+- [Home](https://www.promptadvisers.com/): what we do, proof, and client outcomes
+- [Consulting](https://www.promptadvisers.com/consulting): advisory sprints, implementation programs, fractional AI leadership
+- [Workshops & Bootcamps](https://www.promptadvisers.com/workshops): Claude Code and Codex training for teams
+- [About](https://www.promptadvisers.com/about): Mark Kashef (founder, O'Reilly instructor, a decade in data science) and Taha El Harti (co-founder, production AI systems across construction, home services, and insurance)
+- [Media & Press](https://www.promptadvisers.com/media): Entrepreneur, O'Reilly, CNBC, Microsoft Learn, Pinecone, plus the YouTube channel
+- [Contact](https://www.promptadvisers.com/contact): book a discovery call
+
+## Blog
+
+Hands-on breakdowns of Claude Code, Codex, and agentic AI systems, drawn from the team's video demos. New posts weekly.
+
+- [Blog index](https://www.promptadvisers.com/blog)
+- [RSS feed](https://www.promptadvisers.com/feed.xml)
+

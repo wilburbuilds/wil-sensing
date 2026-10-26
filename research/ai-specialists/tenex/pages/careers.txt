@@ -1,0 +1,186 @@
+URL: https://www.tenex.co/careers
+Fetched: 2026-10-26T03:33:47Z
+HTTP status: 200
+Final URL: https://www.tenex.co/careers
+Content-Type: text/html
+Via: chrome-headless
+Title: Careers | Tenex
+Meta description: Help build one of the most consequential AI institutions on earth. Open roles at Tenex.
+Canonical: https://www.tenex.co/careers
+Robots: 
+H1: Come make history.
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Come make history.
+
+If you want to be pushed more than you ever thought possible. If you want to move at breakneck speed, while elbow-to-elbow with world-class builders. If you want to help build one of the most consequential AI institutions on earth.
+
+This is your moment. Don't let it pass you by.
+
+Open roles
+ALL
+22
+ENGINEERING
+5
+MARKETING
+5
+OPERATIONS
+1
+PEOPLE
+1
+STRATEGY
+10
+Applied AI, Engineer & Creator
+
+Engineering • New York City • Full time • On-site
+
+Apply
+Associate Forward Deployed Engineer
+
+Engineering • New York City • Full time • On-site
+
+Apply
+Bring Your Own Pod
+
+Engineering • New York City • Full time • On-site
+
+Apply
+Forward Deployed Engineer
+
+Engineering • New York City • Full time • On-site
+
+$224K – $394K • Offers Equity • Offers Bonus • 55/45 Split
+
+Apply
+Senior Forward Deployed Engineer
+
+Engineering • New York City • Full time • On-site
+
+Apply
+AI Evangelist
+
+Marketing • New York City • Full time • On-site
+
+Apply
+Content Engineer
+
+Marketing • New York City • Full time • On-site
+
+Apply
+Developer Experience
+
+Marketing • New York City • Full time • On-site
+
+Apply
+Developer Relations
+
+Marketing • New York City • Full time • On-site
+
+Apply
+Full-Stack Creator
+
+Marketing • New York City • Full time • On-site
+
+Apply
+Business Operations Analyst
+
+Operations • New York City • Full time • On-site
+
+Apply
+Recruiter
+
+People • New York City • Full time • On-site
+
+Apply
+AI Strategist
+
+Strategy • New York City • Full time • On-site
+
+$130K – $180K • Offers Equity • $5K – $15K Bonus • Quarterly
+
+Apply
+AI Strategist, Data
+
+Strategy • New York City • Full time • On-site
+
+Apply
+AI Strategist, Enablement
+
+Strategy • New York City • Full time • On-site
+
+Apply
+AI Strategist, Process
+
+Strategy • New York City • Full time • On-site
+
+Apply
+AI Strategist, Product
+
+Strategy • New York City • Full time • On-site
+
+Apply
+Senior AI Strategist
+
+Strategy • New York City • Full time • On-site
+
+Apply
+Senior AI Strategist, Data
+
+Strategy • New York City • Full time • On-site
+
+Apply
+Senior AI Strategist, Enablement
+
+Strategy • New York City • Full time • On-site
+
+Apply
+Senior AI Strategist, Process
+
+Strategy • New York City • Full time • On-site
+
+Apply
+Senior AI Strategist, Product
+
+Strategy • New York City • Full time • On-site
+
+Apply
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Built by builders, trusted by leaders
+•
+Stay on the right side of history.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

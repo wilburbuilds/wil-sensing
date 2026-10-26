@@ -1,0 +1,95 @@
+URL: https://www.tenex.co/diagnostic
+Fetched: 2026-10-26T03:33:55Z
+HTTP status: 200
+Final URL: https://www.tenex.co/diagnostic
+Content-Type: text/html
+Via: chrome-headless
+Title: Free 2-Week AI Diagnostic | Tenex
+Meta description: A complimentary 2-week engagement that surfaces your biggest bottlenecks and shows exactly where AI can unlock them.
+Canonical: https://www.tenex.co/diagnostic
+Robots: 
+H1: Ready to Tenex your business?
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Ready to Tenex your business?
+
+From AI engineering squads to end-to-end AI transformation, we’ll help you win the next decade.
+
+Take the first step with a complimentary AI Diagnostic — a rapid 2-week engagement that surfaces your biggest bottlenecks and shows exactly how AI can unlock them.
+
+What’s inside the diagnostic:
+
+AI Readiness Survey: Assess where AI can create the most leverage across your org
+
+Stakeholder Interviews: Identify hidden inefficiencies and automation opportunities
+
+Diagnostic Report: A clear roadmap outlining the highest-ROI use cases for AI
+
+First Name*
+Last Name*
+Work Email*
+Phone Number*
+Company Name*
+Job Title*
+Annual Revenue*
+Select one...
+<$1M
+$1M-$5M
+$6M-$20M
+$21M-$50M
+$51M-$100M
+>$100M
+Which diagnostic are you interested in?
+AI Transformation
+Product & Engineering
+Both
+Describe your specific needs you’d like our diagnostic to support*
+How did you hear about us?
+Select one...
+Search Engine (Google, Bing, etc)
+AI App (ChatGPT, Perplexity, etc)
+Claude Code Community
+X
+Instagram
+LinkedIn
+JJ Englert
+YouTube
+Referral
+Newsletter
+Podcast
+Webinar
+Other
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="gs-form"
+  - input type=text name="website" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="First-Name" id="First-Name" label="First Name*" placeholder="" aria="" required=true
+  - input type=text name="Last-Name" id="Last-Name" label="Last Name*" placeholder="" aria="" required=true
+  - input type=email name="email" id="email" label="Work Email*" placeholder="" aria="" required=true
+  - input type=tel name="Phone" id="Phone" label="Phone Number*" placeholder="" aria="" required=true
+  - input type=text name="Company-name" id="Company-name" label="Company Name*" placeholder="" aria="" required=true
+  - input type=text name="Job-Title" id="Job-Title" label="Job Title*" placeholder="" aria="" required=true
+  - select type= name="Annual-Revenue" id="Annual-Revenue" label="Annual Revenue*" placeholder="" aria="" required=true options=Select one... | <$1M | $1M-$5M | $6M-$20M | $21M-$50M | $51M-$100M | >$100M
+  - input type=radio name="Diagnostic" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="Diagnostic" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="Diagnostic" id="" label="" placeholder="" aria="" required=false
+  - textarea type= name="Specific-needs" id="Specific-needs" label="Describe your specific needs you’d like our diagnostic to support*" placeholder="" aria="" required=true
+  - select type= name="Hear-About-Us" id="hear-about-us" label="How did you hear about us?" placeholder="" aria="" required=false options=Select one... | Search Engine (Google, Bing, etc) | AI App (ChatGPT, Perplexity, etc) | Claude Code Community | X | Instagram | LinkedIn | JJ Englert | YouTube | Referral | Newsletter | Podcast | Webinar | Other
+  - input type=text name="Other" id="Other" label="Please specify:" placeholder="" aria="" required=false
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

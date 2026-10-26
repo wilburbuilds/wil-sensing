@@ -1,0 +1,634 @@
+URL: https://www.tenex.co/blog/citizen-sdlc
+Fetched: 2026-10-26T03:34:28Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog/citizen-sdlc
+Content-Type: text/html
+Via: chrome-headless
+Title: The Citizen SDLC | Tenex
+Meta description: A six-stage lifecycle that takes what non-technical employees build with AI from personal prototype to production the whole company can rely on.
+Canonical: https://www.tenex.co/blog/citizen-sdlc
+Robots: 
+H1: The Citizen SDLC
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to Blog
+
+AI GOVERNANCE
+
+The Citizen SDLC
+
+A six-stage lifecycle that takes what non-technical employees build with AI from personal prototype to production the whole company can rely on.
+
+ALEX LIEBERMAN, SUCHI PATEL, ASHWIN KADARU & ARMAN HEZARKHANI
+·
+JULY 16, 2026
+·
+16 MIN READ
+
+THE TLDR
+
+The Citizen SDLC is a six-stage lifecycle — idea, front door, triage, provisioning, build, run and change — that takes software built by non-technical employees with AI from personal prototype to governed production. One principle runs through every stage: AI does the labor, deterministic code sets the guardrails, and humans handle the exceptions. It exists because AI collapsed the cost of writing code to near zero and moved the bottleneck downstream, to making sure what got built is sound and keeping a growing fleet of it governed once it is live.
+
+One of our clients is an investment firm. A member of their portfolio operations team, someone who has never written a line of code, built the dashboard her whole team now uses every day. It tracks value-creation work across a few dozen portfolio companies. She built it by prompting Claude, iterating over about two months. Every single line was written by AI.
+
+And it’s good. The views are right, the workflow fits how the team actually operates, and adoption was instant. She sketched the correct product before any engineer was involved.
+
+That is not luck. For decades, the person who understood a business problem was almost never the person who could build the software to fix it. Closing that gap was a herculean effort: a product manager to turn her problem into a spec, engineers to translate the spec into code, and a spot in line behind everything else on the roadmap. Months passed between the idea and the tool, and what finally shipped was someone else’s interpretation of what she meant.
+
+That gap just collapsed. The power to build has moved to the people who actually understand the process, know what the data means, and live in the workflow every day. She built the right thing on the first try because she was the source. Nobody stood in the middle to translate her, or to get it slightly wrong. That is the promise of citizen development, and she delivered on it.
+
+Then we looked under the hood.
+
+The entire application was one HTML file. 540 KB. Around 5,300 lines. The master dataset lived inside it as an 80 KB blob of data on a single line. When the file needed updating, the AI had bolted on patch functions that rewrote values every time the app loaded. Saving your work meant the app rewrote its own HTML, downloaded itself to your laptop, and you re-uploaded it to a shared drive as a new version. If two people edited at once, last save wins, and the other person’s edits vanish.
+
+One day, a save function went looking for a marker in the file, didn’t find it, and wrote back what it had anyway. The entire 540 KB application truncated to 7 bytes. In a single silent write, the dashboard her team ran on every day ceased to exist, and nothing in the way it was built was designed to catch it, stop it, or bring it back.
+
+Most leaders hear that story and conclude citizen development is a liability to be shut down. We think that’s the wrong lesson, and the companies that act on it are going to lose. The right lesson: she did her job brilliantly. Nobody had built the road for the software to ship on.
+
+The bottleneck moved
+
+For decades, building software was the expensive part. It was slow, scarce, and costly, and the entire software development lifecycle grew up to protect it. Specs, tickets, sprints, code review: every ceremony in the traditional SDLC exists because writing the code was the bottleneck.
+
+AI collapsed that stage to near zero, and the bottleneck has moved. When anyone can build a working app in an afternoon, the expensive work is no longer the building. It is what comes after: making sure what got built is sound and secure, and keeping a growing fleet of these apps governed once they are live.
+
+OPERATING MODEL
+
+The org is changing shape.
+
+How the operating model transforms with AI: same people, fundamentally different throughput.
+
+OLD MODEL
+AI-NATIVE
+ENGINEER
+PR submitted
+ENGINEER
+PR submitted
+ENGINEER
+PR submitted
+ENGINEER
+PR submitted
+PR QUEUE
+14
+WAITING
+TECH LEAD
+1 reviewer
+BOTTLENECK
+4–7 DAYS
+MAIN BRANCH
+slow cycle
+4–7
+days avg review cycle
+1
+reviewer per 6-8 engineers
+91%
+review backlog growth as AI ships more code, LinearB 2025
+
+And the building is not slowing down, creating two problems that need to be solved:
+
+First, quality under the hood. An agent prompted from a blank page by a non-engineer converges on hacky software that works today and is unmaintainable forever. The 540 KB file is not an outlier; it is the default output of building without rails.
+
+Second, sprawl. Every team wants its own app, and no central IT group can hand-build and operate dozens of them. Without guardrails, each one gets built on whatever stack the builder or the model reached for: a different database, a different auth scheme, secrets stashed wherever they landed. Block the requests instead and they don’t stop, they just move off the books. Either way you inherit not just a fleet of apps but the tangled mess of infrastructure underneath them, and none of it something IT can reasonably secure, support, or explain.
+
+So the real question every company is about to face: how do you let non-technical staff ship real internal software without inheriting that fleet?
+
+The three default answers all fail:
+
+1) Lock it down. Requests queue, patience runs out, and the shadow apps get built anyway. Now you can’t see any of it. You can’t govern what you can’t see.
+
+2) Let it rip. Point non-engineers at AI tools with no structure and celebrate the demos. This is how you get the 540 KB file. And you cannot review your way out of it after the fact. By the time a monolith shows up in code review, it’s already a monolith. It has to be prevented at the starting point.
+
+3) Review everything. Put a human approval on every change. Your IT team is lean, build volume is exploding, and now every deployment waits on a reviewer’s calendar. Reviews either kill adoption or get rubber-stamped. Both outcomes defeat the purpose.
+
+So the answer is not another policy document but a lifecycle: a real SDLC, designed for people who will never call themselves developers, with guardrails built into the platform instead of written into a memo. A road that carries a build from the first plain-language idea all the way to governed production without ever asking the builder to become an engineer. The person supplies the intent; the platform provides the discipline.
+
+One principle runs through every stage of it: AI does the labor, deterministic code sets the guardrails, and humans handle the exceptions. AI drafts, classifies, and writes. Code decides what is allowed. People are spent only where judgment is actually required. Hold onto that division; it is what makes the whole thing scale.
+
+We call it the Citizen SDLC. Six stages, each one governed.
+
+TENEX FRAMEWORK
+
+The Citizen SDLC
+
+Six governed stages that turn AI-built employee prototypes into internal software the company can rely on.
+
+THE OPERATING MODEL
+AI does the labor. Code sets the guardrails. Humans handle the exceptions. The builder supplies intent; the platform supplies discipline at every stage.
+
+STAGE 1
+
+The Idea
+
+QUESTION
+
+What should exist, who uses it, and what data will it touch?
+
+INPUT
+
+Plain-language memo, AI-assisted brief, owner, users, data sources.
+
+GOVERNANCE
+
+No code, access, or infra yet. Form an opinion before the app exists.
+
+OUTPUT
+
+A durable brief that downstream checks and decisions can reference.
+
+STAGE 2
+
+The Front Door
+
+QUESTION
+
+Can the company see, route, and find every software request?
+
+INPUT
+
+The brief becomes the request, IT ticket, and permanent record.
+
+GOVERNANCE
+
+One structured intake. No hallway asks, favors, or shadow pipeline.
+
+OUTPUT
+
+Every app enters triage on the record before any build work begins.
+
+STAGE 3
+
+The Triage
+
+QUESTION
+
+Is this safe to approve, a duplicate to reuse, or an exception to escalate?
+
+INPUT
+
+App shape, blast radius (reach, reversibility, exposure, data sensitivity), overlap with existing apps.
+
+GOVERNANCE
+
+AI advises. Code decides. IT-owned deterministic policy makes the call.
+
+OUTPUT
+
+Approved, reused, or escalated with full request context and a named shape.
+
+STAGE 4
+
+Provisioning
+
+QUESTION
+
+Can the app be born inside secure defaults instead of reviewed later?
+
+INPUT
+
+One approval, the paved road for the app’s shape, app metadata and owner.
+
+GOVERNANCE
+
+Elevated power runs once. Repo, sign-in, deploy identity, private env, database.
+
+OUTPUT
+
+An isolated app shell with auditability and constraints from day zero.
+
+STAGE 5
+
+The Build
+
+QUESTION
+
+Can a non-engineer build without inheriting laptop secrets or fragile patterns?
+
+INPUT
+
+Controlled cloud workspace, AI coding agent, generated contracts and test data.
+
+GOVERNANCE
+
+Guardrails in template, merge checks, runtime rules, and platform boundaries.
+
+OUTPUT
+
+Routine changes move at CI speed. Consequential exceptions reach people.
+
+STAGE 6
+
+Run & Change
+
+QUESTION
+
+Does the app stay governed after launch, ownership changes, and usage shifts?
+
+INPUT
+
+Production usage, change requests, audit events, ownership and access data.
+
+GOVERNANCE
+
+Firm sign-in, per-app access, append-only audit trail, usage-driven lifecycle.
+
+OUTPUT
+
+Promote what people use, archive what they do not, send changes back to Stage 1.
+
+WHY THIS WORKS
+Human attention handles exceptions. Automated structure handles the routine path.
+TENEX
+↓ DOWNLOAD PNG
+STAGE 1
+The idea
+
+A person describes the app in plain language, with AI’s help: what it does, who uses it, what data it touches, who owns it. Takes minutes and reads like a memo. It doubles as the brief everything downstream runs on. This is the operating model’s first move: AI does the labor of turning a ramble into a structured artifact.
+
+Here’s what that looks like in practice. Someone in fund finance types: “I want a tracker for capital call notices. Right now it’s a spreadsheet I update by hand and email around every Friday.” The AI asks what an intake analyst would ask. Who else needs to see it? Twelve people across fund finance & IR. Where does the data live today? A spreadsheet in Box, and read-only is fine. Who owns it when you’re out? Her manager. The ramble has become a brief: purpose, users, data source, access level, owner, even a first guess at the app’s shape. A PRD, in effect, written by someone who has never heard the term PRD.
+
+STAGE 1, LIVE
+
+From ramble to brief
+
+THE CONVERSATION
+
+Who else needs to see it?
+12 people across fund finance & IR.
+Where does the data live today?
+A spreadsheet in Box. Read-only is fine.
+Who owns it when you’re out?
+My manager.
+
+THE BRIEF
+
+· · ·
+
+WHAT IT DOES
+· · ·
+WHO USES IT
+· · ·
+DATA IT TOUCHES
+· · ·
+ACCESS
+· · ·
+OWNER
+· · ·
+SHAPE
+· · ·
+
+✓ Brief complete · routed to the front door
+
+Nothing exists yet. No code, no access, no infrastructure. That’s deliberate: the firm forms an opinion about the app before the app exists, instead of six months after it’s load-bearing.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+STAGE 2
+The front door
+
+Every request goes through one structured front door, and the same motion that files it drops it straight into triage. The brief is the request, the ticket IT sees, the permanent record, and an entry in a catalog everyone can search, all at once. No hallway asks, no favors, no shadow pipeline. You can’t govern what you can’t see, and you can’t share what you can’t find. The front door makes both true from day one.
+
+This is the stage that kills the shadow pipeline. A build that skips the front door can still exist as a prototype on a laptop, but that is where it stays. Everything that turns a prototype into software a team can rely on lives downstream of this stage: real storage, firm sign-in, a deploy pipeline, somewhere to actually run. None of it reaches a build that never came through. You can route around the front door; you just can’t get past prototype if you do.
+
+STAGE 3
+The triage
+
+AI classifies the request along two axes. Shape: what kind of app is it? A reverse-audit of what employees actually build almost always collapses to a short list: artifact generators, workflow automations, CRUD apps, and interactive dashboards. Naming the shape tells you the architecture it needs, and it hands the next stage the paved road to stamp. Blast radius: how much damage could this build do if it went sideways? We score that across four dimensions:
+
+Reach & capability: what can it touch, and can it write or only read?
+Reversibility & autonomy: is there a human in the loop, and can the action be undone?
+Exposure: who sees the output, and how far does it travel outside the company?
+Data sensitivity: how confidential is the data it interacts with?
+
+But here’s the rule that makes this trustworthy: AI advises. Code decides. The model reads the brief and classifies it; then policy code IT wrote checks each classification against rules. Watch it work on the capital call tracker. Shape: interactive dashboard. Blast radius: internal fund data, twelve internal users, read-only, human in the loop, no overlap with existing apps. Every dimension lands inside the approved thresholds, so it’s approved, and no human argued about it.
+
+Now change one fact. Say the tracker also needs LP commitment data. The brief can be as persuasive as it wants; that single change spikes the data-sensitivity dimension past the threshold IT set, and the request goes to a person. No judgment call happened in between. A rule either matches or it doesn’t.
+
+Three routes out:
+
+Approved. Blast radius inside every threshold, complete brief, high confidence. At our client, about 9 in 10 requests resolve this way, automatically.
+Reuse. It overlaps an app that already exists, so the requester gets routed to that app’s owner instead of building a duplicate. Duplicates get merged, not multiplied.
+Escalated. A dimension crosses its threshold, or confidence is low. A human at IT & Security gets the full request as context.
+
+STAGE 3, LIVE
+
+AI advises. Code decides.
+
+RUN 1 · THE TRACKER, AS BRIEFED
+
+Shape: interactive dashboard
+Data: internal fund data
+Users: 12, all internal
+Overlap: none found
+
+AI CLASSIFIED ↑ · POLICY CODE DECIDES ↓
+
+Blast radius inside every threshold
+No overlap with existing apps
+Brief complete · confidence high
+APPROVED · PROVISION IT
+
+RUN 2 · SAME BRIEF, ONE CHANGE
+
+Shape: interactive dashboard
+Data: adds LP commitments
+Users: 12, all internal
+Overlap: none found
+
+AI CLASSIFIED ↑ · POLICY CODE DECIDES ↓
+
+Data sensitivity crosses its threshold
+Overlap check · not reached
+Confidence check · not reached
+ESCALATED · TO IT & SECURITY, BRIEF ATTACHED
+
+Same pipeline, no persuasion layer. The model classifies, the rules decide, people get the exceptions.
+
+The tenth request, the odd one out, still lands on a human’s desk with the full brief attached. The other nine never needed to.
+
+STAGE 4
+The provisioning
+
+Here is the move that lets IT say yes at volume: provisioning is not IT losing control of what ships but IT’s control moving upstream. Instead of reviewing every app after the fact, IT authors the paved road once, and every app is born on it. One person approves, and the platform stamps the app from the road for its shape: a repo, firm sign-in, a deploy identity, a private environment, and its own database, all defined as infrastructure-as-code that IT owns and versions. Provisioned in minutes.
+
+This is the only moment elevated power runs, and a human is in front of it. Every app is born isolated, governed & audited: its own walled-off environment, no public address, no stored cloud secrets, an append-only audit trail from day zero. The security work happened once, in the road. No app has to repeat it.
+
+Because the road is authored per shape, the human approval is a default posture, not a permanent tax. Novel shapes and high-blast-radius builds keep the human gate for good. But once a shape’s road has proven itself over enough builds, low-blast-radius requests on that road can provision automatically. It is the same “save human judgment for the tail” logic applied one stage earlier: early on you route more to a person, and as the patterns hold, the line shifts toward automation.
+
+STAGE 4 · UNDER THE HOOD
+
+What one stamped app runs on
+
+THE ONLY WAY IN
+
+A person
+on the firm network or VPN
+→
+Firm sign-in
+checked at the door, before any app code runs
+→
+Private front door
+a private address; nothing faces the internet
+
+ONE PRIVATE ENVIRONMENT PER APP
+
+The app
+web + API in one container
+⇄
+Its own database
+append-only audit trail, written in the same transaction as each change
+
+The app signs in to its database with a short-lived identity token, not a stored password. Telemetry & alerting watch both from day one.
+
+THE ONLY WAY TO DEPLOY
+
+Merge to main
+every check green
+→
+Build pipeline
+builds & tests the release
+→
+The running app
+deployed with a narrow, short-lived identity; no stored keys
+NO PUBLIC ADDRESS
+NO STORED SECRETS
+NO SHARED DATABASES
+NO DEPLOYS OUTSIDE THE PIPELINE
+
+And the road carries one more thing that matters as much as the infrastructure: the AI rulebook. The inherited repo hands the coding agent a set of instructions on every session, encoding the anti-patterns learned from real failures. Do not inline data blobs over 1 KB. Do not add functions that rewrite data when the app loads. This is how quality-under-the-hood gets solved without asking the builder to know a single best practice: the road makes the agent follow them. Every one of those rules is a scar with a story behind it (you’ve read one of them).
+
+STAGE 5
+The build
+
+The builder prompts their coding agent (Claude Code, Codex, etc) inside a controlled cloud workspace, never on their own laptop. A terminal agent on a laptop inherits everything sitting there: mail, synced drives, browser cookies, cached credentials. In the workspace, the agent sees the project. Nothing else.
+
+Everything an engineer would normally carry is carried by the rails instead: at our client, 35 guardrails in four layers that the builder cannot turn off.
+
+THE CITIZEN SDLC
+
+Citizen Developer Guardrails
+
+Everything an engineer would normally carry is carried by the rails instead: 35 guardrails in four layers that the citizen developer cannot turn off.
+
+The template
+
+what every app starts from
+
+AI rulebook read every session
+Guided skills for common asks
+Entity & field generators
+One typed API contract
+Generated front-end client
+Schema validation on every request
+Layer walls in the code
+Enforced lint & format
+Anti-pattern guards
+Synthetic test data only
+The merge
+
+every change gates on the way in
+
+Green or it does not merge
+Branch protection
+Security code scanning
+Dependency scanning
+Secret scanning
+Data-file blocking
+Contract drift check
+Reviewed migrations
+Destructive changes go to a person
+The runtime
+
+what the running app guarantees
+
+Firm sign-in on every request
+Per-app access groups
+MFA & device rules inherited
+Append-only audit trail
+Concurrency protection
+Gated, logged imports
+No database password
+Telemetry & alerting
+The platform
+
+the walls around it
+
+One private environment per app
+One database per app
+No public address
+Narrow deploy identity
+No stored cloud secrets
+Pipeline-only deploys
+Human-gated provisioning
+Infrastructure as code
+WHY THIS WORKS
+The rails carry the engineering discipline, not the builder. The builder cannot turn any of these off.
+TENEX
+↓ DOWNLOAD PNG
+
+The merge layer includes drift checks purpose-built for AI-generated code: file-size budgets, no oversized inline data, audit-log conformance. Green or it does not merge. When a check fails, the builder asks the agent to fix it and pushes again.
+
+Humans do not review routine changes. The checks are the review. Routine changes move at the speed of CI, not at the speed of a reviewer’s calendar. What reaches a human is the consequential tail, detected mechanically: destructive schema changes, new dependencies, changes to the agent’s own constraints, anything touching infrastructure. Those wait for a person. Nothing else does. And when something new escapes anyway, the fix is a new automated check, not more human review. The system gets stricter by encoding lessons, not by adding meetings.
+
+Remember the dashboard from the opening. Two of those drift checks would have fired on it in the first week. The 80 KB single-line blob would have failed CI on its very first commit, months before any of the failure modes hardened.
+
+STAGE 6
+Run & change
+
+Six months later, the capital call tracker is still running, and this is where the lifecycle earns its keep. Someone in IR questions the wire deadline on the March notice. The audit trail answers in thirty seconds: who changed the field, when, and what it said before, recorded in the same transaction as the edit itself. Nobody reconstructs the truth from an email chain. When the builder switches teams, ownership transfers to a named successor instead of dissolving into a shrug. And if she leaves the firm entirely, her sign-in dies and every door it opened closes at once. The tracker included. Next quarter’s feature request walks the same rails as the first commit.
+
+Governance runs on signal, not annual audits. The tracker’s usage metrics show two more teams leaning on it, so it gets promoted and invested in. The currency dashboard nobody has opened since April gets archived, not left to rot in a menu. Nobody mourns it. Ownership is assigned on day one, so nothing outlives its builder unowned. Documentation regenerates as the app evolves, so it never goes stale. An unused app is a failure, not a trophy. The goal was never app count: it’s a living catalog your people actually trust, instead of a graveyard of forgotten software.
+
+As the catalog grows from ten apps to two hundred, a central team can no longer keep an eye on all of it, and oversight has to push outward to the teams that own the apps. When and how far to federate that is a judgment, and it shifts as the portfolio grows. Governance here is a posture you keep tuning, not a control you set once.
+
+The rule that holds the whole thing together
+
+There’s one trigger we teach every client, because it answers 90% of the “does this need the full process?” questions: the second-consumer rule. It works because that’s the moment the risk profile changes.
+
+Someone building analysis for themselves, on their own laptop, with bounded data access? Low blast radius, light governance. Charts, memos & scripts they run for themselves don’t need a deployment pipeline. But the moment a second person wants to use the output directly, instead of asking the author for refreshes? The blast radius jumps: more reach, data traveling further, someone else trusting it to be right. It’s software now, and it graduates to the full lifecycle, deliberately, as an explicit event. Same data sources, same identity, new road.
+
+That one rule is why the process doesn’t drown people. Most builds never cross the line. The ones that do are exactly the ones worth the ceremony.
+
+What we’re honest about
+
+No platform makes first-time builders write perfect code. We don’t claim to. The layers exist so that a mistake is an inconvenience inside one small boundary, not an incident across the firm. Each layer covers exactly what the one above it can’t:
+
+THE CITIZEN SDLC
+
+Citizen Developer Security Layers
+
+Four layers of defense for citizen-built software. Each layer covers exactly what the one above it can’t.
+
+LAYER 01
+Identity · who gets in, and what they can touch
+
+Firm sign-in gates every request before any app code runs, and role-based access runs through every layer beneath it: per-app groups, per-role permissions, scoped to the least each person needs. A departing employee loses every app at once.
+
+Sign-in says who someone is and what they may reach, not what a buggy app does once they’re inside.
+LAYER 02
+Isolation · cut a leg off the attack
+
+Isolation is built around the lethal trifecta of an AI agent: it can reach private data, it takes in untrusted content, and it has a path to send data back out. Remove any one leg and the attack collapses; isolation takes out the exfiltration leg. Each app runs in its own private environment, with its own identity and database and no public address, and the agent builds in a walled-off cloud workspace, never on a laptop full of live credentials. Stolen data has nowhere to go.
+
+Isolation bounds the damage; it doesn’t stop bad code shipping inside its own walls.
+LAYER 03
+Guardrails in code · what ships
+
+The checks that block bad code live in the road and the merge gates, not in the builder’s head: failing checks block the merge, secrets and data files never enter the repo, and the codified rulebook steers the agent off the known anti-patterns before they’re written. A non-technical builder never has to know what any of these are.
+
+Checks catch what they were written to catch. Something will eventually get past.
+LAYER 04
+Audit · what happened
+
+Every change writes who, what, before & after, and when, in the same transaction. It can never be rewritten. The job is to have the visibility you need before you need it, and that record only gets more valuable as an app ages and the questions get harder.
+
+WHY THIS WORKS
+A mistake becomes an inconvenience inside one small boundary, not an incident across the firm.
+TENEX
+↓ DOWNLOAD PNG
+
+And audit prevents nothing, but it makes every incident short, explainable & attributable. That’s the difference between a bad afternoon and a bad quarter.
+
+Citizen development is not meant to replace professional engineering. Systems of record in regulated processes, anything customer-facing or investor-facing, apps built for external users, anything where downtime carries a financial penalty: those still belong to engineering, and the front door routes them there on day one. What it replaces is the bottleneck. It democratizes the long tail of internal tools that were never worth a formal engineering project and ships them at a speed the roadmap queue could never offer. A framework with no boundaries is a slogan; this one knows what it is not for.
+
+What actually changes
+
+At the investment firm, the first app through the platform is the one that motivated it: the dashboard from the opening story, remade on the rails. Same screens. Same builder. Now with real storage, firm sign-in, and a history of every edit. It can never again truncate itself to 7 bytes, because the class of code that caused it can’t merge.
+
+About 9 in 10 requests already resolve automatically, and that share only grows. Most of what non-technical builders make is low blast radius by nature. Internal, read-mostly, small-audience tools. As each shape’s road proves itself, more of those builds become safe to provision and deploy with no human in the loop at all. Human attention keeps concentrating on the consequential tail and thinning out everywhere else.
+
+Yes takes minutes today, and it trends toward instant, because no is built in.
+
+Every company is about to have hundreds of builders. Most companies are still deciding whether to be scared of that or excited about it. The ones that win won’t be the ones with the most builders. They’ll be the ones with the best roads.
+
+COMMON QUESTIONS
+
+Questions leaders ask us
+What is citizen development?
+
+Non-engineering employees building real software for their own teams, with an AI agent doing the coding. The domain expert becomes the builder and no engineer writes the code — which is why the person who understands the workflow now sketches the correct product on the first try.
+
+Why is AI-generated code from non-engineers risky?
+
+An agent prompted from a blank page converges on software that works today and is unmaintainable forever — one file, inlined data, no concurrency protection, no audit trail. The risk is not the builder's competence; it is that nobody built the road for the software to ship on. Guardrails have to be in the template, not in the builder's head.
+
+Should companies ban employees from building apps with AI?
+
+No. Requests queue, patience runs out, and the shadow apps get built anyway — only now you cannot see any of them. You cannot govern what you cannot see. The alternative is not a ban or a free-for-all but one structured front door that every request goes through.
+
+When does a prototype need a real software lifecycle?
+
+When a second person uses the output directly instead of asking the author for refreshes. That is the second-consumer rule, and it works because that is the moment the risk profile changes: more reach, data traveling further, someone else trusting it to be right. Analysis you run for yourself does not need a deployment pipeline.
+
+Do humans still review every AI-generated change?
+
+No — the automated checks are the review for routine changes, so they move at the speed of CI rather than a reviewer's calendar. What reaches a person is the consequential tail, detected mechanically: destructive schema changes, new dependencies, anything touching infrastructure. When something new escapes, the fix is a new automated check, not more human review.
+
+What kinds of software should still belong to engineers?
+
+Systems of record in regulated processes, anything customer-facing or investor-facing, apps built for external users, and anything where downtime carries a financial penalty. The front door routes those to engineering on day one. Citizen development replaces the bottleneck on the long tail of internal tools, not professional engineering.
+
+SOURCES
+
+LinearB — 2026 Software Engineering Benchmarks Report (8.1M+ pull requests, 4,800+ organizations)
+LinearB / Dev Interrupted — Why AI-assisted PRs merge at half the rate of human code
+Simon Willison — The lethal trifecta for AI agents: private data, untrusted content, and external communication
+NIST — AI Risk Management Framework
+Anthropic — Claude Code
+
+KEEP READING
+
+AI STRATEGY
+
+The PHP Crisis Was a Decision-Making Crisis
+
+What a stalled security fix in the software behind most of the web says about how teams make hard decisions.
+
+AI ADOPTION
+
+We Need to Talk About Slop
+
+We surveyed our team about AI slop: how they define it, how they spot it, and how often they get wrongly accused of it. Here's what they told us.
+
+AI ADOPTION
+
+How Tenex Helped WebFX Build Claude Fluency Across the Whole Company
+
+How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"The Citizen SDLC","description":"A six-stage lifecycle that takes what non-technical employees build with AI from personal prototype to production the whole company can rely on.","url":"https://www.tenex.co/blog/citizen-sdlc","mainEntityOfPage":"https://www.tenex.co/blog/citizen-sdlc","image":"https://www.tenex.co/assets/blog/citizen-sdlc-header.jpg","datePublished":"2026-07-16T00:00:00.000Z","dateModified":"2026-07-16T00:00:00.000Z","author":{"@type":"Person","name":"Alex Lieberman, Suchi Patel, Ashwin Kadaru & Arman Hezarkhani"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"},{"@type":"ListItem","position":3,"name":"The Citizen SDLC","item":"https://www.tenex.co/blog/citizen-sdlc"}]}]
+

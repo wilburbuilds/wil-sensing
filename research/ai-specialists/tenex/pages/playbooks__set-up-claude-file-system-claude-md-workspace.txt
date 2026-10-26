@@ -1,0 +1,346 @@
+URL: https://www.tenex.co/playbooks/set-up-claude-file-system-claude-md-workspace
+Fetched: 2026-10-26T03:34:02Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/set-up-claude-file-system-claude-md-workspace
+Content-Type: text/html
+Via: chrome-headless
+Title: How to Set Up CLAUDE.md Files So Claude Knows You, Your Clients, and Your Decisions | Tenex
+Meta description: JJ Englert has run 50 Claude trainings for Anthropic, and almost everyone gets the same thing wrong: their files. Here is the layered setup that makes every new chat pick up where the last one left off, plus two free skills to build or audit yours.
+Canonical: https://www.tenex.co/playbooks/set-up-claude-file-system-claude-md-workspace
+Robots: 
+H1: Your Claude Is Only as Good as Your File System: The 30-Minute Setup
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Your Claude Is Only as Good as Your File System: The 30-Minute Setup
+
+JJ Englert has run 50 Claude trainings for Anthropic, and almost everyone gets the same thing wrong: their files. Here is the layered setup that makes every new chat pick up where the last one left off, plus two free skills to build or audit yours.
+
+0 of 8 steps
+0 / 80 pts
+THE PLAYBOOK
+✓
+START HERE
+Meet the Human Behind the Playbook
+10 pts
+📖 Learn
+📋 Implement
+The Human
+
+JJ Englert has taught 50 Claude trainings for Anthropic in the last six months, to engineers, executives, and operators at some of the best-run companies in the world. He is not an engineer, and he says so first.
+
+Across all fifty rooms, the thing people still get wrong is not the prompt and not the model. It is how they set up their files. If Claude does not know you, your clients, or what you decided last week, every chat starts from zero, and you spend the first ten minutes of every task explaining yourself again.
+
+"You're only as good as your file system," he says.
+
+He puts rough numbers on it, and he is clear they are rough. No file system: you are getting maybe 20 to 30 percent of what Claude can do. A messy one: 40 to 50. A clean one your agents can move through fast: 80 to 90. None of that is a benchmark. It is his read after watching the same before-and-after play out in room after room.
+
+The method is deliberately boring. Folders and plain text files on your own computer, layered so a fresh agent can get up to speed in seconds. It takes about 30 minutes, it does not require writing code, and because it is just files, the same setup works in Claude Cowork, Claude Code, and any other agent that can read a folder.
+
+‍
+
+"If you have no file system, automatically assume that you're getting like 20, 30% of actually the quality of output that you could get with Claude."
+‍— JJ Englert, Tenex
+
+‍
+
+‍
+
+Free download: the two skills from the video, create workspace structure and audit workspace structure, packaged as one plugin. Download the Work Context Kit (.zip). Step 7 shows how to install it.
+
+‍
+
+Continue to Implementation →
+✓
+STEP 1
+Test What Claude Actually Knows About You
+10 pts
+📖 Learn
+📋 Implement
+
+Before you build anything, measure the gap. It is usually bigger than people expect.
+
+Every new chat starts with a blank memory. Claude does have some built-in memory that drifts in and out over time, but it is shallow and it does not travel with you between tools. So the real question is not "is Claude smart?" It is "what can this particular chat actually see?"
+
+JJ's demo makes the gap obvious. He opens two agents and asks both to look up his company, Acme, and tell him about it. The one with no folder attached goes searching his connected Notion and Google Drive, finds several unrelated companies called Acme, and gives up. The one pointed at his workspace folder reads a few files and comes back in seconds: a roughly 350-person industrial packaging company, the stakeholders, the goals, the details. Same model, same question. The only difference is the folder.
+
+Run that test on your own work. Pick something you do every week that depends on context: a client email, a status update, a pitch deck. Ask for it in a fresh chat with nothing attached and save what comes back. That output is your baseline, and you will run the exact same prompt again at the end of this playbook.
+
+Pick one recurring task that depends on knowing you, your company, or a client.
+Run it in a brand-new chat with no folder, project, or files attached.
+Save the output, the prompt, and a note on every question Claude had to ask you.
+Ask the same chat what it knows about you, your role, and your clients, and save that too.
+
+Pro Tip: Count the clarifying questions. Every question Claude asks you is a fact that should already be sitting in a file.
+
+Checkpoint: You have a saved baseline output and a short list of things Claude did not know that it needed.
+
+‍
+
+"If we don't have files in these folders, Claude knows nothing. And when it knows nothing about you or your business or your goals, it gives you results that aren't as good."
+‍— JJ Englert
+Continue to Implementation →
+✓
+STEP 2
+Build One Top-Level Folder for Your Work
+10 pts
+📖 Learn
+📋 Implement
+
+Write "about me" once, at the top. Every client and project underneath inherits it.
+
+The structure JJ recommends is one big folder that holds everything relevant to how you work, with a subfolder for each client or project inside it. You write your bio, your role, and your email style guide one time at the top level. Then every new client folder gets all of that for free, and only needs the facts that are specific to that client.
+
+His demo workspace looks roughly like this. It lives in an ordinary folder on his computer; where you save it does not matter, as long as it is a folder with files in it.
+
+Context Workspace/
+  CLAUDE.md
+  About Me/        role, bio, priorities
+  Brand/           style guide for decks and docs
+  Examples/        good emails, good decks
+  Drafts/
+  Clients/
+    Acme/
+      CLAUDE.md
+      discovery-notes.md
+      decision-log.md
+      stakeholders-and-goals.md
+      sample-decks/
+
+What goes at the top: who you are, your role, how you like to write emails and posts, and your brand guide. The brand guide is the one people skip, and it is the one that makes decks and documents come out already on brand instead of generic. What goes in a client folder: discovery notes, handoff docs, stakeholders and goals, sample decks, and above all a decisions log. That log is what lets a fresh agent tell you what has been agreed to and what is still waiting on approval, instead of making you have the same conversation twice.
+
+Keep facts, preferences, examples, and drafts visibly separate. An old proposal in Examples is evidence of your style, not evidence of what a new client agreed to.
+
+Create one top-level folder for your work, anywhere on your computer.
+Add an About Me folder with your role, a short bio, and your current priorities.
+Add a writing guide built from two or three real emails or posts you are proud of.
+Add a Brand folder with your colors, fonts, logo, and words to use or avoid.
+Create a Clients folder with one subfolder per client, each with a dated decisions log.
+
+Pro Tip: Build the writing guide from your actual sent emails, not from how you think you write. Paste three real ones into Claude and ask it to describe the patterns.
+
+Checkpoint: You can point to a single folder that holds who you are, how you write, what your brand looks like, and one client with a decisions log.
+
+‍
+
+"Within there, I can write one About Me. I can write one style guide for emails... and then when I do each new client or each new project, then within clients, I start to create new folders."
+‍— JJ Englert
+Continue to Implementation →
+✓
+STEP 3
+Write the Top-Level CLAUDE.md
+10 pts
+📖 Learn
+📋 Implement
+
+The first thing every new agent reads. Use it to tell the agent who it is working for and where everything lives.
+
+When you start a new agent in a folder, Claude reads the CLAUDE.md file at the top before it does anything else. That makes it the single most valuable file in the workspace. It is your chance to brief every future agent at once: here is who you are assisting, here is where to learn more about them, here is how to use this folder.
+
+JJ's is short. It says the agent is assisting JJ, that it can learn about him in the About Me file, about his role in the role file, and about the current work in its own file, and that it should use the workspace as its source. That is enough. The CLAUDE.md is a table of contents with a few house rules, not an encyclopedia.
+
+Worth including: who the agent is assisting and in what role; the one-line purpose of each top-level folder; a rule to cite dated sources and to prefer the newest decision when two files disagree; a rule to flag uncertainty instead of guessing; and a rule to draft but never send or publish on its own. Worth leaving out: anything already in a linked file. If it is in About Me, just point to About Me.
+
+A note on other tools: Claude Code and Cowork read CLAUDE.md. Codex reads a file called AGENTS.md. The content is the same, so if you work across tools, keep one and copy it to the other name.
+
+Create a file named CLAUDE.md at the top of your workspace folder.
+Say in one line who the agent is assisting and what kind of work happens here.
+List each top-level folder with a one-line description of what is in it.
+Add rules to prefer the newest dated decision and to flag anything it is unsure about.
+Add a rule that it drafts emails and documents but never sends or publishes them.
+
+Pro Tip: Keep it under a page. Every agent reads the whole thing on every launch, so each extra paragraph costs you on every chat for the life of the folder.
+
+Checkpoint: A brand-new chat opened in the folder can tell you who you are and name your clients without you typing either.
+
+‍
+
+"Every time we launch a new agent, it starts with a fresh memory. It doesn't know anything about you. So we have to tell Claude every single time... and we do that with our files in these folders."
+‍— JJ Englert
+Continue to Implementation →
+✓
+STEP 4
+Add a CLAUDE.md and a Map to Every Client Folder
+10 pts
+📖 Learn
+📋 Implement
+
+One CLAUDE.md at the top gets the agent in the door. It gets lost once it walks deeper.
+
+Think about it from the agent's side. It reads the top-level CLAUDE.md, learns it needs to go into the Acme folder, and walks in. Now it is surrounded by discovery notes, decks, and meeting logs, and nothing tells it which one matters. So it reads all of them. That takes time, it costs tokens, and the next agent in the next chat does the exact same thing again, because none of that reading was saved.
+
+The fix is a second CLAUDE.md inside each client or project folder: a short summary of who the client is, where things stand, and which file answers which question. JJ didn't write his by hand. He asked Claude to create it, and Claude read the folder once and wrote the summary so no future agent has to repeat that work.
+
+Create a CLAUDE.md for a client folder
+
+Create a CLAUDE.md file for my
+[client name] folder.
+
+It should help any new agent understand
+who this client is without reading every
+file in the folder.
+
+Include:
+- who the client is, in 3-4 lines
+- current status and open decisions,
+  with the date and source file for each
+- a map: which file to open for which
+  kind of question
+
+Mark anything unapproved as unapproved.
+Leave a TODO where a fact is missing.
+Don't guess.
+
+COPY
+
+‍
+
+The map part matters most as folders grow. JJ calls it a workspace map: a plain list of what is where, so the agent goes straight to the right document instead of indexing the whole tree. A big folder without one is where token costs quietly balloon, because every chat re-reads everything to find its bearings.
+
+Pick your most active client or project folder and run the prompt above inside it.
+Read the CLAUDE.md it writes and correct anything it got wrong or overstated.
+Check that the map names the file for decisions, stakeholders, goals, and past work.
+Repeat for every client folder you open more than once a month.
+Tell Claude to update the folder's CLAUDE.md whenever a new decision is logged.
+
+Pro Tip: Ask for dates on everything in the summary. A client summary without dates is how a three-month-old price ends up in a new email as if it were current.
+
+Checkpoint: In a fresh chat, you ask what is still waiting on approval for this client, and the answer comes back with dates and sources, pulled from the folder's CLAUDE.md and the decisions log it points to.
+
+‍
+
+"Without that CLAUDE.md, I kind of have to go and read through all of these docs to get up to speed. That takes time, that costs money, tokens... and then when that agent goes away and a new conversation has started, that new agent has to do the same thing again."
+‍— JJ Englert
+Continue to Implementation →
+✓
+STEP 5
+Set Your Global Instructions
+10 pts
+📖 Learn
+📋 Implement
+
+The folder is project settings. Global instructions are personal settings, and they follow you everywhere.
+
+There are two levels of instructions, and people often only set one. The CLAUDE.md files are project-level: they apply when an agent is working in that folder. Global instructions are personal-level: Claude reads them at the start of every chat, folder or no folder. In the Claude app you will find them under Settings → Account, in the instructions for Claude field.
+
+Global instructions are for the things that are true about you no matter which client you are working on. How you like answers formatted. How long they should be. Your role. What to never do. Leave the client-specific material in the folders.
+
+JJ's move here is to not write them himself. He has Claude interview him first, then hand back a finished block to paste in.
+
+Draft your global instructions
+
+Help me draft my global instructions
+for Claude.
+
+Start by interviewing me. Ask one
+question at a time about my role, how
+I like answers written, and what I
+never want you to do.
+
+When you have enough, give me a copy
+and paste block I can paste into my
+global instructions.
+
+COPY
+
+‍
+
+Open a new chat and run the interview prompt above.
+Answer honestly, including the things that annoy you about AI replies today.
+Paste the finished block into Settings, then Account, in the instructions for Claude field.
+Move anything client-specific out of it and into the right client folder.
+
+Pro Tip: Put the rules about format and tone here, not in every CLAUDE.md. Write them once at the personal level and every folder inherits them.
+
+Checkpoint: A brand-new chat with no folder attached already answers in the length and tone you asked for.
+
+‍
+
+"These are personal settings, whereas the CLAUDE.md within a file and folder is like project settings."
+‍— JJ Englert
+Continue to Implementation →
+✓
+STEP 6
+Stack Your Chats Inside a Project
+10 pts
+📖 Learn
+📋 Implement
+
+Two loose chats don't know about each other. Two chats in the same Project do.
+
+The last layer is Projects. When you create a Project, you can point it straight at a client folder, so everything inside that Project starts with the client's files. Then the useful thing happens: chats inside the Project build on each other. Ask about the company in one chat, ask about recent decisions in another, and the second one already knows what the first one covered.
+
+That is the difference from loose workspace chats. Two separate chats pointed at the same folder both read the files, but they do not hear each other. Chats inside a Project do. JJ also notes that Projects created in regular Claude chat now show up in Cowork, so you are not locked into one surface.
+
+Top level or deep: you can open a Project or agent at the top of your workspace, which gives it access to everything, or go straight into one client folder, which limits it to that client. JJ usually works at the top level, because the agent can reach your writing guide and brand guide as it needs them. That only works well when the CLAUDE.md files and maps from steps 3 and 4 are in place; without them, a big top-level folder just burns more tokens.
+
+Create a Project for your most active client and point it at that client's folder.
+Run every chat about that client inside the Project instead of as a loose chat.
+Rename your chats so you can find the thread for each piece of work later.
+When a chat produces a decision, ask Claude to add it to the client's decisions log.
+
+Pro Tip: The Project remembers the conversation, but the file remembers the decision. Anything that matters beyond this Project belongs in the decisions log, where every tool and every colleague can see it.
+
+Checkpoint: A second chat in the Project can reference something you only discussed in the first chat, without you repeating it.
+
+‍
+
+"Every chat you have within a project is building more context and memory, so that way this next chat can already remember what was chatted here."
+‍— JJ Englert
+Continue to Implementation →
+✓
+STEP 7
+Install the Free Skills and Audit Your Workspace
+10 pts
+📖 Learn
+📋 Implement
+
+Folders drift. A summary written in March is wrong by June. Audit it on purpose.
+
+The kit is one plugin with two skills. Create workspace structure sets up a small starter folder for a new project, based on the two or three tasks you actually repeat. Audit workspace structure looks at a folder you already have, traces how an agent would handle a real task in it, and reports the few fixes that matter most, each with the file it found as evidence and the smallest change that would fix it. A skill, if you have not used one, is essentially a long saved prompt that follows a series of steps you can reuse.
+
+To install in the Claude app: go to Customize, switch to Plugins, choose Upload plugin, and drag in the zip. Both skills show up under Skills, where you can open either one and read exactly what it does. On a Team plan, you can publish it to your org so everyone gets it. Then type /audit-workspace-structure inside an existing folder, or /create-workspace-structure for a new one.
+
+Download the Work Context Kit (.zip)
+
+The audit is built to be conservative. It is looking for the failures that change real work: a current decision stuck in an inbox file, a budget hint written down as if it were an approved price, an old example email being treated as a fact about a new client. It will not invent a problem because a folder looks sparse, and it leaves a TODO rather than making up a fact.
+
+Then close the loop. Re-run the exact prompt from step 1 and put the two outputs side by side. In the video, the no-folder email opens by asking what it should even write about; the folder version opens "Hey Priya and Marcus," thanks Marcus for the samples he sent, and recaps what was actually decided. The deck test goes the same way: the no-folder version has to interview you and still comes out off brand, while the folder version starts building immediately in your style.
+
+Download the zip above and upload it under Customize, Plugins, Upload plugin.
+Run /audit-workspace-structure in the workspace folder you built in steps 2 through 4.
+Fix the top one or two findings before touching anything else.
+Re-run your step 1 baseline prompt and compare the two outputs side by side.
+Put a monthly reminder on your calendar to re-run the audit as the folder grows.
+
+Pro Tip: Use the create skill for every new client from day one. It is far cheaper to start a folder clean than to audit a messy one six months later.
+
+Checkpoint: Your step 1 prompt now comes back specific, on brand, and without a single clarifying question you could have answered with a file.
+
+‍
+
+"Set it up once and each new chat picks up where the last one left off. Learn it once and it works in every AI tool you use."
+‍— JJ Englert
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"How to Set Up CLAUDE.md Files So Claude Knows You, Your Clients, and Your Decisions","description":"JJ Englert has run 50 Claude trainings for Anthropic, and almost everyone gets the same thing wrong: their files. Here is the layered setup that makes every new chat pick up where the last one left off, plus two free skills to build or audit yours.","image":"https://www.tenex.co/assets/playbooks/set-up-claude-file-system.jpg","datePublished":"2026-09-30T14:00:00.000Z","dateModified":"2026-09-30T14:00:00.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/set-up-claude-file-system-claude-md-workspace"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Your Claude Is Only as Good as Your File System: The 30-Minute Setup","item":"https://www.tenex.co/playbooks/set-up-claude-file-system-claude-md-workspace"}]}]
+

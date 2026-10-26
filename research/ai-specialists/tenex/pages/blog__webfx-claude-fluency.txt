@@ -1,0 +1,146 @@
+URL: https://www.tenex.co/blog/webfx-claude-fluency
+Fetched: 2026-10-26T03:34:21Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog/webfx-claude-fluency
+Content-Type: text/html
+Via: chrome-headless
+Title: How Tenex Helped WebFX Build Claude Fluency Across the Whole Company | Tenex
+Meta description: How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.
+Canonical: https://www.tenex.co/blog/webfx-claude-fluency
+Robots: 
+H1: How Tenex Helped WebFX Build Claude Fluency Across the Whole Company
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to Blog
+
+AI ADOPTION
+
+How Tenex Helped WebFX Build Claude Fluency Across the Whole Company
+
+How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.
+
+TENEX
+·
+OCTOBER 16, 2026
+·
+4 MIN READ
+
+WebFX had already rolled Claude out across its business. In a four-week sprint, Tenex helped its teams get even more from it, with a diagnostic, training for every level of user, and a roadmap for what comes next.
+
+94% of surveyed WebFX employees use AI daily or hourly
+300 people joined the live Claude 101 session
+4 weeks from kickoff to leadership readout
+An early mover on Claude
+
+WebFX is a digital marketing company that had already done what most businesses are still planning. By mid-2026, Claude was in the hands of every team WebFX planned to reach that year, and the executive team was fully behind it.
+
+Its engineers were early, heavy users of Claude Code. From there, the rollout spread to go-to-market and operations teams, led by department heads who wanted it for their people. Product managers were shipping internal apps with Claude, non-technical teams were automating their own manual work, and leaders were using Claude every day to plan, forecast and share context. WebFX also builds and sells its own AI workspace, Team AI, so it came to Claude with more AI experience than most companies its size. Governance was built in from day one.
+
+With adoption in place, WebFX set a more ambitious goal: to have everyone using Claude the way its best people already did, and to get the most value possible from its investment.
+
+Starting with how WebFX works
+
+WebFX’s teams use Claude in very different ways, from engineers running agents to account teams building client materials. So Tenex started by listening. Over two weeks, the team held conversations with leaders, department heads, IT and AI champions across revenue, finance, marketing, data, and the group behind WebFX’s own AI platform.
+
+A short company-wide survey showed how far WebFX had already come: 94% of respondents use AI daily or hourly, and Claude was the tool people reached for first. WebFX’s own team also spent time with its most active users to understand how they work, and those habits became the examples the rest of the company learned from.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+The questions that come after adoption
+
+Because Claude was already part of daily work, WebFX’s teams were focused on using it well, consistently and at the right cost. Four priorities shaped everything that followed.
+
+The right tool for each job. With Claude and Team AI both in daily use, WebFX wanted a clear, shared view of where each one is strongest, set by the people who run its AI platform.
+
+Rigor where numbers matter. For figures that have to be exactly right, WebFX wanted fixed, repeatable routines, with open-ended AI reserved for work that benefits from it.
+
+A house standard for quality. WebFX already expects people to own everything they send, and it holds a simple principle: if you spend less time creating something than your audience spends reading it, you aren’t respecting their time. It wanted Claude’s output to meet that bar and sound like WebFX.
+
+Value from every dollar. WebFX wanted every person to know how to get the same result more efficiently, so its investment in Claude keeps pace with the value it creates.
+
+One session for everyone, and a lab for the builders
+
+The diagnostic set the curriculum. Tenex built two sessions around WebFX’s own workflows and examples.
+
+Claude 101. A 90-minute foundations session open to everyone with Claude, and 300 people joined live. It covered choosing the right model for each step of a workflow, getting reliable answers from connected data, using the browser extension safely, setting up house-style instructions, and an introduction to evaluating AI output.
+
+Claude 201 Skills Lab. A two-hour working session for WebFX’s AI champions, the people whose workflows get reused across teams. Each participant brought a manual, repeatable task, turned it into a Claude skill, then ran an evaluation comparing results with and without the skill before refining it.
+
+Built to be rerun. Both courses were handed over as hosted training sites, and Claude 101 was recorded, so WebFX’s department leaders can run them with their own teams.
+
+The idea running through both sessions: decide how much room the model should have before you prompt. Drafting and research can use Claude’s full range. Anything that has to reconcile, like a revenue report, runs on a fixed routine.
+
+A roadmap for leadership
+
+The sprint closes with a readout to WebFX leadership covering what the diagnostic found, why the training was shaped the way it was, and a prioritized set of Claude opportunities WebFX can take on itself or with a partner. Leaders across the business, including finance, are using it to decide where Claude goes next.
+
+“It’s been a treat working with you and we’ve gotten a lot of value out of this engagement.”
+
+— Chris Putnam, Senior Director of Enterprise Architecture, WebFX
+
+The result
+
+More than 300 people joined a hands-on Claude 101 session. WebFX’s most active non-engineering users then built skills from their own workflows in a follow-up skills lab.
+
+About WebFX
+
+WebFX is a tech and AI-enabled digital marketing agency that has generated more than $10B in client revenue in the last five years. Headquartered in Harrisburg, Pennsylvania, its 750+ experts help businesses grow revenue through data-fueled strategies in SEO, paid media and content, and with AI-powered marketing technology. Its family of brands includes SEO.com, TeamAI and Nutshell.
+
+KEEP READING
+
+AI ADOPTION
+
+We Need to Talk About Slop
+
+We surveyed our team about AI slop: how they define it, how they spot it, and how often they get wrongly accused of it. Here's what they told us.
+
+AI ADOPTION
+
+How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back
+
+Tenex helped Advantage Solutions stand up an AI Office and roll Claude out to thousands of users, returning 70,000+ labor hours a year to frontline managers.
+
+AI ADOPTION
+
+HyperFrames Studio: Beginner's Guide + Honest Review (2026)
+
+How to get started with HyperFrames Studio, HeyGen's free AI video editor: setup, 5 real builds, free prompts, and an honest good/bad/ugly verdict.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"How Tenex Helped WebFX Build Claude Fluency Across the Whole Company","description":"How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.","url":"https://www.tenex.co/blog/webfx-claude-fluency","mainEntityOfPage":"https://www.tenex.co/blog/webfx-claude-fluency","image":"https://www.tenex.co/assets/blog/webfx-claude-fluency-header.jpg","datePublished":"2026-10-16T00:00:00.000Z","dateModified":"2026-10-16T00:00:00.000Z","author":{"@type":"Organization","name":"Tenex"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"},{"@type":"ListItem","position":3,"name":"How Tenex Helped WebFX Build Claude Fluency Across the Whole Company","item":"https://www.tenex.co/blog/webfx-claude-fluency"}]}]
+

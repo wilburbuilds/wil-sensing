@@ -1,0 +1,53 @@
+URL: https://careers.limestonedigital.com/v/246737-full-stack-engineer-java-react-aws
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/246737-full-stack-engineer-java-react-aws
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Full-stack Engineer (Java, React, AWS)
+Meta description: Role Scope &amp; Requirements Experience &amp; Core Expertise: 5+ years of commercial software development, including 4+ years with Java &amp; Spring Boot microservices, 2+ years with React &amp; T...
+Canonical: 
+Robots: 
+H1: Full-stack Engineer (Java, React, AWS)
+
+Limestone digital s.r.o. - Full-stack Engineer (Java, React, AWS)
+Job openings
+Full-stack Engineer (Java, React, AWS)
+Full-time
+·
+Central Europe
+Role Scope & Requirements
+Experience & Core Expertise: 5+ years of commercial software development, including 4+ years with Java & Spring Boot microservices, 2+ years with React & TypeScript, and 2+ years working with AWS, Kubernetes, and Terraform.
+Cloud & Infrastructure: Hands-on AWS production experience (EKS, IAM, core networking, managed databases) along with Terraform for IaC.
+Kubernetes & GitOps: Experience managing Kubernetes workloads using Helm and GitOps tools (ArgoCD or Flux).
+Observability & Reliability: Setup and maintenance of Datadog or Prometheus/Grafana stacks, including defining SLOs and configuring alerting thresholds.
+CI/CD & Data Layer: Building CI/CD pipelines in GitLab CI, alongside practical experience with Apache Kafka, MongoDB, or PostgreSQL.
+AI-Augmented Engineering: Daily hands-on practice with AI coding tools (Cursor, Claude, GitHub Copilot, or similar) to accelerate delivery.
+Nice-to-Have Experience:
+Advanced scaling & traffic management: Karpenter, KEDA, HPA design, and Cloudflare (WAF, DNS, rate limiting).
+Secondary scripting exposure: Python or Node.js for AWS Lambda functions.
+Key Responsibilities
+Service & Tooling Development: Build and maintain Java/Spring Boot microservices and React-based internal tools with a primary focus on platform health and stability.
+Autoscaling & Performance: Transition infrastructure from manual scaling to automated patterns (Karpenter, KEDA, HPA) and tune overall service performance.
+Observability & Incident Preparedness: Refine SLOs, improve alert quality to reduce noise, shorten time-to-resolution, and participate in disaster recovery exercises.
+Quality & Operational Automation: Integrate automated quality gates into CI/CD pipelines (static analysis, test coverage) and eliminate repetitive operational tasks.
+Technical Collaboration: Participate in incident postmortems, code reviews, and project alignment activities within the client's team.
+Process & AI Efficiency: Leverage modern AI-assisted engineering practices to streamline delivery workflows and enhance engineering velocity.
+Project Overview
+The platform handles real-time player operations, payments, bonuses, and loyalty systems, while serving internal teams for compliance, risk, CRM, and analytics. As the platform scales into new markets and launches additional brands, our consultants collaborate directly with the client’s project teams to strengthen delivery capacity, elevate system reliability and performance, and replace manual processes through automation and AI-assisted engineering practices.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

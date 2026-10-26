@@ -1,0 +1,139 @@
+URL: https://www.promptadvisers.com/build-your-own-jev-with-claude-opus
+Fetched: 2026-10-26T03:45:12Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/build-your-own-jev-with-claude-opus
+Content-Type: text/html
+Via: chrome-headless
+Title: Build Your Own Jev With Claude Opus 5.5 | Prompt Advisers
+Meta description: Build your own Jev alternative with Claude Opus 5.5: fine-tune a free local classifier model, no API fees, full walkthrough.
+Canonical: https://www.promptadvisers.com/build-your-own-jev-with-claude-opus
+Robots: 
+H1: Build Your Own Jev With Claude Opus 5.5
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+Build Your Own Jev With Claude Opus 5.5
+
+Build your own Jev alternative with Claude Opus 5.5: fine-tune a free local classifier model, no API fees, full walkthrough.
+
+MARK KASHEF
+SEPTEMBER 25, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+Building your own Jev with Claude Opus 5.5 means fine-tuning a small, free, open-source classifier model until it performs close to Jev on your task. Mark Kashef walks through it with a travel-matching example: a model that reads hotel listings and answers fixed questions like "is there free cancellation," the same job Jev does, running locally at no per-call cost. It is not an exact clone, it is a specialist inspired by it, and the gap between the two is the whole story.
+
+TL;DR
+
+The travel classifier started at 60% accuracy and reached 95% after Mark reviewed wrong answers and retrained, against Jev's 98% on the same test.
+Training ran on a regular computer with no GPU, and each full run took 3 to 6 hours.
+The build follows four steps: pick a base model, define the goal, benchmark and retrain against overfitting, then add image understanding separately.
+Mark's project started with Codex, and Claude Opus 5.5 helped with later improvements and the free build prompt.
+How to Build Your Own Jev With Claude Opus
+
+Building your own Jev with Claude Opus starts by picking an encoder-only model, the same class Jev uses, built to bucket things into categories instead of generating text. Mark landed on ModernBERT, an open-source descendant of the original BERT model, after asking Opus to scan Hugging Face for something that could fine-tune on a normal laptop.
+
+WATCH ON YOUTUBE
+
+A language model charges for every token it writes back, while a classifier like Jev or a fine-tuned ModernBERT only charges for what you send in, since the output is just a label and a confidence score. That adds up fast if you're matching travelers, tagging documents, or sorting cases at volume.
+
+Join Early AI-dopters, 1,000+ people mastering Claude Code and Codex, where Mark shares the full build prompt and training workflow.
+
+What Are the Four Steps to Fine-Tuning Your Own Classifier?
+
+Fine-tuning your own classifier breaks into four steps: choose a model, define the goal, benchmark it, then handle non-text data separately. Step one hands Claude an open-source repo, like Open Jev, and asks it to find a model sized for your hardware.
+
+Step two is the real work. Tell Claude exactly what you're classifying, the travel example uses four checks, full cash refund, midnight arrival, pool access, guided hike, each answered meets, violates, or can't tell. The clearer that brief, the closer Claude gets to Jev-level behavior. Step three runs training against a rubric you set, and step four layers in anything Jev doesn't do yet, like reading photos.
+
+How Much Accuracy Can You Get Without Jev's Price Tag?
+
+You can get close to Jev's accuracy for free, but expect a real gap and a real time cost. Mark's first trained version hit only 60% accuracy against Jev's 98% on the same listings.
+
+The fix wasn't a bigger model, it was reviewing wrong answers by hand and feeding that back to Opus for a retrain. That one round of correction took the model from 60% to 95%, close enough to be useful without closing the gap fully. Claude also watches for overfitting, where a model memorizes training examples instead of the pattern, by holding back unseen data to test against first.
+
+DIY Classifier vs. Jev: What's the Real Tradeoff?
+
+The real tradeoff is setup time against ongoing cost. Jev is faster to start and slightly more accurate, a self-trained classifier is free to run but takes hours of training and correction to get there.
+
+	JEV	SELF-TRAINED CLASSIFIER
+Setup time	Minutes, hosted API	Hours to days, plus retraining
+Cost per call	$0.042 per 10,000 input tokens	Free after training, your own compute
+Accuracy (Mark's travel test)	98%	95% after one correction round
+Image understanding	Not supported yet	Added separately via an open-source vision model
+Best for	Fast production use, no infra	High-volume tasks where free is worth the setup
+
+If your volume is low or it needs to work today, Jev AI use cases covers when the hosted option earns its price. Optimizing for zero marginal cost at scale is where the DIY route wins.
+
+Does It Handle Images Like Jev Does?
+
+Not by default, since Jev is text-only today, so Mark added a separate vision component. The setup runs the text classification first, then checks a listing photo against that answer as a second pass.
+
+If the text model tags a listing as having a pool but the photo shows a pond, the vision layer catches the mismatch and flags it. Mark points to open-source options like Diffusion Gemma, since you can hand Claude the repo and have it wire the two systems together. This fits teams already running a local AI setup who want classification without new hosting costs.
+
+Mark's Final Thoughts
+
+This isn't about replacing Jev, it's about knowing when a free local classifier is close enough. Run the same yes/no decision thousands of times, and the setup hours pay for themselves fast. Grab the free build prompt and try it before you commit budget to a hosted option.
+
+Build Your Own Jev With Claude Opus FAQs
+
+Can Claude Opus 5.5 really build a Jev-like model from scratch?
+
+Yes, with guidance. Claude Opus 5.5 picks a suitable open-source base model, writes the fine-tuning code, and sets up a benchmark against Jev, but you still supply the labels, the goal, and the judgment calls. Mark's original build started with Codex and Opus 5.5 handled later improvements.
+
+How long does it take to fine-tune a local classifier model?
+
+Plan for 3 to 6 hours per training run if your computer has no GPU, and that run repeats every time you retest a change. Start the job before bed so you wake up to results instead of watching a progress bar.
+
+Do I need a GPU to build my own Jev alternative?
+
+No, but it changes your pace. Mark ran his travel classifier on a regular computer alongside other processes, which is exactly why the training runs took hours instead of minutes. A GPU speeds up iteration, it does not change whether the approach works.
+
+How accurate is a DIY Jev clone compared to the real thing?
+
+In Mark's travel test, the local model started at 60% accuracy and reached 95% after a few rounds of fixing the wrong answers and retraining, against Jev's 98% on the same task. That gap held for one synthetic test, not every use case.
+
+Can a local classifier model understand images like Jev?
+
+Not on its own. Jev is text-only today, so Mark added a separate open-source vision component, similar to Diffusion Gemma, that checks photos against the text classification, like catching a pool that's actually a pond in the listing photo.
+
+Get the free build prompt and guide, try the interactive demo, or pull the public starter repo. See the ModernBERT model card for the base architecture, and Google's overfitting crash course for why held-out test data matters. Teams that want this in production, not a side project, can start with enterprise AI consulting.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/build-your-own-jev-with-claude-opus#article","headline":"Build Your Own Jev With Claude Opus 5.5","description":"Build your own Jev alternative with Claude Opus 5.5: fine-tune a free local classifier model, no API fees, full walkthrough.","image":["https://www.promptadvisers.com/blog/build-your-own-jev-with-claude-opus/build-your-own-jev-with-claude-opus-hero.webp"],"datePublished":"2026-09-25T00:00:00-05:00","dateModified":"2026-09-25T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/build-your-own-jev-with-claude-opus","keywords":"build your own jev with claude opus, Jev alternative, fine-tune ModernBERT, local AI classifier, Claude Opus 5.5","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Build Your Own Jev With Claude Opus 5.5","description":"Build your own Jev alternative with Claude Opus 5.5: fine-tune a free local classifier model, no API fees, full walkthrough.","thumbnailUrl":["https://i.ytimg.com/vi/z8My0bX2-ZU/maxresdefault.jpg"],"uploadDate":"2026-09-23T00:00:00-05:00","duration":"PT15M7S","contentUrl":"https://www.youtube.com/watch?v=z8My0bX2-ZU","embedUrl":"https://www.youtube-nocookie.com/embed/z8My0bX2-ZU","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can Claude Opus 5.5 really build a Jev-like model from scratch?","acceptedAnswer":{"@type":"Answer","text":"Yes, with guidance. Claude Opus 5.5 picks a suitable open-source base model, writes the fine-tuning code, and sets up a benchmark against Jev, but you still supply the labels, the goal, and the judgment calls. Mark's original build started with Codex and Opus 5.5 handled later improvements."}},{"@type":"Question","name":"How long does it take to fine-tune a local classifier model?","acceptedAnswer":{"@type":"Answer","text":"Plan for 3 to 6 hours per training run if your computer has no GPU, and that run repeats every time you retest a change. Start the job before bed so you wake up to results instead of watching a progress bar."}},{"@type":"Question","name":"Do I need a GPU to build my own Jev alternative?","acceptedAnswer":{"@type":"Answer","text":"No, but it changes your pace. Mark ran his travel classifier on a regular computer alongside other processes, which is exactly why the training runs took hours instead of minutes. A GPU speeds up iteration, it does not change whether the approach works."}},{"@type":"Question","name":"How accurate is a DIY Jev clone compared to the real thing?","acceptedAnswer":{"@type":"Answer","text":"In Mark's travel test, the local model started at 60% accuracy and reached 95% after a few rounds of fixing the wrong answers and retraining, against Jev's 98% on the same task. That gap held for one synthetic test, not every use case."}},{"@type":"Question","name":"Can a local classifier model understand images like Jev?","acceptedAnswer":{"@type":"Answer","text":"Not on its own. Jev is text-only today, so Mark added a separate open-source vision component, similar to Diffusion Gemma, that checks photos against the text classification, like catching a pool that's actually a pond in the listing photo."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Build Your Own Jev With Claude Opus 5.5","item":"https://www.promptadvisers.com/build-your-own-jev-with-claude-opus"}]}]
+

@@ -1,0 +1,259 @@
+URL: https://heliontechnologies.com/microsoft-365-security/
+Fetched: 2026-10-26T03:52:54Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/microsoft-365-security/
+Content-Type: text/html
+Via: chrome-headless
+Title: Managed Microsoft 365 for Dealerships | Helion
+Meta description: Managed Microsoft 365 for dealerships from Helion. MFA, admin rights, email protection, sharing, a real backup and Copilot cleanup, run daily by one team.
+Canonical: https://heliontechnologies.com/microsoft-365-security/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Managed Microsoft 365 for Dealerships
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+MANAGED IT
+
+Managed Microsoft 365 for Dealerships
+
+Microsoft runs the datacenters. Helion runs everything inside your tenant, from sign-ins and admin rights to email, backup and the AI that gets connected to it.
+
+Request a Complimentary Assessment →
+
+Managed Microsoft 365 for dealerships means one team runs your tenant every day, from sign-ins, multi-factor authentication and admin rights to email filtering, sharing settings, a real backup of mail and files, and whatever AI gets connected to it.
+
+Last updated: October 15, 2026
+
+Sign-ins and multi-factor authentication
+Admin rights and user permissions
+Email protection and sharing settings
+A backup of mail, OneDrive and SharePoint
+Copilot and every connected app
+One team accountable for the tenant
+Microsoft Runs the Cloud. Your Tenant Is Still Yours.
+
+Microsoft’s own shared responsibility model is blunt about it. For software like Microsoft 365, Microsoft looks after the datacenters, the servers and the network. The customer always keeps four jobs, the data, the devices, the accounts and the access controls, multi-factor authentication included. That customer is the dealership. Plenty of stores bought the licenses and assumed the rest came in the box.
+
+Managed Microsoft 365 is how Helion Technologies picks up those four jobs as part of managed IT for dealerships, run by the same team that handles your cybersecurity and FTC Safeguards compliance. It’s ongoing work. If you think someone is already inside your mailboxes, start with the Microsoft 365 breach assessment, which is a one-time hunt for signs of an intruder. This page is about who runs the tenant every day after that.
+
+Buying Microsoft 365 isn’t the same as running it. We run it, for every store, every day.
+
+SHARED RESPONSIBILITY
+
+Who Owns What in Your Dealership’s Microsoft 365
+
+Read across any row. The middle column is the part nobody at the store was hired to do, and it’s where the trouble starts. Microsoft holds up its end. It always has. The tenant settings, the people and the data were never Microsoft’s job, so they sit with whoever the dealership puts in charge of them, and in a lot of stores that turns out to be a busy office manager, a part-time IT person or nobody at all.
+
+Area
+	Microsoft handles	Left to the dealership	What Helion does
+Datacenters and uptime	Servers, networks, physical security and keeping the service online	Nothing on the hardware side	Tells a Microsoft outage apart from a problem in your stores, so the help desk call starts in the right place
+Sign-ins and MFA	Provides multi-factor authentication and sign-in rules	Switching them on for every account, including the managers who hate the prompts	Multi-factor authentication on every account, and sign-in rules that block logins from places your staff never work
+Admin rights and permissions	Provides the roles and permission settings	Deciding who gets admin rights and what each person can open	Admin rights only for the people who need them, and new hires set up by job instead of copied from someone else’s account
+Email and phishing	Filters spam and known malware at the front door	Tuning the filters, training staff and acting on what still gets through	Email protection tuned for dealership mail, with security alerts watched around the clock by live, US-based analysts
+Sharing and guest access	Provides sharing controls for OneDrive, SharePoint and Teams	Deciding what can leave the building and who outside can see it	Sharing limits that keep deal files inside the dealership, and a look at what’s already been shared out
+Backup and restore	Keeps deleted email 14 days by default and deleted files 93 days	A separate copy the dealership controls, for anything older or bigger	A separate backup of mailboxes, OneDrive and SharePoint, so a restore doesn’t depend on a recycle bin
+Copilot and connected apps	Copilot shows each person whatever that person can already open	Cleaning up permissions before any AI or app gets switched on	Permission cleanup first, then Copilot licenses if you ask for them, though we don’t push them
+Licenses and leavers	Bills by the seat	Matching licenses to who works there and closing accounts when people leave	License counts matched to your staff list, and accounts closed when someone leaves the dealership
+
+The retention numbers come from Microsoft’s own pages on deleted email in Exchange Online and the SharePoint recycle bin. The sign-in row isn’t optional for a dealership, either. The FTC Safeguards Rule already requires multi-factor authentication for anyone accessing an information system that holds customer information, and your Microsoft 365 holds plenty of it. You likely own the tools for it already, as we explain in the right way to do MFA. For an outside yardstick, CISA’s secure configuration baselines for Microsoft 365 read a lot like the middle column.
+
+FROM THE FIELD
+
+What Erik Tells Dealers About Microsoft 365
+
+We asked Erik Nachbahr, Helion’s founder and a CISSP, what dealers get wrong about Microsoft 365. His four answers follow, in his own words. Not one of them is about a missing feature. Every one of them is about who’s actually running the thing, and whether anyone checked what it can reach.
+
+WORRIED SOMEONE’S ALREADY IN?
+
+Then start with the one-time Microsoft 365 breach assessment. It looks for signs of an intruder before anyone talks about running the tenant.
+
+Four things Erik tells dealers
+Erik Nachbahr, Helion founder
+
+Backup Retained isn’t backed up
+
+“Microsoft doesn’t guarantee you backups of all of your data. It retains it for a bit, but that’s not a backup and restore, like what you typically expect.” A deleted email waits 14 days by default. A deleted file waits 93. After that, it’s gone.
+
+Retention isn’t a restore.
+
+Rights Permissions that were already too wide
+
+“In dealerships where their networks are less secure, and they tend to have issues with people having permissions to things they shouldn’t already, when you add AI, now you’re spreading that even further.” A new hire’s account gets copied from whoever had the job before, the old access rides along with it, and three job changes later a salesperson can open the accounting share and the F&I manager’s mailbox without anyone deciding they should. Nobody notices, because nobody looks.
+
+Messy rights travel.
+
+Copilot Available isn’t the same as recommended
+
+“Should they even be using Microsoft Copilot? No. Can you use it? Yes.” Helion gets dealers Copilot licenses when they ask. The order matters, though. Microsoft’s own Copilot privacy page says it surfaces whatever data each person already has permission to view, so a messy tenant gives you a very well-informed Copilot. Our post on what to lock down before you turn Copilot on walks through it.
+
+Licenses on request. Cleanup first.
+
+Access AI plugged in with admin rights
+
+“Oftentimes AI is connected in with some high level administrative access. So all of that role-based security you have in place to control what types of things people are able to access, now they can access everything.” It usually takes one click. An app or an AI tool asks for permission to read every mailbox and every file in the tenant, someone who happens to have admin rights approves it in between two other jobs, and that’s that. The app is now one more identity in your tenant, which is why AI and machine identities need an owner too.
+
+Read what it asks for.
+
+Who Runs Your Microsoft 365
+2,000+
+Automotive and heavy truck dealerships
+35,000+
+Dealership employees supported daily
+82 sec
+Average time to reach a live support agent
+98%
+Client retention rate
+
+Every one of those 35,000 people signs in to something before the doors open. Our help desk is open whenever dealers are open, 7 days a week, with after-hours support included. Security support runs 24/7: live, US-based analysts monitor your systems and step in the moment they see signs of an attack. Same team. Same phone number.
+
+Microsoft 365 Backup Is Still Your Job
+
+Moving to the cloud made backups feel old-fashioned. “Most dealers’ technology is cloud-based now,” Erik says, “so they just don’t think about backups at all.” Email moved to Exchange Online. The shared drive turned into SharePoint and OneDrive. Nobody set up the copy.
+
+Microsoft’s safety nets are real, and they’re short. They catch a file someone deleted last week, which is handy, but they’re a thin net when ransomware scrambles a synced folder, when a departing employee empties a mailbox and nobody notices for a month, or when the controller needs last quarter’s version of a spreadsheet that’s been saved over 40 times since. We go deeper on it in whether you’re properly backing up Microsoft 365. For servers in Azure and everything else the store runs, see backup and disaster recovery for dealerships.
+
+Retention isn’t a restore.
+
+What Microsoft keeps
+
+Deleted email for 14 days by default, 30 at most. Deleted OneDrive and SharePoint files for 93 days, counted across both recycle bins. Then Microsoft purges them for good.
+
+A short safety net.
+
+What a managed backup adds
+
+A separate copy of your mailboxes, OneDrive and SharePoint, kept outside the tenant, so a mailbox or a folder can be rolled back to a point before the damage happened.
+
+Your copy, on your terms.
+
+How Managed Microsoft 365 Starts
+1
+Request the assessment
+
+Fill in the short form for our complimentary IT and cybersecurity assessment. There’s no cost and no obligation, and you don’t need to be shopping for a new provider.
+
+2
+We look at your tenant
+
+An engineer reviews sign-ins, admin rights, sharing, email protection, backup and connected apps, on-site or remotely, whichever suits you.
+
+3
+Findings arrive in writing
+
+You see what’s set up, what’s missing and what a managed tenant would look like next to the systems you already run.
+
+4
+You decide what’s next
+
+Fix it in-house, or hand us the daily work. Onboarding starts within weeks of signing. On the co-managed path your own IT manager stays in charge.
+
+More on Microsoft 365 at the Dealership
+
+The one-time checks, the license questions and the risks the daily work is there to catch.
+
+Microsoft 365 breach assessment
+A one-time check for signs that someone is already inside your tenant.
+→
+Business Premium security
+What the license gives a dealership, and what it still leaves out.
+→
+An intruder in your Microsoft 365
+How attackers sit quietly inside a dealership’s mailboxes.
+→
+The FBI’s Microsoft 365 warning
+What the warning means for dealership email and sign-ins.
+→
+Microsoft 365 security for dealerships
+Why tenant security belongs on the dealer principal’s desk.
+→
+Backup and disaster recovery
+A separate, tested copy of every system the store runs on.
+→
+AI readiness assessment
+What AI could reach in your tenant before anyone switches it on.
+→
+Microsoft Copilot at the dealership
+What to lock down before anyone turns Copilot on.
+→
+Incident response plan template
+Who does what when a mailbox or a synced folder gets hit.
+→
+Co-managed IT
+Helion alongside your own IT person, who stays in charge.
+→
+Common Questions
+
+NOT SURE WHO RUNS IT TODAY?
+
+A complimentary IT and cybersecurity assessment answers that in writing. Already know what you need? Get a price quote.
+
+What does managed Microsoft 365 include for a dealership?
+Doesn’t Microsoft already back up our email and files?
+How is this different from the Microsoft 365 breach assessment?
+Should we turn on Microsoft Copilot?
+We already pay for Business Premium. Isn’t that enough?
+Can our own IT person keep running Microsoft 365?
+
+Microsoft keeps its datacenters running. Let us show you what’s going on inside your tenant.
+
+Request a Complimentary Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/microsoft-365-security\/","url":"https:\/\/heliontechnologies.com\/microsoft-365-security\/","name":"Managed Microsoft 365 for Dealerships | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/microsoft-365-security\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/microsoft-365-security\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/managed-microsoft-365-for-dealerships.webp","datePublished":"2026-10-15T16:01:07+00:00","dateModified":"2026-10-15T16:09:20+00:00","description":"Managed Microsoft 365 for dealerships from Helion. MFA, admin rights, email protection, sharing, a real backup and Copilot cleanup, run daily by one team.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/microsoft-365-security\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/microsoft-365-security\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/microsoft-365-security\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/managed-microsoft-365-for-dealerships.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/managed-microsoft-365-for-dealerships.webp","width":1200,"height":630,"caption":"Managed Microsoft 365 for dealerships, from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/microsoft-365-security\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Microsoft 365 Management and Security for Dealerships"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/microsoft-365-security/","url":"https://heliontechnologies.com/microsoft-365-security/","name":"Managed Microsoft 365 for Dealerships","description":"Managed Microsoft 365 for dealerships from Helion. MFA, admin rights, email protection, sharing, a real backup and Copilot cleanup, run daily by one team.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/managed-microsoft-365-for-dealerships.webp","width":1200,"height":630},"about":[{"@type":"Thing","name":"Managed Microsoft 365","description":"The ongoing, day-to-day running of a dealership Microsoft 365 tenant by an outside team: sign-ins and multi-factor authentication, admin rights and permissions, email protection, sharing and guest access, a separate backup of mail and files, licenses, and Copilot and connected apps."}],"mentions":[{"@type":"CreativeWork","name":"Microsoft 365"},{"@type":"CreativeWork","name":"Microsoft Copilot"},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR Part 314","legislationJurisdiction":"US","url":"https://www.law.cornell.edu/cfr/text/16/314.4"},{"@type":"Person","name":"Erik Nachbahr","jobTitle":"President and Founder","url":"https://heliontechnologies.com/author/erik-nachbahr/","worksFor":{"@id":"https://heliontechnologies.com/#organization"}}],"hasPart":[{"@type":"WebPageElement","name":"Who owns what in your dealership Microsoft 365","url":"https://heliontechnologies.com/microsoft-365-security/#who-owns-what"},{"@type":"WebPageElement","name":"What Erik tells dealers about Microsoft 365","url":"https://heliontechnologies.com/microsoft-365-security/#from-the-field"},{"@type":"WebPageElement","name":"Microsoft 365 backup is still your job","url":"https://heliontechnologies.com/microsoft-365-security/#backup"},{"@type":"WebPageElement","name":"How managed Microsoft 365 starts","url":"https://heliontechnologies.com/microsoft-365-security/#how-it-starts"}],"significantLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/support/","https://heliontechnologies.com/microsoft-365-breach-assessment/"],"relatedLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/support/","https://heliontechnologies.com/cybersecurity/","https://heliontechnologies.com/compliance/","https://heliontechnologies.com/microsoft-365-breach-assessment/","https://heliontechnologies.com/the-right-way-to-do-mfa/","https://heliontechnologies.com/microsoft-copilot-dealership-security/","https://heliontechnologies.com/new-dealership-cybersecurity-issue-the-rise-of-ai-identities/","https://heliontechnologies.com/are-you-properly-backing-up-microsoft-365-or-google-workspace-data/","https://heliontechnologies.com/co-managed-it/","https://heliontechnologies.com/microsoft-365-business-premium-security/","https://heliontechnologies.com/microsoft-365-vulnerability/","https://heliontechnologies.com/fbi-microsoft-365-warning/","https://heliontechnologies.com/why-microsoft-365-security-isnt-just-a-dealership-it-concern-its-a-dealership-survival-strategy/","https://heliontechnologies.com/ai-readiness-assessment/","https://heliontechnologies.com/incident-response-plan-template/","https://heliontechnologies.com/price-quote/"],"citation":[{"@type":"CreativeWork","name":"Shared responsibility in the cloud","url":"https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility","publisher":{"@type":"Organization","name":"Microsoft"}},{"@type":"CreativeWork","name":"Data, Privacy, and Security for Microsoft Copilot","url":"https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy","publisher":{"@type":"Organization","name":"Microsoft"}},{"@type":"CreativeWork","name":"Recoverable Items folder in Exchange Online","url":"https://learn.microsoft.com/en-us/exchange/security-and-compliance/recoverable-items-folder/recoverable-items-folder","publisher":{"@type":"Organization","name":"Microsoft"}},{"@type":"CreativeWork","name":"Restore items in the recycle bin that were deleted from SharePoint or Teams","url":"https://support.microsoft.com/en-us/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be","publisher":{"@type":"Organization","name":"Microsoft"}},{"@type":"CreativeWork","name":"Secure Cloud Business Applications (SCuBA) secure configuration baselines for Microsoft 365","url":"https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project","publisher":{"@type":"Organization","name":"Cybersecurity and Infrastructure Security Agency"}},{"@type":"CreativeWork","name":"16 CFR 314.4 Elements of the information security program","url":"https://www.law.cornell.edu/cfr/text/16/314.4","publisher":{"@type":"Organization","name":"Legal Information Institute, Cornell Law School"}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/microsoft-365-security/#service","name":"Helion Managed Microsoft 365 for Dealerships","serviceType":"Managed Microsoft 365","description":"Helion Technologies runs the dealership Microsoft 365 tenant every day, covering multi-factor authentication, admin rights, email protection, sharing, a separate backup and Copilot readiness, from the team that supports 2,000+ dealerships with an 82-second average response time and a 98% client retention rate.","url":"https://heliontechnologies.com/microsoft-365-security/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion IT and security services for dealerships","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Microsoft 365 breach assessment","url":"https://heliontechnologies.com/microsoft-365-breach-assessment/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/microsoft-365-security/#faq","url":"https://heliontechnologies.com/microsoft-365-security/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What does managed Microsoft 365 include for a dealership?","acceptedAnswer":{"@type":"Answer","text":"It covers the daily running of your tenant, including multi-factor authentication on every account, admin rights limited to the people who need them, email protection, sharing settings, a separate backup and license cleanup. Helion runs it inside managed IT, so the help desk and security monitoring come from the same team."}},{"@type":"Question","name":"Doesn't Microsoft already back up our email and files?","acceptedAnswer":{"@type":"Answer","text":"Not the way most people picture it. Microsoft keeps deleted email for 14 days by default and deleted files for 93 days, then purges them. That's retention. A backup is a separate copy you control, and it's what lets you roll a mailbox back to last month."}},{"@type":"Question","name":"How is this different from the Microsoft 365 breach assessment?","acceptedAnswer":{"@type":"Answer","text":"The breach assessment is a one-time check for signs that someone is already inside your tenant. Managed Microsoft 365 is the ongoing service that runs the tenant afterward. Some dealers start with one, some with the other."}},{"@type":"Question","name":"Should we turn on Microsoft Copilot?","acceptedAnswer":{"@type":"Answer","text":"Helion doesn't recommend it, but we'll get you Copilot licenses if you want them. Whatever you decide, clean up permissions first. Copilot can open anything the person using it can open, so an old shared folder full of credit applications becomes a search result."}},{"@type":"Question","name":"We already pay for Business Premium. Isn't that enough?","acceptedAnswer":{"@type":"Answer","text":"It's a strong license, and it's still a license. Business Premium includes the security tools, but somebody has to configure them, watch the alerts and keep a backup that the license doesn't include. Our breakdown of Business Premium security for dealerships walks through what's in the box and what isn't."}},{"@type":"Question","name":"Can our own IT person keep running Microsoft 365?","acceptedAnswer":{"@type":"Answer","text":"Yes. On the co-managed path your IT manager stays in charge and Helion's team works alongside them, adding depth without replacing anyone. One person can't watch security alerts at 2 a.m. and still be sharp for the morning rush at the service drive, and nobody should have to."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/microsoft-365-security/#howto","name":"How managed Microsoft 365 for dealerships starts with Helion","description":"Four steps from requesting the complimentary assessment to deciding who runs the tenant.","step":[{"@type":"HowToStep","position":1,"name":"Request the assessment","text":"Fill in the short form for our complimentary IT and cybersecurity assessment. There's no cost and no obligation, and you don't need to be shopping for a new provider."},{"@type":"HowToStep","position":2,"name":"We look at your tenant","text":"An engineer reviews sign-ins, admin rights, sharing, email protection, backup and connected apps, on-site or remotely, whichever suits you."},{"@type":"HowToStep","position":3,"name":"Findings arrive in writing","text":"You see what's set up, what's missing and what a managed tenant would look like next to the systems you already run."},{"@type":"HowToStep","position":4,"name":"You decide what's next","text":"Fix it in-house, or hand us the daily work. Onboarding starts within weeks of signing. On the co-managed path your own IT manager stays in charge."}]}]}
+

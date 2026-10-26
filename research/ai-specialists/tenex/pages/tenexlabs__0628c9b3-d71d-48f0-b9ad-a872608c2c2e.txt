@@ -1,0 +1,124 @@
+URL: https://jobs.ashbyhq.com/tenexlabs/0628c9b3-d71d-48f0-b9ad-a872608c2c2e
+Fetched: 2026-10-26T03:37:45Z
+HTTP status: 200
+Final URL: https://jobs.ashbyhq.com/tenexlabs/0628c9b3-d71d-48f0-b9ad-a872608c2c2e
+Content-Type: text/html
+Via: chrome-headless
+Title: Content Engineer @ Tenex
+Meta description: THE ROLE
+
+Content Engineering is to modern marketing what DevOps was to software. A new discipline that makes scale, governance, and speed possible without sacrificing craft. As a Content Engineer at Tenex, you’re the operator who runs the pipelines: writing, editing, and shipping the work that the system produces. The Director designs the system. You make it run.
+
+This is the seat for a whipsmart writer who has gone all-in on what AI makes possible. You can produce a 1,500-word piece that holds, you can take someone else’s draft and make it 3x better, and you’ve built workflows that let you ship in a day what used to take a week. You treat AI like a teammate, not a toy. You read the model release notes the day they drop. You’ve already replaced a chunk of your own old workflow with something better.
+
+You’ll execute across our three content pillars: research, applied, and education. You’ll work closely with the Director of Content Engineering, who is building the system end-to-end. You’ll also work directly with Alex Lieberman (Cofounder of Tenex & Morning Brew) and the rest of the Tenex team, sourcing the proprietary insights that make our content worth reading. The work compounds. The pieces you ship help define how Tenex sounds, what Tenex stands for, and how the buyer experiences the brand before they ever talk to us.
+
+
+WHAT YOU’LL DO
+
+ - Write and edit at the bar. Research reports, applied playbooks, education pieces, newsletters, sales enablement, thought leadership bylines. You sit at the keyboard. The system supports you, but the words are yours.
+
+ - Run the production pipeline. Take briefs through to published pieces using the workflows the Director designs. Identify where the pipeline breaks, fix what you can, flag what you can’t. Treat every piece as a chance to improve the system.
+
+ - Build and maintain workflows. Prompt libraries, agent stacks, evaluators, repurposing pipelines. The Director sets the architecture. You build, test, and iterate on the parts you operate in day-to-day.
+
+ - Be customer zero on the AI stack. Test new tools the day they drop. Bring back what works. Kill what doesn’t. Your job description is partly to keep Tenex on the frontier.
+
+ - Source proprietary insight. Pair with Alex, founders, and operators in the Tenex network. Turn raw conversations and data into pieces nobody else could write. Your edge over a generalist is access.
+
+ - Hit a ship cadence. You’ll have weekly publishing targets across the pillars. Hitting them is the job. Hitting them at the bar is the bar.
+
+
+WHAT YOU’LL BRING
+
+ - 3 to 6 years writing for a B2B SaaS, media company, or premium publisher. You’ve produced long-form content people actually read. Bias to candidates who’ve owned pieces end-to-end, not just contributed paragraphs.
+
+ - Whipsmart writer. You can write a 1,500-word piece that holds. You can take a rough draft and make it 3x better in an hour. Your prose has a voice. Bonus credit if you can show us a piece you’re proud of and tell us exactly what makes it good.
+
+ - Deeply AI-pilled. Actively using frontier tools day-to-day. You can name what shipped this month and why it matters. You’ve built workflows that materially changed your own output. Generic answers like "I use ChatGPT" do not count.
+
+ - Technically curious. You don’t need to be a software engineer, but you can write a prompt, build an agent, evaluate an output, and pair with engineers without translation overhead. The discipline is called engineering for a reason.
+
+ - Operator instincts. You ship on time. You hit a quality bar even on a tight deadline. You debug your own workflow. You don’t need someone else to tell you what to do next.
+
+ - Hungry to learn the function. You’re joining at a level where you’ll be coached by an experienced Director and given real ownership of pieces and pipelines. The right candidate sees this as the seat that puts them on a path to running their own content function in 2 to 3 years.
+
+ - Soul. The best content has a point of view, a voice, and a reason to exist beyond the funnel. You hold the line on quality even when a tighter deadline or bigger reach would tempt you to ship slop.
+
+
+THE BAR
+
+The best Content Engineers can do three things at once: write at a high caliber, operate AI workflows the way a software engineer operates a build pipeline, and ship on cadence without dropping the bar. They obsess over the buyer, not vanity metrics. They take pride in the craft of the piece and the craft of the workflow that produced it. And they want to be the person who turns the strategy into the published work, week after week. If that sounds like you, we want to meet.
+Canonical: 
+Robots: all
+H1: Content Engineer
+
+Content Engineer
+Location
+
+New York City
+
+Employment Type
+
+Full time
+
+Location Type
+
+On-site
+
+Department
+
+Marketing
+
+Overview
+Application
+The Role
+
+Content Engineering is to modern marketing what DevOps was to software. A new discipline that makes scale, governance, and speed possible without sacrificing craft. As a Content Engineer at Tenex, you’re the operator who runs the pipelines: writing, editing, and shipping the work that the system produces. The Director designs the system. You make it run.
+
+This is the seat for a whipsmart writer who has gone all-in on what AI makes possible. You can produce a 1,500-word piece that holds, you can take someone else’s draft and make it 3x better, and you’ve built workflows that let you ship in a day what used to take a week. You treat AI like a teammate, not a toy. You read the model release notes the day they drop. You’ve already replaced a chunk of your own old workflow with something better.
+
+You’ll execute across our three content pillars: research, applied, and education. You’ll work closely with the Director of Content Engineering, who is building the system end-to-end. You’ll also work directly with Alex Lieberman (Cofounder of Tenex & Morning Brew) and the rest of the Tenex team, sourcing the proprietary insights that make our content worth reading. The work compounds. The pieces you ship help define how Tenex sounds, what Tenex stands for, and how the buyer experiences the brand before they ever talk to us.
+
+What You’ll Do
+
+Write and edit at the bar. Research reports, applied playbooks, education pieces, newsletters, sales enablement, thought leadership bylines. You sit at the keyboard. The system supports you, but the words are yours.
+
+Run the production pipeline. Take briefs through to published pieces using the workflows the Director designs. Identify where the pipeline breaks, fix what you can, flag what you can’t. Treat every piece as a chance to improve the system.
+
+Build and maintain workflows. Prompt libraries, agent stacks, evaluators, repurposing pipelines. The Director sets the architecture. You build, test, and iterate on the parts you operate in day-to-day.
+
+Be customer zero on the AI stack. Test new tools the day they drop. Bring back what works. Kill what doesn’t. Your job description is partly to keep Tenex on the frontier.
+
+Source proprietary insight. Pair with Alex, founders, and operators in the Tenex network. Turn raw conversations and data into pieces nobody else could write. Your edge over a generalist is access.
+
+Hit a ship cadence. You’ll have weekly publishing targets across the pillars. Hitting them is the job. Hitting them at the bar is the bar.
+
+What You’ll Bring
+
+3 to 6 years writing for a B2B SaaS, media company, or premium publisher. You’ve produced long-form content people actually read. Bias to candidates who’ve owned pieces end-to-end, not just contributed paragraphs.
+
+Whipsmart writer. You can write a 1,500-word piece that holds. You can take a rough draft and make it 3x better in an hour. Your prose has a voice. Bonus credit if you can show us a piece you’re proud of and tell us exactly what makes it good.
+
+Deeply AI-pilled. Actively using frontier tools day-to-day. You can name what shipped this month and why it matters. You’ve built workflows that materially changed your own output. Generic answers like "I use ChatGPT" do not count.
+
+Technically curious. You don’t need to be a software engineer, but you can write a prompt, build an agent, evaluate an output, and pair with engineers without translation overhead. The discipline is called engineering for a reason.
+
+Operator instincts. You ship on time. You hit a quality bar even on a tight deadline. You debug your own workflow. You don’t need someone else to tell you what to do next.
+
+Hungry to learn the function. You’re joining at a level where you’ll be coached by an experienced Director and given real ownership of pieces and pipelines. The right candidate sees this as the seat that puts them on a path to running their own content function in 2 to 3 years.
+
+Soul. The best content has a point of view, a voice, and a reason to exist beyond the funnel. You hold the line on quality even when a tighter deadline or bigger reach would tempt you to ship slop.
+
+The Bar
+
+The best Content Engineers can do three things at once: write at a high caliber, operate AI workflows the way a software engineer operates a build pipeline, and ship on cadence without dropping the bar. They obsess over the buyer, not vanity metrics. They take pride in the craft of the piece and the craft of the workflow that produced it. And they want to be the person who turns the strategy into the published work, week after week. If that sounds like you, we want to meet.
+
+Apply for this Job
+Powered by 
+
+Privacy PolicySecurityVulnerability Disclosure
+
+--- json-ld ---
+{"@context":"https://schema.org/","@type":"JobPosting","title":"Content Engineer","description":"<h2><strong>The Role</strong></h2><p style=\"min-height:1.5em\">Content Engineering is to modern marketing what DevOps was to software. A new discipline that makes scale, governance, and speed possible without sacrificing craft. As a Content Engineer at Tenex, you’re the operator who runs the pipelines: writing, editing, and shipping the work that the system produces. The Director designs the system. You make it run.</p><p style=\"min-height:1.5em\">This is the seat for a whipsmart writer who has gone all-in on what AI makes possible. You can produce a 1,500-word piece that holds, you can take someone else’s draft and make it 3x better, and you’ve built workflows that let you ship in a day what used to take a week. You treat AI like a teammate, not a toy. You read the model release notes the day they drop. You’ve already replaced a chunk of your own old workflow with something better.</p><p style=\"min-height:1.5em\">You’ll execute across our three content pillars: research, applied, and education. You’ll work closely with the Director of Content Engineering, who is building the system end-to-end. You’ll also work directly with Alex Lieberman (Cofounder of Tenex &amp; Morning Brew) and the rest of the Tenex team, sourcing the proprietary insights that make our content worth reading. The work compounds. The pieces you ship help define how Tenex sounds, what Tenex stands for, and how the buyer experiences the brand before they ever talk to us.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You’ll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Write and edit at the bar. </strong>Research reports, applied playbooks, education pieces, newsletters, sales enablement, thought leadership bylines. You sit at the keyboard. The system supports you, but the words are yours.</p></li><li><p style=\"min-height:1.5em\"><strong>Run the production pipeline. </strong>Take briefs through to published pieces using the workflows the Director designs. Identify where the pipeline breaks, fix what you can, flag what you can’t. Treat every piece as a chance to improve the system.</p></li><li><p style=\"min-height:1.5em\"><strong>Build and maintain workflows. </strong>Prompt libraries, agent stacks, evaluators, repurposing pipelines. The Director sets the architecture. You build, test, and iterate on the parts you operate in day-to-day.</p></li><li><p style=\"min-height:1.5em\"><strong>Be customer zero on the AI stack. </strong>Test new tools the day they drop. Bring back what works. Kill what doesn’t. Your job description is partly to keep Tenex on the frontier.</p></li><li><p style=\"min-height:1.5em\"><strong>Source proprietary insight. </strong>Pair with Alex, founders, and operators in the Tenex network. Turn raw conversations and data into pieces nobody else could write. Your edge over a generalist is access.</p></li><li><p style=\"min-height:1.5em\"><strong>Hit a ship cadence. </strong>You’ll have weekly publishing targets across the pillars. Hitting them is the job. Hitting them at the bar is the bar.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>What You’ll Bring</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>3 to 6 years writing for a B2B SaaS, media company, or premium publisher. </strong>You’ve produced long-form content people actually read. Bias to candidates who’ve owned pieces end-to-end, not just contributed paragraphs.</p></li><li><p style=\"min-height:1.5em\"><strong>Whipsmart writer. </strong>You can write a 1,500-word piece that holds. You can take a rough draft and make it 3x better in an hour. Your prose has a voice. Bonus credit if you can show us a piece you’re proud of and tell us exactly what makes it good.</p></li><li><p style=\"min-height:1.5em\"><strong>Deeply AI-pilled. </strong>Actively using frontier tools day-to-day. You can name what shipped this month and why it matters. You’ve built workflows that materially changed your own output. Generic answers like \"I use ChatGPT\" do not count.</p></li><li><p style=\"min-height:1.5em\"><strong>Technically curious. </strong>You don’t need to be a software engineer, but you can write a prompt, build an agent, evaluate an output, and pair with engineers without translation overhead. The discipline is called engineering for a reason.</p></li><li><p style=\"min-height:1.5em\"><strong>Operator instincts. </strong>You ship on time. You hit a quality bar even on a tight deadline. You debug your own workflow. You don’t need someone else to tell you what to do next.</p></li><li><p style=\"min-height:1.5em\"><strong>Hungry to learn the function. </strong>You’re joining at a level where you’ll be coached by an experienced Director and given real ownership of pieces and pipelines. The right candidate sees this as the seat that puts them on a path to running their own content function in 2 to 3 years.</p></li><li><p style=\"min-height:1.5em\"><strong>Soul. </strong>The best content has a point of view, a voice, and a reason to exist beyond the funnel. You hold the line on quality even when a tighter deadline or bigger reach would tempt you to ship slop.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>The Bar</strong></h2><p style=\"min-height:1.5em\">The best Content Engineers can do three things at once: write at a high caliber, operate AI workflows the way a software engineer operates a build pipeline, and ship on cadence without dropping the bar. They obsess over the buyer, not vanity metrics. They take pride in the craft of the piece and the craft of the workflow that produced it. And they want to be the person who turns the strategy into the published work, week after week. If that sounds like you, we want to meet.</p>","directApply":false,"identifier":{"@type":"PropertyValue","name":"Tenex","value":"0628c9b3-d71d-48f0-b9ad-a872608c2c2e"},"datePosted":"2026-07-10","hiringOrganization":{"@type":"Organization","name":"Tenex","sameAs":"https://www.tenex.co/","logo":"https://app.ashbyhq.com/api/images/org-theme-logo/ca3bbf51-6333-4a6c-acbc-4c3ff31594f9/13348d0c-dad5-461b-9fde-8ee53a17825a/00711ea2-8e3c-443b-bc75-1e98f12fdf48.png"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"New York City","addressRegion":"New York","addressCountry":"United States"}},"employmentType":"FULL_TIME"}
+

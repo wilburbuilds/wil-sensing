@@ -1,0 +1,392 @@
+URL: https://www.tenex.co/blog/claude-skill-interview-method
+Fetched: 2026-10-26T03:34:24Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog/claude-skill-interview-method
+Content-Type: text/html
+Via: chrome-headless
+Title: How to Build a Claude Skill by Letting Claude Interview You | Tenex
+Meta description: How a needed Claude connector became a skill in my first week at Tenex, plus the template for building your own.
+Canonical: https://www.tenex.co/blog/claude-skill-interview-method
+Robots: 
+H1: How to Build a Claude Skill by Letting Claude Interview You
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to Blog
+
+AI ADOPTION
+
+How to Build a Claude Skill by Letting Claude Interview You
+
+I thought Claude connectors were bloat until I needed one. Here's how I built a Claude skill in my first week working at Tenex — plus the template I'm giving away so you can build your own.
+
+ANTHONY DUPONT-CINKO
+·
+SEPTEMBER 2, 2026
+·
+10 MIN READ
+
+THE TLDR
+
+A Claude skill is a reusable set of instructions — the AI equivalent of a standard operating procedure — that Claude loads automatically when a request matches its description. The fastest way to build one isn't to write it yourself: connect your sources first, ask Claude for what you want, have it interview you until the output is right, then have it write the whole process down as a skill you can reuse.
+
+ultrathink
+
+Get the skill from this post
+
+Subscribe to ultrathink — Tenex's twice-weekly AI newsletter — and unlock tribal-knowledge, the free, MIT-licensed skill built the same way, right here.
+
+Email
+Get the skill
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+If you’ve ever started a new job, you know there’s this version of you months down the line that knows everything you need to know: where things live, who decides what.
+
+I wanted to skip ahead to that version of myself. So on my second day working at Tenex, I spent the afternoon figuring out how to build a Claude skill that could get me there.
+
+Day one included the usual: meetings, onboarding, orientation, taking notes by hand. By day two it was time to hit the ground running and actually make content, while getting blasted with a fire hydrant of information.
+
+And I was scared shitless.
+
+It’s like the first day of school again, except there’s no homework, and there’s this tugging feeling that if you do any worse than a B, you could lose everything.
+
+One of the most intimidating parts about starting a new job like this is that you feel like there’s so much you’re missing out on. And in a sense, you don’t know what you don’t know.
+
+So the question for me was: how can I figure out what I don’t know?
+
+Here are the six lessons I gathered along the way:
+
+Find a way in.
+Know where your knowledge lives.
+Be curious and look around.
+Open the floodgates; let it all pour in.
+Don’t copy the system, copy the thinking.
+Get into the org via GitHub.
+
+In this post: what a Claude skill actually is, how I got to each of those lessons, the method I used to build mine, and the general-purpose version I’m giving you at the end so you don’t have to start from scratch.
+
+What is a Claude skill?
+
+I like to think of skills as the equivalent of standard operating procedures you’d use to onboard a new employee, but for agents. Claude is basically your new AI employee, and a skill equips it with the instructions it needs to do work that meets your standards.
+
+In a skill, you write down how a job actually gets done — what to look for, what a good output looks like, what to do when the answer isn’t there — and Claude follows it. Rather than retyping a prompt every time, it’s a file that sits there, ready to be used again and again.
+
+How do Claude skills work?
+
+A skill is a folder with markdown files in it, containing resources and instructions to execute a repeatable task. The top of that file has two things: a name, and a description of when the skill should be used.
+
+You can invoke a skill by typing a slash command — /tribal-knowledge, say — or just by asking for what you want in plain language. When building skills, keep in mind that Claude doesn’t read every skill you’ve installed top to bottom. It reads the descriptions, decides which one is relevant to what you just asked for, and only then loads the rest. A skill with a vague description never fires, no matter how good the instructions inside it are.
+
+Claude skills vs. MCP vs. agents
+
+These get mixed up constantly, and they do different jobs.
+
+MCPs stand for model context protocol. Think of it like a USB for AI — you take your USB drive with all your data on it and plug it into Claude, so Claude can interact with that data.
+
+SKILLS VS. MCP VS. AGENTS
+
+Connector, skill, or agent?
+
+They get mixed up constantly — click one to compare.
+
+Connector / MCP
+
+WHAT IT IS
+
+The cable. Gives Claude access to a source — Slack, Notion, Drive, GitHub.
+
+WHEN YOU REACH FOR IT
+
+Claude can't see something you need it to see.
+
+Skill
+
+WHAT IT IS
+
+Tells Claude how to do a particular job well.
+
+WHEN YOU REACH FOR IT
+
+You've done the job once and don't want to explain it again.
+
+Agent
+
+WHAT IT IS
+
+The worker. Goes off and runs a multi-step job.
+
+WHEN YOU REACH FOR IT
+
+The job is big enough to hand off entirely.
+
+Connectors without skills means Claude can see everything and has no idea what you want done with it. Skills without connectors means Claude knows exactly how to do a job, on data it can’t reach. You want both.
+
+Where company knowledge actually lives
+
+TRIBAL KNOWLEDGE
+
+Where company knowledge actually lives
+
+Five places, at every company — the hard part is reaching for it.
+
+01
+
+Messengers
+
+Slack, Teams. Where the actual decisions get argued out.
+
+02
+
+Internal docs
+
+Notion, Drive, Confluence. Hopefully all in one place.
+
+03
+
+Meetings
+
+Are these being recorded? And if they are, where do the recordings go?
+
+04
+
+Fresh news
+
+Who's following who, and whether any of it streams into your apps.
+
+05
+
+Code
+
+Internal apps, skills, company standards — the one people skip.
+
+All of those exist at every company. The hard part is reaching for that knowledge and synthesizing it.
+
+Why searching for the answer doesn’t work
+
+Aside from the ridiculous amount of time it’d take to scour your team’s messages one by one, tribal knowledge has a specific quality that makes it hard to search for: it isn’t written down as an answer.
+
+Search your company’s record for “refund policy” and you’ll find an official doc — or you won’t, because it’s missing, three years stale, or everyone’s ignoring it in practice.
+
+So don’t hunt the answer. Hunt the residue it left behind: the friction it caused, the questions it prompted, the exceptions people made around it.
+
+There are seven kinds of residue, and between them they cover almost everything:
+
+TRIBAL KNOWLEDGE
+
+Seven kinds of residue
+
+It isn't written down as an answer — hunt what it left behind. Tap one for where to look.
+
+1
+The repeated question. Asked by different people, months apart, in different channels — proof no canonical answer exists.
+2
+The exception. “Normally we do X, but for Y we do Z.” Shows what people actually do.
+3
+The reversal. A decision made, then undone — and never updated officially.
+4
+The name. “Ask Priya.” Knowledge sitting inside one person's head.
+5
+The workaround. “There's a script for that.” Undocumented process doing real load-bearing work.
+6
+The warning. “Careful, last time we tried that.” Scar tissue from a lesson that never made it into a doc.
+7
+The stale artifact. A doc everyone links to that the chat record quietly contradicts.
+
+One rule matters more than all seven, especially once you’re pointing an AI agent at this instead of doing it by hand: every claim has to carry a link back to where it came from. If it can’t, it isn’t a finding — it’s a gap.
+
+Gaps are useful. “Nobody’s written this down, go ask Priya” is true and actionable. A confident wrong answer looks exactly as authoritative as a right one, gets copied into the next doc, and becomes fake institutional knowledge that outlives everyone who could’ve corrected it.
+
+How to create a Claude skill
+
+Lucky for me, Tenex is a Notion-forward company. So the first move was just connecting things — Slack, Notion, the rest — using Claude connectors, aka MCP servers.
+
+I’d always figured connectors were bloat. Turns out they’re way more useful than they look.
+
+It takes a little time to wire up, but once it’s in, you stop poking your boss or coworker with a question that feels stupid — you just go find where the company already wrote it down.
+
+Once the information was flowing, it was time to shape it into something repeatable.
+
+But I didn’t write the skill. I had Claude interview me.
+
+I built it by doing a Q&A with Claude because it’s a lot easier to answer questions about your job than to sit down and write instructions for it off the top of your head.
+
+So I asked for something small and badly specified on purpose: “find a story worth telling from our Slack.”
+
+Some of what came back worked but, of course, most of it didn’t. So I told it to keep asking me questions until it actually knew what I meant by a story. Every time I said no or tweaked the prompt, I was actually figuring out what I’d meant, myself.
+
+Once I liked the output, I had it write the whole complete process down as a skill, so I’d never have to work it out again. Along the way I added the Notion connector too, so outputs land straight in a doc my team could access.
+
+So, the five steps:
+
+Connect your sources first. The skill is only as good as what it can reach.
+Ask for what you want. Don’t over-specify — you’re trying to find out what you actually mean.
+Tell it to interview you. “Ask me questions until you know what I mean by ___.”
+Say no until the output is right. This is the part that does the work.
+Have it write the whole thing down as a skill.
+
+One more thing worth knowing: there are around 2,100 connectors in the store. If you use an app, I can pretty much guarantee it’s on there.
+
+Creating skills for different parts of the org
+
+What came out of that session was a skill with two phases. First, it sweeps Slack for a newsworthy story for our video series and pitches candidates in Notion. Then, once I greenlight one, it builds a short-form beat sheet for it.
+
+That flow is super useful to the content team specifically. (And that’s all I need it to be!)
+
+This is the beauty of skills — they’re infinitely customizable for whatever use case you’ve got.
+
+I got lucky having a friend who already worked here. A familiar face in a sea of newness is unimaginably underrated, even in a different department. He showed me what he’d already built.
+
+“We’ve been growing at such a fast speed that at this point it’s really hard for all of us to really understand what’s really happening. There was no real centralized source of truth.” — Kabir Parekh
+
+He built a super robust system called Field Notes. Type in a client name and it’ll pull information from every connected source into a single Notion doc containing the client, the project, the industry, and the outcome.
+
+“My goal isn’t for someone to read through this step by step. What I want is for people to connect their Claude instance — Cowork, Code, whatever — to Notion, and then point it at field notes.” — Kabir Parekh
+
+That’s when it clicked for me: with all the clutter that comes from workshopping, ideating, editing, writing, writing, writing — it comes to a point where you can begin parsing. Start snipping away, trimming this beautiful plant that’s grown so big down into something a little bit more manicured.
+
+The “brain” already existed. It was just built around Kabir’s needs. Which meant it was on me to build one of my own!
+
+Don’t copy the system. Copy the thinking.
+
+Your free Claude skill for organizing company knowledge
+
+While Kabir built one for client work and I built one for finding stories, I’m sure neither of those is exactly your job — so here’s a general-purpose version, built the same way.
+
+I called it tribal-knowledge. Point it at whatever’s connected — Slack, email, docs, tickets, CRM, code, meeting notes — and it runs the same method: check what it can actually reach, ask what you’re really after (be it stories, beat sheets, emails, or reports… let your imagination run wild), then go hunt the seven kinds of residue above. Every claim comes back with a link. Anything it can’t source, it hands you as a gap and tells you who to ask instead.
+
+It ships with starting points for ten functions — finance, engineering, marketing, sales, people, ops, legal, product, support, exec — and six outcomes, from an onboarding brief to “what breaks if this person leaves.”
+
+It’s public and MIT-licensed, so you can read the whole method before you run it — grab the link free, below, when you subscribe to ultrathink.
+
+How to use Claude skills once you have one
+
+Installing a skill takes about a minute.
+
+A skill is a folder with a SKILL.md file at the top, usually alongside a references/ folder — longer material the skill only pulls in when it actually needs it.
+
+Adding skills to Claude Code
+
+One command, once you’ve unlocked the repo link below:
+
+git clone <your unlocked tribal-knowledge link> ~/.claude/skills/tribal-knowledge
+
+Start a new session, or run /reload-plugins, and it’ll be there.
+
+Adding skills to Claude Cowork
+
+Download the repo as a zip and upload it through the skills UI.
+
+Or, just ask Claude to walk you through it, pointing it toward the file location.
+
+One thing trips up almost everyone: compress the repo’s contents, not the folder. SKILL.md needs to sit at the top level of the archive — zip the folder itself and it ends up one level down, and the upload fails.
+
+To check that it worked, just ask Claude what skills it has available. And remember, you don’t have to invoke it by name. Claude reads the description at the top and fires it when your request matches, which is why /tribal-knowledge worked as an example earlier without me explaining it first.
+
+Now go build the one only you need using the same five steps, guided toward your own needs.
+
+How to leverage GitHub if you don’t code
+
+I mentioned that code was one of the five places knowledge lives, a few sections back.
+
+If you don’t know what GitHub is, you ought to make an account right away. It’s free, and it’s basically just cloud storage for code people have written. If you’re anywhere near engineers or other teams building internal apps, this is where that work lives.
+
+Once you’re in the org there, you can point Claude at it too, and it’ll find tools you didn’t know existed that you can use yourself. And when you build something worth sharing, you can spread it around and earn bragging rights (as well as professional kudos, too).
+
+ultrathink
+
+Still want the skill?
+
+One email gets you tribal-knowledge and a spot on the ultrathink list — the AI newsletter 10,000+ execs and builders read twice a week.
+
+Email
+Get the skill
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+After two days, I was completely oriented — I could ask my magic crystal ball anything about what happened before I got here.
+
+That’s what tribal knowledge is. It doesn’t matter that it exists if you never knew what was there, or how to put it all together.
+
+So go find yours for yourself.
+
+If you build something good with it, I’d absolutely love to see it, so don’t hesitate to drop me a line on LinkedIn.
+
+COMMON QUESTIONS
+
+Questions leaders ask us
+What is a Claude skill?
+
+A Claude skill is a folder with a markdown file that tells Claude how a specific job gets done — what to look for, what a good output looks like, and what to do when the answer isn't there. It's the agent equivalent of a standard operating procedure: write it once, and Claude follows it every time the request matches.
+
+What's the difference between a Claude skill and an MCP connector?
+
+A connector (MCP server) gives Claude access to a source — Slack, Notion, Drive, GitHub. A skill tells Claude how to do a job well once it can see that source. Connectors without skills means Claude can see everything with no idea what you want done with it; skills without connectors means Claude knows exactly how to do a job on data it can't reach. You need both.
+
+How do you build a Claude skill without writing it yourself?
+
+Ask Claude for what you want in plain, underspecified language, then tell it to keep asking you questions until it knows what you actually mean. Say no until the output is right — that back-and-forth is what does the real work. Once you like the result, have Claude write the whole process down as a skill file.
+
+How do you install a Claude skill in Claude Code or Claude Cowork?
+
+In Claude Code, clone the skill's repo into ~/.claude/skills/ and start a new session (or run /reload-plugins). In Claude Cowork, download the repo as a zip — compressing its contents, not the parent folder, so SKILL.md sits at the top level — and upload it through the skills UI.
+
+SOURCES
+
+Anthropic — Agent Skills overview
+Model Context Protocol — modelcontextprotocol.io
+Claude — Connectors directory
+Claude Code — Skills documentation
+Claude Support — Using skills in Claude
+
+KEEP READING
+
+AI ADOPTION
+
+We Need to Talk About Slop
+
+We surveyed our team about AI slop: how they define it, how they spot it, and how often they get wrongly accused of it. Here's what they told us.
+
+AI ADOPTION
+
+How Tenex Helped WebFX Build Claude Fluency Across the Whole Company
+
+How a four-week diagnostic and training sprint took WebFX from company-wide Claude adoption to company-wide Claude fluency, with 300 people in Claude 101.
+
+AI ADOPTION
+
+How Tenex Helped Advantage Solutions Roll Out Claude and Give Frontline Managers 70,000 Hours Back
+
+Tenex helped Advantage Solutions stand up an AI Office and roll Claude out to thousands of users, returning 70,000+ labor hours a year to frontline managers.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="csk-gate-email-top" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+Form 2: method=get action="" id=""
+  - input type=email name="email" id="csk-gate-email-bottom" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"How to Build a Claude Skill by Letting Claude Interview You","description":"I thought Claude connectors were bloat until I needed one. Here's how I built a Claude skill in my first week working at Tenex — plus the template I'm giving away so you can build your own.","url":"https://www.tenex.co/blog/claude-skill-interview-method","mainEntityOfPage":"https://www.tenex.co/blog/claude-skill-interview-method","image":"https://www.tenex.co/assets/blog/claude-skill-interview-method-header.jpg","datePublished":"2026-09-02T20:00:00.000Z","dateModified":"2026-09-02T20:00:00.000Z","author":{"@type":"Person","name":"Anthony Dupont-Cinko"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"},{"@type":"ListItem","position":3,"name":"How to Build a Claude Skill by Letting Claude Interview You","item":"https://www.tenex.co/blog/claude-skill-interview-method"}]}]
+

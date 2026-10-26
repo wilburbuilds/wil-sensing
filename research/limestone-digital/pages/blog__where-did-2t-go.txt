@@ -1,0 +1,158 @@
+URL: https://limestonedigital.com/blog/where-did-2t-go
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/where-did-2t-go
+Content-Type: text/html; charset=utf-8
+Title: $2 trillion spent. 95% never shipped.
+Meta description: We tracked where the money actually went.
+Canonical: https://thefoundation.limestonedigital.com/p/where-did-2t-go
+Robots: max-image-preview:large
+H1: 🟪 where did $2T go? | AI Foundation from Limestone Digital
+
+$2 trillion spent. 95% never shipped.
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 where did $2T go?
+🟪 where did $2T go?
+We tracked where the money actually went.
+Jun 2, 2026
+Read time: 7 minutes | Issue #28 |
+Book a Call
+Happy Tuesday.
+Two trillion dollars. That’s Gartner’s
+updated projection
+for global AI spending in 2026.
+Same week that number landed, MIT’s NANDA Initiative published a follow-up to their enterprise AI study. Their finding:
+95% of enterprise generative AI projects
+deliver zero measurable financial return.
+We did the multiplication. $1.9 trillion flowing somewhere that isn’t production. Then we opened our delivery spreadsheet.
+Inside the Issue
+Where $1.9 trillion in AI spending goes (and why 95% of it produces nothing measurable)
+A five-question pre-mortem that predicted failure in every stalled project we’ve touched this year
+Anthropic’s $965B valuation, Microsoft replacing GPT-4 with its own model, Google going agent-first at I/O
+Sources: Gartner AI Spending Forecast 2026 —
+gartner.com
+| MIT NANDA Initiative —
+mit.edu
+| Limestone Digital delivery data, 14 engagements, Jan–May 2026
+$2 Trillion Spent. 95% Never Shipped.
+The
+MIT number
+demands context. “95% failure” sounds like AI doesn’t work. AI works. I’ve watched it work across 14 engagements this year. Models are better than they’ve ever been. The issue isn’t capability. The issue is where companies aim their money before the first model call ever runs.
+When MIT says “failure,” they mean a specific thing: zero sustained productivity gains and zero documented P&L impact, verified by both end users and executives. By that bar, most enterprise AI deployments in 2026 don’t qualify. Not because the models underperformed. Because the projects never reached the point where model performance mattered.
+HCLTech’s
+enterprise AI report
+, published May 20, confirmed the pattern from a different angle: 43% of enterprise AI initiatives are at risk of failure as execution timelines compress. Writer’s enterprise survey found that only 29% of companies see significant ROI from generative AI, despite individual productivity gains as high as 5x. The gains are real at the desk level. They evaporate somewhere between the desk and the P&L.
+Our read:
+We pulled our delivery data from the last 14 engagements completed between January and May. 73% of the engineering work that gets AI into production has nothing to do with the AI model. It’s data pipelines, integration layers, legacy system remediation, human-in-the-loop tooling.
+The 27% that touches the model is where every boardroom conversation starts and where almost none of the budget should go first.
+The 95% aren’t failing because they picked the wrong model. They’re failing at the 73%.
+We’ve tracked three budget patterns across our client network this year that illustrate exactly how the money goes sideways.
+Budget pattern 1: model-first.
+A compliance company, 90 employees, $12M revenue. Their board-approved AI budget: $800K. The allocation: $480K for model development and ML talent, $200K for infrastructure, $120K for integration. Seven months in, the ML team had built a fine-tuned model that achieved 94% accuracy on their test set. Clean benchmark. Solid work. Couldn’t deploy it. The data pipeline from their production system to the model’s input layer didn’t exist. Three separate databases used different date formats and conflicting record IDs. The $200K infrastructure budget ran dry by month four. They came to us to build what should have been budgeted at $400K from day one. The model sat idle for three months while we constructed the foundation underneath it.
+Budget pattern 2: tool-first.
+A logistics company, 140 employees. Bought enterprise licenses for three AI platforms simultaneously: Copilot, a document AI tool, and an analytics agent. Combined licensing: $340K per year. Usage after six months: Copilot at 34% daily active (down from 71% at launch), document AI at 12%, analytics agent at 8%. The tools worked fine. The team didn’t have workflows designed to use them. Buying AI tools without redesigning the workflows they plug into is buying gym memberships without building a gym.
+Budget pattern 3: pilot-without-walls.
+A medtech company running four AI pilots concurrently. No kill criteria on any of them. No production architect involved. No opportunity cost tracking. Combined salary cost of the engineers on pilot work: $920K over eleven months. Pilots shipped to production: zero. We wish we could say this one was unusual.
+We wrote about the pilot drift pattern in Issue 17 because we’ve seen it at three companies. I’ve now seen it at six. Maybe the number will plateau. I’m not optimistic.
+$800K on a model that couldn’t deploy. $340K on tools nobody used at scale. $920K on pilots that never shipped. That’s $2.06 million across three mid-market companies. Scale those patterns to the global enterprise market and $1.9 trillion in unproductive spend stops being an abstraction.
+Amazon
+demonstrated the pattern at massive scale
+. Their AI coding tools contributed to outages in March that caused 6.3 million lost orders across North American marketplaces. Internal documents obtained by Business Insider showed the root cause wasn’t the AI model. It was governance and process. Amazon had mandated 80% weekly usage of their AI coding tool Kiro before building the safety infrastructure to support it. The tool worked. The foundation wasn’t ready.
+Amazon’s response
+: a 90-day safety reset requiring two-person reviews and senior engineer sign-offs on changes to 335 critical systems. The largest e-commerce company in the world just admitted, through its own safety protocol, that AI capability without infrastructure discipline is a liability.
+Here’s who should be uncomfortable.
+If you’re preparing an AI budget for your next board meeting, count the line items. How many are model costs, ML salaries, and platform licenses? How many are data engineering, pipeline construction, and integration work? If the first category exceeds the second, you’re building the same budget that failed 95% of the time in MIT’s study. The model is real. The spending direction is wrong. The 5% that MIT identified as generating actual P&L impact shared one trait: they started with data infrastructure and added model work after the foundation was ready. They spent the first 60 days on the work that doesn’t make conference keynotes.
+The AI Budget Pre-Mortem
+After the compliance company ran out of infrastructure budget at month four, we built a pre-mortem exercise that we now run before any engagement. Five questions.
+If you can’t answer all five with specifics, the budget isn’t ready for approval.
+Question 1: Where does the training data live right now, and can an engineer query it in under 30 minutes?
+The compliance company’s data lived across three systems with conflicting schemas and different date formats. Nobody discovered this until the ML engineer tried to build the training pipeline in month two. That’s two months of an ML engineer’s salary ($36K at $220K total comp) spent discovering a problem that a data audit would have surfaced in a week.
+Question 2: What’s the error rate in your primary data source?
+One client discovered a 23% error rate in month four of a $310K initiative. If you don’t know your data quality number before you start, you’re budgeting on assumption. Most teams I’ve worked with guess 5–10%. The median actual error rate across our engagements is 14%.
+Question 3: For the workflow you’re automating, what percentage of decisions require human judgment?
+This determines your 80/20/0 split and, by extension, the human-in-the-loop tooling budget that most strategies omit entirely. The logistics company bought tools assuming near-total automation on workflows that needed 40% human review. The tool budget was spent. The workflow design budget was zero.
+Question 4: Who will maintain this system in production 12 months from now?
+If the answer is “the ML team,” your operational cost estimate is wrong. ML engineers maintaining production systems cost 2–3x what a dedicated operations team costs, because you’re paying research-tier salaries for operational work. Budget for ops from day one.
+Question 5: What is the kill criteria?
+Not the success criteria. The failure criteria. At what point, and at what cost, do you stop spending? The medtech company never defined this number. $920K later, the answer was still “we’re close.” Write the kill criteria before the success criteria. It’s harder, which is exactly why it changes behavior.
+Write these five answers before the budget request hits the boardroom. Show them to your CFO alongside the spending plan. I’ve presented this exercise to eight CFOs this year. Every one of them adjusted the budget allocation after seeing the answers to questions one and two.
+01
+Anthropic raised $65B at a $965B valuation, surpassing OpenAI.
+Run-rate revenue crossed $47B, up from $14B just 105 days earlier. The AI lab founded by people who left OpenAI over safety concerns is now worth more than OpenAI. For mid-market companies: the model market is consolidating around three or four well-funded winners. The cost of switching between them is dropping. Design your architecture for portability, not loyalty.
+Source: TechCrunch / Anthropic —
+techcrunch.com
+,
+anthropic.com
+02
+Microsoft unveiled Project Polaris at Build 2026.
+Their own AI coding model replaces GPT-4 Turbo as the default in GitHub Copilot starting August 2026. Automatic migration, three-month fallback period. If your engineering team uses Copilot daily, the reasoning engine behind their coding assistant is changing without a ticket, a standup, or a sprint retro. Budget a prompt migration sprint and review your Copilot-dependent workflows before August.
+Source: ChatForest / Windows News AI —
+chatforest.com
+03
+Google shipped Gemini 3.5 and Antigravity 2.0 at I/O.
+Antigravity is Google’s agent-first development platform. One API call provisions a sandboxed Linux environment where an agent can reason, execute code, and browse the web. Google claims 30–40% infrastructure cost reduction for variable workloads. Every major cloud provider now has an agent orchestration platform. The layer that your team spent months building custom is being commoditized.
+Source: Google Developers Blog —
+developers.googleblog.com
+04
+29% of employees admit to sabotaging their company’s AI strategy.
+Writer’s enterprise AI survey found that while 92% of the C-suite cultivates “AI elite” employees, nearly a third of the broader workforce actively undermines AI initiatives. Separately, 67% of executives believe their company has already suffered a data breach from unapproved AI tools. If your AI rollout feels slower than it should, the friction might not be technical.
+Source:
+Writer Enterprise AI Adoption Report 2026
+—
+writer.com
+Bring this to your next budget review:
+“For every dollar in our AI budget, how many cents go to model work and how many go to the data infrastructure underneath it?”
+We’ve asked this in 14 engagements this year. The typical first answer: 50/50.
+The typical actual allocation when we measure it through ticket tracking and commit history: 70/30, model-heavy.
+The typical allocation in the projects that actually shipped to production: 30/70, infrastructure-heavy. The ratio is almost exactly inverted between projects that ship and projects that stall. Show your CFO both numbers.
+Then ask which budget yours resembles.
+Five questions with fill-in fields, data quality benchmarks from our 14 engagements, and a budget reallocation calculator built on the 73/27 infrastructure-to-model ratio.
+Give it to whoever is writing your next AI budget request.
+The AI Budget Pre-Mortem, formatted as a one-page worksheet.
+If the pre-mortem surfaced questions your team can’t answer yet, that’s the first deliverable of our two-week diagnostic.
+We answer all five, map your data infrastructure gaps, and hand you a budget allocation that reflects where the engineering hours actually go.
+The diagnostic costs less than one month of an ML engineer writing code that can’t deploy.
+Two slots open this month.
+Book a Call
+Until next Tuesday,
+Limestone Digital Team
+P.S.
+Next week we’re breaking down the three platform announcements from the last 14 days and what they mean for your AI architecture decisions. Microsoft just replaced their model dependency. Google built an agent platform from scratch. Anthropic is now worth more than OpenAI. The model layer is shifting underneath you faster than your planning cycle. We’ll show you what platform-proof architecture looks like in practice.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"where-did-2t-go","url":"https://thefoundation.limestonedigital.com/p/where-did-2t-go","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/where-did-2t-go"},"headline":"🟪 where did $2T go?","description":"We tracked where the money actually went.","datePublished":"2026-06-02T14:03:00.000Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/93e57850-6f31-43b3-85a7-f989cb3bbdf5/playbook-28-where-did-2t-go.png?t=1788797133"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:05:35Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/where-did-2t-go","name":"🟪 where did $2T go?"}}]}

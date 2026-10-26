@@ -1,0 +1,235 @@
+URL: https://heliontechnologies.com/least-privilege-ai-dealerships/
+Fetched: 2026-10-26T03:57:32Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/least-privilege-ai-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: Least Privilege AI: Scoping AI Tool Access at Dealerships
+Meta description: Least privilege AI for dealerships: AI tools often get every mailbox and file they ask for. Here is what each tool needs and which access to scope down first.
+Canonical: https://heliontechnologies.com/least-privilege-ai-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Doesn’t Need All Your Data: Least-Privilege Access for AI Tools at the Dealership
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI Doesn’t Need All Your Data: Least-Privilege Access for AI Tools at the Dealership
+By Rex Marchant
+October 16, 2026 · 13 min read
+
+Least privilege for AI means an AI tool gets only the data and permissions its one job needs, the same rule your staff already work under. At most dealerships, AI tools get far more, because connecting one usually takes a single click.
+
+Last updated: October 16, 2026
+
+Think about a new salesperson’s first day. They get a CRM login and a desk. Not the payroll folder. Not the admin password to the DMS. Nobody has to argue about any of that, because it’s simply how access works in a well-run store.
+
+Now think about the last AI tool someone in your building connected. Maybe an email assistant, a meeting notetaker, or a chatbot that reads the CRM, which has its own data security checklist for dealership AI chatbots. What did it get on day one? If it’s an AI agent texting your leads, we wrote a separate list of what an AI BDC should and shouldn’t touch in the CRM.
+
+Usually everything it asked for.
+
+I wrote about this on LinkedIn after Erik Nachbahr, who founded Helion Technologies, put the idea in one line: “Vet AI like a vendor, not a feature.” My version runs a little longer. AI does not need all of your data, but AI will use all the data you give it. We hold employees to least-privilege access and then open the door wide for AI.
+
+This post stays narrow on purpose. It isn’t about which AI products to buy, and it isn’t about your written policy. Our post on AI governance for dealerships covers the policy and the governance board. This one is about least privilege AI in the plain sense, meaning the permissions an AI tool holds once it’s connected, and what I’d scope down first. It’s the same groundwork our managed AI services for dealerships start with before any tool goes live in a store.
+
+What Least Privilege Means When the User Is Software
+
+NIST defines least privilege as restricting “the access privileges of users (or processes acting on behalf of users) to the minimum necessary to accomplish assigned tasks.” Read the parentheses twice. An AI assistant working in a salesperson’s inbox is a process acting on behalf of a user, so the rule in NIST’s own glossary already covers it.
+
+The OWASP Top 10 for large language model applications gives the failure a name, “excessive agency,” and breaks it into three parts. A tool can have too much functionality, too many permissions, or too much autonomy. The fix OWASP recommends reads like something a service desk manager would write: keep a tool’s permissions “to the minimum necessary,” and make sure anything it does for a user runs “in the context of that specific user, and with the minimum privileges necessary.”
+
+I think dealers hear “AI security” and picture something exotic. It isn’t. It’s the same access question we’d ask about a new hire or a new vendor, asked about software that works faster than either one and never takes a day off.
+
+Same rule. New kind of user.
+
+How AI Tools End Up With the Keys to Everything
+
+Nobody sits down and decides to hand an AI tool every customer file. It happens in small steps. Each one makes sense.
+
+The consent screen comes first. Microsoft’s documentation for Entra ID says that by default, “all users are allowed to consent to applications” for permissions that don’t need an administrator, and that a user can “allow an app to access their mailbox.” A dealership mailbox can hold credit applications, scanned driver’s licenses, and deal paperwork. One click on Accept and an AI email tool can read all of it.
+Then the shared login. An integration needs an account, and the quickest one to hand over on a busy afternoon is usually an admin’s, because it already works everywhere and nobody has to open a ticket to set up something new.
+“Just give it the whole drive.”
+Inheritance is quieter. An AI assistant that works as the employee sees whatever the employee can see, including every folder somebody shared with the whole company years ago and forgot about. We covered that version in our post on Microsoft Copilot security at the dealership.
+And some tools act instead of just reading. Send the email, update the CRM record, delete the duplicate. Read access can leak data, but write access changes it.
+
+Cox Automotive’s AI Readiness in Auto Retail study, published in October 2025 after research with 537 franchise dealership leaders, found that 60% of dealers cite concerns with data and algorithms, while only 15% have embedded AI into their workflows and decisions so far. That second number is the one I keep coming back to, because the permissions a store sets while it’s still testing tend to become the permissions it keeps.
+
+Pilots turn into production. Their access comes along.
+
+An Access Map for the AI Tools Dealers Actually Use
+
+Here’s the starting point we’d bring to the table when a store asks us what its AI tools should be allowed to touch, laid out by tool so the gaps are easy to spot. The last column isn’t a rule for every store. It’s where I’d start the conversation.
+
+AI TOOL	ITS JOB	WHAT IT OFTEN GETS	WHERE TO SCOPE IT
+AI email assistant	Draft and sort one person’s email	Full read and send rights on the mailbox, often granted by the user alone	Admin-approved app, one mailbox, drafts only until a person hits send
+Meeting notetaker	Record and summarize meetings	Every calendar event the user can see, including ones they were only invited to	Meetings the user hosts, with notice to attendees and recordings your IT team can delete
+Website or text chatbot for leads	Answer shoppers and book appointments	A CRM login that can see full customer history	Its own account that can create leads and appointments but can’t export customer records
+AI reporting tied to the DMS or CRM	Pull sales and service numbers	Report access through an admin account, personal information included	Read-only access with Social Security numbers, license numbers, and credit data left out
+General chatbot (ChatGPT, Claude, Gemini)	Writing and research	Whatever staff paste in, plus any file connectors someone switched on	A business plan with single sign-on and training off, connectors off until reviewed
+Microsoft 365 Copilot	Search and summarize work files	Everything the employee can already open	Fix oversharing first, then license
+
+Look at the third column. Very little of that access was granted by IT. It was granted by whoever needed the tool working before lunch.
+
+Scope follows the job, not the request.
+
+What to Scope Down First
+
+Where do you start? Not with the AI.
+
+If I could only do six things at a dealership this quarter, I’d do them in this order. The order comes from how much exposure each step removes for the effort it takes, which isn’t always the order people expect.
+
+Stop new grants without review. In Microsoft Entra ID, set user consent to “Allow user consent for apps from verified publishers, for selected permissions,” or turn it off, and switch on the admin consent workflow so staff can still ask for a tool. Google Workspace has comparable app access controls in its admin console.
+Find what’s already connected. This one surprises people. Microsoft notes that changing the setting only affects future consent, and “Existing consent grants remain unchanged.” So pull the list of enterprise applications and their permissions. For each one, ask who uses it. Then ask what it actually needs.
+Give every AI integration its own account. Not an admin’s. Not a shared login. When one tool misbehaves, you shut off one identity, and the general manager keeps working.
+Read before write. A tool earns the right to send, change, or delete after it has proven useful with read access, and anything that reaches a customer or a deal gets a person’s approval first.
+Narrow the reach. One mailbox, not all of them. One folder, not the whole drive. Report fields without the personal information. For DMS and CRM data, our guide to a private, read-only AI connection to the DMS shows the full setup.
+Put a date on it. Access granted for a pilot should end when the pilot does, and someone should review AI app permissions on a schedule, the same way you’d check who still has a key to the building.
+
+None of this requires buying anything. It’s settings. Nearly all of them are in licenses the store already pays for.
+
+Erik’s line fits here. You wouldn’t hand a new vendor every customer record on day one just to see what it could do with them, so why would an AI tool get a different deal?
+
+An AI tool is a vendor that never goes home.
+
+Where the FTC Safeguards Rule Fits
+
+I’ll keep this part short, because fear isn’t the reason to do this work. The reason is that an over-permissioned AI tool turns one small mistake into a big one.
+
+The rule lines up, though. Section 314.4(c)(1) of the FTC Safeguards Rule asks dealers to “limit authorized users’ access only to customer information that they need to perform their duties and functions,” and 314.4(c)(8) calls for controls to “monitor and log the activity of authorized users.” The rule doesn’t mention AI. I believe an AI tool working inside an employee’s account deserves the same treatment as that employee, and it’s how I’d want our own team to handle it.
+
+The FTC has also been plain about why AI vendors want more data, not less. Its technology staff wrote in January 2024 that model-as-a-service companies “have a continuous appetite for data.” Worth knowing before anyone clicks Accept.
+
+Access you never granted can’t leak.
+
+What This Looks Like From the Service Desk
+
+This is the part of the topic I know best. What I’ve learned over time, after more than 25 years leading managed services teams, is that the risky moment usually isn’t an attacker. It’s a reasonable request on a busy day.
+
+Someone wants a tool connected before a Saturday sale, so they call the help desk. At Helion Technologies they reach a live person in 82 seconds on average, whenever dealers are open, 7 days a week. Speed isn’t the hard part. The hard part is what happens in the next few minutes, because the help desk needs an approved AI list to work from. A known tool gets set up with its scoped account, and a new one becomes a request the store’s approver signs off on, instead of an Accept button somebody clicks to make the problem go away.
+
+ITIL, the service management framework I’m certified in, would call that list a set of pre-approved standard changes. In plain terms, the safe path is also the fast one. That’s the point. The credit for making that work belongs to the people doing the work: the service desk technicians who take the call and the engineers who build scoped accounts and keep a list like that current. If you run co-managed IT, decide in writing whether your team or your provider owns that list.
+
+Blocking every AI tool feels safer. It isn’t. Are we fixing the cause, or are we working around the symptom? The cause is access nobody scoped.
+
+What Dealers Ask Us About AI Access
+Our AI vendor says it needs full access to work. Do we just say no?
+Wouldn’t it be simpler to block AI tools entirely?
+How would we even find out which AI tools can already reach our Microsoft 365?
+Does an AI phone agent or chatbot need the whole CRM?
+Who at the dealership should own AI permissions?
+Give AI the Same Access You’d Give a New Hire
+
+I don’t know that we have the full answer yet, but here’s what we do know. AI tools get better at using data every few months, and none of them are getting better at needing less of it. NADA Academy instructor Andy Seidenman’s advice to dealers, on NADA’s Dealer Driven podcast, is to start small, “focusing on one frustrating process.” Least privilege fits that advice well. Start with one tool. Give it one job. Give it one scoped account.
+
+The next step belongs to whoever owns IT at your store, whether that’s your own team, Helion, or both. Pull the list of connected apps this month and read it. If you’d like an outside read on how your store is set up, start with our complimentary IT and cybersecurity assessment. If AI is the bigger question, our AI readiness assessment for dealerships looks at the AI tools your staff already use, the customer data they can reach, and your Microsoft 365 permissions, in one written report.
+
+Give AI the access the job needs, and nothing more.
+
+ABOUT THE AUTHOR
+
+Rex Marchant
+
+Vice President of Service, Helion Technologies
+
+Rex Marchant is Vice President of Service at Helion Technologies, where he leads the service desk, field service, systems engineering, proactive managed services and VoIP. He has more than 25 years leading managed services teams and holds ITIL Foundation and COBIT 5 certifications.
+
+Rex Marchant on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What Least Privilege Means When the User Is Software
+How AI Tools End Up With the Keys to Everything
+An Access Map for the AI Tools Dealers Actually Use
+What to Scope Down First
+Where the FTC Safeguards Rule Fits
+What This Looks Like From the Service Desk
+What Dealers Ask Us About AI Access
+Give AI the Same Access You’d Give a New Hire
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/"},"author":{"name":"Rex Marchant","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/ebae9e06d747efe823467756fc61270b"},"headline":"AI Doesn&#8217;t Need All Your Data: Least-Privilege Access for AI Tools at the Dealership","datePublished":"2026-10-16T15:55:25+00:00","dateModified":"2026-10-16T15:55:26+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/"},"wordCount":2489,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/least-privilege-ai-dealership-single-key.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/","url":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/","name":"Least Privilege AI: Scoping AI Tool Access at Dealerships","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/least-privilege-ai-dealership-single-key.webp","datePublished":"2026-10-16T15:55:25+00:00","dateModified":"2026-10-16T15:55:26+00:00","description":"Least privilege AI for dealerships: AI tools often get every mailbox and file they ask for. Here is what each tool needs and which access to scope down first.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/least-privilege-ai-dealership-single-key.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/least-privilege-ai-dealership-single-key.webp","width":1200,"height":500,"caption":"AI tools should get only the access their job needs."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/least-privilege-ai-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI Doesn&#8217;t Need All Your Data: Least-Privilege Access for AI Tools at the Dealership"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/ebae9e06d747efe823467756fc61270b","name":"Rex Marchant","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/rex-marchant-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/rex-marchant-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/rex-marchant-headshot-96x96.jpg","caption":"Rex Marchant"},"description":"Rex Marchant is Vice President of Service at Helion Technologies, where he leads the service desk, field service, systems engineering, proactive managed services and VoIP. He has more than 25 years leading managed services teams and holds ITIL Foundation and COBIT 5 certifications.","sameAs":["https:\/\/www.linkedin.com\/in\/rexmarchant\/"],"url":"https:\/\/heliontechnologies.com\/author\/rex-marchant\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Vice President of Service"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/least-privilege-ai-dealerships/#article","headline":"AI Doesn’t Need All Your Data: Least-Privilege Access for AI Tools at the Dealership","description":"Least privilege AI for dealerships: AI tools often get every mailbox and file they ask for. Here is what each tool needs and which access to scope down first.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/least-privilege-ai-dealership-single-key.webp","datePublished":"2026-10-16T11:55:25-04:00","dateModified":"2026-10-16T11:55:26-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/ebae9e06d747efe823467756fc61270b"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/least-privilege-ai-dealerships/"},"about":[{"@type":"Thing","name":"Principle of least privilege","description":"The security principle that users, and processes acting on behalf of users, get only the minimum access needed for their assigned tasks (NIST)."},{"@type":"Thing","name":"Excessive agency","description":"OWASP Top 10 for LLM Applications risk LLM06:2025, in which an AI system has excessive functionality, permissions or autonomy."}],"mentions":[{"@type":"CreativeWork","name":"Microsoft Entra ID"},{"@type":"CreativeWork","name":"Microsoft 365 Copilot"},{"@type":"CreativeWork","name":"ChatGPT"},{"@type":"CreativeWork","name":"Claude"},{"@type":"CreativeWork","name":"Gemini"},{"@type":"CreativeWork","name":"Google Workspace"},{"@type":"Thing","name":"FTC Safeguards Rule","description":"16 CFR Part 314, which requires covered financial institutions, including auto dealerships, to limit authorized users to the customer information they need."},{"@type":"Organization","name":"Cox Automotive"},{"@type":"Organization","name":"NADA"},{"@type":"Organization","name":"NIST"},{"@type":"Organization","name":"OWASP"},{"@type":"Person","name":"Erik Nachbahr","worksFor":{"@id":"https://heliontechnologies.com/#organization"}}],"keywords":"least privilege AI, AI tool permissions, dealership AI security, AI access control, Microsoft Entra user consent, FTC Safeguards Rule","inLanguage":"en-US"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/least-privilege-ai-dealerships/#faq","mainEntity":[{"@type":"Question","name":"Our AI vendor says it needs full access to work. Do we just say no?","acceptedAnswer":{"@type":"Answer","text":"Ask the vendor to tie each permission to a feature, in writing. A vendor that can't explain why a feature needs a permission is asking for more than the job requires. Some will offer a narrower setup once you ask. Some won't. That tells you something too."}},{"@type":"Question","name":"Wouldn't it be simpler to block AI tools entirely?","acceptedAnswer":{"@type":"Answer","text":"Simpler for about a week. People who need help with their work will find a tool on a personal phone or account, and then there are no settings left for you to control. A short list of approved tools, with scoped access and a written AI use policy for staff, keeps the work inside the store where you can see it."}},{"@type":"Question","name":"How would we even find out which AI tools can already reach our Microsoft 365?","acceptedAnswer":{"@type":"Answer","text":"Start with the enterprise applications list in Microsoft Entra ID, which shows the apps users have consented to and the permissions each one holds. Sort by what each app can reach, not by its name. Anything with mail, file, or directory access that nobody can explain goes on the review list first."}},{"@type":"Question","name":"Does an AI phone agent or chatbot need the whole CRM?","acceptedAnswer":{"@type":"Answer","text":"Rarely. It needs to create a lead, check open appointment times, and book one. It doesn't need years of customer history or the ability to export records. Our security and consent checklist for AI phone agents walks through the rest."}},{"@type":"Question","name":"Who at the dealership should own AI permissions?","acceptedAnswer":{"@type":"Answer","text":"One named person, with IT doing the hands-on work. In a single store that's often the controller or the general manager, and in a dealer group it's usually whoever already approves new vendors, since an AI tool is a vendor relationship whether or not anybody ever signed a contract for it. What matters is that a person, not a consent screen, makes the call, and that the decision gets written down where the help desk can find it. I'd rather have one owner who answers in a day than a committee that never meets."}}]}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/least-privilege-ai-dealerships/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

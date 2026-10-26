@@ -1,0 +1,65 @@
+URL: https://careers.limestonedigital.com/v/244945-ai-tech-lead-vertex-ai-and-azure-ai-foundry
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/244945-ai-tech-lead-vertex-ai-and-azure-ai-foundry
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - AI Tech Lead (Vertex AI and Azure AI Foundry)
+Meta description: Requirements: - 7+ years of software engineering, strong Python, at least 2 years as tech lead or architect - Shipped LLM agents or LLM features to production: tool calling, structured output, eval...
+Canonical: 
+Robots: 
+H1: AI Tech Lead (Vertex AI and Azure AI Foundry)
+
+Limestone digital s.r.o. - AI Tech Lead (Vertex AI and Azure AI Foundry)
+Job openings
+AI Tech Lead (Vertex AI and Azure AI Foundry)
+Full-time
+·
+Brazil, South America
+Requirements:
+- 7+ years of software engineering, strong Python, at least 2 years as tech lead or architect
+- Shipped LLM agents or LLM features to production: tool calling, structured output, evaluation harnesses and golden sets, guardrails, cost control
+- Deep hands-on experience with Google Cloud (Vertex AI, ADK preferred) or Azure (Microsoft Foundry, Azure OpenAI), and working knowledge of the other
+- Designs deterministic pipelines first and puts the model behind narrow, testable jobs
+- Integration architecture: event-driven flows, read-only access to on-premise SQL, secrets management, least privilege, observability
+- Infrastructure as code (Terraform) and CI/CD with quality gates
+- Runs client technical sessions alone, including with client IT or MSP, and explains trade-offs to non-technical executives
+- Reviews and mentors engineers, sets coding and evaluation standards
+- Fluent spoken and written English
+- Experience with regulated or confidential data (finance, HIPAA) and strict confidentiality rules
+Nice-to-Have:
+- Google Workspace APIs, Apps Script, Slack apps
+- Microsoft Foundry content filters and prompt shields, Azure networking (private link, VPN, ExpressRoute)
+- Recommendation or forecasting logic on transactional data (order cadence, quantities, unit of measure)
+- MCP, A2A, model routing across Gemini, Claude and OpenAI models
+- Background in private equity, finance operations or healthcare supply chain
+- Pre-sales: architecture sessions, estimates, proposal input
+Responsibilities:
+- Own technical direction and delivery quality on the US investment firm project: architecture of each agent, code review, evaluation standards, release decisions
+- Pair with and back up the FDE, build hands-on where a deadline needs it
+- Run technical sessions with client stakeholders and their MSP
+- Keep the agent registry, evaluation runs after model updates, and runbooks current
+US healthcare: run the pre-engagement architecture sessions, lead Part A discovery (data map, golden set, working slice), set the Azure foundation architecture and direct the Senior AI Engineer through the build
+- Give estimates and architecture input for new proposals on the same stacks
+- Follow each client's confidentiality rules and keep data, code and environments separate between engagements
+About the Project:
+Lead engineer for AI agent engagements in the Velocity Pod model, starting with two US clients on two clouds.
+Primary: US investment firm. The client runs on Google Workspace and Slack. We build agents and automations for the executive office and firm operations on Vertex AI: multi-party meeting scheduling with a calendar change log, a new OKR system on Google Sheets, then email triage, travel rebooking, Slack intake of IT requests and monitoring of the client's existing bots. The pod already has a full-time Forward Deployed AI Engineer (separate hiring request). This role owns technical direction and delivery quality, reviews and pairs with the FDE, and builds hands-on where the deadline needs it.
+Secondary, if the deal closes: US healthcare, US medical supplies distributor, HIPAA context. Proposal v1.0 sent in September 2026: AI Foundation plus an Easy Order recommendation agent on Azure with Microsoft Foundry and OpenAI models, reading an on-premise SQL reporting database through a read-only query service, acceptance against a golden set, about 2 weeks of discovery and about 12 weeks of build, with three more agents planned on the same foundation. Here this role is the AI Lead named in the proposal: runs the pre-engagement architecture sessions with the client and their MSP, sets the architecture and directs a full-time Senior AI Engineer.
+Both engagements follow one principle: compute in code, give the model only narrow jobs (explanation, judgement), and measure every change against a golden set and an evaluation harness.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

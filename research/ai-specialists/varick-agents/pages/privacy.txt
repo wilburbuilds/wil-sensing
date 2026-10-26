@@ -1,0 +1,156 @@
+URL: https://varickagents.com/privacy
+Fetched: 2026-10-26T03:33:31Z
+HTTP status: 304
+Final URL: https://www.varickagents.com/privacy
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents - Transforming the Enterprise with AI
+Meta description: Varick Agents brings AI to your business enabling faster, smarter moves with real time data and market intelligence. Automate your business today.
+Canonical: https://www.varickagents.com/privacy
+Robots: max-image-preview:large
+H1: 
+
+V
+
+Varick Agents
+
+HOW IT WORKS
+
+CASE STUDIES
+
+CAREERS
+
+BLOG
+
+Book a Call
+
+Privacy Contact Form
+
+Name
+
+Email
+
+Request type
+
+Select…
+Access my data
+Delete my data
+Correct my data
+Other
+
+Details
+
+The information provided is accurate
+
+Submit
+
+SCHEDULE DISCOVERY
+
+Deploy Your First AI Agent
+
+Book a Call
+
+CASE STUDIES
+
+Watch Varick Agents in Action
+
+View Deployments
+
+V
+
+Varick Agents
+
+Varick designs and deploys AI agent systems that 
+
+execute operational workflows inside enterprise organizations.
+
+1.1
+
+HOME
+
+HOME
+
+1.2
+
+HOW IT WORKS
+
+HOW IT WORKS
+
+1.3
+
+CAREERS
+
+CAREERS
+
+1.4
+
+CASE STUDIES
+
+CASE STUDIES
+
+1.5
+
+FAQ
+
+FAQ
+
+2.1
+
+X / TWITTER
+
+X / TWITTER
+
+2.2
+
+LINKEDIN
+
+LINKEDIN
+
+2.3
+
+BLOG
+
+BLOG
+
+2.4
+
+SUPPORT
+
+SUPPORT
+
+2.5
+
+PRIVACY
+
+PRIVACY
+
+2.6
+
+PRIVACY NOTICE
+
+PRIVACY NOTICE
+
+© 2026 Varick Agents. All rights reserved. Company names and logos are trademarks of their respective owners.
+
+311 California Street #750, San Francisco, CA, 94104
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="1q9vh6l"
+  - input type=text name="Name" id="" label="" placeholder="Jane Doe" aria="" required=true
+  - input type=email name="Email" id="" label="" placeholder="jane@varickagents.com" aria="" required=true
+  - select type= name="State" id="" label="" placeholder="" aria="" required=true options=Select… | Access my data | Delete my data | Correct my data | Other
+  - input type=text name="Details" id="" label="" placeholder="Optional" aria="" required=true
+  - input type=checkbox name="verification" id="" label="" placeholder="" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="website" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="company" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="message" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="subject" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="title" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="description" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="feedback" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="notes" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="details" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="remarks" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="comments" id="" label="" placeholder="" aria="" required=false
+

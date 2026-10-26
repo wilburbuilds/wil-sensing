@@ -1,0 +1,71 @@
+URL: https://careers.limestonedigital.com/v/245727-project-manager-with-ba-experience
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://careers.limestonedigital.com/v/245727-project-manager-with-ba-experience
+Content-Type: text/html; charset=utf-8
+Title: Limestone digital s.r.o. - Project Manager (with BA experience)
+Meta description: Requirements:&nbsp; - 3+ years as PM, BA or PM/BA in a client-facing IT services or outsourcing company - Hands-on BA work: elicitation, user stories, acceptance criteria, backlog ownership - Exper...
+Canonical: 
+Robots: 
+H1: Project Manager (with BA experience)
+
+Limestone digital s.r.o. - Project Manager (with BA experience)
+Job openings
+Project Manager (with BA experience)
+Full-time
+·
+Czech Republic, Prague
+Requirements:
+- 3+ years as PM, BA or PM/BA in a client-facing IT services or outsourcing company
+- Hands-on BA work: elicitation, user stories, acceptance criteria, backlog ownership
+- Experience in turning a prototype or loose requirements into a prioritized, estimable backlog
+- Delivered at least one product or MVP from kickoff to release
+- Ability to run 2+ engagements in parallel with small cross-functional teams
+- Stakeholder and risk management, including scope conversations with founders and C-level clients
+- Agile (Scrum, Kanban), kept light for small teams
+- Uses AI tools daily in PM and BA work
+- English B2+ or higher
+- Regular overlap with US business hours
+Nice-to-Have:
+- Pre-sale experience or readiness to join pre-sales (strong plus)
+- Healthcare or digital health, especially HIPAA-regulated data
+- Delivery of AI or AI agent projects, including acceptance testing of AI output
+- Medical supply, distribution or B2B eCommerce
+- Mobile app delivery, including white-label products
+- Enough technical grounding (APIs, cloud, Azure) to work with architects and engineers
+- PMP, PSM, PRINCE2, CBAP or similar
+- Jira, Confluence, ClickUp, Google Workspace, Slack
+- Able to travel within Europe (Prague HQ, European clients)
+Responsibilities:
+- Launch both engagements after signature: kickoff, onboarding, cadence, reporting
+- Act as BA on both: run requirements sessions, write user stories and acceptance criteria, own the backlog
+- AI ordering agent: work with the client’s business and data owners to capture business rules, data sources and the acceptance test set
+- Patient platform: turn the prototype into a backlog across mobile, web and admin, and keep the team on track for the pilot dates
+- Manage scope, timeline, risks and dependencies and run change control
+- Coordinate client-side third parties (design partners, IT providers)
+- Own client communication at project level: status reports, demos, steering meetings
+- Run agile ceremonies, onboard team members and give performance input
+- Join pre-sales with architects and Account Managers when needed
+- Share what works with AI tools and contribute to the LD delivery practice
+About project
+Limestone Digital is an AI-native software engineering company headquartered in Prague, Czech Republic. We help enterprises and PE-backed companies adopt AI across their products, processes and people.
+The role covers two new healthcare engagements for US clients:
+- AI ordering agent for a medical supply distributor. Buyers at nursing facilities place large recurring orders by hand. We will build an AI agent that drafts these orders from purchase history and formularies, within the client’s contract, pricing and unit-of-measure rules. We also build the data and AI foundation their team will use to add more agents later.
+- Patient engagement platform for a digital health startup. A greenfield, HIPAA-compliant MVP for longevity and wellness clinics. It combines wearable data and health records per patient, flags patients who need attention and drafts nudges for a clinician to approve. It has a white-labeled mobile app, a clinician web portal and an admin console.
+Apply now
+Powered by
+PeopleForce
+English
+Українська
+Polski
+Español
+Português
+Deutsch
+Slovenčina
+Magyar
+
+----- FORMS -----
+(no forms in HTML)
+
+----- JSON-LD -----
+(no JSON-LD)

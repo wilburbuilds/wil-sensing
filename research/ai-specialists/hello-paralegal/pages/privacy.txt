@@ -1,0 +1,500 @@
+URL: https://helloparalegal.com/privacy
+Fetched: 2026-10-26T03:42:00Z
+HTTP status: 200
+Final URL: https://helloparalegal.com/privacy
+Content-Type: text/html
+Via: chrome-headless
+Title: Hello Paralegal
+Meta description: Legal Partners Who Think Like Founders
+Canonical: 
+Robots: 
+H1: Privacy Policy
+
+Home
+Why Hp?
+Selection
+Pricing
+Blog
+Get Started
+Privacy Policy
+AS UPDATED ON 01 September 2025
+
+We respect your privacy and care about how your Personal Information is used. This Privacy Policy (the "Policy") outlines how Addictive Learning Technology Limited, its subsidiaries, and affiliates ("Company," "we," "our," or "us") collect, use, store, process, transfer, and disclose your information through our Website https://helloparalegal.com/ ("Website"), our Services and any of our other websites, mobile or digital applications, or any other services we offer from time to time by or in connection therewith (collectively referred to as the "Platform" or "Hello Paralegal"). Our Platform provides staffing and placement services by connecting Clients with qualified Paralegals. In order to provide these Services, we collect and process information from both Clients and Paralegals to enable introductions, facilitate communication, and manage engagements. (the "Services"). By reviewing this Policy, you will gain a comprehensive understanding of your privacy rights and choices.
+
+Your access to or utilisation of our Platform and/or Services operated by the Company linked to this Policy implies your agreement to be governed by this Policy. By providing us with your Personal Information, you expressly consent to the use and disclosure of your Personal Information as outlined in this Policy. This Policy, along with the Terms of Use and other policies, is applicable to your use of the Services, and you explicitly agree and acknowledge to read the Privacy Policy in conjunction with the Terms of Use .
+
+Please Note That The Capitalised Terms Not Defined In This Policy Are Defined In The Terms Of Service.
+
+The term "Personal Information" shall mean any information that relates to an identified or identifiable individual or entity. This may include, but is not limited to, information that you voluntarily provide to us (such as your name, email address, phone number, or professional details) and information that we collect automatically through your use of our Platform or Services (such as IP address, location, device identifiers, browser type, and usage data). "Personal Information" shall include equivalent terms in other Data Protection Laws, such as the GDPR-defined term "Personal Data," as the context requires.
+
+By accessing and utilising the Platform and/or Services, or furnishing your Personal Information, you explicitly agree and acknowledge that you accept the terms delineated in this Policy. The terms 'User', 'you' or 'your' collectively refer to any individual or entity accessing or using the Platform, whether for personal purposes or on behalf of others.
+
+By visiting the Platform or providing your information, you expressly agree to be bound by this Privacy Policy and agree to be governed by the privacy laws, including but not limited to the Information Technology Act, 2000, Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (IT Rules), and the Digital Personal Data Protection Act (DPDPA), 2023, General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and other relevant regulations governing data protection and privacy (collectivey "Data Protection Laws" ).
+
+IF YOU DO NOT CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS SET FORTH IN THIS PRIVACY POLICY, PLEASE REFRAIN FROM ACCESSING AND/OR USING OUR PLATFORM.
+
+1. TO WHOM DOES THIS POLICY APPLY?
+
+1.1. This Policy is inclusive and applies to all Users of our Platform, irrespective of their browsing intent or the extent of their utilisation of the Services offered on our Platform.
+
+1.2. The applicability of this Policy extends to Users regardless of the device type used for accessing our Platform, whether it be a laptop/desktop or a mobile/tablet device.
+
+1.3. You acknowledge that you are an eligible user as per Clause 1.1 of the Terms of Use. If you are below or between the ages of 13-18, or 16-18 (as applicable), and below the contractual age determined by the applicable laws of your country, you confirm that you are using the Platform with the consent of a parent or legal guardian. If you do not meet these criteria, please refrain from using our Platform and Services or providing Personal Information to us.
+
+2. WHAT IS THE INFORMATION THAT WE COLLECT FROM YOU?
+
+2.1. For Paralegals: To avail our Services, you need to provide certain Personal Information. This may include, but is not limited to, the following:
+
+2.1.1. Basic Information: You are required to provide basic information such as name, current location, gender and password;
+
+2.1.2. Contact Information: such as email address and contact number;
+
+2.1.3. Transaction Data: We may collect financial details, including the details of the payment method, such as credit or debit card number, UPI information, and bank account information. You understand and agree that any payments made through third-party payment processors are subject to their respective terms and privacy policies;
+
+2.1.4. Employment Information: We may collect information required for job-seeking purposes, including but not limited to CV, work experience, current employment status, projects, current employment type, industry, etc.;
+
+2.1.5. Education and Skills Information: This includes your education qualifications, certifications, publications, key skills, languages, etc.;
+
+2.1.6. Prospective Job Information: such as preferred salary, work location and profile headline.
+
+2.2. For Clients: To avail our Services, you need to contact us through the Platform functionality, which is free of cost and for this purpose, we collect certain Personal Information. This may include, but is not limited to, the following:
+
+2.2.1. Basic Information: You are required to provide basic information, such as full name, address, and password, while setting up the Account. If you are an entity, you may need to provide the aforementioned information in relation to the business, organisation name, size, website or LinkedIn link (if any), and the designation at such organisation;
+
+2.2.2. Contact Information: such as business email address and contact number;
+
+2.2.3. Transaction Data: We may collect financial details, including the details of the payment method, such as credit or debit card number, UPI information, and bank account information. You understand and agree that any payments made through third-party payment processors are subject to their respective terms and privacy policies;
+
+2.2.4. Job/project Information: You may need to provide information relevant to the position that you are posting, including but not limited to job title, industry, role, required skills, experience, salary, location and job/project description.
+
+2.3. Additionally, while you utilise our Platform and/or Services, we may collect the following information
+
+2.3.1. Social Media Platform: If you subscribe to our blog, newsletters, or contact us through social media platforms, including but not limited to LinkedIn, WhatsApp, Facebook, Twitter, YouTube, Instagram, etc., we may collect and process your Personal Information available on these platforms through various third-party data analytics and social media management service providers. This may include your name, email address, and phone number as provided on your social media profiles;
+
+2.3.2. Additional Information: It includes, without limitation, when you participate in promotions, communicate with our support team and other Users, take any action related to the jobs, projects or share your experience with us;
+
+2.3.3. Communication with us: This can include any communication that you send to us, including communications for any inquiries, payments, technical support, etc;
+
+2.3.4. Device Identification data: This includes information that may assist us in identifying your device, including browser type, version, your operating system, etc; and
+
+2.3.5. Other Data: This can include the following, based on your interaction with the Platform:
+
+2.3.5.1 Number of times you accessed our Platform;
+
+2.3.5.2 The length of time you spent on the Platform;
+
+2.3.5.3 The period from which you became and have continued to be active on the Platform;
+
+2.3.5.4 Other similar statistics we may collect with the intention of improving the user experience of the Platform.
+
+2.4. You agree to provide us with your Personal Information whenever you use our Services by performing any of the following functions:
+
+2.4.1. Accessing our Platform by means of any web browser or any device;
+
+2.4.2. Expressing your interest in our Services on the Platform;
+
+2.4.3. Inquiring about our Services through our Platform;
+
+2.4.4. Initiating and maintaining correspondence with us.
+
+2.5. We strive to take extra precautions to ensure that such Personal Information is kept secure and confidential, and we will only retain this data for as long as necessary for the purposes for which we collect it, as per the permissible laws of the land.
+
+2.6. You understand and agree that all Personal Information, sensitive or otherwise, collected through our Platform is provided solely by the User. We do not collect any personal or sensitive information without the User's explicit input and consent. Users are responsible for the accuracy and completeness of the information they provide. By using our Platform and Services, you acknowledge that you are bound by the terms and policies of our third-party service providers. We prioritise user privacy and security by relying on trusted third-party service providers, and we encourage Users to review and understand the policies of these platforms to protect their interests.
+
+2.7. We shall not be liable for any loss or damage sustained by you as a result of any disclosure (inadvertent or otherwise) of any Personal Information concerning your payment information in the course of any online transactions or payments made for any Services offered through the Platform. For this purpose, we recommend that you go through the terms of service of third-party service providers.
+
+2.8. This Policy will not apply to any unsolicited information provided by you through the Platform or through any other means. This includes but is not limited to information posted on any public areas of the Platform. All such unsolicited information shall be deemed to be non-confidential, and we will be free to use and disclose such unsolicited information without limitation.
+
+2.9. Access to your Personal Information is limited to employees, agents, partners, and third parties, who we reasonably believe will need that information to enable us to provide Services to you. However, we are not responsible for the confidentiality, security, or distribution of your own Personal Information by our partners and third parties (who have their own privacy policies) outside the scope of our agreement with such partners and third parties.
+
+2.10. When you use our Platform, we collect and store your information, which is provided by you from time to time. In general, you can browse the Platform without telling us who you are or revealing any Personal Information about yourself. Once you give us your Personal Information, you are not anonymous to us. Where possible, we indicate which fields are required and which are optional. You always have the option to not provide information by choosing not to use a particular service, product, or feature on the Platform.
+
+3. HOW DO WE COLLECT THE INFORMATION?
+
+3.1. We employ various methods to gather information, ensuring a comprehensive understanding of user interactions and preferences. The collection of Personal Information is facilitated through the following processes:
+
+3.1.1. Information you give us: When you provide us with the information referred to in Clauses 2.1, 2.2, and 2.3 through the methods outlined in Clause 2.4;
+
+3.1.2. Social Media Management: We collect and analyse Personal Information through various tools to understand how Users engage with our social media channels and interactions. This information helps us identify trends in User behaviour, optimise our content strategy, and improve our social media presence. The data collected may include metrics such as interaction frequency, engagement patterns, and demographic details of our audience. We ensure that the data is used only for the purposes outlined in this Policy, maintaining strict confidentiality and compliance with applicable Data Protection Laws. The insights gained enable us to enhance our social media efforts to better cater to User preferences and deliver a more engaging experience.
+
+3.1.3. Session Management: We study session metrics to understand how users interact with the Platform. This helps us learn the average time users spend on the Platform and when they prefer to engage. We use tools like Google Analytics (or alternatives) to collect anonymous data, including the number of views, how long users stay, and where they're visiting from. This data allows us to optimise the user experience, making informed enhancements to cater to user preferences and behaviours;
+
+3.1.4. User Analytics: We analyse user behaviour and preferences within the Platform to track and ensure accuracy, promptly identify any unusual behaviour, and detect fraudulent activities, allowing us to take immediate corrective action.
+
+3.2. In addition to direct user interactions, we leverage cookies and similar technologies to enhance the functionality and user experience on the Platform. These allow us to collect and process additional information for various purposes:
+
+3.2.1. Cookies: We utilise cookies, which are small text files stored on your device’s hard drive by web browsers. These cookies help us and third parties identify Users, track preferences, analyse usage patterns, and optimise the Platform’s functionality to provide a customised experience. Cookies enable us to store preference information and understand browsing activities. You may manage cookie preferences through your browser settings. Below is the limited list of the categories of cookies we use, along with their purposes:
+
+3.2.1.1. Strictly Necessary Cookies: These cookies are needed to run our Platform, to keep it secure when you are accessing the Platform, and to obey regulations that apply to us. They also help us keep your details safe and private;
+
+3.2.1.2. Functional Cookies: These cookies are used for remembering things such as your region or country, your preferred language, accessibility options like large font or high-contrast pages;
+
+3.2.1.3. Performance Cookies: These cookies tell us how you and our other users use our Platform. We combine all this data together and study it. This helps us to improve the performance of our Services and/or the Platform;
+
+3.2.1.4. Session Cookies: We use session cookies, which are stored temporarily during your browsing session and deleted when you close your browser or application. These cookies support the Platform’s functionality and help us analyse usage, including pages visited, links clicked, content viewed, and time spent on each page.
+
+3.2.1.5. Analytics Cookies: Analytics cookies collect data about your use of the Platform, allowing us to improve its performance. These cookies provide aggregated information to monitor site functionality, track page visits, identify technical issues, analyse user traffic, and measure the effectiveness of our advertising, including emails sent to you.
+
+3.2.2. Purpose of Cookies We Use: We utilise Personal Information obtained through cookies to enhance the speed, security of your interaction with us, and overall user experience. These cookies serve various purposes, including but not limited to:
+
+3.2.2.1. Preferences: Cookies enable the Platform to remember information that alters the site’s behaviour or appearance, such as your preferred language or geographic region. By retaining your preferences, we can customise and present advertisements and other content tailored to you.
+
+3.2.2.2. Security/Optimisation: Cookies play a crucial role in maintaining security by verifying Users, preventing fraudulent use of Services, and safeguarding User data from unauthorised access. Specific types of cookies assist in blocking various types of attacks, such as attempts to pilfer content from Platform forms.
+
+3.2.2.3. Processing: Cookies contribute to the efficient functioning of the Platform, allowing us to deliver the Services expected by visitors and/or Users. These cookies facilitate tasks like navigating web pages and accessing secure sections of the Platform.
+
+3.2.2.4. Analytics and Research: Cookies aid in comprehending how individuals utilise our Services, enabling us to enhance them for a better User experience. This data-driven insight helps us refine and improve our offerings.
+
+3.2.3. Web Beacons, Pixel Tags, and Trackers: We may employ web beacons, pixel tags, and tracking URLs, which are tiny graphic images and/or small blocks of code placed on Platform pages, ads, or in our emails that allow us to determine whether you performed a specific action. When you access these pages or when you open an email, you let us know that you have accessed the web page or opened the email. These tools help us measure responses to our communications and improve our web pages and promotions;
+
+3.2.4. Log Files: Our servers automatically collect information sent by User's devices, known as log files. This data may include IP addresses, device information, browser type, and timestamps. Log files are instrumental in analysing trends, administering the Platform, and diagnosing technical issues;
+
+3.2.5. Third-Party Analytics: We may integrate third-party analytics services to further understand user behaviour. These services utilise their own tracking technologies to compile reports on Platform activity, aiding us in improving our Services;
+
+3.2.6. Location Data: As part of our Services, we may also collect precise geolocation data, including GPS signals, device sensors, Wi-Fi access points, and cell tower IDs. We collect this type of data if you grant us access to your location. You can withdraw your consent at any time by disabling the GPS or other location-tracking functions on your device;
+
+3.3. Information from other sources: We may collect Personal Information from other sources, including but not limited to:
+
+3.3.1. If a User or any third party submits a complaint about you, we may receive information relating to the specific complaint made in order to understand and, where relevant, address the complaint;
+
+3.3.2. To the extent permitted by applicable law, we may receive additional information about you, such as references, demographic data, and information to help detect fraud and safety issues from (i) third-party service providers, other third parties, and/or partners, or (ii) Users and any other individuals, entities, and authorities, and combine it with information we have about you. For example, we may receive information about you and your activities on and off the Platform, including from users, members of the public, governmental, public, or tax authorities, or about your experiences and interactions with and/or from our partners. We may receive health information, including, but not limited to, health information related to contagious diseases.
+
+4. WHY DO WE COLLECT YOUR INFORMATION?
+
+4.1. You agree and acknowledge that we shall collect your information only for lawful and legally permissible purposes, which are as follows:
+
+4.1.1. Contractual Necessity: We process your Personal Information to fulfil our contractual obligations with you, which include, without limitation, tasks such as facilitating your access to our Platform, enabling communication between Clients and Paralegals, and responding to your inquiries or service requests;
+
+4.1.2. Research and Development: We will utilise Personal Information to deliver the Services and to develop, test, and enhance the quality and usability of both the Platform and Services;
+
+4.1.3. Communicate with you: We use your Personal Information to communicate with you concerning Services via different channels (e.g., by phone, e-mail, chat);
+
+4.1.4. Fraud Prevention and Credit Risks: We use Personal Information to prevent and detect fraud and abuse to protect the security of our Users;
+
+4.1.5. Troubleshoot Problems: We use your Personal Information to provide functionality, analyse performance, fix errors, and improve the usability and effectiveness of the Platform and/or Services;
+
+4.1.6. Compliance with law: To be able to perform any contractual and legal obligation;
+
+4.1.7. Enhancing User Experience: To analyse user behaviour and preferences for improving our Services and user experience, and to be able to provide location-specific services;
+
+4.1.8. Providing alerts/notifications: To effectively communicate with you through emails/SMS/notifications through the Platform to inform you about any other new services that we may, from time to time, develop.
+
+4.2. In the course of operating the Platform and/or Services, we collect and utilise Personal Information in accordance with our Privacy Policy.
+
+4.3. You consent and recognise that your Personal Information may be disclosed on our Platform, authorised by you for the purpose of utilising our Services. Additionally, you agree and acknowledge that we are permitted to communicate with you through messaging, calls, emails, or other means to facilitate the performance of our Services wherever necessary.
+
+5. WHO DO WE SHARE YOUR PERSONAL INFORMATION WITH AND WHY?
+
+5.1. To facilitate our Services and enhance user experience, we may share Personal Information with the following entities:
+
+5.1.1. Third-party Service Providers: We may collaborate with third-party service providers to carry out various functions on our behalf, such as email communications, data analysis, marketing support, content transmission, hosting services, data storage, customer service, etc. While these third-party service providers may have access to the necessary Personal Information to fulfil their functions, they are prohibited from using it for any other purposes. Moreover, they are obligated to process the Personal Information in compliance with applicable laws. While we do not own or control these third parties, when you interact with them and choose to use their services, you are providing your information to them. Your use of these services is subject to the privacy policies of those providers.
+
+5.1.2. Employees and Independent Contractors: Employees and independent contractors of the Company have access to Personal Information strictly on a need-to-know basis for their job functions or contractual obligations. They comply with this Policy and are trained to protect Personal Information. Confidentiality obligations prohibit unauthorised disclosure or misuse of Personal Information. We monitor compliance and may enforce disciplinary action for breaches, ensuring appropriate security measures are in place to safeguard all accessed Personal Information.
+
+5.1.3. Affiliates: We may share your information with our affiliates, in which case we will require those affiliates to honour this Policy. Affiliates may include our parent company and any subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.
+
+5.1.4. Business Transfers: er common control with us. Business Transfers: In the course of our business development, we may engage in the sale or acquisition of other businesses or services. In such transactions, user information is typically considered one of the transferred business assets but continues to be governed by the commitments outlined in any pre-existing Privacy Policy, unless the user provides alternative consent. Additionally, in the unlikely scenario of the acquisition of the Company, any of its affiliates, or a substantial portion of their assets, user information will naturally be among the transferred assets.
+
+5.1.5. Legal Compliance: In compliance with applicable laws and regulations, we may disclose Personal Information to government entities or regulatory authorities when required, with/without any notice/intimation to you. This includes instances where such disclosures are necessary for legal proceedings, investigations, or to meet regulatory obligations. Also, we may share any information about you with government and law enforcement agencies without your permission as may be considered necessary or appropriate by us to respond to valid claims and legal processes, to protect our property and rights or the property or rights of a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity.
+
+5.1.6. Service Improvement: We may share certain aggregated, anonymised information with third parties (for example, for Google Analytics) in order to assess the Platform usage and information pertaining to the ease of navigation.
+
+5.1.7. Collaborations:We may share your Personal Information with reputable partners to facilitate joint initiatives, promotions, or integrated services.
+
+5.1.8. Growth and Expansion:As our Company evolves and expands, there may be instances where sharing Personal Information with new entities or parties becomes necessary for the enhancement of our Services. Any such sharing will be carried out with the utmost consideration for user privacy and in accordance with relevant legal frameworks.
+
+5.2. We do not ever sell or rent your Personal Information without your express approval.
+
+5.3. We do not share Personal Information with advertisers or third-party sites displaying our interest-based ads. However, advertisers may infer user interests from interactions with ads and might provide us with demographic information to enhance ad relevance. Advertisers can serve ads directly to your browser, receiving your IP address, and may use cookies to evaluate ad effectiveness. We do not control these cookies or the practices of third-party advertisers, so please refer to their privacy policies for more information.
+
+5.4. We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly.
+
+6. HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION?
+
+In compliance with applicable laws, we retain your Personal Information for a duration no longer than necessary for the purpose for which it was collected or as mandated by relevant laws. However, certain data related to you may be retained beyond this period if we reasonably believe it is necessary to prevent fraud, mitigate potential abuse, allow us to exercise our legal rights, defend against legal claims, or fulfil other legitimate purposes required by law. You understand that we may continue to retain your Personal Information in anonymised form for analytical and research purposes. Additionally, we may continue to retain your Personal Information for the following purposes, including but not limited to:
+
+6.1. Legitimate Business Interest: We may retain your Personal Information as necessary for our legitimate business interests, such as the prevention of money laundering, fraud detection and prevention, and enhancing safety;
+
+6.2. Legal, Tax, Reporting, and Auditing Obligations: We may retain and use your Personal Information to the extent necessary to comply with our legal, tax, reporting, and auditing obligations;
+
+6.3. Shared Information: Information you have shared with others, such as reviews and forum postings, may continue to be publicly visible on the Platform, even after your Account is cancelled; and
+
+6.4. Residual Copies: Because we take measures to protect data from accidental or malicious loss and destruction, residual copies of your Personal Information may not be removed from our backup systems for a limited period of time.
+
+7. HOW DO WE PROVIDE FOR THE SECURITY OF YOUR PERSONAL INFORMATION WITH US?
+
+7.1 We prioritise the security of your data, utilising secure cloud servers where your Personal Information is encrypted at rest, adding an extra layer of protection against unauthorised access. All data transfers are safeguarded through Secure Sockets Layer (SSL) technology, ensuring your Personal Information remains secure during transmission. We implement reasonable physical, electronic, and procedural safeguards to ensure the confidentiality and integrity of your information. Accessing your information is facilitated through a secure server, and once in our possession, your data is subject to strict security guidelines to prevent unauthorised access. Further, access to your information is restricted to our internal team members only to maintain confidentiality and security.
+
+7.2. We work to protect the security of your Personal Information during transmission by using encryption protocols. We use multi-layered controls to help protect our infrastructure, constantly monitoring and improving our applications, systems, and processes to meet the growing demands and challenges of security. We ensure that the third parties who provide services to us under appropriate contracts take appropriate security measures to protect your Personal Information in line with our policies.
+
+7.3. You understand and agree that despite the security measures in place, we cannot be held liable for any issues related to data security. Nevertheless, we implement reasonable physical, electronic, and procedural safeguards to maintain the confidentiality and integrity of your information. As part of this commitment, it is imperative that you also review and adhere to the terms of service and privacy policy of our third-party service providers.
+
+7.4. While we take comprehensive measures to safeguard your information, users acknowledge and accept the inherent security implications of data transmission over the Internet and the World Wide Web. Despite our efforts, complete security cannot be guaranteed, and inherent risks persist. Users bear the responsibility of safeguarding login and password records for their Accounts. Any transmission of Personal Information is at your own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on the Platform. While acknowledging these risks, we remain committed to continually enhancing our security protocols to address emerging threats and maintain the trust of our users.
+
+8. HOW DO WE HANDLE DATA BREACHES AND SECURITY INCIDENTS?
+
+8.1 In the event of a data breach or security incident, we maintain a proactive approach to ensure swift resolution and mitigate potential risks. We have established a comprehensive incident response plan designed to address such occurrences promptly and effectively:
+
+8.1.1 Identification: We promptly identify and acknowledge any signs of a data breach or security incident within our systems or infrastructure;
+
+8.1.2 Containment: Immediate action is taken to contain the impact of the breach, preventing further unauthorised access or damage to data;
+
+8.1.3 Notification: We prioritise transparency by promptly notifying affected parties, including users and relevant stakeholders, about the breach and its potential impact on their data;
+
+8.1.4 Collaboration: We collaborate with relevant authorities, such as regulatory bodies and law enforcement agencies, to report the incident and comply with any legal obligations or regulatory requirements; and
+
+8.1.5 Post-Incident Assessment: Following the resolution of the incident, we conduct thorough assessments to evaluate the effectiveness of our response measures and identify areas for improvement.
+
+9. WHO IS THE DATA CONTROLLER AND DATA PROCESSOR OF YOUR PERSONAL INFORMATION?
+
+9.1 We will act as the data controller where we make decisions on how your Personal Information is used in connection with the Platform or our Services. We will act as the data processor where we only use your Personal Information as authorised and instructed by a third party in connection with the Platform, our applications or Services.
+
+9.2 Where we are acting as the data controller, we are responsible for the obligations of a data controller under Data Protection Laws in connection with the processing of your Personal Information, and we use this Privacy Policy to provide you with information about our use of your Personal Information.
+
+9.3 Where we are acting as a data processor, the relevant third party will be acting as a data controller and will be responsible for the obligations of a data controller under data protection laws in connection with the processing of your Personal Information. If you are accessing the Platform or our Services through a third party, you should contact them with queries regarding the processing of your Personal Information or compliance with Data Protection Laws.
+
+10. DO WE TRANSFER YOUR PERSONAL INFORMATION ACROSS THE BORDER?
+
+10.1 While our primary practice is to store all data on servers located within India, it's important to note that certain circumstances may necessitate the transfer of your Personal Information to countries outside your residential country. These transfers may occur for various purposes outlined in this Policy.
+
+10.2 You understand and accept that other countries may have differing (and potentially less stringent) laws relating to the degree of confidentiality afforded to the information it holds and that such information can become subject to the laws and disclosure requirements of such countries, including disclosure to governmental bodies, regulatory agencies, and private persons, as a result of applicable governmental or regulatory inquiry, court order or other similar processes. In addition, a number of countries have agreements with other countries providing for the exchange of information for law enforcement, tax, and other purposes.
+
+10.3 If we transfer your Personal Information to third parties for purposes stated in this Policy, we will use our best endeavors to put in place appropriate controls and safeguards to ensure that your Personal Information is kept accurate, adequately protected, and processed only for specified and reasonable purposes in a manner that is fair, transparent and has a lawful basis, and is stored for no longer than is absolutely necessary.
+
+11. WHAT ARE YOUR RIGHTS AS A DATA SUBJECT?
+
+11.1 You, as a data subject, may have certain rights to your Personal Information with us, as under:
+
+11.1.1 Request access to your Personal Information:This allows you to receive a copy of the Personal Information we hold about you, and to check that we are lawfully processing it;
+
+11.1.2 Request the correction of your Personal Information: This allows you to ask for any incomplete or inaccurate information we hold about you to be corrected;
+
+11.1.3 Request the erasure of your Personal Information: This allows you to ask us to delete or remove your Personal Information from our systems where there is no good reason for us to continue processing it;
+
+11.1.4 Object to the processing of your Personal Information: This allows you to object to our processing of your Personal Information for a specific purpose (for example, for marketing purposes);
+
+11.1.5 Request the transfer (data portability) of your Personal Information: This allows you to request the transfer of your Personal Information in a structured, commonly used, machine-readable format, either to you or to a third party designated by you and, if technically feasible, have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract of which you are a part, or on pre-contractual obligations thereof;
+
+11.1.6 Request the restriction: You have the right to request the restriction of the processing of your Personal Information. This means we will store your Personal Information but not further process it, except in limited circumstances (e.g., with your consent or for legal claims);
+
+11.1.7 Request further information on the processing of your Personal Information: You have the right to obtain further information on how we process your Personal Information. This includes details about the purposes of the processing, the categories of Personal Information involved, the recipients or categories of recipients with whom the Personal Information has been or will be shared, and the envisaged retention period of the Personal Information.
+
+11.1.8 Withdraw your Consent: This right only exists where we are relying on your consent to process your Personal Information. If you withdraw your consent, we may not be able to provide you with access to certain features of our Platform. We will advise you if this is the case at the time you withdraw your Consent.
+
+11.1.9 User’s State-Specific Rights:
+
+11.1.9.1 If you are a citizen of India, you may have additional rights listed in Schedule I. Please refer to Schedule I below for more detailed information on your rights.
+
+11.1.9.2 If you are a citizen of the European Union, you may have additional rights listed in Schedule II. Please refer to Schedule II below for more detailed information on your rights.
+
+11.1.9.3 If you are residing in the United Kingdom, you may have rights listed in Schedule III. Please refer to Schedule III below for more detailed information on your rights.
+
+11.1.9.4 If you are residing in the United States including states such as California, Colorado, Connecticut, Delaware, Florida, Iowa, Montana, Nevada, Oregon, Texas, Utah, Vermont, Virginia, or Washington, or are otherwise protected by privacy or consumer health data laws in those jurisdictions, please refer to Schedule IV that outlines state-specific rights and protections afforded to you.
+
+11.1.10 Please note that these Schedules are supplemental to our Privacy Policy.
+
+11.1.11 In relation to the above, you can exercise such right by sending us an email with your request to hi@helloparalegal.com along with the necessary proof of identity requirements that we may require prior to processing such a request from you.
+
+11.1.12 We are committed to respecting and protecting your privacy and will make every effort to accommodate your requests and address your concerns in accordance with applicable laws. It's important to note that we may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. This ensures that your rights are upheld and that we respond to your inquiries promptly and effectively.
+
+11.1.13 While we strive to cover the privacy rights of Users in various jurisdictions through this Privacy Policy and the accompanying Schedules, we understand that some Users may be in regions with specific Data Protection Laws that are not explicitly addressed here. If you are a User whose data subject rights are not clearly covered in this Privacy Policy or the Schedules, please reach out to us for assistance at hi@helloparalegal.com. You can contact us to: (a) inquire about the processing of your Personal Information; (b) request access, rectification, or erasure of your Personal Information; (c) restrict or object to the processing of your Personal Information; and (d) exercise any other rights granted under applicable Data Protection Laws in your jurisdiction.
+
+11.1.14 Please be aware that these rights are subject to legal restrictions. We will respond to your request as soon as possible, typically within one month at the latest. If you believe that our processing of your Personal Information is unlawful, you have the right to complain to hi@helloparalegal.com. We hope that you will first contact us so that we can assess your objections and clarify any misunderstandings.
+
+12. ARE CHILDREN ALLOWED TO USE OUR PLATFORM AND/OR SERVICES?
+
+12.1 This Platform and/or Services are strictly prohibited for use by individuals under the age of eighteen (18) years or the age of majority as defined by the applicable laws of their country of residence. Specifically, individuals under the age of sixteen (16) residing in European Union (EU) countries and those under thirteen (13) years old in the United States or United Kingdom are also restricted from accessing our Platform and Services (collectively referred to as "Minors") Accessing or using the Platform and/or Services by Minors constitutes a violation of our Terms of Use and Privacy Policy.
+
+12.2 We do not knowingly collect, solicit, or process any Personal Information from Minors. We implement commercially reasonable age verification measures and data protection practices to prevent such unauthorised collection and usage.
+
+12.3 If you are a parent or legal guardian ("Guardian") and believe your child has provided us with Personal Information, we urge you to promptly contact us at hi@helloparalegal.com. Upon verification of your Guardian status, we will promptly take all necessary steps to remove and delete such information from our records.
+
+13. HOW CAN YOU EXPRESS YOUR COMPLAINTS AND CONCERNS?
+
+User satisfaction is one of the key focus areas and an integral part of our Platform’s founding principles and business policies. We strongly believe that User satisfaction is the most important factor in the growth and development of our business, and hence, we have adopted user-centricity as a priority in developing our business processes. The terms below shall constitute our "User Grievance Redressal Policy" , which outlines the framework for addressing User grievances:
+
+13.1 Objective: The objective of this Grievance Policy is to provide a framework:
+
+13.1.1 to ensure the provision of timely and effective resolution of issues raised by the User; and
+
+13.1.2 to keep the User informed about the manner in which they can reach out to us to resolve their queries and grievances
+
+13.2 Governing Principles: The policy on grievance redressal is governed by the following principles:
+
+13.2.1 User shall be treated fairly at all times;
+
+13.2.2 issues raised by Users are always attended to with courtesy and on time;
+
+13.2.3 Users are provided with effective and satisfactory resolution within a reasonable time period; and
+
+13.2.4 Users are fully informed of avenues to escalate their issues/ grievances if they are not fully satisfied with the response to their complaints.
+
+13.3 Grievance Redressal: Any User can reach out to our Grievance Redressal Officer through electronic mode by way of email communication at hi@helloparalegal.com. Users can expect a reply within 7 days; and
+
+13.4 Know:You must know and understand that-
+
+13.4.1 We DO NOT solicit confidential details like your OTP/CVV/PIN/Card Number/ Bank account details through any means.
+
+13.4.2 Scamsters/fraudsters attempt various techniques, such as ‘phishing’ to contact, influence, and defraud consumers. We regularly caution our Users against sharing any personal or payment-sensitive information with unknown persons, as such sharing leads to unauthorised use and/or fraud and consequent financial loss.
+
+13.4.3 We shall not be liable for any loss, damage, or expense incurred by a User where the User has shared personal and/or payment-sensitive information with scamsters/fraudsters.
+
+13.4.4 We also request and encourage our Users to report such attempts or incidents to us at hi@helloparalegal.com. to enable us to investigate and explore legal recourse.
+
+14. HOW ARE CHANGES MADE TO THIS POLICY?
+
+This Policy may be updated at our sole discretion or due to changes in the law. Such changes, unless otherwise stated, will be effective from the day and date of posting on the Platform. We reserve the right to update the Policy without obligation to notify Users. It is recommended to regularly review this Policy for any changes, as your continued access and use of the Platform will be considered your approval and acceptance of all modifications to this Policy. In cases where applicable law mandates, we may notify you of updates through email. If you do not agree with this Policy governing our Platform, please refrain from using the Platform or the Services provided by us.
+
+15. HOW CAN YOU CONTACT US?
+
+Should you need additional information or have any questions or complaints regarding the handling of your Personal Information, please reach out to us in writing at:
+
+Email: hi@helloparalegal.com.
+
+Schedule I- Indian Residents
+
+We are committed to safeguarding the privacy rights of our Users in India. This schedule outlines our compliance with Indian privacy laws, including the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (IT Rules), and the Digital Personal Data Protection Act (DPDPA), 2023. These regulations ensure that Personal Data is processed fairly, lawfully, and transparently.
+
+YOUR DATA SUBJECT RIGHTS:
+Right to Consent: Your explicit consent is required for the collection and processing of your Sensitive Personal Data or Information (SPDI).
+Right to Access: You have the right to access your Personal Data and obtain a copy of it.
+Right to Correction: You can request corrections to any inaccurate or incomplete Personal Data.
+Right to Withdrawal of Consent: You can withdraw your consent to the processing of your Personal Data at any time.
+Right to Review Information: You can review the information you have provided and ensure it is accurate and up-to-date.
+Right to Grievance Redressal: You have the right to lodge a complaint regarding the processing of your Personal Data with our Grievance Officer.
+DATA RETENTION AND DE-IDENTIFICATION:
+
+We are committed to retaining Personal Information only for as long as necessary to fulfil the purposes for which it was collected, as outlined in our main Privacy Policy (see Clause 6). We may also take measures to de-identify Personal Information in accordance with applicable laws and regulations.
+
+APPEAL PROCESS
+
+If you disagree with the Company's response to your privacy rights request or believe your rights have not been adequately addressed, you have the right to appeal. You can submit your appeal in writing to our Data Protection Officer at hi@helloparalegal.com. with the subject line "Appeal of Privacy Rights Request."
+
+LODGING A COMPLAINT
+
+If you believe your rights have been violated or are dissatisfied with our response, you have the right to lodge a complaint with the Office of the Data Protection Commissioner of India (DPIC). The DPIC is responsible for handling complaints related to data protection and ensuring compliance with the DPDPA.
+
+ADDITIONAL INFORMATION:
+
+For more detailed information on how we handle your Personal Information, including our data collection practices, security measures, and third-party disclosures, please refer to our main Privacy Policy available.
+
+Schedule II- European Union Residents
+
+We are committed to ensuring compliance with the European Union General Data Protection Regulation (GDPR).
+
+Although our Privacy Policy explains how we meet all of our obligations for United Kingdom Users, we also have some Users who are habitually located in the European Union (‘EU Residents’) who have additional rights with respect to their Personal Data.
+
+Personal Data is defined as: "Any information relating to an identifiable person who can be directly or indirectly identified in particular by reference to an identifier". The term "Personal Data" should be considered fundamentally interchangeable with the expression "Personal Information" for the purposes of this Privacy Policy.
+
+Under the GDPR, we are the "Data Controller" and "Data Processor" of Personal Data. As part of our GDPR compliance, we provide and operate the App in a way that ensures: Personal Data (i.e. Personal Information) is processed fairly, lawfully, and in a transparent manner; and collected and processed only for specified and lawful purposes.
+
+We ensure that the Personal Data we collect about you is accurate, complete, and used for its intended purpose. You may access, review, correct, and update your Information by contacting us by email at the contact details below.
+
+EUROPEAN UNION RESIDENTS
+
+In certain circumstances, you have certain rights regarding your Personal Information. A summary of each right and how you can exercise it is detailed below. To exercise any of these rights, please contact us at hi@helloparalegal.com. Such requests should include information to allow us to verify your identity (e.g. your name, address, email address, or other information reasonably required).
+
+Where we receive your request to exercise one of these rights, we will respond without undue delay and within the time required by applicable law. This may be extended in certain circumstances, e.g. where requests are complex or numerous.
+
+We will provide the information free of charge, except where requests are manifestly unfounded or excessive, e.g. because of their repetitive character. In these circumstances, we may charge a reasonable fee or may refuse to act on the request. We will advise you of any fees prior to proceeding with a request. We may ask for additional information to verify your identity before carrying out a request.
+
+HOW CAN YOU EXERCISE YOUR RIGHT?
+1. Right to access and/or correct your Personal Data
+
+You have the right to access the Personal Data we hold about you, and to be provided with a copy of the information (in most circumstances). You also have the right to correct any information we may hold about you that is inaccurate.
+
+2. Right to restrict the use of your Personal Data
+
+You have the right to ask us to restrict the processing of your Personal Data where one of the following applies:
+
+The processing is unlawful, but you want us to restrict the use of the data instead of deleting it;
+Where you contest the accuracy of your Personal Data, the restriction will apply until we have verified the accuracy or corrected your Personal Data;
+We no longer require the Personal Data for the purposes of the processing, but are required to keep it in connection with a legal claim;
+You have exercised your right to object to the processing. The restriction will apply until we have taken steps to verify whether we have compelling legitimate grounds to continue processing.
+3. Right to withdraw consent and request deletion of your Personal Data
+You have the right to ask us to delete your Personal Data in most circumstances. There are also certain exceptions where we may refuse a request for erasure, for example, where the Personal Data is required to comply with a legal obligation or for the establishment, exercise, or defence of legal claims.
+You may object to our use of your Personal Data for marketing purposes, and you can let us know via the provided email address.
+Further, you may also object to the processing of your Personal Data in cases where we have used legitimate interests as the basis for processing. In such cases, we will stop processing your Personal Data until we verify that we have compelling legitimate grounds for processing that outweigh your interests, rights, and freedoms in asking us to stop processing the data, or in limited cases where we need to continue processing the data for the establishment, exercise, or defence of legal claims.
+4. Data retention and anonymisation
+
+We are committed to retaining Personal Information only for as long as necessary to fulfil the purposes for which it was collected, as outlined in our main Privacy Policy (see Clause 6). We may also take measures to de-identify Personal Information in accordance with applicable laws and regulations.
+
+5. Right to data portability
+
+In most cases, you have the right to receive all Personal Data you have provided to us in a structured, commonly used, and machine-readable format and to transmit this data to another data controller, where technically feasible.
+
+6. Right to lodge a complaint with a supervisory authority
+
+If you are a resident of the EU, you have the right to make a complaint at any time to the regulator in your jurisdiction. To find out how to contact your local regulator, please visit https://edpb.europa.eu/about-edpb/about-edpb/members_en .
+
+We will allow and assist Users who are EU Residents to exercise these rights unless we have compelling and legitimate legal grounds not to (e.g. a legal obligation under United Kingdom legislation, or if the Personal Data has been fully anonymised).
+
+Schedule III: United Kingdom (UK) Residents
+
+We are dedicated to upholding the principles of the United Kingdom General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
+
+While our Privacy Policy outlines our commitments to European Union Users, we recognise that Users located in the United Kingdom (‘UK Residents’) have additional rights concerning their Personal Data.
+
+YOUR DATA SUBJECT RIGHTS:
+
+You have a number of rights under applicable Data Protection Laws in relation to your Personal Information. Under certain circumstances, you have the right to:
+
+Have access to your Personal Information by submitting a request to us;
+Have your Personal Information deleted;
+Have your Personal Information corrected if it is wrong;
+Have the processing of your Personal Information restricted;
+Object to further processing of your Personal Information, including to object to marketing from us;
+Make a data portability request;
+Withdraw any consent you have provided to us;
+Restrict any automatic processing of your Personal Information; and
+Complaint to the appropriate supervisory authority.
+To exercise any of these rights, please contact us hi@helloparalegal.com.
+A. BASIS FOR PROCESSING:
+
+We will only process your Personal Information when we have a lawful basis to do so, such as consent, contractual necessity, or legitimate interests. Also, please refer to Clause 5 to understand how we process your Personal Information.
+
+B. PROCESS OF APPEAL:
+
+If you disagree with the Company's response to your privacy rights request or believe your rights have not been adequately addressed, you have the right to appeal. You can submit your appeal in writing to our Data Protection Officer at hi@helloparalegal.com. with the subject line "Appeal of Privacy Rights Request".
+
+Schedule IV: United States Residents
+
+We are dedicated to adhering to the California Consumer Privacy Act (CCPA), California Privacy Rights Act (CPRA), Virginia Consumer Data Protection Act (VCDPA), Colorado Privacy Act (CPA) and other relevant state privacy regulations. If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Iowa, Montana, Nevada, Oregon, Texas, Utah, Vermont, Virginia, or Washington, or if you fall under the protections offered by privacy laws in those states, this section serves as an addition to our primary Privacy Policy, detailing your specific rights and protections.
+
+According to the CCPA, "Personal Information" encompasses any data that can identify, relate to, describe, or be reasonably associated with a specific consumer or household. This includes a variety of information types such as names, addresses, and online identifiers, among others.
+
+We make every effort to ensure that the Personal Information we gather is precise, relevant, and utilised correctly. You have the right to access, delete, and request disclosures regarding your Personal Information. For any questions or to exercise these rights, please reach out to us using the contact details provided below.
+
+A. YOUR PRIVACY RIGHTS:
+Right to access: You can access the information that has been provided by you by reaching out to us at hi@helloparalegal.com.
+Right to withdraw consent: The consent that you provide for the collection, use, and disclosure of your Personal Information will remain valid until such time it is withdrawn by you in writing. If you withdraw your consent, we will stop processing the relevant Personal Information except to the extent that we have other grounds for processing such Personal Information under applicable laws. We will respond to your request within a reasonable timeframe. You may withdraw your consent at any time by contacting us; and
+Right to Opt-Out: You have the right to opt out of certain processing activities, such as the sale of Personal Information or the use of Personal Information for targeted advertising purposes. We will respect your preferences and refrain from such activities upon your request.
+Right to correction: You are responsible for maintaining the accuracy of the information you submit to us, including but not limited to your Contact Information. For any necessary updates or corrections to your Personal Information, Users can easily modify details using the provided App functionalities or by reaching out to us at hi@helloparalegal.com.
+Right of Access and Portability: In some jurisdictions, applicable law may entitle you to request certain copies of your Personal Information or information about how we handle your Personal Information, request copies of Personal Information that you have provided to us in a structured, commonly used, and machine-readable format, and/or request that we transmit this information to another service provider, where technically feasible.
+Right of Erasure: In some jurisdictions, you can request that your Personal Information be deleted.
+B. DATA CONTROLLER AND PROCESSOR:
+
+Under various U.S. privacy laws, including but not limited to the California Consumer Privacy Act (CCPA) and other state-specific regulations, we act as the "Data Controller" as well as "Data Processor" of Personal Data. To ensure compliance, we operate our services in a manner that guarantees: Personal Data is processed fairly, lawfully, and transparently; and it is collected and used only for legitimate and specified purposes.
+
+C. APPEAL PROCESS:
+
+If you disagree with the Company's response to your privacy rights request or believe your rights have not been adequately addressed, you have the right to appeal. You can submit your appeal in writing to our Data Protection Officer at hi@helloparalegal.com. with the subject line "Appeal of Privacy Rights Request"
+
+D. DATA RETENTION AND DE-IDENTIFICATION:
+
+We are committed to retaining Personal Information only for as long as necessary to fulfil the purposes for which it was collected, as outlined in our main Privacy Policy (see Clause 6). We may also take measures to de-identify Personal Information in accordance with applicable laws and regulations.
+
+E. LODGING A COMPLAINT
+
+If you believe your rights have been violated or are dissatisfied with our response, you have the right to lodge a complaint with the federal agencies, such as the Federal Trade Commission (FTC) and the Consumer Financial Protection Bureau (CFPB). You may also contact the State Attorney General's Office of your residential state. These organisations are responsible for handling complaints related to data protection and ensuring compliance with the privacy laws.
+
+F. ADDITIONAL INFORMATION:
+
+For more detailed information on how we handle your Personal Information, including our data collection practices, security measures, and third-party disclosures, please refer to our main Privacy Policy available.
+
+© Hello Paralegal. All rights reserved
+About Us
+Help & Support
+Terms & Conditions
+Privacy Policy
+

@@ -1,0 +1,209 @@
+URL: https://heliontechnologies.com/dealership-it-services-detroit/
+Fetched: 2026-10-26T03:59:50Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-it-services-detroit/
+Content-Type: text/html
+Via: chrome-headless
+Title: Dealership IT Services in Detroit | Helion Technologies
+Meta description: Dealership IT services in Detroit, Oakland County, Macomb County and Ann Arbor from Helion Technologies. Managed IT, security and vendor risk. Help in 82s.
+Canonical: https://heliontechnologies.com/dealership-it-services-detroit/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealership IT Services in Detroit
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+DETROIT, OAKLAND COUNTY, MACOMB COUNTY, DOWNRIVER AND ANN ARBOR
+
+Dealership IT Services in Detroit
+
+One dealership-only IT team for every Metro Detroit store, and every vendor that touches it. A live person answers in 82 seconds on average.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Last updated: October 23, 2026
+
+Helion Technologies provides dealership IT services in Detroit, Oakland County, Macomb County and Ann Arbor for automotive and heavy truck stores, covering managed IT, cybersecurity, Tekion support, backup and FTC Safeguards compliance. A live support agent answers in 82 seconds on average.
+
+Dealership IT Services in Detroit Start With Your Vendors
+
+Count the outside companies that can log in to one store on Telegraph Road. The DMS, the credit check service, the CRM, the factory portals, payroll, the phone vendor, whoever put in the cameras. It’s a long list. Every one of them can reach customer data, and plenty of them reach it from offices you’ll never see.
+
+That’s where we start. Helion already supports client dealerships in the Detroit metro, and what we find here is the same pattern we’ve seen across 2,000+ dealerships nationwide, lots of vendors and nobody owning the whole system. We fix the owning part first.
+
+Helion Technologies has supported automotive and heavy truck dealerships, and nobody else, since 1997. This page is part of our dealership IT services by location hub, and it covers what’s different about running stores around Detroit.
+
+Remote first
+Most tickets close by phone or remote session, so a January whiteout on I-696 never decides how long a store stays down.
+On site when it needs hands
+Field technicians are dispatched for a dead switch, new cabling or a store moving to a bigger lot in Macomb County.
+Watched around the clock
+Security support runs 24/7, with live, US-based analysts watching your systems and stepping in the moment they see signs of an attack.
+
+Our dealership help desk is in Baltimore, same time zone as you. Whenever your Detroit stores are open, 7 days a week, the help desk is open too. The service drive in Dearborn opens early? We’re on. A Saturday delivery in Troy runs late? Still here. We close for Thanksgiving and Christmas and that’s it. After-hours calls, weekends and field dispatch come inside the one monthly number, no trip charges, and the bill doesn’t jump because a problem turned out bigger than it looked. Ask any provider for the help desk metrics a dealer principal should see, get them written into a dealership IT support SLA, and compare.
+
+When the Breach Is at Your Vendor
+
+700Credit runs credit and identity checks for dealers from its offices in Southfield, a few minutes up the Lodge from downtown. On October 25, 2025 it found that someone had been pulling consumer records it had collected from dealers since May, getting in through a compromised integration partner. Names, addresses, birth dates and Social Security numbers. All of it. Michigan’s Attorney General put it at nearly 6 million people, more than 160,000 of them Michiganders.
+
+The dealers whose customers were in those records hadn’t been hacked. Their customers got letters anyway, because it was their customers’ data, collected at their F&I desks, and 700Credit mailed those letters on the dealers’ behalf and filed one consolidated notice with the FTC for them. That’s about as good as a vendor breach gets for a store. Plenty of vendors won’t do any of it for you. Ask yours now.
+
+The FTC Safeguards Rule makes watching your service providers part of your own program, and our dealership compliance team keeps a risk rating on every vendor that touches customer data. Our guide to evaluating dealership cybersecurity vendors covers the questions to ask before you sign. More stories are in Helion’s dealership case studies. Your vendor’s breach is still your customers’ breach.
+
+Your Vendor’s Breach, Your Notice
+
+Say a company that holds your customers’ credit applications gets broken into. Michigan law and the federal rule a dealership answers to each say who tells whom, and the order matters more than most stores think. Here’s the short version.
+
+RULE	WHO TELLS WHOM	DEADLINE	AT THE STORE
+Michigan breach law, MCL 445.72(2)	
+The vendor tells the dealership, the business that owns the data
+Vendor first	After the vendor discovers the breach, with no set number of days	A contract clause that says how fast a vendor has to tell you, and who at the store takes that call.
+Michigan breach law, MCL 445.72(1)	
+The dealership tells each affected Michigan resident
+No day count	Without unreasonable delay, with time allowed to find the scope	Logs kept long enough to show whose records were taken, so letters go out to the right people.
+Michigan breach law, MCL 445.72(8)	
+The nationwide credit reporting agencies, after the residents
+Over 1,000	When more than 1,000 Michigan residents get notices	Doesn’t apply to a business subject to the federal Gramm-Leach-Bliley privacy rules, so ask your attorney which side your store is on.
+FTC Safeguards Rule, 16 CFR 314.4	
+The dealership tells the FTC, when 500 or more consumers are involved
+Federal	30 days from discovery	A written security program that makes vendors keep safeguards in place by contract and gets them reassessed.
+
+Michigan doesn’t have a comprehensive consumer privacy law, so for a dealership here the state’s breach notice law and the federal rule do most of the work. Neither one cares much whose server got broken into. Under the FTC Safeguards Rule you have to pick vendors that can protect the data, hold them to it by contract and check on them from time to time, and the 30-day FTC notice covers your customers’ records wherever they sit. Thirty days goes quickly when the vendor takes two weeks to call. It happens. Read what dealers must report within 30 days.
+
+Your attorney decides how each rule applies to you, and our dealership compliance team keeps one written program that answers to both. Start with a Safeguards risk assessment template, keep an incident response plan template filled in, or compare states in dealership privacy laws by state.
+
+Who Picks Up When a Detroit Store Calls
+2,000+
+Dealerships under management nationwide
+35,000+
+Dealership employees supported daily
+98%
+Client retention rate
+82s
+Average time to reach a support agent
+Dealership Cybersecurity in Detroit
+
+In this town some of the security rules come straight from the factory. GM publishes dealer infrastructure and security guidelines for its stores, and our guide to OEM cybersecurity requirements covers the others dealers ask us about. Then there’s the outage nobody plans for. When the CDK Global outage hit in June 2024, Premier Truck Group, the heavy truck business of Bloomfield Hills-based Penske Automotive, kept its 48 locations open on manual and alternate processes, according to Penske’s own SEC filing. That only works if somebody wrote the plan down before the screens went dark. Write yours.
+
+CDK Global’s 2024 survey of dealers found that 35% had a cyberattack or incident that year, and 92% of them said it did real financial or operational damage. Our dealership cybersecurity work covers the store’s side. A live, US-based security operations center watches the network through managed detection and response, advanced endpoint detection and response guards the computers, and Microsoft 365 security closes the inbox where most attacks start. Security awareness training teaches staff what a fake vendor call sounds like, and penetration testing shows where an attacker would get in.
+
+Our DMS outage plan covers selling and servicing through a day without the DMS, and our help desk verifies every caller before it touches an account, so a voice claiming to be your vendor gets nowhere. Want to know where your logins, vendor access and backups stand? Start with a complimentary IT and cybersecurity assessment. We’ll write the gaps down.
+
+Where We Work Around Detroit
+
+Michigan has 617 franchised new-car dealers, according to NADA Data 2025, and around Detroit a lot of them line up along a few big roads, Telegraph Road, Woodward Avenue, Gratiot Avenue, Michigan Avenue and Grand River. Plenty of those stores belong to groups with rooftops in all three counties. Some run a dozen. A group that’s buying another store should read dealership acquisition IT integration before the closing. Dealers here are represented by the Michigan Automobile Dealers Association.
+
+Truck stores keep different hours. Earlier ones. A parts counter off I-94 near Detroit Metro Airport is busy before sunrise, the service bays run late, and the techs out on the road carry laptops full of customer data. We support Karmak and Procede shops alongside the car stores.
+
+Detroit
+Dearborn
+Southfield
+Troy
+Royal Oak
+Rochester Hills
+Warren
+Sterling Heights
+Novi
+Farmington Hills
+Livonia
+Canton
+Taylor
+Ann Arbor
+
+Your town isn’t on the list? That’s fine. We support automotive dealerships and heavy truck dealerships anywhere in the U.S. Truck groups with branches far apart can start with IT support for remote truck dealership branches. Stores in other metros? See our pages for Chicago, New York, Philadelphia, Boston, Baltimore, Washington, DC, Charlotte, Atlanta, Tampa Bay, Miami-Fort Lauderdale, Denver, Dallas-Fort Worth, Houston, Los Angeles and San Francisco.
+
+What a Detroit Metro Store Gets
+Managed IT
+
+One monthly number covers the help desk, monitoring and field dispatch, with nights and weekends included.
+
+Co-managed IT
+
+Your IT manager keeps the final say and gets a dealership-only team working behind them.
+
+Cybersecurity
+
+A live, US-based security operations center watching your network every hour of every day.
+
+Tekion enablement
+
+Conversion help, escalations and staff training for stores moving to Tekion, and support after go-live.
+
+Putting AI in front of staff or customers? Managed AI gives them a private, governed AI chat, and AI governance for dealerships covers the rules around it. Connecting a new tool to the DMS? Read how to connect generative AI to your DMS first, since every integration is one more vendor with a key. Weighing a DMS change? The DMS comparison lays out the options side by side, and the Tekion network requirements are worth reading before any move. Worried about losing data? Our backup and disaster recovery work covers it, and dealership network services add a second internet line that takes over on its own.
+
+Common Questions
+
+Already a client and need help right now? Reach support through the contact page.
+
+Does Helion Technologies offer dealership IT services in Detroit?
+What do managed IT services in Detroit cost a dealership?
+Does Helion have an office in Detroit?
+One of our vendors was breached. Do we have to tell our customers?
+Does Michigan have a consumer privacy law dealers have to follow?
+We already have an IT manager. Do we have to replace them?
+Do you support heavy truck dealers around Detroit?
+
+See where IT, security and vendor access stand at your Detroit metro stores.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Want a number first? Request a price quote or call (443) 541-1500.
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/","url":"https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/","name":"Dealership IT Services in Detroit | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-detroit-metro.webp","datePublished":"2026-10-23T14:38:16+00:00","dateModified":"2026-10-23T14:46:38+00:00","description":"Dealership IT services in Detroit, Oakland County, Macomb County and Ann Arbor from Helion Technologies. Managed IT, security and vendor risk. Help in 82s.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-detroit-metro.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-it-services-detroit-metro.webp","width":1200,"height":630,"caption":"Dealership IT services in Detroit from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-it-services-detroit\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Dealership IT Services in Detroit"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-it-services-detroit/","url":"https://heliontechnologies.com/dealership-it-services-detroit/","name":"Dealership IT Services in Detroit","description":"Dealership IT services in Detroit, Oakland County, Macomb County and Ann Arbor from Helion Technologies. Managed IT, security and vendor risk. Help in 82s.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-it-services-detroit-metro.webp","width":1200,"height":630},"about":{"@id":"https://heliontechnologies.com/dealership-it-services-detroit/#service"},"mentions":[{"@type":"Legislation","name":"Michigan data breach notification law (Identity Theft Protection Act)","legislationIdentifier":"MCL 445.72","legislationJurisdiction":"US-MI","url":"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-445-72"},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR 314.4","legislationJurisdiction":"US","url":"https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-314/section-314.4"},{"@type":"Organization","name":"Michigan Automobile Dealers Association","url":"https://www.michiganada.org/"},{"@type":"Organization","name":"700Credit","description":"Southfield, Michigan provider of credit checks to dealerships; reported a data breach discovered October 25, 2025"}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/dealership-it-services-detroit/#service","name":"Helion Dealership IT Services in Detroit","serviceType":"Dealership IT services","description":"Helion Technologies provides dealership IT services in Detroit, Oakland County, Macomb County, Downriver and Ann Arbor for automotive and heavy truck dealerships, including managed IT, co-managed IT, cybersecurity, vendor risk oversight, backup and disaster recovery, Tekion enablement and FTC Safeguards compliance, with an 82-second average time to reach a support agent and a 98% client retention rate.","url":"https://heliontechnologies.com/dealership-it-services-detroit/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":[{"@type":"AdministrativeArea","name":"Detroit metropolitan area"},{"@type":"City","name":"Detroit, Michigan"},{"@type":"City","name":"Dearborn, Michigan"},{"@type":"City","name":"Southfield, Michigan"},{"@type":"City","name":"Troy, Michigan"},{"@type":"City","name":"Royal Oak, Michigan"},{"@type":"City","name":"Rochester Hills, Michigan"},{"@type":"City","name":"Warren, Michigan"},{"@type":"City","name":"Sterling Heights, Michigan"},{"@type":"City","name":"Novi, Michigan"},{"@type":"City","name":"Farmington Hills, Michigan"},{"@type":"City","name":"Livonia, Michigan"},{"@type":"City","name":"Canton, Michigan"},{"@type":"City","name":"Taylor, Michigan"},{"@type":"City","name":"Ann Arbor, Michigan"},{"@type":"AdministrativeArea","name":"Wayne County, Michigan"},{"@type":"AdministrativeArea","name":"Oakland County, Michigan"},{"@type":"AdministrativeArea","name":"Macomb County, Michigan"},{"@type":"State","name":"Michigan"}],"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups in the Detroit metro, including Oakland, Macomb and Wayne counties and Ann Arbor"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Dealership IT services available in the Detroit metro","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed IT for dealerships","url":"https://heliontechnologies.com/support/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Co-managed IT for dealerships","url":"https://heliontechnologies.com/co-managed-it/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Backup and disaster recovery for dealerships","url":"https://heliontechnologies.com/backup-and-disaster-recovery/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tekion enablement","url":"https://heliontechnologies.com/tekion-services/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed AI for dealerships","url":"https://heliontechnologies.com/managed-ai/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-it-services-detroit/#faq","url":"https://heliontechnologies.com/dealership-it-services-detroit/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Does Helion Technologies offer dealership IT services in Detroit?","acceptedAnswer":{"@type":"Answer","text":"Yes. Helion Technologies supports automotive and heavy truck dealerships across Detroit, Oakland County, Macomb County, Downriver and Ann Arbor with managed IT, cybersecurity, Tekion support, backup and FTC Safeguards compliance. Most help is remote, a support agent answers in 82 seconds on average, and field technicians are dispatched for the jobs that need hands."}},{"@type":"Question","name":"What do managed IT services in Detroit cost a dealership?","acceptedAnswer":{"@type":"Answer","text":"It depends on how many stores you run and which services you pick, so we don't publish a rate card. What we can tell you is what's inside the price. After-hours calls, weekend coverage and field dispatch are part of the monthly number, so a Saturday outage in Warren doesn't come back weeks later as its own invoice. Comparing providers first? Read our look at the best managed IT providers for dealerships, then request a price quote for a real figure. The dealership IT budget checklist and our comparison of in-house vs managed IT help with next year's numbers."}},{"@type":"Question","name":"Does Helion have an office in Detroit?","acceptedAnswer":{"@type":"Answer","text":"No. Helion Technologies is headquartered in Baltimore, Maryland, and supports Detroit metro stores remotely, with field technicians dispatched when a job needs someone on site. Same time zone, too. Our guide to onsite vs remote IT support explains when that is. Whenever your Detroit stores are open, 7 days a week, the help desk is open too."}},{"@type":"Question","name":"One of our vendors was breached. Do we have to tell our customers?","acceptedAnswer":{"@type":"Answer","text":"Often, yes, because the records are still your customers' records. Under Michigan's breach law the vendor has to tell you, and the business that owns the data tells affected residents without unreasonable delay. Sometimes a vendor mails the letters for you, as 700Credit did for its dealers in 2025. Get that promise in writing. Your attorney confirms what's left on your side, including the FTC's 30-day notice."}},{"@type":"Question","name":"Does Michigan have a consumer privacy law dealers have to follow?","acceptedAnswer":{"@type":"Answer","text":"Not a comprehensive one. What a Michigan dealership answers to today is the state's breach notice law, part of the Identity Theft Protection Act, and the federal FTC Safeguards Rule, which covers any dealer that arranges financing. That still means a written security program, vendor oversight, multi-factor authentication and encryption. Short list. Long work."}},{"@type":"Question","name":"We already have an IT manager. Do we have to replace them?","acceptedAnswer":{"@type":"Answer","text":"Not at all. With co-managed IT, your IT manager keeps the keys, the vendor calls and the final say, while Helion adds the help desk, a co-managed security operations center and extra hands for the projects one person can't cover across Wayne, Oakland and Macomb counties. They stay in charge. They just stop working alone. A group without an IT leader at all can add a virtual CIO instead. Our co-managed IT responsibility matrix shows who owns what."}},{"@type":"Question","name":"Do you support heavy truck dealers around Detroit?","acceptedAnswer":{"@type":"Answer","text":"We do, and we have for years. A truck store along I-94 often runs a different DMS than the car store down the road, and its service trucks carry customer data off the lot every day. Different animal. Read heavy truck dealership cybersecurity, how the FTC Safeguards Rule applies to heavy truck dealers, and mobile service security for truck dealerships."}}]}]}
+

@@ -1,0 +1,281 @@
+URL: https://heliontechnologies.com/state-of-dealership-cybersecurity/?_hsenc=p2ANqtz-8JH_h4w7V7nZsVDCvD0rSnDF9xGU1TCS3RQLW6KCo3vwNDVD5IHKPeqgmvX-PDVpnwYekI&hsCtaTracking=3c1ae28d-e3c3-4e44-aa31-48921c5b1f51%7C53425fda-abb8-40fa-846d-7857d7ce6852
+Fetched: 2026-10-26T03:35:02Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/state-of-dealership-cybersecurity/?_hsenc=p2ANqtz-8JH_h4w7V7nZsVDCvD0rSnDF9xGU1TCS3RQLW6KCo3vwNDVD5IHKPeqgmvX-PDVpnwYekI&hsCtaTracking=3c1ae28d-e3c3-4e44-aa31-48921c5b1f51%7C53425fda-abb8-40fa-846d-7857d7ce6852
+Content-Type: text/html
+Via: chrome-headless
+Title: The State of Dealership Cybersecurity | Helion Technologies
+Meta description: The state of dealership cybersecurity: why automotive and heavy-truck dealerships are prime targets for cyberattacks and how to prepare (Helion, 2020).
+Canonical: https://heliontechnologies.com/state-of-dealership-cybersecurity/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: The State of Dealership Cybersecurity
+
+Skip to content
+Helion Technologies
+Services ▾
+Managed IT
+Managed Microsoft 365Backup and Disaster RecoveryAcquisition IT IntegrationIT Help DeskNetwork and Wi-Fi ManagementvCIO and IT Strategy
+Cybersecurity
+Managed Detection and ResponseSecurity Awareness TrainingPenetration TestingIncident Response
+Compliance
+FTC Safeguards ChecklistOEM Cybersecurity RequirementsISO 27001 vs TISAXPrivacy Laws by StateIncident Response TemplateRisk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDKTekion vs Reynolds
+Managed AI
+AI Readiness AssessmentSecure AI Chat
+DMS Transition
+DMS Comparison
+Industries ▾
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT SupportProcede IT SupportKarmak vs Procede
+Dealer GroupsLocations
+About ▾
+About HelionLeadershipSpeakingClient TestimonialsContact
+Working at Helion
+Resources ▾
+BlogCase Studies & DownloadsFAQsPressState of Dealership Cybersecurity
+Contact Us
+Client Portal
+Menu
+Menu
+Services
+Managed IT
+Managed Microsoft 365
+Backup and Disaster Recovery
+Acquisition IT Integration
+IT Help Desk
+Network and Wi-Fi Management
+vCIO and IT Strategy
+Cybersecurity
+Managed Detection and Response
+Security Awareness Training
+Penetration Testing
+Incident Response
+Compliance
+FTC Safeguards Checklist
+OEM Cybersecurity Requirements
+ISO 27001 vs TISAX
+Privacy Laws by State
+Incident Response Template
+Risk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDK
+Tekion vs Reynolds
+Managed AI
+AI Readiness Assessment
+Secure AI Chat
+DMS Transition
+DMS Comparison
+Industries
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT Support
+Procede IT Support
+Karmak vs Procede
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Contact
+Working at Helion
+Resources
+Blog
+Case Studies & Downloads
+FAQs
+Press
+State of Dealership Cybersecurity
+Contact Us
+Client Portal
+Report Dealership cybersecurity
+The State of Dealership Cybersecurity
+Published February 2020 · By Helion Technologies · 7 min read
+
+Key takeaways
+
+Automotive and heavy-truck dealerships are prime targets for cyberattacks because they keep customer, financing and employee data in one place. This February 2020 report from Helion Technologies explains why attackers go after dealers, what a breach can cost and how to prepare.
+
+A dealership’s CRM, F&I records and staff logins make it a valuable target, and one phishing email can open the door.
+A breach costs time and money to fix, and it can damage the reputation customers rely on when they choose a dealer.
+Under state privacy laws, a breach can also lead to fines or lawsuits, and baseline security controls help a dealership prepare.
+
+Topics
+
+Cybercrime at a Glance
+Why Dealerships Are Targets
+Who Is Behind the Attacks
+Reputation Risk
+Privacy Laws
+How to Prepare
+Common Questions
+
+Many dealers still underestimate how exposed their stores are.
+
+Some still treat cybersecurity as one more expense to control, and that is a costly mistake. Cybersecurity is a core business practice, and it matters more for dealerships each year as attacks become more common.
+
+Cybercrime at a Glance
+
+The figures below come from studies published between 2016 and 2019. Each one names its source and year, and together they describe the threat picture when this report was published in February 2020. For what is happening now, our monthly dealership cybersecurity news page logs each new incident with a public source.
+
+11 secA 2019 forecast predicted that ransomware would attack a business every 11 seconds by the end of 2021.
+Source: Cybersecurity Ventures, Official Annual Cybercrime Report (sponsored by Herjavec Group), 2019
+91%of cyberattacks start with a phishing email.
+Source: Dark Reading, reporting PhishMe research, 2016
+71%of ransomware attacks in 2018 targeted small and medium-size businesses.
+Source: Beazley, Beazley Breach Briefing, 2019
+$3.92Mwas the average cost of a data breach.
+Source: IBM Security and Ponemon Institute, Cost of a Data Breach Report, 2019
+25,575records were involved in the average data breach.
+Source: IBM Security and Ponemon Institute, Cost of a Data Breach Report, 2019
+2ndTransportation was the second-most targeted industry in 2018.
+Source: IBM X-Force Threat Intelligence Index, 2019
+Back to Topics
+Why Do Cybercriminals Target Dealerships?
+
+Think about the data a dealership collects and stores every day: customer names, addresses, email addresses and phone numbers in the CRM; bank details and Social Security numbers gathered in F&I; and employees’ usernames and passwords.
+
+Daily operations require a dealership to hold private information for thousands, often tens of thousands, of customers and employees. That makes it a data goldmine for criminals, and sometimes a single phishing email is all it takes to get in. Helion’s post on the anatomy of a phishing attack walks through two real incidents at dealerships.
+
+Back to Topics
+Who Is Behind the Attacks?
+
+Picture a cyberattack and you may imagine a bored teenager breaking into a server for fun. That picture badly underestimates the people dealerships are up against.
+
+Most of today’s attackers work for large multinational crime organizations, and some of those groups are state-sponsored. The work pays well enough to draw smart, technically skilled people from around the world, and the pay grows with experience. Helion’s post on who cybercriminals are looks at the people behind the attacks and what drives them.
+
+Many dealerships are still not doing nearly enough to protect themselves. Rather than investing in stronger security controls and policies, some ignore the problem and hope for the best. As long as cybersecurity is treated only as an expense to control, the business stays exposed.
+
+Back to Topics
+How Can a Breach Affect a Dealer’s Reputation?
+
+A breach costs time and money, because it takes real resources to respond to an attack and recover from it. It also puts something harder to rebuild at risk: the dealership’s reputation.
+
+Most dealerships sell the same vehicles at similar prices, so reputation is one of the few things that sets one store apart from another. Customers notice when their data is exposed.
+
+84%
+
+of consumers said they would not buy another car from a dealership after their data had been compromised.
+
+Source: Total Dealer Compliance survey, via Auto Remarketing, 2016
+
+News of a breach travels fast. Between online reviews and social media, customers talk to each other more quickly than ever, and a dealer’s reputation can take a lasting hit. Helion’s post on how a data breach could sink a dealership looks at that risk in more detail.
+
+An attack is not a crisis that ends once the systems are restored. Its effect on a dealership’s bottom line can last for years.
+
+Back to Topics
+How Do Privacy Laws Raise the Stakes?
+
+Time, money and reputation are not the only things a breach puts at stake. Under new consumer data privacy laws, a breach can also bring legal trouble, including fines or lawsuits.
+
+California’s CCPA, New York’s SHIELD Act and Ohio’s Data Protection Act had already passed when this report was published, and a federal consumer privacy law was under discussion.
+
+25+
+
+states, plus Puerto Rico, saw consumer data privacy bills introduced in 2019.
+
+Source: National Conference of State Legislatures, 2019
+
+Many of these laws ask for similar things, including baseline security controls. Putting those controls in place now helps a dealership prepare for new and changing rules.
+
+Back to Topics
+How Should a Dealership Prepare?
+
+Lowering the risk of a breach and protecting a dealership’s reputation both start with sound security practices. A dealership can begin with the basics on its own:
+
+1.Train your people. Staff who can spot a phishing email close off one of the most common ways in.
+2.Secure your network. Review hardware and software, limit administrative access and watch for vulnerabilities. Helion’s tips for preventing a data breach cover these steps.
+3.Market with care. Follow sound practices for the customer data that digital marketing collects.
+
+Those steps lower the risk, but they are only a start. Defining and running dealership security well takes people trained and certified in cybersecurity, and in many dealerships IT security falls to someone who is neither.
+
+30%of dealers employed a network engineer with computer security certifications or training.
+25%of dealers had hired an outside firm to test their networks for vulnerabilities.
+70%+of dealers were not up to date on their antivirus software.
+Source: Total Dealer Compliance survey, via Auto Remarketing, 2016
+
+One breach could sink a dealership, so trusting its systems and data to someone without that expertise is a risk it does not need to take. Putting IT security best practices in place takes a team that knows both data security and the business of selling and servicing cars and trucks.
+
+Many dealerships keep their own IT staff for on-site and hardware work and add Helion for depth, such as advanced cybersecurity monitoring and extra technical resources. The dealership cybersecurity page has more.
+
+Back to Topics
+Common Questions
+What dealership data do cybercriminals want?
+Are small dealerships at risk, or only large dealer groups?
+How does a data breach hurt a dealership beyond the cost of recovery?
+Do state privacy laws apply to car dealerships?
+What security basics should every dealership have in place?
+Are the statistics in this report still current?
+Back to Topics
+
+About Helion
+
+Helion Technologies
+
+Helion Technologies has worked exclusively with automotive and heavy-truck dealerships for nearly 30 years. Founded in 1997 and based in Baltimore, Maryland, it supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, Tekion enablement, DMS transition support and managed AI. Its founder, Erik Nachbahr, is a CISSP.
+
+About Helion Technologies
+
+Complimentary assessment
+
+Is Your Dealership Secure?
+
+Helion’s complimentary IT and cybersecurity assessment gives better insight into your dealership’s cybersecurity posture and information on how to strengthen its defenses. Request one and a Helion representative contacts you to schedule it.
+
+Request a Complimentary Assessment
+
+Prefer to talk first? Call (443) 541-1500.
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★ 4.9 · 244 Google Reviews
+
+in
+Services
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+Industries
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+Resources
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved. support@heliontechnologies.com Support RequestPrivacy Policy Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/state-of-dealership-cybersecurity\/","url":"https:\/\/heliontechnologies.com\/state-of-dealership-cybersecurity\/","name":"The State of Dealership Cybersecurity | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"datePublished":"2020-02-27T17:31:45+00:00","dateModified":"2026-10-03T01:54:33+00:00","description":"The state of dealership cybersecurity: why automotive and heavy-truck dealerships are prime targets for cyberattacks and how to prepare (Helion, 2020).","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/state-of-dealership-cybersecurity\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/state-of-dealership-cybersecurity\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/state-of-dealership-cybersecurity\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"The State of Dealership Cybersecurity"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"FAQPage","@id":"https://heliontechnologies.com/state-of-dealership-cybersecurity/#faq","url":"https://heliontechnologies.com/state-of-dealership-cybersecurity/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What dealership data do cybercriminals want?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies points to three kinds of data that make dealerships attractive to attackers: customer contact details in the CRM, bank and Social Security information collected in F&I, and employees' usernames and passwords. A dealership holds this data for thousands of customers and staff, so a single successful phishing email can expose a great deal. That is why dealership security has to cover people and email as well as systems."}},{"@type":"Question","name":"Are small dealerships at risk, or only large dealer groups?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies treats every dealership as a potential target, whatever its size. Attackers look for valuable data and weak defenses, and in 2018 small and medium-size businesses drew a large share of ransomware attacks. A single-rooftop store holds the same kinds of customer and financing data as a large dealer group, and it may have fewer people watching its systems, which can make it easier to break into."}},{"@type":"Question","name":"How does a data breach hurt a dealership beyond the cost of recovery?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies points to reputation as a cost that lasts well beyond the recovery. Most dealerships sell the same vehicles at similar prices, so reputation is one of the few things that sets a store apart, and customers who learn their data was exposed may take their business elsewhere. Word spreads quickly through online reviews and social media, and the effect on sales can last for years."}},{"@type":"Question","name":"Do state privacy laws apply to car dealerships?","acceptedAnswer":{"@type":"Answer","text":"They can. Dealerships collect personal and financial information from consumers, and state laws such as California's CCPA and New York's SHIELD Act set rules for protecting that kind of information and for what happens after a breach. Depending on the law, a breach can lead to fines or lawsuits. Many of these laws expect similar baseline security controls, and legal counsel can confirm which laws apply to a given dealership."}},{"@type":"Question","name":"What security basics should every dealership have in place?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies recommends starting with three basics: training staff to recognize phishing, securing the network by reviewing hardware and software and limiting administrative access, and handling customer data carefully in digital marketing. These steps lower the risk but do not replace cybersecurity expertise. Many dealerships keep their own IT staff for on-site and hardware work and add Helion for depth, such as advanced cybersecurity monitoring."}},{"@type":"Question","name":"Are the statistics in this report still current?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies published this report in February 2020, and its figures come from studies released between 2016 and 2019. Each figure on the page names its source and year so it can be read in context. The figures describe the threat picture at that time, and more recent studies may report different numbers. The report's main points do not depend on any single figure."}}]}]}
+

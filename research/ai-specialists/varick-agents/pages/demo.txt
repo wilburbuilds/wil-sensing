@@ -1,0 +1,227 @@
+URL: https://audit.varickagents.com/demo
+Fetched: 2026-10-26T03:35:40Z
+HTTP status: 200
+Final URL: https://audit.varickagents.com/demo
+Content-Type: text/html
+Via: chrome-headless
+Title: Finance Operations Diagnostic — Varick Agents
+Meta description: Audit deliverable for finance operations diagnostic engagement
+Canonical: 
+Robots: 
+H1: The Audit
+
+V
+VARICK
+AUDIT DELIVERABLE
+CHAPTERS
+01
+The Audit
+02
+The Findings
+03
+The Plan
+←
+Back to Overview
+Confidential
+Finance Operations Diagnostic
+The Audit
+$4B Industrial Manufacturer · 280-Person Finance Org
+Audit Complete
+CHAPTER 01
+The Audit
+
+4 weeks embedded with your finance team. 14 people interviewed. 7 systems accessed. Every workflow documented, every exception categorized, every gap quantified.
+
+14
+Team members interviewed
+7
+Systems accessed
+23
+Workflows documented
+31
+Automation opportunities
+4-WEEK ENGAGEMENT TIMELINE
+Week 1
+DC
+Feb 3
+Kickoff + Scope Alignment
+David Chen, CFO · Sarah Mitchell, Controller
+MR
+Feb 4
+AP Invoice Intake — Full Process Shadow
+Maria Rodriguez, AP Team Lead
+NetSuite
+Outlook
+Ramp
+AP
+Feb 5
+AP Exception Handling Workflow
+Aleksandra Pymont, AP Analyst
+NetSuite
+Excel
+Outlook
+JT
+Feb 6
+Procure-to-Pay Flow Mapping
+James Thompson, Procurement Coordinator
+NetSuite
+Ramp
+Shared Drive
+LP
+Feb 7
+AR Collections + Cash Application
+Lisa Park, AR Team Lead
+NetSuite
+Bank Portal
+Excel
+Week 2
+RF
+Feb 10
+Intercompany Reconciliation Shadow
+Rachel Foster, Senior Accountant
+NetSuite
+Oracle
+Excel
+MW
+Feb 11
+Treasury — Daily Cash Position Assembly
+Michael Wu, Treasury Analyst
+Bank Portal
+Excel
+NetSuite
+KO
+Feb 12
+FP&A Variance Analysis Process
+Katherine Okafor, FP&A Lead
+NetSuite
+Ramp
+Snowflake
+Excel
+BN
+Feb 13
+Ramp + NetSuite Integration Review
+Brian Nakamura, AP Specialist · Sarah Mitchell, Controller
+Ramp
+NetSuite
+SM
+Feb 14
+Close Management — Full Entity View
+Sarah Mitchell, Controller
+NetSuite
+Excel
+Outlook
+Week 3
+Feb 17
+Exception Pattern Analysis
+NetSuite
+Excel
+Feb 18
+Cross-System Data Flow Mapping
+NetSuite
+Oracle
+Ramp
+Snowflake
+Feb 19
+Time Allocation Study
+Feb 20
+Process Map Construction
+Feb 21
+Conformance Gap Analysis
+Week 4
+Feb 24
+Automation Opportunity Identification
+Feb 25
+Implementation Roadmap Design
+Feb 26
+ROI Modeling + Business Case
+Feb 27
+Internal QA + Deliverable Assembly
+Feb 28
+Final Review + Handoff Prep
+TEAM MEMBERS INTERVIEWED
+DC
+David Chen
+CFO · Executive
+SM
+Sarah Mitchell
+Controller · Financial Control
+MR
+Maria Rodriguez
+AP Team Lead · Accounts Payable
+AP
+Aleksandra Pymont
+AP Analyst · Accounts Payable
+JT
+James Thompson
+Procurement Coordinator · Procurement
+LP
+Lisa Park
+AR Team Lead · Accounts Receivable
+RF
+Rachel Foster
+Senior Accountant · Accounting
+MW
+Michael Wu
+Treasury Analyst · Treasury
+KO
+Katherine Okafor
+FP&A Lead · Financial Planning
+BN
+Brian Nakamura
+AP Specialist · Accounts Payable
+DK
+Diana Kovacs
+AR Analyst · Accounts Receivable
+TB
+Tom Brennan
+Staff Accountant · Accounting
+PS
+Priya Sharma
+Expense Manager · Expense Management
+CM
+Carlos Medina
+Tax Analyst · Tax
+SYSTEMS ACCESSED
+NetSuite
+Primary ERP
+
+6 systems connected — 3 with broken integrations
+
+Snowflake
+Data Warehouse
+
+Automatic sync from NetSuite
+
+Oracle
+Legacy ERP (2 entities)
+Action needed
+
+Intercompany matching is entirely manual — depends on one person's cheat sheet
+
+Ramp
+Corporate Spend
+Action needed
+
+400–600 transactions manually re-categorized to NetSuite GL codes every close
+
+Bank Portals
+6 accounts, 3 currencies
+Action needed
+
+Cash position assembled manually in Excel every morning — stale by delivery
+
+Concur
+Travel expenses (3 entities)
+
+Not integrated with NetSuite — duplicate process alongside Ramp
+
+Excel
+Used everywhere
+
+Close checklists, aging reports, cash position, FX tracking, variance analysis
+
+Automatic
+Manual
+Broken
+Next Chapter: The Findings
+

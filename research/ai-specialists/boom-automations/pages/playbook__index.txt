@@ -1,0 +1,29 @@
+URL: https://playbook.boomautomations.com/
+Fetched: 2026-10-26T03:46:05Z
+HTTP status: 200
+Final URL: https://playbook.boomautomations.com/
+Content-Type: text/html
+Via: chrome-headless
+Title: The AI & Automation Agency Master Playbook | Luke Pierce
+Meta description: The complete guide to positioning, selling, delivering, and scaling an AI agency, plus the complete Pricing Guide. Free from Luke Pierce.
+Canonical: 
+Robots: 
+H1: Get Access to Luke Pierce's AI & Automation Agency Master Playbook
+
+FREE RESOURCE
+Get Access to Luke Pierce's AI & Automation Agency Master Playbook
+
+The complete guide to positioning, selling, delivering, and scaling high-leverage automation systems — from someone who's actually done it with 80+ teams.
+
+Downloaded by 4,195 people
+Includes the complete Pricing Guide
+Send Me The Playbook
+
+No spam. Unsubscribe anytime.
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=text name="" id="" label="" placeholder="First Name" aria="" required=false
+  - input type=email name="" id="" label="" placeholder="Email Address" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

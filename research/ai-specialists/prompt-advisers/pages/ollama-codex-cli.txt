@@ -1,0 +1,132 @@
+URL: https://www.promptadvisers.com/ollama-codex-cli
+Fetched: 2026-10-26T03:45:13Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/ollama-codex-cli
+Content-Type: text/html
+Via: chrome-headless
+Title: Ollama Codex CLI: How to Save Your Astra Tokens
+Meta description: Ollama Codex CLI setup lets you offload grunt work to free or cheap models and save premium Astra tokens for the hard problems.
+Canonical: https://www.promptadvisers.com/ollama-codex-cli
+Robots: 
+H1: Ollama Codex CLI: How to Save Your Astra Tokens
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · AI TUTORIALS
+
+Ollama Codex CLI: How to Save Your Astra Tokens
+
+Ollama Codex CLI setup lets you offload grunt work to free or cheap models and save premium Astra tokens for the hard problems.
+
+MARK KASHEF
+SEPTEMBER 21, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+Ollama Codex CLI setup lets you swap Codex's default OpenAI models for free local ones or cheaper cloud ones, so you stop burning premium Astra tokens on grunt work. Install Ollama, add it to Codex as a model provider, then tell Codex to configure a local or cloud-based open model that fits your machine. Mark ran this on his own YouTube pipeline, keeping Astra for planning and routing filming guides and research to GLM 5.3 and a local Gemma model instead.
+
+TL;DR
+
+GLM 5.3 runs 10 to 20 times cheaper than GPT-6 Astra for the same request, since Astra charges $10 per million input tokens and $50 per million output tokens.
+A $20 Ollama Cloud credit pack is worth about $60 of usage, and running a cheap model like Flash through it stretches roughly as far as another $100 to $200 spent on your Codex plan.
+Setup takes one click in Ollama's settings for cloud models, plus a single prompt telling Codex to inspect your hardware and wire in a local, tool-capable model like Gemma 3.
+Mark ran a three-agent workflow (Astra planning, GLM research, local Gemma shortlisting) that finished a hardware comparison task in about 10 minutes without spending a single Astra token on the grunt work.
+How Ollama Codex CLI Setup Works
+
+Ollama Codex CLI setup starts with the cloud models, which take exactly one click once Ollama is installed. Go to ollama.com, download the app, open Settings, scroll to Apps, and click "Add to Codex." Every cloud-based model in Ollama's picker shows up inside Codex right away, ready to swap in for any task.
+
+WATCH ON YOUTUBE
+
+Local models take one extra step, since Codex has to know what your hardware can handle. Give it a prompt like: "Inspect my computer's memory, GPU, and free disk space. Choose a tool-capable local model that fits comfortably, reuse one if I already have it, connect it through Ollama, and preserve my current cloud models and defaults." Codex downloads or reuses a matching model and wires it in. Restart the app and test it with a couple of throwaway chats before trusting it with real work.
+
+Join Early AI-dopters, 1,000+ people mastering Claude Code and Codex. Mark walks through his full model-routing setup inside the community.
+
+Does Ollama Work With Codex CLI for Local Models?
+
+Yes, but local models don't get the same one-click setup cloud models do. The "Add to Codex" plugin only wires in Ollama's cloud-hosted models out of the box. Running a model locally takes the hardware-inspection prompt above, since not every open-weight model can reliably call tools inside the Codex harness.
+
+Once connected, nothing else about your workflow changes. You still invoke your existing slash commands and hold a normal conversation, just on a model that costs nothing per token instead of a metered one.
+
+How Much Money Does Switching Models in Codex Actually Save?
+
+Switching from Astra to a cheaper model for routine tasks can cut per-request cost by 10 to 20 times. GPT-6 Astra runs $10 per million input tokens and $50 per million output, while GLM 5.3 and its Flash variant run a fraction of that for comparable results.
+
+	GPT-6 ASTRA	GLM 5.3 (CLOUD)	LOCAL MODEL (GEMMA, GPT-OSS)
+Input cost	$10 / million tokens	10 to 20x cheaper	$0
+Output cost	$50 / million tokens	10 to 20x cheaper	$0
+Best for	Novel, deep agentic coding	Mid-tier SOP execution, filming guides	Free grunt work if hardware allows
+Setup	Built into Codex	One click in Ollama settings	One prompt, needs local specs
+
+That math extends to the cloud credits themselves. A $20 Ollama Cloud pack buys about $60 of usage, and running it through a fast, cheap model can stretch as far as another $100 to $200 spent staying on your normal Codex plan. As models like GLM 5.6 and DeepSeek 5 close the gap with frontier models, Mark expects open models to handle 80% of day-to-day knowledge work within a couple of months, as long as your agentic OS has the infrastructure to support it.
+
+Building a Multi-Model Workflow in Codex
+
+The real payoff shows up once you stop thinking "one model per project" and start routing tasks by tier. Mark's test case: research the best current hardware for running local models, like a Mac Studio or Mac Mini, and recommend a pick. He told Astra to spin up two threads, one on GLM to fetch the latest specs, one on a local Gemma 3 model to take those findings and build a shortlist.
+
+Ten minutes later, GLM had pulled the Mac Studio and Mac Mini specs and handed them to the Gemma thread, which built a shortlist and passed it back to Astra, which turned it into a diagram explaining the recommendation. Only planning and final synthesis touched Astra. Everything in between ran on models that cost a fraction as much or nothing at all. This is the same layered thinking behind a good local AI setup: let the frontier model plan and finish, and push the middle steps down the cost ladder.
+
+Final Thoughts from Mark
+
+This isn't about ditching Astra, it's about being deliberate with where you spend it. Plan and finish with your best model, and let cheaper or free models carry the steps in between. Give it a month or two, and this routing habit will be worth even more than it is today.
+
+Ollama Codex CLI FAQs
+
+What is Ollama and how does it work with Codex CLI?
+
+Ollama is a free app that runs open-weight models on your own computer or through its own cloud credits. Codex added it as a one-click provider under Settings, Apps, Add to Codex, so cloud-based Ollama models show up in the model picker immediately.
+
+Do I need a powerful computer to run local models in Codex?
+
+No, but the model has to fit your hardware and support tool calling. Tell Codex to inspect your memory, GPU, and free disk space, and it will pick or download a tool-capable model like Gemma 3 that fits comfortably.
+
+Will switching models in Codex lose my conversation context?
+
+No. Codex passes the same transcript and context window to whichever model you pick, so switching from Astra to GLM or a local model mid-project loses nothing.
+
+Is Ollama Cloud free to use with Codex?
+
+Local models on your own hardware run at no cost. Ollama Cloud's hosted models like GLM 5.3 are paid but cheap, with $20 of credit buying roughly $60 worth of usage.
+
+Which local model should I use for tool calling in Codex?
+
+Mark uses Gemma 3, but the right pick depends on your machine's specs. Ask Codex to inspect your hardware and choose a tool-capable model that leaves headroom for your other apps.
+
+More detail lives in Ollama's own Codex integration guide, the official Ollama docs for Codex, and OpenAI's Codex documentation. If your team wants a full model-routing setup built for you, that's the kind of project we take on in enterprise AI consulting.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/ollama-codex-cli#article","headline":"Ollama Codex CLI: How to Save Your Astra Tokens","description":"Ollama Codex CLI setup lets you offload grunt work to free or cheap models and save premium Astra tokens for the hard problems.","image":["https://www.promptadvisers.com/blog/ollama-codex-cli/ollama-codex-cli-hero.webp"],"datePublished":"2026-09-21T00:00:00-05:00","dateModified":"2026-09-21T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/ollama-codex-cli","keywords":"Ollama Codex CLI, run local models in Codex, Codex local model setup, GLM vs Astra cost, Ollama Cloud Codex","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Ollama Codex CLI: How to Save Your Astra Tokens","description":"Ollama Codex CLI setup lets you offload grunt work to free or cheap models and save premium Astra tokens for the hard problems.","thumbnailUrl":["https://i.ytimg.com/vi/575v0WYJQsE/maxresdefault.jpg"],"uploadDate":"2026-09-16T00:00:00-05:00","duration":"PT8M26S","contentUrl":"https://www.youtube.com/watch?v=575v0WYJQsE","embedUrl":"https://www.youtube-nocookie.com/embed/575v0WYJQsE","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Ollama and how does it work with Codex CLI?","acceptedAnswer":{"@type":"Answer","text":"Ollama is a free app that runs open-weight models on your own computer or through its own cloud credits. Codex added it as a one-click provider under Settings, Apps, Add to Codex, so cloud-based Ollama models show up in Codex's model picker immediately, right alongside the built-in OpenAI models."}},{"@type":"Question","name":"Do I need a powerful computer to run local models in Codex?","acceptedAnswer":{"@type":"Answer","text":"No, but the model has to fit your hardware and support tool calling. Tell Codex to inspect your memory, GPU, and free disk space, and it will pick or download a tool-capable model like Gemma 3 that fits comfortably, rather than one that maxes out your machine."}},{"@type":"Question","name":"Will switching models in Codex lose my conversation context?","acceptedAnswer":{"@type":"Answer","text":"No. Codex passes the exact same transcript and context window to whichever model you pick, so switching from Astra to GLM or a local model mid-project loses nothing. You can prime context on one model and keep working on another without repeating yourself."}},{"@type":"Question","name":"Is Ollama Cloud free to use with Codex?","acceptedAnswer":{"@type":"Answer","text":"Local models on your own hardware run at no cost. Ollama Cloud's hosted models like GLM 5.3 are paid but cheap, with $20 of credit buying roughly $60 worth of usage, and a fast model like Flash can stretch that even further."}},{"@type":"Question","name":"Which local model should I use for tool calling in Codex?","acceptedAnswer":{"@type":"Answer","text":"Mark uses Gemma 3 for local tool-calling tasks, but the right pick depends on your machine's specs. Ask Codex itself to inspect your hardware and choose a tool-capable model that leaves headroom for your other apps, since not every local model can reliably invoke tools inside the Codex harness."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Ollama Codex CLI: How to Save Your Astra Tokens","item":"https://www.promptadvisers.com/ollama-codex-cli"}]}]
+

@@ -1,0 +1,35 @@
+URL: https://helloparalegal.com/pricing
+Fetched: 2026-10-26
+Source: public page bundle https://helloparalegal.com/_next/static/chunks/app/pricing/page-ab0252bb9a5ceac6.js
+Note: The crawler’s visible text on pricing.txt lists the questions only. These answers are the strings in that public bundle. They render after the accordion is opened. No form was submitted and no accordion was clicked.
+
+Q: How much does it cost to hire a paralegal?
+A: We offer tailored solutions based on each client’s specific needs. Paralegals managed by Hello Paralegal are available for full-time (40 hours/week) roles or flexible, on-demand freelance work. Most paralegals start at just $5/hour. We also provide recruitment agency services if you're hiring for your in-house team. In this case, when your future paralegal signs an offer, we charge a one-time fee equal to 5% of their first-year salary, depending on the number of hires you make.
+
+Q: Are there any hidden fees?
+A: No, we believe in transparent pricing. The cost you are quoted is the price you will pay, with no hidden fees or surprise charges.
+
+Q: Is there a minimum contract length?
+A: No, we offer flexible contract terms. You can hire a paralegal for as long as you need, whether it’s for a short-term project or a long-term partnership.
+
+Q: Can I hire a paralegal for part-time work?
+A: Yes, you can hire a paralegal on a part-time basis depending on your needs. We offer flexibility in the number of hours your paralegal works to ensure you get the support you need.
+
+Q: How quickly can I hire a paralegal?
+A: Once we gather your requirements on a call, we can typically match you with a qualified paralegal within a few hours. Our streamlined process ensures you get the help you need fast.
+
+Q: Can I change my paralegal if I’m not satisfied?
+A: Yes, if you're not completely satisfied with your paralegal, we offer a replacement policy. We’ll work to find a better fit for your needs.
+
+Q: How are the paralegals vetted?
+A: All of our paralegals are rigorously vetted for qualifications, experience, and skills. We ensure that each candidate has the necessary certifications and a proven track record in their specific legal field.
+
+Q: Do I need to sign a long-term commitment to hire a paralegal?
+A: No long-term commitment is required. Whether you need a paralegal for a short-term project or ongoing assistance, we offer flexible solutions to meet your business’s needs.
+
+Q: How do I get started with hiring a paralegal?
+A: Getting started is easy. Simply fill out the Get Started form and schedule a call with us. Check out our Get Started page for more information.
+
+Q: Is there a discount for hiring multiple paralegals?
+A: Yes, we offer pricing packages for businesses that need to hire multiple paralegals. Schedule a call to discuss the details and receive a customized offer based on your team’s needs.
+

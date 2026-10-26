@@ -1,0 +1,226 @@
+URL: https://heliontechnologies.com/5-tech-upgrades-your-dealership-needs-to-sell-cars-online/
+Fetched: 2026-10-26T03:34:18Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/5-tech-upgrades-your-dealership-needs-to-sell-cars-online/
+Content-Type: text/html
+Via: chrome-headless
+Title: 5 Tech Upgrades Dealerships Need to Sell Cars Online
+Meta description: 5 tech upgrades your dealership needs to sell cars online: Automotive News says the era of online car sales has arrived. Are you ready?
+Canonical: https://heliontechnologies.com/5-tech-upgrades-your-dealership-needs-to-sell-cars-online/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: 5 Tech Upgrades Your Dealership Needs to Sell Cars Online
+
+Skip to content
+Helion Technologies
+Services ▾
+Managed IT
+Managed Microsoft 365Backup and Disaster RecoveryAcquisition IT IntegrationIT Help DeskNetwork and Wi-Fi ManagementvCIO and IT Strategy
+Cybersecurity
+Managed Detection and ResponseSecurity Awareness TrainingPenetration TestingIncident Response
+Compliance
+FTC Safeguards ChecklistOEM Cybersecurity RequirementsISO 27001 vs TISAXPrivacy Laws by StateIncident Response TemplateRisk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDKTekion vs Reynolds
+Managed AI
+AI Readiness AssessmentSecure AI Chat
+DMS Transition
+DMS Comparison
+Industries ▾
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT SupportProcede IT SupportKarmak vs Procede
+Dealer GroupsLocations
+About ▾
+About HelionLeadershipSpeakingClient TestimonialsContact
+Working at Helion
+Resources ▾
+BlogCase Studies & DownloadsFAQsPressState of Dealership Cybersecurity
+Contact Us
+Client Portal
+Menu
+Menu
+Services
+Managed IT
+Managed Microsoft 365
+Backup and Disaster Recovery
+Acquisition IT Integration
+IT Help Desk
+Network and Wi-Fi Management
+vCIO and IT Strategy
+Cybersecurity
+Managed Detection and Response
+Security Awareness Training
+Penetration Testing
+Incident Response
+Compliance
+FTC Safeguards Checklist
+OEM Cybersecurity Requirements
+ISO 27001 vs TISAX
+Privacy Laws by State
+Incident Response Template
+Risk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDK
+Tekion vs Reynolds
+Managed AI
+AI Readiness Assessment
+Secure AI Chat
+DMS Transition
+DMS Comparison
+Industries
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT Support
+Procede IT Support
+Karmak vs Procede
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Contact
+Working at Helion
+Resources
+Blog
+Case Studies & Downloads
+FAQs
+Press
+State of Dealership Cybersecurity
+Contact Us
+Client Portal
+Resources / Blog
+5 Tech Upgrades Your Dealership Needs to Sell Cars Online
+By Erik NachbahrNovember 13, 2017 · 5 min read
+
+A recent article in Automotive News states the era of online car sales has arrived. Some dealerships already offer customers the ability to transact most, if not all, of the purchase experience online. AutoNation CEO Mike Jackson said that in January 2017, 30 percent of AutoNation’s new-vehicle sales were transacted online.
+
+Experts predict this trend is about to be fast tracked, and many dealerships are within a year or two of being able to offer the entire vehicle-purchase experience online.
+
+But there’s one aspect of the online car sales experience that many dealers overlook as they begin exploring this option: their IT infrastructure. As your dealership evaluates online shopping portals, new F&I and leasing apps, and other technologies that allow you to move the car-buying experience online, it’s important to also evaluate whether or not your IT infrastructure can support the increased data.
+
+In order to offer a fast, seamless and secure online transaction, the majority of dealers will need to make upgrades in the following areas:
+
+Internet
+
+Have your applications been feeling sluggish lately? Are you still using T-1 or DSL based Internet at your dealership? Many popular dealership applications are now web based or otherwise utilizing your Internet connections to operate. Add on customer WiFi and other increasing demands to have it be just as good as at home, and you are likely at full capacity on your current connection. If you also don’t have a backup you can be completely down when a carrier experiences an outage.
+
+Slowness definitely hurts. Your employees are less efficient, your customers can be dissatisfied and you can lose money from lost time to poor CSI scores.
+
+There are plenty of options for upgrades. Fiber optic services are fast and can be easily upgraded as needs further increase. A best case scenario would be redundant fiber connections or a primary fiber and a coax or similar backup connection.
+
+Hardware
+
+Servers, switches, PCs and routers that were manufactured more than five years ago do not have the processing capacity to handle the large amounts of data involved with online vehicle transactions. Additionally, many dealership networks are still using Small-Office/Home-Office (SOHO) hardware that they picked up at a local retailer.
+
+If you’re planning to sell cars online, the large amounts of bandwidth and processing capacity involved requires upgrading to enterprise-grade equipment. Benchmark recommendations include:
+
+• If your server is older than three years, purchase a new one. If you don’t have a centralized server set-up, you’ll need to implement one for security purposes.
+• If your PCs are older than five years, purchase new ones.
+• Check your network switches; 100 Mbps switches are obsolete and will need to be upgraded to Gigabit switches.
+• WiFi routers. These need to be enterprise-grade; Cisco/Meraki brand routers are best in class. For security purposes routers should also be cloud-managed.
+
+Communication Systems
+
+When you start selling cars online, do you really want your salespeople and F&I people to be texting and calling customers using their personal cell phones? If you’re not sure of the answer, let me make it clear: NO YOU DON’T. For multiple reasons, security being high among them, all customer communications should be sent over a secure network and tracked, just as all documentation will need to be tracked.
+
+Online chat tools, texting apps and Unified Communications Platforms (UCPs) are all systems that can be integrated with your CRM and/or DMS platforms to create secure, trackable and seamless communications channels.
+
+Security
+
+When a customer purchases a vehicle online they’ll be required to enter their personal and sensitive information into a website form. It’s your dealership’s responsibility to ensure that all this data is protected. Collecting and storing social security numbers, birth dates, addresses, bank account numbers and credit card numbers online is no small matter. That’s the type of information that hackers love to target.
+
+To sell vehicles online, your dealership will need to create a virtual fortress. A benchmark recommendation is to hire a trained IT security consultant to oversee this important task. This is not something you want to mess around with.
+
+Wireless
+
+An important value-add that your dealership can offer that other online shopping sites may not be able to offer is a live, virtual walk-around. If a customer is interested in a particular vehicle, a salesperson can run outside and use a tablet or phone to start a two-way video chat that allows the customer to view the vehicle up close in real-time and ask questions.
+
+This type of service, along with other up and coming location-based technologies, requires a robust wireless network that extends coverage to the edges of your dealership’s lot. For the average-size dealership, this will require a minimum of 25 enterprise-grade WiFi routers. Yes, you read that right. No, that’s not a typo. Trust me, I know.
+
+More vendors are coming out with very cool front-end apps, portals and other technologies to help make online car sales a reality. As dealers evaluate the risks, costs and benefits involved, it’s important to factor in the necessary upgrades to IT infrastructures. These benchmark recommendations should help.
+
+About the author
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles  
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★4.9 · 244 Google Reviews
+
+Recent Articles
+
+AI Phishing Lures Aimed at Dealership Ad AccountsOctober 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the PlanOctober 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership CallerOctober 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a DealershipOctober 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★ 4.9 · 244 Google Reviews
+
+in
+Services
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+Industries
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+Resources
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved. support@heliontechnologies.com Support RequestPrivacy Policy Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"5 Tech Upgrades Your Dealership Needs to Sell Cars Online","datePublished":"2017-11-13T19:30:36+00:00","dateModified":"2017-12-01T14:29:44+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/"},"wordCount":872,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/","url":"https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/","name":"5 Tech Upgrades Dealerships Need to Sell Cars Online","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"datePublished":"2017-11-13T19:30:36+00:00","dateModified":"2017-12-01T14:29:44+00:00","description":"5 tech upgrades your dealership needs to sell cars online: Automotive News says the era of online car sales has arrived. Are you ready?","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/5-tech-upgrades-your-dealership-needs-to-sell-cars-online\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"5 Tech Upgrades Your Dealership Needs to Sell Cars Online"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

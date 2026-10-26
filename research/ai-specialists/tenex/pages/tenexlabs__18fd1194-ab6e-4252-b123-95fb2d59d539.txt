@@ -1,0 +1,139 @@
+URL: https://jobs.ashbyhq.com/tenexlabs/18fd1194-ab6e-4252-b123-95fb2d59d539
+Fetched: 2026-10-26T03:37:46Z
+HTTP status: 200
+Final URL: https://jobs.ashbyhq.com/tenexlabs/18fd1194-ab6e-4252-b123-95fb2d59d539
+Content-Type: text/html
+Via: chrome-headless
+Title: Applied AI, Engineer & Creator @ Tenex
+Meta description: ABOUT TENEX
+Tenex is where builders, operators, and problem-solvers come together to help the world’s most ambitious companies go from AI-absent to AI-native. We work at the intersection of strategy and engineering, embedding elite AI SWAT teams directly into organizations to turn complex, high-stakes problems into real, measurable outcomes. We don’t do slide decks and hand-offs; we sit in the trenches alongside our clients to build & drive real transformation.
+
+We operate with the speed of a startup and the rigor of a storied institution. Our culture is built on intellectual curiosity, radical ownership, and a belief that exceptional work comes from diverse teams who are empowered to challenge assumptions, move fast, and hold each other to a higher standard. If you want to work on projects that actually matter, alongside people who push you to be your best, Tenex is the place to do it.
+
+THE ROLE
+This role sits at the intersection of engineering and storytelling. You’ll ship production AI systems — walking into client codebases and delivering working AI workflows that change how organizations operate — while documenting the work publicly. You’ll build with frontier AI tools (Claude Code, Codex, Gemini, Cursor), own features end-to-end from architecture through deployment and client relationships, and turn what you learn into educational content for operators and founders. You’ll lead customer workshops ranging from hackathons to function-specific training, and report directly to co-founder Alex Lieberman.
+
+The emphasis is on production systems that run independently and on content that moves audiences from observers to operators.
+
+KEY RESPONSIBILITIES
+BUILD
+• Ship real software and internal tools while documenting the process
+• Walk into client codebases and deliver working AI workflows
+• Design reliable, auditable agent systems with humans in the loop
+• Ramp quickly into unfamiliar technology stacks
+• Leverage agentic coding tools (Claude Code, Cursor, etc.) and iterate on systems as they scale in production
+
+CREATE & TEACH
+• Produce videos, posts, threads, and playbooks explaining your builds
+• Translate AI capabilities into actionable language for non-technical audiences
+• Lead workshops and hackathons (minimum 2x/month) that move participants from observers to operators
+• Test new models and tools as they release, with informed opinions
+• Establish a repeating cycle of building, content creation, and workshops
+• Share learnings across engagements to compound team impact
+
+QUALIFICATIONS
+• 3+ years shipping production software end-to-end, using AI coding tools in production
+• Demonstrated ability to turn complex problems into scalable systems
+• Regular use of AI coding tools in your workflow, with deep knowledge of the current AI landscape
+• Ability to teach technical concepts, including to non-technical audiences
+• Creator’s instinct for identifying shareable moments and producing content end-to-end
+• Strong operational discipline managing multiple projects and client workstreams
+• Intellectual curiosity about the evolving AI landscape
+• High ownership with a collaborative approach to raising team standards
+
+BONUS
+• Public work artifacts—open source, side projects, talks or writing on applied AI
+• Experience shipping production agentic systems (not POCs)
+• Experience creating content online
+• A small, but mighty following online
+
+COMPENSATION & BENEFITS
+• $240,000–$320,000 OTE
+• Medical (PPO/HSA), dental, and vision coverage
+• 100% employer-paid life insurance and disability coverage
+• Commuter benefits
+• Flexible PTO
+
+ 
+Canonical: 
+Robots: all
+H1: Applied AI, Engineer & Creator
+
+Applied AI, Engineer & Creator
+Location
+
+New York City
+
+Employment Type
+
+Full time
+
+Location Type
+
+On-site
+
+Department
+
+Engineering
+
+Overview
+Application
+
+ABOUT TENEX
+Tenex is where builders, operators, and problem-solvers come together to help the world’s most ambitious companies go from AI-absent to AI-native. We work at the intersection of strategy and engineering, embedding elite AI SWAT teams directly into organizations to turn complex, high-stakes problems into real, measurable outcomes. We don’t do slide decks and hand-offs; we sit in the trenches alongside our clients to build & drive real transformation.
+
+We operate with the speed of a startup and the rigor of a storied institution. Our culture is built on intellectual curiosity, radical ownership, and a belief that exceptional work comes from diverse teams who are empowered to challenge assumptions, move fast, and hold each other to a higher standard. If you want to work on projects that actually matter, alongside people who push you to be your best, Tenex is the place to do it.
+
+THE ROLE
+This role sits at the intersection of engineering and storytelling. You’ll ship production AI systems — walking into client codebases and delivering working AI workflows that change how organizations operate — while documenting the work publicly. You’ll build with frontier AI tools (Claude Code, Codex, Gemini, Cursor), own features end-to-end from architecture through deployment and client relationships, and turn what you learn into educational content for operators and founders. You’ll lead customer workshops ranging from hackathons to function-specific training, and report directly to co-founder Alex Lieberman.
+
+The emphasis is on production systems that run independently and on content that moves audiences from observers to operators.
+
+KEY RESPONSIBILITIES
+BUILD
+• Ship real software and internal tools while documenting the process
+• Walk into client codebases and deliver working AI workflows
+• Design reliable, auditable agent systems with humans in the loop
+• Ramp quickly into unfamiliar technology stacks
+• Leverage agentic coding tools (Claude Code, Cursor, etc.) and iterate on systems as they scale in production
+
+CREATE & TEACH
+• Produce videos, posts, threads, and playbooks explaining your builds
+• Translate AI capabilities into actionable language for non-technical audiences
+• Lead workshops and hackathons (minimum 2x/month) that move participants from observers to operators
+• Test new models and tools as they release, with informed opinions
+• Establish a repeating cycle of building, content creation, and workshops
+• Share learnings across engagements to compound team impact
+
+QUALIFICATIONS
+• 3+ years shipping production software end-to-end, using AI coding tools in production
+• Demonstrated ability to turn complex problems into scalable systems
+• Regular use of AI coding tools in your workflow, with deep knowledge of the current AI landscape
+• Ability to teach technical concepts, including to non-technical audiences
+• Creator’s instinct for identifying shareable moments and producing content end-to-end
+• Strong operational discipline managing multiple projects and client workstreams
+• Intellectual curiosity about the evolving AI landscape
+• High ownership with a collaborative approach to raising team standards
+
+BONUS
+• Public work artifacts—open source, side projects, talks or writing on applied AI
+• Experience shipping production agentic systems (not POCs)
+• Experience creating content online
+• A small, but mighty following online
+
+COMPENSATION & BENEFITS
+• $240,000–$320,000 OTE
+• Medical (PPO/HSA), dental, and vision coverage
+• 100% employer-paid life insurance and disability coverage
+• Commuter benefits
+• Flexible PTO
+
+ 
+Apply for this Job
+Powered by 
+
+Privacy PolicySecurityVulnerability Disclosure
+
+--- json-ld ---
+{"@context":"https://schema.org/","@type":"JobPosting","title":"Applied AI, Engineer & Creator","description":"<p style=\"min-height:1.5em\"><strong>ABOUT TENEX</strong><br />Tenex is where builders, operators, and problem-solvers come together to help the world’s most ambitious companies go from AI-absent to AI-native. We work at the intersection of strategy and engineering, embedding elite AI SWAT teams directly into organizations to turn complex, high-stakes problems into real, measurable outcomes. We don’t do slide decks and hand-offs; we sit in the trenches alongside our clients to build &amp; drive real transformation.<br /><br />We operate with the speed of a startup and the rigor of a storied institution. Our culture is built on intellectual curiosity, radical ownership, and a belief that exceptional work comes from diverse teams who are empowered to challenge assumptions, move fast, and hold each other to a higher standard. If you want to work on projects that actually matter, alongside people who push you to be your best, Tenex is the place to do it.<br /><br /><strong>THE ROLE</strong><br />This role sits at the intersection of engineering and storytelling. You’ll ship production AI systems — walking into client codebases and delivering working AI workflows that change how organizations operate — while documenting the work publicly. You’ll build with frontier AI tools (Claude Code, Codex, Gemini, Cursor), own features end-to-end from architecture through deployment and client relationships, and turn what you learn into educational content for operators and founders. You’ll lead customer workshops ranging from hackathons to function-specific training, and report directly to co-founder Alex Lieberman.<br /><br />The emphasis is on production systems that run independently and on content that moves audiences from observers to operators.<br /><br /><strong>KEY RESPONSIBILITIES</strong><br /><strong>BUILD</strong><br />• Ship real software and internal tools while documenting the process<br />• Walk into client codebases and deliver working AI workflows<br />• Design reliable, auditable agent systems with humans in the loop<br />• Ramp quickly into unfamiliar technology stacks<br />• Leverage agentic coding tools (Claude Code, Cursor, etc.) and iterate on systems as they scale in production<br /><br /><strong>CREATE &amp; TEACH</strong><br />• Produce videos, posts, threads, and playbooks explaining your builds<br />• Translate AI capabilities into actionable language for non-technical audiences<br />• Lead workshops and hackathons (minimum 2x/month) that move participants from observers to operators<br />• Test new models and tools as they release, with informed opinions<br />• Establish a repeating cycle of building, content creation, and workshops<br />• Share learnings across engagements to compound team impact<br /><br /><strong>QUALIFICATIONS</strong><br />• 3+ years shipping production software end-to-end, using AI coding tools in production<br />• Demonstrated ability to turn complex problems into scalable systems<br />• Regular use of AI coding tools in your workflow, with deep knowledge of the current AI landscape<br />• Ability to teach technical concepts, including to non-technical audiences<br />• Creator’s instinct for identifying shareable moments and producing content end-to-end<br />• Strong operational discipline managing multiple projects and client workstreams<br />• Intellectual curiosity about the evolving AI landscape<br />• High ownership with a collaborative approach to raising team standards<br /><br /><strong>BONUS</strong><br />• Public work artifacts—open source, side projects, talks or writing on applied AI<br />• Experience shipping production agentic systems (not POCs)<br />• Experience creating content online<br />• A small, but mighty following online<br /><br /><strong>COMPENSATION &amp; BENEFITS</strong><br />• $240,000–$320,000 OTE<br />• Medical (PPO/HSA), dental, and vision coverage<br />• 100% employer-paid life insurance and disability coverage<br />• Commuter benefits<br />• Flexible PTO</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div>","directApply":false,"identifier":{"@type":"PropertyValue","name":"Tenex","value":"18fd1194-ab6e-4252-b123-95fb2d59d539"},"datePosted":"2026-07-20","hiringOrganization":{"@type":"Organization","name":"Tenex","sameAs":"https://www.tenex.co/","logo":"https://app.ashbyhq.com/api/images/org-theme-logo/ca3bbf51-6333-4a6c-acbc-4c3ff31594f9/13348d0c-dad5-461b-9fde-8ee53a17825a/00711ea2-8e3c-443b-bc75-1e98f12fdf48.png"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"New York City","addressRegion":"New York","addressCountry":"United States"}},"employmentType":"FULL_TIME"}
+

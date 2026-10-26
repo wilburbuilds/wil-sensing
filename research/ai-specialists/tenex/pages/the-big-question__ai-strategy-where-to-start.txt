@@ -1,0 +1,272 @@
+URL: https://www.tenex.co/the-big-question/ai-strategy-where-to-start
+Fetched: 2026-10-26T03:34:31Z
+HTTP status: 200
+Final URL: https://www.tenex.co/the-big-question/ai-strategy-where-to-start
+Content-Type: text/html
+Via: chrome-headless
+Title: What Actually Goes Into an AI Strategy, and Where Do We Start? | Tenex
+Meta description: Put every AI initiative on one grid that scores readiness and impact. A four-step method for deciding what to fund, fix, keep running or stop.
+Canonical: https://www.tenex.co/the-big-question/ai-strategy-where-to-start
+Robots: 
+H1: What Actually Goes Into an AI Strategy, and Where Do We Start?
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to The Big Question
+
+AI STRATEGY
+
+What Actually Goes Into an AI Strategy, and Where Do We Start?
+
+Put every AI initiative on one grid that scores readiness and impact. A four-step method for deciding what to fund, fix, keep running or stop.
+
+TENEX
+·
+OCTOBER 9, 2026
+·
+10 MIN READ
+
+THE TLDR
+
+Put every AI initiative, current and proposed, on one grid that scores it on two questions: can we execute it today, and how big is the prize? We call it the AI Triage Matrix. Where an initiative lands tells you whether to fund it, fix what's blocking it, keep it running or stop it. Measure the prize against goals you've already set, and start with initiatives that score high on both.
+
+AI Triage Matrix
+
+A ranked list of use cases is useful, but it isn’t a strategy. It can’t tell you what to stop, what deserves to go next, or what to do when a pilot looks promising but hasn’t proven its value yet.
+
+At most companies, AI work piles up faster than anyone decides about it. The grid gives leadership one place to make those decisions. It comes from the process Tenex has used to build AI roadmaps for more than 100 mid-market and enterprise companies.
+
+Each initiative gets scored on two questions:
+
+Can we execute it today? Is the data available? Is the process defined well enough to measure? Is there an owner who wants it, and someone who can deploy and support it?
+
+These four questions are a quick read for placing an initiative on the grid. Before anything reaches production, it has to pass the full readiness check in Step 3.5.
+
+How big is the prize? How much would it move a goal leadership has already set? How strong is the evidence? Would it unlock other work?
+
+Each quadrant comes with its own rule:
+
+Security, compliance and vendor policy set the boundaries for what can reach production. When they block most of what’s on the grid, fixing them becomes one of your first initiatives.
+
+Throughout the four steps below, we’ll apply the grid to Advantage Solutions, a retail services company with 60,000 frontline teammates that ran this process with Tenex in early 2026.
+
+Step 1: Start with your goals
+
+Start with the CEO. Tenex co-founder Arman Hezarkhani opens every diagnostic with the same two questions. First: forget AI for a minute. How do you set goals, and what are they right now? Second: if you had it your way, would you make those goals bigger, or hit them sooner?
+
+1.1 Find what’s limiting each goal
+
+For each goal, ask what’s slowing progress. If the goal is growing revenue without adding headcount, the limit might be how many accounts each rep can handle. Limits come down to people, process, data or technology. Treat all four as suspects; most companies fixate on data.
+
+1.2 Score impact against those goals
+
+An initiative’s impact score is how much bigger or sooner it makes one of those goals. A significant initiative that moves none of them isn’t part of your strategy, however impressive it is.
+
+HOW TO DO IT: THE INTERVIEWS
+
+Start with the CEO and the two questions above.
+Interview the leaders who own each goal. Ask what’s slowing it down, and what they’re excited and skeptical about with AI.
+Sort what you hear into people, process, data and technology.
+
+Our AI strategy playbook walks through the full method.
+
+FRAMEWORK APPLIED: ADVANTAGE
+
+Going into 2026, Advantage had AI running in pockets across the company with no central owner. Tenex’s diagnostic began with interviews across its leadership team.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+Step 2: Take inventory
+2.1 Find everything that’s already running
+
+Before adding anything new, take stock of the AI work already underway. There’s usually more than anyone has written down, including tools employees pay for themselves.
+
+2.2 Put it on the grid with your new ideas
+
+The scoring is the same, with a higher bar: existing work has to show it’s working. Work that already has results skips the pilot and goes straight to the expansion decision in Step 3.
+
+2.3 Make one of four calls
+Continue: it has an owner, evidence it’s working (it shows the four things listed in Step 3.3), and a link to a current goal (or, for a small fix, time saved that goes somewhere you can name).
+Edit: it’s promising but missing an owner, a measure or a fix. It gets a deadline and a written test, like any pilot, and stops if it misses them.
+Merge: two or more efforts do the same job. Combine them under the owner whose version works best.
+Stop: no owner, no evidence or no payoff.
+
+Four hypothetical examples:
+
+Continue: legal’s contract-summary tool. The general counsel owns it, the team uses it every day, and review times are down on deals tied to the company’s goal of closing faster.
+Edit: a sales-email drafting pilot that reps like but nobody owns or measures. It gets an owner, a baseline and a six-week test.
+Merge: three teams have each built their own meeting-notes bot. Keep the version that works best and fold the others in under its owner.
+Stop: last year’s customer chatbot pilot, with no owner, flat usage and no goal attached.
+
+The grid points to the call. Deprioritize usually means Stop or Merge, and Invest to Unlock usually means Edit. New ideas get a fifth call, Start, and the rules in Step 3 decide which ones earn it.
+
+HOW TO DO IT: THE SURVEY
+
+Send the survey to everyone. People will tell a survey what’s broken when they won’t tell their boss.
+Ask which AI tools they use, what for and who pays, plus what’s slowing down their week.
+Follow up with every team running a pilot: who owns it, what it measures and what it has shown so far.
+
+FRAMEWORK APPLIED: ADVANTAGE
+
+The diagnostic surfaced more than 50 active AI use cases at different stages of maturity. To move forward, Advantage needed clearer priorities, governance and AI fluency at the top.
+
+Step 3: Set the rules
+3.1 Give every pilot an owner, an outcome and a cost
+
+To earn a Start and a pilot, a new initiative needs three things:
+
+A business owner.
+A checkable outcome: improve [measure] from [baseline] to [target] by [date]. “AI will make us more efficient” doesn’t qualify. “AI will cut average support handle time by 20% by the end of next quarter” does. For a baseline, ask the owner how many they handled last month: tickets closed or invoices matched. If they can’t say, start tracking first or pick a different test.
+A cost estimate: employee time, process changes, data work and implementation on top of the software bill. Use a range, and tighten it as the initiative proves itself.
+
+Then find the work between you and the outcome: which workflow eats the time and where it breaks.
+
+When you don’t yet know whether AI can do the work, the test states what it needs to learn instead. Can AI produce usable summaries of our standard contracts? A small group trying it on your own contracts for a few weeks will give you a yes or no. Arman calls this measure “return on learning.”
+
+The grid decides what to fund and in what order. How you measure each initiative depends on what kind of bet it is, which Arman lays out in his framework for measuring AI ROI.
+
+3.2 Give small fixes a lighter check
+
+Small fixes, like automating a recurring report or checklist, rarely tie to a company goal, but they add up. If one is cheap, has an owner and will show results within weeks, do it. Save the full process for anything that needs its own budget, more people or a change in how a team works.
+
+The test for a small fix is time saved, which many finance leaders treat as a vanity metric. They have a point, because saved time usually disappears into the rest of the day. As Arman puts it, “gross productivity gain is not realized savings.” Hours saved hold up when you say where the time will go before you start: more output from the same team, faster turnaround, fewer errors, growth without new hires, or roles you don’t backfill. Name who will confirm it, ideally someone in finance. Minutes nobody redirects don’t count.
+
+The same logic scales up. Before a larger initiative gets funded, finance should be able to answer four questions: What’s the dollar outcome? Where do the saved hours go? Who owns the number? How will we know it worked at 30, 60 and 90 days?
+
+Small fixes belong in Quick Wins. Count them separately from progress on your goals.
+
+FRAMEWORK APPLIED: ADVANTAGE
+
+Advantage projects a new compliance tool will free 70,000+ event-manager hours a year, and it named where they go: training teammates and time on the store floor. “That’s a people story,” said George Johnson, who runs workforce operations.
+
+3.3 Judge pilots on early evidence
+
+A few weeks can’t prove full ROI, and demanding it either inflates projections or stops testing altogether. A pilot should show four things instead:
+
+The work got faster, cheaper or better without quality dropping, and the saved time went where you said it would.
+People used it in their daily work.
+The AI caused the gain. If a cleaner process or better interface did, scale that instead.
+The cost and benefit assumptions held up.
+
+Don’t annualize results from less than a quarter in production.
+
+3.4 Write go/no-go criteria before the pilot starts
+
+Write down what the pilot must show to expand, be revised or stop. For a hypothetical pilot with AI drafting first replies to support tickets, after six weeks:
+
+Expand if handle time is down at least 10% for the pilot group, with no drop in customer satisfaction.
+Revise if handle time is down on most tickets but billing questions still need heavy rewriting, and better billing context could fix that.
+Stop if complaints rise or there’s no clear path to the savings.
+
+A revision gets one more cycle with a named fix and new criteria, then expands or stops. Arman calls the alternative “pilot purgatory,” so set the end date up front. A stopped initiative’s budget goes to the next one.
+
+Keep three to five significant initiatives active at a time. If nothing got stopped this quarter, the rules aren’t being applied.
+
+FRAMEWORK APPLIED: ADVANTAGE
+
+Advantage set up an AI office that reports to a CEO-sponsored leadership group, which reviews the AI portfolio regularly.
+
+3.5 Check readiness before production
+
+The grid’s readiness score is a quick read. Before production, run the full check:
+
+Is the value at stake clear?
+Is the process understood and measurable?
+Is the data accessible?
+Can someone deploy and support it?
+Will the intended users participate?
+Does the team have capacity to change how it works?
+Does a business owner own the result and the decisions?
+Are legal controls and guardrails in place?
+
+A pilot can start with a few of these open; production needs all eight. Meeting the criteria earns the next step, like a second team, more of the workflow or less human review, and each step is its own test.
+
+Step 4: Decide the order
+4.1 Start in Accelerate Now, odds before return
+
+Your first wave comes from Accelerate Now. Within it, rank by odds of success first, then by return among the ones likely to work.
+
+That rule is more about evidence than caution. The first initiatives also have to prove your company can turn AI into measurable results. The next funding decision rests on that proof, and it’s what wins over people who’ve been burned by AI before. Tenex co-founder Alex Lieberman calls building that “cultural momentum” the most important early priority.
+
+4.2 Pick contained work with a willing owner
+
+Early initiatives with good odds tend to share three traits:
+
+Most readiness questions already have a yes.
+The owner wants it. An owner who asked for the change will push through obstacles.
+The work is contained. Cross-team initiatives carry more coordination risk, so ambition alone isn’t a reason to go first.
+4.3 Run Quick Wins alongside the first wave
+
+Quick Wins are cheap, and people feel the difference fast.
+
+4.4 Fund enabling work early
+
+The exception to ranking by return is enabling work. When one gap, like unclear policy, unreachable data or leaders who’ve never used the tools, blocks several big-prize initiatives, closing it belongs in the first wave even though it returns nothing directly.
+
+FRAMEWORK APPLIED: ADVANTAGE
+
+Advantage made two organizing decisions before scaling: put governance in place, and build AI fluency starting with the executive team.
+
+4.5 Go bigger once you have a track record
+
+With a track record, go after the biggest prize the evidence says you can win. Appetite affects the timing, since a CEO who wants to reinvent the business will take on more risk sooner. So does the type of work. Roughly, content generation pays off in 2 to 4 weeks, workflow automation on a defined process in 2 to 4 months, predictive analytics on integrated data in 6 to 12 months and platform-level change in 12 to 24 months. The rules stay the same, with go/no-go criteria for every test and readiness before production.
+
+To start, take the goals you’ve already set, put what’s already running on the grid, and pick a first few initiatives from Accelerate Now that are most likely to hit their outcomes.
+
+FRAMEWORK APPLIED: ADVANTAGE, WHERE IT STANDS
+
+Advantage tested its AI rollout with 150 executives before scaling to thousands of users. Use cases surfaced across the business grew from about 50 to more than 100, and one finance team cut a 10-hour weekly task to under 30 minutes. (Anthropic case study)
+
+If you want to run the discovery yourself, from the employee survey to the stakeholder interviews to a first roadmap, our AI strategy playbook walks through it step by step.
+
+SOURCES
+
+Anthropic — Advantage Solutions customer story
+Arman Hezarkhani — Measuring AI ROI
+Alex Lieberman — Cultural momentum
+
+KEEP READING
+
+AI FUNDAMENTALS
+
+How to Build Your First AI Agent
+
+An AI agent is software with a trigger, a loop and tools. Build your first one step by step with Claude Code, no engineering background needed.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"Article","headline":"What Actually Goes Into an AI Strategy, and Where Do We Start?","description":"Put every AI initiative on one grid that scores readiness and impact. A four-step method for deciding what to fund, fix, keep running or stop.","url":"https://www.tenex.co/the-big-question/ai-strategy-where-to-start","mainEntityOfPage":"https://www.tenex.co/the-big-question/ai-strategy-where-to-start","image":"https://www.tenex.co/assets/live/open-graph.webp","datePublished":"2026-10-09T00:00:00.000Z","dateModified":"2026-10-09T00:00:00.000Z","author":{"@type":"Organization","name":"Tenex"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"The Big Question","item":"https://www.tenex.co/the-big-question"},{"@type":"ListItem","position":3,"name":"What Actually Goes Into an AI Strategy, and Where Do We Start?","item":"https://www.tenex.co/the-big-question/ai-strategy-where-to-start"}]}]
+

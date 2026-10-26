@@ -1,0 +1,206 @@
+URL: https://heliontechnologies.com/dealerships-using-ai-2026/
+Fetched: 2026-10-26T03:59:44Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealerships-using-ai-2026/
+Content-Type: text/html
+Via: chrome-headless
+Title: More Dealerships Are Using AI for Operations | Helion
+Meta description: Industry observers believe 2026 may become the first true operations year for dealerships using AI. AI brings with it a new responsibility around cybersecurity
+Canonical: https://heliontechnologies.com/dealerships-using-ai-2026/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Dealerships Using AI in 2026: A Smarter Future—And a Smarter Security Strategy
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Dealerships Using AI in 2026: A Smarter Future—And a Smarter Security Strategy
+By Erik Nachbahr
+March 23, 2026 · 4 min read
+
+If 2024 was the year of AI curiosity and 2025 was the year of experimentation, many industry observers believe 2026 may become the first true operations year for dealerships using AI. Conversations across the industry point to full AI integration moving from “nice to have” to “strategic priority.”
+
+And it makes sense.
+
+Dealerships using AI are seeing opportunities to improve efficiency, increase profitability, and elevate customer satisfaction in ways that simply weren’t possible a few years ago. From AI-driven lead engagement and service scheduling to analytics that sharpen pricing and inventory decisions, artificial intelligence is quickly becoming part of the modern dealership operating model.
+
+This is a good thing.
+
+But like every meaningful technological shift in automotive retail—from DMS evolution to cloud adoption—AI brings with it a new responsibility: reassessing best practices, especially around cybersecurity.
+
+Why Dealerships Using AI Are Leaning In
+
+AI isn’t being adopted just because it’s trendy. It’s being adopted because it works.
+
+Forward-thinking dealers are leveraging AI to:
+
+Respond instantly to online leads and increase conversion rates
+Automate service appointment booking and reduce phone bottlenecks
+Analyze customer behavior to personalize marketing
+Improve inventory forecasting and margin optimization
+Streamline internal workflows and reduce administrative burden
+
+The potential upside is significant:
+
+Higher gross profit through smarter pricing and marketing
+Improved CSI through faster, more consistent communication
+Stronger customer loyalty driven by convenience and personalization
+Operational efficiency that offsets rising labor and overhead costs
+
+In short, AI can help dealerships do more with the same—or even fewer—resources.
+
+And in a market where margins are tighter and competition is relentless, that matters.
+
+The Other Side of the Coin: AI Expands the Attack Surface
+
+Here’s where perspective becomes important.
+
+AI itself is not the risk. Poorly governed AI is.
+
+When dealerships introduce AI into operations, they are typically introducing:
+
+New integrations with CRM, DMS, phone systems, or Microsoft 365
+Additional data flows involving customer PII and deal data
+API connections to third-party AI vendors
+Automated decision-making processes
+
+Each of these expands the dealership’s digital footprint—what cybersecurity professionals call the attack surface.
+
+According to joint guidance from NSA, CISA, and international cyber authorities on AI data security, protecting the data used to train and operate AI systems is critical to ensuring the integrity and reliability of AI outcomes. If that data is tampered with, corrupted, or exposed, the AI system’s outputs can be compromised.
+
+In practical dealership terms, that means:
+
+Customer data could be exposed.
+AI-driven communications could be manipulated.
+Automated workflows could be disrupted.
+Regulatory and compliance exposure could increase.
+
+None of this is inevitable—but it is possible if AI adoption outpaces governance.
+
+AI Risk Is Different from Traditional IT Risk
+
+One of the key insights from the NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0) is that AI risk is not identical to traditional software risk. AI systems are dynamic, data-driven, and often influenced by changing inputs over time.
+
+In other words:
+
+AI models learn from data.
+Data changes.
+Systems evolve.
+Risk shifts.
+
+NIST outlines characteristics of trustworthy AI systems as being valid, reliable, secure, resilient, accountable, transparent, privacy-enhanced, and fair.
+
+For dealership management, this translates to a simple reality:
+
+AI governance is not a one-time IT project. It is an ongoing management discipline.
+
+A New Day Requires a New Assessment
+
+Many dealerships already have strong cybersecurity programs in place. They’ve invested in firewalls, endpoint security, backups, MFA, and compliance programs.
+
+That foundation is valuable.
+
+But as dealerships using AI expand automation and data integration, it’s prudent—not alarmist—to ask a few updated questions:
+
+Do we know exactly what data our AI tools access and store?
+Have we reviewed vendor security practices and data retention policies?
+Are access controls properly limited to least privilege?
+Are AI integrations monitored like other critical systems?
+Is AI risk integrated into our broader cybersecurity and compliance program?
+
+The goal isn’t to slow innovation. It’s to support it responsibly.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"Dealerships Using AI in 2026: A Smarter Future—And a Smarter Security Strategy","datePublished":"2026-03-23T14:31:22+00:00","dateModified":"2026-06-15T14:54:10+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/"},"wordCount":670,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/03\/admin-ajax.jpeg","keywords":["AI","artificial intelligence","cybersecurity","data","data security","dealership cybersecurity","Endpoint Detection and Response (EDR)","information technology","technology","updates","vulnerability"],"articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/","url":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/","name":"More Dealerships Are Using AI for Operations | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/03\/admin-ajax.jpeg","datePublished":"2026-03-23T14:31:22+00:00","dateModified":"2026-06-15T14:54:10+00:00","description":"Industry observers believe 2026 may become the first true operations year for dealerships using AI. AI brings with it a new responsibility around cybersecurity","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/03\/admin-ajax.jpeg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/03\/admin-ajax.jpeg","width":600,"height":372,"caption":"Dealerships using AI"},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealerships-using-ai-2026\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Dealerships Using AI in 2026: A Smarter Future—And a Smarter Security Strategy"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

@@ -1,0 +1,159 @@
+URL: https://limestonedigital.com/blog/ai-ai-ai-ai
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/ai-ai-ai-ai
+Content-Type: text/html; charset=utf-8
+Title: AI, AI, AI, AI
+Meta description: An AI walks into a bar. FactSet published what happened next.
+Canonical: https://thefoundation.limestonedigital.com/p/ai-ai-ai-ai
+Robots: max-image-preview:large
+H1: 🟪 AI, AI, AI, AI | AI Foundation from Limestone Digital
+
+AI, AI, AI, AI
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 AI, AI, AI, AI
+🟪 AI, AI, AI, AI
+An AI walks into a bar. FactSet published what happened next.
+Jul 7, 2026
+Reading time: 7 minutes | Issue #33 |
+Book a Call
+Happy Tuesday.
+An AI walks into a bar. It says "AI." The stock jumps 12.7%. Three more walk in, repeat the word, and the valuation triples. Nobody checks if any of them can pour a drink.
+Good joke.
+FactSet published
+the receipts last month.
+Inside the Issue
+Why the median company that says "AI" on earnings calls underperforms the ones that don't
+A five-question test that tells you which rung of AI maturity you're actually on
+$3.5B in new deployment companies this week, Uber's budget blown in four months, and Gartner names "agent washing"
+337 Companies Said "AI." The Median Underperformed.
+337 of the 498 S&P 500 companies that reported Q1 2026 earnings mentioned "AI" on the call. That's 68%, a ten-year record. The prior record was 334, set the previous quarter. The five-year average is 164. The ten-year average is 103.
+The market rewarded them. Companies that mentioned AI averaged a 12.7% stock price increase since March 31, versus 2.6% for companies that stayed quiet.
+Then I looked at the medians.
+The median AI-mentioning company gained 5.5% since December 31. The median non-mentioner gained 6.2%. The word lifts the average because a handful of giants (think the trillion-dollar companies whose AI spending is itself a revenue line) drag the mean upward. Strip out the top, and the typical company that said "AI" underperformed the typical company that didn't.
+The word pays. Doing the work is a separate question.
+Source: FactSet, June 12, 2026 —
+insight.factset.com
+The capital math is even more concentrated.
+In Q1 2026, $242 billion went to AI companies, 80% of the $300 billion in total global venture capital. Four rounds (OpenAI at $122B, Anthropic at $30B, xAI at $20B, Waymo at $16B) accounted for $188 billion, or 65% of all global venture in the quarter. Four of the five largest venture rounds ever recorded closed in a single quarter. Updated through H1: $510 billion total globally, with OpenAI and Anthropic alone absorbing 43%.
+Source: Crunchbase —
+news.crunchbase.com
+Meanwhile, 42% of companies now abandon most of their AI initiatives.
+S&P Global's Voice of the Enterprise survey (1,006 respondents, fielded late 2024) found that share jumped from 17% the prior year. The average organization scrapped 46% of its AI proofs-of-concept before they reached production.
+Source: S&P Global 451 Research —
+spglobal.com
+Regulators have been tracking the paper trail for seven years:
+2019:
+MMC Ventures analyzed 2,830 European "AI startups." Roughly 40% showed little or no evidence that AI was material to the product.
+March 2024:
+The SEC filed its first AI-washing enforcement actions. Delphia ($225K) and Global Predictions ($175K), fined for marketing AI capabilities they didn't have.
+September 2024:
+The FTC launched "Operation AI Comply," a sweep targeting deceptive AI claims. DoNotPay's "world's first robot lawyer" settled in February 2025 for $193K. Five-zero Commission vote.
+April 2025:
+DOJ and SEC charged Nate founder Albert Saniger. He'd raised $42 million claiming AI-powered e-commerce checkout. Per the DOJ complaint, the actual automation rate was "effectively zero percent." Purchases were completed manually by call-center workers in the Philippines and Romania.
+May 2025:
+Builder.ai
+, backed by Microsoft and QIA at a roughly $1.5 billion valuation with $450 million raised, collapsed into insolvency. An internal audit revised 2024 revenue from a projected $220 million to approximately $55 million. Investigations found the "Natasha" AI assistant fronted work done largely by roughly 700 human engineers.
+June 2025:
+Gartner coined "agent washing" and estimated that only about 130 of thousands of self-described agentic AI vendors qualified as genuine. They predicted 40%+ of agentic AI projects would be cancelled by end of 2027.
+The regulators are prosecuting the external version: companies telling investors and customers they have AI when they don't. Nobody prosecutes the internal version: the CTO who tells the board "we're doing AI" because the team has four Copilot licenses and a ChatGPT subscription.
+Our take:
+The internal version is what we see in our portfolio companies every week. A slide deck that says "AI-enabled" next to a workflow that a human completes manually. A board presentation with a model selection matrix but no data inventory. An approved AI budget with no telemetry measuring whether anything shipped.
+Words are unfalsifiable. Rungs are not.
+We built a maturity ladder where every rung is defined by what you can measure, not what you can claim. Each rung produces the telemetry that justifies, or eliminates, the one after it.
+Rung 00: Adopt.
+Deploy telemetry. Measure current AI adoption (finding: almost always near zero). Name quick wins. Build the roadmap. Duration: 2-4 weeks. We run this as Step Zero, and it's free, because the baseline data occasionally tells a company to stop. A rung that can end in "stop" is the difference between a maturity model and a sales funnel.
+Rung 01: Accelerate.
+Engineers become AI-native. One toolchain, prompt patterns, guardrails. Seniors gate every AI-assisted PR. Duration: 1-3 months. Proof point: an analytics client's engineers went from scattered experiments to daily, measured AI use; the client expanded the engagement five weeks in, on the strength of the telemetry alone.
+Rung 02: Automate.
+Agentic delivery: ticket to plan to tests to PR with deterministic gates at each step. Duration: 2-4 months. Proof point: a two-engineer client pod merged 122 PRs in three months with roughly 90% AI-generated code, at about $200 per developer per month in AI spend, every PR gated by the client's own seniors. A healthcare revenue-cycle client rolled the same discipline across its existing five-engineer team inside their existing weekly release cadence; the skeptics converted when the telemetry showed the throughput change.
+Rung 03: Scale.
+AI moves from the engineering team into the product. LLM-powered features, RAG pipelines, automation that customers pay for. Duration: 3-6 months per capability. Proof point: a prior-authorization platform that entered at rung 01 is now shipping human-in-the-loop agents in its product, replacing the scripted bots that kept breaking. Agreed target: 3-4x operator throughput.
+Rung 04: AI-Native.
+Industrialized and governed. Model gateway, cost policy, evaluation framework, audit trail. The CFO sees cost, value, and compliance in one dashboard. Duration: 6-12 months. This is where Fable 5's metering at $10/$50 per million tokens (on Anthropic's current price sheet) becomes relevant: frontier AI spend is now granular enough to govern at the CFO level.
+Who should be uncomfortable.
+If your board presentation includes the word "AI" and your engineering team can't show a dashboard that says which rung you're on, you're in the FactSet average. The word is lifting your story. The median data suggests the market is learning to tell the difference between companies that say it and companies that do it.
+The Five-Question Rung Test
+After building the ladder, I needed a fast way to place a company on it during a first call. Five questions. One per rung. Your rung is the one below your first "no."
+Question 1 (Rung 00): Do you have telemetry measuring AI tool usage across your engineering team right now?
+Not licenses purchased. Active usage. Sessions, completions accepted, code committed with AI assistance. If the answer is "we have Copilot" but you can't tell me what percentage of your team used it last week, you're pre-rung 00.
+Question 2 (Rung 01):
+Does every AI-assisted pull request go through senior review with AI-specific criteria?
+The 122-PR pod ran at rung 02, and it only worked because this rung-01 gate was already underneath it: a senior reviewed every PR the AI touched. Without the gate, AI-assisted code ships faster and breaks more; DORA has measured elevated instability alongside AI adoption two years running. Uber saw the ungated version: leaderboard-driven adoption took 84% of engineers agentic in a month, burned the year's AI budget by April, and left the COO saying he couldn't draw a direct line from the spend to features shipped.
+Question 3 (Rung 02): Can you show me a ticket that went from backlog to merged PR with AI handling the plan, tests, and initial code?
+This is the agentic step. If the AI is autocompleting lines inside a file but a human still writes the test plan, builds the test suite, and structures the PR, you're at rung 01 with good tooling.
+Question 4 (Rung 03): Is AI generating revenue in your product, not just saving time for your team?
+Internal productivity is rung 01-02. Customer-facing AI features that users pay for, or that measurably reduce churn, are rung 03. The distinction matters because internal AI is a cost line. Product AI is a revenue line.
+Question 5 (Rung 04): Can your CFO see AI cost, value, and compliance exposure in a single view?
+Model spend per team. Value created per workflow. Regulatory risk per use case. If your AI governance lives in an engineer's head or a shared doc, you're operating without the controls that rung 04 requires.
+Score yourself before your next planning meeting. If your leadership team disagrees on the rung, that disagreement is the finding. Reply with your rung. I'm tracking the distribution.
+01  AWS and Microsoft committed $3.5B to AI deployment companies in the same week.
+AWS launched a Forward Deployed Engineering organization backed by $1B, embedding pods of 5-6 engineers inside customer teams for 45-day sprints. Five days later, Microsoft announced Frontier Company with $2.5B and 6,000 engineers. OpenAI and Anthropic launched similar orgs earlier this year. The largest AI companies on earth are spending billions to solve the same problem the 73/27 split identified in Issue #11: the model was never the bottleneck.
+Source: Amazon —
+aboutamazon.com
+| Microsoft —
+blogs.microsoft.com
+02  Global VC hit $510B in H1 2026, already exceeding all of 2025.
+OpenAI and Anthropic alone absorbed $217B, or 43% of every venture dollar deployed worldwide. AI-focused companies captured over 70% of Q2 capital.
+Source: Crunchbase —
+news.crunchbase.com
+03  Gartner coined "agent washing" and predicts 40%+ of agentic AI projects cancelled by end of 2027.
+Of thousands of self-described agentic vendors, Gartner estimated roughly 130 qualified as genuine. If you're evaluating agentic vendors, ask for production telemetry. The ones who have it won't hesitate.
+Source: Gartner —
+gartner.com
+04  Uber exhausted its entire 2026 AI coding budget in four months.
+After incentivizing Claude Code adoption through internal leaderboards, 84% of engineers became agentic coding users by March. The CTO confirmed the annual budget was gone by April. Management responded with a $1,500-per-month per-employee cap and an internal usage dashboard. Uber's COO told a podcast he can't yet draw a line between the spend and consumer features shipped. Adoption without governance is rung 01 without rung 00.
+Source: Fortune —
+fortune.com
+| TechCrunch —
+techcrunch.com
+05  Fable 5 is metered as of today at $10/$50 per million tokens.
+Frontier model costs are now granular and visible on an invoice. For companies at rung 04, this is the infrastructure for CFO-level cost governance. For companies that haven't reached rung 04, this is the invoice that starts the governance conversation.
+Source: Anthropic —
+anthropic.com
+The AI Maturity Ladder, one card. Five rungs. Each rung has a diagnostic question, a measurable metric, and a duration range. Screenshot it. Bring it to your next planning meeting. If your team can't agree on the rung, you've found the conversation that matters more than the answer.
+If the rung test put you at 00, that's the baseline we run for free. Step Zero deploys telemetry, measures where you actually are, names the quick wins, and builds the roadmap. It takes 2-4 weeks.
+Sometimes the data says the next rung is worth climbing. Sometimes it says stop.
+The ladder earns trust because the first rung doesn't cost anything and the answer can be no.
+Book a Call
+Until next Tuesday,
+— Mark Ajzenstadt
+Founder, Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"ai-ai-ai-ai","url":"https://thefoundation.limestonedigital.com/p/ai-ai-ai-ai","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/ai-ai-ai-ai"},"headline":"🟪 AI, AI, AI, AI","description":"An AI walks into a bar. FactSet published what happened next.","datePublished":"2026-07-07T16:57:24.198Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/7b25ce25-a16f-457f-90af-e622700823d4/playbook-33-ai-ai-ai-ai.png?t=1788796929"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:00:55Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/ai-ai-ai-ai","name":"🟪 AI, AI, AI, AI"}}]}

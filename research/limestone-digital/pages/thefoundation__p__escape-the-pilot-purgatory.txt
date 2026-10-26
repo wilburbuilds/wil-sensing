@@ -1,0 +1,172 @@
+URL: https://thefoundation.limestonedigital.com/p/escape-the-pilot-purgatory
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/escape-the-pilot-purgatory
+Content-Type: text/html; charset=utf-8
+Title: 🟪 escape the "pilot purgatory"
+Meta description: If AI is in your exit story, a list of pilots won't prove it.
+Canonical: https://thefoundation.limestonedigital.com/p/escape-the-pilot-purgatory
+Robots: max-image-preview:large
+H1: 🟪 escape the "pilot purgatory" | AI Foundation from Limestone Digital
+
+🟪 escape the "pilot purgatory"
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 escape the "pilot purgatory"
+🟪 escape the "pilot purgatory"
+If AI is in your exit story, a list of pilots won't prove it.
+Oct 6, 2026
+Reading time: 9 minutes | Issue #46 |
+Book a Discovery Call
+Happy Tuesday.
+Mark here.
+Last week, Blue Owl disclosed that investors had asked to pull 39% of the shares in its $5 billion technology lending fund. The firm blamed
+"the disconnect between the market's fears of AI disintermediating software and OTIC's resilient credit fundamentals,"
+which is a lender saying its borrowers look fine while its own investors head for the door.
+I'd put that down to nerves in the credit market if we weren't seeing the same concern in the valuations of portfolios that are still growing. Three weeks ago, I saw the clearest example of this, and I keep coming back to it.
+Inside the Issue
+Why Hg's multiple fell while its EBITDA grew 19%, and what buyers want to see
+Six exhibits to prepare before your banker's kickoff
+Concentrix's write-down, lenders on software, Thoma Bravo's pivot, the FTC on agents, and one AI hire per fund
+Hg's portfolio companies grew EBITDA 19% in the twelve months to June 30, on 16% revenue growth. Yet during the first half, the weighted EV/EBITDA multiple used to value them fell from 25.2x to 22.9x. HgCapital Trust, the listed vehicle that invests in Hg's portfolio, offered one explanation in its
+interim results
+: "weakness in public software valuations, reflecting caution from investors over the potential impact of AI on the sector, led the multiples used to value HgT's portfolio companies to fall."
+Hg's full exits during the half still closed at an average 31% above carrying value. The portfolio was marked down even though its exits were going well. Since the end of June, Hg says, investors "have begun to distinguish more clearly between businesses positioned to benefit from AI and those more exposed to disruption from it." My read is that buyers were willing to pay less for each dollar of earnings, despite that 19% growth, because sellers couldn't yet show whether those earnings would benefit from AI or be exposed to it.
+What changed in the buyer's checklist
+Jefferies spelled out the new standard on August 31. Its
+note on software private equity
+says investors will put more weight on "competitive wins against AI-native alternatives, incremental bookings from separately priced AI products, production adoption rather than pilots, measurable customer outcomes, and stronger retention or wallet share among AI adopters."
+It also makes a distinction that matters for a lot of AI revenue claims: "Incremental revenue from a separately priced AI product is fundamentally different from existing subscription revenue recategorized because customers now use a conversational interface."
+Bain's
+technology report
+, published last Tuesday, puts this in context. North American tech buyouts entered between 2010 and 2019 returned a median 2.9x gross. Deals entered in 2020 to 2022 sit at 2.1x.
+Bain says the market "is already bifurcating between companies that can demonstrate measurable AI traction and those that are still spinning a narrative without numbers behind it," and lists the three questions on everyone's mind: "Is AI driving incremental revenue? Is AI changing cost structures? And are AI-related products scaling efficiently?" Firm answers, it says, let GPs build "the kind of evidence-based exit story buyers are demanding."
+Sellers are feeling it too. In
+EY's exit readiness study
+, the share of GPs who named AI as a challenge in preparing a company for sale more than doubled in a year, to 18%. EY's assessment of the usual response: "A list of pilots or isolated productivity tools may not be enough to support valuation."
+I'm not against pilots. We run one-month pilots ourselves. I'm against pilots that end without a baseline, a number and a named owner, because that's how a company ends up in pilot purgatory.
+In Deloitte's January survey
+of 3,235 business and IT leaders, only 25% had moved 40% or more of their AI pilots into production. Those stuck pilots are the ones a buyer discounts.
+The clock and the lender
+Slow exits mean a portco has to live with that discount for longer. A third of 2017 US buyouts are still unsold. At the first quarter's exit pace, PitchBook estimated in June that the backlog would take
+more than 10.8 years to clear
+.
+There's pressure from lenders too. PitchBook LCD reported on Friday that software's share of PE-backed direct lending volume
+fell from 22% last year to 15% so far this year
+, with billions in BDC software loans maturing in 2027 and 2028. PitchBook traces the shift to the first quarter, when "AI-induced worries about software ushered in a profound change for private credit."
+If you're an operating partner holding a software or services asset bought in 2021 or 2022, with a sale or refinancing planned for 2027, this should make you uncomfortable. Especially if your AI update to the board is still a slide listing pilots.
+Our read: three ways an AI story falls apart in diligence
+In the 20 operating-partner conversations I wrote about in September, most portcos were using AI to draft emails and take meeting notes. That's useful, but it doesn't give a buyer anything to put in a model when they ask Bain's three questions. Big companies are getting out faster.
+KPMG's
+Q3 pulse
+, a survey of 314 US leaders at $1B-plus companies taken this summer, says AI agents are "increasingly moving out of the pilot phase and into the enterprise."
+Three things to look for:
+1. The revenue is relabeled.
+In August, I wrote about a target whose "proprietary AI platform" turned out to be gpt-4o at temperature 0.2, a system prompt, and 600 lines of glue code. It had $4.2M of ARR and a 12x asking multiple. The ARR was real. One code review showed what the AI actually was, and the firm walked away within the day. Jefferies' warning about "subscription revenue recategorized" describes a milder version of the same problem: real customers and real usage, but no price anyone pays for the AI itself.
+2. Nobody measured the before.
+EY lists "difficulty quantifying the impact of AI initiatives" among the problems management teams face when preparing for an exit. KPMG's
+September note on PE portfolios
+puts it more plainly: "We have gone from vanity pilots to true EBITDA discipline. A year ago, firms had 20 AI pilots running, mainly for the sake of showing that activity to the board."  Without a baseline, all a pilot shows is that the team was busy. Nobody can calculate what it changed in the cost structure, which is Bain's second question.
+3. The proof belongs to the vendor.
+If a vendor's engineers built the agent, run it, and hold the test set, the buyer is acquiring a dependency. Gartner predicted last week that
+by 2028, 70% of enterprises will abandon agentic AI built by vendors' forward-deployed engineers
+, "trapped by soaring costs and unable to evolve it on their own." We embed engineers in client companies for a living, so that warning applies to us too. Our contracts run month to month, and if we don't deliver, the client doesn't pay. That only works if a client can walk away with everything we built.
+The AI Proof File: Six Exhibits to Build Before the Banker Calls
+Start 12 to 18 months before a sale process. Most of these exhibits need a full quarter of production data before a buyer will believe them. Most answer a question from Bain's or Jefferies' list.
+1. A signed baseline for each workflow you plan to claim.
+Record volume, cycle time, touch time, rework, exception rate and cost per unit. Have the process owner agree to and sign off on those numbers before anyone builds. Buyers have good reason to discount a baseline put together after launch.
+2. A test set your own experts wrote.
+Collect real cases with answers your people agree are correct, before the agent exists. A buyer's team can rerun the tests during diligence and check the score for themselves.
+3. Cost per unit, with the model bill included.
+IDC found
+that 67% of enterprises exceeded their agent budgets by more than 10% in the past year.
+Bain's token data
+helps explain why: on Azure AI, between December 2024 and an estimated March 2026, the price per million tokens fell to an index of 42 while usage climbed to 541, and "higher usage has more than doubled the overall bill." Bain also warns that "a new workflow might cost 10 times more than it ultimately should." An advisory PR review agent we built for a US healthcare data company runs at about $1 to $3 a review, with a hard $20 daily cap. Log cost per call from day one so you can answer the scaling question with a chart.
+4. AI revenue on its own line.
+If customers pay for an AI product, price it separately and report its revenue separately. Bain suggests tracking at least three buckets: traditional AI and machine learning, AI add-ons, and agentic products. On TPG's
+second-quarter call
+, the firm said portfolio company Boomi now generates "over $100 million of 'AI-activated' recurring revenue." That's the kind of line item a buyer can underwrite.
+5. A trace and an owner for each agent in production.
+Every run should leave a record someone can inspect, and a named person should decide what the agent is allowed to touch. That agent has never had merge rights. The FTC moved to investigate AI agents last week (Signal 04), so expect a buyer's counsel to ask who approved what.
+6. Proof that you own it and can move it.
+Mayer Brown's
+June guidance on AI implementation contracts
+lists what a company should receive: "agent configurations, prompts and system instructions, orchestration logic, custom code, evaluation sets, documentation, runbooks, support procedures, and training materials." Get those into your tenant and your repository. Then run the model-swap test from our version of Valutico's four-axis framework: can your team show the product running on an alternative model within 48 hours? If it can't, a buyer will put your model dependency at the top of the scale, just as we did with the wrapper.
+You can start the first exhibit this week. Pick the AI workflow your management team talks about most in board updates. Ask the process owner for last quarter's volume and cycle time. If nobody can produce the number, you've found exhibit one.
+If you sit across a portfolio, start with a list, not a workflow: every portco with a sale or refinancing planned for 2027 or 2028. Ask each CEO for exhibit one before the next board meeting. The ones who can't produce it are where your AI budget goes first.
+01
+Concentrix wrote off $1.05 billion.
+The customer-experience outsourcer
+reported a goodwill impairment on September 29
+, which it tied to its stock price and market value. It also reported revenue down 1.2%. CEO Chris Caldwell said "50% of our revenue is coming from business we have won and deployed within the last 3 years since the introduction of AI." Two days later, Accenture's Julie Sweet
+told analysts
+"we saw lower pricing in many areas of our business." If your portfolio includes a services company, its customers are reading the same headlines and asking for the same discount.
+02
+Credit investors picked their least favorite sector.
+In PitchBook LCD's
+third-quarter leveraged finance survey
+, 54% of respondents named software the least favorable sector through the first quarter of 2027. Yet only 31% said they were moderately or very concerned about AI itself. My read is that lenders are pricing the uncertainty more than the technology. A portco can reduce that uncertainty with numbers.
+03
+Thoma Bravo's UserTesting is now Auros.
+The company
+renamed itself on September 29
+and turned its network of 7.6 million verified people toward training and evaluating AI. CEO Eric Johnson: "As AI becomes more capable, access to real people and verified human expertise becomes more valuable, not less." This is a portco rebuilding its equity story around evaluation, the same scarce asset behind exhibit two. I'd watch how the market prices it.
+04
+The FTC wants to talk about agents.
+The commission
+said on September 30
+that it had launched an investigation into AI agents and intends to send compulsory information requests to Anthropic, OpenAI and METR. Five days earlier, Chair Andrew Ferguson
+told a Reuters event
+: "If someone tells a tool to do something, and the tool does it, I don't think we would say, 'Oh, what do we do about the tool?'" Expect a buyer's counsel to have read that sentence before asking for your agent logs.
+05
+For 80% of sponsors with an AI hire, the count is one.
+Vardis, a search firm,
+counts
+about 400 people in the realistic mid-market candidate pool. The strong ones receive two or three approaches from sponsors a month. Your proof file needs an owner inside the portco.
+Pilot vs. Proof.
+The left column shows what a buyer discounts. The right shows what a buyer can underwrite. Most of it comes from the language Jefferies and Bain used this quarter. Screenshot it, then check which column your last board update belongs in.
+Q4 just started. There's still time to set a baseline and show your board a measurable AI result before 2027 plans are locked.
+Book a call to start this quarter. We work month to month, and if we don't deliver, you don't pay.
+→ BOOK A DISCOVERY CALL ←
+Until next Tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+P.S. If you start this month, you still have time to ship a useful agent before the year ends. Book a
+30-minute discovery call
+, bring one workflow, and we'll tell you on the call whether it qualifies. There's no discovery fee.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"escape-the-pilot-purgatory","url":"https://thefoundation.limestonedigital.com/p/escape-the-pilot-purgatory","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/escape-the-pilot-purgatory"},"headline":"🟪 escape the \"pilot purgatory\"","description":"If AI is in your exit story, a list of pilots won't prove it.","datePublished":"2026-10-06T15:28:34.341Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/81ab62e9-f90a-44df-bba9-3e9678b00b51/playbook-46-escape-the-pilot-purgatory.png?t=1791300390"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-10-06T15:28:58Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/escape-the-pilot-purgatory","name":"🟪 escape the \"pilot purgatory\""}}]}

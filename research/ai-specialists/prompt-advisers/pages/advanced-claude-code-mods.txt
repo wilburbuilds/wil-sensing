@@ -1,0 +1,140 @@
+URL: https://www.promptadvisers.com/advanced-claude-code-mods
+Fetched: 2026-10-26T03:45:08Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/advanced-claude-code-mods
+Content-Type: text/html
+Via: chrome-headless
+Title: Advanced Claude Code Mods: Add Codex Features to Claude
+Meta description: Advanced Claude Code mods can borrow Codex computer use and multi-model threads. See how I built both and grab the prompts. Join the community.
+Canonical: https://www.promptadvisers.com/advanced-claude-code-mods
+Robots: 
+H1: Advanced Claude Code Mods: Add Codex Features to Claude
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · CLAUDE CODE
+
+Advanced Claude Code Mods: Add Codex Features to Claude
+
+Advanced Claude Code mods can borrow Codex computer use and multi-model threads. See how I built both and grab the prompts. Join the community.
+
+MARK KASHEF
+OCTOBER 9, 2026
+5 MIN READ
+WATCH THE VIDEO
+
+Advanced Claude Code mods let you add whole features that Claude does not ship with, like Codex's computer use and multi-model threads. I built both, and they took real iteration, but they work. Here is how each one came together and how you can copy the approach.
+
+TL;DR
+
+A bridge mod let Claude Code run Codex's computer use, so Claude acted as the brain and Codex supplied the hands.
+It runs on an existing Codex subscription, so there is no extra agents API cost.
+The computer use mod did not work on the first prompt. It took roughly an hour of troubleshooting with a slash goal.
+A Threads mod spins up five parallel sessions on different models, with one lead thread reporting back a single answer.
+How Advanced Claude Code Mods Add Codex Features
+
+You get there by having Claude orchestrate tools it does not own. My demo was simple. I typed slash Codex-CU, set it to on, and asked Claude Code to use the calculator.
+
+WATCH ON YOUTUBE
+
+It skipped its own internal browser and opened the calculator through Codex. It ran a hypothetical subscription calculation, wrote the result in a text document, then bolded and formatted it. If you want the basics first, read my guide to Claude Code mods.
+
+I share the prompts and the GitHub repo for both mods in the second link under the video. To go deeper on mods, join Early AI-dopters, 1,000+ people mastering Claude Code and Codex.
+
+JOIN EARLY AI-DOPTERS
+How Does Claude Code Use Codex Computer Use?
+
+It connects to Codex's tools through an MCP bridge, so Claude makes the decisions and Codex does the clicking. Many tools can be exposed as an MCP server, and almost any model can reach them with a proper bridge.
+
+Every click sends visual confirmation back to Claude, which then picks the next click. I asked Claude to watch Codex run computer use and listen for every service it called. It then wrote a launcher script. The next obstacle was permissions, since Codex kept asking "can I click here?" So Claude built a persistent helper that keeps a live session open and approves those requests behind the scenes. For comparison, see my test of GPT-6 Astra computer use.
+
+How Do You Build a Mod Claude Says Is Impossible?
+
+Make Claude observe the real thing, then push it with a goal. Claude often says a hacky connection cannot work, until you probe it and it checks.
+
+My build prompt had a clear north star: use Codex's computer use whenever I ask for something on my Mac. It also included:
+
+A check that the mod follows the latest Codex app version.
+A first-use permission prompt with three choices: allow for this chat, always allow, or don't allow.
+An easy on and off switch, on by default, so I can still use Claude's browser.
+Troubleshooting steps and a rule for where files should live.
+
+I did not one-shot it. After a few failed tries, I used a slash goal and listed the errors. About an hour later, it worked. The honest con is that slash goal burns lots of tokens.
+
+Can Claude Desktop Run Multiple Threads on Different Models?
+
+Not on its own, but a Threads mod makes it possible. When I asked a fresh Claude Desktop chat, it said the best it could do was run subagents on a chosen model.
+
+With the mod, one prompt spun up five threads. One lead thread organized the rest and reported back. A pane on the right showed which model led, what each thread was doing, and the spend. I could steer all threads from that one place. The final work landed in the main chat.
+
+To build it, I had Claude audit the Codex logs while I created threads in the Codex app. I told it to inspect the mod authoring API before calling anything impossible. I also had it run the CLI help to find model flags and sidebar tools. A good plan runs like this: Opus plans, Sonnet executes, and Haiku checks.
+
+What Should You Test Before Trusting a Complex Mod?
+
+Give Claude a step-by-step test, one thread first, then two, then more. That is what my slash goal did. I also asked for remote control eligibility so I could manage sub-threads away from my desk. I only learned that after a lot of iteration.
+
+You can feed my prompts and code back into Opus 5.5 for your next big idea. For longer-running setups, pair this with a solid local AI setup. The official Claude Code docs cover the hooks these mods build on.
+
+Final Thoughts from Mark
+
+Claude does not have to wait for Anthropic to ship the features you want. If you can describe the goal and let Claude test its own work, you can build them yourself. Start with one small bridge and expand from there.
+
+Advanced Claude Code Mods FAQs
+
+What are advanced Claude Code mods?
+
+They are mods that add whole features Claude does not ship with, instead of small tweaks like colors. I built two: one lets Claude Code drive Codex's computer use, and one spins up multiple threads on different models with a lead thread in charge.
+
+Can Claude Code use Codex computer use?
+
+Yes, with a bridge. Codex's computer use tools can be exposed as an MCP server, so a persistent local helper can connect Claude to them. Claude becomes the brain and Codex supplies the hands. It runs on your existing Codex subscription, so there is no extra API cost.
+
+How do you build a Claude Code mod that Claude says is impossible?
+
+Make Claude watch the real thing run first. I opened Codex and asked Claude to listen for every tool it used. Once it saw them, it admitted the connection was possible. Then I used the slash goal command to push it through testing until it worked.
+
+Can Claude Desktop run threads on different models?
+
+Not by default. Claude Desktop told me the best it could do was run subagents on a chosen model. With the Threads mod, it starts each helper as a real Claude Code session on the model I ask for, shown in the sidebar with a tracking pane.
+
+Did the mods work on the first try?
+
+No. The computer use mod took a few tries and roughly an hour of troubleshooting with a slash goal before it worked. Plan for iteration, and give Claude a specific test, like using the calculator, so it can check its own work.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/advanced-claude-code-mods#article","headline":"Advanced Claude Code Mods: Add Codex Features to Claude","description":"Advanced Claude Code mods can borrow Codex computer use and multi-model threads. See how I built both and grab the prompts. Join the community.","image":["https://www.promptadvisers.com/blog/advanced-claude-code-mods/advanced-claude-code-mods-hero.webp"],"datePublished":"2026-10-09T00:00:00-05:00","dateModified":"2026-10-09T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/advanced-claude-code-mods","keywords":"advanced Claude Code mods, Claude Code computer use, Claude Code threads, Codex computer use bridge, Claude Code plugins","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Advanced Claude Code Mods: Add Codex Features to Claude","description":"Advanced Claude Code mods can borrow Codex computer use and multi-model threads. See how I built both and grab the prompts. Join the community.","thumbnailUrl":["https://i.ytimg.com/vi/UcvD53jqHRU/maxresdefault.jpg"],"uploadDate":"2026-10-09T00:00:00-05:00","duration":"PT15M40S","contentUrl":"https://www.youtube.com/watch?v=UcvD53jqHRU","embedUrl":"https://www.youtube-nocookie.com/embed/UcvD53jqHRU","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What are advanced Claude Code mods?","acceptedAnswer":{"@type":"Answer","text":"They are mods that add whole features Claude does not ship with, instead of small tweaks like colors. I built two: one lets Claude Code drive Codex's computer use, and one spins up multiple threads on different models with a lead thread in charge."}},{"@type":"Question","name":"Can Claude Code use Codex computer use?","acceptedAnswer":{"@type":"Answer","text":"Yes, with a bridge. Codex's computer use tools can be exposed as an MCP server, so a persistent local helper can connect Claude to them. Claude becomes the brain and Codex supplies the hands. It runs on your existing Codex subscription, so there is no extra API cost."}},{"@type":"Question","name":"How do you build a Claude Code mod that Claude says is impossible?","acceptedAnswer":{"@type":"Answer","text":"Make Claude watch the real thing run first. I opened Codex and asked Claude to listen for every tool it used. Once it saw them, it admitted the connection was possible. Then I used the slash goal command to push it through testing until it worked."}},{"@type":"Question","name":"Can Claude Desktop run threads on different models?","acceptedAnswer":{"@type":"Answer","text":"Not by default. Claude Desktop told me the best it could do was run subagents on a chosen model. With the Threads mod, it starts each helper as a real Claude Code session on the model I ask for, shown in the sidebar with a tracking pane."}},{"@type":"Question","name":"Did the mods work on the first try?","acceptedAnswer":{"@type":"Answer","text":"No. The computer use mod took a few tries and roughly an hour of troubleshooting with a slash goal before it worked. Plan for iteration, and give Claude a specific test, like using the calculator, so it can check its own work."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Advanced Claude Code Mods: Add Codex Features to Claude","item":"https://www.promptadvisers.com/advanced-claude-code-mods"}]}]
+

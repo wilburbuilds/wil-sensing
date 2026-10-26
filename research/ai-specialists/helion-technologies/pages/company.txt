@@ -1,0 +1,218 @@
+URL: https://heliontechnologies.com/company/
+Fetched: 2026-10-26T03:55:15Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/company/
+Content-Type: text/html
+Via: chrome-headless
+Title: About Helion: Dealership IT Since 1997 | Helion Technologies
+Meta description: About Helion: founded in 1997, Helion Technologies provides managed IT and cybersecurity only to automotive and heavy-truck dealerships.
+Canonical: https://heliontechnologies.com/company/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Purpose-Built for Automotive and Heavy-Truck Dealerships
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+ABOUT HELION TECHNOLOGIES
+
+Purpose-Built for Automotive and Heavy-Truck Dealerships
+
+Helion Technologies is a managed IT and cybersecurity company that works only with automotive and heavy-truck dealerships. Founded in 1997 by Erik Nachbahr and based in Baltimore, Maryland, Helion supports more than 2,000 dealerships and 35,000 end users from one integrated team.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+1997
+
+Year founded
+
+2,000+
+
+Dealerships supported
+
+35,000+
+
+End users supported
+
+WHY HELION
+
+A Team That Understands the Dealership Business
+
+A technology partner should know how your dealership runs and see problems coming before they reach the sales floor or the service drive.
+
+One Integrated Team
+
+Managed IT, cybersecurity and Tekion enablement work as one coordinated team, with one partner accountable and no vendor finger-pointing.
+
+Dealership Focus
+
+Automotive and heavy-truck dealerships are the only businesses Helion serves, so every process is built around how a store runs.
+
+Proven Scale
+
+Supporting more than 2,000 dealerships and 35,000 end users takes experienced engineers, cybersecurity specialists and proven processes.
+
+Built for What’s Next
+
+Helion helps dealerships prepare for what comes next, instead of only reacting to the problems in front of them today.
+
+Explore Our Services
+
+HOW HELION WORKS
+
+Technology That Moves Your Dealership Forward
+
+Technology should give a dealership an edge, not another operating problem. Helion brings managed IT, cybersecurity, Tekion enablement, DMS transition support and managed AI together in one program built only for automotive and heavy-truck dealerships. FTC Safeguards Rule support is part of Helion’s managed services for its clients.
+
+Helion keeps improving each dealership’s technology instead of reacting after something breaks, so the people running the store can focus on growing the business.
+
+What Helion Works Toward
+Better performance from the dealership’s technology.
+Lower cyber risk for the dealership.
+One accountable partner instead of several vendors to coordinate.
+Technology that supports the dealership’s growth.
+
+AWARDS, 2017 TO 2023
+
+Industry Recognition
+
+IT industry publishers have named Helion to their annual lists of managed service providers. Each entry shows the list and the year Helion was named to it.
+
+The MSP 501 was compiled by MSPmentor in 2017 and by Channel Futures from 2018. Helion appeared on the 2017 and 2018 lists under its former name, Helion Automotive Technologies.
+
+2023
+CRN MSP 500
+2022
+Channel Futures MSP 501
+2022
+CRN MSP 500
+2021
+Channel Futures MSP 501
+2021
+ChannelE2E Top 100 Vertical Market MSPs
+2020
+Channel Futures MSP 501
+2020
+ChannelE2E Top 100 Vertical Market MSPs
+2020
+CRN MSP 500
+2018
+Channel Futures MSP 501
+2017
+MSPmentor 501
+
+THE PEOPLE BEHIND HELION
+
+The Right Experts Behind Every Solution
+
+Dealership technology now spans infrastructure, cloud platforms, cybersecurity, AI and dealer applications, which is more than any one person can master. Helion has built dedicated teams of engineers, cybersecurity specialists and technology advisors who work together, so each client draws on the whole group’s knowledge.
+
+Read Client Testimonials →
+Erik Nachbahr, CISSP
+
+FOUNDER & PRESIDENT
+
+Erik founded Helion Technologies in 1997 and has spent nearly 30 years working only with automotive and heavy-truck dealerships. He writes and speaks about the parts of dealership technology that operators often inherit rather than choose, such as vendor sprawl, AI governance and cyber risk.
+
+More About Erik Nachbahr →
+Join the Helion Team
+
+Helion is always looking for new talent to join a team that works only with dealerships. Current openings are listed on the careers page.
+
+View Open Positions →
+Common Questions
+
+Last updated: October 3, 2026
+
+What does Helion Technologies do?
+How long has Helion worked with dealerships?
+Who founded Helion Technologies?
+How is Helion different from a general IT provider?
+How do I request a quote from Helion?
+
+TALK TO HELION
+
+Ready to Learn More About Helion?
+
+Complete the form with your name, work email and dealership or group, and a Helion representative will contact you about pricing based on your stores and the services you need.
+
+Prefer to talk first? Call (443) 541-1500.
+
+Request a Price Quote
+
+First name
+Last name
+Work email
+Dealership or group
+Phone
+
+Phone is optional. Every other field is required. Privacy policy.
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/company/#wpcf7-f100066-p3702-o1" id=""
+  - input type=text name="firstname" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="lastname" id="" label="" placeholder="" aria="" required=false
+  - input type=email name="email" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="company" id="" label="" placeholder="" aria="" required=false
+  - input type=tel name="phone" id="" label="" placeholder="" aria="" required=false
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+  - input type=text name="alt_s" id="alt_s" label="" placeholder="" aria="" required=false
+  - input type=text name="hrtxfy5586" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/company\/","url":"https:\/\/heliontechnologies.com\/company\/","name":"About Helion: Dealership IT Since 1997 | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"datePublished":"2020-02-11T16:46:34+00:00","dateModified":"2026-10-03T12:41:37+00:00","description":"About Helion: founded in 1997, Helion Technologies provides managed IT and cybersecurity only to automotive and heavy-truck dealerships.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/company\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/company\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/company\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Company"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"FAQPage","@id":"https://heliontechnologies.com/company/#faq","url":"https://heliontechnologies.com/company/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"What does Helion Technologies do?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies provides managed IT, cybersecurity, Tekion enablement, DMS transition support and managed AI to automotive and heavy-truck dealerships and no other kind of business. Its engineers, cybersecurity specialists and technology advisors work as one coordinated team, so a dealership has one partner accountable for its technology instead of several vendors. The services page describes each service."}},{"@type":"Question","name":"How long has Helion worked with dealerships?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies has worked only with automotive and heavy-truck dealerships since it was founded in 1997, which makes nearly 30 years. Based in Baltimore, Maryland, Helion now supports more than 2,000 dealerships and 35,000 end users, from single stores to large dealer groups operating multiple rooftops across multiple states."}},{"@type":"Question","name":"Who founded Helion Technologies?","acceptedAnswer":{"@type":"Answer","text":"Erik Nachbahr founded Helion Technologies in 1997 and leads the company as its founder and president. He holds the CISSP, a certification for information security professionals. Helion has worked only with automotive and heavy-truck dealerships from the start, and it now supports more than 2,000 dealerships and 35,000 end users from its base in Baltimore, Maryland."}},{"@type":"Question","name":"How is Helion different from a general IT provider?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies serves automotive and heavy-truck dealerships and no other kind of business, so its services, processes and recommendations are built around how a dealership operates. Managed IT, cybersecurity and Tekion enablement run as one coordinated team rather than separate vendors, which removes the finger-pointing between providers when something goes wrong."}},{"@type":"Question","name":"How do I request a quote from Helion?","acceptedAnswer":{"@type":"Answer","text":"To request a quote from Helion Technologies, complete the form on this page with your name, work email and dealership or group; the phone field is optional. A Helion representative then contacts you about pricing based on your dealership's needs, and dealer groups can tell the representative how many rooftops they run. Prefer to talk first? Call (443) 541-1500."}}]}]}
+

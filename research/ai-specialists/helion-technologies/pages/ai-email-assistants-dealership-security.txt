@@ -1,0 +1,227 @@
+URL: https://heliontechnologies.com/ai-email-assistants-dealership-security/
+Fetched: 2026-10-26T03:57:33Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ai-email-assistants-dealership-security/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Email Assistant for Car Dealership Management
+Meta description: AI email assistant for car dealership management: what it can read in staff mailboxes, what it can send in your name, and where customer data really leaks.
+Canonical: https://heliontechnologies.com/ai-email-assistants-dealership-security/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Email Assistants at the Dealership: What They Can Read, Send and Leak
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI Email Assistants at the Dealership: What They Can Read, Send and Leak
+By Erik Nachbahr
+October 16, 2026 · 12 min read
+
+An AI email assistant at a dealership reads whatever mailbox it’s plugged into, can send as whoever plugged it in, and may pass customer data to an outside model. Management should decide all three, not the salesperson.
+
+Last updated: October 16, 2026
+
+I use Claude all day long, and I’ve got it hooked into Excel, Word, PowerPoint, my mailbox, and my calendar. When I told a DealersEdge webinar audience this month that “it is literally the greatest thing since sliced bread,” I wasn’t being cute. It changed how I work.
+
+Then I gave them the catch, the part I always end up saying even though nobody wants to hear it: “However, what folks don’t think about is when I hook the AI in, it’s hooked into my mailbox. Depending on what permission you have, you could hook the AI into the corporate system, right?” My mailbox has my stuff in it. An admin who does the same thing can reach everybody’s stuff, and that’s a real problem.
+
+We support dealerships that employ about 35,000 people, and a lot of the AI requests we hear now are some version of “can I hook this up to my email?” Usually, yes. But who decides, and what it’s allowed to touch once it’s in there, is a management call, and it shouldn’t default to whoever found the tool first. Picking, connecting, and watching those tools is what managed AI for dealerships means to us, done by the same team that already runs your security.
+
+The assistant only gets the keys you hand it.
+
+What an AI Email Assistant Can Read
+
+An AI email assistant is software that plugs into a dealership’s Microsoft 365 or Google mailboxes to read, sort, summarize, draft, or answer email. For dealership management, the question isn’t which one writes the nicest reply. It’s which mailboxes it can open, and that depends entirely on the permission somebody granted when they connected it.
+
+My own assistant runs on what’s called delegated permission, which is a fancy way of saying it borrows my sign-in and sees my mail, my calendar, and the folders people have shared with me, and nothing I couldn’t open myself. That’s the safer kind. The other kind is application permission, where the software runs with nobody signed in at all, and Microsoft’s description of the Mail.ReadWrite application role is about as blunt as Microsoft gets: it “allows the app to create, read, update, and delete email in all mailboxes without a signed-in user.” Every mailbox. Payroll’s too.
+
+Who approves it? In a default Microsoft 365 setup, the employee does. Microsoft’s own documentation says “by default, a user can consent to allow an app to access their mailbox,” which means a salesperson can click Allow on a browser extension between ups and IT finds out months later, if ever. I’d bet most dealer principals don’t know that setting exists.
+
+And think about what a salesperson’s inbox holds: credit app follow-ups, the driver’s license a customer emailed when the portal wouldn’t load, payoff letters on trades. Now add admin rights, which we still find on everyday accounts at a lot of stores because somebody set them up that way years ago. I said it on the webinar: “it might be elevated admin, but AI gets, has reach into whatever data that at the level that it’s given access, and it’s going to use it, believe me.” Not my most grammatical moment. Still true. An admin who connects an assistant because it’s handy can hand it the whole company without meaning to.
+
+The permission is what you’re really buying.
+
+What It Can Send, and Who It Speaks For
+
+The 11 p.m. internet lead is where email AI earns its keep. Picture a shopper asking about a used F-150 at 10:52 at night. The assistant answers in under a minute, warm and polite, with three appointment times. Dealers love that. They should. The Cox Automotive AI Readiness in Auto Retail Study (October 2025, 516 dealership leaders) found the top marketing use for AI was engaging customers 24/7 with automated text, chat, or email, at 52%, with personalized emails and texts right behind at 48%.
+
+The same study found 74% of dealers worry about AI accuracy and errors. They’re right to.
+
+An assistant that can send is speaking for your store. If it answers the F-150 lead with a payment figure the desk never approved, or “confirms” a trade value, or tells a customer the truck is still on the lot when it sold Saturday, that email went out under your dealership’s name. The customer doesn’t care that a model wrote it. Nobody will. Our breakdown of AI legal risks for dealerships covers the liability side of that in more detail.
+
+There’s a security version of the same problem. Microsoft’s description of the Mail.Send application role is that it “allows the app to send mail as any user without a signed-in user.” Any user. If the app or the vendor behind it is ever compromised, somebody else can send email as your F&I manager asking a customer to “re-verify” bank details. Email fraud already works without AI. An app that can send as anyone makes it easier.
+
+So the rule I’d set is simple. Drafts are fine. Auto-send to customers is a decision with a named owner, a narrow scope, and someone reading a sample of what went out every week. The same thinking applies to voice, and it’s why we wrote a separate security and consent checklist for AI phone agents.
+
+If it can send as you, it’s you.
+
+Where Customer Data Leaks
+
+The simplest leak doesn’t involve any connected app at all. Somebody copies an email into a chatbot. On the webinar I put it this way: “Even if it’s as simple as they’re writing email to a customer and having a customer wanting AI to check it, well, now they’ve got PII that they’re uploading into AI.” That’s a salesperson trying to sound more professional. Good instinct. Bad place. They pasted a customer’s name, address, and loan details into a personal account the store doesn’t own, can’t audit, and can’t switch off. Accounts are the first rule in the AI module of our security awareness training.
+
+We’ve already seen this exact problem more than once. Personal AI accounts on dealership workstations, no audit trail, customer data going in. A personal chatbot account belongs to the employee, so when that salesperson leaves for the store across the street, the conversation history goes with them. Who owns that? Not you.
+
+The connected assistants leak differently. A mailbox app typically sends the email it reads to the vendor’s servers, and often to a model provider behind the vendor. Whether that data trains a model, how long it’s kept, and who at the vendor can see it all come down to the plan and the contract. The FTC has said it will hold AI companies to those promises. Its January 2024 guidance, “AI Companies: Uphold Your Privacy and Confidentiality Commitments,” ends with a line every dealer should keep handy: “There is no AI exemption from the laws on the books.”
+
+It cuts both ways, though. A dealership that arranges financing is a financial institution under the FTC Safeguards Rule, and the rule expects you to control who and what can reach customer information and to oversee the service providers that touch it, under 16 CFR 314.4. An email assistant vendor reading your sales inboxes is a service provider. It belongs on your vendor list with the DMS and the CRM, with the same questions asked. For the longer version of how public AI and customer data collide, see public AI and customer PII.
+
+Everybody says their AI is secure. What does that actually mean? It means a written answer to four questions: what it stores, where, for how long, and whether it trains on it. No written answer, no mailbox.
+
+TYPE OF EMAIL AI	WHAT IT CAN REACH	BIGGEST RISK	WHAT MANAGEMENT SHOULD SET
+Personal chatbot (email pasted in)	Whatever the employee pastes	Customer PII in an account the store doesn’t own	A written policy and a corporate AI account instead
+Mailbox-connected assistant (delegated)	Everything the signed-in user can open	Users approving apps themselves	Admin approval for new apps; review existing grants
+Company-wide app (application permission)	Every mailbox, with nobody signed in	One compromised app reads and sends as anyone	Scope it to named mailboxes only
+Lead-response platform (auto-replies)	Lead inbox, CRM records, inventory feed	Wrong prices or promises sent in the store’s name	A named owner and a weekly read of what it sent
+
+The leak is usually a convenience somebody didn’t think through.
+
+What Dealers Say When We Bring This Up
+
+To be clear, I’m not telling you to keep AI out of the inbox. I use it there myself, every day. The question isn’t whether to use it. It’s whether anybody decided what it’s allowed to touch.
+
+“Our people are already using AI tools.” That’s almost always true, and it’s almost always ungoverned: personal accounts, no audit trail, customer data moving outside your security controls. The fix is a governed workspace your store owns, run by the same team that runs everything else.
+
+“It’s just email.” It isn’t. Email is where customers send the things they shouldn’t. Driver’s licenses, pay stubs, insurance cards. It’s the least organized customer file in the building.
+
+“The vendor says it’s secure.” Great. Then ask them to put what they store, where, and for how long in the contract. If they won’t put it in writing, you have your answer.
+
+The objection is usually the policy you haven’t written yet.
+
+The Settings We’d Check First
+
+None of this needs a new product. It needs somebody to look. Here’s the order we’d work it at a dealership that already has AI touching email, which, these days, is almost every dealership.
+
+Find out what’s already connected. In Microsoft 365, the enterprise applications list shows every app someone approved, and what it can do. Changing the consent setting later doesn’t undo old approvals, so this list is where the surprises are.
+Stop letting users approve any app on their own. Microsoft recommends allowing user consent only for apps from verified publishers. We’d go one step further for mailboxes and route new requests through an admin approval workflow, so a request lands with a person.
+Scope the big ones. If a lead-response or archiving vendor truly needs app-level mail access, Exchange Online’s RBAC for Applications can limit it to the mailboxes it needs, say the internet sales inbox, instead of every mailbox in the group.
+Take admin rights off everyday accounts. That one fix shrinks what any assistant can reach, AI or not.
+Corporate accounts only.
+For anything that sends to customers: drafts by default, auto-send only on a short list of message types, and one manager who reads a sample every week. Someone has to own the output.
+Put the vendor on the vendor list. Get the data-handling answers in writing, the same way you would for any company holding customer information.
+
+The policy side is already written. Our dealership AI use policy template covers personal accounts, customer data, and approvals, and you can adapt it this week. The Microsoft side is part of Microsoft 365 management and security for dealerships, and if Copilot is next on your list, read what to lock down before you turn Copilot on first.
+
+Look first. Connect second.
+
+Questions Managers Ask About AI in the Inbox
+Can an AI email assistant read every mailbox at the dealership?
+Our BDC wants auto-replies on internet leads. Bad idea?
+Does pasting a customer email into ChatGPT count as a data leak?
+We found an app nobody remembers approving. Now what?
+Is Microsoft Copilot safer than a third-party email assistant?
+Hand It the Keys on Purpose
+
+I’ll go back to my own setup, because it’s the fair test. My assistant can read my mail because I decided it should, on a corporate account, with my permissions and nobody else’s. That’s the whole difference between a tool and a leak. Somebody chose.
+
+A lot of dealerships haven’t made that choice yet. The tools got there first. That’s fixable. If you want to know what’s already connected to your mailboxes, who can approve the next one, and which accounts are carrying admin rights they don’t need, start with our complimentary IT and cybersecurity assessment. If AI is the bigger question, the AI readiness assessment for dealerships looks at the tools your people already use and the customer data they can reach. You can also watch the webinar clip where I walk through the mailbox example, or the full session in our guide to AI governance for dealerships.
+
+Decide what the assistant can touch before it decides for you.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What an AI Email Assistant Can Read
+What It Can Send, and Who It Speaks For
+Where Customer Data Leaks
+What Dealers Say When We Bring This Up
+The Settings We’d Check First
+Questions Managers Ask About AI in the Inbox
+Hand It the Keys on Purpose
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"AI Email Assistants at the Dealership: What They Can Read, Send and Leak","datePublished":"2026-10-16T15:53:59+00:00","dateModified":"2026-10-16T15:54:00+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/"},"wordCount":2481,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-email-assistants-dealership-security-featured.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/","url":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/","name":"AI Email Assistant for Car Dealership Management","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-email-assistants-dealership-security-featured.webp","datePublished":"2026-10-16T15:53:59+00:00","dateModified":"2026-10-16T15:54:00+00:00","description":"AI email assistant for car dealership management: what it can read in staff mailboxes, what it can send in your name, and where customer data really leaks.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-email-assistants-dealership-security-featured.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-email-assistants-dealership-security-featured.webp","width":1200,"height":500,"caption":"Decide what an AI email assistant can read, send and share before anyone clicks Allow."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ai-email-assistants-dealership-security\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI Email Assistants at the Dealership: What They Can Read, Send and Leak"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ai-email-assistants-dealership-security/#article","headline":"AI Email Assistants at the Dealership: What They Can Read, Send and Leak","description":"AI email assistant for car dealership management: what it can read in staff mailboxes, what it can send in your name, and where customer data really leaks.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ai-email-assistants-dealership-security-featured.webp","datePublished":"2026-10-16T11:53:59-04:00","dateModified":"2026-10-16T11:54:00-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ai-email-assistants-dealership-security/"},"about":[{"@type":"Thing","name":"AI email assistant","description":"Software that connects to Microsoft 365 or Google mailboxes to read, sort, summarize, draft, or answer email."},{"@type":"Thing","name":"FTC Safeguards Rule","description":"The FTC rule (16 CFR Part 314) that requires covered financial institutions, including auto dealerships that arrange financing, to keep an information security program with access controls and service provider oversight."}],"mentions":[{"@type":"CreativeWork","name":"Microsoft Exchange Online","publisher":{"@type":"Organization","name":"Microsoft"}},{"@type":"CreativeWork","name":"Microsoft Entra ID"},{"@type":"CreativeWork","name":"Microsoft Copilot"},{"@type":"CreativeWork","name":"Claude","publisher":{"@type":"Organization","name":"Anthropic"}},{"@type":"CreativeWork","name":"ChatGPT","publisher":{"@type":"Organization","name":"OpenAI"}},{"@type":"GovernmentOrganization","name":"Federal Trade Commission","alternateName":"FTC"},{"@type":"Organization","name":"Cox Automotive"},{"@type":"Person","name":"Erik Nachbahr","worksFor":{"@id":"https://heliontechnologies.com/#organization"}}],"keywords":"AI email assistant for dealerships, AI email assistant car dealership management, dealership email security, AI auto-replies to leads, customer data and AI, FTC Safeguards Rule","inLanguage":"en-US"}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/ai-email-assistants-dealership-security/#faq","mainEntity":[{"@type":"Question","name":"Can an AI email assistant read every mailbox at the dealership?","acceptedAnswer":{"@type":"Answer","text":"Only with application permission, and an admin has to approve that. A normal connection stays inside one person's mailbox and whatever's shared with them. I'd still go look, because in my experience the surprises are the apps somebody approved for \"just a quick test\" two years ago and then forgot about."}},{"@type":"Question","name":"Our BDC wants auto-replies on internet leads. Bad idea?","acceptedAnswer":{"@type":"Answer","text":"Fine by me, as long as a manager owns it. Acknowledgments, appointment times, and store hours are great. Prices, payments, and trade values aren't. Then read a sample of what it sent every week, the same way you'd listen to a few BDC calls."}},{"@type":"Question","name":"Does pasting a customer email into ChatGPT count as a data leak?","acceptedAnswer":{"@type":"Answer","text":"It can be. If there's a name, a phone number, or loan details in that email, it's now in an account your store doesn't control, and depending on the plan, it may help train the model. Give people a corporate account with training off and a one-page policy, and tell them in plain words that Social Security numbers and anything from a deal jacket never go in."}},{"@type":"Question","name":"We found an app nobody remembers approving. Now what?","acceptedAnswer":{"@type":"Answer","text":"Find out who's using it before you touch it. Sometimes it's something the BDC or the service department leans on every day, and pulling it on a busy Saturday makes you the bad guy. If nobody claims it, revoke it."}},{"@type":"Question","name":"Is Microsoft Copilot safer than a third-party email assistant?","acceptedAnswer":{"@type":"Answer","text":"Copilot keeps your mail inside your own Microsoft 365 tenant and follows the permissions you already have, which takes the outside vendor out of the picture. That's the upside. The downside is the same as everywhere else in this article: it shows people whatever they can already open, so if permissions are a mess, Copilot finds the mess faster."}}]}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/ai-email-assistants-dealership-security/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

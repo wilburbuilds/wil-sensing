@@ -1,0 +1,156 @@
+URL: https://pixelnarratives.studio/about
+Fetched: 2026-10-26T03:34:34Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/about
+Content-Type: text/html
+Via: chrome-headless
+Title: About Pixel Narratives
+Meta description: Pixel Narratives is an AI implementation company based in Madison, Mississippi, serving businesses across Mississippi, Alabama, the Memphis area, and Atlanta.
+Canonical: https://pixelnarratives.studio/about
+Robots: 
+H1: About Pixel Narratives
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+ABOUT
+
+About Pixel Narratives
+
+FOUNDER
+
+Jordan Maruszak
+
+FOUNDER, PIXEL NARRATIVES
+
+LinkedIn
+
+Pixel Narratives started with a camera. Sort of.
+
+In 2025, I started experimenting with AI video, creating cinematic commercials, ridiculous characters, and ads that probably would have required a much bigger budget a few years earlier.
+
+People started asking how I was making them.
+
+Then the questions changed.
+
+Could AI help with research? What tools should our team be using? Could we train our employees? Where should we implement AI? When does it make sense to build something custom?
+
+Those conversations became the foundation for Pixel Narratives.
+
+Before starting the company, I spent more than 15 years in financial services, working closely with business owners and leadership teams. That experience taught me something I've carried into this business.
+
+People are usually pretty good at the thing they do every day. Asking them to learn an entirely new technology on top of everything else isn't always realistic.
+
+It also taught me the value of listening, understanding what someone wants to accomplish, and helping them work through the decisions that get them there.
+
+That's how I approach AI.
+
+I've spent a lot of time experimenting with what these tools can do, from building software and business systems to creating videos, music, and marketing campaigns. I even wrote a book about the opportunities AI creates when people are willing to try something new.
+
+But the point of all that experimenting isn't to collect more tools.
+
+It's to figure out what's possible, what works, and how to put it to use for somebody else.
+
+That's what we do at Pixel Narratives.
+
+ABOUT PIXEL NARRATIVES
+
+Pixel Narratives is an AI implementation company based in Madison, Mississippi. We help businesses figure out where AI makes sense, how to put it to work, and how to get value from it.
+
+We work with businesses across Mississippi, Alabama, the Memphis area, and Atlanta. Who we work with.
+
+AI IS A TOOL
+
+There's a lot of attention on what AI can do. We think the more important question is what it can do for your business.
+
+That starts with understanding your people, how work gets done, what your customers need, and what you're trying to accomplish.
+
+Sometimes the answer is a tool your team already has. Sometimes it's training, a better process, or something custom.
+
+The technology is only useful if it helps you get somewhere.
+
+HOW WE WORK
+
+Most business owners and their teams are already good at what they do. They don't necessarily have time to keep up with every new AI tool, figure out which ones matter, and learn how to use them well.
+
+That's where we come in.
+
+We listen. We learn how your business works. We help you identify opportunities worth pursuing and put them into practice.
+
+That could mean a single project or an ongoing partnership.
+
+The goal is simple. Help your business save time, reach more customers, and take advantage of what AI makes possible.
+
+IN THE NEWS
+
+Pixel Narratives has been featured for its work helping Mississippi and Southeast businesses turn artificial intelligence into practical business systems.
+
+EIN PRESSWIRE
+
+PRESS RELEASE
+
+Pixel Narratives Brings AI Implementation Services to Mississippi Businesses
+August 24, 2026
+
+BUSINESS NEWS & INFO
+
+MEDIA COVERAGE
+
+Pixel Narratives Featured by Business News & Info
+August 24, 2026
+
+View all news →
+
+THE BOTTOM LINE
+
+We're not here to impress you with AI.
+
+We're here to help you use it
+to grow your business.
+
+Let's put AI to work for your business.
+Start a Conversation
+
+Official information for search and AI assistants.
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":["WebPage","AboutPage"],"@id":"https://pixelnarratives.studio/about#webpage","url":"https://pixelnarratives.studio/about","name":"About Pixel Narratives","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi, serving businesses across Mississippi, Alabama, the Memphis area, and Atlanta.","dateModified":"2026-10-16"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"About","item":"https://pixelnarratives.studio/about"}]}]}
+

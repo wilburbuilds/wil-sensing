@@ -1,0 +1,74 @@
+SOURCE: image alts and links on https://consultingdjv.com/ that body innerText does not name.
+Method: headless Chrome, no form submitted, no booking.
+
+===== IMAGES =====
+(no alt)	6a230738c239c727c287287d_NewLogo%20Final%20DJVRev.avif
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+(no alt)	6a232ccc8f569a7b02cd5d58_WebsiteLeft.avif
+(no alt)	6a232b288a52603a21ea3e7b_DJV%20C%20Office%20Mkt.avif
+(no alt)	6a233019ce64444f852cc403_WebsiteImageRight.avif
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+(no alt)	6a96ac8613b9c408b616dc78_5%20Foot%20View%20GF%20SHIELD.avif
+(no alt)	6ad13f3d0055b1d138396d19_TFN%20Logo.avif
+(no alt)	6ad13c8e0000b7a11bdc9610_ApexBit%20Logo.avif
+(no alt)	6ad9094e90c3a2bfc8e6fdad_Humand%20Logo.avif
+Circle	685135d98cc59009390e9015_Group%201410103857.svg
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+(no alt)	68a0955e259fd242a0a2765b_SVG%20DJVC.avif
+(no alt)	68a0964e5aa2b48f4219bd07_SVG%20DJVC2.png
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+(no alt)	69c069998521c9290a0d9977_Kindred.avif
+(no alt)	69d5849f97872c9711d8fe46_Eleanor.avif
+(no alt)	69c072edb2fa019d9e9dd21d_SolvantImage.avif
+(no alt)	69c068c985a5cef8ee2e2f9f_Monolith.avif
+(no alt)	69c068ef31c83eb52ba8461d_SolidNestHomes.avif
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+Email contact	685135d98cc59009390e9011_Vectors-Wrapper.svg
+(no alt)	6851685defc48fa61ab1d084_SiteHeroBacknewC.avif
+An AI robot hand and a human hand about to touch.	6a233b5d9007d9d5f3b71182_WebsiteCTA2.avif
+Office computer, keyboard, mouse, phone and agenda.	6a233b7be3797c31e5adf228_WebsiteCTA1.avif
+(no alt)	6852733f69e44be3fb0fe86c_Fintech.avif
+(no alt)	6851685defc48fa61ab1d084_SiteHeroBacknewC.avif
+An AI robot hand and a human hand about to touch.	6a233b5d9007d9d5f3b71182_WebsiteCTA2.avif
+Office computer, keyboard, mouse, phone and agenda.	6a233b7be3797c31e5adf228_WebsiteCTA1.avif
+(no alt)	6852733f69e44be3fb0fe86c_Fintech.avif
+(no alt)	6851685defc48fa61ab1d084_SiteHeroBacknewC.avif
+An AI robot hand and a human hand about to touch.	6a233b5d9007d9d5f3b71182_WebsiteCTA2.avif
+Office computer, keyboard, mouse, phone and agenda.	6a233b7be3797c31e5adf228_WebsiteCTA1.avif
+(no alt)	6852733f69e44be3fb0fe86c_Fintech.avif
+(no alt)	6a230738c239c727c287287d_NewLogo%20Final%20DJVRev.avif
+social	685135d98cc59009390e902e_Vector.svg
+
+===== LINKS unique =====
+DJV Consulting	https://consultingdjv.com/
+Spanish	https://consultingdjv.com/es
+Your Free Call	https://calendly.com/dinojosevidili
+Visit	https://consultingdjv.com/ai-readiness
+Visit	https://www.controlasset.com.ar/
+Visit	https://consultingdjv.com/portfolio
+	https://www.linkedin.com/in/dino-jose-vidili/
+
+EMAILS 
+(no mailto and no email address in the homepage HTML)
+
+===== CARDS the body text does not name (from the homepage HTML, 26 October 2026) =====
+Each partnership card is one image plus one sentence. Image alt is empty. The name below is the file name, not a sentence on the page.
+
+5 Foot View GF SHIELD.avif — On-Demand Fractional Executive Leadership for Every Stage of Growth
+TFN Logo.avif — Global community connecting senior, vetted fractional executives with businesses looking for part-time leadership talent
+ApexBit Logo.avif — AI and automation for Accounts Payables, Accounts Receivables and Pharmacies
+Humand Logo.avif — An all-in-one HR platform designed to digitize the employee experience and build stronger workplace communities
+
+Web-design slider, heading and line are in the HTML with style opacity:0 and are absent from the saved body innerText of index.txt:
+our web design work
+As part of our complementary services
+The link goes to https://consultingdjv.com/portfolio
+Image file names in that slider: Kindred.avif, Eleanor.avif, SolvantImage.avif, Monolith.avif, SolidNestHomes.avif
+
+Inline embeds on the homepage (not followed as links by the first crawl):
+https://luma.com/embed/event/evt-O5VLxMx7QqW73HH/simple
+https://calendly.com/dinojosevidili/30min?embed_domain=consultingdjv.com&embed_type=Inline&hide_gdpr_banner=1
+
+Buttons "Your Free Call" and "Schedule Call" use https://calendly.com/dinojosevidili

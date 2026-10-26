@@ -1,0 +1,432 @@
+URL: https://app.aiautomationsociety.ai/certification-c2-v2
+Fetched: 2026-10-26T03:50:43Z
+HTTP status: 200
+Final URL: https://app.aiautomationsociety.ai/certification-c2-v2
+Content-Type: text/html
+Via: chrome-headless
+Title: Certified AI Consultant: Cohort 2 | AI Automation Society
+Meta description: Turn hands-on AI experience into professional consulting skills. In 12 weeks, master the 7 pillars that separate $2K projects from $15K+/month retainers, the skills Google, Anthropic, and OpenAI don’t teach. Cohort 2 is limited to 50 seats.
+Canonical: 
+Robots: 
+H1: Go From Hands-On AI Builder To Elite AI Professional: Master The 7 Pillars That Separate $2K Projects From $15K+/Month Retainers
+
+Results
+Curriculum
+Certification
+Network
+FAQ
+Claim your seat
+AIS CERTIFIED
+CERTIFIED AI CONSULTANT PROGRAM
+Go From Hands-On AI Builder
+To Elite AI Professional:
+Master The 7 Pillars That Separate $2K
+Projects From $15K+/Month Retainers
+
+In just 12 weeks, learn what Google, Anthropic, & OpenAI don’t teach to become the obvious choice for growing companies who need AI systems in production.
+
+You don’t need to be an engineer or have a client yet. You should already have hands-on experience with AI tools such as Claude Code or Codex. Ideally, you’ve tried some vibe coding and experimented with small projects. This program is not a first introduction to AI.
+
+Claim Your Seat
+Explore The Program
+
+Cohort 2 starts on November 2nd. Limited to 50 seats.
+
+Tuition is refundable through November 15, 2026.
+
+LENGTH
+12 weeks
+Become elite fast
+CURRICULUM
+7 pillars
+Across 4 phases
+LIVE CALLS
+Thursdays
+Always recorded
+COHORT 2
+November 2nd
+Limited to 50 seats
+Results From Cohort 1’s
+Certified AI Consultants
+
+Reidar Balstad closed a $75,000 contract for a sales transformation project with a global engineering corporation.
+
+Before getting certified, his scoping and engagement design was “full of holes and basically just educated guesstimation.”
+
+After what he learned and implemented from the first two weeks of this program, the client company and other consultants called his work “the best defined project they’ve ever seen.”
+
+Karen Widas builds automation for small businesses. She gets a lot of her business through a partnership with an operations consultancy.
+
+This certification showed her how to spot AI and automation opportunities in a client’s business, as well as how to scope and price the projects.
+
+She now brings a sharper eye to the audits the partner runs and consistently turns what used to be “process finding” into paid AI build engagements.
+
+Evan Jones finally got the confidence to let go of bad fit clients, and now has a solid process for identifying the GOOD ones early.
+
+He’s positioning himself differently now and designing engagements that set him up for long-term client relationships where he’s paid the dollars and the respect that he’s worked hard to earn.
+
+In his words, before his cohort was even over, the program saved him a YEAR of time he would have spent chasing bad fit prospects, dealing with bad fit clients, and struggling to attract the quality clients he’s now getting with ease.
+
+Kacper Rutkiewicz closed his largest ever SOW after applying what he learned in his discovery calls.
+
+The client told him: “No one else has asked the questions you’re asking me.”
+
+His discovery calls are creating more trust than ever before, making deals not just inevitable but setting them up from the start to become long-term partnerships.
+
+Tanya Zorov is now building for a property management company with 226 houses and 1,000+ rooms.
+
+The owner was drowning in day-to-day firefighting with no time to think bigger picture.
+
+But in their very first conversation, Tanya knew how to spot and say the ONE thing that made the owner want to book a meeting.
+
+That turned into a first project and a roadmap of future work the client is EXCITED about. All because the owner finally found someone they trust.
+
+All these people already knew how to build with AI.
+
+What they learned was how to scope, plan, and communicate at the level necessary to win deals with large and fast-growing companies.
+
+Claim Your Seat
+Why Larger Companies
+Won’t Hire Most AI Builders
+(Even Though Their Skills Are Good Enough)
+
+You can build impressive things with Claude Code and Codex.
+
+So when the client is a small business paying you $1K-$5K for a one-off project?
+
+You just need to prove you can build what they need.
+
+Easy.
+
+But here’s what happens when you go upmarket to pitch $10K-$25K+ projects and retainers to growing companies:
+
+THE LEGAL TEAM ASKS:
+
+“How are you handling data governance?”
+
+And you don’t know the answer.
+
+THE FINANCE TEAM ASKS:
+
+“What does this cost to run at scale?”
+
+But you didn’t model it.
+
+THE PROCUREMENT TEAM ASKS:
+
+“How do we know this will work reliably?”
+
+You didn’t build evals to reassure them.
+
+And suddenly, you look like an amateur.
+
+Even though you could build the exact thing they need…
+
+You don’t know how to answer the questions that large and fast growing companies actually care about.
+
+The Certified AI Consultant program gives you the skills and knowledge to answer all of them.
+
+The Difference Between $2K
+Deals & $10K+/Mo Retainers
+Strong AI Builders	Elite AI Professionals
+$1K-$5K one-off projects	$10K-$25K/mo retainers
+Juggles biz dev, sales, and delivery	5 core ongoing client relationships
+Constant fixes and maintenance	Builds systems that survive production
+Can’t answer governance, evals, or cost questions	Has answers for legal, CFO, and ops
+Competes on price	Competes on expertise
+
+Which side do you want to be on?
+
+Claim Your Seat
+Curriculum
+The 7 Pillars That Separate
+Elite AI Professionals
+From The Rest
+
+These are the skills that even Google, Anthropic, and OpenAI don’t teach in their AI certification programs.
+
+And they are the skills that growing companies and large businesses pay for.
+
+Right now, elite AI professionals charge $10K-$25K+ per month retainers and earn $200K+ in-house salaries for the value they deliver.
+
+01
+Discover & Scope
+Find the problem, price the work
+02
+Architect & Build
+Design a system that runs live
+03
+Evaluate & Iterate
+Prove it works, keep proving it
+04
+Deliver & Sustain
+Ship it so the team adopts it
+
+Cohort 2 starts on November 2nd. Limited to 50 seats.
+
+Claim Your Seat
+PHASE 01
+Discover and Scope
+
+Find the problem worth solving and turn it into work someone will pay for.
+
+PILLAR 1
+Process Audit & AI Fit
+
+Run discovery calls that uncover the real problem (and reveal the solution)
+
+What you’ll learn
+Reframe a client’s stated request to uncover the problem underneath it
+Map how the work actually flows today, including the parts nobody documents
+Score each opportunity on the value it creates and how much AI can really do
+Sort everything into one prioritized list: do it now, do it later, or leave it alone
+PILLAR 2
+Engagement Design
+
+Scope, price, and protect the work so you don’t get burned
+
+What you’ll learn
+Define the outcome the client is buying, stated in their numbers rather than your activities
+Draw a scope line with a clear “done” test on everything inside it
+Price the work against the value of the outcome instead of the hours it takes
+Set the terms that govern payment and protect the scope when requests start creeping
+
+YOUR OUTPUT
+A signed statement of work.
+
+PHASE 02
+Architect and Build
+
+The design decisions that separate a demo from a system that runs live.
+
+PILLAR 3
+Context, Workflow & Reliability
+
+Build systems that don’t break the moment a real user touches them
+
+What you’ll learn
+Engineer the context a model needs, and diagnose the ways context degrades
+Draw the code-versus-model line so the right component makes each decision
+Map real-world scenarios and build in milestones instead of discovering gaps in production
+Apply the reliability practices that make a build something a client can actually depend on
+PILLAR 4
+AI Governance
+
+Answer the questions legal, compliance, and security teams will ask
+
+What you’ll learn
+Decide what an AI system is permitted to do, touch, and act on
+Set data handling boundaries appropriate to the client’s risk and industry
+Define escalation paths and ownership for when the system gets something wrong
+Build those boundaries into the system as design requirements, not paperwork after the fact
+PHASE 03
+Evaluate and Iterate
+
+Prove the system works in measurable terms, and keep proving it after launch.
+
+PILLAR 5
+AI Evals
+
+Prove your systems work and catch performance drift before the client does
+
+What you’ll learn
+Define what “working” means for a specific build, in terms you can measure
+Build evaluation methods across deterministic checks, model-graded review, and human review
+Set up the feedback loop that catches drift before the client does
+Use eval results to decide what to fix, what to accept, and when the work is genuinely done
+PILLAR 6
+AI Economics
+
+Model costs, measure ROI, and justify the spend to CFOs
+
+What you’ll learn
+Model what a workflow costs to run against the cost of the work it replaces
+Choose models and configurations against cost and performance tradeoffs
+Measure and report the impact a deployed system actually produced
+Build the business case that gets a finance-minded decision maker to yes
+PHASE 04
+Deliver and Sustain
+
+Deliver the system so the team adopts it, and keep it running.
+
+PILLAR 7
+Adoption & Capability Building
+
+Train teams, earn trust, and track whether your systems are actually used
+
+What you’ll learn
+Plan a delivery designed around adoption rather than bolted on at the end
+Produce the training, documentation, and enablement materials a team needs to run the system
+Handle the trust, change management, and workflow disruption that stall real rollouts
+Track usage and report on whether the system is actually being used and holding up
+Claim Your Seat
+Certification
+
+Certification is earned through a graded portfolio and a live interview with the AIS team.
+
+Consultants who pass receive the following:
+
+AIS CERTIFIED
+Certified
+AI Consultant
+CAIC
+EARNED BY
+Graded portfolio and a live interview
+VALID
+24 months, with recertification
+VERIFIABLE
+By anyone who checks
+AI Automation Society
+The Certified AI Consultant Credential
+Verifiable. One of the AIS Certified credentials.
+A Personal Letter of Recommendation from Nate Herk
+Written, personal, and verifiable.
+AIS as a Verifiable Reference
+AIS takes the call from clients and hiring managers to vouch for you.
+A Public Certified Partner Listing
+Your name and profile on the AIS website.
+The AIS Alumni Brain Trust
+The network of AIS Certified graduates with quarterly masterminds.
+The Network:
+Your Unfair Advantage
+
+When you become a Certified AI Consultant, you don’t just get a certification.
+
+You join a curated network of elite AI professionals.
+
+HERE’S HOW IT WORKS
+01
+You fill out a profile
+With strengths, weaknesses, niche, & subcontract availability
+02
+We match you with other professionals
+Based on complementary skills + opportunities
+03
+We provide the connections, you create mutual wins together
+NETWORK BENEFITS
+Referrals for work others can’t take
+Subcontractor opportunities for projects that need more hands
+Collaborators for bigger deals
+A network that grows in value with every new cohort
+
+This isn’t some Facebook group you’ll never look at again after joining.
+
+You’re entering a curated room of professionals who are closing major contracts and leading AI strategy at medium to large sized corporations.
+
+And we’re actively connecting you with them.
+
+Claim Your Seat
+Don’t Expect Slide Decks
+And Zoom Calls
+
+Most certification programs give you 90-minute presentations and slide decks you never look at again.
+
+In the Certified AI Consultant program, you learn through experience in our Lab.
+
+IN OUR CUSTOM-BUILT APP, YOU WILL:
+Simulate real client conversations
+(using AI to practice discovery calls)
+Run rigorous drills & quizzes
+(to master governance, evals, and context engineering)
+Build and test systems
+(in real-time, with feedback)
+PLUS:
+Live breakdown calls
+(every Thursday we work through real problems together)
+On-demand video
+(short, tight, conceptual. No 2-hour lectures)
+Graded portfolio work
+(real business cases and real feedback)
+
+This is hands-on learning driven by modern technology.
+
+Not another course that you’ll never finish.
+
+Instructors
+Nate Herk
+
+FOUNDER, AI AUTOMATION SOCIETY
+
+Teaches every pillar and writes the letter of recommendation for every consultant who certifies. Founded a community of 450,000 people learning to use AI for real work.
+
+Russ Henneberry
+
+Program lead.
+
+Pat Blakely
+
+Curriculum lead.
+
+Ed Abdullayev
+
+Tech lead.
+
+Guest Experts
+
+Subject matter experts on different areas in AI.
+
+Frequently Asked Questions
+Will You Send Me Clients After I Become Certified?
+Will This Teach Me To Use Claude Code And Codex?
+How Is This Different From AIS+?
+How Is This Different From Other Certifications?
+Do I Need To Be Able To Code?
+What Does This Credential Mean?
+Does Everyone Who Joins Get Certified?
+What Is The Network?
+“Will this get me hired or get me clients?”
+“Does everyone who joins get certified?”
+“Am I technical enough?”
+“Do I need to have a client already?”
+“What is the expected time investment?”
+“How do we handle holidays?”
+“What is the refund deadline?”
+“What if I miss a live class?”
+“How is this different from AIS+?”
+Still have a question?
+Contact our team →
+
+Cohort 2 starts on November 2nd. Limited to 50 seats.
+
+Certified AI Consultant Program
+
+Cohort 2 starts on November 2nd. Limited to 50 seats.
+
+Claim Your Seat
+AIS CERTIFIED
+Certified
+AI Consultant
+CAIC
+COHORT 2
+Starts November 2nd
+SEATS
+Limited to 50
+LENGTH
+12 weeks
+AI Automation Society
+
+A community of 450,000 people learning to build with AI.
+
+Community
+Join free
+AIS+
+Certification
+Events
+Learn
+YouTube
+Classroom
+Merch
+Connect
+Nate Herk
+LinkedIn
+© 2026 AI Automation Society. All rights reserved.
+Founded by Nate Herk
+
+Outcomes disclosure. AIS does not guarantee employment or any specific income outcome. Graduate results depend on individual effort, market conditions, portfolio quality, and fit with hiring companies. Retainer and salary figures cited reflect the broader SMB and enterprise AI consultant market and are not a representation of AIS graduate compensation.
+
+Uppit AI and its content, processes, frameworks, methodologies, proprietary systems, designs, developments, software, trademarks, service marks, and other materials contain proprietary intellectual property (“Protected Materials”) owned by or licensed to the ecosystem operator.
+
+Except as expressly permitted in the Terms of Use, you may use such Protected Materials only for your authorized internal business purposes. You may not copy, reproduce, distribute, publish, sell, sublicense, disclose, reverse engineer, create derivative works from, or commercially exploit any Protected Materials without prior written permission.
+
+Unauthorized use may violate copyright, trademark, trade-secret, contract, and other laws and may result in suspension or termination of access and the pursuit of available legal and equitable remedies.
+

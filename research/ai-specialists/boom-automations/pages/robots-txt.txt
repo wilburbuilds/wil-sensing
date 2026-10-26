@@ -1,0 +1,21 @@
+URL: https://boomautomations.com/robots.txt
+Fetched: 2026-10-26T03:40:25Z
+HTTP status: 200
+Content-Type: text/plain
+Via: curl
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+

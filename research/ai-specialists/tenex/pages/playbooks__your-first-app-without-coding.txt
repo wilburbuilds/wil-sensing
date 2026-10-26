@@ -1,0 +1,243 @@
+URL: https://www.tenex.co/playbooks/your-first-app-without-coding
+Fetched: 2026-10-26T03:34:00Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/your-first-app-without-coding
+Content-Type: text/html
+Via: chrome-headless
+Title: Your First App Without Coding: From Plan to Build | Tenex
+Meta description: How to go from "can you just build this?" to a live app your team logs into, without writing the code yourself.
+Canonical: https://www.tenex.co/playbooks/your-first-app-without-coding
+Robots: 
+H1: Your First App Without Coding: From Plan to Build
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Your First App Without Coding: From Plan to Build
+
+How to go from "can you just build this?" to a live app your team logs into, without writing the code yourself.
+
+0 of 9 steps
+0 / 90 pts
+THE PLAYBOOK
+✓
+START HERE
+Why build, and why now
+10 pts
+📖 Learn
+📋 Implement
+
+Today, building a tool you can share with your team is as basic a work skill as making a slide deck, and it can be learned just as easily. That wasn’t true even a year ago. Job seekers especially should take heed: this is a skill you’re going to want to demonstrate.
+
+To give an example close to home, a member of our creative team built our onboarding portal, a set of lessons for training new hires. Not long ago, it would have been almost unheard of for someone who isn’t an engineer to build a working tool on their own, but here we are.
+
+Most lessons started as rough drafts pulled from material we already had in Notion and on our YouTube channel. The real work came after: choosing which lessons to keep, putting them in order, filling the gaps, and checking each one before new hires saw it.
+
+‍
+
+What to know before you start
+
+While it’s true that coding knowledge is unnecessary when building with Claude Code, you will encounter platforms that are made for engineers. They aren’t complicated, and your agent will walk you through step by step how to use them in plain language. However, you might occasionally need to remind the agent to simplify to help you along.
+
+💡
+
+Pro-tip: If you ever get really stuck, you can always give the agent screenshots of what you’re seeing to get the best possible guidance to get you unstuck.
+
+Continue to Implementation →
+✓
+STEP 1
+Decide whether to build or buy
+10 pts
+📖 Learn
+📋 Implement
+
+There's a paid tool for almost everything, and building your own makes sense when a few things line up:
+
+It saves you a subscription. Software is often priced per person, so the bill grows every time you hire. At a small company, building once and maintaining it can cost less over time. At a large company, the math often flips: existing contracts, IT reviews and the question of who maintains a homegrown tool all favor buying when it comes to company-wide tools.
+
+You want it to fit your team’s specific flow. A tool you build follows your process, step by step. For example, a training portal can pull lessons from the docs your team already keeps and send managers a weekly progress update in Slack. Automating your own workflow is where custom tools are most useful.
+
+It won't cause damage if it breaks. Be careful with anything customers see, anything that stores customer data, and anything that touches money. A failure there costs money or trust. For everything else, you can usually make the call yourself. If you're not sure, ask an engineer or whoever handles security at your company before you build.
+
+It's not too complicated. The more complicated the tool, the more upkeep it needs. Our onboarding portal has several parts, like logging in, tracking each new hire's progress and a dashboard for managers, but they all serve one job: getting new hires up to speed. If you can't describe your tool's job in a short phrase, start by building just one piece of it. If this is your first build, pick a tool for your own work, where mistakes are cheap.
+
+Check whether a subscription would cost more over time than building and maintaining your own.
+Describe your tool's job in one short phrase.
+If it would touch customer data, money or anything customers see, check with an engineer or whoever handles security first.
+Continue to Implementation →
+✓
+STEP 2
+Set up your three pillars
+10 pts
+📖 Learn
+📋 Implement
+
+Every app you build needs three things: the code, a place to store it, and a host that puts it on the internet.
+
+The code. The instructions that make your app work. Your agent writes it and saves it in a folder on your computer. It can look intimidating, but you’ll never have to write it yourself.
+
+A place to store it. GitHub keeps a copy of your code folder in the cloud, called a repository, or repo. It's your backup, and it lets teammates get the code too.
+
+A host. A host runs your app on the internet so people can visit it at a web address. This guide uses Vercel, but Cloudflare and Netlify also work well.
+
+You'll set up the first two now. The host comes in Step 8, once there's an app to put online.
+
+Before you start: install Claude Code (see Claude Code 101) and create a free GitHub account.
+
+Make a new folder on your computer for the project, then open it in Claude Code. Everything Claude builds will go in this folder.
+On GitHub, create a new repository. Name it after your project, set it to Private so only you and people you invite can see it, and copy its URL.
+Paste the prompt into Claude Code, with your repo's URL. If Claude asks you to sign in to GitHub, follow its steps. It needs permission to save code there.
+
+Now your folder and your repo are linked. Whenever you want, you can ask Claude to save your latest work to GitHub. You’ll notice we’re repeatedly reminding Claude Code that “I’m not an engineer” to keep it from drifting toward talking to you as if you are.
+
+Continue to Implementation →
+✓
+STEP 3
+Describe your app in detail
+10 pts
+📖 Learn
+📋 Implement
+
+Start with the problem. Pin down exactly what your app should solve, for whom, and how. Then get specific about what it does: every screen, what each one is for, who can use it and what information it saves.
+
+Claude turns your description into a plan, a written version of the app it will build from. A simple app can sometimes come from a single prompt, but anything with logins, saved data or more than one kind of user needs this level of detail. Without it, Claude fills every gap with its own guesses.
+
+This is the most important step. At Tenex, the best engineers spend days writing documentation before any code gets written. Now that Claude writes the code, describing what the app does is your job.
+
+Then make two lists: what the app must have and what it must not have. Be specific. Clear lists also let Claude test its own work against them.
+
+Example: an onboarding portal. Must have: a login only employees can use, a side navigation, modules with lessons inside them, and video playback. Must not have: a native mobile app.
+
+Talk it through. Turn on plan mode, where Claude asks questions and plans instead of writing code. Turn on voice dictation and explain the app the way you would to a new colleague. Cover:
+
+who will use it, and what problem it solves for them
+what they'll do in it, from start to finish
+your two lists
+who's allowed in, and what has to stay private
+how you'll know it's working
+
+Claude will ask follow-up questions. Expect it to spend 5 to 15 minutes before it comes back with a plan.
+
+Check the plan before you approve it. A good plan spells out every screen, what each one does, what information the app stores, and how Claude will check that each must-have works. If something you asked for is missing, or something you didn't ask for shows up, say so now. Fixing a sentence in a plan is much cheaper than fixing a feature in an app.
+
+💡
+
+Pro tip: use the most capable model for planning and reviewing, because you can only build as well as the plan. Before you approve, ask Claude to review the plan the way a skeptical engineer would and list anything missing or unclear.
+
+Continue to Implementation →
+✓
+STEP 4
+Map the users
+10 pts
+📖 Learn
+📋 Implement
+
+Now walk through the app as each person who'll use it. A user flow is the path someone takes through the app, screen by screen, to get something done. Walking through each one is the best way to catch what the plan missed: a screen nobody described, a button that leads nowhere, or someone seeing information they shouldn't.
+
+List every type of person who'll use the app. For each one, note what they need to do and what they're allowed to see. Even a tool with one kind of user benefits from this.
+
+Example: an onboarding portal. The new hire needs to see their modules, lessons, resources and videos, with clear progress along the way. Their manager needs a dashboard of all their hires, a way to click into any one to see their progress, and a button to add new hires.
+
+List every type of person who'll use the app.
+For each one, note what they need to do and what they're allowed to see.
+Walk through the app as each person, screen by screen, and add the user flows to plan.md.
+Continue to Implementation →
+✓
+STEP 5
+Design for function
+10 pts
+📖 Learn
+📋 Implement
+
+Design is one of those places where, if you’re not careful, you can lose a lot of time tweaking fonts and colors. Three hours later, you’ve changed the background color and nothing else. At this stage, mockups have one job: catching a missing screen or a confusing layout before any code exists. Claude’s default design choices are generally fine, and there’s no harm in making some general design requests, but remember that what you’re building is an MVP: a minimum viable product. Just make a thing that works first.
+
+Ask Claude Code for a rough, clickable mockup of every screen in your user flows.
+Click through each screen and check that everything in your user flows is there.
+Show it to the person you report to or a couple members of your team to make sure it’s intuitive and includes what it needs to include.
+Have Claude update the plan to match.
+
+In the video, JJ uses Claude Design for this step. It works too, but Claude Code can do it without switching tools.
+
+Continue to Implementation →
+✓
+STEP 6
+Build it
+10 pts
+📖 Learn
+📋 Implement
+
+Everything up to now has been preparation for what will feel like the real “technical” work; this is where you start steering Claude as it begins to write the code to make your app.
+
+Pick the tech. Ask Claude to recommend what to build with. You don’t need to understand these choices or make them yourself. For our onboarding portal, that meant Next.js, a popular framework for building web apps, and Neon, a database that stores information like who has signed up and what they've completed.
+
+Build in stages. Claude works through the plan one piece at a time. It tells you what it's about to do and asks permission before changing files or running anything on your computer.
+
+Test as you go. Claude can start a preview of the app that opens in your browser and runs only on your computer, so you can try it before anyone else sees it. Then:
+
+Click around.
+When something is wrong or missing, tell Claude in plain words, or send a screenshot.
+Check the fix, and repeat until everything on your must-have list works.
+
+Depending on the app, this can take a few hours, a day, or a few days. If Claude asks for a password or key to connect your app to a service like its database, follow its steps for storing it.
+
+Continue to Implementation →
+✓
+STEP 7
+Fill in the content
+10 pts
+📖 Learn
+📋 Implement
+
+If your app needs content, like lessons, articles or instructions, start from what you already have. Point Claude at your existing docs, videos, or wiki and have it draft the content. Many of our onboarding portal's lessons started from material we already had in Notion and on our YouTube channel.
+
+If your material lives in a tool like Notion, Claude may ask you to connect it or export it first.
+
+Budget time for the content. Drafts still need someone to choose what stays, fill the gaps and check each page. Plan to launch before every page is finished, and fill in the rest after.
+
+Point Claude at your existing docs, videos, or wiki and have it draft the content.
+Choose what stays, fill the gaps and check each page.
+Launch before every page is finished, and fill in the rest after.
+Continue to Implementation →
+✓
+STEP 8
+Go live
+10 pts
+📖 Learn
+📋 Implement
+
+Once everything works on your computer, it's time to put it online.
+
+Ask Claude to save your latest work to GitHub. Whatever is there is what gets published by Vercel, which you’ll sign up for in the next step.
+Sign up for Vercel using your GitHub account. That creates your account and connects it to GitHub in one step.
+Import your project's repo. Vercel gives your app a web address, and each time Claude saves new work to GitHub, the live app updates.
+If your app uses passwords or keys, like the one for its database, add them in Vercel's settings. Claude will tell you which ones and where they go.
+
+Before you share it: if only certain people should get in, make sure the login keeps everyone else out. If you gave admins a way to see the app as another user, make sure only admins can use it.
+
+Once it's live, the code on GitHub means teammates can pull it down and pitch in.
+
+Tenex helps companies architect, staff, and ship AI systems that actually move the P&L—not just the hype cycle.
+
+Build Your AI Engine
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Your First App Without Coding: From Plan to Build","description":"How to go from \"can you just build this?\" to a live app your team logs into, without writing the code yourself.","image":"https://www.tenex.co/assets/playbooks/your-first-app-without-coding.jpg","datePublished":"2026-10-06T14:00:00.000Z","dateModified":"2026-10-06T14:00:00.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/your-first-app-without-coding"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"Your First App Without Coding: From Plan to Build","item":"https://www.tenex.co/playbooks/your-first-app-without-coding"}]}]
+

@@ -1,0 +1,129 @@
+URL: https://demo.varickagents.com/client-001/team/manager
+Fetched: 2026-10-26T03:36:00Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001/team/manager
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: What their team saw each day
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+AP Specialist
+Director
+CFO
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+CHAPTER 03
+What their team saw each day
+
+Director View. Their Director of Finance saw team capacity across 280 people, agent performance by workflow, and smart alerts. Every sub-function's workload was visualized across 14 entities.
+
+AP Specialist
+Director
+CFO
+TEAM CAPACITY
+280
+people operating at the capacity of
+520
+
+16 positions redeployed from manual processing to strategic finance. No new hires needed despite 22% transaction volume growth.
+
+Team capacity dashboard
+KM
+Karen Mitchell
+Senior AP Lead
+86% AI-handled
++4.8h/day
+freed up
+JO
+James Okafor
+Intercompany Accountant
+78% AI-handled
++3.6h/day
+freed up
+MS
+Maria Santos
+Treasury Analyst
+92% AI-handled
++5.2h/day
+freed up
+DC
+David Chen
+FP&A Manager
+71% AI-handled
++3.1h/day
+freed up
+RT
+Rachel Thompson
+AR Collections Lead
+83% AI-handled
++4h/day
+freed up
+Agent performance by workflow
+WORKFLOW
+ACCURACY
+ESCALATION
+LEARNING CURVE
+AP Exception Classification
+97.4%
+6.2%
+88%
+97.4%
+Cash Application
+93%
+12.8%
+84%
+93%
+Intercompany Reconciliation
+96.2%
+9.4%
+86.5%
+96.2%
+GL Coding (Multi-Entity)
+95.8%
+10.6%
+83.2%
+95.8%
+Ramp Categorization
+98.1%
+4.3%
+91%
+98.1%
+Smart alerts
+Oracle entity BR-01 has 8 unmapped GL codes after restructuring
+
+Brazilian entity restructuring introduced new GL codes not in crosswalk table. Agent flagged for manual review. 2 codes need permanent mapping.
+
+3 hours ago
+Ramp updated merchant category taxonomy
+
+Change detection caught Ramp category update. 14 merchant mappings affected. Agent auto-tuned 12, 2 need human confirmation.
+
+8 hours ago
+Close cycle Day 6 of 8: 12 of 14 entities closed
+
+Only BR-01 and DE-03 remaining due to intercompany FX adjustments. Projected completion: Day 7. Ahead of 9-day target.
+
+1 day ago
+Next: CFO View
+

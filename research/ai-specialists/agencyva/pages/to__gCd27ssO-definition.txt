@@ -1,0 +1,48 @@
+URL: https://agencyva.typeform.com/to/gCd27ssO
+Fetched: 2026-10-26T03:39:40Z
+HTTP status: 200
+Final URL: https://agencyva.typeform.com/to/gCd27ssO
+Via: public page source (question list). The rendered start screen is to__gCd27ssO.txt.
+Note: Not submitted. No field was filled. Start was opened once in a browser only to confirm the first question renders. The list below is the form definition in that page's source.
+
+Welcome screen: Find Your Perfect Virtual Assistant Match
+Button: Start
+
+Questions, in definition order. Required is what the definition marks, not a guess.
+
+1. What industry best describes your business? (multiple choice, required)
+   Insurance | Tax | Real Estate | Other
+2. Which industry best describes your business? (short text, not required)
+3. Do you require P&C licensed support? (yes/no, not required)
+4. Which AMS (Agency Management System) do you use? (dropdown, required)
+   EZLynx | Applied Epic | AMS360 | Hawksoft | QQCatalyst | Other
+5. Which AMS do you use? (short text, not required)
+6. Where is your business headquartered? (short text, not required)
+7. Do you require bilingual support? (multiple choice, required)
+   Yes | No | Maybe
+8. Which language(s) do you require? (short text, not required)
+9. How many total team members do you currently have? (multiple choice, not required)
+   1–9 | 10–24 | 25–49 | 50–99 | 100+
+10. How many additional hires do you currently need? (multiple choice, not required)
+   1–2 | 3–5 | 6–10 | 10+
+11. How would you prefer to receive the survey results and potential VA profiles? (multiple choice, not required)
+   Phone call | Text message | Email
+12. What's your name? (short text, required)
+13. Your business email for results and VA profiles. (email, required)
+14. Preferred phone number (phone number, required)
+
+Jumps written in the definition:
+- Industry is Other -> question 2.
+- Industry is Insurance -> question 3.
+- Industry is not Insurance -> question 6.
+- AMS is Other -> question 5.
+- AMS is not Other -> question 6.
+- Bilingual is Yes -> question 8.
+- Bilingual is not Yes -> question 9.
+
+Thank-you screen title: Thanks for submitting!
+Button: Book a Call Now
+Button redirect: https://www.agencyva.com/book-a-call/
+Description: “We’ve received your answers. A copy of your responses will be sent to your email shortly. Our team will get in touch with your perfect VA match!”
+
+A GET of https://www.agencyva.com/book-a-call/ on 26 October 2026 ended at https://agencyva.com/book-a-discovery-call (already saved as book-a-discovery-call.txt).

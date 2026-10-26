@@ -1,0 +1,376 @@
+URL: https://www.skool.com/ai-automation-society?c=c491f892c2aa48798959c3e01174e14f
+Fetched: 2026-10-26T03:49:31Z
+HTTP status: 200
+Final URL: https://www.skool.com/ai-automation-society?c=c491f892c2aa48798959c3e01174e14f
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Automation Society · Announcements📢
+Meta description: Learn to get paid for AI solutions, regardless of your background.
+Canonical: 
+Robots: 
+H1: 
+
+AI Automation Society
+LOG IN
+Community
+Classroom
+Calendar
+Members
+Map
+Leaderboards
+About
+LOG IN
+Write something
+🔒 Q&A w/ Nate is happening in 11 hours
+All
+General Discussion 💬
+YouTube Resources 📚
+Support Needed 💻
+Hire Me / Looking For Hire 💰
+Wins 🌟
+Announcements📢
+MVPs🏆
+More...
+9
+Nate Herk
+💎
+14d • 
+Announcements📢
+What do you think of our new logo?
+AIS started as a community about automation. It’s now 450,000+ people all over the world learning AI together, and the old logo didn’t fit that anymore. The globe stands for what we’re building: the largest network of AI professionals, and a place where anyone can find where they fit in AI, whatever their background. Watch the reveal below and tell me what you think in the comments. Welcome to the new era of AIS.
+357
+244
+New comment 1h ago
+9
+Nate Herk
+💎
+2d • 
+Announcements📢
+ANNOUNCING: A certification for AI builders who want bigger clients
+Building with AI gets easier every month. Landing the bigger clients doesn't. Because the moment you pitch a growing company, the questions change. - Legal asks how you're handling data governance. - Finance asks what it costs to run at scale. - Procurement asks how they know it'll work reliably. Most builders don't have those answers. And that's where the deal dies. So we built a program to fix it. -> ANNOUNCING: A certification for AI builders who want bigger clients It's called the Certified AI Consultant program. Over 10 weeks, it teaches the 7 skills bigger companies actually pay for: scoping, pricing, governance, evals, AI economics, and more. Then you earn the credential through a graded portfolio and a live interview with my team. It's already working. Reidar, from our first cohort, closed a $75,000 contract with a global engineering company using what he learned. Cohort 2 starts November 2nd, and it's capped at 50 seats. Let me know if you have any questions. Talk soon, Nate
+263
+161
+New comment 7h ago
+9
+Nate Herk
+💎
+7d • 
+Announcements📢
+I woke up today with a nasty hangover. But it wasn't from alcohol.
+This past weekend we hosted AIS Live: Build Your AI OS. And it was too much fun 🤣 It was two full days with thousands of our community members, speakers, panels, breakout rooms, networking, and live builds. I broke down my Four Cs framework for building an AI operating system: context, connections, capabilities, and cadence. That's what it takes to build a personal agent system and a team system that feels like a co-founder working while you sleep, instead of an assistant you talk to every once in a while. A few sessions I want to call out: → Cole Medin and Sabrina Ramonov both ran amazing sessions → Kacper Rutkiewicz and I brought a community member up on stage and helped her design her very first AI operating system live → Dave Ebbelaar, Jack Roberts, and Jannis Moore shared what we're building with Glaido → Duy Nguyen, Ron Nedd, and Tanya Zorov, who are going through our certification program right now, shared what they're building for real clients → Devin Kearns closed out the whole event with his featured keynote My entire team also got up and broke down how we run a $400k+/mo business with AI: → Jon Morrow on operations and marketing → Aidan Stanik and Kodi Zene on creative → Pat Blakely and Russ Henneberry on the certification program → Meghan Cox on funnels → Jenn Van Wagner on recruiting → Ednan Abdullayev on evals → Mustafa Tawfiq and Dominic Ibarra on customer support And Anne-Marie Enns somehow made a virtual event feel like everyone was in the same room together. Yash Chauhan and Usman Mohammed spotlighted community members building amazing things, including Eshara Kohli, Michael Wacht, and Nicole Jolie. Thank you to all of our other wonderful speakers: Quinn Leng, Christina Bowllan, Oak Latt, Sean Zinsmeister, Kamya Marwah, Sam Warach, Jillian Wolf, Tarja Stephens, Sania Khan, Samin Yasar, Katya Dominguez, and Laura Zavelson. Thank you to everyone who attended! Thank you to our sponsors Kylon, Fish Audio, and Glaido! I've had some pretty bad things happen to me in my life, like we all have, but I think it's really important to reflect on weekends like this and remember how lucky you are.
+353
+183
+New comment 22h ago
+8
+Yash Chauhan
+🔥
+12d • 
+Announcements📢
+[CLOSED] 🚀 We’re Hiring: Assistant Community Manager
+Hey everyone, We’re looking for a full-time Assistant Community Manager to join the AI Automation Society team. The main focus of this role will be supporting the day-to-day member experience inside AIS+, while also helping with Certification (CAIC) and, as needed, the broader AIS community. We’re looking for someone who genuinely enjoys helping people, communicates naturally, takes ownership, follows up, and makes sure members feel supported. The role will include things like: - Member support and communication - Community monitoring and follow-ups - Onboarding support - Member feedback and recurring community operations Experience in community management, customer success, or support is a strong advantage. We’re also looking for someone who can fully commit to this full-time role and wants to grow with the AIS team long-term. The role begins with a 30-day paid full-time trial. If this sounds like a good fit for you, we’d love to hear from you. 👉 APPLICATION LINK
+269
+127
+New comment 2d ago
+9
+Nate Herk
+💎
+May 20 • 
+Announcements📢
+💻New AIS Course: Build Your AI OS
+Just dropped a new course in the classroom and I'm pretty pumped about this one. It's the full step-by-step on building your own AI OS. Same exact setup I use every day to run the YouTube channel, the community, and my team. 8 lessons, all my templates and prompts, plus a free GitHub repo so you can skip the boring setup and just start building. To unlock it in the classroom, you just need to hit level 3 in the community. Honestly pretty easy: - Drop an intro post if you haven't yet - Engage with a few other members in the threads - Help somebody out who's stuck on something That's pretty much it. Get to level 3 and the whole thing opens up. See you in there. - Nate
+877
+1.7k
+New comment 6d ago
+9
+Nate Herk
+💎
+22d • 
+Announcements📢
+Save $50 on AIS Live (ends tonight)
+Quick reminder before your day gets busy. Extended pricing for AIS Live ends tonight at 11:59pm CT. Today: - GA is $147 - VIP is $249 Tomorrow: - GA is $199 - VIP is $299 What is AIS Live? Two days, fully online, October 17 and 18. I'm taking you behind the scenes of the AI systems we use to run my company, averaging about $420,000 a month with fewer than 10 employees. Every person on our team has an AI OS. It's a personalized AI chief of staff that knows the business, connects to our tools, and handles research, prep, and first drafts, so we can grow without hiring around every new task. You'll choose the track that fits where you are: - Start Track: You're building your first business and want the essential AI agents (installable for free) before you can afford a team. - Scale Track: You already have customers and revenue, and you want to grow without payroll and management growing at the same rate. Either way, you leave with a working blueprint for your own AI OS. The guarantee: Watch all of Day 1. Watch most of Day 2. If you decide it wasn't worth the price of your ticket, email us before the closing session on October 18 and we'll refund you in full. The risk is on us. The only thing you risk by waiting is paying $50 more. Grab your seat at today's price Already an AIS+ member? You're already in. Monthly members get GA and annual members get VIP, so watch for your registration instructions. Talk soon, Nate
+152
+51
+New comment 9d ago
+9
+Nate Herk
+💎
+19d • 
+Announcements📢
+Help me out?
+I'm collecting some data to get a better picture of what's going on in the market right now, how AI skills are affecting your job and career, and how we can best help you. It takes about 3 minutes, and your answers stay anonymous unless you choose to leave your email. Fill it out here: https://tally.so/r/2EMyP9 Thank you, I really appreciate it!!
+312
+205
+New comment 11d ago
+9
+Nate Herk
+💎
+Apr 11 • 
+Announcements📢
+📚 Looking for a YouTube video resource?
+Hey everyone, I built a Google Sheet that has every video I've published in 2026 along with the links to all resources, tools, and files mentioned in each one. If you're ever looking for something I referenced in a video, start here: 📌 YouTube Video Database This will get updated as new videos drop. Bookmark it. Check the tabs at the bottom to make sure you're on the right sheet. - Nate
+845
+513
+New comment 12d ago
+9
+Nate Herk
+💎
+Sep 8 • 
+Announcements📢
+ANNOUNCING: I’m helping you build an AI OS that can start and grow your business
+This might be hard to believe, but AI is now capable of starting and running a profitable business. It can help you grow much faster. And spend far less. Inside my company, we’ve grown to an average of $420,000 per month of revenue with less than 10 full-time employees in the past 12 months. Not by using AI to replace people. But by using it to make each and every one of those employees superhuman. If you have a business, or you’re thinking about starting one, you need to be at this event. My team and I will be showing everything we do behind-the-scenes. >> ANNOUNCING: event about using AI to start and grow a business - Nate
+505
+330
+New comment 23d ago
+9
+Nate Herk
+💎
+Sep 19 • 
+Announcements📢
+heads up, AIS Live costs $50 more tomorrow
+Quick heads up. The current ticket prices for AIS Live end tomorrow at 11:59 p.m. Central. After that, General Admission and VIP both cost $50 more. Nothing else changes. Same two days, same Start and Scale tracks, same AI OS blueprint. Just a higher price for waiting. Already an AIS+ member? You attend the event for free. Monthly members receive General Admission, and annual members receive VIP. Use the member registration instructions instead of buying a separate ticket. If you are planning to join us, lock in the lower price here: https://app.aiautomationsociety.ai/ais-live/10-26/ This one is going to be fun. - Nate
+163
+76
+New comment 28d ago
+9
+Nate Herk
+💎
+Jun 18 • 
+Announcements📢
+Be in the room with the top AI voices this summer!
+I'll be speaking at an event called Workless happening July 29-31 in Tivat, Montenegro. Liam Ottley, Jack Roberts, Dave Ebbelaar, Mark Kashef, and so many more AI experts building different businesses. If you saw the one in Cape Town back in February, this is the same thing. Same kind of people, same experience. Founders and operators actually building with AI, all in one room. If you're looking to talk directly to the people doing this and building businesses around it every day, this is the room you want to be in. And if you want to connect with hundreds of other operators doing the same, this is the room. Check it out here: https://workless.ai/ Huge bonus points if I see anyone from AIS pull up. And even more bonus points if you show up in some AIS merch.
+319
+190
+New comment Sep 25
+9
+Nate Herk
+💎
+Sep 3 • 
+Announcements📢
+Have you sold an AI or Claude system?
+I’m researching the AI systems people are successfully selling right now, including what they built, who bought it, and how much they charged. I would love to make a YouTube video about this to be able to share this data with you guys! And feature some of you in the vid. The more detail you provide and the stronger your proof, the more likely your submission is to be featured. Submit your system here: https://forms.gle/H2bhTQn1x7gBkTx26 Submit the form again if you have multiple distinct systems to share.
+215
+84
+New comment Sep 12
+9
+Nate Herk
+💎
+Aug 22 • 
+Announcements📢
+Last day to get my book for cheap
+Today is the last day to get Becoming AI Native for $4.99. At midnight Central, the launch promotion ends. The book returns to $19.99, and the 2 AI courses currently included with it go away. If you want the system for deciding what to eliminate, what to hand to AI, and what to keep, today is the day. Get it here: - get my book for cheap
+202
+114
+New comment Sep 9
+9
+Nate Herk
+💎
+Aug 19 • 
+Announcements📢
+Your copy of my new book
+I just published a new book called Becoming AI Native. For the next few days, I'm giving a huge discount on it and including two complete training programs. The entire package is worth $117.99, but you can get it for $4.99 through Saturday. I’m offering such a huge discount because I want the book in more hands. If you find it useful, I’d appreciate one favor: leave an honest review on Amazon after you read it. Get your discounted copy here: -> Your copy of my new book
+390
+233
+New comment Sep 5
+9
+Nate Herk
+💎
+Aug 28 • 
+Announcements📢
+15% Off Workless AI Recordings & Resources for AI OS
+Two quick things 1. The Workless AI event recordings are live All 13 session recordings from the recent event are now up, plus the playbooks and 32 files of skills, templates, and slide decks. In this post I've linked my presentation, but you can get the other 12 and all the resources below. Grab everything (and 15% off) here: https://workless.ai/archive/nate/ 2. We're going for #1 on Product Hunt with Glaido Glaido is launching on Product Hunt soon and we'd love your support. If you want to help: - Create a Product Hunt account: https://www.producthunt.com/ - Upvote a couple of products to activate your account. - On launch day I'll post here. If you enjoy Glaido, come upvote it. No pressure at all. Only if you like what we're building. Haven't tried Glaido yet? This link gives you a free month to play with it: https://get.glaido.com/nate
+168
+74
+New comment Sep 3
+9
+Nate Herk
+💎
+Jan 9 • 
+Announcements📢
+Your discount expires TODAY (EXPIRED)
+Quick reminder: The 69% off flash sale for AI Automation Society Plus ends TONIGHT. After midnight Eastern, it's back to $94. And I won't be running this again anytime soon. I'd hate for you to join next month and pay $65 more for the exact same thing. $29 gets you inside right now. Tomorrow it won't. Click here to see everything that’s included Talk soon, Nate
+171
+84
+New comment Sep 1
+9
+Nate Herk
+💎
+May 26 • 
+Announcements📢
+The skill clients pay $5000+ for (and it’s not automations)
+I’ve been watching our 3,700 students in AIS+, and I noticed the people making the most money are all doing this: https://app.aiautomationsociety.ai/10-hours The people charging $5,000, $10,000, even $50,000 per engagement weren't better builders. Before they ever opened n8n/Claude Code, they did one thing differently: → They found the automations worth building first. It’s like a mini audit. Just by asking a few questions and mapping out the opportunities, they were able to get clients excited and also choose the right projects to work on. And the best part is you can practice by running this same system on YOURSELF. I call it 10 Hours to 10 Seconds, because doing this can easily save you or your clients 10 hours a week by automating the right things. Get all the details here: https://app.aiautomationsociety.ai/10-hours Talk soon, Nate PS: If you’re in AIS+, this has already been updated and provided to you at no cost. You can find it in the classroom
+303
+176
+New comment Aug 20
+9
+Nate Herk
+💎
+Jun 26 • 
+Announcements📢
+🎉LIMITED TIME try Glaido FREE, then 40% off.
+I'm a co-founder of Glaido, building it with Jack Roberts, Dave Ebbelaar, and Jannis Moore. It's a voice tool built around two things: speed and privacy. Fastest on the market, completely private. It used to be Mac only. It's now on Windows too, so all of you can use it. You get 40% off your first 3 months ($20/mo → $12/mo) with this code: D5J6BIF8K4P Next 30 days only 👉 https://get.glaido.com/nate I switched from Wispr Flow a few months ago and it just felt better. If you're on Wispr, try Glaido free, use the code, and tell me if you feel the difference. If you want to switch back after, no hard feelings. Good to know - Mac + Windows - Snippets: insert any text instantly with one word - Dictionary: save your own words, import straight from Wispr Flow - Agentic Mode: manipulate any text on your screen with your voice - Webhooks coming to Agentic Mode soon (huge) - We action feedback almost immediately Give it a shot and drop your thoughts in the community.
+455
+392
+New comment Aug 16
+9
+Nate Herk
+💎
+Jun 6 • 
+Announcements📢
+what's actually working in AI right now (and $50 off ends tomorrow)
+What's actually working in AI right now? For two days, real AI agencies get on stage and show you. The tools they build with even if you can't code, how they're landing their first clients, what they charge, and which industries are writing the checks. No hype. Just what's working. Right now you save $50, but that ends tomorrow: -> Go here for details: https://app.aiautomationsociety.ai/ais-live/register/ - Nate
+279
+197
+New comment Jul 15
+9
+Nate Herk
+💎
+Jun 16 • 
+Announcements📢
+⚠️HEADS UP: my X (Twitter) account has been hacked
+Whoever has it is posting a crypto scam. That is not me. I would never promote anything like that. Do not click any links, send any money, or engage with anything posted from my account right now. I'm working on getting it back. Will let you know when it's secured. Thanks for looking out.
+464
+257
+New comment Jul 14
+9
+Nate Herk
+💎
+Jun 24 • 
+Announcements📢
+📢Two AI Events I Want You At This Summer
+Being in the right room can make all the difference. Check out these events, hope to see you guys there! AIS Live: https://app.aiautomationsociety.ai/ais-live/extended/ Montenegro Event: https://workless.ai/
+224
+140
+New comment Jul 10
+9
+Nate Herk
+💎
+Jun 2 • 
+Announcements📢
+I'm hosting a new event about making money with AI automation
+Here's why you should attend: Over two days at AIS Live, every speaker is someone actively earning from AI services, and they show their actual work. The real projects they sell, how they get clients, the numbers behind it. It just opened to the public, and right now you can save $50. But only through Sunday: -> Go here for details: https://app.aiautomationsociety.ai/ais-live/register/
+293
+206
+New comment Jul 3
+9
+Nate Herk
+💎
+Apr 28 • 
+Announcements📢
+I sold my AI agency. here's the playbook
+In September 2024 I started an AI automation agency. Nine months later I was doing $100K/month in recurring revenue. Then I sold my share to my partners. I took everything I learned: - The client acquisition system - The pricing - The delivery process … and I turned it into a step-by-step playbook for building a one-person AI agency. No code. No team. No guesswork. See exactly what's inside: -> I sold my AI agency. here's the playbook PS: If you are an AIS+ member, this is included in the Scale module. No need to purchase separately. - Nate
+377
+253
+New comment Jun 14
+9
+Nate Herk
+💎
+Oct '25 • 
+Announcements📢
+ANNOUNCING: An automation accelerator for beginners (it's free-ish)
+Here’s how it works: Over two weeks, we'll work together to build your first AI agents. No fluff. No theory. Just hands-on building with me and the AI Automation Society team. By the end, you'll have working AI agents in your portfolio and the confidence that comes from actually doing it. You also have the foundation you need to begin charging businesses for developing custom AI agents. And the best part? The whole class is FREE (with a small catch). If you're ready to stop sitting on the sidelines, click below to grab your spot. ANNOUNCING: An automation accelerator for beginners (it's free) Talk soon, Nate PS: Some of my students are making $10,000 + from creating automations like these. If you want to start your own AI automation agency one day, this is the perfect first step.
+429
+424
+New comment Jun 1
+9
+Nate Herk
+💎
+Feb 10 • 
+Announcements📢
+For beginners who don't know where to start
+Most AI tutorials are made by developers, for developers. They skip steps. They throw around jargon. They assume you already know things you don't. You watch video after video and somehow end up more confused than when you started. That's not a you problem. That's a teaching problem. I made something that fixes it: -> For beginners who don't know where to start PS: If you’re already an AIS+ member, we will be rolling this out to you for free shortly. No need to buy it.
+350
+221
+New comment May 31
+9
+Nate Herk
+💎
+May 12 • 
+Announcements📢
+ANNOUNCING: What's working in AI in 2026 (real projects, real revenue)
+Quick news. We're doing our first virtual event, and the rule is simple: every person on stage has to show their actual work. The actual projects they're selling. The actual outreach they're using to land clients. The actual numbers behind it. No theory. No tutorials. Just what's working in 2026, taught by the people doing it. Waitlist's open. Get on it before tickets go live: -> What's working in AI in 2026 (real projects, real revenue) PS: Annual members of AIS+ get in for free. We will be announcing discounts for monthly members. If you’ve been thinking about joining AIS+, it’s a good time.
+475
+235
+New comment May 25
+9
+Nate Herk
+💎
+Apr 7 • 
+Announcements📢
+NEW: Courses that take you from 0 to making money with Claude Code in 90 days
+We just rebuilt AI Automation Society Plus from the ground up around one question: how do you actually make money with Claude Code? Here's what's inside now: - 4 Claude Code courses where you build real automations (not theory, you walk away with a portfolio) - Get Your First Client: step-by-step warm outreach and Upwork strategies to land paying clients - The AI Partner Model: the exact business model I used to build a million-dollar agency - A clear 3-phase path: Build Your Portfolio → Get Your First Client → Scale To celebrate the release, the annual plan is $699 right now. That's $58/month instead of $99. Plus a 7-day money back guarantee on annual. Click here for more info: https://www.skool.com/ai-automation-society-plus/about - Nate
+218
+132
+New comment May 23
+9
+Nate Herk
+💎
+Oct '25 • 
+Announcements📢
+I built this AI Agent in 2 hours (and got paid $1200)
+Selling my first agent was easier than I thought it would be. I was just building automations for fun and posting them on YouTube to learn. Then someone reached out. We hopped on a casual call. Two hours later, I had $1,200 in my account. But the reason why was obvious: I had something to show him. A working automation. Not a pitch deck or a portfolio website, an actual demo of an automation similar to what he wanted. When you have that, the pitch writes itself: "Want something like this?" It’s so obvious, and yet so few beginners have any demos to show potential clients. That’s why I’m holding a FREE (with a small catch) challenge where I will help you build your first few automations. Click here to get all the details Talk soon, Nate
+288
+160
+New comment May 21
+9
+Nate Herk
+💎
+May 1 • 
+Announcements📢
+your 67% discount expires today 
+Quick heads up. Your 67% discount on One Person AI Agency expires today. This is the complete playbook from building an AI agency to $100K/month and selling it. The client acquisition system, the pricing, the delivery process. Everything. It normally runs $299. Right now it's $99. That changes tonight at midnight. -> your 67% discount expires today PS: If you are an AIS+ member, this is included in the Scale module after 90 days. No need to purchase separately. - Nate
+226
+187
+New comment May 7
+9
+Nate Herk
+💎
+Sep '25 • 
+Announcements📢
+🚨 Want my help scaling your agency (even if it's small)?
+We're looking for a few small AI automation agencies that are getting clients but struggling to scale. For the first time ever, we're teaching the exact playbook that took us from chaos to $100k/month MRR in 8 months. Applications close October 1st at 11:59 PM Eastern. 🎁 As a bonus, we're also giving our members 6 FREE months of AIS+ access ($500+ free) The catch? Founding cohort pricing ends forever after October 1st. Small group only. Serious agency owners who want to scale fast. Click here to get all the details Cheers, Nate
+143
+101
+New comment Apr 27
+Previous
+1
+2
+3
+Next
+1-30 of 66
+AI Automation Society
+skool.com/ai-automation-society
+Learn to get paid for AI solutions, regardless of your background.
+475.3k
+Members
+1k
+Online
+16
+Admins
+JOIN GROUP
+Leaderboard (30-day)
+1
+Muskan Ahlawat
+🔥
++4331
+2
+Nigel Vargas
++3941
+3
+Christian Rivadeneira
+🔥
++3048
+4
+Julius Waggoner
++2204
+5
+Ameeth B.
++1706
+See all leaderboards
+Powered by
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+Form 2: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+

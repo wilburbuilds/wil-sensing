@@ -1,0 +1,263 @@
+URL: https://heliontechnologies.com/ai-agents-for-car-dealerships/
+Fetched: 2026-10-26T03:42:22Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/ai-agents-for-car-dealerships/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Agents for Car Dealerships: 3 First Projects and Controls
+Meta description: AI agents for car dealerships can track recon, review BDC calls, and flag unhappy customers. Here's what they do, who controls their access, and where to start.
+Canonical: https://heliontechnologies.com/ai-agents-for-car-dealerships/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: AI Agents for Car Dealerships: What They Can Do, Who Controls Them and Three First Projects
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+AI Agents for Car Dealerships: What They Can Do, Who Controls Them and Three First Projects
+By Erik Nachbahr
+October 22, 2026 · 17 min read
+
+AI agents for car dealerships are AI tools that follow a multi-step process on a schedule and act across your systems, such as tracking a used car through recon or reviewing BDC calls. Start with one real problem, limited access, and a named owner.
+
+Last updated: October 22, 2026
+
+We were talking with a client not long ago about reconditioning used cars, and their problem had nothing to do with chatbots. Cars came in, went into recon, and got stuck. The process stepped through multiple software applications because the car passed through different departments, so nobody had visibility across all of it, and a car going from recon to the showroom just took too long. Sound familiar? It should.
+
+That’s a perfect job for an AI agent. You don’t need a robot that talks to customers for it. What you want is something that looks at those systems first thing every morning, spots the car that hasn’t moved since Thursday, and pings whoever can get it moving. Boring work. Real money, though.
+
+I used that example in a DealersEdge webinar on AI governance on October 12, alongside two others, and the questions dealers ask about agents tend to land in the same three places. What can they do? Where do we start? Who’s in charge once one is running? This post takes them in that order. It sits under our larger guide to AI governance for dealerships, because an agent is the point where governance stops being a policy document and turns into a real question about access.
+
+What an AI Agent Actually Does at a Dealership
+
+An AI agent is software that carries out a series of steps on its own, on a schedule or a trigger, using access you give it to your systems. It reads, decides what matters, and acts, often by alerting a person or updating a record, without someone typing a prompt each time.
+
+Here’s how I put it in the webinar: “So that would be agentic AI, where you’ve got an AI basically following a process and doing a workflow and going out and doing things on its own schedule or schedule you set.” Later, when I walked through the steps a dealership takes with AI, I said the third piece, agents, “is where it gets really interesting because that’s where it starts to function more like a program.”
+
+That last part is the one to sit with. A program runs whether you’re watching or not. So does an agent. Nobody clicks “go.” It just goes.
+
+	AI CHAT	AUTOMATED WORKFLOW	AI AGENT
+What starts it	A person typing a question	A fixed trigger, such as a form being submitted	A schedule or an event, then its own judgment about what to do next
+What it touches	What the person pastes in or connects	The two or three systems it was wired to	Anything its account can reach in the DMS, CRM, email, and shared drives
+Who sees the result	The person who asked	Whoever the workflow routes it to	Managers, customers, or other systems, depending on how it’s set up
+Dealership example	A sales manager drafts a follow-up email	A new service lead is routed to the right advisor	Every morning, find the recon units that haven’t moved and tell the used car manager
+
+Agents are also showing up inside the software you already pay for. On October 13, the trade newsletter Dealership Guy reported that VINCUE launched 11 AI agents across its inventory platform, covering things like appraisal, pricing, reconditioning, and lead follow-through. Expect more vendors to follow. Some of those agents will be genuinely useful. Others may show up switched on with access nobody at the store thought about. Read the settings.
+
+To be clear, I’m not the guy telling you to sit agents out. I use AI every day and I think everybody in this business should. Cox Automotive’s AI in Auto Retail Tracker, released August 11, 2026, found that 82% of dealers use AI today, and automating routine or complex tasks was tied for the top use at 40%. The same survey found about 1 in 3 dealers either aren’t measuring AI’s impact or have no clarity on how they’re measuring it. That’s the gap agents fall into. Lots of use. Not much ownership.
+
+An agent is a program you didn’t write, running on access you granted. Treat it like one.
+
+Start With the Problem, Not the Tool
+
+At the end of the webinar, an attendee asked what a good first AI project looks like for a dealership that wants to start small. It’s the right question asked backward. “I would challenge you to reverse that question,” I told them. “What are things that are challenges for us that we can think about creating a workflow around?”
+
+Then the practical version: “think about an area in your dealership that requires steps. And a lot of times those steps are a person going into different things to figure out the status of something.”
+
+That sentence describes a lot of jobs in a dealership. Someone checks the DMS, then the inventory tool, then a spreadsheet, then walks out to the lot. Every day. Sometimes twice. An agent is good at exactly that kind of checking, and it doesn’t get bored on day 40.
+
+What I’d steer you away from is the big bang. We see a lot of dealers skipping the early steps and jumping straight to building custom applications with AI, and I’ve watched for years what happens when dealers try to write their own software. We wrote up the risks of software your team builds with AI separately, because it deserves its own post. “I’m not saying don’t go big,” I said in the webinar, “but make sure you don’t miss out on those incremental steps.”
+
+Small wins first. Boring ones. Measurable ones.
+
+Three First Projects That Fit Most Stores
+
+All three of these came up in the webinar. Each one reads information from places your people already check by hand, and each one ends with a person doing something.
+
+1. Follow Used Cars Through Reconditioning
+
+This is the client story from the top of the post. Slow recon was only the symptom. The real trouble was that nobody could see where a car was, because the status lived in several applications across several departments. I gave one honest caveat in the webinar. If your recon process runs in one system, that system probably already has alerts, and you should turn those on before you build anything. Agents earn their keep when the information is scattered.
+
+A good recon agent reads the stock number, the repair order status, the detail queue, and the frontline-ready date, then sends the used car manager a short list every morning of the units that are stuck and where. It doesn’t move anything. It doesn’t reprice anything. It reads. It reports. That’s all.
+
+And you can measure it. Days in recon go down or they don’t.
+
+2. Review Inbound BDC Calls and Emails
+
+The first agent example I gave in the webinar was a customer who wanted AI to regularly go through the telephone calls and emails coming into the BDC, look for dropped calls, missed calls, overhandled calls, and customer sentiment, and report back. No customer ever hears from it. The agent watches the process and tells a manager where it’s leaking.
+
+The catch is what it reads. Call recordings and BDC emails are full of names, phone numbers, trade details, and sometimes credit information. So this agent needs read access to recordings and the CRM notes, nothing else, and its reports should name the problem without copying the customer’s personal details into a summary that gets forwarded around. If what you’re really shopping for is the other kind of AI BDC, the kind that answers leads on its own, my colleague Scot McConnor wrote up the questions to ask before an AI BDC works your leads, and I’d start there.
+
+3. Read Help Desk Tickets for Unhappy Customers
+
+Helion is in the process of developing an agent that looks into our own ticketing system for tickets with unhappy customer sentiment. It’s not done yet. I explained why we’re bothering on the webinar, and I’d say it the same way today: “I mean, that’s something we’re all keen to understand. Is a customer happy? And if they’re unhappy, can I get them quickly and turn them around? I don’t want them just walking away unhappy.”
+
+Your service department has a pile just like our ticket queue. It’s the customer emails, the survey comments, the notes from follow-up calls. Point the same kind of agent at that, and a service manager gets a short list of people worth calling today.
+
+When a dealer asks me whether their idea is a good first project, I end up asking the same handful of things in some order. Is somebody already checking several systems just to find out where one thing stands? Can the agent do the job with read-only access, at least at the start? Is there a manager whose name is on the output, rather than a shared inbox that nobody opens after the first week? Will a number you already watch, like days in recon or missed BDC calls, move if it works? And when it gets something wrong, which it will now and then, does any of that reach a customer? If the answer to that last one is yes, it isn’t a first project.
+
+Who Controls the Agent: Access, Sign-Off and the Audit Trail
+
+This is the part nobody wants to hear, and it’s the part that matters most. An agent works with whatever access it’s actually given, which isn’t always the access you meant to give it, and in a lot of dealerships the access is already a mess before any AI shows up.
+
+You’ve seen it. I have too. An account gets copied from one employee to another, the new person inherits permissions nobody meant them to have, and now someone has elevated access. In the webinar I put the agent version of that risk in a single line: “AI exposing permissions that it already had.” I also told the story of an IT person at a client who asked us for admin rights to do “this AI thing,” and was about to launch a tool with network-wide administrative access. We wrote that one up in the governance guide. Now picture the same access handed to something that runs every night without anyone watching.
+
+The OWASP Gen AI Security Project has a name for it. Its 2025 list of top risks for AI applications calls it excessive agency, and traces it to three causes: excessive functionality, excessive permissions, and excessive autonomy. Too many tools. Too much access. Too little checking. That’s a fair description of how a lot of agents get switched on.
+
+So before an agent goes live, settle four things:
+
+the account it runs under, and exactly what that account can reach in the DMS, the CRM, and Microsoft 365;
+which actions it takes alone and which wait for a person to approve them;
+where every action it takes is logged, and who reads that log;
+and the one person at the store who answers for it.
+Its Own Account, With Only the Access It Needs
+
+An agent should never run as a person. Not as the IT manager. Not as the controller. Never as an administrator. Give it its own named account in the DMS, the CRM, and Microsoft 365, with the smallest set of permissions its job requires. The recon agent can read repair orders and inventory status. That’s it. No deal jackets, no payroll, no mailboxes.
+
+The FTC Safeguards Rule already asks for this. It requires access controls that limit authorized users’ access only to customer information that they need to perform their duties, and an agent touching customer data is an authorized user for all practical purposes. Modern DMS platforms help here. Tekion, for example, has granular per-user access controls built in, and an agent’s account can be set up with the same care as a new employee’s. We go further into scoping in our post on least-privilege access for AI tools.
+
+What It Does Alone, and What Needs a Person’s Sign-Off
+
+Decide this on purpose, in writing, before launch. Which tasks get automated and which stay with your people is a governance decision, not a setting the vendor picks for you. OWASP’s advice is the same as mine: require a human to approve high-impact actions before they’re taken.
+
+THE AGENT MAY DO THIS ALONE	A PERSON SIGNS OFF FIRST	THE AGENT NEVER DOES THIS
+Read statuses, notes, and tickets it was scoped to	Change a record in the DMS or CRM	Delete records or files
+Write a summary or a daily list	Send anything to a customer	Change its own permissions or anyone else’s
+Alert a named manager inside the store	Reassign a lead, a car, or a repair order	Move money, approve credit, or touch payroll
+Open an internal ticket	Change a price or a payment figure	Export customer data outside your systems
+
+I’d be surprised if your table looked exactly like mine, and I don’t care much where you put each line, as long as somebody at the store sat down and drew them on purpose and wrote down the moment a person takes over from the agent.
+
+An Audit Trail You Can Actually Read
+
+Early in my career I worked in a three-person IT department supporting about 100 actuaries, and I loaded a module onto the servers to make file storage easier. The server went down. My boss fixed it and then told me, “That worked out for us. If it hadn’t, you’d have lost your job.” I’ve thought about that a lot since agents showed up, because an agent is a change to your systems that keeps happening every night, and if you can’t see what it did, you can’t fix what it broke.
+
+So the agent’s account gets logged like any employee’s, and probably more closely. The Safeguards Rule already asks dealers to monitor and log the activity of authorized users and to detect unauthorized access, and I’d want that log to show what the agent read, what it flagged, anything it changed, and who approved the change, in a form your own manager can read on a Saturday without calling anyone. If a vendor’s built-in agent can’t show you that, ask them why not, and keep asking.
+
+One Named Owner in the Business
+
+Who owns that? It’s the question I ask about every piece of software a dealer brings in, and agents make it louder, because an agent with no owner keeps running long after everyone forgets it’s there. In practice, the person who owns the process owns the agent, so the used car manager answers for the recon agent and the BDC manager answers for the one reviewing calls. IT owns the account and its access. Above both, someone approves new agents before they go live, and at a single-point store that can simply be the dealer principal and the controller.
+
+Brandon Dorsey, Helion’s Vice President of Technology Strategy, makes a point I’d add here. Buying the AI platform is only the first step. Dealers buy licenses and start a pile of AI initiatives with no plan, no integrations, and no defined goals, and handing an enterprise license to staff with no rollout plan adds risk of its own when nobody sets the access controls, builds the workflows, or secures the data connections. His fix is to decide what an agent may reach, and who builds and secures its workflow, before it’s switched on.
+
+No owner, no agent.
+
+How We Approach Agents at Helion
+
+We’ve already seen this exact problem across our client base. Helion Technologies has supported 2,000-plus dealerships and 35,000 end users over nearly 30 years, and the permission mess that agents inherit is the same mess we clean up in networks, mailboxes, and DMS user lists.
+
+So our Managed AI service starts with the boring part. We set up a governed corporate AI platform with role-based access managed by our team, connect it to your data sources one at a time, and keep an audit trail of prompts and responses. Any agent built on it should follow the rules in this post: its own account, scoped access, and a named owner at the store. When an agent needs DMS data, we follow the same approach we laid out for connecting generative AI to your DMS: read-only first, only the fields it needs, nothing exported to a desktop.
+
+We’re one integrated team, so the people who manage your network and security are the same people scoping the agent. When something breaks, there’s no finger-pointing between an AI vendor and an IT vendor. One call. One answer.
+
+That’s the whole point of doing it this way.
+
+Things Dealers Ask Me About AI Agents
+Agentic AI vs a chatbot: does the gap actually matter?
+Our DMS or inventory vendor is adding agents. Do we still need our own rules?
+Can one agent cover all our rooftops?
+Who should sign off before an agent goes live?
+We’re one store with one IT person. Is this too early for us?
+Pick the Problem First
+
+We’ve had clients hand us a ten-page list generated by an AI tool, and you can tell right away nobody on their side actually thought it through. A first agent is the opposite of that list. It’s one job, the one where somebody at your store spends part of every morning checking four systems to answer a single question, and it comes with its own account, the least access it needs, a short list of things it never does alone, and a manager whose name is on it.
+
+Our complimentary IT and cybersecurity assessment is a decent way to find that job, and to see what your systems would hand an agent if you switched one on tomorrow. We’ll go through your access, your permissions, and your data connections with you before anything gets switched on. Get those right and the agent is the easy part.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What an AI Agent Actually Does at a Dealership
+Start With the Problem, Not the Tool
+Three First Projects That Fit Most Stores
+Who Controls the Agent: Access, Sign-Off and the Audit Trail
+How We Approach Agents at Helion
+Things Dealers Ask Me About AI Agents
+Pick the Problem First
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"AI Agents for Car Dealerships: What They Can Do, Who Controls Them and Three First Projects","datePublished":"2026-10-22T15:06:20+00:00","dateModified":"2026-10-22T15:06:21+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/"},"wordCount":3426,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-agents-for-car-dealerships-featured.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/","url":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/","name":"AI Agents for Car Dealerships: 3 First Projects and Controls","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-agents-for-car-dealerships-featured.webp","datePublished":"2026-10-22T15:06:20+00:00","dateModified":"2026-10-22T15:06:21+00:00","description":"AI agents for car dealerships can track recon, review BDC calls, and flag unhappy customers. Here's what they do, who controls their access, and where to start.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-agents-for-car-dealerships-featured.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/ai-agents-for-car-dealerships-featured.webp","width":1200,"height":500,"caption":"Start with one process your people already check by hand, like used cars moving through recon."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/ai-agents-for-car-dealerships\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"AI Agents for Car Dealerships: What They Can Do, Who Controls Them and Three First Projects"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/ai-agents-for-car-dealerships/#article","headline":"AI Agents for Car Dealerships: What They Can Do, Who Controls Them and Three First Projects","description":"AI agents for car dealerships can track recon, review BDC calls, and flag unhappy customers. Here's what they do, who controls their access, and where to start.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/ai-agents-for-car-dealerships-featured.webp","datePublished":"2026-10-22T11:06:20-04:00","dateModified":"2026-10-22T11:06:21-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/f64fb7262f228b461c41956fb8f1a753"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/ai-agents-for-car-dealerships/"},"articleSection":"Managed AI","inLanguage":"en-US","keywords":["AI agents for car dealerships","agentic AI","AI agents for dealership management systems","AI governance","used car reconditioning","excessive agency"],"about":[{"@type":"Thing","name":"AI agent","description":"Software that carries out a series of steps on its own, on a schedule or a trigger, using access it is given to business systems, such as tracking used cars through reconditioning or reviewing BDC calls."},{"@type":"Thing","name":"Agentic AI","description":"AI that follows a multi-step process and acts on its own schedule or a schedule a person sets."},{"@type":"Thing","name":"Excessive agency","description":"The AI security risk of giving an AI system more functionality, permissions, or autonomy than its job requires."},{"@type":"Thing","name":"Used vehicle reconditioning","description":"The dealership process that takes a used car from trade-in or purchase through service, detail, and pricing until it is ready for sale."},{"@type":"Thing","name":"AI governance at dealerships","description":"Deciding who approves AI projects, what AI tools may access in the DMS, CRM, and email, which actions need human sign-off, and who is accountable."}],"mentions":[{"@type":"Person","@id":"https://heliontechnologies.com/#/schema/person/17d54fad11c197dca04f1cb8d7157101","name":"Scot McConnor"},{"@type":"Person","name":"Brandon Dorsey","jobTitle":"Vice President of Technology Strategy","worksFor":{"@id":"https://heliontechnologies.com/#organization"}},{"@type":"CreativeWork","name":"AI Governance for Dealerships: Shadow AI, Data Exposure, and What to Do Next (DealersEdge webinar)","url":"https://youtu.be/-37QsZDznro","publisher":{"@type":"Organization","name":"DealersEdge"}},{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"},{"@type":"CreativeWork","name":"Cox Automotive AI in Auto Retail Tracker","url":"https://www.coxautoinc.com/press-releases/new-cox-automotive-ai-in-auto-retail-tracker/","publisher":{"@type":"Organization","name":"Cox Automotive"}},{"@type":"CreativeWork","name":"LLM06:2025 Excessive Agency","url":"https://genai.owasp.org/llmrisk/llm062025-excessive-agency/","publisher":{"@type":"Organization","name":"OWASP Gen AI Security Project"}},{"@type":"Organization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"CreativeWork","name":"FTC Safeguards Rule, 16 CFR 314.4","url":"https://www.law.cornell.edu/cfr/text/16/314.4","publisher":{"@type":"Organization","name":"Federal Trade Commission"}},{"@type":"Organization","name":"VINCUE"},{"@type":"CreativeWork","name":"VINCUE looks to ease inventory decisions for dealers as AI offerings surge across auto retail","url":"https://news.dealershipguy.com/p/vincue-looks-to-ease-inventory-decisions-for-dealers-as-ai-offerings-surge-across-auto-retail","publisher":{"@type":"Organization","name":"Dealership Guy"}},{"@type":"Organization","name":"Tekion"},{"@type":"CreativeWork","name":"Microsoft 365"}]}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/ai-agents-for-car-dealerships/#faq","mainEntity":[{"@type":"Question","name":"Agentic AI vs a chatbot: does the gap actually matter?","acceptedAnswer":{"@type":"Answer","text":"It matters a lot, because a chatbot answers when someone asks and an agent acts when nobody's asking. That changes who has to watch it. A chatbot's risk is mostly what people paste into it. An agent's risk is everything its account can reach, at 3 a.m., on its own."}},{"@type":"Question","name":"Our DMS or inventory vendor is adding agents. Do we still need our own rules?","acceptedAnswer":{"@type":"Answer","text":"You do. A vendor-built agent still runs on access to your data under your store's name, so ask the same four questions: what account it uses, what it does without a person, where the log is, and who at your store owns it. Some vendors will have great answers. Get them in writing anyway. All four."}},{"@type":"Question","name":"Can one agent cover all our rooftops?","acceptedAnswer":{"@type":"Answer","text":"It can, eventually, though I wouldn't launch it that way. Even stores in the same group tend to run recon, the BDC, and the service drive a little differently from each other, and an agent tuned to one store's habits will cheerfully flag the wrong things at the next one. I'd prove it at one rooftop, then roll it out store by store with each store's own owner and its own access."}},{"@type":"Question","name":"Who should sign off before an agent goes live?","acceptedAnswer":{"@type":"Answer","text":"Three people, and it fits on one page. The manager who owns the process signs for what the agent does, whoever runs your IT signs for what it can reach, and whoever approves AI projects for the dealership signs that it should exist at all, which at a single-point store usually means the dealer principal or the controller and at a group means the governance committee."}},{"@type":"Question","name":"We're one store with one IT person. Is this too early for us?","acceptedAnswer":{"@type":"Answer","text":"Honestly, a single store with a scattered-status problem is often a better place to start than a big group, because the process is simpler. What your one IT person probably can't do alone is set up separate accounts, logging, and access reviews for an agent while also keeping the printers running and the DMS up, so line up that help before the agent is switched on rather than after."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/ai-agents-for-car-dealerships/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

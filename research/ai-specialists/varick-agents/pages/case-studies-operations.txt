@@ -1,0 +1,251 @@
+URL: https://www.varickagents.com/case-studies-operations
+Fetched: 2026-10-26T03:33:21Z
+HTTP status: 200
+Final URL: https://www.varickagents.com/case-studies-operations
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Operations Case Studies | Varick Agents
+Meta description: See how a $3.5B manufacturer cut disruption response from days to under 6 hours using Varick Agents to automate supply chain exceptions, demand planning, and procurement.
+Canonical: https://www.varickagents.com/case-studies-operations
+Robots: max-image-preview:large
+H1: 
+
+V
+
+Varick Agents
+
+HOW IT WORKS
+
+CASE STUDIES
+
+CAREERS
+
+BLOG
+
+Book a Call
+
+CASE STUDY
+
+Operations Department Transformation
+
+$3.5B REVENUE CONSUMER GOODS MANUFACTURER
+
+9 DCS
+
+340 SUPPLIERS
+
+Company Profile
+
+Revenue: $3.5B  |  5,200 employees  |  380-person operations org
+
+Operations Org: Supply chain, demand planning, warehouse ops, procurement, inbound logistics, quality, returns
+
+Tech Stack: SAP ECC, Manhattan WMS, Blue Yonder, Ariba, custom supplier portal, Outlook, Excel
+
+The Challenge
+
+Supply chain exception management was entirely manual. When a disruption hit, the ops team had to check SAP for inventory, Manhattan for warehouse allocation, Blue Yonder for demand forecast, then call or email 3-4 people to coordinate the response. Average disruption response time was 2-4 days.
+
+Stockout rate was 6.8%. The ops team ran a daily war room where 12 people spent 90 minutes going through an Excel tracker, mostly status updates. Supplier performance data existed across 3 systems with no unified view. The ops team was the integration layer between these systems. When someone quit, their institutional knowledge walked out with them.
+
+Demand planning ran a monthly S&OP cycle that was already outdated by publication. Warehouse allocation was a nightly batch process. MRP-generated POs had a 23% amendment rate. Inbound logistics was tracked in a spreadsheet by 4 people. Quality data was disconnected from supplier scorecards. Returns processing took 5-7 days.
+
+The Audit (4 Weeks)
+
+FDE embedded across the full operations org, shadowing the daily war room for 2 weeks, visiting 3 of 9 distribution centers, and spending a week with procurement watching PO flows. Mapped 47 distinct exception types across all sub-functions.
+
+31 of 47 exception types follow a repeatable decision pattern (16 require genuine judgment)
+60% of coordinator time across all sub-functions spent gathering context before starting a decision
+71% demand forecast accuracy at SKU level, with no time to analyze and improve
+23% PO amendment rate because MRP quantities didn't account for real-time signals
+15-20% estimated warehouse labor over-scheduling due to poor inbound visibility
+
+The Architecture
+
+Full operations layer spanning every sub-function from demand signal to customer delivery.
+
+Exception Management
+
+Exception detection agent monitoring SAP, Manhattan, and Blue Yonder for disruption signals and creating structured exception tickets with full pre-assembled context. Exception routing agent handling the 31 repeatable types autonomously. Escalation agent managing the 16 complex types by assembling context, recommending 2-3 resolution options with trade-off analysis, and routing to the right decision-maker.
+
+Demand Planning
+
+Demand sensing agent running continuous forecast updates by correlating internal signals (POS data, order pipeline, returns trends) with external signals (weather, port congestion, raw material pricing, competitor activity). S&OP preparation agent auto-generating the monthly package with gap analysis, risk flags, and recommended actions.
+
+
+Procurement
+
+Intelligent PO agent validating MRP-suggested quantities against real-time demand signals, supplier lead time variability, and open PO status. Supplier management agent maintaining unified scorecards from Ariba, Manhattan, and quality data. Contract compliance agent monitoring for off-contract spend and missed rebate thresholds.
+
+
+Warehouse and Logistics
+
+Inbound visibility agent pulling real-time shipment status from carrier APIs and supplier portals, feeding into labor planning. Allocation optimization agent running continuous allocation instead of nightly batch. Returns disposition agent auto-classifying returned items and routing to restock, refurbish, or scrap.
+
+
+Quality Management
+
+Quality signal agent connecting quality hold data to supplier scorecards, identifying trending defect patterns, and triggering corrective action requests. Feeding quality data into procurement so sourcing decisions incorporate quality performance alongside price and lead time.
+
+
+Implementation (4 months)
+
+Month-by-month focus and results.
+
+Month
+Focus
+Key Results
+1
+Exception Detection + Inbound Visibility
+War room cut from 90 to 25 minutes. Real-time shipment tracking for first time. Labor over-scheduling started dropping immediately.
+2
+Exception Routing + Demand Sensing + PO Validation
+Auto-draft approval rate: 93% week 1. Top 10 exception types fully autonomous by month-end. PO amendment rate on top 50 SKUs: 23% to 6%.
+3
+Supplier Scorecards + Allocation + Returns
+4 underperforming suppliers identified for first time. Continuous allocation replaced nightly batch. S&OP meeting shifted from data review to strategy.
+4
+Full Rollout + Quality + Integration
+Quality agent flagged 6-week trending defect pattern. All agents integrated end-to-end across sub-functions.
+Results
+<6 Hours
+Disruption Response (from 2-4 days)
+2.9%
+Stockout Rate (from 6.8%)
+86%
+SKU Forecast Accuracy (from 71%)
+4%
+PO Amendment Rate (from 23%)
+-22%
+Inventory Carrying Costs
+Same Day
+Returns Disposition (from 5-7 days)
+ROI: $10.1-$13.7M Recurring + $9.3M One-Time
+
+This engagement produced both a one-time working capital release and ongoing annual value. We separate them here because they compound differently: the working capital release is realized once, while the recurring savings grow as agent accuracy improves. 
+
+Recurring Annual Value
+
+Value Driver
+Amount
+Methodology
+Stockout reduction (lost sales + expedited shipping avoided)
+$3.2-4.2M
+Stockout rate improvement x avg lost margin
+Headcount redeployed (14 coordinators to strategic roles)
+$1.8-2.2M
+Named roles x fully-loaded cost
+Capacity recovered (warehouse labor, planning team time)
+$0.6-1.0M
+Hours freed x blended rate, discounted 30%
+Procurement efficiency (PO amendments, rebates, off-contract spend)
+$1.3-1.7M
+Amendment cost savings + captured rebates
+Quality cost avoidance from earlier defect detection
+$0.7-0.9M
+Defect cost reduction vs. trailing 12 months
+Returns processing acceleration
+$0.4-0.5M
+Disposition cycle time x inventory carrying cost
+Recurring Annual Total
+$10.1-$13.7M
+Range reflects assumption sensitivity
+
+One-Time vs. Recurring: The $9.3M working capital release is a one-time benefit from reducing inventory buffers that compensated for slow disruption response. It does not recur annually but the freed capital is permanently available. Recurring value of $10.1-13.7M represents ongoing annual savings that compound as agent accuracy improves.
+
+
+Cross-Department Impact
+
+Ops agents fed supplier reliability scores into finance AP prioritization. Finance fed spend concentration risk back into supplier diversification strategy. Demand sensing data fed into sales forecasting. By month 10, three departments operated off a shared intelligence layer. These cross-department effects are not included in the value estimates above.
+
+
+SCHEDULE DISCOVERY
+
+Deploy Your First AI Agent
+
+Book a Call
+
+CASE STUDIES
+
+Watch Varick Agents in Action
+
+View Deployments
+
+V
+
+Varick Agents
+
+Varick designs and deploys AI agent systems that 
+
+execute operational workflows inside enterprise organizations.
+
+1.1
+
+HOME
+
+HOME
+
+1.2
+
+HOW IT WORKS
+
+HOW IT WORKS
+
+1.3
+
+CAREERS
+
+CAREERS
+
+1.4
+
+CASE STUDIES
+
+CASE STUDIES
+
+1.5
+
+FAQ
+
+FAQ
+
+2.1
+
+X / TWITTER
+
+X / TWITTER
+
+2.2
+
+LINKEDIN
+
+LINKEDIN
+
+2.3
+
+BLOG
+
+BLOG
+
+2.4
+
+SUPPORT
+
+SUPPORT
+
+2.5
+
+PRIVACY
+
+PRIVACY
+
+2.6
+
+PRIVACY NOTICE
+
+PRIVACY NOTICE
+
+© 2026 Varick Agents. All rights reserved. Company names and logos are trademarks of their respective owners.
+
+311 California Street #750, San Francisco, CA, 94104
+

@@ -1,0 +1,691 @@
+URL: https://playbook.boomautomations.com/180-plan
+Fetched: 2026-10-26T03:46:07Z
+HTTP status: 200
+Final URL: https://playbook.boomautomations.com/180-plan
+Content-Type: text/html
+Via: chrome-headless
+Title: The 180-Day Plan to a $500K/Year AI Agency
+Meta description: The complete guide to positioning, selling, delivering, and scaling an AI agency, plus the complete Pricing Guide. Free from Luke Pierce.
+Canonical: 
+Robots: noindex
+H1: The 180-Day Plan to a $500K/Year AI Agency
+
+THE 180-DAY PLAN
+Download as PDF
+Apply to the Inner Circle
+The 180-Day Plan to a $500K/Year AI Agency
+
+The full plan. The offers by industry, the 7 channels with the scripts, the sales process, the delivery infrastructure, and how the retainer gets sold. Plus the day-by-day checklist and my hour-by-hour schedule at the end.
+
+CONTENTS
+Read this first
+The math the whole plan is built on
+Why the offers you see online won't work for you
+The offer the whole plan runs on
+Phase 1: Days 1 to 14. Lock it in.
+Phase 2: Days 15 to 45. Book calls.
+Phase 3: Days 46 to 90. First clients.
+Phase 4: Days 91 to 135. Deliver.
+Phase 5: Days 136 to 180. Stack.
+Why you can't miss
+Where the plan actually breaks
+Bonus: the hour-by-hour day
+Bonus: the 180-day checklist
+Run it with people doing it next to you
+Read this first
+
+If you're reading this, you're probably in one of three spots.
+
+You've closed a client or two, the money was real, and now the pipeline is empty and you don't know how to make it happen again. Or you're still at your 9-5, you've spent months watching people post $30K invoices, you know you could do the work, and the only thing missing is the actual path from zero. Or you've been running your agency for over a year and revenue is a rollercoaster, $12K one month and nothing for the next two, and you're tired of guessing what to do each morning.
+
+All three of those are the same problem. You have a goal with nothing underneath it. And from any of those seats, $500K a year sounds like a fantasy, because you can't see the mechanism that produces it.
+
+The mechanism is smaller than it looks from any of those seats. $500K comes from a handful of clients, and those clients come from a specific set of activities done at a specific volume. Once you put the math on paper, the goal turns into a schedule, and you stop wondering where the next client is coming from because you know what you're doing every morning to produce them.
+
+This document is that schedule, with everything the plan needs attached to it. The original article laid out the phases and the math. This version adds what people asked for: the offers that are closing right now broken down by industry, the seven channels we use to book calls with the strategy and a script for each, the sales process and what goes in the proposal, the delivery infrastructure we run across a dozen active clients, and the exact way the retainer and maintenance get sold at the end.
+
+How to use it: start with the phase that matches where you are. Starting from zero, go to Phase 1 and do nothing else for two weeks. Already at one to three clients, skim Phases 1 and 2 to check your foundation, then go straight to Phase 3, which is where your fifth and sixth clients come from.
+
+Quick disclaimer before we get into it: none of these results are guaranteed. Your outcome depends on your execution, your skills, your market, and how consistently you actually run the activities in this plan. The numbers here come from my agency and the operators I work with, and yours will look different. Treat this as a framework to run your own numbers through, and nothing in it is financial advice.
+
+The math the whole plan is built on
+
+By day 180 the machine signs 12 builds a year, so let's work backward from that.
+
+Once a company has paid for a blueprint and seen its own operation drawn out, most of them move forward with the build. Boom's conversion is higher, but call it 60%.
+
+12 builds ÷ 0.60 = 20 paid audits a year
+
+From there, the path runs discovery call to strategy call to paid audit, with the $3K fee credited toward the build. Of the qualified companies that take a discovery call, you'll convert somewhere near half into a paid audit. Call it 40%.
+
+20 audits ÷ 0.40 = 50 discovery calls a year
+
+That's one qualified discovery call a week. The entire business comes down to getting one qualified company on a discovery call every week, converting 40% of them into a $3K audit through the strategy call, and delivering a blueprint good enough that 60% buy the build. The 180 days below exist to get you to that pace and hold it there.
+
+Here's what the machine produces over the 12 months after day 180, signing one client a month at floor pricing:
+
+12 audits × $3,000 = $36,000
+12 builds × $30,000 = $360,000
+Retainers stack as builds ship: 45 retainer months × $3,000 = $135,000
+
+Total: $531,000.
+
+And that year ends with 9 clients on retainer, which means $27K a month arriving before a single new sale. Year two starts with more than half the target already booked.
+
+Why the offers you see online won't work for you
+
+The offer this plan runs on looks different from what's being taught right now, and the difference matters more than anything else in this document.
+
+A lot of the popular offers in this space only work because of who's selling them. There's a model going around where you charge a company a couple thousand a month to be their AI advisor and meet with them twice a month. Sounds great, and it genuinely works for the person teaching it, because they have a massive personal brand and their audience is already sold on working with them before the first call ever happens. Take away the brand and that offer has nothing holding it up, because no company pays a stranger a monthly fee for two meetings.
+
+The same thing is true at the top end of the market. The biggest names in this space charge $40K a month retainers, and I know that because we've competed against them on deals at Boom. They can charge it because their name walks into the room before they do, and the selling happened years before the discovery call.
+
+You probably don't have that audience yet, which means you need an offer that sells on its own math instead of on your name. That's what the rest of this plan is built on.
+
+The offer the whole plan runs on
+
+Everything downstream depends on what one client is worth, so we lock this first.
+
+The audit-first model that's closing right now looks like this:
+
+Paid audit: $3,000
+Build: $30,000
+Retainer: $3,000 a month
+
+Those are floor numbers for companies in the $2M to $10M range. Boom closes builds between $25K and $60K and retainers between $3K and $8K a month, but I'm using $30K and $3K here so nobody can argue with them.
+
+Pricing moves with the size of the company, because the cost of the problem moves with it. These are the ranges we actually quote:
+
+Company size	Paid audit	Build	Retainer
+$2M to $10M	$2,500 to $3,500	$20K to $35K	$2,500 to $4K a month
+$10M to $50M	$4K to $6K	$35K to $75K	$5K to $10K a month
+$50M and up	$7,500 to $15K	$75K to $250K+	$10K+ a month
+
+One client is worth a $3K audit, a $30K build, and a retainer that starts when the build ships. The blueprint you deliver in the audit sells the build, and the retainer gets earned after delivery once they've seen the work.
+
+One warning before you go paste this offer into a cold message: the audit is what you'll usually propose on the strategy call, one call after discovery, and it's never what you lead with in outreach. Nobody wakes up wanting an audit. Your outreach leads with a specific pain point and a specific solution for a specific industry, and that hook is what books the call. The audit gets proposed on the strategy call that follows discovery, and I'll show you how that flow works in Phase 2.
+
+Compare all of this to an agency selling $5K workflows. Getting to the same $500K takes 100 closed deals, which means somewhere around 250 discovery calls. Same industry and same skills, but five times the sales activity. Most of the math in this plan is really just the price of the offer.
+
+Phase 1: Days 1 to 14. Lock it in.
+
+You don't send any outreach or post anything in the first two weeks. This phase is setup, and it determines whether everything after it works. Four decisions get made here: the industry, the hook offer, the channel, and the case study.
+
+Pick one industry
+
+Target companies doing $2M to $10M, because the conversion rates in this plan assume a buyer who can approve $30K without a committee. Once you pick, you stay in that industry for at least 90 days.
+
+These are six of the industries closing right now, with the buyer, the pain that books the call, and what the build usually looks like. Pick the one you have any connection to, even a thin one.
+
+Marketing agencies ($2M to $20M) Buyer: the owner or the COO. Hook pain: account managers burning 10 to 12 hours a week on manual client reporting and status updates. What you build: a client operations system that pulls reporting from the ad platforms and the CRM, drafts the weekly update, and routes the exceptions to a human. Build range: $25K to $45K. Red flag: under 8 employees, because the owner is still the account manager and there's nobody to give the hours back to.
+
+Financial services, PE, VC, and family offices Buyer: a partner or principal. Hook pain: associates spending 15 to 20 hours a week on deal sourcing and enrichment before a single conversation happens. What you build: a deal flow pipeline that ingests inbound deals, enriches them, scores them against the thesis, and keeps the pipeline current. Build range: $60K to $120K. Red flag: a fund with no deal volume, because there's nothing to automate yet.
+
+Professional services: law, accounting, consulting Buyer: the managing partner. Hook pain: intake and first-draft document work eating billable hours, and the handoffs between intake, paralegals or staff, and partners. What you build: an intake triage and document generation system tied into their practice management software. Build range: $30K to $60K. Red flag: a firm whose partners won't let anything touch the client file, which you'll find out on the discovery call.
+
+E-commerce brands ($5M to $50M) Buyer: the founder or the director of operations. Hook pain: tier-one customer service, returns, and order exceptions handled by people copying and pasting between Shopify, the help desk, and the 3PL. What you build: a customer operations layer that resolves the common tickets, routes the rest, and reconciles exceptions. Build range: $30K to $50K. Red flag: a brand under $5M, because the volume doesn't justify the price.
+
+Healthcare practices: dental groups, vet groups, multi-location primary care Buyer: the owner or the practice manager across locations. Hook pain: no-shows, insurance verification, and patient follow-up handled by the front desk in between answering the phone. What you build: a patient operations system that confirms, verifies, reactivates, and follows up without the front desk doing it. Build range: $40K to $85K. Red flag: a single-location practice, because the owner is the practice manager and the budget isn't there.
+
+Home services ($2M to $15M) Buyer: the owner. Hook pain: slow lead response, dispatch done by text, and invoicing that lags the job by a week. What you build: lead response, dispatch, and billing automation on top of their field service software. Build range: $20K to $40K. Red flag: owners who don't live on LinkedIn or email, which means this industry is a cold calling or workshop play, not an outreach play.
+
+There are 25 industries in the full breakdown we use inside the Inner Circle, with 10 to 15 pain points per industry, who writes the check, what they're currently paying for broken solutions, and the discovery questions that unlock the deal. The six above are the ones I'd start with if I were picking today.
+
+Write your hook offer
+
+This is the thing your outreach actually leads with: one specific pain point in your industry, one specific solution, and a specific outcome. You're picking the pain that's so common in your niche that half the people who read the message feel called out. The audit, the build, and the retainer all come later, and none of them show up in the first message.
+
+The formula is one sentence:
+
+We help [industry] [stop doing / recover / eliminate] [specific pain] by [specific system], so [specific outcome].
+
+Two examples that are working:
+
+We help marketing agencies kill the 10 to 12 hours a week their account managers spend on client reporting, so AMs can carry more accounts without hiring.
+
+We help dental groups recover the revenue they lose to no-shows with a confirmation and reactivation system the front desk never has to touch.
+
+Write yours, say it out loud, and cut every word that a business owner wouldn't use.
+
+Lock the back-end offer
+
+$3K audit, $30K build, $3K a month retainer. Then write the one-paragraph version of what the audit delivers, because you'll say it on every strategy call:
+
+The audit is two weeks. We map every process in the operation, find the bottlenecks, rank every automation opportunity by ROI, and hand you a phased build plan with a budget. You walk away with a blueprint of your own business you can act on with us or with anyone. The fee credits toward the build if we move forward.
+
+Pick your channel
+
+Pick one channel based on where your buyer actually lives. The seven channels we use are in Phase 2 with the strategy and a script for each. The short version of the decision:
+
+Your buyer	Start with
+Agency owners, e-commerce founders, SaaS	LinkedIn content plus outreach, or Dream 100
+Healthcare, professional services, financial services	Cold email, or Dream 100 if the list is small
+Home services, local multi-location businesses	Cold calling, or an in-person AI workshop
+You have a real network in the industry	Warm network first, every time
+Zero case studies and you need one fast	Upwork
+
+One channel you can actually keep up with beats two you run at half volume. If you go LinkedIn, that means fixing your profile first: banner with the offer, clear headline, featured section with proof, because every prospect checks it before replying. If you go cold email, that means secondary domains, inboxes, and warmup started today, since warmup takes 14 days.
+
+Get a case study
+
+If you already have a client outcome, write it up with the specific number. If you have zero, spend this phase getting one, even if that means building something real for a warm contact in exchange for the case study rights. Reply rates roughly double when you have one specific outcome to reference, so without it every channel number in this plan gets cut in half.
+
+The format that travels: "We did [system] for [type of company] and it [saved X hours a week / recovered $X / cut X by Y%]." Turn hours into a percentage if it sounds bigger. "Eliminated the manual reporting process by 90%" is a line you can put on a banner, in a proposal, and at the top of every outreach message.
+
+Phase 2: Days 15 to 45. Book calls.
+
+Now the machine starts, with your outbound channel and content running daily. This is the section people asked for most, so here are all seven channels with the strategy and a script for each. You're running one or two of these, not all seven.
+
+1. LinkedIn content plus outreach
+
+Why it works: your buyer checks your profile before replying to anything, so the content and the outreach are one system. Content converts the outreach, outreach gives the content somewhere to go.
+
+Daily volume: 30 connection requests a day, 5 days a week, plus one post a day, 6 days a week. Thirty requests takes about 20 minutes with Sales Navigator, or closer to 5 if Heyreach runs the sequence.
+
+The content schedule: Monday hot take, Tuesday case study, Wednesday lead magnet, Thursday tactical list, Friday personal story, Saturday or Sunday a second lead magnet. Two lead magnet posts a week with a reply-keyword CTA, because those build the DM list that turns into calls three months from now.
+
+The outreach sequence: a connection request with a short note referencing something specific from their profile and no pitch. Then three messages: one after they accept, one after they reply, and one follow-up for the silent ones five days later. Every message leads with the hook offer, and there's only ever one follow-up.
+
+Here are three versions that work. Pick the one that sounds most like you and swap in your industry, your pain, and your number.
+
+Sequence A, lead with the result
+
+After they accept: Appreciate the connect, [first name]. Saw you run [company type]. We've been working with [company type]s on [hook pain], just wrapped one that [outcome]. Is that something your team deals with?
+
+After they reply: Makes sense. Easiest way to show you is a quick walkthrough of how we set it up. Got 20 minutes this week?
+
+If they go quiet: No worries if the timing's off. One question though, how are you handling [process] right now?
+
+Sequence B, lead with a question
+
+After they accept: Hey [first name], quick one. How much of your team's week goes to [process]? Asking because that's the thing we keep getting hired to fix for [company type]s.
+
+After they reply: That's about what we see. We built something for a [similar company] that took it from [X] to [Y]. Happy to show you how it works, no pitch. 20 minutes?
+
+If they go quiet: Still curious about the [process] question. Even a rough number helps me know if what we built would apply to you.
+
+Sequence C, lead with something useful
+
+After they accept: Thanks for connecting, [first name]. I put together a short breakdown of how [company type]s are handling [process] with AI right now, mostly from what we've built. Want me to send it over?
+
+After they say yes, send it: Here it is. The part worth reading is [section]. If it lines up with what you're seeing at [company], I can walk you through how it'd look for you in 20 minutes.
+
+If they go quiet: Did the breakdown land? Curious which part matched your setup.
+
+Message one goes out within 24 hours of the accept, and every reply gets answered the same day. The connection note never pitches, the first message names the pain, and the ask for the call never comes before they've replied once.
+
+What to track: accept rate (20% is normal), reply rate, and calls booked per 100 requests.
+
+2. Cold email
+
+Why it works: it's the channel that reaches buyers who don't live on LinkedIn, and it runs while you sleep once the infrastructure is up.
+
+Setup (Phase 1): two or three secondary domains with three inboxes each, SPF, DKIM, and DMARC configured, warmup started on day one. Warmup takes 14 days, which is exactly why this channel goes live around day 15. The stack runs $200 to $300 a month with Smartlead or Instantly for sending and Apollo or ListKit for the list.
+
+Daily volume: 20 to 30 sends a day across the inboxes on a 4-step sequence over 14 days. The break-up email at the end outperforms everything before it.
+
+The sequence: email one is the hook offer with the case study. Email two, three days later, adds one specific example of what the system does. Email three, four days later, is a short question about the pain. Email four, a week later, is the break-up.
+
+The script (email one):
+
+Subject: reporting at [company]
+
+[First name], quick question. How many hours a week does your team spend building client reports and status updates?
+
+We built a system for [case study company] that pulls reporting from the ad platforms and the CRM, drafts the weekly update, and only pulls a human in for the exceptions. Cut their reporting time by about 90%.
+
+If that's a problem at [company], I can show you how it works in 20 minutes. If it isn't, no worries, I'll leave you alone.
+
+[Your name]
+
+The break-up (email four):
+
+[First name], I'll assume the timing is off and close this out. If reporting ever becomes the thing eating your team's week, the system is here. Appreciate the time.
+
+What to track: reply rate (1% to 3% is normal), positive reply rate, and calls per 1,000 sends.
+
+3. Warm network
+
+Why it works: it's the single highest-converting channel at the start, and almost everyone skips it because it feels small. Former coworkers, family friends, people from your last job, clients from a previous business. Warm outreach consistently outperforms cold in the first 90 days.
+
+The list: 50 people who either run a business in your industry, work inside one, or know someone who does. Build it in a spreadsheet in one sitting. You'll be surprised who's on it.
+
+The cadence: 10 messages a day for five days, then a follow-up round the following week. Every message is individual. No blast.
+
+The move: ask for intros, not sales. People love making introductions and hate being sold to.
+
+The script:
+
+Hey [name], hope you're good. Quick ask. I've been building AI systems for [industry] companies, mostly around [hook pain]. Just finished one for [case study company] that [outcome]. Do you know anyone running a [company type] who's dealing with that? Happy to take a look at their setup for free and tell them what I'd do, no strings. Even one name helps.
+
+What to track: intros made, and calls booked from intros. One intro in five turns into a call, and intro calls close at double the rate of cold calls.
+
+4. Dream 100
+
+Why it works: cold outreach at scale is optimizing for volume, and the moment you want specific clients, volume works against you. Dream 100 is the opposite play. You build a focused list of 100 companies you'd genuinely love to work with and put real effort into each one. Reply rates of 30% to 50% are realistic on a Dream 100 list versus 1% to 5% on cold.
+
+The filter: fits your ICP, has the budget to pay your minimum engagement without it being a stretch, has a visible pain you can name, and has a decision maker you can actually reach.
+
+The sequence for one prospect over 30 days:
+
+Day 0: find a recent post they wrote and leave a comment that actually adds something.
+Day 2: send a connection request with a note that mentions the post. No pitch.
+Day 5: once connected, send the hook offer message with the case study.
+Day 12: send something useful tied to their business. A quick Loom walking through what you'd automate first, or a one-page breakdown.
+Day 20: one more touch on a second channel, usually email, referencing the Loom.
+Day 30: the break-up, or move them to the content-only list.
+
+The script (the day 12 value touch):
+
+[First name], I looked at how [company] handles [process] from the outside and recorded a 90 second walkthrough of what I'd automate first and what it'd save. No pitch in it. Want me to send it over?
+
+The math: 100 names, 20% reply, 20 conversations, 5 calls, 1 to 2 closes. That's a full pipeline from one list. Run one Dream 100 prospect a day on top of your main channel and the list is worked in three months.
+
+5. AI workshops
+
+Why it works: in-person beats every other channel for trust. They've met you, watched you teach, and seen you handle questions live. One of the operators I work with filled a 20-person hotel conference room with $700 in Meta ads, ran a hands-on Claude workshop, and walked out with 4 to 5 audits booked. That conversion doesn't exist in cold outreach.
+
+The format: a 90-minute hands-on session for business owners in your industry or your city, built around the hook offer. Thirty minutes of what AI can do in their business today with real examples, 45 minutes of hands-on where they build something small on their own laptop, 15 minutes on what the full system looks like, with the audit as the next step.
+
+Filling the room:
+
+Book a hotel conference room or a coworking event space. $200 to $500.
+Build a one-page landing page with the date, the agenda, and a registration form. Lovable does this in an hour.
+Run Meta ads targeted by city and job title or interest, $25 to $50 a day for two weeks. $700 fills 20 seats.
+A three-email reminder sequence: welcome, the day before, the morning of. Show rate is the whole game.
+A post-workshop email to everyone who attended but didn't book, offering the audit. This is where the rest of the conversions come from.
+
+The pitch at the end of the room:
+
+Everything you built today is a piece of what a full system looks like. If you want to know what that would look like in your business, I do a two-week audit where we map your whole operation and rank every opportunity by ROI. I'll leave the booking link up. If you book today, I'll block the time for you this month.
+
+The cadence: once a month, same room, same ad template, swap the dates. Each workshop should produce 3 to 6 calls.
+
+6. Upwork
+
+Why it works: it's the fastest path to a first client when you have zero case studies, and the clients are already looking. The ceiling is real, because Upwork rates skew low, but as a starting point it's hard to beat. Several of our biggest clients at Boom started as a small Upwork project, and some of the best operators I know started with a $1K one-off that turned into $50K over a year.
+
+The setup: a personal profile positioned on the audit and the build, not on "automation." Headline names the industry and the outcome. Get your first 5-star review inside week one, even if that means a small fixed-price project.
+
+Daily volume: 5 to 10 proposals a day, an hour a day. Target $3K-plus project budgets. Boost proposals on the high-value jobs, because you can effectively buy your way to the top of the list.
+
+The proposal: short. Reference the specific thing in their posting, name one similar thing you've done, propose a 20-minute call. Never propose a price in the proposal.
+
+The script (proposal opener):
+
+You mentioned your team is still doing [process] by hand. We just built a system for a [similar company] that handled exactly that, and it cut the time by about [X]%. Before I quote anything, I'd want 20 minutes to understand how it works on your end, because the right scope depends on what's upstream of this. Open this week?
+
+The ascension: run the discovery call like any other call. The first project is small. The retainer and the next build come from the relationship, and that's where the Upwork ceiling stops mattering.
+
+7. Cold calling
+
+Why it works: home services, local multi-location businesses, and a lot of professional services owners don't live on LinkedIn and don't read cold email. They answer the phone. It's the highest-rejection channel and the fastest to a live conversation.
+
+The setup: pull a list of 100 to 150 decision-maker mobiles from Apollo or ListKit in your ICP and your area. A Google Sheet is your CRM. Practice the script out loud 10 to 15 times before the first dial.
+
+Daily volume: 10 to 20 dials a day, 100 a week, about an hour. Track every connect and every objection, because the script tightens after the first 100 dials, not before.
+
+The call framework. Five beats, each with one job. Write your own words for each one, then say them out loud until they stop sounding written.
+
+The honest open (5 seconds). Your name, that it's a cold call, and that they're free to hang up. Giving them the out is what keeps them on.
+One line of relevance. The industry, the hook pain, and one real number from a company like theirs. No company name needed unless you have one. No features.
+Permission for one question. Ask if you can ask one thing about how they handle it today. One question, not a pitch. If they give you an answer, you've earned the next beat.
+The second question. Go one level deeper into what they just said: what happens when it breaks, who deals with it, what it costs them in a week. Two answers in, it's a conversation instead of a cold call.
+The ask. Twenty minutes later this week, a specific day, booked while you're still on the line.
+
+When they say they don't have time: agree immediately, then ask what the worst part of [process] is right now, and let them talk. The ones who answer that question book.
+
+The voicemail rule: 15 seconds. Your name, the pain, the number, and the day you'll call back. Then call back on that day.
+
+The first-client objection: if you don't have a case study yet, say so. "I'm building this business now, which is why I'm offering the first few companies a founding-customer deal." Honest and confident beats every workaround.
+
+What to track: connects per 100 dials, conversations per connect, calls booked per week.
+
+Picking one or two
+
+Run your main channel at full volume every day. Add one secondary channel only after the main one is producing replies, and only if it doesn't cost the main channel its volume. The combinations that work: LinkedIn plus Dream 100, cold email plus warm network, cold calling plus a monthly workshop, Upwork plus warm network. Never two cold channels at once in the first 90 days.
+
+Whichever channel you picked, the daily work is 20 to 30 minutes of outbound plus the content. The full playbook for each channel, the complete sequences, the ad templates, the workshop deck, and the call recordings, is what we run with members inside the Inner Circle. What's above is enough to book your first calls.
+
+What lands in this phase
+
+By week 3 the first replies land, and your first discovery calls get booked between weeks 3 and 5. Expect 2 to 4 calls by day 45.
+
+The discovery call. The prospect booked because of the hook offer, so that's where the call starts. You dig into the pain point they came for, and then you keep going: what else is manual, where else do things get stuck, what breaks if volume doubles. On almost every call, the conversation surfaces problems way beyond the one in your message. You're not proposing anything yet. The discovery call has one job, and that's earning the strategy call: "Based on everything you just told me, I want to put some real thought into this instead of shooting from the hip on this call. Let's book 45 minutes next week and I'll walk you through exactly what I'd do." Then you open your calendar and book it before you hang up.
+
+The strategy call. This is where the proposal happens, and what you heard on discovery tells you which one to make. If discovery surfaced problems everywhere, which in my experience is most of the time, you propose the audit: "I could build you the thing you came here for, but based on what you showed me, it makes more sense to map your whole operation first and rank everything by ROI. That's the audit, it's $3K, and it credits toward whatever we build." The proposal lands because a week earlier they watched you actually listen, so it never feels like a bait and switch. If the pain really is the one narrow thing you messaged them about, propose that specific solution instead and expand into the rest of the operation later. Either way, you never scope the full system this early, because that turns a $3K decision into a $33K decision and your close rate drops by half.
+
+Phase 3: Days 46 to 90. First clients.
+
+The volume from Phase 2 keeps running untouched while this phase adds the sales process and delivery of the audit.
+
+By day 60 the channels are producing at close to full rate, which means roughly one qualified discovery call a week, and with strategy calls converting 40% of those into paid audits, your first 2 to 4 land in this window.
+
+If you're already at one to three clients, this phase is where your fifth and sixth come from, and the section at the end of it is written for you.
+
+The sales process
+
+Every deal runs through the same four calls. Trying to close in one call is what keeps people at $5K projects.
+
+Call 1, Discovery (30 minutes). Qualify the company, quantify the pain, book the strategy call. The questions that matter: walk me through how [process] works today. Who touches it. Where does it get stuck. What breaks if volume doubles. What have you tried. What does this cost you in a week, roughly. You're listening for a number, because the number is what you anchor the price to later.
+
+Call 2, Strategy call (45 minutes). Play back what you heard in their words. Show them what the operation looks like drawn out, even a rough version. Propose the audit or the narrow solution. Quote the price out loud, then stop talking.
+
+The audit (two weeks). Delivered as a document and a walkthrough call: the process inventory, every bottleneck mapped, opportunities ranked by ROI, the proposed architecture, and a phased plan with budget ranges. The blueprint is the product here, and it has to be good enough that the client shows it to their partner at 10pm and decides you're the one.
+
+Call 3, Blueprint review and scoping (45 minutes). Walk the blueprint. Agree on phase one. Lock the scope. The blueprint already contains the ROI, so the build proposal is close to a formality.
+
+Call 4, Contract review (30 minutes). The proposal, the terms, the start date. Nothing new gets introduced on this call.
+
+Every call ends with the next one booked. Deals with a next call on the calendar close at three to four times the rate of deals without one.
+
+What goes in the proposal
+
+The proposal is the audit's blueprint turned into a decision. Six sections, in this order:
+
+Current state. Their operation as it runs today, in their words, with the numbers they gave you.
+Cost of inaction. What the manual work costs in hours and dollars a year. This is the anchor for everything below it.
+Proposed system. The three to five things you're building, what each one replaces, and what the team does instead.
+ROI math. Cost of inaction against the build price. If the manual work costs them $180K a year, a $45K build pays for itself in four months, and you say that sentence.
+Phased plan. Phase one in 8 to 10 weeks, what ships each two-week sprint, and what phases two and three look like.
+Investment and next steps. A specific build total, not a round number, because it looks more thought out. The retainer and maintenance quoted as an annual figure with a start date at handoff. Payment terms, usually 50% to start and 50% at handoff, never less than 30% upfront.
+
+Since last year every proposal we send also includes a team training layer: monthly live sessions with the client's team for six months, plus a recorded course and SOPs reviewed monthly, with lifetime access for the team. It was added after losing a competitive deal because the offer lacked it. Buyers want their teams AI-native and certainty that the spend goes beyond the build.
+
+The three objections you'll hear
+
+"Can you just build the one thing we talked about?" Yes, and sometimes that's the right call. The line: "I can. If we do, I'd still want to spend a week mapping what's around it, because the one thing is usually connected to three others and I don't want to build you something that breaks the next process down the line."
+
+"We need to think about it." Never argue. "Totally fair. What's the part you need to think through? If it's the price, let's talk about the phasing. If it's whether this works, I can show you the build we did for [case study]." Then book the next call before hanging up.
+
+"Have you done this in our industry?" If yes, say the case study. If no: "I haven't built in [industry] specifically, which is exactly why the audit comes first. I'm not guessing at your operation, I'm mapping it. And the systems underneath, intake, data, reporting, are the same systems I've built for [industry you have done]."
+
+Already at one to three clients? Here's your fifth and sixth.
+
+Your fastest next clients are the ones you already have and the ones they know.
+
+Expand inside the current clients. Every client you've shipped for has three more processes you noticed and didn't scope. Book a 30-minute review call, show them what you saw, and propose phase two. Existing clients convert at two to three times the rate of new ones.
+
+Ask for the referral at the result. The moment a client sees the number, say: "Who else do you know running a [company type] who'd want this?" One name per client is the floor.
+
+Componentize what you shipped. Your second and third builds in the same industry start 80% done, because you own the pieces. That means a $30K build takes half the delivery time, which is what lets you take two at once.
+
+Run one new channel at full volume. You skipped this the first time because the clients came from your network. Don't skip it now. Pick the channel from Phase 2 that fits your buyer and run it daily. Your fifth and sixth clients come from the combination of expansion, referrals, and one real channel.
+
+Day 90 scorecard
+
+Channels at full volume, 4 or more discovery calls a month, 2 to 4 audits delivered, and your first $30K build signed between day 75 and day 90. Revenue at day 90 is small, and that's expected. The real asset is a pipeline that now produces a call a week without you forcing it.
+
+Phase 4: Days 91 to 135. Deliver.
+
+You deliver the build over 8 to 10 weeks with daily demo items in a shared Slack, so the client sees new work every single day. That daily visibility is what makes the retainer conversation at the end feel automatic. This is the delivery infrastructure we run across a dozen active clients right now, and it's the same every time.
+
+The stack
+Supabase is the data layer. Every build gets its own database, because the client's operation needs a system of record that isn't a spreadsheet.
+Lovable is the interface. Portals, dashboards, intake forms, the client-facing screens. Staged prompts with a review checkpoint between stages.
+n8n and edge functions are the orchestration. The automations that move data between their tools and the agents.
+Claude and Claude Code are the agents and the build engine. Agents handle the judgment steps, triage, drafting, classification. Claude Code does the heavy build work.
+Slack is the client channel. One shared channel per client, every demo item posted there.
+Loom is the walkthrough. Every shipped item gets a two-minute video.
+Gamma is the strategy doc and the proposal.
+Kickoff and access
+
+The first week is access and intake, nothing else. The kickoff call sets goals, milestones, who does what, and the communication cadence. Then the access checklist: every tool they use, admin credentials or a sandbox, the data exports, and one person on their side who answers questions inside 24 hours. A build with no internal owner slips by a month.
+
+The build order
+
+Every build runs in the same sequence, in two-week sprints:
+
+Data layer first. The database, the schema, the integrations pulling data in. Nothing visible yet, which is why you post the schema and the first synced records as demo items anyway.
+Automations second. The deterministic workflows. These produce the first visible wins and they're low risk.
+Agents third. The judgment steps, built on top of working data and working automations, never before them.
+Interface fourth. The dashboard, the portal, the screens the team actually uses.
+QA and adoption. Two weeks of the team using it with you watching. Adoption is the real measure of the build, not delivery.
+Handoff. Documentation, the recorded walkthrough, the SOPs, and the retainer conversation.
+The weekly rhythm
+
+Monday: sprint plan posted in the client channel. Every day: at least one demo item posted with a Loom. Friday: a 15-minute check-in, pre-read sent the night before, summary sent after. The client never wonders what you're doing, which is the entire reason the retainer sells itself in Phase 5.
+
+How the build changes with company size
+
+Smaller companies ($2M to $10M) get an AI-native operating system built from scratch, because their current stack is spreadsheets and inboxes. Mid-market companies ($10M to $50M) get the seams between their existing tools consolidated, because the tools are fine and the handoffs are broken. Larger companies get agents built on top of the systems they already run, because nobody is replacing their ERP. Knowing which of the three you're walking into is half of scoping.
+
+Three builds, so you can see the shape
+
+A marketing agency client operations OS, $45K: reporting pulled from ad platforms and the CRM, weekly client updates drafted, exceptions routed, an account health dashboard for the owner.
+
+A PE firm deal flow system, $120K: inbound deals ingested and enriched, scored against the thesis, pipeline kept current, a partner-facing dashboard.
+
+A dental group patient operations system, $85K: confirmations, insurance verification, reactivation, and follow-up across locations, with a practice manager view.
+
+Different industries, same stack, same build order, same weekly rhythm.
+
+The flywheel
+
+The first build also hands you something no amount of outreach can: parts. Once it ships, break it down into components. The intake flow, the data layer, the reporting agent, the dashboard shell. Your second build in the same niche starts 80% done, because you're assembling pieces you already own instead of starting from a blank canvas. That's the delivery flywheel, it starts the day your first build ships, and it's the other reason picking one industry in Phase 1 matters so much. Every build in the niche gets faster and more profitable than the one before it.
+
+Outreach never pauses
+
+The sales side doesn't pause for delivery, and this is exactly where the plan usually dies. The first build lands, you go heads-down for six weeks, outreach stops, and the pipeline is empty by month five. The daily volume runs regardless, 75 to 90 minutes a day minimum, which is how your second and third audits close in this phase and your second build signs around day 120.
+
+If you want an extra channel, this is also when you run your first workshop. Fifteen attendees at a 20% booking rate is 3 extra calls, and it's the cheapest cost per call of anything in this plan.
+
+Phase 5: Days 136 to 180. Stack.
+
+The first build ships around day 150 and hands off onto a retainer. This is the moment the model changes, because retainer revenue now arrives every month whether you sell anything or not, and every build that ships adds another $3K to the base. This section is the exact way the retainer and maintenance get sold.
+
+No dashboard, no retainer
+
+The retainer is earned after delivery, never sold upfront, and the reason it gets earned is monthly proof. If the client can open a dashboard on the first of the month and see the hours saved, the tickets resolved, the deals processed, the retainer renews itself. If they can't, every renewal is a negotiation.
+
+So the proof gets built into the build. Every system we ship has a reporting layer the client can see without asking you. That's the dashboard in the build order above, and it's why it isn't optional.
+
+What's in the retainer
+A block of maintenance and optimization hours each month, 10 to 40 depending on the size of the system.
+Monitoring, and fixes when a connected tool changes its API, which happens every quarter.
+Feature updates and small changes inside the existing scope.
+Priority support with a stated response time.
+The monthly report, and a quarterly review call where the next phase gets scoped.
+The training layer: the monthly live session with their team and the updated SOPs.
+How it's priced
+
+Quote maintenance as an annual fee, with quarterly and monthly payment options priced slightly higher. The client sees an investment instead of a subscription, and you see 12 months of committed revenue instead of a month-to-month agreement they can cancel when the budget gets reviewed. At the floor pricing in this plan, that's $36,000 a year for a $2M to $10M company, with monthly billing at $3,300 if they'd rather spread it.
+
+The retainer scales with the build: $2,500 to $4K a month for the smaller companies, $5K to $10K for mid-market, $10K and up for the larger ones.
+
+The retainer conversation
+
+It happens at handoff, on the last call of the build, and it's short because they've watched six weeks of daily demo items.
+
+Everything we built is live and your team is using it. Two things happen from here. The system needs someone watching it, because the tools it connects to change and the volume grows. And you've already got three more processes we mapped in the audit that we haven't touched. The maintenance agreement covers the first part and gives us the hours to start the second. It's [annual figure] for the year, or [monthly figure] a month. I'd start it the first of next month so there's no gap.
+
+Then stop talking.
+
+Expansion
+
+The retainer hours are how phase two gets built without a new sales cycle. Every quarterly review walks the next ranked opportunities from the audit. A client who started at a $30K build and a $3K retainer is commonly a $60K-plus account by month twelve, and none of that came from outreach.
+
+Day 180
+
+By day 180 you have 4 to 5 clients signed, 1 to 2 builds shipped and on retainer, another build in progress, one new build signing per month, and 4 or more qualified discovery calls arriving monthly.
+
+That's the machine at full pace. Run it for twelve months at floor pricing and it produces $531K, with 9 clients on retainer and $27K a month arriving before a single new sale.
+
+Why you can't miss
+
+Add up what the channels produce at the volumes above, using conservative rates.
+
+Your outbound channel, run daily, produces roughly the same number either way. LinkedIn at 7,800 requests a year, with 20% accepting and 3% of connections ending up on a call, gets you 47 calls. Cold email at 5,000 sends a year on a 1% call rate gets you 50 calls.
+
+Content adds more. From month 3, 2 qualified DMs a week with 30% booking is 22 calls. A workshop each quarter at 3 calls apiece adds 9 more.
+
+So one outbound channel plus content puts you around 70 to 80 discovery calls against the 50 you need. And if you add the second outbound channel later, the total climbs to roughly 128, which is more builds than a founder with two contract developers can even ship in a year.
+
+Now flip it around. To miss $500K while running that volume, your discovery calls would have to close on the audit at well under 30% instead of 40%, or your blueprints would have to convert to builds at half the rate they should. Either of those numbers points at a broken hook, a weak blueprint, or the wrong companies on the call, because the volume already did its job.
+
+Where the plan actually breaks
+
+The math is the easy part. In practice, the plan dies in one of six ways.
+
+Quitting in month two. Content has a lag, cold email has a warmup, and LinkedIn takes weeks to fill the sequence. Everything compounds after month three, and week six is exactly when it feels the most pointless. The plan assumes you keep going anyway.
+
+Leading with the audit in outreach. Nobody replies to a stranger offering to audit them. The hook offer books the call, and the audit only exists once you're on it.
+
+Proposing too much too early. The discovery call books the strategy call. The strategy call sells the audit or the one solution they came for. Anything bigger than that, this early, costs you the deal.
+
+Selling to companies that can't pay. A business under $500K ARR wants the $30K build and will never approve it. The conversion rates in this plan assume $2M and up.
+
+Stopping outreach during delivery. The daily volume runs on build weeks, launch weeks, and bad weeks. On the worst day of the year, the 30-minute minimum is posting once, answering DMs, and checking for client blockers.
+
+Ending calls without the next one booked. Deals die in the gaps between calls, so every call ends with the next one on the calendar.
+
+None of those are volume problems, and every single one is fixable inside a week.
+
+Bonus: the hour-by-hour day
+
+People asked where the time goes. This is my actual schedule, and then the floor version for anyone running the plan around a job or around delivery.
+
+My day
+5:00 to 5:30am: Up. Coffee. No phone, no inbox, no Slack.
+5:30 to 11:00am: Deep work. Content, client builds, strategy docs, proposals. This is where the business gets built, and it's the most productive window I have by a mile.
+11:00am to 12:30pm: Gym. A lift plus cardio, or a ruck with a weighted vest if I'm moving slow.
+12:30 to 1:30pm: Lunch and admin. Email, Slack catch-up, quick wins. First time I look at email all day.
+1:30 to 5:00pm: Sales calls, client calls, team calls. Afternoons are for conversations because I can't do deep work after noon anyway.
+5:00 to 7:00pm: Family, dinner, off.
+8:00 to 10:00pm, optional: A late session if the morning got away from me. Usually proposals or content.
+
+The morning block is where the business gets built. The afternoon is where it gets sold. Protecting the morning is the whole game.
+
+The morning checklist, before anything else
+
+Eight items. 45 to 60 minutes.
+
+Post once on LinkedIn and X (15 to 30 min). Every morning. If I don't post in the morning I find a reason not to post at all, and if I stop posting for a week the inbound dries up.
+Reply to every DM from the last 24 hours (10 to 15 min). Every one. The vague DM in February becomes the $45K close in May, but only if you replied in February.
+Send lead magnet DMs to yesterday's commenters (5 to 10 min). They're sitting in your notifications.
+Run the outbound channel (20 to 30 min). The day's volume, replies, follow-ups.
+Check every client Slack for blockers (10 min). Anything that stops a build gets answered now.
+Check the pipeline (5 min). Every active deal has a next call on the calendar. If one doesn't, I fix it this morning.
+One deep work item (the rest of the block). The proposal, the strategy doc, the build.
+Write down tomorrow's one thing (2 min). Specific. "Finish the Meridian proposal," not "work on business."
+The floor: 75 to 90 minutes a day
+
+If you're running this plan around a 9-5 or inside a build week, this is the version that keeps the machine moving:
+
+Run your outbound channel: daily volume, replies, follow-ups (30 min)
+Post once (15 to 30 min)
+Answer every DM from the last 24 hours (15 min)
+Confirm every active deal has a next call on the calendar (5 min)
+
+Plus a couple of sales calls a week. That's the entire acquisition side of a $500K agency. Everything else in the day is delivery.
+
+The worst day: 30 minutes
+
+Post once. Answer DMs. Check client blockers. Everything else waits. The full checklist happens five or six days a week. The three-item minimum happens seven.
+
+Sunday night: 15 minutes
+
+Wins, misses, pipeline health, next week's top three, and a calendar with the morning block protected. This review has done more for the business than any productivity system I've tried.
+
+Bonus: the 180-day checklist
+
+Print it, pin it, run it every morning.
+
+Phase 1: Days 1 to 14, Lock it in
+
+☐ Pick ONE industry ($2M to $10M ARR companies). Locked for 90 days.
+☐ Write the hook offer: one specific pain point + one specific solution + one specific outcome for your industry
+☐ Lock the back-end offer: $3K audit / $30K build / $3K/mo retainer
+☐ Write the one-paragraph audit description (inventory, bottlenecks, ROI-ranked opportunities, phased plan)
+☐ Pick ONE outbound channel based on where your buyer lives
+☐ If LinkedIn: profile fixed, banner with offer, clear headline, featured proof
+☐ If cold email: secondary domains + inboxes bought, DNS configured, warmup started (14 days)
+☐ Write your outreach sequence (leads with the hook offer, never the audit)
+☐ Case study secured: one real outcome with a specific number
+☐ Build lead list #1 (500+ verified contacts in your industry, or your 50-person warm list)
+
+Phase 2: Days 15 to 45, Book calls
+
+☐ Outbound live daily at full volume for your channel
+☐ Every message leads with the hook offer
+☐ Content live: 1 post/day, 6 days/week
+☐ 2 lead magnet posts per week with reply-keyword CTA
+☐ Every DM answered within 24 hours
+☐ First discovery calls booked (target: 2 to 4 by day 45)
+☐ Discovery call: start with the hook pain, dig into the full operation, propose nothing
+☐ Book the strategy call before hanging up on discovery
+☐ Strategy call: propose the audit when discovery surfaced bigger problems, or just the hook solution when it stayed narrow
+☐ Never scope the full system this early
+
+Phase 3: Days 46 to 90, First clients
+
+☐ Outbound and content holding full volume (untouched)
+☐ Pace check: ~1 qualified discovery call/week by day 60
+☐ First 2 to 4 paid audits closed
+☐ Each audit delivered in 2 weeks
+☐ Every audit walked into a build conversation
+☐ Proposal sent with a specific build total and the retainer quoted annually
+☐ First $30K build signed (target: day 75 to 90)
+☐ If already at 1 to 3 clients: phase-two review booked with every current client, one referral asked for at every result
+
+Day 90 scorecard: channels at full volume · 4+ calls/month · 2 to 4 audits delivered · 1 build signed
+
+Phase 4: Days 91 to 135, Deliver
+
+☐ Kickoff call run, access checklist complete, internal owner named on the client side
+☐ Build delivered in 8 to 10 weeks with daily demo items in shared Slack
+☐ Weekly Friday check-in with pre-read and summary
+☐ Outreach NEVER pauses for delivery (75 to 90 min/day minimum)
+☐ Second and third audits closed
+☐ Shipped build broken into reusable components (next build starts 80% done)
+☐ Second build signed (~day 120)
+☐ Optional: first industry workshop run (built on the hook offer)
+
+Phase 5: Days 136 to 180, Stack
+
+☐ Reporting dashboard live in the client's hands before handoff (no dashboard, no retainer)
+☐ Retainer conversation run on the handoff call, quoted annually
+☐ First build shipped and handed off to $3K/mo retainer (~day 150)
+☐ 4 to 5 clients signed total
+☐ 1 to 2 builds shipped and on retainer
+☐ One new build signing per month
+☐ 4+ qualified discovery calls arriving monthly
+☐ First quarterly review booked with the next phase scoped from the audit
+
+Day 180: the machine runs. Next 12 months at this pace = $531K.
+
+The Daily 75 to 90 Minutes (every working day, all 180 days)
+
+☐ Run your outbound channel: daily volume + replies + follow-ups (30 min)
+☐ Post once (15 to 30 min)
+☐ Answer every DM from the last 24 hours (15 min)
+☐ Every active deal has a next call on the calendar (5 min)
+
+Worst-day minimum (30 min): post · answer DMs · check client blockers
+
+The Weekly Scorecard (every Sunday, 15 min)
+
+☐ Outbound volume this week: ____ / target
+☐ Posts published: ____ / 6
+☐ Discovery calls held: ____ / 1+
+☐ Audits in delivery: ____
+☐ Builds in progress: ____
+☐ Deals missing a next call: ____ (fix Monday morning)
+
+The 6 Rules That Protect the Plan
+One industry for 90 days. No switching.
+Outreach leads with the hook offer, never the audit.
+Discovery books the strategy call. The strategy call sells the audit or the hook solution, never the full system.
+Only sell to companies at $2M+ ARR.
+Outreach runs during delivery. Always.
+Every call ends with the next call booked.
+Run it with people doing it next to you
+
+The plan shows you what to do. The AI Agency Inner Circle is where you do it alongside 90-plus operators building AI implementation, AI consulting, and AI services businesses, with 8 live coaching calls a week, member coaches across sales, outreach, offers, and infrastructure, the full channel playbooks referenced above, and a 1:1 onboarding call where we map your exact execution plan for the next 180 days.
+
+Apply here: https://playbook.boomautomations.com/180-thank-you#apply
+
+Apply and book a call with the team.
+
+Apply to the Inner Circle
+

@@ -1,0 +1,120 @@
+URL: https://limestonedigital.com/blog/ai-got-funded-results-lag-behind
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/ai-got-funded-results-lag-behind
+Content-Type: text/html; charset=utf-8
+Title: AI Is Moving into Budgets — But Results Still Lag Behind
+Meta description: AI is shifting from pilots to budgeted initiatives, but measurable business impact is still lagging. Why most AI systems fail to scale — and what it takes to deliver real outcomes.
+Canonical: https://thefoundation.limestonedigital.com/p/ai-got-funded-results-lag-behind
+Robots: max-image-preview:large
+H1: AI Got Funded. Results Lag Behind | AI Foundation from Limestone Digital
+
+AI Is Moving into Budgets — But Results Still Lag Behind
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+AI Got Funded. Results Lag Behind
+AI Got Funded. Results Lag Behind
+Episode 20
+Apr 10, 2026
+Hi there,
+For the past two years, AI lived in experimentation.
+Pilots. Proofs of concept. Internal demos.
+That phase is ending.
+AI is now moving into budgets — where expectations change. Not “Can this work?” but
+“What does this deliver?”
+This shift is subtle, but critical. Because most organizations are not built for it.
+Inside the Issue
+AI is becoming a budget line — not an experiment
+Why growing investment is not translating into impact
+The structural gap between deployment and value
+Where most organizations break
+What this means for teams building AI systems
+AI Is Becoming a Budget Line
+Recent data shows a clear pattern: AI is no longer isolated in innovation teams — it is being embedded into core business spending.
+According to Gartner, spending on supply chain software with agentic AI is projected to reach
+$53 billion by 2030
+, with rapid adoption across enterprises.
+This is not experimentation. It is planned, functional investment.
+At the same time, ownership is shifting from innovation teams into business units. Decision-making is moving closer to finance and operational leadership, and AI is increasingly treated as part of core infrastructure rather than an optional layer.
+In practical terms, AI is entering the same category as ERP systems or data platforms — systems that are expected to deliver consistent, measurable outcomes.
+Investment Is Scaling. Impact Is Not.
+Despite this shift, the outcomes remain uneven.
+Research from McKinsey & Company shows that while AI adoption continues to grow, only a smaller share of organizations report meaningful financial impact at scale.
+Similarly, Deloitte highlights that many companies are still transitioning from pilot projects to production systems, and struggle to move beyond isolated use cases.
+In other words, deployment is scaling faster than value.
+Organizations are launching more initiatives, but relatively few are able to translate that activity into consistent business outcomes across functions.
+The Real Bottleneck Is Not Technology
+The common assumption is that limitations are technical: models are not good enough, data is not clean enough, or infrastructure is not ready.
+But most evidence points elsewhere.
+Analysis from Harvard Business Review shows that organizations often fail in the “last mile” — turning AI outputs into decisions and actions embedded in real workflows.
+At the same time, PwC emphasizes that value realization depends far more on operating model, ownership, and process integration than on the models themselves.
+The constraint is not intelligence. It is execution.
+From Pilots to Pressure
+The move into budgets introduces a new dynamic: accountability.
+Once AI becomes part of core spending, it competes directly with other investments. It must justify its cost, demonstrate measurable return, and operate reliably over time.
+This creates a level of pressure that did not exist during the pilot phase.
+And it exposes structural gaps that were previously hidden. Many organizations lack clear ownership of outcomes, do not define success metrics upfront, and rely on fragmented data foundations. Systems that worked as controlled experiments begin to break under real operational conditions.
+Designing for Budget-Stage AI
+To operate in this new phase, teams need to fundamentally change how they approach AI systems.
+It starts with defining value before building capability — understanding where impact will be created, how it will be measured, and within what timeframe. Without this, even technically successful systems struggle to justify continued investment.
+Ownership also becomes critical. AI initiatives need a clearly defined business owner who is accountable for outcomes, not just a technical team responsible for delivery.
+Equally important is the shift from building isolated features to designing full systems. This includes integration into workflows, reliable data pipelines, and feedback mechanisms that allow systems to improve over time.
+Finally, AI systems must be designed for continuity. Unlike traditional software, they require ongoing monitoring, evaluation, and adjustment. Without this, performance degrades and value erodes.
+From Experiments to Accountability
+AI is entering a new phase.
+From experimentation to expectation. From capability to accountability.
+The question is no longer whether AI can work.
+It is whether it can deliver — repeatedly, at scale, and under real business constraints.
+If you are navigating this shift — from pilots to production, from experiments to measurable outcomes — we can help design systems that are built for it.
+Book a Call
+Sources & Further Reading
+Gartner — Supply Chain Management Software with Agentic AI Will Grow to $53 Billion in Spend by 2030
+https://www.gartner.com/en/newsroom/press-releases/2026-04-07-gartner-forecasts-supply-chain-management-software-with-agentic-ai-will-grow-to-53-billion-in-spend-by-2030
+McKinsey & Company — The State of AI
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+Deloitte — State of AI in the Enterprise
+https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html
+Harvard Business Review — Where AI Can — and Can’t — Create Value
+https://hbr.org/2023/07/where-ai-can-and-cant-create-value
+PwC —
+Global CEO Survey (AI and Business Value Insights)
+https://www.pwc.com/gx/en/issues/c-suite-insights/ceo-survey.html
+Thank you for joining us for another edition of The Foundation.
+P.S. We want to make sure this newsletter hits the mark. So reply to this email and let us know what you think.
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"ai-got-funded-results-lag-behind","url":"https://thefoundation.limestonedigital.com/p/ai-got-funded-results-lag-behind","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/ai-got-funded-results-lag-behind"},"headline":"AI Got Funded. Results Lag Behind","description":"Episode 20","datePublished":"2026-04-10T20:48:30.305Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/2ad30a68-f2aa-43e1-aeb1-29fdf2da297f/playbook-20-ai-got-funded-results-lag-behind.png?t=1788797460"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-09-07T16:11:02Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/ai-got-funded-results-lag-behind","name":"AI Got Funded. Results Lag Behind"}}]}

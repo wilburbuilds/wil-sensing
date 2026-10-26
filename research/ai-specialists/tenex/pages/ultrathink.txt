@@ -1,0 +1,280 @@
+URL: https://www.tenex.co/ultrathink
+Fetched: 2026-10-26T03:33:48Z
+HTTP status: 200
+Final URL: https://www.tenex.co/ultrathink
+Content-Type: text/html
+Via: chrome-headless
+Title: Ultrathink: The Free AI Newsletter from Tenex
+Meta description: Twice a week, 10,000+ execs and builders read ultrathink for the AI news that matters and what to do about it.
+Canonical: https://www.tenex.co/ultrathink
+Robots: 
+H1: ultrathink
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+ultrathink
+This free newsletter is your unfair advantage in the AI arms race.
+
+Twice a week, 10,000+ execs and builders read ultrathink for the AI news that matters and what to do about it.
+
+By submitting this form, you agree to receive recurring marketing communications from Tenex at the email you provide. To opt out, click unsubscribe at the bottom of our emails.
+By submitting this form, you also agree to our Terms & Privacy Policy.
+
+Past editions
+JUL 21, 2026
+Nobody can run Kimi K3
+
+A Chinese open-weight model just took #1 on a coding leaderboard. It costs exactly what Claude Sonnet costs. Plus the ops guy on our team who shipped a change to our website without writing code.
+
+Read edition
+JUL 14, 2026
+Foresight or luck?
+
+X thinks open source is eating the frontier labs. The revenue says otherwise. Plus the Fable + GPT-5.6 pairing our team runs on its hardest work.
+
+Read edition
+JUL 7, 2026
+The Wealth Tax Nobody Voted For
+
+Palantir's CEO torched the AI industry's pricing model on live TV, plus a framework for testing which frontier model actually wins your job.
+
+Read edition
+JUN 30, 2026
+Washington now picks who gets AI
+
+Why the U.S. just put its best AI models behind a government gate (and handed open source the opening of the year), plus how to build a no-code Claude plugin that runs your whole morning for you.
+
+Read edition
+JUN 23, 2026
+The moat is a parking lot
+
+Why the AI race just turned into a fight over electricity Tesla already owns, plus the five-part "loop" that turns the AI tasks you redo every week into something that runs itself.
+
+Read edition
+JUN 16, 2026
+Don't marry a model
+
+The best AI model on Earth vanished three days after launch, plus the five-rung ladder that tells you how close your company actually is to a real software factory.
+
+Read edition
+JUN 9, 2026
+Apple rented its brain
+
+Apple paid Google a billion dollars to admit it can't build its own AI brain, plus the one folder that turns Claude from a chatbox into an employee who already knows how you work.
+
+Read edition
+JUN 2, 2026
+The promotion nobody announced
+
+Why the tech layoffs everyone's panicking about actually point to a promotion, plus the 20-minute Claude setup that clones your own writing voice.
+
+Read edition
+MAY 26, 2026
+Anthropic's landlord is Elon Musk
+
+SpaceX revealed Anthropic is renting Elon's GPUs for $15B a year, Karpathy joined Anthropic the same week, and the agent stack just got three new layers worth knowing.
+
+Read edition
+MAY 19, 2026
+AI companies are going vertical
+
+Anthropic shipped a full back office as a plugin, OpenAI wired into 12,000 bank accounts, and the cost gap between big and small AI models just hit 1800x.
+
+Read edition
+MAY 12, 2026
+Agents are your new employees
+
+Agents are the new employee on your team. The companies pulling ahead are writing down what their best people know so the agents can use it too.
+
+Read edition
+MAY 5, 2026
+Your next user is not a human
+
+Enterprise software is being rebuilt for agents, not people — and Karpathy explains what that means for how you actually work.
+
+Read edition
+APR 28, 2026
+Open source caught up
+
+Why open-source AI is closing the gap faster than most vendor strategies account for — and how to make pro videos with Claude Code.
+
+Read edition
+APR 21, 2026
+The $100B handshake
+
+Anthropic just promised AWS $100 billion. Plus: Claude Design ships and Figma drops 7 percent in hours.
+
+Read edition
+APR 14, 2026
+Too good to deploy
+
+Anthropic built a model it can't release yet. Plus: the agent that sells pool installations without a salesperson.
+
+Read edition
+APR 7, 2026
+Don't ignore the 47%
+
+IKEA found €1 billion in their AI's failure rate. Plus: how to set up Claude Cowork Projects as your multi-agent HQ.
+
+Read edition
+MAR 31, 2026
+Bezos bets $100B on factories
+
+The biggest AI bet of the year isn't an AI company. Plus: the framework for treating Claude like a full-time hire.
+
+Read edition
+MAR 24, 2026
+Intercom's top 5 AI users aren't engineers
+
+90% of Intercom's code now comes from Claude, and Anthropic says your skills should be folders.
+
+Read edition
+MAR 17, 2026
+Always-On AI Is Here
+
+The always-on AI agent wave is here — plus the guy who made $250K just by texting his OpenClaw from his car.
+
+Read edition
+MAR 10, 2026
+The new most important person in the room
+
+The hire nobody's talking about. Plus: Anthropic nerfed Opus and Cursor's $5k compute secret.
+
+Read edition
+MAR 3, 2026
+Jack Dorsey just mass-fired half his company
+
+Jack Dorsey fired half of Block for AI. OpenAI raised $110B with a wild AGI clause. Claude hit #1.
+
+Read edition
+FEB 24, 2026
+Anthropic vs. The Pentagon
+
+Claude went to war and Anthropic didn't know. Then their security tool tanked an entire stock sector.
+
+Read edition
+FEB 17, 2026
+Something Big Is Happening
+
+Dario says we're near the end of the exponential, and HubSpot's CMO shows you what replaces your Google traffic.
+
+Read edition
+FEB 10, 2026
+Become your company's AI champion by lunch
+
+Pick your lane. Save time, get smarter, or build something real.
+
+Read edition
+FEB 3, 2026
+Agent Building 101: Your First Bot in 30 minutes
+
+An AI agent is a while loop that calls an LLM. Build your first one in 30 minutes.
+
+Read edition
+JAN 27, 2026
+Your AI Is Bullshitting You: How to Solve For Trust In AI Systems
+
+Gauntlet's CTO reveals the ultimate framework for vetting AI systems, exposing how top tech teams stress-test before they ship.
+
+Read edition
+JAN 20, 2026
+The Shower Idea That Killed 18 Jobs (Build an AI Agent That Replaces 90% of Your Sales Team)
+
+How Vercel's GTM Engineering Director built a weekend project that saved $2M.
+
+Read edition
+JAN 13, 2026
+Claude Code Takeover: Engineers' Secret Weapon Goes Mainstream
+
+Insider's guide to Claude's code revolution: how engineers' secret weapon is now democratizing AI development.
+
+Read edition
+JAN 6, 2026
+AI Prototype Hack: Build Billion-Dollar Apps in 30 Minutes
+
+The 30-minute prototype that replaces your PRD could help you build a billion-dollar app.
+
+Read edition
+DEC 30, 2025
+AI Customer Service Secrets: 3 Workflows to Decode Client Health
+
+Unlock AI-powered customer insights: 3 game-changing workflows to transform service businesses.
+
+Read edition
+DEC 23, 2025
+Ultrathink 2025: AI Productivity Hacks That Actually Work
+
+Ultrathink's game-changing AI insights: 2025 strategy hacks, SDR optimization, and creative challenges.
+
+Read edition
+DEC 16, 2025
+Google's AI Studio: Vibe Code & Build Apps in 10 Crazy Minutes
+
+Turn screenshots into apps in 10 minutes using Gemini 3 and Google AI Studio.
+
+Read edition
+DEC 9, 2025
+AI Roadmap Hacks: Stop Overthinking, Start Shipping Now
+
+Your AI roadmap battle strategy.
+
+Read edition
+DEC 2, 2025
+Build Decks at the Speed of Thought with AI
+
+Go from notes to narrative in 30 minutes.
+
+Read edition
+NOV 25, 2025
+AI Pulse: Daily Insights & Top Use Cases for Tech Innovators
+
+AI ROI, Gemini 3, and the week's top workflows.
+
+Read edition
+NOV 18, 2025
+Ship Software Without Touching Your Keyboard (Seriously)
+
+Discover how AI is revolutionizing software development, from accelerating code production to transforming workflows.
+
+Read edition
+NOV 11, 2025
+How to Build an AI Strategy That Doesn't Suck (+ Actually Delivers ROI)
+
+Have to figure out your AI strategy by... yesterday? This is the exact playbook Tenex uses to consult and audit.
+
+Read edition
+NOV 4, 2025
+AI Ad Magic: 5 Steps to Hollywood-Caliber Cinematic Commercials
+
+Master AI-powered filmmaking techniques to create viral, cinematic ads with minimal resources.
+
+Read edition
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="ut-form"
+  - input type=email name="email" id="" label="" placeholder="Email" aria="" required=true
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+Form 2: method=get action="" id="ut-gate-form"
+  - input type=email name="email" id="" label="" placeholder="Email" aria="" required=true
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+

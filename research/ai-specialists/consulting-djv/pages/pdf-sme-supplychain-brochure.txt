@@ -1,0 +1,124 @@
+URL: https://cdn.prod.website-files.com/685135d98cc59009390e8f9c/6a29a2ad8e3fe7786d68308f_DJV%20Consulting%20SME_SupplyChain_AI_Brochure.pdf
+Fetched: 2026-10-26
+Via: GET pdf, pypdf extract_text (not the HTML crawler). Read-only. Not a form.
+Title: sme-supplychain-brochure.pdf
+Note: Free-kit PDF linked from https://consultingdjv.com/ai-readiness. Text extract, not a redesign of the layout.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+Supply Chain
+AI for SMEs.
+Cut costs. 
+Skip the hype.
+If you run an SME, every AI dollar must pay for itself. This is the no-nonsense framework for
+Purchase-to-Pay and Internal Logistics — built for low token consumption, low technical complexity, and
+ROI you can measure in 90 days.
+2 domains. 
+17 use cases. 
+90 days.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+METRIC 01 · THE PROBLEM
+Why most SME AI projects burn cash.
+ WRONG TOOL
+Frontier LLMs used for tasks a $50/mo rules engine could solve.
+WRONG ORDER
+AI added before data and workflows are clean — confident wrong answers.
+WRONG METRIC
+Buying tech instead of buying outcomes. No baseline, no ROI proof.
+FINANCE TAKEAWAY
+Tier the tools. Fix the data. Measure the dollars saved, not the demos run.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+METRIC 02 · THE 4-TIER STACK
+Pick the cheapest tier that works.
+ T0 · RULES
+n8n, Make, Zapier. <$0.001 per run. Deterministic flows. Zero tokens.
+T1 · OCR + RULES
+Mindee, Document AI, Parseur. $0.01–0.05 per document. Structured invoices, POs, BOLs.
+T2/T3 · SLM → LLM
+GPT-4o-mini & Gemini Flash do 80% of tasks at 10–30× lower cost. Escalate to Claude/GPT-4 only when reasoning is
+real.
+FINANCE TAKEAWAY
+Cascading from rules → SLM → LLM cuts inference cost 75–98%.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+METRIC 03 · PURCHASE-TO-PAY WINS
+Where AI pays for itself first.
+ INVOICE CAPTURE
+OCR + 3-way match. 87% automation rate. $8–15 → $1–3 per invoice. Payback in 3–6 months.
+GL CODING & ROUTING
+SLM + RAG on 12 months of history. 70–85% auto-coding accuracy. Approvals from days to hours.
+SPEND ANALYSIS
+Monthly batch SLM job classifies every line. Finds 3–8% tail-spend savings inside 90 days.
+FINANCE TAKEAWAY
+P2P is where the cash is. Start here — savings fund the rest of the program.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+METRIC 04 · INTERNAL LOGISTICS WINS
+Forecast, replenish, route.
+ DEMAND FORECASTING
+Prophet (open-source) at SKU-week level. Cuts stockouts 30–50%, excess stock 15–25%. Zero LLM tokens.
+FREIGHT AUDIT
+Cross-check every carrier invoice vs. contracted rates. Recovers 3–8% of freight spend.
+ROUTE & PICK PATHS
+Solver-based (Google OR-Tools, OptimoRoute). 10–20% fewer km, 15–35% picker productivity.
+FINANCE TAKEAWAY
+Logistics ROI comes from math and OCR. Use LLMs only to explain results to managers.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+METRIC 05 · TOKEN ECONOMICS
+Six levers that cut your AI bill in half.
+ MODEL ROUTING
+Send simple tasks to small models. FrugalGPT-style cascades: up to 98% cheaper.
+STRUCTURED OUTPUT
+Function calling + CSV beats free-form JSON. 30–60% fewer output tokens.
+CACHE + BATCH
+Semantic caching for repeat queries. Batch APIs at 50% discount overnight.
+FINANCE TAKEAWAY
+Architect for token efficiency on day one — it's the single biggest cost lever.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+METRIC 06 · THE REFERENCE STACK
+$130–$1,300 / month. End to end.
+ DATA & ORCHESTRATION
+ERP (Odoo / Xero / QuickBooks) + n8n self-hosted. Postgres + pgvector for RAG.
+DOCUMENT & AI LAYER
+Mindee or Google Document AI for capture. GPT-4o-mini or Gemini Flash as the default model.
+FORECASTING & ROUTING
+Prophet for demand. OR-Tools or OptimoRoute for routes. Metabase free tier for dashboards.
+FINANCE TAKEAWAY
+Scales from 2,000 to 50,000 transactions/month without rebuilding the stack.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+METRIC 07 · 90-DAY ROADMAP
+Signature to savings in 90 days.
+ WEEKS 1–6 · QUICK WINS
+Invoice capture, 3-way match, freight audit. Savings start funding the program.
+WEEKS 7–10 · VISIBILITY
+Spend analysis (monthly batch). Demand forecasting + replenishment. KPI dashboard.
+WEEKS 11–13 · INTELLIGENCE
+Exception routing, GL auto-coding, conversational intake pilot.
+FINANCE TAKEAWAY
+Narrow, measurable, sequential. The first six weeks must pay for the next six months.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+VERDICT
+Two projects. One quarter. Real ROI.
+ START WITH AP
+Invoice capture + 3-way match + exception routing. Highest, fastest, most defensible ROI.
+PAIR WITH FORECAST
+Demand forecasting + dynamic replenishment. Frees working capital and cuts stockouts.
+SCALE BY ROI
+Add the next use case only after the previous one has measured savings on the books.
+FINANCE TAKEAWAY
+Keep the stack boring, the workflows auditable, and the token bill visible.
+
+SMB SUPPLY CHAIN · 2026 EDITION
+Stop guessing.
+Start saving.
+Blending senior management experience with cutting-edge AI to deliver sustainable financial growth
+for small and mid-sized businesses.
+DJV Consulting
+DM "AI SUPPLY"
+Save – Share – Follow
+

@@ -1,0 +1,142 @@
+URL: https://pixelnarratives.studio/work-with-us
+Fetched: 2026-10-26T03:34:36Z
+HTTP status: 200
+Final URL: https://pixelnarratives.studio/work-with-us
+Content-Type: text/html
+Via: chrome-headless
+Title: Work With Us | Pixel Narratives
+Meta description: Explore, Build, Equip, Partner, or Enterprise Partner. Choose how you'd like to work with Pixel Narratives. We'll recommend an approach based on your needs.
+Canonical: https://pixelnarratives.studio/work-with-us
+Robots: 
+H1: Choose how you'd like to work with us.
+
+Skip to content
+PIXEL NARRATIVES
+What We Do
+Work With Us
+Our Work
+About
+Start a Conversation
+
+WORK WITH US
+
+Choose how you'd like to work with us.
+
+We'll recommend an approach based on your needs.
+
+Explore
+
+STARTING AT $1,250
+
+We look at how your business runs, where AI may help, and what to do first.
+
+Prefer a self-serve starting point? Take the AI Readiness Assessment.
+
+Start a Conversation
+Build
+
+STARTING AT $2,500
+
+Defined projects with clear deliverables. Pricing follows the scope.
+
+Start a Conversation
+Equip
+
+STARTING AT $7,500
+
+Practical AI training for your team. Larger or multi-day programs are quoted separately.
+
+Start a Conversation
+Partner
+
+STARTING AT $2,500/MO
+
+Ongoing AI expertise for your business.
+
+Work with us on an ongoing basis to identify new opportunities, implement solutions, and help your business make the most of AI as technology evolves.
+
+Start a Conversation
+Enterprise Partner
+
+FROM $15,000/MO
+
+A strategic AI partner for your organization.
+
+We work closely with your leadership and teams to develop AI strategy, lead implementation, train employees, and manage initiatives across your business.
+
+For organizations looking for a deeper, more hands-on relationship.
+
+Start a Conversation
+What Does Working With Us Look Like?
+
+Every business is different. But working with us shouldn't be complicated.
+
+Whether we're building something for you, training your team, or helping you figure out what's possible, you'll always know what to expect.
+
+01
+Discover
+
+We get to know your business, how you work, and where we can make a meaningful difference.
+
+02
+Define
+
+We agree on what we're doing, what it costs, how long it should take, and what success looks like.
+
+03
+Deliver
+
+We get to work. You'll know what's happening, what's been accomplished, and what's coming next.
+
+04
+Demonstrate
+
+We show you what we've built or accomplished, make sure your team knows how to use it, and measure the results where possible.
+
+05
+Continue
+
+Some projects end with a handshake. Others turn into ongoing partnerships. Either way, we're here when you need us.
+
+Let's put AI to work for your business.
+
+Whether you have a specific project in mind or you're exploring what's possible, we'd love to hear from you.
+
+Start a Conversation
+
+© 2026 Pixel Narratives
+
+Pixel Narratives helps you put AI to work.
+Implementation. Training. Visibility. Marketing.
+
+Madison, Mississippi.
+
+hello@pixelnarratives.studio
+904-524-7269
+Start a Conversation
+WHAT WE DO
+Implementation
+Training
+Visibility
+Marketing
+Work With Us
+Who We Work With
+STUDIO
+About
+Contact
+Book
+Insights
+News
+Privacy Policy
+
+PIXEL NARRATIVES
+
+Madison, Mississippi
+
+View on Google
+Show Map
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":["Organization","LocalBusiness"],"@id":"https://pixelnarratives.studio/#organization","name":"Pixel Narratives","url":"https://pixelnarratives.studio","description":"Pixel Narratives is an AI implementation company based in Madison, Mississippi. It helps businesses identify useful AI opportunities, adopt tools, improve workflows, train teams, strengthen online visibility, and run effective marketing.","logo":"https://pixelnarratives.studio/brand/logo-mark.png","image":"https://pixelnarratives.studio/images/home-cinematic.jpg","telephone":"904-524-7269","email":"hello@pixelnarratives.studio","founder":{"@id":"https://pixelnarratives.studio/#jordan-maruszak"},"address":{"@type":"PostalAddress","addressLocality":"Madison","addressRegion":"MS","addressCountry":"US"},"hasMap":"https://share.google/EpsqOBZsnrLCxNiTb","areaServed":[{"@type":"State","name":"Mississippi"},{"@type":"City","name":"Birmingham","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Memphis","containedInPlace":{"@type":"State","name":"TN"}},{"@type":"City","name":"Mobile","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"AdministrativeArea","name":"Alabama Eastern Shore","containedInPlace":{"@type":"State","name":"AL"}},{"@type":"City","name":"Atlanta","containedInPlace":{"@type":"State","name":"GA"}}],"sameAs":["https://share.google/EpsqOBZsnrLCxNiTb","https://www.instagram.com/pixelnarratives.studio/","https://www.facebook.com/profile.php?id=61589823687666","https://youtube.com/@pixelnarrativesstudio","https://www.linkedin.com/company/pixel-narratives"],"knowsAbout":["Artificial Intelligence for Business","AI Implementation","AI Consulting","Business Automation","Workflow Automation","AI Training for Businesses","Corporate AI Workshops","Ongoing AI Partnership","Business Process Automation","AI Strategy","AI Adoption"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Pixel Narratives Services","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#explore","name":"Explore","serviceType":"Implementation Assessment","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#build","name":"Build","serviceType":"Scoped project","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#equip","name":"Equip","serviceType":"Team workshop","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#partner","name":"Partner","serviceType":"Ongoing AI expertise and implementation","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/work-with-us#enterprise-partner","name":"Enterprise Partner","serviceType":"Strategic AI partnership","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/implementation#service","name":"Implementation","serviceType":"AI Implementation and Adoption","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/training#service","name":"AI Team Training and Workshops","serviceType":"Standalone AI Training and Workshops","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/websites#service","name":"Visibility","serviceType":"Websites, SEO, and AI Search Visibility","provider":{"@id":"https://pixelnarratives.studio/#organization"}}},{"@type":"Offer","itemOffered":{"@type":"Service","@id":"https://pixelnarratives.studio/marketing#service","name":"Marketing","serviceType":"Digital Marketing and Campaign Production","provider":{"@id":"https://pixelnarratives.studio/#organization"}}}]}},{"@type":"Person","@id":"https://pixelnarratives.studio/#jordan-maruszak","name":"Jordan Maruszak","jobTitle":"Founder, Pixel Narratives","worksFor":{"@id":"https://pixelnarratives.studio/#organization"},"url":"https://pixelnarratives.studio/about","image":"https://pixelnarratives.studio/images/about-jordan.jpg","sameAs":["https://www.linkedin.com/in/jordanmaruszak/","https://pixelnarratives.studio/book"],"knowsAbout":["AI Implementation","AI Strategy","Business Automation","AI Consulting"]},{"@type":"WebSite","@id":"https://pixelnarratives.studio/#website","url":"https://pixelnarratives.studio","name":"Pixel Narratives","inLanguage":"en-US","publisher":{"@id":"https://pixelnarratives.studio/#organization"}}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://pixelnarratives.studio/work-with-us#webpage","url":"https://pixelnarratives.studio/work-with-us","name":"Work With Us | Pixel Narratives","inLanguage":"en-US","isPartOf":{"@id":"https://pixelnarratives.studio/#website"},"about":{"@id":"https://pixelnarratives.studio/#organization"},"publisher":{"@id":"https://pixelnarratives.studio/#organization"},"description":"Choose how you'd like to work with us. Explore, Build, Equip, Partner, or Enterprise Partner. We'll recommend an approach based on your needs.","dateModified":"2026-10-16"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://pixelnarratives.studio"},{"@type":"ListItem","position":2,"name":"Work With Us","item":"https://pixelnarratives.studio/work-with-us"}]}]}
+

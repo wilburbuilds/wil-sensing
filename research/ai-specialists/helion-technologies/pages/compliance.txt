@@ -1,0 +1,318 @@
+URL: https://heliontechnologies.com/compliance/
+Fetched: 2026-10-26T03:54:04Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/compliance/
+Content-Type: text/html
+Via: chrome-headless
+Title: FTC Safeguards Compliance for Dealerships | Helion
+Meta description: FTC Safeguards compliance for dealerships built into IT and cybersecurity. Continuous compliance monitoring instead of a once-a-year audit scramble.
+Canonical: https://heliontechnologies.com/compliance/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: FTC Safeguards Compliance for Dealerships, Built Into IT and Cybersecurity
+
+Skip to content
+Helion Technologies
+Services ▾
+Managed IT
+Managed Microsoft 365Backup and Disaster RecoveryAcquisition IT IntegrationIT Help DeskNetwork and Wi-Fi ManagementvCIO and IT Strategy
+Cybersecurity
+Managed Detection and ResponseSecurity Awareness TrainingPenetration TestingIncident Response
+Compliance
+FTC Safeguards ChecklistOEM Cybersecurity RequirementsISO 27001 vs TISAXPrivacy Laws by StateIncident Response TemplateRisk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDKTekion vs Reynolds
+Managed AI
+AI Readiness AssessmentSecure AI Chat
+DMS Transition
+DMS Comparison
+Industries ▾
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT SupportProcede IT SupportKarmak vs Procede
+Dealer GroupsLocations
+About ▾
+About HelionLeadershipSpeakingClient TestimonialsContact
+Working at Helion
+Resources ▾
+BlogCase Studies & DownloadsFAQsPressState of Dealership Cybersecurity
+Contact Us
+Client Portal
+Menu
+Menu
+Services
+Managed IT
+Managed Microsoft 365
+Backup and Disaster Recovery
+Acquisition IT Integration
+IT Help Desk
+Network and Wi-Fi Management
+vCIO and IT Strategy
+Cybersecurity
+Managed Detection and Response
+Security Awareness Training
+Penetration Testing
+Incident Response
+Compliance
+FTC Safeguards Checklist
+OEM Cybersecurity Requirements
+ISO 27001 vs TISAX
+Privacy Laws by State
+Incident Response Template
+Risk Assessment Template
+Co-Managed IT
+In-House vs Managed IT
+Tekion Enablement
+Tekion vs CDK
+Tekion vs Reynolds
+Managed AI
+AI Readiness Assessment
+Secure AI Chat
+DMS Transition
+DMS Comparison
+Industries
+Automotive Dealerships
+Heavy Truck Dealerships
+Karmak IT Support
+Procede IT Support
+Karmak vs Procede
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Contact
+Working at Helion
+Resources
+Blog
+Case Studies & Downloads
+FAQs
+Press
+State of Dealership Cybersecurity
+Contact Us
+Client Portal
+
+Compliance for Dealerships
+
+FTC Safeguards Compliance for Dealerships, Built Into IT and Cybersecurity
+
+Continuous compliance monitoring instead of a once-a-year audit scramble.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+30 days to report a breach
+FTC notification clock
+
+FTC Safeguards compliance for dealerships means meeting the nine required elements of the FTC's Safeguards Rule, which treats dealerships as financial institutions under the Gramm-Leach-Bliley Act. Helion Technologies builds this into the same team that manages IT and cybersecurity, using proprietary tools and annual human-led penetration testing, so compliance runs continuously instead of getting handled once a year.
+
+Dealerships that have a compliance vendor aren't always getting compliance. They're getting a product.
+
+Nobody does.
+
+A line item on an invoice, maybe a checklist, maybe a portal with a score in it, and the expectation that someone on their team is going to do something with it.
+
+The dealership doesn't have a compliance team. That's the whole reason they bought the product in the first place. So the checklist sits there, the portal goes unlogged, and the monthly fee keeps clearing, while the actual work of identifying gaps, testing systems, rating vendors, and closing vulnerabilities never gets done.
+
+That's not a knock on any specific vendor. It's how compliance products in this space are typically built, because doing the actual work is hard, requires real people, and costs more than a $650 monthly line item can cover.
+
+Helion's approach is different. The compliance program is fully managed, which means Helion's team does the work, not yours.
+
+Continuous Compliance
+
+The Difference Between a Binder and a System
+
+Compliance handled once a year is a snapshot. A risk assessment done in January says nothing about a vendor added in March or a new employee with access in July. Continuous compliance means the same team running Managed IT and Cybersecurity keeps the compliance posture current as things change, rather than reconstructing it from scratch every twelve months. What has changed around the rule since then is logged in our FTC Safeguards Rule news tracker.
+
+JanMarJulDec
+Once a year
+Continuous
+Risk assessment New vendor / new employee access
+Here's what that system actually does.
+01 · Scan
+
+A proprietary tool runs directly against a dealership's own PCs and servers, scanning for:
+
+Customer data Credit card & banking info Outdated OS versions Email & website security gaps
+02 · Review
+
+That data feeds directly to Helion's compliance team, who run it against checklists built from the actual regulatory requirements.
+
+03 · Report
+
+A report with real action items, not a generic list of what's missing.
+
+Annual
+Human penetration testing
+
+Performed by people, not an automated scan mislabeled as a pen test.
+
+Semi-annual
+Vulnerability monitoring
+
+Semi-annual vulnerability monitoring in between annual pen tests.
+
+Included
+Vendor risk rating
+
+Evaluating the security posture of every third-party vendor already connected to a dealership's systems, a step most compliance offerings in this space skip entirely.
+
+It's completely managed, and built on Helion's own custom software, custom reporting, and API connections into the systems it monitors, not a resold third-party tool with Helion's logo on it.
+
+Pen Test Finding
+
+What That Actually Looks Like in Practice
+
+That's the difference between a report that flags a risk and a team that actually closes it.
+
+FOUND A Windows server running an old, forgotten web service with administrator access still wide open.
+WHAT IT WAS A homegrown CRM nobody had used in years.
+LOGIN
+user: admin pass: admin
+CLIENT Confirmed it hadn't been touched in years.
+ It was shut down that same week.
+The Nine Required Elements
+
+The FTC's amended Safeguards Rule (16 CFR Part 314) requires every covered dealership's information security program to include:
+
+9
+01
+Qualified Individual
+
+A designated person overseeing the entire program, accountable to leadership
+
+02
+Written risk assessment
+
+Documented inventory of where customer data lives and what threatens it
+
+03
+Safeguards design
+
+Controls built to address the risks identified
+
+04
+Access controls
+
+Limits on who can reach customer data and systems
+
+05
+Encryption
+
+Data protected at rest and in transit
+
+06
+Multi-factor authentication
+
+Required on systems accessing customer information
+
+07
+Monitoring and testing
+
+Ongoing verification that safeguards are actually working
+
+08
+Vendor oversight
+
+Ensuring service providers meet the same security standard
+
+09
+Incident response plan
+
+A documented plan for responding to and recovering from a security event, which our incident response plan template walks through
+
+Source: Federal Trade Commission, Safeguards Rule FAQ for Automobile Dealers. Check your own store against all nine with the FTC Safeguards Rule checklist for dealerships, then write the program up with our WISP template for dealerships.
+
+New Compliance Surface
+
+AI Governance & Compliance
+
+Dealerships adopting AI tools — for service scheduling, F&I workflows, lead follow-up, or internal drafting — are creating a new compliance surface the original Safeguards Rule didn't anticipate. California's ADMT regulations, effective January 2026, add another layer for any dealership using automated decision-making in financing or credit decisions.
+
+Helion extends its Continuous Compliance model to cover AI tool adoption as part of the same program. That means:
+
+Usage visibility by department
+Access controls on AI tools
+An audit trail that feeds the same compliance reporting your IT and cybersecurity program already produces
+
+Not a separate AI compliance vendor. The same team, the same program.
+
+Learn more about Managed AI for Dealerships →
+What 2,000+ Dealerships and 30 Years Looks Like
+98% Client retention rate
+2,000+ Dealerships under management nationwide
+“
+"We Already Did a Compliance Audit Last Year"
+
+An audit is a moment in time. The Rule requires ongoing monitoring and testing, not a once-a-year checkbox. If nothing has been reviewed since that audit, whatever passed then may not reflect what's actually running today.
+
+"We already have a compliance vendor."
+
+Worth asking what that vendor actually does day to day. A lot of compliance products generate documentation without connecting to the IT and cybersecurity systems the documentation is supposed to describe, and a vague monthly line item on an invoice doesn't tell you which one you're paying for. If the vendor isn't the same team running monitoring and security, there's a gap between what's on paper and what's actually protected.
+
+"Isn't this mostly a fine risk we can manage if it happens?"
+
+The bigger cost usually isn't the fine. It's the downtime and recovery that come with an actual security event, which is a cybersecurity problem before it's ever a compliance one.
+
+Common Questions
+Does the FTC Safeguards Rule actually apply to my dealership?
+What happens if we have a breach?
+Who can serve as our Qualified Individual?
+Is compliance a separate service from managed IT and cybersecurity?
+Does compliance work include real penetration testing?
+Does this include rating the security of our third-party vendors?
+Does this cover AI tools we're starting to use?
+We already have a WISP. What does Helion add?
+
+The FTC's 30-day breach notification clock doesn't wait for the next scheduled audit.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★ 4.9 · 244 Google Reviews
+
+in
+Services
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+Industries
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+About
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+Resources
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved. support@heliontechnologies.com Support RequestPrivacy Policy Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/compliance\/","url":"https:\/\/heliontechnologies.com\/compliance\/","name":"FTC Safeguards Compliance for Dealerships | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"datePublished":"2026-10-04T15:32:47+00:00","description":"FTC Safeguards compliance for dealerships built into IT and cybersecurity. Continuous compliance monitoring instead of a once-a-year audit scramble.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/compliance\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/compliance\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/compliance\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Services","item":"https:\/\/heliontechnologies.com\/services\/"},{"@type":"ListItem","position":3,"name":"Compliance"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"Service","@id":"https://heliontechnologies.com/compliance/#service","name":"Continuous Compliance Management","serviceType":"FTC Safeguards compliance for dealerships","description":"FTC Safeguards compliance for dealerships means meeting the nine required elements of the FTC's Safeguards Rule, which treats dealerships as financial institutions under the Gramm-Leach-Bliley Act. Helion Technologies builds this into the same team that manages IT and cybersecurity, using proprietary tools and annual human-led penetration testing, so compliance runs continuously instead of getting handled once a year.","url":"https://heliontechnologies.com/compliance/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy-truck dealerships and dealer groups"}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/compliance/#faq","url":"https://heliontechnologies.com/compliance/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Does the FTC Safeguards Rule actually apply to my dealership?","acceptedAnswer":{"@type":"Answer","text":"If the dealership arranges financing or leasing for customers, yes. The FTC treats that as a financial institution activity under the Gramm-Leach-Bliley Act. Truck stores are covered too, with limits we explain in how the Safeguards Rule applies to heavy truck dealerships."}},{"@type":"Question","name":"What happens if we have a breach?","acceptedAnswer":{"@type":"Answer","text":"Any event exposing 500 or more consumers' data has to be reported to the FTC within 30 days of discovery, a requirement that's been in effect since May 2024. State breach laws run on their own clocks, listed in our guide to dealership privacy laws by state."}},{"@type":"Question","name":"Who can serve as our Qualified Individual?","acceptedAnswer":{"@type":"Answer","text":"The Rule allows an employee, an affiliate, or a qualified third-party service provider to hold that role."}},{"@type":"Question","name":"Is compliance a separate service from managed IT and cybersecurity?","acceptedAnswer":{"@type":"Answer","text":"No. It runs as part of the same team and system, not a separate contract with a separate vendor."}},{"@type":"Question","name":"Does compliance work include real penetration testing?","acceptedAnswer":{"@type":"Answer","text":"Yes. Annual penetration testing is performed by human security assessors, in addition to ongoing vulnerability monitoring, not a scan alone mislabeled as a pen test."}},{"@type":"Question","name":"Does this include rating the security of our third-party vendors?","acceptedAnswer":{"@type":"Answer","text":"Yes. Vendor risk assessment is part of the same program, evaluating the vendors already connected to a dealership's systems."}},{"@type":"Question","name":"Does this cover AI tools we're starting to use?","acceptedAnswer":{"@type":"Answer","text":"Yes. Helion's Continuous Compliance model extends to AI governance — usage logs, access controls, and an audit trail that feeds directly into the same compliance program covering IT and cybersecurity. California's ADMT regulations, effective January 2026, also require documented AI governance for businesses using automated tools in financing or credit decisions. If your compliance program was written before your staff started using AI, there's a gap. This closes it."}},{"@type":"Question","name":"We already have a WISP. What does Helion add?","acceptedAnswer":{"@type":"Answer","text":"Ongoing monitoring and updates as systems, vendors, and staff change, rather than a document that goes stale the day it's finalized."}}]}]}
+

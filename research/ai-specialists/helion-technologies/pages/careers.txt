@@ -1,0 +1,168 @@
+URL: https://heliontechnologies.com/careers/
+Fetched: 2026-10-26T03:55:12Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/careers/
+Content-Type: text/html
+Via: chrome-headless
+Title: Careers in Dealership IT | Helion Technologies
+Meta description: Careers in dealership IT at Helion Technologies: support automotive and heavy-truck dealerships, see benefits and growth paths, then view open roles.
+Canonical: https://heliontechnologies.com/careers/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Build Your Career at Helion
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+CAREERS
+
+Build Your Career at Helion
+
+Helion Technologies delivers managed IT and cybersecurity exclusively for automotive and heavy-truck dealerships. Many Helion roles are fully remote and some include travel to client sites. Every open position is listed on Helion’s careers portal, where you can apply online.
+
+View Open Positions
+A Culture Built on Talented People Working Together
+
+Helion is built on a simple idea: talented people do great work together. More than 130 full-time employees support dealerships across the country, working where IT, operations and business performance meet, and every role has a direct impact on the stores Helion supports.
+
+Nobody works on an island here. Colleagues in your own team and in other departments are accessible, responsive and ready to help when you need it, and Helion’s leadership is approachable and clear about what it takes to succeed.
+
+THE HELION TEAM IS
+
+Highly skilled in their craft
+Willing to jump in and help each other
+Focused on solving problems, not passing them along
+
+HOW HELION WORKS
+
+Ownership and accountability
+Clear, direct communication
+Trust to manage your own time and priorities
+A focus on real results for clients
+
+Meaningful work, without unnecessary layers or bureaucracy.
+
+Growth and Opportunity
+
+Helion is growing, and that growth creates real opportunities. With an established structure and defined career paths across departments, there is more than one way to move forward.
+
+Grow in Your Role
+
+Build deeper skills in the work you do today. Your manager works with you to understand your goals and helps you progress toward them.
+
+Expand Into New Areas
+
+Career paths are defined across departments, so you can move into new parts of the business as your skills and interests develop.
+
+Take On Leadership
+
+Over time, you can take on leadership responsibilities. Helion hires people it believes can grow with the company, not only for the role open today.
+
+View Open Positions
+Benefits That Support You and Your Family
+
+Helion’s benefits package covers your health, your savings and your time away from work, with coverage options for spouses and dependents.
+
+Medical Coverage
+
+Helion pays 100% of the individual employee premium for a high-deductible health plan with a nationwide provider network. Coverage starts on the 1st of the month after your hire date, and you can add eligible spouses and dependents.
+
+Dental and Vision Insurance
+
+Dental coverage supports preventive, basic and major care, and vision coverage includes routine eye exams, glasses and contact lenses. You choose the options that fit your family, with coverage for spouses and eligible children.
+
+Healthcare Savings
+
+A company-funded health reimbursement arrangement (HRA) helps offset eligible deductible expenses. A healthcare flexible spending account (FSA) covers qualified medical costs with pre-tax dollars, and a dependent care FSA helps with eligible childcare and dependent care.
+
+Disability Coverage
+
+Short-term disability coverage is available to help protect your income during a qualifying medical absence, and Helion pays 100% of the long-term disability coverage for eligible employees.
+
+Life Insurance
+
+Helion provides $25,000 of employer-paid life insurance for eligible employees. You can buy additional coverage for yourself, and supplemental options are available for spouses and dependent children.
+
+Retirement Savings
+
+Employees can join Helion’s 401(k) retirement savings plan, which comes with an employer match from Helion to help your savings grow, plus both traditional and long-term planning options.
+
+Paid Time Off
+
+You receive three weeks of paid time off in your first year, and PTO increases with tenure. Use it for vacation, personal time or illness, with paid holidays throughout the year as well.
+
+Common Questions
+
+Last updated: October 3, 2026
+
+How do I apply for a job at Helion Technologies?
+Can I work remotely at Helion Technologies?
+What career growth does Helion Technologies offer?
+When does health coverage start for new Helion employees?
+Which businesses does Helion Technologies serve?
+
+JOIN THE TEAM
+
+Ready to Grow Your Career With Helion?
+
+Choose a role that fits your skills and apply online through Helion’s careers portal.
+
+View Open Positions
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/careers\/","url":"https:\/\/heliontechnologies.com\/careers\/","name":"Careers in Dealership IT | Helion Technologies","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"datePublished":"2026-03-13T15:03:19+00:00","dateModified":"2026-10-03T12:42:12+00:00","description":"Careers in dealership IT at Helion Technologies: support automotive and heavy-truck dealerships, see benefits and growth paths, then view open roles.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/careers\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/careers\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/careers\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Careers"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"FAQPage","@id":"https://heliontechnologies.com/careers/#faq","url":"https://heliontechnologies.com/careers/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"How do I apply for a job at Helion Technologies?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies lists every open position on its careers portal, where you can read each job description and apply online. Applications go through that portal only: open it to see the current openings, choose a role that fits your skills and submit your application there."}},{"@type":"Question","name":"Can I work remotely at Helion Technologies?","acceptedAnswer":{"@type":"Answer","text":"Yes. Many roles at Helion Technologies are fully remote, so you can work from anywhere. Some positions include travel to client sites, where you work with colleagues and clients in person when it makes sense for the job. Check each posting on Helion's careers portal for the details of a specific role."}},{"@type":"Question","name":"What career growth does Helion Technologies offer?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies is growing, and it has an established structure with defined career paths across its departments. You can grow within your current role, expand into new areas of the business or take on leadership responsibilities over time. Your manager works with you to understand your goals and help you progress toward them."}},{"@type":"Question","name":"When does health coverage start for new Helion employees?","acceptedAnswer":{"@type":"Answer","text":"Medical coverage at Helion Technologies starts on the 1st of the month after your hire date. Helion pays 100% of the individual employee premium for a high-deductible health plan with a nationwide provider network, and you can add eligible spouses and dependents. The package also includes dental and vision insurance, healthcare savings programs, disability and life insurance, a 401(k) with an employer match and paid time off."}},{"@type":"Question","name":"Which businesses does Helion Technologies serve?","acceptedAnswer":{"@type":"Answer","text":"Helion Technologies works only with automotive and heavy-truck dealerships, so the work you do at Helion helps dealerships across the country run their stores. Founded in 1997 and based in Baltimore, Maryland, Helion provides managed IT, cybersecurity, Tekion enablement, DMS transition support and managed AI to more than 2,000 dealerships and 35,000 end users."}}]}]}
+

@@ -1,0 +1,134 @@
+URL: https://heliontechnologies.com/can-just-anyone-claim-to-be-qualified/
+Fetched: 2026-10-26T03:59:48Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/can-just-anyone-claim-to-be-qualified/
+Content-Type: text/html
+Via: chrome-headless
+Title: Can Just Anyone Claim To Be "Qualified"? | Helion
+Meta description: The FTC Safeguards Rule requires "qualified" resources to implement and manage your cybersecurity program. But can just anyone claim to be qualified?
+Canonical: https://heliontechnologies.com/can-just-anyone-claim-to-be-qualified/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Can Just Anyone Claim To Be “Qualified?”
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Can Just Anyone Claim To Be “Qualified?”
+By Erik Nachbahr
+April 24, 2023 · 4 min read
+
+There’s some bad information floating around regarding the FTC Safeguards Rule, its intent, and cybersecurity best practice.  This misleading information is related to the FTC’s use of the word “qualified.”  More precisely, the FTC’s use of the term “qualified individual” and “qualified personnel.”
+
+The claim that is spreading is that because the FTC doesn’t specifically define what it means to be “qualified” then it’s ok to make the logic leap that then anyone can fulfill the FTC’s requirement for “qualified” personnel.  But does this really make sense to you?
+
+Think about the people that wrote the Safeguards Rule.  Most likely, attorneys had something to do with crafting this regulation.  Attorneys are extremely careful about the words they use.  The Safeguards Rule specifically uses the word “qualified” numerous times to describe the human resources required to devise, implement, and manage a “comprehensive information security program.”
+
+The Oxford Dictionary’s definition of the word “qualified” is: “having passed the exams or completed the training that is necessary in order to do a particular job; having the experience to do a particular job.”  This definition shouldn’t be a surprise to anyone.  It’s what most of us would think is meant by use of the word “qualified.”  And, most likely, the attorneys crafting the Safeguards Rule had this definition in mind when deciding to use the word “qualified.”  If not, then why use the word “qualified” to describe the type of personnel needed to implement a comprehensive information security program?
+
+The FTC also provides some insight into their use of the word “qualified” when they say that “institutions must verify that key information security personnel take steps to maintain current knowledge of changing information security threats and countermeasures.”  This seems like the FTC wants “qualified” people to remain qualified.  If the FTC’s use of the word “qualified” wasn’t in-line with the Oxford Dictionary’s definition, then why require the maintenance and verification of training and experience?
+
+The FTC requires that “qualified” resources be responsible for overseeing and implementing your information security program.  These qualified resources are also responsible for reporting to dealership management about cybersecurity vulnerabilities and devising a plan for how to address these vulnerabilities going forward.  Is this something that just anyone in your dealership can handle?
+
+The FTC’s decision to delay compliance with the new Rule was due in large part to a letter received from the Small Business Administration (SBA).  The SBA claimed that a delay was needed because “there is a shortage of qualified personnel to implement information security programs.”  But if anyone could wear the “qualified” hat then why would this be the case?  The answer is because just anyone cannot claim to be qualified.  This is just silly.  Your dealership’s receptionist, porter, business development person or anyone else in your dealership that lacks technical cybersecurity training and experience simply won’t satisfy the Rules requirement for “qualified” personnel.
+
+It might seem easy and cost effective to play dumb and make a sketchy logic leap that anyone can be qualified since the FTC doesn’t specifically state which cybersecurity certifications are required – but this will be a grave mistake.  And, if someone is telling you that this is the case then they are misleading you.  First, this kind of thinking will prevent your dealership from implementing an effective cyber defense.  As a result, you risk falling victim to a successful cyberattack, financial and reputational damage, downtime, and legal liability.
+
+Second, imagine the embarrassment of trying to explain to the FTC – or a judge – that your obligation to protect consumer information rests on the shoulders of someone who has no technical cybersecurity knowledge, training, or practical experience.  When someone says “qualified” you know what they mean.  Do the right thing.
+
+Naming a Qualified Individual is item one on our FTC Safeguards Rule checklist for dealerships.
+
+ABOUT THE AUTHOR
+
+Erik Nachbahr
+
+Founder & President, Helion Technologies
+
+Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.
+
+Erik Nachbahr on LinkedIn
+
+Search articles
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/"},"author":{"name":"Erik Nachbahr","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753"},"headline":"Can Just Anyone Claim To Be &#8220;Qualified?&#8221;","datePublished":"2023-04-24T15:29:03+00:00","dateModified":"2023-04-24T15:38:57+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/"},"wordCount":658,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2023\/04\/electric-shock-scientists-connects-two-electric-cables.jpeg","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/","url":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/","name":"Can Just Anyone Claim To Be \"Qualified\"? | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2023\/04\/electric-shock-scientists-connects-two-electric-cables.jpeg","datePublished":"2023-04-24T15:29:03+00:00","dateModified":"2023-04-24T15:38:57+00:00","description":"The FTC Safeguards Rule requires \"qualified\" resources to implement and manage your cybersecurity program. But can just anyone claim to be qualified?","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2023\/04\/electric-shock-scientists-connects-two-electric-cables.jpeg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2023\/04\/electric-shock-scientists-connects-two-electric-cables.jpeg","width":1900,"height":1397,"caption":"The electrician trying to untangle wires in repair concept"},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/can-just-anyone-claim-to-be-qualified\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Can Just Anyone Claim To Be &#8220;Qualified?&#8221;"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/f64fb7262f228b461c41956fb8f1a753","name":"Erik Nachbahr","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/erik-nachbahr-headshot-96x96.jpg","caption":"Erik Nachbahr"},"description":"Erik Nachbahr founded Helion Technologies in 1997 and has spent nearly 30 years working exclusively with automotive and heavy truck dealerships. Helion now supports more than 2,000 dealerships and 35,000 end users with managed IT, cybersecurity, FTC Safeguards compliance, Tekion enablement, and managed AI, all under one team. A CISSP, Erik writes and speaks about the parts of dealership technology most operators inherit rather than choose: vendor sprawl, AI governance, and cyber risk. His goal is simple: make the technology work so dealerships can focus on what they do best, selling and servicing cars and heavy trucks.","sameAs":["https:\/\/www.linkedin.com\/in\/erik-nachbahr-2625b62a\/"],"url":"https:\/\/heliontechnologies.com\/author\/erik-nachbahr\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"Founder & President","hasCredential":{"@type":"EducationalOccupationalCredential","name":"Certified Information Systems Security Professional (CISSP)","credentialCategory":"certification","recognizedBy":{"@type":"Organization","name":"ISC2","url":"https:\/\/www.isc2.org\/"}}}]}
+

@@ -1,0 +1,100 @@
+URL: https://www.promptadvisers.com/security
+Fetched: 2026-10-26T03:44:56Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/security
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Security & Compliance Review | Prompt Advisers
+Meta description: We check what your AI estate shows the outside world, the way an attacker sees it, and hand back a prioritised fix list your engineers can action.
+Canonical: https://www.promptadvisers.com/security
+Robots: 
+H1: YOU SHIPPED IT WITH AI. KNOW WHAT YOU LEFT OPEN.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · IV / SECURITY
+
+YOU SHIPPED IT WITH AI. KNOW WHAT YOU LEFT OPEN.
+
+Teams started shipping faster with AI than their security review could keep up with. The code is new, the surface is new, and the people who wrote it often did not write code before. None of that is a reason to slow down. It is a reason to look.
+
+We look from the outside, the way a stranger, a bot or an attacker would. Nothing is logged into, no payloads are sent, no forms are filled. What comes back is a prioritised list of what to fix and why it matters, in words your engineers and your board can both read.
+
+TRY IT YOURSELF, FREE
+
+WE BUILT THE SCANNER. IT IS CALLED LOCKPICK.
+
+Antivirus for vibe-coded apps, websites, skills and repos. Paste a URL and get a score in about ten seconds, no account needed. The enterprise review below is the same lens, run by hand across a whole estate instead of one page.
+
+It is genuinely free to try, and we would rather you ran it than took our word for any of this.
+
+SCAN YOUR SITE FREE
+READ THE DOCS
+
+II / WHAT WE LOOK AT
+
+01
+YOUR PUBLIC SURFACE
+
+Every security header, framing rule and transport setting a stranger can read, plus the ones that are quietly missing.
+
+02
+YOUR DEPENDENCIES
+
+What ships in your client bundle, matched against live advisories, with reachability judged rather than assumed.
+
+03
+YOUR EMAIL DOMAIN
+
+SPF, DKIM and DMARC. Whether someone can send mail as you today, and what breaks if you tighten it.
+
+04
+YOUR AI SURFACE
+
+Agents, skills, MCP servers and the repos behind them. The part no traditional pentest was scoped for.
+
+A review tells you what we found in what we checked. It is not a certificate and it is not a full penetration test, and we will say so in the report. Authenticated areas, tenant isolation and business logic are a separate, bigger piece of work, and we will tell you when you need that instead.
+
+SEE HOW THE ENGAGEMENT WORKS
+
+III / START HERE
+
+FIND OUT WHAT YOU LEFT OPEN.
+
+Fifteen minutes, free. Bring a URL and we will tell you what we can see from the outside, and whether it is worth a proper review.
+
+BOOK YOUR FREE 15-MINUTE CALL
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Security","item":"https://www.promptadvisers.com/security"}]}]
+

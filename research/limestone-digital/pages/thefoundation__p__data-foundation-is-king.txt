@@ -1,0 +1,159 @@
+URL: https://thefoundation.limestonedigital.com/p/data-foundation-is-king
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://thefoundation.limestonedigital.com/p/data-foundation-is-king
+Content-Type: text/html; charset=utf-8
+Title: 🟪 data foundation is king
+Meta description: The unsexy work that decides if AI ships.
+Canonical: https://thefoundation.limestonedigital.com/p/data-foundation-is-king
+Robots: max-image-preview:large
+H1: 🟪 data foundation is king | AI Foundation from Limestone Digital
+
+🟪 data foundation is king
+AI Foundation by Limestone Digital
+Login
+Subscribe
+Home
+Posts
+🟪 data foundation is king
+🟪 data foundation is king
+The unsexy work that decides if AI ships.
+Oct 13, 2026
+Reading time: 8 minutes | Issue #47 |
+Book a Discovery Call
+Happy Tuesday.
+Mark here.
+Last week, Dell announced plans to add a semantic layer and a knowledge graph to its AI Data Platform to help agents understand what enterprise data actually means. Arthur Lewis, who runs Dell's infrastructure business, explained the reasoning behind it:
+"Most enterprises have spent years making their data accessible. That's not the same as making it usable."
+It's a distinction that matters more than most companies realize, especially when you consider that a survey of more than 540 data leaders and practitioners found that only
+8.4% believe the data feeding their AI systems is trustworthy enough for production
+.
+Last Thursday, I shared a thread on X about what was probably the least exciting project we've completed this year: building a data warehouse for a payments company.
+I wanted to use this issue to share the longer version of that story, along with some industry data that helps explain why this kind of work matters so much right now.
+Inside the Issue
+How we consolidated 30+ databases into a single warehouse that a business analyst can query using plain SQL
+Six questions to help you assess your data foundation before investing in another AI agent
+What the Asos breach, a Copilot vulnerability, Dell and SAP's approach to context, and Gartner's research on governance tell us about AI readiness
+Data Foundation Is King
+According to The Modern Data Company's survey, 57.3% of respondents are either piloting or already running AI agents as part of their data and analytics work. Yet only 8.4% trust the data those agents rely on.
+When respondents were asked what was preventing them from moving into production, 75.9% ranked data quality and trust among their top three barriers. The skills gap, which tends to get plenty of attention in conversations about AI adoption, came in much lower at 25.9%.
+Cloudera and Harvard Business Review Analytic Services published something similar in March, when
+just 7% of respondents said their data was completely ready for AI
+. Integrating siloed data was the biggest obstacle, cited by 56%, although 47% also believed agentic AI could help solve their data quality problems.
+I understand why that idea is appealing, but my experience has been that pointing an agent at unreliable data doesn't resolve the underlying problem. It just allows the agent to repeat the same problem faster, often with even more confidence.
+This is particularly relevant in payments, where fragmented information can have a direct impact on daily operations. AutoRek surveyed 250 senior finance leaders across the US and UK and found that
+80% of payments organizations experienced moderate to significant operational disruption because of fragmented data
+. At the same time, 96% said they were adopting AI.
+AutoRek's Jim Sadler captured the problem well: "AI doesn't fix broken data. It amplifies whatever foundation it's built on."
+There's also a clear difference in how successful organizations allocate their budgets. In April, Gartner reported that
+organizations with successful AI initiatives invest up to four times more
+, as a share of revenue, in foundations such as data quality and governance.
+The connection between these findings becomes much easier to understand when you look at what it actually takes to prepare a company's data for AI.
+Our take: what the foundation looked like at one payments company
+We recently completed a data foundation project for a PE-backed US payments processing company whose information was scattered across more than 30 databases and several file feeds.
+The fragmentation made even routine reporting unnecessarily difficult. To produce some recurring reports, an experienced data engineer had to run Lambda functions against individual source systems, working through them one at a time.
+Today, those same reports can be run by a business analyst using plain SQL, while the client's own team operates the warehouse.
+What's important here is that the company started seeing the benefits before any AI rollout. The foundation project created value on its own, while also putting the business in a much better position to build AI capabilities in the future.
+Here's how we approached it, in six steps.
+1. Find out where the data actually lives.
+We started by mapping every database and file feed, including how different applications used them. Across our engagements, a typical mid-market company runs 7 to 12 disconnected systems. This one had more than 30. AI helped our engineers read the legacy code to trace what touched what, and a person checked every finding. An agent can't use data your team can't find, and the Modern Data survey shows how common that is: at the end of 2025, 53% of respondents had no easy way to trace data lineage.
+2. Put it in one place.
+About 1.5 billion records now sit in one governed warehouse, across 54 tables in production. An agent searching 30 systems has to guess which copy of a transaction is the right one. Give it one governed table and it can reason about what's in front of it. Plenty of teams are moving the same way: 47% of the Modern Data respondents are consolidating toward fewer platforms.
+3. Build the door before you connect a model.
+There's one access layer, with permissions down to table, row and column. We handed out no database credentials. Every future AI use case inherits that boundary on day one, so your team won't redesign security under deadline for each new agent. Two stories in this week's Signal (01 and 02) show what happens when a stolen login or a text filter is all that stands in the way.
+4. Make it fresh and fast.
+Transaction changes now land every five minutes, against a 24-hour target. A key query dropped from 68 seconds to 3. Glue costs for unified transaction processing fell by roughly 97%. Speed matters more once agents get involved. If an agent checks five things before it answers and each query takes 68 seconds, someone is waiting almost six minutes. Freshness matters too. Day-old data is fine for a weekly report, but an agent acting on a transaction needs to see what happened a few minutes ago.
+5. Clean what the model will read.
+401 transaction attributes used to live in one concatenated string. They're now structured columns, with sensitive fields masked. We checked 1,369 fields, and 96% matched on the first pass. The remaining 4%, roughly 55 fields, took another round. Because the masking happens at the column level, an agent reading those tables sees masked values in place of the raw data.
+6. Document everything and validate it against production.
+Every table is documented, and nothing gets published unless a validation script passes. If the documentation disagrees with production, production wins. AI drafted much of the documentation, and the validation script is the reason we trust it. The client's own engineer then migrated a table using only the AI-generated how-to.
+None of this work demos well. AI sped up the code analysis, the access layer and the documentation, but every output still needed review. I can't tell you yet which AI use case this client will build first. Whichever one they pick will start with clean, current, permissioned data and documentation someone has checked against production.
+Who should be uncomfortable: an operating partner approving an agent budget for a portco where a recurring report still depends on one engineer running scripts against production. That agent will be reading the same data the engineer struggles to pull together.
+The Foundation Audit: Six Questions Before You Fund an Agent
+One question per step. Each comes with a test you can run this week and what "done" looked like at the payments company. If you want to see the problem firsthand first, try the transcript exercise in
+our data foundation guide
+.
+1. Which systems does your most important recurring report touch, and who runs it?
+Ask the person who produces it to list every source. If the answer includes a named engineer running scripts, you've found your first project. Done: 30+ sources mapped, report runs without an engineer.
+2. Where would someone go to answer a simple business question?
+Ask three managers where they'd look up last month's transaction volume by customer. If you get three different systems, an agent will have the same problem. Done: one governed warehouse, 54 tables in production.
+3. What credentials would an agent use?
+Ask IT for every service account and shared key with access to a production database. Liferay's Bernard Mc Closkey
+warned last month
+that "an agent created for a project that ended eighteen months ago may still retain active credentials." Done: one access layer, permissions by table, row and column, no database credentials handed out.
+4. How old is the data, and how long does the key query take?
+Time it. Write both numbers down before anyone builds anything, because they're your baseline. Done: five-minute freshness, 3-second query.
+5. Where are the sensitive fields?
+Look for concatenated strings and JSON blobs, where sensitive values can sit inside one field with no masking at all. Done: 401 attributes split into structured, masked columns.
+6. When did anyone last check the documentation against production?
+Pick one table and compare its documentation with the live schema. If they disagree, you now know how far you can trust the instructions your agent will read. Done: a validation script gates every published document.
+Start with question 1. It takes one email. If you sit across a portfolio, send it to every portco CEO with an AI line in next year's budget. The ones whose answer names an engineer should fix the data before they fund the agent.
+01
+Asos learned where the door was.
+On October 6, Asos app users received a rogue notification claiming the retailer's Snowflake instance had been compromised, and
+the shares fell more than 10%
+. Two days later, Asos said an attacker gained access to an employee account "by impersonating a trusted contact" and used those credentials "to access information on certain third-party platforms." Snowflake said it
+found no compromise of its platform
+. The attacker got in with one employee's login.
+02
+"Read-only" was a regex.
+On September 8, Microsoft disclosed
+CVE-2026-65669
+, rated critical at 9.6. Its FAQ says crafted instructions to SQL Copilot in SQL Server Management Studio could "bypass intended read-only restrictions," letting an attacker read or change data with the connected user's permissions. On September 30, Embrace The Red
+published the details
+: the read-only mode was a regex deny-list, and instructions a lower-privileged user planted in the database took the researcher to sysadmin. Set read-only on the database account the agent uses, where no planted instruction can argue its way past it.
+03
+Dell is selling context, starting in 2027.
+Dell's
+expanded AI Data Platform
+adds a unified semantic layer, an enterprise knowledge graph and "knowledge agents," with customers controlling what data each agent can access. The semantic layer and knowledge graph ship in the first half of 2027. Your teams will still have to map the data before any of it helps.
+04
+SAP mapped 7 million fields before it shipped agents.
+At SAP Connect on October 6,
+SAP said its Knowledge Graph maps more than 7 million data fields
+to ground its agents in "trusted business data and context." Nestlé's example was a 140-country S/4HANA rollout that built a "connected digital core with consistent processes, trusted data" that now supports its accounts receivable assistant.
+05
+Gartner says governance fails on culture more than money.
+Of 223 data and analytics leaders surveyed in March,
+60% blamed cultural resistance and 40% blamed funding
+. A budget line won't fix that.
+The AI-Ready Data Checklist.
+Six steps, the question to ask for each, and the number the payments company hit. Screenshot it and bring it to the next meeting where someone proposes an agent.
+If your next AI project depends on data your team struggles to access or trust, start with the data. Bring one recurring report that still needs an engineer to produce it, and on a 30-minute call we'll walk through what it would take to get it into plain SQL.
+→ BOOK A DISCOVERY CALL ←
+Until next Tuesday,
+— Mark Ajzenstadt, Founder @ Limestone Digital
+Keep Reading
+View more
+AI Foundation from Limestone Digital
+Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.
+Subscribe
+Home
+Posts
+© 2026 Limestone Digital s.r.o. All rights reserved..
+Powered by beehiiv
+
+----- FORMS -----
+Form 1: id=b913f4ae-c6b0-4153-b251-879572525f06 name= method=post action=/create
+  field: label='' name='subscribe_error_message' type=input optional placeholder=''
+  field: label='' name='subscribe_success_message' type=input optional placeholder=''
+  field: label='' name='sent_from_orchid' type=hidden optional placeholder=''
+  field: label='' name='signup_flow_id' type=hidden optional placeholder=''
+  field: label='' name='automation_ids' type=hidden optional placeholder=''
+  field: label='' name='double_opt' type=hidden optional placeholder=''
+  field: label='' name='auto_login_enabled' type=hidden optional placeholder=''
+  field: label='' name='email' type=email required placeholder='Enter Your Email'
+  button: Subscribe
+
+Form 2: id= name= method=post action=/post_like
+  field: label='' name='post_id' type=hidden optional placeholder=''
+  field: label='' name='subscription_id' type=hidden optional placeholder=''
+  field: label='' name='user_id' type=hidden optional placeholder=''
+  button: 
+  button: 
+  button: 
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"Article","identifier":"data-foundation-is-king","url":"https://thefoundation.limestonedigital.com/p/data-foundation-is-king","mainEntityOfPage":{"@type":"WebPage","@id":"https://thefoundation.limestonedigital.com/p/data-foundation-is-king"},"headline":"🟪 data foundation is king","description":"The unsexy work that decides if AI ships.","datePublished":"2026-10-13T15:45:26.946Z","isAccessibleForFree":true,"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/af91ff7c-ff77-4512-bef5-148722a4af2a/playbook-47-data-foundation-is-king.png?t=1791903167"},"publisher":{"@type":"Organization","name":"AI Foundation from Limestone Digital","url":"https://thefoundation.limestonedigital.com/","identifier":"69b3e631-13c5-4f2d-9b0b-9b2cee80f49a","sameAs":["facebook.com/limestonedigitalco","x.com/limestonehq","https://instagram.com/limestone.digital","https://www.linkedin.com/company/limestone-digital"],"logo":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"},"image":{"@type":"ImageObject","url":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","contentUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/purple_white.png","thumbnailUrl":"https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/69b3e631-13c5-4f2d-9b0b-9b2cee80f49a/thumb_purple_white.png"}},"dateModified":"2026-10-13T15:45:51Z"}
+
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://thefoundation.limestonedigital.com/","name":"AI Foundation from Limestone Digital"}},{"@type":"ListItem","position":2,"item":{"@id":"https://thefoundation.limestonedigital.com/p/data-foundation-is-king","name":"🟪 data foundation is king"}}]}

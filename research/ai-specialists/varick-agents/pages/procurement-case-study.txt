@@ -1,0 +1,26 @@
+URL: https://demo.varickagents.com/procurement-case-study
+Fetched: 2026-10-26T03:35:44Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/procurement-case-study
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Industrial manufacturer case study
+Meta description: A Varick Agents case study. Enter the access code you were sent to open it.
+Canonical: 
+Robots: noindex, nofollow
+H1: Industrial manufacturer case study
+
+Protected
+Industrial manufacturer case study
+
+Enter the access code you were sent to open this case study.
+
+Access code
+Open the case study
+varickagents.com
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="" id=""
+  - input type=password name="password" id="p" label="Access code" placeholder="" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

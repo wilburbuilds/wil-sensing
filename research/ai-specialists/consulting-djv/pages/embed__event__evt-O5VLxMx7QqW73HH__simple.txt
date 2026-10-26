@@ -1,0 +1,31 @@
+URL: https://luma.com/embed/event/evt-O5VLxMx7QqW73HH/simple
+Fetched: 2026-10-26T03:51:54Z
+HTTP status: 200
+Final URL: https://luma.com/embed/event/evt-O5VLxMx7QqW73HH/simple
+Content-Type: text/html
+Via: chrome-headless
+Title: Taller de IA Aplicada a Compras Corporativas · Luma
+Meta description: 💡 Taller de IA Aplicada a Compras Corporativas
+
+¿Querés llevar la gestión de compras de tu empresa al siguiente nivel? 
+
+Te invitamos a participar de este…
+Canonical: https://luma.com/003gwzef
+Robots: 
+H1: Taller de IA Aplicada a Compras Corporativas
+
+Taller de IA Aplicada a Compras Corporativas
+Hosted by Dino J Vidili
+OCT
+30
+Friday, October 30
+9:00 PM - 10:00 PM UTC
+Google Meet
+Registration
+Welcome! To join the event, please register below.
+Register
+View Full Event Page ↗
+
+--- json-ld ---
+{"@context":"https://schema.org","@type":"Event","@id":"https://luma.com/003gwzef","url":"https://luma.com/003gwzef","name":"Taller de IA Aplicada a Compras Corporativas","eventAttendanceMode":"https://schema.org/OnlineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","location":{"@type":"VirtualLocation","name":"Online Event","url":"https://luma.com/003gwzef"},"image":["https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1920,height=1920/gallery-images/46/0e531fd2-8fff-487b-8908-46bca3d37297.png","https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=1200,height=630/event-social/po/c3b95e70-01ef-4409-bf4a-ecdc73ae1c5d.png"],"description":"💡 Taller de IA Aplicada a Compras Corporativas\n\n¿Querés llevar la gestión de compras de tu empresa al siguiente nivel? \n\nTe invitamos a participar de este webinar exclusivo diseñado para optimizar procesos, reducir costos y potenciar estratégicamente tu área de compras mediante el uso de Inteligencia Artificial.\n\n📅 Fecha: Viernes 30 de Octubre de 2026\n🕕 Hora: 18:00 hs.\n📍 Formato: Online y 100% Gratuito\n\n📖 ¿Qué vas a aprender en este taller?\n\nAutomatización: Cómo la IA puede optimizar y mejorar tus procesos actuales de compra.\nAnálisis de datos: Herramientas para tomar mejores decisiones comerciales y mitigar riesgos.\nCasos reales: Ejemplos prácticos de aplicación de IA en empresas de distintos sectores.\nHerramientas prácticas: Soluciones directas que vas a poder implementar desde el primer día.\n\n🎙️ Sobre el Disertante:\nDino Jose Vidili\nConsultor de Finanzas e IA y Fractional CFO. Cuenta con más de 20 años de experiencia en Senior Management, ayudando a startups y pymes del mercado medio a alcanzar un crecimiento financiero sostenible.","startDate":"2026-10-30T18:00:00.000-03:00","endDate":"2026-10-30T19:00:00.000-03:00","organizer":[{"@type":"Person","name":"Dino J Vidili","url":"https://luma.com/user/usr-OXMtbTTa05pIRAb","image":"https://images.lumacdn.com/uploads/lz/2563d5c2-d46e-4ec5-b3b1-e499ae5d983d.jpg"},{"@type":"Person","name":"Dino J Vidili","url":"https://luma.com/user/usr-OXMtbTTa05pIRAb","image":"https://images.lumacdn.com/uploads/lz/2563d5c2-d46e-4ec5-b3b1-e499ae5d983d.jpg"}],"offers":[{"@type":"Offer","url":"https://luma.com/003gwzef","name":"General Admission","price":0,"priceCurrency":"usd","availability":"https://schema.org/InStock"}]}
+

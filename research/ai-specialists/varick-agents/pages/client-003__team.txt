@@ -1,0 +1,100 @@
+URL: https://demo.varickagents.com/client-003/team
+Fetched: 2026-10-26T03:35:56Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-003/team
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Operations Transformation Case Study
+Meta description: Operations department transformation case study for a $3.5B consumer goods manufacturer.
+Canonical: 
+Robots: 
+H1: What their team saw each day
+
+V
+VARICK
+OPERATIONS ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+Coordinator
+Director
+COO
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Consumer Goods Manufacturer
+|
+Operations Department
+|
+4-Month Implementation
+CHAPTER 03
+What their team saw each day
+
+Coordinator View. Their supply chain coordinator opened the queue each morning and saw 4 items requiring human judgment, down from 30+ before Varick. Everything else was handled overnight.
+
+Coordinator
+Director
+COO
+WHAT AGENTS HANDLED THAT DAY
+34
+Exceptions triaged
+127
+POs validated
+89
+Shipments tracked
+7
+Supplier alerts processed
+Before deployment, this took 7 hours/day. After deployment, it took 30 minutes.
+Queue snapshot
+4 items required human judgment
+EXC-2847
+high
+Supplier Disruption
+Pacific Components Ltd · 340 units short
+
+Supplier delay: Pacific Components shipment 3 days late. 340 units short for DC-4 (Chicago). Affects 12 customer orders.
+
+91%
+SPR-0193
+medium
+Supplier Performance Flag
+GlobalPack Industries · 78% OTD (3 months)
+
+On-time delivery dropped below 85% threshold for 3 consecutive months. Pattern: late shipments concentrated on large orders > $150K.
+
+94%
+DFC-0847
+high
+Demand Forecast Override
+Internal - SKU Analysis · +22% vs forecast
+
+POS data shows 22% above forecast for SKU-group HPC-200 (home care). Blue Yonder model hasn't adjusted. Regional promotional event not in system.
+
+82%
+POA-1247
+medium
+PO Amendment Approval
+Apex Raw Materials · +$47,200 (18% over PO)
+
+MRP-generated PO for 12,000 units. Real-time demand signals suggest 14,200 units needed. Amendment increases PO by 18%.
+
+88%
+Weekly time saved
+22h
+Week 1
+28h
+Week 2
+31h
+Week 3
+34h
+Week 4
+Next: Director View
+

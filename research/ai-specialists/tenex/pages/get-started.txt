@@ -1,0 +1,91 @@
+URL: https://www.tenex.co/contact
+Fetched: 2026-10-26T03:34:35Z
+HTTP status: 200
+Final URL: https://www.tenex.co/get-started
+Content-Type: text/html
+Via: chrome-headless
+Title: Get Started
+Meta description: Start a conversation with Tenex about AI transformation, AI engineering, and production systems. No BDRs — partner-reviewed intake.
+Canonical: https://www.tenex.co/get-started
+Robots: 
+H1: Ready to Tenex your business?
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+Ready to Tenex your business?
+
+From AI engineering squads to end-to-end AI transformation, we’ll help you win the next decade.
+
+Learn how enterprises are building & executing org-wide AI strategies
+
+Get access to our world-class technical AI talent
+
+Build a bespoke partnership with Tenex based on business goals & major bottlenecks
+
+First Name*
+Last Name*
+Work Email*
+Phone Number*
+Company Name*
+Job Title*
+Annual Revenue*
+Select one...
+<$1M
+$1M-$5M
+$6M-$20M
+$21M-$50M
+$51M-$100M
+>$100M
+Which services are you interested in?*
+AI Transformation
+AI Engineering
+Both
+Describe your specific needs you’d like our solutions to support*
+How did you hear about us?*
+Select one...
+Search Engine (Google, Bing, etc)
+AI App (ChatGPT, Perplexity, etc)
+X
+LinkedIn
+JJ Englert
+Claude Code Community
+Instagram
+YouTube
+Referral
+Newsletter
+Podcast
+Webinar
+Other
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="gs-form"
+  - input type=text name="website" id="gs-hp" label="" placeholder="" aria="" required=false
+  - input type=text name="First-Name" id="First-Name" label="First Name*" placeholder="" aria="" required=true
+  - input type=text name="Last-Name" id="Last-Name" label="Last Name*" placeholder="" aria="" required=true
+  - input type=email name="email" id="email" label="Work Email*" placeholder="" aria="" required=true
+  - input type=tel name="Phone" id="Phone" label="Phone Number*" placeholder="" aria="" required=true
+  - input type=text name="Company-name" id="Company-name" label="Company Name*" placeholder="" aria="" required=true
+  - input type=text name="Job-Title" id="Job-Title" label="Job Title*" placeholder="" aria="" required=true
+  - select type= name="Annual-Revenue" id="Annual-Revenue" label="Annual Revenue*" placeholder="" aria="" required=true options=Select one... | <$1M | $1M-$5M | $6M-$20M | $21M-$50M | $51M-$100M | >$100M
+  - input type=radio name="Services" id="" label="" placeholder="" aria="" required=true
+  - input type=radio name="Services" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="Services" id="" label="" placeholder="" aria="" required=false
+  - textarea type= name="Specific-needs" id="Specific-needs" label="Describe your specific needs you’d like our solutions to support*" placeholder="" aria="" required=true
+  - select type= name="Hear-About-Us" id="hear-about-us" label="How did you hear about us?*" placeholder="" aria="" required=true options=Select one... | Search Engine (Google, Bing, etc) | AI App (ChatGPT, Perplexity, etc) | X | LinkedIn | JJ Englert | Claude Code Community | Instagram | YouTube | Referral | Newsletter | Podcast | Webinar | Other
+  - input type=text name="Other" id="Other" label="Please specify:" placeholder="" aria="" required=false
+  - input type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"ContactPage","name":"Get Started with Tenex","description":"Start a conversation with Tenex about AI transformation, AI engineering, and production systems. No BDRs — partner-reviewed intake.","url":"https://www.tenex.co/get-started"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Get Started","item":"https://www.tenex.co/get-started"}]}]
+

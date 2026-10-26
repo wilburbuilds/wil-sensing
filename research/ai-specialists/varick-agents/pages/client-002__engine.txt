@@ -1,0 +1,117 @@
+URL: https://demo.varickagents.com/client-002/engine
+Fetched: 2026-10-26T03:35:53Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-002/engine
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Sales Transformation Case Study
+Meta description: Sales department transformation case study for a $2.8B enterprise SaaS company.
+Canonical: 
+Robots: 
+H1: How agents actually work
+
+V
+VARICK
+SALES ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+←
+Back to Overview
+Confidential
+Enterprise SaaS Corp
+|
+Sales Department
+|
+3.5-Month Implementation
+CHAPTER 04
+How agents actually work
+
+A single deal enters negotiation. One Main Sales Agent spawns 5 specialized sub-agents in parallel. Each applies different playbook rules, checks different thresholds, and surfaces different decisions. This is the complexity the platform absorbed so the team no longer had to.
+
+ACTIVE DEAL
+Meridian Health Systems
+OPP-4821 · Feb 3, 2026
+$1.4M ACV
+Platform License (3-Year)
+$960,000
+Implementation & Onboarding
+$280,000
+Premium Support Package
+$160,000
+Main Sales Agent
+Orchestrates 5 sub-agents in parallel
+Spawns sub-agents
+CRM Enrichment Agent
+1.4s
+
+Updated 14 fields: MEDDIC score, decision criteria, champion identified, timeline confirmed, competitive landscape populated from last 3 Gong calls.
+
+96%
+Deal Routing Agent
+0.8s
+
+Enterprise deal >$500K: routed to deal desk. Named account (Marcus Chen). Non-standard discount (22%) flagged for VP approval.
+
+Rule 10: Enterprise (>$500K) to named AE; requires deal desk review
+97%
+Pricing Validation Agent
+1.6s
+
+Discount at 22% exceeds 15% standard threshold. Multi-year premium applies. Competitive displacement justification attached. Recommend: VP approval with supporting data.
+
+Rule 2: Discounts >15% require VP Sales approval; >25% requires CRO sign-off
+89%
+Security Questionnaire Agent
+4.2s
+
+Matched 142/200 questions (71%) from knowledge base. 46 routed to security team. 12 flagged for updated SOC 2 attestation. Draft response document assembled.
+
+Rule 3: Auto-respond if confidence >92%. Below threshold items routed to manual.
+87%
+Contract Prep Agent
+Pending
+
+Draft contract assembled. Awaiting pricing approval resolution before generating final DocuSign package.
+
+The Feedback Loop
+AGENT PREDICTED
+Stage 4
+Forecast: 60% probability
+HUMAN CORRECTED
+Stage 4
+Forecast: 45% probability
+Probability model updated. Deals with declining engagement signals in Stage 4 now weighted 15% lower. Next similar pattern auto-adjusts.
+Before correction
+84%
+After correction
+93%
+Change Detection
+Jan 15, 2026
+New pricing tier added: Enterprise Plus
+
+Deal routing, pricing validation, and commission calculation rules updated automatically. Zero manual reconfiguration.
+
+4 rules auto-updated
+Jan 28, 2026
+Territory realignment: West region split into NW and SW
+
+Deal routing, lead assignment, and territory rules updated. 34 active opportunities re-mapped to correct AEs.
+
+6 rules auto-updated
+Feb 1, 2026
+Comp plan update: H2 accelerator threshold changed from 110% to 105%
+
+Commission calculation rules auto-adjusted. Retroactive impact analysis flagged 3 reps who cross new threshold.
+
+2 rules auto-updated
+Next: Outcomes
+

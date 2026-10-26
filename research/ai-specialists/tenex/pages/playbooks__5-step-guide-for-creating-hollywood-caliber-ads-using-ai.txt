@@ -1,0 +1,265 @@
+URL: https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai
+Fetched: 2026-10-26T03:34:13Z
+HTTP status: 200
+Final URL: https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai
+Content-Type: text/html
+Via: chrome-headless
+Title: Make viral cinematic ads fast with AI: 5-step sprint | Tenex
+Meta description: Go from idea to finished spot in days, not months. Follow this workflow to ship your next ad at viral velocity.
+Canonical: https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai
+Robots: 
+H1: The 5-Step Guide For Creating Hollywood-Caliber Ads Using AI
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+The 5-Step Guide For Creating Hollywood-Caliber Ads Using AI
+
+PJ Ace's playbook for creating cinematic, studio-grade commercials with AI tools and tight writing.
+
+0 of 6 steps
+0 / 60 pts
+THE PLAYBOOK
+✓
+START HERE
+Meet the Human Behind the Playbook
+10 pts
+📖 Learn
+📋 Implement
+The Human
+
+PJ “Ace” Accetturo is a commercial director turned AI-native filmmaker. After a decade making ads for Toyota, Red Bull, and major sports teams, he launched Genre.AI—a studio building Super Bowl-quality commercials using AI tools and a lean creative department.
+
+Genre.AI’s viral campaigns for Ramp, Kalshi, and others have pulled in over 300 million views. In contrast to traditional commercials—which can cost $100K to over $1M to produce—PJ's productions cost less than $1,000 using a stack of mostly free tools and a human video editor. Plus, they take only a tenth as long from idea to publication.
+
+“There’s no world in which this doesn’t entirely replace all live-action productions.”
+— PJ
+CEO, Genre.AI
+Continue to Implementation →
+✓
+STEP 1
+01: Scroll-Stopping Idea
+10 pts
+📖 Learn
+📋 Implement
+
+The first half-second of your ad matters more than anything.
+
+That’s Virality 101. And now, thanks to genAI, it’s never been easier to come up with a hook that grabs attention and ties directly to your product.
+
+Start by using ChatGPT to brainstorm a handful of ad ideas and rough scripts. Choose the three that actually make you feel something—whether it’s laughter, shock, or even a bit of horror.
+
+Steal this: Pitch your client 2 or 3 strong concepts, and have them choose their favorite. Giving them ten half-baked ones is just as bad as showing up with only one bad option.
+
+The goal isn’t to write the perfect script. It’s to find the one worth chasing.
+
+Lean heavily into humor at this stage, PJ says. 
+
+“We pitch comedy ads because people don’t want ‘authentic’ AI crap. Advertising is already inauthentic, right? So, instead, we try to create a Super Bowl commercial that’s 80% a joke and 20% connected to the brand.”
+
+‍
+
+Human-verified prompt:
+
+I’m making an ad for [brand name], a [company type]. Give me three wild, cinematic ad concepts that grab attention in the first 0.5 seconds. Bonus points if they parody horror, action, or meme culture.
+
+‍
+
+One of the three concepts that Genre.Ai pitched to Ramp:
+
+‍
+
+Continue to Implementation →
+✓
+STEP 2
+02: Storyboard
+10 pts
+📖 Learn
+📋 Implement
+
+Great ads don’t start on set. They begin with shots that feel like movies.
+
+The engine for building out a robust repository of reference shots is Reve:
+
+‍
+
+How to storyboard using AI:
+Paste your script into Reve
+Prompt for a list of camera shots and starter frames
+Consider lens, lighting, mood, and tone
+Iterate and nitpick to find your look
+Organize every shot in Figma
+Approve starter frames before moving to motion
+
+‍
+
+‍
+
+Human-verified prompt:
+
+Use my script, create a shot list, then let’s go shot by shot to generate all the shots for this.
+
+Once you have your scenes, plug each one into a prompt structured like this:
+
+A cinematic wide shot of [scene] during [time of day or season]. [Lighting style and color accents]. [Foreground elements] add depth. [Character descriptions and actions]. Background shows [architecture or props]. Shot with [lens/camera notes]. [Final mood or cinematic technique].
+
+Use this format to quickly generate 2–3 style frames per scene, based on your script, until you lock the look.
+
+‍
+
+‍
+
+Bring it all together in Figma:
+
+Lay out our Figma Design file using these as the different sections, and then go scene by scene down the page: scene, tone, camera angle, lens/camera type, variations, approved frame.
+
+‍
+
+Continue to Implementation →
+✓
+STEP 3
+03: Pictures to Videos
+10 pts
+📖 Learn
+📋 Implement
+
+Make a motion picture.
+
+With your starter frames locked, it’s time to bring each scene to life.
+
+How to animate like a director:
+Paste the starter frame into Flow (Google Labs) with Veo
+Prompt the movement (zoom, pan, dolly, etc.)
+Add a line about pacing, mood, or tension
+Iterate and generate multiple takes
+Repeat for every scene in the sequence
+Download the clips you like or hold until the next step
+
+‍
+
+Human-verified prompt: 
+
+[Camera angle]. [Subject action in motion]. [Environmental effects or reactions]. [Emotional tone or pacing].
+
+Examples:
+
+Wide shot. A delivery drone spirals down into a neon-lit alley. Trash blows past in the wind. Rain begins to fall in slow motion.
+Close-up. A hand trembles while hovering over the 'send' button. Reflected screen light flickers in their eyes. Slight zoom to build suspense.
+
+‍
+
+These templates work across genres. Just swap in your subject, mood, and motion to match the energy of your ad.
+
+‍
+
+Tips:
+Always generate a few takes. Each run might give you something different.
+If a clip looks rough in parts, cut around the messy sections and keep the gold.
+
+‍
+
+“Sound design is one of the most important parts of it. This is where it actually feels alive.”
+— PJ
+CEO, Genre.AI
+
+‍
+
+Continue to Implementation →
+✓
+STEP 4
+04: Voices &amp; Sounds
+10 pts
+📖 Learn
+📋 Implement
+
+*Cue zombie noises*
+
+Great visuals mean nothing if your sound feels flat or out of sync. 
+
+As you animate each scene, Google Flow will try to generate the sound it thinks matches the moment. Sometimes it’s spot on. Other times? Not even close.
+
+PJ estimates that Google Flow's Veo 3.1 gets it right about 90% of the time. For the other 10%, he records the dialogue himself and runs it through ElevenLabs to fine-tune the tone, pitch, or delivery.
+
+‍
+
+Human-verified prompt:
+
+[Voice age and style] [action/verb] and says “[dialogue].” [Ambient sound effect or background noise.] [Optional music cue or mood layer.]
+
+Examples:
+
+A scraggly, hoarse zombie voice muttering “Receipts…”
+A 20-year-old Midwestern girl yells, “Oh no, the auditors!”
+Fast keyboard clacking, fluorescent hum, glass breaking in the distance
+Elevator music is playing awkwardly under chaos
+
+‍
+
+Continue to Implementation →
+✓
+STEP 5
+05: Edit &amp; Ship It
+10 pts
+📖 Learn
+📋 Implement
+
+Basically... hire an editor.
+
+This is the one role you probably shouldn’t DIY, unless you have to. The editor brings pacing, polish, and emotional rhythm. PJ breaks it down like this:
+
+“There are five core roles: writer, director, DP, animator, and editor. You can do them all yourself, but the faster you specialize in what you’re great at, the better.”
+
+You don’t need an AI-native editor, just someone with taste and timing.
+
+That said, if you're solo and super scrappy, we use these tools around Tenex:
+
+CapCut: Great for beginners. Fast, intuitive, and loaded with templates and effects. Alex uses it for all his videos.
+Electric Sheep: An all-in-one generative editing platform. Go from script to scene, swap camera angles, generate backgrounds, and layer VFX.
+Spingle AI: A Premiere Pro plugin that handles tedious edits like selecting the best shots, organizing timelines, and roughing out sequences.
+
+‍
+
+Once your video feels like something you’d see during the NBA Finals—press post.
+
+‍
+
+The Scoreboard
+
+PJ’s playbook is hardwired for quick testing of creative. It’s built for marketing leaders, agencies, and creators who want stronger video performance—without hiring a whole production team and spending heinous sums of cash. 
+
+‍
+
+If you can use each tool to its extent, you’ll be able to…
+
+Make ads faster: Test new videos in days, not weeks.
+Get better results: More shots on goal = more potential to score.
+Do it again: Build once, repeat with ease.
+
+‍
+
+Ready to Tenex your business?
+
+If this playbook sparked ideas, imagine what you could build with our team behind you. From AI engineering squads to full org-wide transformation, we help companies execute with speed, clarity, and impact. Let's solve your biggest bottlenecks—together. Get started here.
+
+Continue to Implementation →
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","headline":"Make viral cinematic ads fast with AI: 5-step sprint","description":"Go from idea to finished spot in days, not months. Follow this workflow to ship your next ad at viral velocity.","image":"https://cdn.prod.website-files.com/68af32cbd5555c406456f114/69138c917e1ec8aae7f5bb5b_Tenex%20-%20PJ%20Ace%20-%20Thumbnail%202.png","datePublished":"2025-12-03T22:37:04.000Z","dateModified":"2025-12-03T22:37:04.000Z","author":{"@type":"Organization","name":"Tenex","url":"https://www.tenex.co"},"publisher":{"@type":"Organization","name":"Tenex","logo":{"@type":"ImageObject","url":"https://www.tenex.co/assets/live/logo-icon.svg"}},"mainEntityOfPage":"https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai"},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Playbooks","item":"https://www.tenex.co/playbooks"},{"@type":"ListItem","position":2,"name":"The 5-Step Guide For Creating Hollywood-Caliber Ads Using AI","item":"https://www.tenex.co/playbooks/5-step-guide-for-creating-hollywood-caliber-ads-using-ai"}]}]
+

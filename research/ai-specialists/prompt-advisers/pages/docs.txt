@@ -1,0 +1,195 @@
+URL: https://www.lockpick.app/docs
+Fetched: 2026-10-26T03:50:14Z
+HTTP status: 200
+Final URL: https://www.lockpick.app/docs
+Content-Type: text/html
+Via: chrome-headless
+Title: What is Lockpick · Docs · Lockpick
+Meta description: Lockpick checks what anyone online can see about your website and tells you, in plain words, what to fix.
+Canonical: https://www.lockpick.app/docs
+Robots: 
+H1: What is Lockpick
+
+Optional analytics
+
+With your OK, Lockpick uses PostHog to count how pages and features are used and, on product pages, to record masked session replays. If you follow an invite link, we also remember it for 30 days so the person who invited you is credited. None of this runs unless you accept, and you can change your choice at any time under Cookie settings. Honeycomb records performance and technical diagnostics only after the same consent. Privacy Policy
+
+Reject
+Accept
+Skip to content
+How it works
+Pricing
+Docs
+Resources
+English
+Sign in
+Check it
+Docs
+Search
+Ctrl
+K
+
+Get started
+
+What is Lockpick
+Check your first site
+Check a repository before you install it
+Pulse or Deep
+Read your report
+Fix what we found
+Check again
+
+Protect your site
+
+Auto-checks and result emails
+Scan every release or deploy from your CI
+Pull request comments
+Monitor
+Prove you own your site
+Cloudflare
+Vercel
+Netlify
+GoDaddy
+Namecheap
+Squarespace
+Wix
+Shopify
+Amazon Route 53
+Google Cloud DNS
+Upload a file
+Allow Lockpick through your firewall
+
+Use Lockpick with AI
+
+Claude
+Claude Code
+ChatGPT
+Codex
+Cursor
+VS Code
+opencode
+Other MCP apps
+Prompts that work well
+Skills pack
+
+CLI
+
+Install and sign in
+Commands
+Configuration
+Run Lockpick in CI
+
+MCP
+
+Hosted server and sign-in
+Permissions
+Tools, resources and prompts
+
+API
+
+Overview and keys
+Reference
+
+Security and trust
+
+How we check
+How we rate findings
+Verify Codex Security fixes on your live site
+What we never do
+Your data
+Report a vulnerability to us
+
+Plans
+
+Plans
+Cancel and invoices
+
+Learn with Pick
+
+Learn with Pick
+Anyone can send email as you. Here's why
+What the lock in the address bar really means
+Security settings your site sends to browsers
+A secret key in your website's code
+Your admin page is on the internet
+Files you forgot were public
+Lookalike domains and why they matter
+How attackers find your site in the first place
+What a Deep scan does, and why it asks for proof
+Letting your AI fix things safely
+When Monitor says something may affect you
+Checking again, and how to know a fix worked
+
+Reference
+
+Glossary
+Changelog
+What is Lockpick
+Copy page
+Open in Claude
+Open in ChatGPT
+
+Lockpick checks what anyone online can see about your website and tells you, in plain words, what to fix.
+
+Lockpick looks at your website from the outside, the way a stranger, a bot or an attacker would see it. It reads what your site shows to anyone on the internet, finds the gaps that make common attacks easier, and explains each one in plain words with a fix you can hand to your developer or your coding assistant.
+
+It never logs in to your site, never sends attack payloads, never fills in your forms and never needs your code. A repository or skill check reads public GitHub code and never runs it. Every check has a fixed limit on how many requests it sends, and it stops early if your site asks it to slow down.
+
+What you can do with it
+A quick check
+
+A score out of 100 for your homepage in about 10 seconds. No account needed.
+
+Your first Pulse scan
+
+A fuller outside look at your homepage, email settings, security settings and public records, usually in under 15 seconds.
+
+A Deep scan
+
+A careful walk through up to 30 pages of a site you have proved you own.
+
+Fix and check again
+
+A fix for every issue, a prompt for your coding assistant, and a way to confirm the fix worked.
+
+You can also have Lockpick check a site every week and email you the result, like antivirus for your website, and you can use it from Claude, ChatGPT, Cursor and other assistants.
+
+What a result means
+
+A Lockpick result tells you what we found in what we checked. It is not a certificate and it is not a full penetration test. When a scan finds nothing, the result reads "No issues found in what we checked", and every report shows exactly what that covered.
+
+Good to know
+
+Lockpick only looks at what is already public. If we can see it, so can anyone else, which is why it is worth fixing.
+
+Where to start
+Check your first site
+Pulse or Deep
+Read your report
+Fix what we found
+Check again
+
+Was this helpful?
+
+Yes
+No
+© 2026 Lockpick
+Privacy
+Terms
+Status
+Contact
+Cookie settings
+
+Check your first site
+
+Start with a quick check, then run a Pulse scan on the Free plan to see everything worth fixing.
+
+On this page
+What you can do with it
+What a result means
+Where to start
+Ask Lockpick
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.lockpick.app/#organization","name":"Lockpick","url":"https://www.lockpick.app/","description":"Lockpick is a security scanner for vibe-coded apps. It checks what your live site exposes and what a GitHub repo or AI skill would do before you install it, then gives you a fix prompt for Lovable, Bolt, Replit, Cursor or Claude Code.","logo":{"@type":"ImageObject","@id":"https://www.lockpick.app/#logo","url":"https://www.lockpick.app/brand/lockpick-wordmark-email.png","width":480,"height":126},"sameAs":["https://www.npmjs.com/package/lockpicks"]},{"@type":"TechArticle","@id":"https://www.lockpick.app/docs#article","headline":"What is Lockpick","description":"Lockpick checks what anyone online can see about your website and tells you, in plain words, what to fix.","url":"https://www.lockpick.app/docs","mainEntityOfPage":"https://www.lockpick.app/docs","inLanguage":"en","dateModified":"2026-10-13T20:01:26.000Z","publisher":{"@id":"https://www.lockpick.app/#organization"}}]}
+

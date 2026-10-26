@@ -1,0 +1,63 @@
+URL: https://www.tenex.co/the-big-question
+Fetched: 2026-10-26T03:33:53Z
+HTTP status: 200
+Final URL: https://www.tenex.co/the-big-question
+Content-Type: text/html
+Via: chrome-headless
+Title: The Big Question — AI questions leaders ask, answered | Tenex
+Meta description: The questions leaders ask about AI, answered with the methods Tenex uses with clients.
+Canonical: https://www.tenex.co/the-big-question
+Robots: 
+H1: The questions leaders ask about AI, answered.
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+
+THE BIG QUESTION
+
+The questions leaders ask about AI, answered.
+
+Each piece takes one question we hear from executives and answers it with the method we use with clients.
+
+FEATURED · AI FUNDAMENTALS
+
+How to Build Your First AI Agent
+
+An AI agent is software with a trigger, a loop and tools. Build your first one step by step with Claude Code, no engineering background needed.
+
+Oct 15, 2026
+·
+10 min read
+
+AI STRATEGY
+
+What Actually Goes Into an AI Strategy, and Where Do We Start?
+
+Put every AI initiative on one grid that scores readiness and impact. A four-step method for deciding what to fund, fix, keep running or stop.
+
+Oct 9, 2026
+·
+10 min read
+Stay on the right side of history.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"CollectionPage","name":"The Big Question","description":"The questions leaders ask about AI, answered with the methods Tenex uses with clients.","url":"https://www.tenex.co/the-big-question","isPartOf":{"@id":"https://www.tenex.co/#website"},"mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"How to Build Your First AI Agent","url":"https://www.tenex.co/the-big-question/how-to-build-your-first-ai-agent"},{"@type":"ListItem","position":2,"name":"What Actually Goes Into an AI Strategy, and Where Do We Start?","url":"https://www.tenex.co/the-big-question/ai-strategy-where-to-start"}]}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"The Big Question","item":"https://www.tenex.co/the-big-question"}]}]
+

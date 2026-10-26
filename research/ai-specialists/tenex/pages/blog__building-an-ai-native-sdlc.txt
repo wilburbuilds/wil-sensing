@@ -1,0 +1,453 @@
+URL: https://www.tenex.co/blog/building-an-ai-native-sdlc
+Fetched: 2026-10-26T03:34:25Z
+HTTP status: 200
+Final URL: https://www.tenex.co/blog/building-an-ai-native-sdlc
+Content-Type: text/html
+Via: chrome-headless
+Title: Building an AI-Native SDLC | Tenex
+Meta description: Breaking down MetaHarness, the system behind Tenex's SDLC, the principles it runs on, and what changes when coding agents become partners in development.
+Canonical: https://www.tenex.co/blog/building-an-ai-native-sdlc
+Robots: 
+H1: Building an AI-Native SDLC
+
+Skip to content
+Home
+AI Transformation
+AI Engineering
+Who We Are
+Careers
+Resources
+Blog
+The Big Question
+Playbooks
+AI Workshop
+Newsletter
+Get Started
+← Back to Blog
+
+AI ENGINEERING
+
+Building an AI-Native SDLC
+
+Breaking down MetaHarness, the system behind Tenex's SDLC, the principles it runs on, and what changes when coding agents become partners in development.
+
+ALEX LIEBERMAN · DAN ZAKON · CJ HESS · ARMAN HEZARKHANI
+·
+AUGUST 5, 2026
+·
+19 MIN READ
+
+“On days where everything works well, I can’t help but think nothing I do matters, everything is automated and better and faster than I ever will be. But then there are days where everything breaks and I don’t understand why and I realize I have no idea what I’ve been up to anymore.”
+
+The anonymous Anthropic engineer put words to something we’ve all felt since the release of Sonnet 3.5. The defining risk of agentic software development is that execution can now scale faster than the systems engineers use to preserve context, coherence, and understanding.
+
+But coding agents do not have to make software development less legible. Paired with a process designed for human-agent collaboration, they make possible an SDLC that is faster, more robust, more repeatable, and better documented than what came before.
+
+This essay describes the principles & process behind MetaHarness, the system that runs Tenex’s AI-native SDLC, & how you can deploy a similar system within your engineering org.
+
+WHAT FOLLOWS
+WHY THE PROCESS HAD TO CHANGE
+The evolution of SDLC
+THE SHAPE OF THE PROCESS
+The lifecycle
+THE EIGHT PRINCIPLES
+Context becomes part of the system
+A blueprint that is allowed to change
+We practice benevolent prompt injection
+Tribal knowledge is embodied by shared skills
+The development process has a machine interface
+Validation makes autonomy safer
+Tenex OS makes the process legible to the team
+The process learns from the work
+DEPLOYING IT YOURSELF
+What the process expects of people
+Where to start
+What is actually different
+The evolution of SDLC
+
+The development process is a dance between collaboration and coherence. And as technology has evolved, so too has the manner in which engineering teams work together to keep a system coherent.
+
+Waterfall tried to make software predictable by proactively mapping an entire system. Winston Royce published the cascade diagram in 1970. In the same paper, he warned that building this way “is risky and invites failure.” The industry kept the diagram and dropped the warning. Unknown unknowns are a property of software, and a process that depends on predicting the future is highly fragile.
+
+The Agile Manifesto was the practical response, written in 2001 by seventeen developers at a ski lodge in Snowbird, Utah. Instead of pretending the team could know everything at the start, it organized work into small increments and relied on frequent conversation. An engineering org carried a surprising amount of context through standups, pairing, reviews, and the collective memory of a group building for 12 hours a day together.
+
+That is the part agents change. An engineer remembers yesterday’s huddle, notices that a ticket conflicts with a prior decision, and knows which document is stale based on live discussion. A coding agent has no such luxury. Agile could leave project state implicit because people carried it from one day to the next. Agents cannot inherit what was never written down.
+
+So the mechanism (read: agile) that produced coherence does not scale with cold-blooded companions (read: agents). More execution capacity amplifies the quality of the shared plan, including its omissions. Once 100 coding agents work on one system, a shared blueprint stops being planning overhead. It becomes the only thing stopping a build from going off the rails.
+
+The lifecycle
+
+At face value, our AI-native SDLC appears unremarkable. It runs a loop of phases not dissimilar from Waterfall or agile.
+
+FIG. 1 · THE LIFECYCLE
+EIGHT PHASES, ONE LOOP
+Requirements and Access
+Scoping and Planning
+Design Review
+Build
+Demo Checkpoints
+Test and QA
+Ship
+Hypercare and Handoff
+
+What changes when agents do the work is what happens inside the loop: how much gets written down, who reads it, and what gets checked before work moves on.
+
+The essence of MetaHarness reduces to eight principles:
+
+Context as code.
+Plans are detailed, and allowed to change.
+Every agent starts senior.
+Skills ship like software.
+One record, many views.
+Let agents check their own work.
+Status is derived, not reported.
+Lessons compound for everyone.
+METAHARNESS
+TENEX
+TENEX OS · ONE VIEW ACROSS PROJECTS
+REPO
+EXT
+PG
+→
+HEALTHY
+AT RISK
+DERIVED
+↑
+READS
+THE WORK
+HUMANS
+AGENTS
+
+Writes
+Session orientation
+
+→
+VALIDATION · CHECKED LIKE CODE
+THE PROJECT RECORD
+CURRENT TRUTH
+FUTURE INTENT
+HISTORY & EVIDENCE
+
+Status is computed from the record · never typed into a box
+
+→
+PROJECTIONS
+Linear
+GitHub
+Client update
+
+One-way · reconciled by code
+
+People and agents do the work. One canonical record holds the project. Everything else is a view over it.
+Context as code. One canonical, versioned, checkable home for project context; Linear and GitHub remain valuable interfaces instead of a second, competing account of project truth.
+
+ultrathink
+
+The #1 applied AI newsletter on the internet.
+
+Twice a week, 10,000+ execs and builders get the AI news that matters and what to do about it.
+
+Email
+Get ultrathink free
+
+By subscribing, you agree to receive recurring marketing communications from Tenex and to our Terms and Privacy Policy. Unsubscribe anytime.
+
+Context becomes part of the system
+
+PRINCIPLE 1: CONTEXT AS CODE.
+
+We treat context as code. If project context determines what agents build, it needs the properties we expect from source code: one home, versioned and reviewable changes, known shapes, checkable relationships, detectable staleness.
+
+We call this home the project record: a source of truth holding everything a project knows about itself, sitting in the repo next to the code base. It works the way double-entry bookkeeping does. Both sides have to balance, and a discrepancy is an error you can point at rather than a game of he said she said. What is true, what is planned, and what happened are recorded separately, cross-referenced, and checked.
+
+The names are ours and yours would differ, but the shape underneath matters. Every project gets a git repo of markdown with strict grammar. Current truth lives in 1-docs/, intent splits between 2-epics/ and 3-project-specs/, history goes in 4-log/, and anything archived moves under .archived/, where the tooling refuses to write. Filenames follow a pattern the parser knows, so ARCH-system-overview.md is a record and arch_system_overview.md is an error with a fix suggested.
+
+FIG. 2 · ONE PROJECT, ON DISK
+MARKDOWN · IN GIT · BESIDE THE CODE
+project-record/
+1-docs/
+what is true now
+2-epics/
+what we intend · product
+3-project-specs/
+what we intend · engineering
+4-log/
+what happened
+5-external/
+client-facing material
+6-scratchpad/
+the ungoverned annex
+.archived/
+the tooling refuses to write here
+The names are ours; the shape is the argument. Truth, intent, and history are kept apart so they can be cross-checked, the scratchpad keeps the other folders pristine, and history is immutable by enforcement rather than convention.
+
+6-scratchpad/ exists so the others can stay pristine. If there is nowhere to put a messy thought, people put messy thoughts into the canonical documents. A governed system needs an ungoverned annex, or the governance leaks.
+
+Inside each planning file, the boundary is about who may write, not what the system may read. People edit the prose freely. The CLI parses the whole document, but when it syncs from Linear or GitHub it only rewrites the fenced blocks reserved for machine output: external IDs, status, metadata. The reasoning around those blocks is never touched. It is a mutex expressed as syntax.
+
+FIG. 3 · INSIDE A SINGLE FILE
+WHO MAY REWRITE WHAT
+yours to write
+the machine writes here, and only here
+the CLI reads all of it
+3-project-specs/02-payments/PS-payments.md
+---
+id: PS-payments
+status: in-progress
+---
+FRONTMATTER
+Structured fields the parser reads. Known shape, checkable.
+### Ticket 3 · Add refund endpoint
+NAMED UNIT
+The heading is the anchor. Everything beneath it belongs to this ticket.
+We settle refunds against the original
+authorization rather than issuing a
+new payment. Rationale in ARCH-payments.
+YOUR PROSE
+Reasoning, context, argument. No tool ever rewrites this.
+```tenex-ticket
+linearId: TEN-482
+state: in_review
+points: 3
+```
+FENCED BLOCK
+External IDs, status, metadata. The one place sync writes back to.
+- [x] returns 200 on a valid refund
+- [ ] rejects a duplicate refund
+CHECKBOXES
+Acceptance criteria. They belong to the ticket because they sit under it.
+Depends on PS-payments#2
+TYPED REFERENCE
+An inline link the validator can follow and check.
+The CLI reads the whole file. It only rewrites inside the fence.
+The boundary is about who may write, not what the system may read. Sync pulls external IDs, status and metadata into the fenced block and leaves the reasoning around it untouched, so one document can be hand-edited and machine-synced without the two ever fighting over the same line.
+A blueprint that is allowed to change
+
+PRINCIPLE 2: PLANS ARE DETAILED, AND ALLOWED TO CHANGE.
+
+Historically, engineers had to be selective about time spent on planning & documentation. Hours were finite & competition against time spent ripping code was real. Agents collapsed that cost. It is now affordable to build a much more complete blueprint of a large system before implementation starts, and to keep it current as the work changes.
+
+That blueprint gives every person and agent the same account of what we are building, why it matters, and what must be true before the work is accepted. The artifacts are useful to humans and force agents to behave deterministically.
+
+Moreover, deeply opinionated structure is must-have. Every ticket belongs to exactly one MetaHarness checkpoint or is explicitly exempted. A spec with tickets and no checkpoints is an error. And acceptance criteria aren’t committed to memory; a criterion belongs to a ticket, making pass/fail legible to agents.
+
+This is more planning than many agile teams would consider economical, and it is not a return to a fixed specification. We still work in sprints, epics, milestones, tickets, and demos, and we still expect plans to change once the team learns something. The difference is that these parts belong to one connected blueprint rather than a set of loosely related tracker entries, which also makes readiness measurable: how much work is scoped ahead, and where the plan runs out. That gives our engineering managers an early warning before a team reaches the end of its prepared work.
+
+We practice benevolent prompt injection
+
+PRINCIPLE 3: EVERY AGENT STARTS SENIOR.
+
+Maintaining context hygiene is half the problem. The process also has to deliver it at the moment an agent begins working.
+
+An agent opening ticket 3 on a payments spec does not start with a blank prompt. It starts with the architecture doc, the two decisions logged last week, the acceptance criteria that define done for that ticket, the fact that validation is currently clean, and the commands that let it verify its own claims. Managed startup hooks assemble that packet automatically, across the agent environments our engineers use.
+
+We like to think of this as benevolent prompt injection. We inject the project’s rules, requirements, process, and current state before the task begins, so a new session does not depend on a user starting with the right prompt.
+
+No session starts junior. A new agent follows yesterday’s conventions, an agent waking after a pause inspects current state instead of trusting an old snapshot, and a replacement takes over without a person retelling the story.
+
+Tribal knowledge is embodied by shared skills
+
+PRINCIPLE 4: SKILLS SHIP LIKE SOFTWARE.
+
+The instructions agents receive are managed as a shared company system rather than a collection of personal prompts.
+
+Tenex maintains more than fifty reusable skills. There is one for writing a project spec, one for executing a ticket against its acceptance criteria, one for investigating a bug, one for preparing a pull request, one for reviewing whether a doc still matches the code. A skill loads when the task calls for it and stays out of unrelated sessions, so an agent gets detailed guidance without carrying the whole company handbook in every context window.
+
+They are versioned, tested against fixtures, and released through standards channels, so a process change rolls out deliberately. An engineer can change tools without losing the firm’s way of planning, reviewing, and shipping work.
+
+This is how a local lesson becomes company capability. When one project finds a better way to review an architecture or validate a release, that improvement goes into the relevant skill and every future session inherits it.
+
+The development process has a machine interface
+
+PRINCIPLE 5: ONE RECORD, MANY VIEWS.
+
+Without a machine interface, an agent working in your repo has to read files and guess. The Tenex CLI removes the guesswork & enforces guardrails (through 30+ commands) so engineers don’t need to babysit the codebase.
+
+An agent asks what is true, what is ready, what is broken, what happens next, and gets structured facts. Examples:
+
+Which tickets are unblocked.
+Where the record and Linear disagree.
+What required sections of plans are missing or invalid.
+Make Linear match the markdown.
+Approval of acceptance criteria.
+
+Every answer is grounded in the project record, so an agent is never working off stale source of truth.
+
+Writes to Linear and GitHub work the way infrastructure tools have for a decade: you see the full plan before anything executes, and applying it takes a separate deliberate step. If a ticket could plausibly match two Linear issues, it refuses and names both.
+
+The value of the Tenex CLI is that a write to Linear is either correct or it doesn’t happen. If the project record is the blueprint, the CLI is what turns it into work orders and sounds the alarm when Linear stops matching the blueprint.
+
+Validation makes autonomy safer
+
+PRINCIPLE 6: LET AGENTS CHECK THEIR OWN WORK.
+
+Agents must be kept on a leash, because they can be convincing and wrong. So trust is earned through verification. Plans are checked for missing relationships, tickets against their acceptance criteria, documentation against the code.
+
+The checks also give an agent a way to repair its own work. tenex validate returns something like PS-portal ticket 6 points at milestone M3, which does not exist; relink or remove. Guidance that’s precise enough for the agent to self-heal and run the check again, with no human intervention needed. Long tasks stop depending on an agent holding a perfect chain of reasoning for hours.
+
+What gets to the engineer is an error the agent couldn’t self-correct. An agent marking a ticket done when nothing links to a PR, tests, or a sign-off does not get to make that claim stick.
+
+FIG. 4 · THE CHECK IS THE REPAIR
+TENEX VALIDATE
+RUN 1 · DRIFT, CAUGHT AND SELF-REPAIRED
+CHECK
+tenex validate
+→
+FAIL · PRECISE
+PS-portal ticket 6 → milestone M3 does not exist. Fix: relink or remove.
+→
+AGENT
+reads the error, fixes the exact thing
+→
+RE-RUN
+tenex validate
+→
+PASS
+green · no human spent
+RUN 2 · A CLAIM WITHOUT EVIDENCE
+polished and wrong at the same time
+AGENT CLAIMS
+mark ticket 6 done
+→
+CHECK
+done requires linked evidence: PR, tests, sign-off
+→
+BLOCKED
+no evidence found · claim rejected
+→
+A PERSON DECIDES
+full context attached · judgment, not typing
+A precise failing check is a repair tool as much as a gate. What reaches a human is the claim that could not prove itself.
+
+An agent becomes more useful when it has the context to understand the objective, the tools to act, a bounded authority, observable criteria for progress, durable state, and a clear escalation path. Removing those constraints would not make it freer, only less certain, and would put a human back in the loop to repair the ambiguity. The goal was never maximum autonomy. It is to remove unnecessary dependence on human attention while making the moments that genuinely need a person easier to spot.
+
+Tenex OS makes the process legible to the team
+
+PRINCIPLE 7: STATUS IS DERIVED, NOT REPORTED.
+
+The same structured state powers Tenex OS, our human-facing surface. An engineer examines the work closest to the build, an engineering manager is kept abreast of planning and quality risk, and leadership can scan delivery health across all projects.
+
+A status report built off of memory is subjective at best, lossy at worst. When epics, specs, tickets, branches, and PRs are connected the system provides a verifiable source of truth & flags disagreements. If the system says a ticket is complete but evidence is missing, the inconsistency becomes visible. There are no surprises.
+
+FIG. 5 · STATUS THE TOOLING CAN CHECK
+TENEX OS · ONE RECORD, THREE ALTITUDES
+NO FIELD FOR HEALTH EXISTS. IT IS COMPUTED.
+ENGINEER
+ENGINEERING MANAGER
+LEADERSHIP
+PS-payments · my tickets
+derived from the record · read-only
+TEN-482 · add refund endpoint
+PR #211
+12 TESTS
+AC 4/4
+checked 4m ago
+READY TO MERGE
+TEN-486 · webhook replay guard
+DEPENDS ON TEN-482
+checked 4m ago
+BLOCKED
+TEN-491 · idempotency backfill
+NO PR
+AC 0/3
+validate: acceptance criteria are missing on this ticket
+NOT READY
+
+What an engineer needs: what is unblocked, what is missing evidence, and what the validator is rejecting right now.
+
+One record, three altitudes. Nobody assembles any of these views. Each is the same underlying facts read at a different zoom, which is why the three can never disagree with each other.
+The process learns from the work
+
+PRINCIPLE 8: LESSONS COMPOUND FOR EVERYONE.
+
+Each project can improve the system used to run the next one. A repeated planning gap becomes a new check. A useful way of investigating a codebase becomes a skill. A decision that keeps causing confusion becomes an explicit convention. A manual status reconciliation becomes a CLI command.
+
+Traditional organizations learn too, but that learning spreads through people, onboarding, and team culture. The added opportunity is to encode a lesson so it changes the default behavior of every relevant session, so improvements travel as tested, versioned changes instead of advice that depends on everyone hearing and remembering it.
+
+This is why the process itself becomes a durable asset. The client still gets the software, and the team gets better at producing software, because the system around the work retains what it learned.
+
+What the process expects of people
+
+An SDLC this automated can imply judgment has also been automated. This couldn’t be further from the truth. If anything, the standard we hold each other to continues to climb.
+
+Agents are like funhouse mirrors. Used well, they make a strong engineer dramatically more capable. Used carelessly, they let weak fundamentals produce spaghetti code and slop. The system multiplies judgment, it does not supply it.
+
+Let’s be clear: the job of an engineer has changed shape. Engineering is higher level and multithreaded now: articulating intent and architecture clearly enough that many agents can act on it, taking on harder problems because the cost of attempting them fell, steering a fleet of agents efficiently across time and tokens, and keeping the codebase from decaying while all of that happens at once.
+
+So the output is yours. There is no such thing as “Claude told me to do it.” If you merge it, send it, or show it to a stakeholder, you are accountable for it being right, and reading what you shipped is not optional. You make your bed. You’re responsible for sleeping in it.
+
+Where to start
+
+You can start this today, for free, in any codebase. It takes one project and a few weeks of discipline. If we were starting over, this is the order we would do it in.
+
+Start with three folders, not seven. What is true now, what we intend to build, and what happened. Put them in the repository next to the code, in markdown, and resist designing a taxonomy before you have used one. Add the scratchpad fourth, sooner than you expect, because the alternative is people putting rough notes into the canonical documents.
+
+Write one blueprint, for one real project. What you are building, why it matters, the major boundaries and decisions, the next few slices of work, and what must be true before each is accepted. This is the artifact that does the most work, and writing it with an agent takes hours rather than days.
+
+Adopt the fence rule on day one. Decide which parts of a document a machine may rewrite and mark them off, whether that is a code fence, a comment marker, or a separate file. Retrofitting this means untangling every document where a sync has already overwritten someone’s prose.
+
+Add one validator, however small. A script that flags tickets pointing at milestones that do not exist, or documents untouched since the architecture changed. One check is enough to change the failure mode: drift starts producing a failing check instead of a quiet surprise six weeks later.
+
+Give every session the same starting packet. Assemble it from those files, so orientation stops depending on whoever wrote the prompt that morning, and derive one view of project health from the record instead of asking a person to write one.
+
+Then watch where it strains. Wherever the record is missing, stale, or wrong is where your process currently runs on memory, and each one you fix compounds.
+
+Two honest limits. Below a certain size this is overkill: one team on one project drifts slowly enough that the ceremony costs more than it saves, and the approach pays for itself as concurrency grows. And it depends on one commitment technology cannot supply, which is writing things down. Validation exists because discipline alone eventually fails, but a team that refuses to write anything down has a different problem to fix first.
+
+What is actually different
+
+The old tradeoff placed detailed planning on one side and speed on the other, because humans maintained every part of the process by hand. Agents change that tradeoff. Structure increases speed when it removes repeated discovery, prevents incompatible work, gives every agent a reliable starting point, and makes failures easier to detect and repair.
+
+The practical test is whether a new agent can enter a project, understand the intended system, choose work that fits the current plan, load the company’s method for doing that work, prove what it changed, and leave the project easier for the next agent to understand. The test for the organization is whether engineers and managers can inspect that work across many projects without reconstructing reality from meetings and manually updated dashboards.
+
+If both are true, coding agents become more than faster implementers. They become participants in a development system that can take on more complexity without losing the thread.
+
+WORK WITH TENEX
+
+Whether you’re an engineering leader looking to reimagine your SDLC to be AI-native, or an enterprise executive trying to solve your hardest technical challenges with an A-team of forward deployed engineers, we can support you.
+
+Get in touch
+
+JOIN TENEX
+
+If you’re an AI-native engineer looking to live on the frontier and ship production AI systems for clients whose codebases run businesses worth billions.
+
+Join the Team
+
+KEEP READING
+
+AI ENGINEERING
+
+Does Your AI Agent Actually Work? A Guide to Eval-Driven Development
+
+Hand-testing a few prompts won't tell you if an agent is ready to ship. Learn the building blocks every eval platform shares, and a five-step loop for turning production failures into tests that keep them from coming back.
+
+AI ENGINEERING
+
+Kimi K3, explained: how forgetting made the biggest open model possible
+
+K3's answer is selective memory: preserve exact history in some layers and let the rest update a fixed state. That is how forgetting made a model this large practical.
+
+AI STRATEGY
+
+The PHP Crisis Was a Decision-Making Crisis
+
+What a stalled security fix in the software behind most of the web says about how teams make hard decisions.
+
+Stop debating AI. Start deploying it.
+Get Started
+
+2026 Tenex. All rights reserved.
+
+Blog
+Playbooks
+human@tenex.co
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=email name="email" id="article-newsletter-email" label="Email" placeholder="Email" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.tenex.co/#organization","name":"Tenex","url":"https://www.tenex.co","email":"human@tenex.co","logo":"https://www.tenex.co/assets/logomark.svg","image":"https://www.tenex.co/assets/live/open-graph.webp","description":"Your AI transformation partner. We set & execute your enterprise AI strategy at startup speed.","sameAs":["https://www.linkedin.com/company/tenex-co/","https://x.com/tenex"],"contactPoint":{"@type":"ContactPoint","email":"human@tenex.co","contactType":"sales"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.tenex.co/#website","name":"Tenex","url":"https://www.tenex.co","publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BlogPosting","headline":"Building an AI-Native SDLC","description":"Breaking down MetaHarness, the system behind Tenex's SDLC, the principles it runs on, and what changes when coding agents become partners in development.","url":"https://www.tenex.co/blog/building-an-ai-native-sdlc","mainEntityOfPage":"https://www.tenex.co/blog/building-an-ai-native-sdlc","image":"https://www.tenex.co/assets/blog/building-an-ai-native-sdlc-header.jpg","datePublished":"2026-08-05T00:00:00.000Z","dateModified":"2026-08-05T00:00:00.000Z","author":{"@type":"Person","name":"Alex Lieberman · Dan Zakon · CJ Hess · Arman Hezarkhani"},"publisher":{"@id":"https://www.tenex.co/#organization"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.tenex.co/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://www.tenex.co/blog"},{"@type":"ListItem","position":3,"name":"Building an AI-Native SDLC","item":"https://www.tenex.co/blog/building-an-ai-native-sdlc"}]}]
+

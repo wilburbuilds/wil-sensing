@@ -1,0 +1,352 @@
+URL: https://www.skool.com/ai-automation-society?c=fe7a8b086f9e4103b8e62138e7444bb6
+Fetched: 2026-10-26T03:49:35Z
+HTTP status: 200
+Final URL: https://www.skool.com/ai-automation-society?c=fe7a8b086f9e4103b8e62138e7444bb6
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Automation Society · Wins 🌟
+Meta description: Learn to get paid for AI solutions, regardless of your background.
+Canonical: 
+Robots: 
+H1: 
+
+AI Automation Society
+LOG IN
+Community
+Classroom
+Calendar
+Members
+Map
+Leaderboards
+About
+LOG IN
+Write something
+🔒 Q&A w/ Nate is happening in 11 hours
+All
+General Discussion 💬
+YouTube Resources 📚
+Support Needed 💻
+Hire Me / Looking For Hire 💰
+Wins 🌟
+Announcements📢
+MVPs🏆
+More...
+4
+Paul Cassin
+1d • 
+Wins 🌟
+day 4 build
+For my day 4 build I deployed my newsletter automation to send to my email once a month. Each month on the 14th I will receive my newsletter with new restaurants opening up in the area. I like the graphic it creates at the top as well, it's a nice touch. Not really any issues of note that had to be fixed with this one.
+10
+4
+New comment 20m ago
+3
+Lucie Gattepaille
+3d • 
+Wins 🌟
+Day 1 challenge ✅ … times three 🌈☠️🤯
+🌈 **It's a Wonderful World**: Sick of bad news? this newsletter is for you. Science wins, nature comebacks, and selfless humans. ☠️ **We Are Completely Doomed**: You like it dark... and even darker. What's going the wrong way, across climate, war, cybersecurity, AI risk, democracy and debt. Darkly funny, but every number is checked against its primary source. 🤯 **WTF**: regular people doing baffling things. This week: the world-record pumpkin that held the title for 7 days, men jousting on rental e-bikes, and in the Hall of Fame, the Frenchman who ate an entire Cessna 150 (it's a freaking PLANE). Each newsletter has its own design system: palette, typography, masthead, callout styles, even its own rating widget (the WTF-O-METER™). The footer of each one cross-promotes the other two. **How it works (one prompt in Claude Code: "send this week's WTF")** • Research: Claude Code's built-in web search plus a page fetcher. Every candidate story goes into a research.json audit trail with its source URL, so I can always trace where a number came from. • Writing: issue.json is the single source of truth. Every claim carries a footnote, and a validator checks every link is alive before anything ships. • Visuals in two layers: – Nano Banana Pro (via Kie.ai) for hero infographics and photo-style illustrations, all captioned "AI illustration". – Exact data charts drawn by a deterministic SVG tool, not by AI. I learned that AI-drawn bar heights are only roughly proportional, and for a data-heavy newsletter that isn't good enough. • Email: Jinja templates produce bulletproof table-based HTML. It goes out from my personal Gmail over SMTP with an App Password, images inline as CID attachments, under Gmail's 102 KB clipping limit. **Lessons** 1. Separate the AI from the arithmetic. Let Nano Banana make it beautiful; let code make it correct. 2. The Gmail API strips images from drafts. Real SMTP with inline attachments doesn't. 3. "Bot wall" ≠ dead link: IMF and UPI return 403 to scripts. Verify in a browser and don't drop a good source.
+18
+9
+New comment 21m ago
+2
+V K
+1d • 
+Wins 🌟
+Day 2 complete! ✅
+Update: Got the MCP server working! 🎉 What a battle... Kaspersky was blocking Node.js, and my config file had a broken API key with a missing hyphen. Took me a while to figure out, but adding NODE_OPTIONS=--use-system-ca and fixing the typo did the trick. Now firecrawl_scrape works exactly as intended. So worth it in the end! 🚀
+8
+3
+New comment 22m ago
+7
+Theresa Elliott
+🔥
+17h • 
+Wins 🌟
+My 10 Month Transformation from Zero to AI Full Stack Developer. Thanks Nate!
+When I joined here on December 25, 2025, I knew exactly ZERO about building with AI. If you're new here: I was you ten months ago today. I had zero knowledge of AI. I am a mom over 50 with a big family. I had 13 years in the Navy, 20 years in federal service, a personal transformation system I’d run since 2010, and a big dream. I’m posting today to say thank you to @Nate Herk and to share what happens when you show up and keep learning and invest in yourself. I joined Nate's AIS+ community recently, and attended last weekend's AIS Live Summit. It was time well spent. I am continuing to learn more from him over in AIS+, it's truly unbelievable how much knowledge Nate is capable of putting out! My goal is to use AI for the greatest human good. It's the most powerful technology humankind has ever had, and want to I build with it thoughtfully to help people achieve their highest good and make incredible personal transformations. AIS+ is where I an leveling up. Here’s what I can do now, 10 months after joining AIS, thanks to Nate and all his teaching: 🛠️ I build and ship real apps. On June 1st, I shipped my 28 Day Action Plan™ app, six months after joining here. It is live with paying members, runs in 50 languages, and has an AI coach built in. I build with Next.js, TypeScript, Supabase, and Vercel, and AI coding agents Claude Code and Codex are my build team. I learned how to do all this myself, thanks to being here. 🍎 In July 2026, I was accepted into the Apple independent developer program. That's just SEVEN MONTHS after joining here. I'm learning Swift, XCode, and how to develop apps for the newest foldable iPhone. 🤖 I build AI into real products in full stack development. Use MCP and API's to connect apps to AI models, set up backup models in case one goes down, and design safety rules for AI agents: spending limits, logs of everything they do, and an off switch. I even built my own AI operating system that remembers my whole business. I learned by trial and error, going back to Nate's videos when something didn't quite click.
+24
+25
+New comment 1h ago
+5
+Grant G
+Apr 22 • 
+Wins 🌟
+Day 1 Newsletter build.
+Hi everyone! 👋 I’m excited to share my Day 1 win: building my first newsletter using Claude Code. I learned a ton through the process—how Claude Code works, what goes into creating a newsletter from scratch, and where there’s room for improvement. Since this was my first time building something like this, it was a great hands-on experience. Honestly, I’m pretty impressed with how capable the AI is. The result turned out better than I expected—but as a beginner, I’m sure I’ve missed things I could improve. I’d really appreciate any feedback or suggestions on how I can make the newsletter better. Thanks in advance! 🙌
+314
+225
+New comment 4h ago
+6
+Victor Lausas
+3d • 
+Wins 🌟
+I’ll let you in on a little secret…
+You can create AI illustrations, posters and video avatars on your own computer - without monthly AI subscriptions. That’s how I generated this video, with a mere 8Gb of VRAM. If you run an agency, this isn’t just about saving a few euros on software. It’s about how much of every project fee you actually keep. Local AI isn’t flawless today. Some results need refining. Others go straight in the bin. The value is in that you can try again. Change direction. Explore another idea. Without watching a paid credit balance disappear. Today, the value isn’t in flawless execution. It’s in the freedom to keep iterating. Tomorrow? Both. Learn the technology today. Master it tomorrow. Want to learn how to put local AI to practical use? Comment below and follow me for more.
+12
+4
+New comment 4h ago
+6
+Victor Lausas
+19h • 
+Wins 🌟
+First local AI gen video with my own voice!
+Hi, I'm Victor A. Lausas, CEO of Arranz Group Ltd, CEO of North Atlantic Ltd, founder of Lausas Group, founder of NORAI Academy, 2x published author, and I have taught practical AI for over 3,500+ persons, among other things. I want to give you a free gift. So listen to the very end. I wrote a book a little while ago, it's about AI fundamentals. The book is a clear, practical guide for anyone who wants to truly understand how AI works, beyond the buzzwords, hype and marketing noise. It's designed for curious minds, professionals and decision-makers, and it explains the core concepts behind neural networks, data training, LLMs, transformers and more. There's no prior technical knowledge required, just a willingness to learn. The book is currently on sale for 20€, but I want you to have this book for free, so that you can read it at your own pace, and understand AI better. Hit like, share this and comment below, and I will send you the link.
+8
+1
+New comment 6h ago
+5
+Abhiruchi Gupta
+2d • 
+Wins 🌟
+Day 6: Scheduled Tasks and Loop
+Built two scheduled tasks today, one local and one cloud, to compare how they work. Local task: AI News Digest Made this one from the Claude desktop app. Every morning at 8am it pulls together 5-10 trending AI news stories into a digest. Because it’s local, it only runs when my computer is awake and online. Cloud task: Weekly AI Agency Content Ideas Made this with the /schedule command in VS Code. Every Monday at 10am it generates content ideas for an AI agency, and it doesn’t need my computer to be on. I also tried the /loop command for a few task reminders.
+8
+4
+New comment 6h ago
+4
+Raymond Simon
+14h • 
+Wins 🌟
+Day 6 - Scheduled automation
+Note: I can’t share any real data from this build. Everything below describes how it works. I built a weekly task that gives me two things in one go: a performance report and a hygiene check on how the team keeps its records. It runs on its own, once a week. Why I built it: I oversee four teams, each with a manager and reps. Our process is very manual. Reps log their own meetings in trackers and lead sheets and nothing checks whether they’re being kept up. Checking meant opening a lot of files by hand, which took a long time so it kept slipping. The performance report: - The month’s numbers for every rep, every team and the whole region: meetings booked, meetings sat, show rate and opportunities. - A check on whether the account executives are getting a fair share of the meetings, with gaps flagged. The hygiene check - for every rep, it checks that: - Their trackers are up to date in full, with no missing fields and no impossible dates. - Meetings in the past have an outcome recorded - Every meeting has a lead sheet I get a draft per team, ready to forward to each manager, plus a summary for me. Nothing is sent without me. What took the time: It was writing the instructions and pointing Claude to exactly where to go: which folders, which tabs, which files to read and which to ignore, who is on each team and what counts as a problem. The self-improving part: Mine reads a short status file (memory file) at the start and proposes an updated version at the end. It can’t write the file itself and I approve every update. That way it gets better each week without drifting on its own. Model used: Sonnet 5.5 - ran perfectly first time!
+9
+10
+New comment 7h ago
+8
+Yash Chauhan
+🔥
+2d • 
+Wins 🌟
+🏆 Weekly Wins Recap | October 17 – October 23
+From multi-month consulting contracts and back-to-back UpWork clients to #1 AEO rankings, hackathon wins, and 50 paid signups in 24 hours - the week after AIS Live kept the momentum going. 🚀 Standout Wins of the Week inside AIS+ 👉 @Gerard Vazquez closed a multi-month AI consulting + implementation contract with his first Australian client, working 4 days a week with a 20-person company. 👉 @Dean Razic landed two UpWork clients back-to-back — first a $2K project, then another $3K website build. 👉 @Nicole Jolie took a client from zero visibility to #1 in AEO, with no remaining AEO issues across the site. 👉 @Ronald Addico launched his Skool community and brought in 50 paid members plus 1,084 waitlist signups in under 24 hours — with zero paid ads. 👉 @Jeffery Gyamerah and his teammate won HackIAton, beating 350 teams across Panama, Ecuador, and Argentina. ⸻ 🎥 Super Win Spotlight | @Dennis Hettema Dennis had already spent months building Hello Revenue when he joined AIS+. He didn’t need more AI hype. He needed other serious builders who could challenge how he was thinking. Through live calls and conversations inside the community, he found the kind of human input AI couldn’t give him - different perspectives, context, and people willing to push back. That helped him break through technical roadblocks and improve the system he was building. Today, Hello Revenue is producing results across multiple industries and bringing in new clients. His biggest takeaway? AI is powerful. But if you’re serious about building, you still need great people around you. 🎥 Watch Dennis’s story 👇 ✨ Sometimes the breakthrough isn’t another model, prompt, or tool. It’s one conversation that helps you see the problem differently.
+87
+41
+New comment 8h ago
+6
+Divyanshu Gupta
+12h • 
+Wins 🌟
+I built an AI school admin assistant in n8n
+A school office loses hours every week to the same three jobs. Finding a substitute when a teacher is absent. Writing and sending parent notices. Chasing low attendance and pending fees. So I built one AI assistant in n8n that handles all three, right inside a Telegram chat. Staff just type a message, the way they would text a colleague. Here is what it does: 1) Teacher absent? Tell the assistant "Ms. Rao is absent tomorrow". It finds every period that needs cover, asks the free teachers with simple Yes / No buttons, and shares the final cover plan. If nobody is available, the principal is alerted. 2) Message for parents? The principal types one line. AI writes the notice in English and Hindi, the principal approves with one tap, and every parent in that class receives it by email. 3) Morning summary at 8am The principal gets a short briefing: students with low attendance, overdue fees, today's substitutions and what to do first. No new software to learn. The staff keep using an app they already know, and the school's data stays in a simple Google Sheet. Built with n8n, Telegram, Google Sheets, Gmail and AI. Attaching a demo video.
+3
+2
+New comment 9h ago
+3
+Atharva Ekbote
+22h • 
+Wins 🌟
+Lead Qualification & Appointment Booking System for a Plumbing Business
+I’ve been building an end-to-end automation system for a plumbing business using n8n, Google Gemini, Google Sheets, Google Calendar, and Gmail. The goal was to build a system that can collect incoming leads, understand their plumbing issues, identify urgent cases, check appointment availability, book appointments, and follow up with leads who haven’t booked yet. This is a working demo project that I built and tested to understand how these tools work together in a real business workflow. # What the system does - Lead collection: Captures customer details through a webhook form. - AI lead qualification: Uses Google Gemini to analyze the customer's plumbing issue and classify its urgency. - Lead management: Saves customer information, issue details, urgency, and lead status in Google Sheets. - Appointment booking: Checks availability in Google Calendar and creates an event when the requested slot is available. - Booking confirmation: Sends a confirmation email to the customer through Gmail. - Urgent lead alerts: Identifies urgent plumbing issues and routes them through a separate notification branch. - Automated follow-up: Checks eligible leads and sends follow-up emails to leads who haven't booked yet, while recording the follow-up timestamp to prevent repeated follow-ups. # What I tested - Customer details were saved in Google Sheets. - Gemini generated the lead qualification output. - Available appointment slots created calendar events. - Unavailable slots followed the alternative branch without creating an event. - Successful bookings updated the lead record and sent a confirmation email. - Urgent leads followed the urgent notification branch. - The follow-up workflow checked eligibility and dates, sent follow-up emails, and recorded the follow-up timestamp. 🚀 What I want to improve next(In Version 2): 1. SMS notifications — top priority I want to add SMS notifications so the plumbing business owner can receive urgent lead alerts directly on their phone, instead of relying only on email. This would make urgent requests easier to notice and respond to quickly.
+18
+8
+New comment 13h ago
+5
+Banks D
+18h • 
+Wins 🌟
+AIOS gets better with use
+Just another quick update The AIOS is a banger of a tool and is really time saving. As a control center of sorts i can work on any repo and set up projects directly from it. Also invoke skills and build stuff from scratch. Just did a full rebrand and created a product that am not sure will work but we did it anyway and considering all it cost me was just a $6 domain name, its an adventure of sorts Check out www.nowSorted.co.uk and let me have your feedback. Its still a work in progress. we have tried a lot of things and changed our mind over time. One main one is the ability to remove the need for typing by adding a voice note feature - turns out its more work than planned and we didnt have a budget for whispa so we removed it. Let me know what you think https://www.nowSorted.co.uk
+8
+1
+New comment 17h ago
+6
+Nei E Maldaner
+2d • 
+Wins 🌟
+GLOBAL SECURITY ALERT — Security Guide 2026
+GLOBAL SECURITY ALERT — Security Guide 2026 PHP, Python, Node.js, Next.js, Java and Digital Certificates: Is Your Infrastructure Exposed? October 2026 has brought a wave of critical cybersecurity threats affecting technologies used by millions of websites, businesses, cloud platforms, automation systems, and AI agents worldwide. Four major areas of concern: 1. PHP2Shell — Critical Server Vulnerabilities Newly disclosed PHP vulnerabilities could allow remote attackers to execute malicious code on vulnerable servers without authentication, potentially compromising entire websites and applications. 2. Node.js & Next.js — Critical Application Security Flaws New vulnerabilities affect Node.js and Next.js, including remote code execution risks, TLS certificate validation weaknesses, and security issues involving core dependencies. Developers and businesses running affected versions must update their systems. 3. Python & AI Infrastructure — Supply Chain and Certificate Risks Python-based applications and AI infrastructure face risks from compromised software dependencies and outdated certificate trust stores. Recent concerns include malicious LiteLLM packages and applications that may continue trusting compromised certificate authorities. 4. eMudhra — A Global Digital Trust Incident Eight certificate authority keys were identified as cryptographically weak. One was reportedly associated with the astonishingly simple private key value 4. This incident exposed serious weaknesses in digital certificate security and raised concerns about applications that had not updated their trust stores. IMPORTANT WARNING — BACK UP BEFORE UPDATING! Before updating any server, application, framework, or dependency, always create a complete backup and verify that it can be restored. WARNING: Security updates can break systems that are currently working perfectly! Older applications, legacy systems, libraries, and integrations may become incompatible with newer versions of PHP, Python, Node.js, Next.js, or other components.
+16
+9
+New comment 21h ago
+4
+Raymond Simon
+2d • 
+Wins 🌟
+Day 5 - Website Builder
+https://website-builder-orcin-nine.vercel.app/ Happy with this build. Didn't feel the need to change much. The interactive piece on the hero background it built on its own the first time. I kept it as is. For brand assets I had my logo but didn't have brand guidelines so went into plan mode with Claude to put that together which I thought was really cool. I liked the minimalist design, easy to read, added a few more calls to action and spent a bit of time making a few changes which helped me actually think about the message I'm sending and how its positioned but really like how this has come out.
+13
+2
+New comment 1d ago
+3
+Zaur Bahsaliev
+Jun 2 • 
+Wins 🌟
+AIOS
+Hi everyone, I'd love to get some inspiration on your daily AIOS workflows. In what industry and context are you currently using yours? A few weeks ago, I built my own AIOS via a web app to manage my AI agency. It handles all my lead tracking, customer projects, and other core tasks. I've also integrated Andrej Karpathy's LLM Wiki into the system. I'm excited to hear about your setups and use cases. Thanks in advance for sharing!
+13
+26
+New comment 2d ago
+2
+Toussaint Chevalier
+6d • 
+Wins 🌟
+I Survived Myself
+https://open.spotify.com/album/2LM87ON5HXjYpVMrQyKgMM?si=1aficDLkTBOVzGCdaU5EDA I SURVIVED MYSELF — A Soul-Stirring Journey Through Darkness, Healing & Self-Love What if the darkness you’ve been running from was never meant to destroy you—but to transform you? “I Survived Myself” is a powerful dramatic gospel, rock, neo-soul, and R&B fusion about confronting the shadow within, embracing your wounds, and discovering the strength that was hiding beneath the pain. This is a song about self-love, inner healing, shadow work, spiritual awakening, transformation, resilience, and coming home to yourself. From the quiet vulnerability of the opening piano to the explosive gospel-rock climax, the song follows a journey from shame and self-doubt to surrender, empowerment, and spiritual rebirth. The darkness becomes the teacher. The wounds become the canvas. The fire becomes the revelation. And the person you thought was broken becomes the person you were becoming. “I survived myself.” This song is for anyone who has battled their own thoughts, carried invisible wounds, struggled with their identity, experienced a dark night of the soul, or had to learn how to love themselves after years of simply surviving. It is a reminder that healing isn't always about becoming someone new. Sometimes, healing means finally remembering who you were all along. ✨ Themes: Self-Love • Shadow Work • Spiritual Awakening • Inner Healing • Personal Transformation • Resilience • Consciousness • Soul Evolution • Emotional Healing • Empowerment • Dark Night of the Soul 🎵 Musical Fusion: Dramatic Gospel • Neo-Soul • R&B • Soul • Rock • Gospel Choir • Cinematic Soul If this song speaks to something you've survived, leave a ❤️ in the comments and tell me: What part of yourself are you learning to love? Subscribe to Chevalier Films for AI filmmaking, consciousness music, metaphysical storytelling, spiritual awakening, and cinematic experiences exploring the deeper dimensions of human consciousness.
+7
+1
+New comment 2d ago
+5
+Paulo Costa, The Roaster
+5d • 
+Wins 🌟
+Please don't fall for the AI pyramid scheme!
+Bots selling AI funnels to other people who want to sell AI funnels using bots It all crumbles for those at the bottom because no real value is generated Just like coaches coaching coaches on how to coach but fancier Create something that has real skill behind it and put some real human work in your outreaches Don't push AI generated slop with bots and call it passive income Seriously, don't waste your tokens bothering others
+21
+11
+New comment 2d ago
+3
+Ottis Phillips
+4d • 
+Wins 🌟
+Day 2 done ✅ web scraper, no code
+hooked Claude Code up to the Firecrawl MCP and asked it in plain English to scrape the hacker news jobs page into a spreadsheet got back a clean CSV of 30 jobs (29 YC startups), with the messy titles split into proper columns. felt like cheating lol what i learnt: - Make a cheat sheet. firecrawl has loads of tools, so i had claude write one into CLAUDE.md and now it picks the right tool every time (pic 3) - Test one page first. free plan is 500 credits, they go fast - Use maxAge: 0 if you need fresh data, otherwise you might get a cached copy - Login walls = empty data, worth knowing before you panic Thanks, Nate 🙏 next up: a monitor that pings me when new jobs drop. anyone tried firecrawl monitors yet? 👇
+12
+9
+New comment 3d ago
+6
+Zia Shafique
+7d • 
+Wins 🌟
+Let’s Go Back to March 2022 🚀
+My first big project was a complete psychics consultation platform with user dashboards, admin panels, and real-time chat, audio, and video calling. The legacy PHP system had around 22 header files to deal with. The deal was PKR 70,000. The client sent me PKR 10,000 in advance, and I was so excited that I spent PKR 1,000 celebrating! 😂 Then reality hit. I got stuck, refunded PKR 9,000, and nearly gave up. Five days later, I contacted the client again and asked for another chance. He trusted me, we renegotiated the project to PKR 90,000, and I completed it. That relationship eventually brought me around PKR 400,000 in work. Later, the same client hired me for another separate psychics platform worth PKR 1 million. I didn't close that next deal with a fancy sales pitch. I earned it by delivering the first project and building trust. What's your biggest bottleneck right now: finding clients, technical challenges, closing deals, or scaling your business? Let's discuss and learn from each other. 👇 #Entrepreneurship #SoftwareDevelopment #SaaS #ClientRelationships
+9
+6
+New comment 3d ago
+5
+J. Duenas
+5d • 
+Wins 🌟
+Mindset Shift
+So I have been messing with my the EA that I built and setting things up and tailoring it where needed. While doing this, I began building skills that create social media posts, waits for my approval and then schedules it using Postiz. So of course I began trying to do this myself, figured set up a the self-hosted version on a linux machine I have lying around. As I began do do this, I ran into issues setting it up almost immediately. The it hit me, why am I doing this myself, so I took the link for installing self-hosted Postiz and told Claude my end goal and what I wanted done. Talk about a game changer. There were so many issues and troubleshooting that I know I would have given up on (basic tech understanding) but Claude would just identify and fix it or check in with me to make sure I was ok with what it was doing. In the end, everything was set up properly and was able to have a post created and scheduled, but unfortunily I guess since it is self hosted there is an issue with Postiz being able to access media images on my machine. The workaround identified was creating a Clouflare bucket for the images and media, which I will eventually do. For now, I using a combination of having my EA create the posts, then utilizing the Meta Business Suite to schedule the posts. This was a suggested work around by Claude to at least get things going while look at alternatives. This was the exact thing I needed to really cement that Mindset shift. I like doing things on my own and fixing issues, but sometimes, it is just more efficient and practical to start with AI.
+10
+8
+New comment 3d ago
+5
+David R
+3d • 
+Wins 🌟
+I highly recommend Matts course
+[attachment]
+4
+2
+New comment 3d ago
+3
+Gregg Blazer
+3d • 
+Wins 🌟
+🎁GIFT for You Nate after watching Soo Many of your YouTube Videos!
+@Nate Herk 🙏I am not pitching anything, I 100% only want the HONOR and Privilege to be the first to give you a free GROK 3.0 full Voice AI Calling Agency White-Label platform where you can create your own Sub-Accounts and calling agents, inbound, outbound with full crm, all live call transcriptions, human transfer/takeover, reporting and any integration you may need via API, MCP, webhooks, anything.. all there. No, it's not a wrapper like GHL, Vapi, or Synth either; this is as native, direct AI platform as it gets online, one of the half-dozen online that are. After I getting close to a HUNDRED of your YT vids you make and how much you use AI, I wanted to have the HONOR to give you this FREE First since it is the most Bleeding Edge and best Voice AI out right now and we have always been leaders in first implementation in this space for over 2yrs now. Here please see GROK VOICE 3.0 demoed for the first time inside a full agency platform here: https://youtu.be/X8zN52FL6Tg where I'm playing with the Newest GROK 3.0 Voice, so you know this is a serious platform and not a rip of eastern knockoff or some hack. You may find this is the most easiest to use, setup and integrate Voice AI platform out there that is "NOT" a wrapper like GHL, Vapi, Syth, etc, majority of all others. There is not often I get a real chance to give back, but since I am the founder of this platform we created and have had going over 2yrs now, I really wanted to give you a totally FREE Voice AI calling Platform all setup with the latest GROK API's just for you and your team mate! 😊 It's already all setup on GitHub and you can either do the self host, OR I am happy if you simply want an account on our platform and make your own sub-accounts as well. That is easiest, and less than 1:45min to create a live agent. I hope I am not breaking any rules by wanting to give you this gift, I am just not sure HOW for you to see any of my posts or get in touch with you any other way in time with thousands and thousands of people and messages. I am not pitching you, I am honestly giving this to you for FREE bro and would honestly LOVE your Feedback from your experiance and comparision with any others you've tried.
+2
+0
+New comment 3d ago
+5
+Banks D
+3d • 
+Wins 🌟
+A cool discovery - AIOS capability
+I just mistakenly discovered that the aios is more of a massive control center for me. I asked it to rebrand and recreate a website for me and it is setting up folders, connecting local files to github and literally building the app from within the aios repo/vscode itself Hoow cool is that. and theres more i beleive it can do as we push it further
+9
+7
+New comment 3d ago
+4
+Eddie Bou Khalil
+4d • 
+Wins 🌟
+Closed my first client for $1,500 with AI editing
+Closed my first client for $1,500. Fulfillment took less than a day. The setup is Claude Code + Remotion. I trained it on one editing style in about a day, and now it edits on its own. 20+ edits overnight with zero input from me. That's what makes it a good thing to sell. The work is fast and my only cost is my Claude subscription. Setup walkthrough here: https://youtu.be/bXAZI-W4xYM For those of you selling AI services, how did you land your first client?
+23
+18
+New comment 3d ago
+3
+Jonathan Bounds
+6d • 
+Wins 🌟
+Day one: newsletter build complete!
+Well, that was a ton of fun! Check it out and feel free to let me know what you think feedback is always welcome.
+24
+10
+New comment 3d ago
+3
+Ottis Phillips
+4d • 
+Wins 🌟
+Day one newsletter build done 🙌 before vs after (and what i learnt)
+ok so this took me way longer than i thought it would lol but i’m actually pretty chuffed with how it turned out basically its a newsletter that does the research, writes it, makes the charts, builds the email and sends it to my gmail, all from one command. first draft worked but it looked... generic. so i grabbed a screenshot of a newsletter design i liked, gave it to claude and said “make it look more like this”. it rebuilt the whole template. dark theme, numbered key takeaways, proper charts. you can see the difference in the pics, pretty wild few things i learnt along the way: the AI image stuff couldnt get numbers right. the infographics kept coming out with garbled stats, so i switched to charts made in code instead. free and accurate, should’ve done that from the start show it, dont describe it. i spent ages typing “make it modern and clean” and got nothing good. one screenshot and it nailed it first go gmail sending was a pain ngl. the OAuth bit just sat there hanging and i thought it was broken, but it was waiting for me to click a link 🤦‍♂️ the “app not verified” screen also freaked me out, turns out thats normal always send a test copy to yourself first. caught a couple of things i wouldve been embarassed to send out lol the WAT setup (workflows, agent, tools) just clicked for me. claude does the thinking and the python scripts do the boring bits, so it doesnt fall over halfway through massive thanks to Nate for putting all this together, genuinely wouldnt of known where to start without the lessons. and to everyone in here sharing their builds, seeing what you lot are making is what got me to stop watching and actually try it 🙏 next up i want to get it running on a schedule so it just shows up every week. anyone done that yet? how’d you set it up? feedback welcome, next step.. improve the selection and quality of the scraping/info populated.. looking forward to firecrawl lessions xD Peace
+16
+5
+New comment 3d ago
+4
+Abdul Rehman
+Sep 9 • 
+Wins 🌟
+DAY 4 - skill builder files
+i have imported the files for the skill builder but i havent made the automated skill, i will make the linkedin post generater and poster with it, but for anyone who cant find the SKILL-BUILDER files, here are the files i have attached here
+22
+9
+New comment 3d ago
+5
+Robertas Cesynas
+7d • 
+Wins 🌟
+My second website ever, built with Codex
+I’m moving from landscaping into AI, and I’ve built my second website ever using Codex. It’s for my landscaping business, ATD, with a portfolio of projects we’ve actually completed. Here’s the English version: https://new.atd.lt/en Still a preview before launch. What do you think? Does it look good? Any suggestions on the design, portfolio or mobile experience?
+11
+14
+New comment 4d ago
+5
+Banks D
+7d • 
+Wins 🌟
+Mobile AIOS - coolest monitoring on the go tool ever
+Hi there I was eventually able to blow up my dashboard and even host it on coolify with a real subdomain I took it further by adding a clients airbnb / lodgify business to help monitor email and events and i am amazed that it actually connected effortlessly via api. Now i can see bookings. messages and other events as they unfold as the aios pulls on data every 5minutes. I have other things i am thinking of adding as i am just getting started, Its a project for a firend so i made nothing from it but learned a lot and it goes on my portfolio quickly for other clients to see whats possible Best experience ever
+7
+6
+New comment 4d ago
+Previous
+1
+2
+3
+4
+5
+...
+102
+Next
+1-30 of 3,055
+AI Automation Society
+skool.com/ai-automation-society
+Learn to get paid for AI solutions, regardless of your background.
+475.3k
+Members
+1k
+Online
+16
+Admins
+JOIN GROUP
+Leaderboard (30-day)
+1
+Muskan Ahlawat
+🔥
++4331
+2
+Nigel Vargas
++3941
+3
+Christian Rivadeneira
+🔥
++3048
+4
+Julius Waggoner
++2204
+5
+Ameeth B.
++1706
+See all leaderboards
+Powered by
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+Form 2: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+

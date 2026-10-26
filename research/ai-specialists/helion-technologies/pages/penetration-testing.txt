@@ -1,0 +1,268 @@
+URL: https://heliontechnologies.com/penetration-testing/
+Fetched: 2026-10-26T03:51:47Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/penetration-testing/
+Content-Type: text/html
+Via: chrome-headless
+Title: Penetration Testing for Dealerships | Helion
+Meta description: Penetration testing for dealerships, done by a person once a year, plus vulnerability scans every 6 months, so you find the way in before attackers do.
+Canonical: https://heliontechnologies.com/penetration-testing/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Penetration Testing and Vulnerability Scanning for Dealerships
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+
+CYBERSECURITY AND COMPLIANCE
+
+Penetration Testing and Vulnerability Scanning for Dealerships
+
+Find the way into your network before a cybercriminal does. Annual human-led penetration testing and vulnerability scans every 6 months, from a team that works only with car and truck dealerships.
+
+Request a Complimentary Assessment →
+
+Penetration testing for dealerships is a yearly attempt by a skilled person to break into your stores’ network the way a cybercriminal would, paired with vulnerability scans at least every 6 months that look for known weaknesses first.
+
+Last updated: October 18, 2026
+
+The firewall at every rooftop
+Guest Wi-Fi in the customer lounge
+Shared logins at the parts counter
+Remote access a vendor never gave back
+The PC in the back nobody updated
+Tested by a person, not only a scanner
+A Scan Lists the Doors. A Tester Tries Them.
+
+Ask a GM how many ways there are into the store’s network and you’ll get a guess. The real number is higher. A store collects them over the years, one vendor visit and one new building at a time. A vulnerability scan checks every one it can reach against a list of publicly known weaknesses. A penetration test is a person who takes what the scan found, and what it missed, and tries to get from the guest Wi-Fi to your customer files.
+
+Both belong in cybersecurity for dealerships, because the attacks are real. CDK Global’s research found 35% of auto dealers had a cyberattack or incident in 2024. We test once a year, and a person does it. Our vulnerability monitoring runs twice a year, and both sit inside Helion Technologies’ compliance program. Want the textbook version first? Our explainer on vulnerability assessments and penetration testing covers it. This page is the service.
+
+A scanner reports what it was told to look for. A person looks for what nobody thought of.
+
+KNOW WHAT YOU’RE BUYING
+
+Vulnerability Scan or Penetration Test? You Need Both.
+
+The two get mixed up all the time, sometimes on purpose. They aren’t the same job. The table puts penetration testing for dealerships next to the scans that feed it.
+
+Question
+	Vulnerability scan	Human-led penetration test
+Who does the work	Software, checking every system it can reach against a list of publicly known weaknesses	A skilled tester, starting from the scan results and using judgment to try to get in
+How often the Safeguards Rule asks for it	At least every 6 months, and again after a material change to your operations	Once a year, scoped to the risks your risk assessment found that year
+What it finds	Missing patches, open ports, outdated software and weak settings	Whether those small weaknesses chain together into a real path to customer data
+What it can’t tell you	Whether anyone could actually use what it found	What happens next week, since it’s a close look at one moment in time
+What you get back	A long list of findings, ranked by severity	How far the tester got, and which gaps to close first
+
+Watch for automated scans sold as penetration tests. They cost less and the report looks official, but nobody tried anything. That’s why Helion’s annual testing is led by a person. Curious what an attacker could reach once inside, before you commit to anything? Our complimentary Hackability Test shows you from the inside.
+
+The Team Behind the Testing
+2,000+
+Automotive and heavy truck dealerships
+35,000+
+Dealership employees supported daily
+82 sec
+Average time to reach a live support agent
+98%
+Client retention rate
+
+We’ve worked only with car and truck dealerships since 1997. That helps in a pen test. Our people have been inside a lot of dealership networks over the years, so they already know where stores tend to leave a door open, and they don’t spend your testing time working through a generic checklist built for a law firm or a dentist’s office. That’s the point.
+
+A Pen Test Is a Snapshot. Monitoring Is the Alarm.
+
+We’ve said this for years, and it still surprises people. A penetration test tells you how your network held up during the days somebody was testing it. If a cybercriminal gets in the week after the tester packs up, through a phishing email or a vendor’s stolen password, the report sitting in the controller’s office won’t do a thing to stop them. That’s also why the FTC Safeguards Rule lets a dealership skip the annual test and the 6-month scans only if it runs effective continuous monitoring instead.
+
+Our advice is to have both. Around-the-clock monitoring, through managed detection and response, is what catches an attack while it’s happening, and our incident response team takes it from there. Testing and scanning are how you find the weak spots before anybody uses them, and how you check that the monitoring and your other safeguards really work. A scan nobody acts on is just a list. That’s the trouble with buying one on its own.
+
+Testing finds the holes. Monitoring watches them.
+
+Annual penetration test
+
+A person tries to get in, using what the scans found and looking hard for what they didn’t.
+
+One moment, looked at closely.
+
+Continuous monitoring
+
+Security analysts watch for signs of an attack around the clock, every day of the year.
+
+Every other moment, covered.
+
+THE COMPLIANCE SIDE
+
+What the FTC Safeguards Rule Asks For
+
+Testing sits in section 314.4(d) of the rule. At Helion it lives in the compliance program, next to the written risk assessment and vendor risk rating, and apart from security awareness training. We also built our own compliance scanning tool rather than reselling someone else’s. Here’s what the section says, without the legal phrasing.
+
+FEWER THAN 5,000 CONSUMERS?
+
+Section 314.6 exempts a dealership holding customer information on fewer than 5,000 consumers from the testing requirement. Count before you assume either way, and read our FTC Safeguards Rule checklist for the rest.
+
+Section 314.4(d), clause by clause
+What each part asks a dealership to do
+
+(d)(1) Test or monitor what you’ve built
+
+You have to regularly test or otherwise monitor whether your safeguards work, including the ones meant to spot an attack or an intrusion. Buying a firewall isn’t the finish line. Someone has to show it’s doing its job, and keep showing it.
+
+Prove it works.
+
+(d)(2)(i) A penetration test every year
+
+Without effective continuous monitoring, you need annual penetration testing of your information systems, scoped each year to the risks your risk assessment identified. Added a store since last year? Moved to a new DMS? Then last year’s scope is out of date.
+
+Scoped to this year’s risks.
+
+(d)(2)(ii) Vulnerability scans every 6 months
+
+Vulnerability assessments, including scans for publicly known weaknesses, at least every 6 months. The rule also wants one whenever there’s a material change to your operations or business arrangements, and whenever something happens that you know, or have reason to know, could seriously affect your information security program.
+
+And after big changes.
+
+How Penetration Testing Starts
+1
+Request the assessment
+
+Fill in the short form for our complimentary IT and cybersecurity assessment. There’s no cost and no obligation, and you don’t need to be shopping for a new provider.
+
+2
+We look at what’s exposed
+
+An engineer reviews your stores, your network and who has remote access, and asks when your last test and scan were, and what actually happened to the findings after the report came in.
+
+3
+Findings arrive in writing
+
+You see where you stand on testing, monitoring and the rest of the Safeguards Rule, store by store.
+
+4
+You decide what’s next
+
+Keep your current tester, or let us run the annual test and the 6-month scans in our compliance program. Onboarding starts within weeks of signing. On the co-managed path your own IT manager stays in charge.
+
+More on Testing, Monitoring and the Rule
+
+What a test can and can’t do, the monitoring that pairs with it and where it fits in Safeguards compliance.
+
+Pen tests vs vulnerability assessments
+The textbook difference, in plain terms.
+→
+A warning about pen tests
+Why a test alone won’t stop an attack in progress.
+→
+The worthless vulnerability scan
+A list of holes nobody fixes isn’t security.
+→
+Hackability Test
+What an attacker could reach once inside your network.
+→
+Managed detection and response
+The around-the-clock monitoring that pairs with testing.
+→
+FTC Safeguards compliance
+Risk assessments, testing and the rest of the rule.
+→
+Cyber risk assessments
+The document that sets each year’s test scope.
+→
+Software patching
+The fix behind most scan findings.
+→
+Security awareness training
+The people side, kept separate from testing.
+→
+Incident response plan template
+What to do when a tester, or an attacker, gets in.
+→
+Dealership acquisition IT
+Buying a store is a material change worth a fresh scan.
+→
+FTC Safeguards Rule checklist
+Where testing sits among the rule’s other requirements.
+→
+Safeguards Rule requirements
+Every section of 16 CFR 314, in plain English.
+→
+Continuous threat monitoring
+What separates monitoring that works from monitoring that doesn’t.
+→
+Co-managed responsibility matrix
+Who owns scanning and pen testing when IT is shared.
+→
+Safeguards Rule for heavy truck dealers
+How the testing requirement applies to truck stores.
+→
+Common Questions
+
+NOT SURE WHEN YOUR LAST REAL TEST WAS?
+
+A complimentary IT and cybersecurity assessment answers that in writing. Already know what you need? Get a price quote.
+
+Does the FTC Safeguards Rule require penetration testing for dealerships?
+What’s the difference between a vulnerability scan and a pen test?
+Can an automated scan count as a penetration test?
+We already have continuous monitoring. Do we still need a pen test?
+How often should a dealership scan for vulnerabilities?
+Is penetration testing part of Helion’s security awareness training?
+
+Somebody is going to test your network this year. Better that it’s someone working for you.
+
+Request a Complimentary Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/penetration-testing\/","url":"https:\/\/heliontechnologies.com\/penetration-testing\/","name":"Penetration Testing for Dealerships | Helion","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/penetration-testing\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/penetration-testing\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/penetration-testing-for-dealerships.webp","datePublished":"2026-10-18T15:49:48+00:00","dateModified":"2026-10-18T15:56:20+00:00","description":"Penetration testing for dealerships, done by a person once a year, plus vulnerability scans every 6 months, so you find the way in before attackers do.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/penetration-testing\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/penetration-testing\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/penetration-testing\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/penetration-testing-for-dealerships.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/penetration-testing-for-dealerships.webp","width":1200,"height":630,"caption":"Penetration testing and vulnerability scanning for dealerships, from Helion Technologies."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/penetration-testing\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Penetration Testing and Vulnerability Scanning for Dealerships"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]}]}
+{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://heliontechnologies.com/penetration-testing/","url":"https://heliontechnologies.com/penetration-testing/","name":"Penetration Testing and Vulnerability Scanning for Dealerships","description":"Penetration testing for dealerships, done by a person once a year, plus vulnerability scans every 6 months, so you find the way in before attackers do.","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"inLanguage":"en-US","primaryImageOfPage":{"@type":"ImageObject","url":"https://heliontechnologies.com/wp-content/uploads/2026/10/penetration-testing-for-dealerships.webp","width":1200,"height":630},"about":[{"@type":"Thing","name":"Penetration testing","description":"A human-led attempt to break into a dealership network the way a cybercriminal would, to find which weaknesses lead to customer data."}],"mentions":[{"@type":"Thing","name":"Vulnerability scanning","alternateName":"Vulnerability assessment","description":"Automated checks of information systems against publicly known security weaknesses."},{"@type":"Thing","name":"Continuous monitoring","description":"Around-the-clock monitoring of a network for signs of an attack, the alternative the FTC Safeguards Rule allows to annual penetration testing and 6-month vulnerability assessments."},{"@type":"Legislation","name":"FTC Safeguards Rule","legislationIdentifier":"16 CFR Part 314","legislationJurisdiction":"US","url":"https://www.law.cornell.edu/cfr/text/16/314.4"}],"hasPart":[{"@type":"WebPageElement","name":"Vulnerability scan or penetration test","url":"https://heliontechnologies.com/penetration-testing/#scan-vs-test"},{"@type":"WebPageElement","name":"A pen test is a snapshot, monitoring is the alarm","url":"https://heliontechnologies.com/penetration-testing/#monitoring"},{"@type":"WebPageElement","name":"What the FTC Safeguards Rule asks for","url":"https://heliontechnologies.com/penetration-testing/#the-rule"},{"@type":"WebPageElement","name":"How penetration testing starts","url":"https://heliontechnologies.com/penetration-testing/#how-it-starts"}],"significantLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/cybersecurity/","https://heliontechnologies.com/hackability-test/","https://heliontechnologies.com/compliance/"],"relatedLink":["https://heliontechnologies.com/it-assessment/","https://heliontechnologies.com/cybersecurity/","https://heliontechnologies.com/vulnerability-assessments-penetration-testing-whats-the-difference/","https://heliontechnologies.com/hackability-test/","https://heliontechnologies.com/ftc-safeguards-rule-requirements/","https://heliontechnologies.com/managed-detection-and-response/","https://heliontechnologies.com/ftc-safeguards-rule-checklist/","https://heliontechnologies.com/co-managed-it/","https://heliontechnologies.com/a-warning-about-pen-tests/","https://heliontechnologies.com/the-worthless-vulnerability-scan/","https://heliontechnologies.com/compliance/","https://heliontechnologies.com/steps-to-performing-a-cyber-risk-assessment/","https://heliontechnologies.com/software-security-patching-a-potential-hole-in-dealership-cybersecurity/","https://heliontechnologies.com/security-awareness-training/","https://heliontechnologies.com/incident-response-plan-template/","https://heliontechnologies.com/dealership-acquisition-it/","https://heliontechnologies.com/valuable-vs-worthless-continuous-threat-monitoring/","https://heliontechnologies.com/co-managed-it-responsibility-matrix/","https://heliontechnologies.com/heavy-truck-dealership-ftc-safeguards-rule/","https://heliontechnologies.com/price-quote/"],"citation":[{"@type":"CreativeWork","name":"16 CFR 314.4 Elements of the information security program","url":"https://www.law.cornell.edu/cfr/text/16/314.4","publisher":{"@type":"Organization","name":"Legal Information Institute, Cornell Law School"}},{"@type":"CreativeWork","name":"16 CFR 314.6 Exceptions","url":"https://www.law.cornell.edu/cfr/text/16/314.6","publisher":{"@type":"Organization","name":"Legal Information Institute, Cornell Law School"}},{"@type":"CreativeWork","name":"Automobile Dealers and the FTC's Safeguards Rule: Frequently Asked Questions","url":"https://www.ftc.gov/business-guidance/resources/automobile-dealers-ftcs-safeguards-rule-frequently-asked-questions","publisher":{"@type":"Organization","name":"Federal Trade Commission"}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}},{"@type":"Service","@id":"https://heliontechnologies.com/penetration-testing/#service","name":"Helion Penetration Testing and Vulnerability Scanning for Dealerships","serviceType":"Penetration testing","description":"Helion Technologies provides annual human-led penetration testing, not automated scans, and semi-annual vulnerability monitoring for automotive and heavy truck dealerships as part of its compliance program, from a team that supports 2,000+ dealerships and 35,000+ dealership employees daily with a 98% client retention rate.","url":"https://heliontechnologies.com/penetration-testing/","provider":{"@id":"https://heliontechnologies.com/#organization"},"areaServed":{"@type":"Country","name":"United States"},"audience":{"@type":"BusinessAudience","audienceType":"Automotive and heavy truck dealerships and dealer groups"},"hasOfferCatalog":{"@type":"OfferCatalog","name":"Helion IT and security services for dealerships","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dealership cybersecurity","url":"https://heliontechnologies.com/cybersecurity/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"FTC Safeguards compliance","url":"https://heliontechnologies.com/compliance/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Managed detection and response","url":"https://heliontechnologies.com/managed-detection-and-response/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Security awareness training","url":"https://heliontechnologies.com/security-awareness-training/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Hackability Test","url":"https://heliontechnologies.com/hackability-test/"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"IT and cybersecurity assessment","url":"https://heliontechnologies.com/it-assessment/"}}]}},{"@type":"FAQPage","@id":"https://heliontechnologies.com/penetration-testing/#faq","url":"https://heliontechnologies.com/penetration-testing/","isPartOf":{"@id":"https://heliontechnologies.com/#website"},"about":{"@id":"https://heliontechnologies.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]},"mainEntity":[{"@type":"Question","name":"Does the FTC Safeguards Rule require penetration testing for dealerships?","acceptedAnswer":{"@type":"Answer","text":"It does, unless the dealership runs effective continuous monitoring instead. Section 314.4(d)(2) asks for annual penetration testing and vulnerability assessments at least every 6 months as the alternative, and the FTC's FAQ for auto dealers says the same. Stores holding information on fewer than 5,000 consumers are exempt from that part."}},{"@type":"Question","name":"What's the difference between a vulnerability scan and a pen test?","acceptedAnswer":{"@type":"Answer","text":"A scan is software and a pen test is a person. The scan checks your systems against a list of publicly known weaknesses, while the tester tries to use those weaknesses, and others, to actually get in. You need the scan to find the holes and the test to learn which of them matter, because a list of 200 findings doesn't tell your controller where to spend the money first."}},{"@type":"Question","name":"Can an automated scan count as a penetration test?","acceptedAnswer":{"@type":"Answer","text":"Not in our view. Software can't make the judgment calls an attacker makes, like noticing that a loose guest Wi-Fi setting and a shared login in the service department together open a path all the way to the DMS. Some low-priced \"pen tests\" are scans with a new label, so ask who does the testing. At Helion, a person does."}},{"@type":"Question","name":"We already have continuous monitoring. Do we still need a pen test?","acceptedAnswer":{"@type":"Answer","text":"Strictly by the rule, effective continuous monitoring can stand in for the annual test and the 6-month scans. We'd still do both. Monitoring catches an attack in progress, and testing finds the weak spot before it's used and checks that the monitoring works. Our managed detection and response page covers the monitoring side."}},{"@type":"Question","name":"How often should a dealership scan for vulnerabilities?","acceptedAnswer":{"@type":"Answer","text":"At least every 6 months, which is Helion's own cadence for vulnerability monitoring. The rule also calls for a new assessment after a material change to your operations, so buying a store, opening a new building or moving to a different DMS are good moments for one. Our page on dealership acquisition IT covers the buy-sell side."}},{"@type":"Question","name":"Is penetration testing part of Helion's security awareness training?","acceptedAnswer":{"@type":"Answer","text":"No, the two are kept apart. Annual penetration testing lives in Helion's compliance program, and security awareness training sits in managed security, because one tests your systems and the other builds your staff's habits. Most dealerships need both."}}]},{"@type":"HowTo","@id":"https://heliontechnologies.com/penetration-testing/#howto","name":"How penetration testing for dealerships starts with Helion","description":"Four steps from requesting the complimentary assessment to deciding who runs the annual test and the 6-month scans.","step":[{"@type":"HowToStep","position":1,"name":"Request the assessment","text":"Fill in the short form for our complimentary IT and cybersecurity assessment. There's no cost and no obligation, and you don't need to be shopping for a new provider."},{"@type":"HowToStep","position":2,"name":"We look at what's exposed","text":"An engineer reviews your stores, your network and who has remote access, and asks when your last test and scan were, and what actually happened to the findings after the report came in."},{"@type":"HowToStep","position":3,"name":"Findings arrive in writing","text":"You see where you stand on testing, monitoring and the rest of the Safeguards Rule, store by store."},{"@type":"HowToStep","position":4,"name":"You decide what's next","text":"Keep your current tester, or let us run the annual test and the 6-month scans in our compliance program. Onboarding starts within weeks of signing. On the co-managed path your own IT manager stays in charge."}]}]}
+

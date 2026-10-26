@@ -1,0 +1,169 @@
+URL: https://schemaoperations.com/webinars/
+Fetched: 2026-10-26T03:33:32Z
+HTTP status: 200
+Final URL: https://schemaoperations.com/webinars/
+Content-Type: text/html
+Via: chrome-headless
+Title: Stop being the system: live webinar — Schema Ops
+Meta description: A live 30-minute working session, plus 15 minutes of Q&A, for founders under $10M who want the company off their desk without a year-long implementation. Sunday, November 15, 9 AM ET. $99.
+Canonical: https://schemaoperations.com/webinars/
+Robots: 
+H1: Stop being the system.
+
+Skip to content
+S
+SchemaOps
+Services
+Webinars
+Writing
+About
+Get in touch
+
+LIVE WEBINAR
+
+Stop being the system.
+
+A 30-minute working session for founders under $10M, plus 15 minutes of Q&A.
+
+How to get the company off your desk without a year-long implementation. You'll work on your own week, live, and leave with the first function to move.
+
+15
+November
+
+Sunday, 9 AM ET
+30 min + 15 min Q&A
+
+That's Sunday, 2:00 PM UTC where you are.
+
+21 days away.
+
+Reserve your seat
+
+$99
+one seat, live on Nov 15
+
+Name
+Email
+Company optional
+Annual revenue
+Choose one
+Under $1M
+$1M–$2M
+$2M–$5M
+$5M–$10M
+$10M+
+What breaks when you step out? optional
+Website
+Continue to payment, $99
+
+Secure payment with Stripe. Your confirmation, join link and calendar invite arrive by email.
+
+WHO IT'S FOR
+
+This is for you if
+You run a business under $10M and you're still in the middle of everything.
+Meetings drag, and you don't know the numbers each week.
+You can't step away without things slowing down.
+You looked at EOS and it felt like too much: too long, too many meetings, too expensive.
+You want the company to grow, and you want a life outside it.
+
+THE SESSION
+
+What we'll cover in 30 minutes
+
+A working session, not a lecture, then 15 minutes for your questions. Bring your own company.
+
+0:00
+Why the company still runs through you
+
+Design, margin and inputs: the three problems that keep a company in stage one, and how to tell which one is yours.
+
+0:05
+KEEP, GIVE, KILL
+
+Every yes that hits you is one of three things. We sort your own last week, live.
+
+0:15
+The five pieces
+
+Seats, a weekly scorecard, quarterly goals, the growth engine and one weekly meeting. What each one is, and the smallest version that works.
+
+0:25
+Your first function
+
+The one to move off your desk first, who owns it, and what done looks like.
+
+0:30
+15 minutes of Q&A
+
+Bring what breaks when you step out.
+
+YOU'LL LEAVE WITH
+
+Three things, from your own company
+Your KEEP / GIVE / KILL list
+Built from your own last week.
+A first draft of your scorecard
+A short list of weekly numbers that show if the business is healthy.
+One function, one owner
+What moves off your desk first, and the picture of done.
+
+YOUR HOST
+
+If you are the bottleneck, you are also the lever. You can change a role faster than you can change an industry.
+
+Martin Toomey has owned and operated more than fifteen companies across real estate, development, e-commerce and consulting, with more than $200M in revenue through them.
+
+Now he works with founder-led companies under $20M that have real demand and have stopped growing. More about Martin
+
+QUESTIONS
+
+Before you register
+What time is it where I am?
+Where does it happen?
+What should I prepare?
+
+SUNDAY, NOVEMBER 15, 9 AM ET
+
+30 minutes on your own company.
+
+Leave with your KEEP / GIVE / KILL list, a draft scorecard, and the first function to move off your desk.
+
+Reserve a seat, $99
+or see the three ways to work together
+S
+SchemaOps
+
+Operating design for founder-led companies that have stopped growing
+
+SITE
+
+Services
+Webinars
+Writing
+About
+Contact
+
+ELSEWHERE
+
+@Toomey1313 on X
+hello@schemaoperations.com
+
+START A CONVERSATION
+
+Design, margin or inputs. Tell me which one is in the way.
+
+© 2026 Schema Ops. All rights reserved.
+
+New essays go out on X first
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/api/webinar" id=""
+  - input type=text name="name" id="wb-name" label="Name" placeholder="" aria="" required=true
+  - input type=email name="email" id="wb-email" label="Email" placeholder="" aria="" required=true
+  - input type=text name="company" id="wb-company" label="Company optional" placeholder="" aria="" required=false
+  - select type= name="revenue" id="wb-revenue" label="Annual revenue" placeholder="" aria="" required=false options=Choose one | Under $1M | $1M–$2M | $2M–$5M | $5M–$10M | $10M+
+  - textarea type= name="breaks" id="wb-breaks" label="What breaks when you step out? optional" placeholder="" aria="" required=false
+  - input type=text name="website" id="wb-website" label="Website" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

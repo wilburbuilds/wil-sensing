@@ -1,0 +1,379 @@
+URL: https://limestonedigital.com/case-studies/brown-boots
+Fetched: 2026-10-26T00:18:12Z
+HTTP status: 200
+Final URL: https://limestonedigital.com/case-studies/brown-boots
+Content-Type: text/html; charset=UTF-8
+Title: An Affiliate Marketing Platform Built From Scratch
+Meta description: How Brown Boots went from zero engineers to GoKart, its own multi-tenant affiliate SaaS: 22 releases in Q1 2026, zero rollbacks, one managed team.
+Canonical: https://limestonedigital.com/case-studies/brown-boots
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: An Affiliate Marketing Platform Built From Scratch
+
+An Affiliate Marketing Platform Built From Scratch
+Skip to main content
+Book a call
+Services
+Custom AI Agents
+Develop agentic AI systems for your platform, from data foundation and pilot through to production.
+AI Training & Enablement
+Build AI-native capability across engineering, technical leadership, and delivery teams.
+Accelerated AI-Native Delivery
+Ship your product roadmap 3-5x faster with embedded AI-native engineering pods.
+Case Studies
+Private Equity
+Team
+Contact
+Blog
+Customer Hub
+Book a call
+Back to Case Studies
+An Affiliate Marketing Platform Built From Scratch
+How Brown Boots went from zero in-house engineering to owning a multi-tenant adtech platform, with one managed delivery team accountable end to end.
+AdTech
+Multi-Tenant SaaS
+Managed Delivery
+Industries
+AdTech, Affiliate Marketing
+Platform
+GoKart, multi-tenant SaaS for offer serving, tracking, and partner management
+Delivery scope
+Managed delivery: product analysis, architecture, front end, back end, UX/UI design, QA, DevOps
+ABOUT THE PROJECT
+Project overview
+Engagement
+2023 - ongoing
+Team today
+PM/BA, 2 Full-Stack developers, QA, UI/UX designer, DevOps
+Core technologies
+.NET/C#, React/TypeScript, PostgreSQL, Redis, Azure
+Brown Boots is a publisher-first US affiliate marketing agency with 10k+ campaigns delivered and $200M+ in managed budget. They partnered with Limestone to replace fragmented third-party tools with GoKart, a unified platform built from scratch.
+After a collaborative discovery phase in 2023, GoKart launched in 2024 and is continuously developed and operated by the same Limestone team through two-week sprints and weekly to biweekly releases.
+Challenge
+Build the platform the market never had, for a company with no engineers. Four constraints shaped the engagement from day one.
+One platform from a patchwork
+Publishers, advertisers, and networks each stitch together third-party tools that solve one slice of the problem. GoKart's founding idea was to compile the patchwork into one platform.
+Publisher-first economics
+The incumbent tools constrained exactly what Brown Boots needed: control over offer serving and prioritization, transparency into partner performance, and flexibility to run publisher-first economics.
+Zero in-house engineering
+Product analysis, architecture, front end, back end, design, QA, and DevOps had to come from one team, with someone accountable for the whole thing.
+Build while operating
+GoKart had to grow from MVP into a commercial SaaS with paying tenants, enterprise controls, and integrations, without ever pausing the live roadmap.
+What we built
+Solution
+The shipped platform, not the roadmap. From a publisher-only MVP in 2024 to a full multi-persona platform: publishers, advertisers, and affiliate networks on one system, with versioned APIs and an AI-agent surface on top.
+Offer Server & Display
+Three delivery surfaces: a link-out offer wall, an iframe embed, and an API feed. Placement-aware positioning, pinned slots, and EPC-driven ordering.
+Offer Management
+Create, edit, clone, and share offers across tenants. Multi-event offers with per-event capping, scheduled revenue and reward changes, budget auto-pausing, full change log.
+Conversion System
+Click tracking, server-to-server postbacks, attribution including multi-event and repeat conversions, approval rules, snapshots, bulk operations.
+Partner Platform
+The multi-persona pivot: offer sharing with two-way synchronization, granular partner permissions, partner payouts, and partner-scoped reporting.
+GoKart Exchange
+The marketplace surface. Publisher and advertiser profiles with T&C management live since June 2026.
+Reporting
+Timezone-aware across every report, dashboard, and export. EPC metrics, configurable columns, history logs, daily summaries, XLS exports.
+Integrations
+Cost reporting from AppsFlyer, Adjust, and Singular. Offer providers RevU and Wannads, tracking platforms including Impact and CJ Affiliate, plus postback presets for 40+ systems.
+Platform APIs
+Versioned Management and SDK APIs behind dedicated key types, published Swagger, and partner self-service API keys.
+Enterprise Controls
+Two-factor authentication, mandatory T&C acceptance, API key scoping, and rules-based fraud control: IP validation, rate limiting, HMAC verification, event sequence checks.
+System Architecture
+Multi-tenant by design, scaled without scaling the bill.
+C# .NET with BLL/DAL architecture on Azure, React and TypeScript up front, PostgreSQL with a production read replica carrying reporting, conversion, and auto-rewarding workloads, Redis caching, Cloudflare at the edge, Docker-first development with CI/CD quality gates. The performance program bought growth headroom without a proportional rise in infrastructure cost: hot-path cache work, batched tenant refreshes, pre-aggregated reporting queries, and virtual writer and reader endpoints for safe promotion.
+DELIVERY TIMELINE
+Three years in, still shipping weekly.
+The strongest thing about this engagement is that it has held for years and still ships. Everything else supports that.
+2023
+Collaborative Discovery
+From zero engineering
+2024
+GoKart MVP Live
+Publisher-first offer platform
+Q4 2025
+Multi-Persona Pivot
+Publishers, advertisers, networks
+JUN 2026
+Exchange + MCP Live
+Agent-ready platform
+Q3 2026+
+Roadmap Continues
+Same team, still shipping
+DELIVERY RECORD
+Predictable, measured, and it does not break.
+CADENCE
+Small releases, relentlessly.
+22 production releases in Q1 2026 with roughly 120 tickets completed, zero rollbacks, and all five planned major features delivered. 34 releases from February through June, six to nine every month. Hotfixes deploy within hours of discovery.
+CONTINUITY
+Three role transitions, zero missed releases.
+Over seven months the team absorbed a tech lead departure, a DevOps replacement, and a frontend replacement, each with structured knowledge transfer and pre-planned cover. Cadence held through all three.
+QUALITY
+A measured, improving QA function.
+72% of defects caught before production across Q1, trending from 64% in January to 86% by early April, with an 88% resolution rate. Automated coverage across the three core domains, integration tests against real PostgreSQL.
+THE AI ELEMENT
+The platform is agent-ready. So is the engineering process behind it.
+GOKART MCP
+An adtech platform AI agents can operate.
+A tenant-scoped MCP service, live since June 2026 on the SDK API: read tools first by design, write tools following in July. Endpoints purpose-built for language models, with response-size and latency work most teams skip. Ready for direct agent consumption, which is still rare in performance marketing.
+JOINT AI-ERA ENGINEERING
+The client's CTO ships through his own agent.
+Same repository, same quality gates: the CTO delivers production code through his agent harness while Limestone owns architecture, review, QA, and release. The first production delivery from that workflow validated itself by diffing old and new SQL against production data, row for row.
+THE HONEST TRADE-OFF
+AI made QA the bottleneck. We said so first.
+AI-assisted development raised throughput faster than validation could follow. We flagged it in our own monthly memo, ran a QA retrospective, wrote a tiered improvement strategy, and started closing the gap with automation. We measure what AI does to a delivery system, including the inconvenient parts.
+ONE OF THE FIRST PILOTS OF VELOCITY CORE, LIMESTONE'S AGENTIC DELIVERY SYSTEM, TESTED ON LIVE GOKART TICKETS
+Impact & Results
+✓
+A services-only agency became a software vendor: GoKart is a commercial SaaS platform with its own brand, pricing, documentation, status page, and paying tenants.
+✓
+Brown Boots now owns its full stack: offer server, tracking, partner platform, GoKart Exchange marketplace, versioned APIs, and an MCP surface for AI agents.
+✓
+22 production releases in Q1 2026 with zero rollbacks; 34 releases February through June, six to nine every month, sustained.
+✓
+QA catch rate at 72% across Q1 and climbing to 86%, with automated coverage across Offer Management, the Conversion System, and the Partner Platform.
+✓
+Three key-role transitions absorbed in seven months without a single missed release.
+✓
+Platform scaled without scaling the bill: read replica, cache, and query work bought growth headroom without a proportional rise in infrastructure cost.
+✓
+New tenant onboarding turned into a repeatable, planned delivery stream rather than a one-off scramble.
+production releases in Q1 2026
+22
+releases February through June
+34
+QA catch rate
+72%
+Your AI roadmap is 6 months behind. Your board knows it.
+We've closed that gap for 170+ teams over the last decade. Embedded engineers, not consultants. Month-to-month, not 12-month contracts. No measured uplift, no invoice.
+Book a discovery call
+For PE
+Blog
+Contact
+Careers
+Privacy Policy
+Customer Hub
+Instagram
+Twitter
+Facebook
+LinkedIn
+Contact:
+contact@limestonedigital.com
+Leave this field empty
+Email
+Subscribe
+Subscribe to AI Foundation to receive weekly practical tips on AI engineering, workflows, & AI transformation
+Ask AI for a summary of Limestone Digital
+© 2026 Limestone Digital. All rights reserved.
+[CLOSE]
+ENGINEERS, NOT CONSULTANTS
+Ready to move? Let's scope the work.
+Find out what it would take to solve your problem, and what it could cost.
+01
+Tell us what needs fixing.
+02
+Book a free assessment.
+03
+Discuss approach, cost and timing.
+Book a Free Assessment
+*About 2 minutes · No commitment
+Leave this field empty
+THE PROBLEM
+1 / 7
+What do you want to make happen?
+Choose the closest fit. We'll get into the details next.
+A
+Automate manual work with agents
+B
+Get an AI pilot into production
+C
+Build an AI feature or product
+D
+Ship software faster
+E
+Get our teams using AI properly
+F
+Find the right place to start
+THE PROBLEM
+2 / 7
+Tell us about the problem.
+What happens today, what's getting in the way, and what would better look like?
+The problem and the result you want
+Tell us a little more so we can understand the problem (at least 20 characters).
+A few sentences is enough. Please leave out confidential data.
+0/2,000
+YOUR BUSINESS
+3 / 7
+A little context about your business.
+This helps us bring the right experience to the conversation.
+Your role
+Select an option
+Founder / CEO
+CTO, CPTO or VP Engineering / Product
+COO, operations or compliance leader
+CFO / financial leader
+Engineering or product manager
+Engineer / individual contributor
+PE firm (operating partner, value creation)
+Other
+Your industry
+Select an option
+Healthcare
+Insurance
+Financial Services
+Logistics & transportation
+Software & technology
+Manufacturing & industrial
+Retail & e-commerce
+Professional services
+Private equity & VC
+Other
+YOUR BUSINESS
+4 / 7
+What size of business are we working with?
+A rough range is plenty. Annual revenue in USD or the equivalent.
+Annual company revenue (USD)
+Select an option
+Under $5M
+$5M-$25M
+$25M-$100M
+$100M-$500M
+$500M+
+Pre-revenue
+Prefer not to say
+Number of employees
+Select an option
+1-5
+5-25
+25-50
+50-100
+100-500
+500-1000
+1000+
+If you represent a portfolio, answer for the company this project is for.
+THE PROJECT
+5 / 7
+How close are you to making a move?
+A working pilot and a first idea need different next steps.
+Where are you today?
+Select an option
+Exploring the opportunity
+We have a defined problem
+A pilot is already running
+We need to improve a live system
+When would you like to start?
+Select an option
+Ready to start now
+Within 1–3 months
+Within 3–6 months
+Exploring, no deadline yet
+THE PROJECT
+6 / 7
+Have you set an investment range?
+For an initial implementation, in USD. It's fine if you need our help to work this out.
+A
+Under $25K
+B
+$25K–$75K
+C
+$75K–$150K
+D
+$150K+
+E
+We need your guidance
+YOUR DETAILS
+7 / 7
+Who should we speak with?
+Your details and answers help us prepare for your free assessment.
+Your name
+Company name
+Work email
+Company website (optional)
+Review your answers
++
+Goal
+Edit
+Problem
+Edit
+Role
+Edit
+Industry
+Edit
+Annual revenue
+Edit
+Employees
+Edit
+Stage
+Edit
+Timeline
+Edit
+Investment range
+Edit
+By continuing, you're asking Limestone Digital to contact you about this project.
+Back
+Continue
+Your brief is in. Choose a time.
+Book your free assessment with Mark to discuss the approach, likely cost and how soon we could start.
+Mark Ajzenstadt
+Founder, Limestone Digital
+Choose a time
+
+----- FORMS -----
+Form 1: id=footer-subscribe name= method=post action=https://limestonedigital.com/wp-admin/admin-post.php
+  field: label='' name='action' type=hidden optional placeholder=''
+  field: label='' name='_redirect' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='' name='utm_source' type=hidden optional placeholder=''
+  field: label='' name='utm_medium' type=hidden optional placeholder=''
+  field: label='' name='utm_campaign' type=hidden optional placeholder=''
+  field: label='' name='referring_site' type=hidden optional placeholder=''
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='Email' name='email' type=email required placeholder='Email Address'
+  button: Subscribe
+
+Form 2: id=ld-fac-form name= method= action=
+  field: label='' name='_wpnonce' type=hidden optional placeholder=''
+  field: label='' name='ld_ts' type=hidden optional placeholder=''
+  field: label='Leave this field empty' name='ld_hp' type=text optional placeholder=''
+  field: label='A Automate manual work with agents' name='requested_service' type=radio optional placeholder='' value='AI Agents'
+  field: label='B Get an AI pilot into production' name='requested_service' type=radio optional placeholder='' value='AI pilot to production'
+  field: label='C Build an AI feature or product' name='requested_service' type=radio optional placeholder='' value='Build AI feature/product'
+  field: label='D Ship software faster' name='requested_service' type=radio optional placeholder='' value='AI SDLC'
+  field: label='E Get our teams using AI properly' name='requested_service' type=radio optional placeholder='' value='AI enablement'
+  field: label='F Find the right place to start' name='requested_service' type=radio optional placeholder='' value='Other (Not Sure)'
+  field: label='The problem and the result you want' name='problem_description' type=textarea optional placeholder='For example: our operations team spends hours re-entering claims between systems. We want to reduce the manual work without losing human review.'
+  field: label='Your role' name='job_title_v2_simplified' type=select required placeholder='' options=[=Select an option | Founder / CEO=Founder / CEO | CTO, CPTO or VP Engineering / Product=CTO, CPTO or VP Engineering / Product | COO, operations or compliance leader=COO, operations or compliance leader | CFO / financial leader=CFO / financial leader | Engineering or product manager=Engineering or product manager | Engineer / individual contributor=Engineer / individual contributor | PE firm (operating partner, value creation)=PE firm (operating partner, value creation) | Other=Other]
+  field: label='Your industry' name='industry_v2_simplified' type=select required placeholder='' options=[=Select an option | Healthcare=Healthcare | Insurance=Insurance | Financial Services=Financial Services | Logistics & transportation=Logistics & transportation | Software & technology=Software & technology | Manufacturing & industrial=Manufacturing & industrial | Retail & e-commerce=Retail & e-commerce | Professional services=Professional services | Private equity & VC=Private equity & VC | Other=Other]
+  field: label='Annual company revenue (USD)' name='annual_revenue_v2_website_form' type=select required placeholder='' options=[=Select an option | Under $5M=Under $5M | $5M-$25M=$5M-$25M | $25M-$100M=$25M-$100M | $100M-$500M=$100M-$500M | $500M+=$500M+ | Pre-revenue=Pre-revenue | Prefer not to say=Prefer not to say]
+  field: label='Number of employees' name='numemployees' type=select required placeholder='' options=[=Select an option | 1-5=1-5 | 5-25=5-25 | 25-50=25-50 | 50-100=50-100 | 100-500=100-500 | 500-1000=500-1000 | 1000+=1000+]
+  field: label='Where are you today?' name='project_stage' type=select required placeholder='' options=[=Select an option | Exploring the opportunity=Exploring the opportunity | We have a defined problem=We have a defined problem | A pilot is already running=A pilot is already running | We need to improve a live system=We need to improve a live system]
+  field: label='When would you like to start?' name='start_timeline' type=select required placeholder='' options=[=Select an option | Ready to start now=Ready to start now | Within 1–3 months=Within 1–3 months | Within 3–6 months=Within 3–6 months | Exploring, no deadline yet=Exploring, no deadline yet]
+  field: label='A Under $25K' name='investment_range' type=radio optional placeholder='' value='Under $25K'
+  field: label='B $25K–$75K' name='investment_range' type=radio optional placeholder='' value='$25K–$75K'
+  field: label='C $75K–$150K' name='investment_range' type=radio optional placeholder='' value='$75K–$150K'
+  field: label='D $150K+' name='investment_range' type=radio optional placeholder='' value='$150K+'
+  field: label='E We need your guidance' name='investment_range' type=radio optional placeholder='' value='We need your guidance'
+  field: label='Your name' name='' type=text required placeholder='Alex Morgan'
+  field: label='' name='firstname' type=hidden optional placeholder=''
+  field: label='' name='lastname' type=hidden optional placeholder=''
+  field: label='Company name' name='company' type=text optional placeholder='Your company'
+  field: label='Work email' name='email' type=email required placeholder='alex@company.com'
+  field: label='Company website (optional)' name='website' type=text optional placeholder='company.com'
+  button: Review your answers +
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Edit
+  button: Back
+  button: Continue
+
+----- JSON-LD -----
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://limestonedigital.com/"},{"@type":"ListItem","position":2,"name":"An Affiliate Marketing Platform Built From Scratch","item":"https://limestonedigital.com/case-studies/brown-boots"}]}
+
+{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://limestonedigital.com/case-studies/brown-boots"},"headline":"An Affiliate Marketing Platform Built From Scratch","datePublished":"2026-08-20T20:03:19+00:00","dateModified":"2026-10-23T19:02:29+00:00","publisher":{"@id":"https://limestonedigital.com/#organization"},"author":{"@id":"https://limestonedigital.com/#organization"},"description":"How Brown Boots went from zero in-house engineering to owning a multi-tenant adtech platform, with one managed delivery team accountable end to end.","image":"https://limestonedigital.com/wp-content/uploads/2026/08/hero-v2.png"}

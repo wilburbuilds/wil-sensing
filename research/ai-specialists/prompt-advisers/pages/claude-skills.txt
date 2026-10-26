@@ -1,0 +1,150 @@
+URL: https://www.promptadvisers.com/claude-skills
+Fetched: 2026-10-26T03:45:03Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/claude-skills
+Content-Type: text/html
+Via: chrome-headless
+Title: Claude Skills: What to Delete After the Linux Foundation Move
+Meta description: Claude skills are moving to the Linux Foundation. Learn the 3 types worth keeping and the audit prompt I use to delete the rest. Grab it below.
+Canonical: https://www.promptadvisers.com/claude-skills
+Robots: 
+H1: Claude Skills: What to Delete After the Linux Foundation Move
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · CLAUDE CODE
+
+Claude Skills: What to Delete After the Linux Foundation Move
+
+Claude skills are moving to the Linux Foundation. Learn the 3 types worth keeping and the audit prompt I use to delete the rest. Grab it below.
+
+MARK KASHEF
+OCTOBER 23, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+Claude skills are reusable instruction files for Claude, and most of the ones you collected last year are now dead weight. Anthropic just donated the skills format to the Linux Foundation, and it is a good moment to clean house. Only three types are still worth keeping.
+
+TL;DR
+
+Anthropic gave skills to the Linux Foundation, the same path MCP took, and MCP saw one core upgrade in the 10 months since.
+At one point I carried more than 121 skills, and at scale their names and descriptions poison your context window.
+Keep a skill only if it runs exact code, holds knowledge the model cannot find, or maps an API with no MCP.
+A single read-only audit prompt can show you which skills to keep, merge, and delete.
+What Claude Skills Are Still Worth Keeping?
+
+Only skills that do something the model cannot do on its own are worth keeping. Skills first came out in October 2025, when models like Opus 4.1 needed hand holding to work out next steps from a single prompt.
+
+WATCH ON YOUTUBE
+
+Back then a skill was a crutch. Today, from Fable all the way down to Haiku, the models can extrapolate those sub tasks themselves. A year ago Claude was an intern. Now it has a master's degree, yet many of us hand it the same intern cheat sheet.
+
+Want help auditing your own setup? Join Early AI-dopters, 1,000+ people mastering Claude Code and Codex, and get personal advice from me and my team.
+
+JOIN EARLY AI-DOPTERS
+Why Do Too Many Skills Hurt Claude?
+
+Too many skills hurt because every skill adds a chance for Claude to pick the wrong one. With 100 skills, that is 100 chances to misfire, and many of them overlap.
+
+I once had six design skills that all said slightly different things. One session picked the good one and was amazing. The next picked an older one and I ended up yelling at Claude and burning tokens. The same pattern showed up with Claude Opus 5, which people found worked better once they stripped out most skills and instructions.
+
+Can One Line in agents.md Replace a Skill?
+
+Often it can. The famous example is the grill me skill from Matt Pocock, which sits near 300,000 GitHub stars.
+
+The current version is about 330 words. I ran two sessions side by side. One used the official skill, and the other used a single line in my agents.md asking Claude to ask me questions with the ask user input tool when instructions are unclear.
+
+The depth of the questions was very similar. The skill had nicer formatting, rounds, and emojis. I could get that by adding "one emoji per question, structured in rounds." For more on shrinking setups like this, see my post on Claude Code mods.
+
+The 3 Types of Skills Worth Keeping
+
+Three types of skills still earn their place, and each passes a clear test. Here is the short version.
+
+SKILL TYPE	WHY IT SURVIVES	MY EXAMPLE
+Runs the same code every time	Models stay inconsistent from session to session	My video editing skill, over 22,000 lines of code
+Knows what the model cannot find	Personal context no training data has	How I write emails, how clients want reports
+Navigates an API with no MCP	A short list of which doors to use, in order	A Calendly skill, until their MCP shipped
+
+That Calendly case is the honest reminder. As soon as the MCP came out, I deleted the skill. Keep personal skills from overlapping your memory file, since native memory keeps improving.
+
+So ask three questions of every skill. Does it run exact code? Does it know something the model cannot learn or search for? Does a product or MCP server already make it obsolete?
+
+How Do You Audit Your Claude Skills?
+
+You audit them with one read-only prompt that scans every skill your tools can load and reports what you actually use. I ran it on a Mac Mini full of old Openclaw leftovers.
+
+The numbers were ugly. Of 374 skills, half came from plugins I had installed. The report said 46 could merge into six compound skills, 70 were worth deleting, and 25 it was unsure about.
+
+The prompt starts like this: audit every skill my AI tools can load, figure out which ones I use, and show me what to keep, merge, and delete. Do not delete, move, or edit anything. Output one self-contained file I can open in my browser. The full version is in the second link under the video.
+
+One more trick. Keep seasonal skills in a folder that does not load at startup, and tell Claude to read one only when needed. A skill is just a glorified cheat sheet. The format is now an open standard under the Linux Foundation, and you can read the Agent Skills docs for how it works. If you want a team to do this cleanup for you, that is what our enterprise AI consulting covers.
+
+What Does Claude Duet Tell Us About Skills?
+
+It tells us Anthropic is shifting from cheat sheets to agents that act on their own. The day before the donation, Anthropic launched Claude Duet, a personal agent similar to Openclaw and Hermes that pings you when things need a nudge.
+
+Look at the progression. First a good model, then a harness of tools, then connectors for third parties, then skills, and now an agent that does it natively. Skills stay useful for now but will matter less. Installing a skill takes 10 seconds, and nobody spends the other 10 seconds removing it.
+
+Final Thoughts from Mark
+
+Skills becoming a standard is good news, but it is also your cue to clean your workspace. Delete the dead weight, merge the overlaps, and keep the few that truly earn it. A leaner setup lets the model do what it can now do at full strength.
+
+Claude Skills FAQs
+
+Are Claude skills still worth using?
+
+Yes, but only some. Skills that run exact code, hold knowledge the model cannot find, or map a tricky API still earn their spot. Generic planning skills mostly do not.
+
+How many Claude skills is too many?
+
+With 100 skills you get 100 chances to pick the wrong one. I once carried more than 121. If you only use a handful regularly, delete the rest.
+
+Why did Anthropic donate Claude skills to the Linux Foundation?
+
+It made skills an open standard, the same path it took with MCP. It is also a hint that Anthropic is moving toward agents that do this work natively.
+
+Can I replace a skill with a line in agents.md?
+
+Often, yes. The grill me skill is about 330 words, and one sentence in my agents.md produced very similar questions.
+
+How do I stop skills from loading in every session?
+
+Move seasonal skills into a folder Claude Code does not load. When you need one, ask Claude to read that file and follow it.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/claude-skills#article","headline":"Claude Skills: What to Delete After the Linux Foundation Move","description":"Claude skills are moving to the Linux Foundation. Learn the 3 types worth keeping and the audit prompt I use to delete the rest. Grab it below.","image":["https://www.promptadvisers.com/blog/claude-skills/claude-skills-to-delete-hero.webp"],"datePublished":"2026-10-23T00:00:00-05:00","dateModified":"2026-10-23T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/claude-skills","keywords":"Claude skills, Claude skills audit, Linux Foundation Claude skills, delete Claude skills, agents.md","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Claude Skills: What to Delete After the Linux Foundation Move","description":"Claude skills are moving to the Linux Foundation. Learn the 3 types worth keeping and the audit prompt I use to delete the rest. Grab it below.","thumbnailUrl":["https://i.ytimg.com/vi/2IPR6F3cQ_I/maxresdefault.jpg"],"uploadDate":"2026-10-23T00:00:00-05:00","duration":"PT9M42S","contentUrl":"https://www.youtube.com/watch?v=2IPR6F3cQ_I","embedUrl":"https://www.youtube-nocookie.com/embed/2IPR6F3cQ_I","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Are Claude skills still worth using?","acceptedAnswer":{"@type":"Answer","text":"Yes, but only some. Skills that run exact code, hold knowledge the model cannot find, or map a tricky API still earn their spot. Generic planning skills mostly do not."}},{"@type":"Question","name":"How many Claude skills is too many?","acceptedAnswer":{"@type":"Answer","text":"With 100 skills you get 100 chances to pick the wrong one. I once carried more than 121. If you only use a handful regularly, delete the rest."}},{"@type":"Question","name":"Why did Anthropic donate Claude skills to the Linux Foundation?","acceptedAnswer":{"@type":"Answer","text":"It made skills an open standard, the same path it took with MCP. It is also a hint that Anthropic is moving toward agents that do this work natively."}},{"@type":"Question","name":"Can I replace a skill with a line in agents.md?","acceptedAnswer":{"@type":"Answer","text":"Often, yes. The grill me skill is about 330 words, and one sentence in my agents.md produced very similar questions."}},{"@type":"Question","name":"How do I stop skills from loading in every session?","acceptedAnswer":{"@type":"Answer","text":"Move seasonal skills into a folder Claude Code does not load. When you need one, ask Claude to read that file and follow it."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Claude Skills: What to Delete After the Linux Foundation Move","item":"https://www.promptadvisers.com/claude-skills"}]}]
+

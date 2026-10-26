@@ -1,0 +1,95 @@
+URL: https://frontierbusinessdesign.com/privacy-policy/
+Fetched: 2026-10-26T03:34:48Z
+HTTP status: 200
+Final URL: https://frontierbusinessdesign.com/privacy-policy/
+Content-Type: text/html
+Via: chrome-headless
+Title: Privacy Policy - Fractional COO for $1M–$10M Service Businesses
+Meta description: How Frontier Business Design collects, uses, and protects your information.
+Canonical: https://frontierbusinessdesign.com/privacy-policy/
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: Privacy Policy
+
+Skip to content
+Home
+About Us
+Work With Us
+Contact Us
+Contact Us
+Privacy Policy
+
+Effective date: June 14, 2026
+
+Frontier Business Design (“Frontier,” “we,” “us,” or “our”) respects your privacy. This policy explains what we collect, how we use it, and your choices when you use frontierbusinessdesign.com (the “Site”).
+
+Information we collect
+
+Information you give us. When you fill out a contact or intro-call form, we collect your name, email address, company name, and anything you write in your message.
+
+Booking information. When you schedule a call, our scheduling provider collects the details you submit to book the time.
+
+Assessment information. If you take our online assessment, we collect the answers and contact details you provide.
+
+Automatic information. Like most websites, we and our tools may collect basic technical data such as your IP address, browser type, pages viewed, and how you arrived, through cookies and similar technologies.
+
+How we use your information
+
+To respond to your questions and follow up about working together. To schedule and prepare for calls. To deliver assessment results and related resources. To improve the Site and understand how visitors use it. To send occasional emails if you ask to hear from us. You can opt out at any time.
+
+How we share information
+
+We do not sell your personal information. We share it only with the service providers that help us run the Site and our business, such as our website host, form and email tools, scheduling provider, and analytics. These providers process information on our behalf. We may also disclose information if the law requires it.
+
+Cookies
+
+The Site uses cookies and similar technologies to function properly and to measure traffic. You can control cookies through your browser settings. Turning them off may affect how parts of the Site work.
+
+Data retention
+
+We keep your information only as long as needed to respond to you, provide our services, and meet legal or recordkeeping requirements. After that we delete or anonymize it.
+
+Your choices
+
+You can ask us to access, correct, or delete the personal information we hold about you. Email johnc@frontierbusinessdesign.com and we will respond within a reasonable time.
+
+Children
+
+The Site is meant for business owners and is not directed to children under 13. We do not knowingly collect information from children.
+
+Third-party links
+
+The Site links to other websites and tools we do not control, including our assessment tool and scheduling provider. Their privacy practices are their own. Please review their policies.
+
+Changes to this policy
+
+We may update this policy from time to time. The effective date above shows when it was last changed.
+
+Contact
+
+Questions about this policy? Email johnc@frontierbusinessdesign.com
+
+Designing businesses worth leading.
+
+Frontier Business Design
+Lubbock, TX · Serving owners nationwide
+(806) 790-7951
+johnc@frontierbusinessdesign.com
+
+Facebook
+ 
+X-twitter
+ 
+Linkedin
+Quick Links
+Home
+About Us
+Work With Us
+Contact
+Privacy Policy
+Terms of Service
+
+© 2026 Frontier Business Design™. All Rights Reserved.
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://frontierbusinessdesign.com/#place","address":{"@type":"PostalAddress"}},{"@type":["LocalBusiness","Organization"],"@id":"https://frontierbusinessdesign.com/#organization","name":"Fractional COO for $1M\u2013$10M Service Businesses","url":"https://frontierbusinessdesign.com","email":"johnc@frontierbusinessdesign.com","address":{"@type":"PostalAddress"},"logo":{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/#logo","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","contentUrl":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","caption":"Fractional COO for $1M\u2013$10M Service Businesses","inLanguage":"en-US","width":"1200","height":"1200"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"description":"We are an Operations Partner for founder-led service-based companies doing $500K to $10M. We bring the clarity, alignment and execution needed to build a business that isn't completely dependent on you.","location":{"@id":"https://frontierbusinessdesign.com/#place"},"image":{"@id":"https://frontierbusinessdesign.com/#logo"},"telephone":"18067907951"},{"@type":"WebSite","@id":"https://frontierbusinessdesign.com/#website","url":"https://frontierbusinessdesign.com","name":"Fractional COO for $1M\u2013$10M Service Businesses","alternateName":"Frontier Business Design","publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1","url":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1","width":"1200","height":"1200","caption":"Frontier Business Design logo","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frontierbusinessdesign.com/privacy-policy/#webpage","url":"https://frontierbusinessdesign.com/privacy-policy/","name":"Privacy Policy - Fractional COO for $1M\u2013$10M Service Businesses","datePublished":"2026-06-15T01:50:40+00:00","dateModified":"2026-10-14T19:07:49+00:00","isPartOf":{"@id":"https://frontierbusinessdesign.com/#website"},"primaryImageOfPage":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign","url":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","caption":"frontierbusinessdesign","inLanguage":"en-US"},"sameAs":["http://frontierbusinessdesign-iqyks.wordpress.com"],"worksFor":{"@id":"https://frontierbusinessdesign.com/#organization"}},{"@type":"Article","headline":"Privacy Policy - Fractional COO for $1M\u2013$10M Service Businesses","datePublished":"2026-06-15T01:50:40+00:00","dateModified":"2026-10-14T19:07:49+00:00","author":{"@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign"},"publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"description":"How Frontier Business Design collects, uses, and protects your information.","name":"Privacy Policy - Fractional COO for $1M\u2013$10M Service Businesses","@id":"https://frontierbusinessdesign.com/privacy-policy/#richSnippet","isPartOf":{"@id":"https://frontierbusinessdesign.com/privacy-policy/#webpage"},"image":{"@id":"https://i0.wp.com/frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg?fit=1200%2C1200&amp;ssl=1"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://frontierbusinessdesign.com/privacy-policy/#webpage"}}]}
+

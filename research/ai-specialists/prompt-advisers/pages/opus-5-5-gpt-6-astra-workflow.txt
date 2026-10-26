@@ -1,0 +1,140 @@
+URL: https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow
+Fetched: 2026-10-26T03:45:09Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow
+Content-Type: text/html
+Via: chrome-headless
+Title: Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them
+Meta description: Opus 5.5 and GPT-6 Astra workflow in six levels, from plan debates to handoffs. Learn which model fits each job. Free guide inside.
+Canonical: https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow
+Robots: 
+H1: Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · CLAUDE CODE
+
+Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them
+
+Opus 5.5 and GPT-6 Astra workflow in six levels, from plan debates to handoffs. Learn which model fits each job. Free guide inside.
+
+MARK KASHEF
+OCTOBER 5, 2026
+5 MIN READ
+WATCH THE VIDEO
+
+The best Opus 5.5 and GPT-6 Astra workflow is to use both: Opus plans and ships, Astra finds what is wrong and handles computer use. Using only one leaves a lot on the table. Here are the six levels I use, from easiest to most nuanced.
+
+TL;DR
+
+Opus 5.5 is optimistic and Astra is the pessimist, so a plan debate between them catches holes a single model misses.
+You can offload image creation to Codex, even on the $20 plan, instead of paying for Gemini API calls.
+Codex can run 18 to 30 hours on a slash goal, and takes three to five times longer than Claude with far more tokens.
+A handoff file replaces piles of stale plan.md files and lets the other model pick up in one command.
+How Does an Opus 5.5 and GPT-6 Astra Workflow Connect?
+
+You connect them in one of three ways, and the CLI route is the simplest. Install the Codex plugin from GitHub, which has worked since April. Or install both CLIs, and each desktop app knows how to call the other.
+
+WATCH ON YOUTUBE
+
+I told Claude, no plugins or skills, use the Codex CLI to ask Astra on medium reasoning about cybersecurity opportunities in AI. It ran codex exec headless and returned a markdown file. I swapped the names in Codex and it called Claude the same way. The third way is a pull request that one model drafts and the other reviews.
+
+I give away my prime and handoff skills and the full guide in the second link under the video. For deeper Claude and Codex builds, join Early AI-dopters, 1,000+ people mastering both.
+
+JOIN EARLY AI-DOPTERS
+Level 1: Why Make Opus and Astra Argue?
+
+Because a model that wrote a plan will grade it too kindly. Pick your daily driver, have it write plan V1, and send it to the other model until neither has anything left to say. Claude is the optimist. Codex pokes holes in that romanticism.
+
+You do not need a skill or a loop plugin. I used to rely on third-party loops, and today you can tell it to loop with built-in functions.
+
+Level 2 and 3: Images and Split Execution
+
+Level 2 is images. I used to pay Gemini API costs, but if I already pay for Codex, I let it make the infographic and bring the asset back to Claude. Level 3 splits execution. Maybe 70 percent with Claude and 30 percent with Codex, which reviews on a new branch and iterates before merging. For more on this, see my guide to Codex SDK internal tools.
+
+Which Is Better for Logins and Computer Use?
+
+Codex is better, and Opus 5.5 still lags there. Level 4 handles logins. Claude may refuse to paste a credential or API key even with full permission. Codex is a lot more relaxed, nine times out of ten, unless it is sensitive. Read my notes on GPT-6 Astra computer use for real workflows.
+
+Level 5 and 6: Grind and Handoff
+
+Level 5 is slash goal. Codex is comprehensive to a fault and can spin for 18 to 30 hours. Add a rubric and a limit, like "stop after two hours and tell me why." Level 6 is handoff. Slash handoff writes where we are, what we decided, and the next step. Slash prime picks it up in the other tool.
+
+Which Model Should You Use for Each Job?
+
+Use this cheat sheet, since the winner depends on the task.
+
+JOB	MY PICK
+Planning	Claude
+Picking apart the plan	Codex
+Images (to save cost)	Codex
+Building and shipping	Opus
+Reviewing before ship	Astra or Sol, multiple rounds
+Computer use	Codex
+Long, hairy problems	Codex
+
+The cons are real. Codex burns more tokens, and two apps add setup. Pair this with GPT-6 Astra effort levels to control the bill.
+
+Final Thoughts from Mark
+
+Stop switching workspaces and start letting the models check each other. Begin with the plan debate, then add handoffs once it clicks. The bigger picture is that using them together takes you much farther than either one alone.
+
+Opus 5.5 and GPT-6 Astra Workflow FAQs
+
+How do I connect Claude and Codex?
+
+There are three ways. Install the official Codex plugin from GitHub, install both CLIs so each desktop app can call the other, or open a pull request that one model drafts and the other reviews. The CLI route needs no plugins or skills, which makes it the simplest.
+
+Do I need two Max plans to use Opus 5.5 and GPT-6 Astra together?
+
+No. It depends on what you are doing. I offload image creation to Codex even on the $20 plan, which avoids paying Gemini or OpenAI API costs. You can start with smaller plans and see which tasks actually need more usage.
+
+Why have a second model review the plan?
+
+A model reviewing its own plan, especially in the same session, tends to say it is great because models are tuned to be confident. A different model finds different holes. Claude is the optimist and Codex is the pessimist, which is a useful pairing.
+
+Which is better at computer use, Opus 5.5 or Astra?
+
+Codex with Astra, by a wide margin right now. Opus 5.5 is great otherwise, but its computer use lags, and it often refuses to copy a credential or use an API key even with permission. Codex is more relaxed about logins when it is safe.
+
+What is a handoff file?
+
+A handoff file is a markdown note that records where you are, what you decided, and the next step. Run slash handoff at the end of a session and slash prime in the other tool. It beats piling up dated plan.md files that go stale.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow#article","headline":"Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them","description":"Opus 5.5 and GPT-6 Astra workflow in six levels, from plan debates to handoffs. Learn which model fits each job. Free guide inside.","image":["https://www.promptadvisers.com/blog/opus-5-5-gpt-6-astra-workflow/opus-5-5-gpt-6-astra-workflow-hero.webp"],"datePublished":"2026-10-05T00:00:00-05:00","dateModified":"2026-10-05T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow","keywords":"Opus 5.5 and GPT-6 Astra workflow, Claude and Codex together, Codex CLI from Claude, Claude Code handoff, Opus vs Astra","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them","description":"Opus 5.5 and GPT-6 Astra workflow in six levels, from plan debates to handoffs. Learn which model fits each job. Free guide inside.","thumbnailUrl":["https://i.ytimg.com/vi/ucer2chlfM8/maxresdefault.jpg"],"uploadDate":"2026-09-26T00:00:00-05:00","duration":"PT12M4S","contentUrl":"https://www.youtube.com/watch?v=ucer2chlfM8","embedUrl":"https://www.youtube-nocookie.com/embed/ucer2chlfM8","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I connect Claude and Codex?","acceptedAnswer":{"@type":"Answer","text":"There are three ways. Install the official Codex plugin from GitHub, install both CLIs so each desktop app can call the other, or open a pull request that one model drafts and the other reviews. The CLI route needs no plugins or skills, which makes it the simplest."}},{"@type":"Question","name":"Do I need two Max plans to use Opus 5.5 and GPT-6 Astra together?","acceptedAnswer":{"@type":"Answer","text":"No. It depends on what you are doing. I offload image creation to Codex even on the $20 plan, which avoids paying Gemini or OpenAI API costs. You can start with smaller plans and see which tasks actually need more usage."}},{"@type":"Question","name":"Why have a second model review the plan?","acceptedAnswer":{"@type":"Answer","text":"A model reviewing its own plan, especially in the same session, tends to say it is great because models are tuned to be confident. A different model finds different holes. Claude is the optimist and Codex is the pessimist, which is a useful pairing."}},{"@type":"Question","name":"Which is better at computer use, Opus 5.5 or Astra?","acceptedAnswer":{"@type":"Answer","text":"Codex with Astra, by a wide margin right now. Opus 5.5 is great otherwise, but its computer use lags, and it often refuses to copy a credential or use an API key even with permission. Codex is more relaxed about logins when it is safe."}},{"@type":"Question","name":"What is a handoff file?","acceptedAnswer":{"@type":"Answer","text":"A handoff file is a markdown note that records where you are, what you decided, and the next step. Run slash handoff at the end of a session and slash prime in the other tool. It beats piling up dated plan.md files that go stale."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them","item":"https://www.promptadvisers.com/opus-5-5-gpt-6-astra-workflow"}]}]
+

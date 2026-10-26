@@ -1,0 +1,94 @@
+URL: https://leftclick.ai/case-studies/xwecan
+Fetched: 2026-10-26T03:45:11Z
+HTTP status: 200
+Final URL: https://leftclick.ai/case-studies/xwecan
+Content-Type: text/html
+Via: chrome-headless
+Title: XWECAN Case Study — LeftClick AI
+Meta description: How LeftClick helped XWECAN achieve features in Forbes, WSJ, Fortune, BBC and more through AI-powered PR systems.
+Canonical: https://leftclick.ai/case-studies/xwecan.html
+Robots: 
+H1: 
+
+Case studies
+About
+Services
+Reviews
+Let's talk
+Let's talk
+Home
+Case studies
+About
+Services
+Reviews
+Go Back
+Go Back
+
+We helped XWECAN replace manual research and outreach with AI-driven targeting and personalization, turning them into a lean PR machine landing headline coverage in CNN, Forbes, WSJ, and more.
+
+PR Outreach Systems
+Media Research Systems
+Coverage Tracking Systems
+XWECAN
+PR agency serving global tech firms, public figures, and politicians
+Outcomes
+We secured placements in CNN, Forbes, WSJ, Fortune, BBC and dozens of tier-1 outlets.
+We achieved an 18% positive-reply rate—4-5× typical cold-PR benchmarks.
+We reduced account-management headcount by 80% while delivering more wins per client.
+Challenge
+
+XWECAN's high-touch PR campaigns required large account teams and manual research. Scaling to tens of thousands of hyper-personalized pitches daily was impractical with their existing workflow.
+
+Solution
+We auto-generated pitch drafts from client onboarding summaries, emphasizing the angles most relevant to each media segment.
+We built a research engine that scraped recent articles, identified journalists by beat and publication, and enriched records with email, LinkedIn, X, Muck Rack, and past coverage links.
+We set up 100+ rotating sender identities enabling >10,000 personalized emails/day with sequenced follow-ups.
+We deployed GPT-powered icebreakers that referenced each journalist's latest work, producing intros that routinely earned "best pitch I've seen" replies.
+We automated media-hit tracking, Qwoted/HARO matching, and project-management workflows, cutting admin to near-zero.
+
+Work with us
+
+Start with a free, thirty-minute growth mapping call.
+
+Let's talk
+Let's talk
+
+SERVICES
+
+AI Automation
+AI Lead Generation
+Custom AI Agents
+CRM & Sales Automation
+AI Workshops
+All Services
+
+COMPANY
+
+About
+Nick Saraev
+Case Studies
+Industries
+Careers
+Press
+
+RESOURCES
+
+What is LeftClick?
+Pricing
+Our Process
+FAQ
+Results & Reviews
+Contact
+
+CONNECT
+
+YouTube
+LinkedIn
+Instagram
+X / Twitter
+Maker School
+Free Courses
+Privacy Policy
+Terms of Service
+© 2026 Nick Saraev Media LLC. All rights reserved.
+

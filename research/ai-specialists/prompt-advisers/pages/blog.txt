@@ -1,0 +1,272 @@
+URL: https://www.promptadvisers.com/blog
+Fetched: 2026-10-26T03:44:58Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/blog
+Content-Type: text/html
+Via: chrome-headless
+Title: Blog | Prompt Advisers
+Meta description: The Prompt Advisers blog: hands-on breakdowns of Claude Code, Codex, and agentic AI systems, drawn straight from Mark Kashef's demos.
+Canonical: https://www.promptadvisers.com/blog
+Robots: 
+H1: THE BLOG.
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+PROMPT ADVISERS · VI / THE BLOG
+
+THE BLOG.
+
+THE INDEX
+
+OCTOBER 23, 2026
+CLAUDE CODE
+Claude Skills: What to Delete After the Linux Foundation Move
+
+Claude skills are moving to the Linux Foundation. Learn the 3 types worth keeping and the audit prompt I use to delete the rest. Grab it below.
+
+6 MIN READ
+OCTOBER 21, 2026
+AI NEWS
+PHP Vulnerability WordPress Sites Must Check Now
+
+A PHP vulnerability on WordPress sites can let attackers take over your server. Here is how to check your site in two minutes with free AI tools.
+
+6 MIN READ
+OCTOBER 19, 2026
+AI NEWS
+OpenCode Breach: Protect Your AI API Keys Tonight
+
+The OpenCode breach shows why AI API keys need caps. Here are the two settings I told you to check tonight, plus what the attack means for 2027.
+
+6 MIN READ
+OCTOBER 17, 2026
+AI TUTORIALS
+Uncensored AI + Reverse Engineer Anything: A Setup
+
+Uncensored AI plus the Reverse Engineer Anything repo can rebuild an app you own for about $4. Here is the exact three-piece stack I used.
+
+6 MIN READ
+OCTOBER 17, 2026
+CLAUDE CODE
+Claude Codex Setup a Mess? Here's the Fix
+
+Claude Codex setup cluttered with dead skills and rules? Run one audit prompt, merge to one AGENTS.md, and get your tokens back. Start here.
+
+6 MIN READ
+OCTOBER 9, 2026
+AI TOOL REVIEWS
+OpenAI Decisions API vs Jev: Cost, Speed, Accuracy
+
+OpenAI Decisions API vs Jev, tested head to head on cost, speed, and accuracy. See which classifier wins for your use case. Watch the demos.
+
+6 MIN READ
+OCTOBER 9, 2026
+CLAUDE CODE
+Advanced Claude Code Mods: Add Codex Features to Claude
+
+Advanced Claude Code mods can borrow Codex computer use and multi-model threads. See how I built both and grab the prompts. Join the community.
+
+5 MIN READ
+OCTOBER 5, 2026
+CLAUDE CODE
+Opus 5.5 + GPT-6 Astra Workflow: 6 Ways to Combine Them
+
+Opus 5.5 and GPT-6 Astra workflow in six levels, from plan debates to handoffs. Learn which model fits each job. Free guide inside.
+
+5 MIN READ
+OCTOBER 5, 2026
+AI TOOL REVIEWS
+OpenAI Dots Review: My Honest Take After Testing It
+
+OpenAI Dots review from hands-on testing: Slack setup, computer use, and sub-agents. See why I would skip it and what to use instead.
+
+5 MIN READ
+OCTOBER 5, 2026
+AI TOOL REVIEWS
+GPT-6.1 Sol vs Astra: Which Should You Actually Use?
+
+GPT-6.1 Sol vs Astra, tested on one real app build: $43 versus $203 for the same job. See where each wins and the hybrid setup I use.
+
+5 MIN READ
+OCTOBER 5, 2026
+CLAUDE CODE
+Claude Code Mods: 10 Worth Stealing (No IDE Needed)
+
+Claude Code mods let you customize your setup in plain language. See the 10 I use, from auto-handoff to a flight recorder. Grab my pack inside.
+
+6 MIN READ
+SEPTEMBER 25, 2026
+AI TUTORIALS
+Build Your Own Jev With Claude Opus 5.5
+
+Build your own Jev alternative with Claude Opus 5.5: fine-tune a free local classifier model, no API fees, full walkthrough.
+
+6 MIN READ
+SEPTEMBER 21, 2026
+AI TUTORIALS
+Ollama Codex CLI: How to Save Your Astra Tokens
+
+Ollama Codex CLI setup lets you offload grunt work to free or cheap models and save premium Astra tokens for the hard problems.
+
+6 MIN READ
+SEPTEMBER 21, 2026
+AI TUTORIALS
+10 Practical Jev AI Use Cases to Cut LLM Costs
+
+Jev AI use cases include LLM-judge replacement, contract review, and model routing, cutting cost per decision to a fraction of a cent.
+
+6 MIN READ
+SEPTEMBER 14, 2026
+AI TUTORIALS
+GPT-6 Astra 3D Worlds: How to Build One to Learn Anything
+
+GPT-6 Astra 3D worlds turn any topic into a walkable, browser-playable lesson, built with Codex, Blender, and Babylon.js.
+
+6 MIN READ
+SEPTEMBER 9, 2026
+AI TUTORIALS
+GPT-6 Astra Effort Levels: Which One Should You Use?
+
+GPT-6 Astra effort levels tested from low to Ultra to see which setting delivers the best results for the time and tokens.
+
+6 MIN READ
+SEPTEMBER 6, 2026
+AI TUTORIALS
+GPT-6 Astra Computer Use: 5 Real Workflows That Work
+
+GPT-6 Astra computer use turns screen control into reusable workflows, from flight CLIs to Instagram setup, without an API.
+
+6 MIN READ
+SEPTEMBER 3, 2026
+AI NEWS
+Fable 5.1 System Prompt Leak: What Actually Changed
+
+The Fable 5.1 system prompt leak shows 46 tools, up from 18, plus a rebuilt memory system. Here's what changed and if it's worth switching.
+
+6 MIN READ
+SEPTEMBER 1, 2026
+AI TUTORIALS
+Grok Bot Model Switcher: Run Codex, Claude, or Any Model
+
+Grok Bot model switcher swaps the model behind your chat to Codex, Claude, or OpenRouter for free, no new subscription needed.
+
+6 MIN READ
+AUGUST 28, 2026
+AI TOOL REVIEWS
+Grok Bot Alternative: Build Your Own With Codex and Claude
+
+Grok Bot alternative? Here is how I reverse engineered the leak and rebuilt it for free with Codex and OpenRouter.
+
+6 MIN READ
+AUGUST 23, 2026
+AI TOOL REVIEWS
+Best AI Personal Assistant in 2026: 5 Tools Ranked
+
+Best AI personal assistant picks for 2026: I built with Grok Bot, Claude Cowork, ChatGPT Work, and Hermes to rank all five, twice.
+
+6 MIN READ
+AUGUST 19, 2026
+AI TUTORIALS
+Codex SDK Internal Tools: Ditch the API Key Bill
+
+Codex SDK internal tools run on your existing ChatGPT subscription instead of a metered API key, cutting the cost of every app you build.
+
+6 MIN READ
+AUGUST 15, 2026
+AI TOOL REVIEWS
+Higgsfield Alternative: Build Your Own AI Creative Studio
+
+A Higgsfield alternative you own outright: wire 37 models yourself through fal.ai or direct APIs, no subscription. Here's the exact build.
+
+6 MIN READ
+AUGUST 12, 2026
+AI TUTORIALS
+Local AI Website Generator: Build 3D Sites for Free
+
+A local AI website generator builds a full 3D scroll site free, no APIs. See the exact open model stack Mark used to build one live.
+
+6 MIN READ
+AUGUST 8, 2026
+CLAUDE CODE
+Claude Code Video Input: Feed It Raw MP4s, No Skill Needed
+
+Claude Code video input now works out of the box: drag in a raw MP4 and both it and Codex read frames, audio, and silence.
+
+6 MIN READ
+JULY 27, 2026
+CLAUDE CODE
+Personal AI Benchmark: Test New Models on Your Own Work
+
+A personal AI benchmark tests new models on your real chat history, not a public leaderboard. Get the free Claude Code skill Mark built to prove it.
+
+6 MIN READ
+JULY 23, 2026
+AI TUTORIALS
+Local AI Setup: The Command Center Anyone Can Build
+
+A local AI setup runs open models on your own hardware. Here is the five-layer stack I use, wired together with Claude Code.
+
+6 MIN READ
+JULY 14, 2026
+AI TUTORIALS
+AI Reasoning Effort Levels: The Setting Everyone Gets Wrong
+
+AI reasoning effort levels control thinking budget, not smarts. See the framework for picking low, medium, high, or max.
+
+6 MIN READ
+JULY 6, 2026
+CLAUDE CODE
+Claude Fable 5 Leaves Subscriptions July 8. Do This First
+
+Claude Fable 5 leaves subscriptions on July 8. Here is the war-gaming workflow I use to bank its intelligence so cheaper models can run it later.
+
+6 MIN READ
+JUNE 30, 2026
+CLAUDE CODE
+The 5 Layers of Every Agentic OS, Explained
+
+An agentic OS has five layers, from identity to tools, each rotting at its own pace. Here is the mental model I use to build and maintain every one.
+
+6 MIN READ
+
+VI / THE BLOG
+
+LEARN IT IN PUBLIC.
+
+These notes are a glimpse. The full breakdowns, weekly modules, and the working systems live inside the community.
+
+JOIN EARLY AI-DOPTERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"}]}]
+

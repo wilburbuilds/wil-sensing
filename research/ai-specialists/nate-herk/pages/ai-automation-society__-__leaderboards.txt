@@ -1,0 +1,153 @@
+URL: https://www.skool.com/ai-automation-society/-/leaderboards
+Fetched: 2026-10-26T03:49:28Z
+HTTP status: 200
+Final URL: https://www.skool.com/ai-automation-society/-/leaderboards
+Content-Type: text/html
+Via: chrome-headless
+Title: Leaderboards · AI Automation Society
+Meta description: Learn to get paid for AI solutions, regardless of your background.
+Canonical: 
+Robots: 
+H1: 
+
+AI Automation Society
+LOG IN
+Community
+Classroom
+Calendar
+Members
+Map
+Leaderboards
+About
+LOG IN
+0
+Your Name
+Level 0
+5 points to level up
+Level 1 - AI Explorer 🛠️
+89% of members
+Level 2 - Automation Novice 🛠️
+Unlock Post to feed 4% of members
+Level 3 - AI Operator 🛠️
+Unlock Chat with members, "Build Your AI OS" 1% of members
+Level 4 - Agent Builder 🤖
+1% of members
+Level 5 - Agent Orchestrator🤖
+1% of members
+Level 6 - AI Engineer🤖
+1% of members
+Level 7 - AI Visionary💎
+1% of members
+Level 8 - AI Mastermind✨
+1% of members
+Level 9 - AI Grandmaster🚀
+1% of members
+Last updated: Oct 26th 2026 3:40am
+How do points work?
+Leaderboard (7-day)
+1
+Muskan Ahlawat
+🔥
++759
+2
+Nigel Vargas
++744
+3
+Christian Rivadeneira
+🔥
++465
+4
+Ameeth B.
++317
+5
+Ali Abdullah
++305
+6
+Waleed Ijaz
++209
+7
+Zubair Aqeel
++173
+8
+Theresa Elliott
+🔥
++172
+9
+Wasilis Paliakoudis
++150
+10
+Alex Gitman
++138
+Leaderboard (30-day)
+1
+Muskan Ahlawat
+🔥
++4,331
+2
+Nigel Vargas
++3,941
+3
+Christian Rivadeneira
+🔥
++3,048
+4
+Julius Waggoner
++2,204
+5
+Ameeth B.
++1,706
+6
+Waleed Ijaz
++808
+7
+Piotr Lewandowski
++803
+8
+Wasilis Paliakoudis
++785
+9
+Jason Elam
++678
+10
+Gal Miller
++567
+Leaderboard (all-time)
+1
+Muskan Ahlawat
+🔥
+80,603
+2
+Christian Rivadeneira
+🔥
+50,813
+3
+Frank van Bokhorst
+29,740
+4
+Julius Waggoner
+25,854
+5
+Nigel Vargas
+23,830
+6
+Titus Blair
+15,869
+7
+Jason Elam
+6,490
+8
+Duy Bui
+6,250
+9
+Hicham Char
+5,799
+10
+Shihab Sakif
+4,618
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+Form 2: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+

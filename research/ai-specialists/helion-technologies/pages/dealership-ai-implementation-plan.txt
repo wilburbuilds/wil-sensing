@@ -1,0 +1,219 @@
+URL: https://heliontechnologies.com/dealership-ai-implementation-plan/
+Fetched: 2026-10-26T03:42:21Z
+HTTP status: 200
+Final URL: https://heliontechnologies.com/dealership-ai-implementation-plan/
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Implementation Plan for Dealerships: Plan Before You Buy
+Meta description: An AI implementation plan for your dealership names the problem, the measure, the owner, the data, the access, and a pilot. Write it before buying AI licenses.
+Canonical: https://heliontechnologies.com/dealership-ai-implementation-plan/
+Robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+H1: Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+
+Skip to content
+Services ▾
+Industries ▾
+About ▾
+Working at Helion
+Resources ▾
+Contact Us
+Client Portal
+Resources / Blog
+Why Dealership AI Projects Stall: Licenses Bought Before the Plan
+By Scot McConnor
+October 23, 2026 · 12 min read
+
+An AI implementation plan for a dealership names the business problem, how success gets measured, who owns it, which data it needs, who connects that data, what access it gets, and the pilot that decides go or no-go.
+
+Last updated: October 23, 2026
+
+Write that plan before anybody buys a seat. It sounds obvious, and yet the order usually runs the other way. A dealer group signs for an enterprise AI license, logins go out to a few hundred people, and a couple of months later somebody in the office asks what the store is actually getting for the money. Nobody has a good answer. Not because the tool is bad. Because nobody ever wrote down what it was supposed to do.
+
+I spent five years selling CRM to dealers before I came to Helion Technologies, so I know what a license sale looks like from the other side of the desk. The seller’s job is to get the seats signed. What happens after the signature is the dealer’s problem, and the dealer rarely has a plan for it. That was true of CRM back then. It’s true of AI right now, only faster.
+
+This post is about the plan itself: what goes in it, who signs it, and how a pilot tells you whether to keep going. It sits under our Managed AI for dealerships program, because that’s where the plan turns into something running in your stores.
+
+What an AI Implementation Plan Actually Is
+
+An AI implementation plan is a short written document that ties one AI project to one business problem at the dealership. It says how you’ll know it worked, who owns it, which systems and data it touches, who connects them, what access it gets, and the pilot that ends in a go or no-go decision.
+
+Short is the point. You don’t need a binder. You need one page per initiative that a dealer principal can read in five minutes and sign.
+
+The NIST AI Risk Management Framework, released in January 2023, organizes AI risk work into four functions: Govern, Map, Measure, and Manage. You don’t have to adopt the framework to borrow its order. Decide who governs first, map what the AI will touch, measure it, then manage it. A plan written in that order is hard to argue with.
+
+A license is a tool. A plan is a decision.
+
+Why Buying the License Feels Like Progress
+
+Buying something feels like doing something. I’ve watched dealers buy technology for nearly 30 years, and the purchase is always the easy part, because there’s a salesperson whose whole job is to make it easy. The hard part comes afterward. Nobody sells you that part.
+
+Here’s what our team sees in stores right now. A dealership buys an AI platform, then launches dozens of AI initiatives at once, with no integrations built, no data sources connected, and no defined goals for any of them. The spending keeps going. The results don’t show up. Buying the platform turns out to be step one of many, and nobody planned steps two through ten.
+
+The industry numbers say the same thing in a different way. Cox Automotive’s AI in Auto Retail Tracker, released August 11, 2026, found that 82% of dealers use AI today and 69% expect it to drive sales and revenue growth, yet only 22% of AI users report seeing that growth so far. About 1 in 3 either aren’t measuring AI’s impact or have no clarity on how they’re measuring it. That’s not a tool problem. That’s a missing first page.
+
+The same release found that dealers working with an external AI partner were more likely to report sales and revenue growth from AI, 36% versus 21% for dealers without one. Cox doesn’t define what counts as a partner, so I wouldn’t read too much into it. But I’d notice it.
+
+To be clear, I’m not telling anybody to sit AI out. Technology is a way to win in this business, and AI is going to be part of how dealers win. The missing plan is the problem. Not the tools.
+
+What Goes in a Dealership AI Implementation Plan
+
+Seven parts. Every one of them gets answered on paper before anyone buys seats or turns anything on.
+
+PART OF THE PLAN	THE QUESTION IT ANSWERS	DEALERSHIP EXAMPLE
+The business problem	What’s broken or slow today, in plain words?	Service advisors spend the first hour of every day writing up customer updates by hand
+How success is measured	What number moves if it works, and what is it today?	Time to first customer update on an open repair order, measured before and after
+The owner	Which manager answers for it, by name?	The service director, not “the service department”
+The data sources	Which systems does it need to read, and which fields?	Repair order status and technician notes from the DMS, nothing from F&I
+Who connects the data	Who builds the integration, and who keeps it working?	Your IT provider builds it, read-only, and checks it when the DMS updates
+Access and approved platforms	Who can use it, on which approved tool, seeing what?	Advisors and the service director at one rooftop, on the store’s approved AI platform only
+The pilot and the go or no-go	Where does it run first, for how long, and who decides?	One store’s service drive for a fixed window, then the approver reads the numbers and decides
+
+The first two rows are where most plans fall apart, and they’re the cheapest to fix. “Use AI in service” isn’t a problem. It’s a wish. A problem has a person attached to it and a number you can check on a Tuesday. If nobody can say what the number is today, you can’t say later whether the AI moved it, and you end up in that 1 in 3 that Cox found.
+
+Rows four and five are where the money goes. Somebody has to connect the AI to the DMS, the CRM, Microsoft 365, or wherever the data lives, and that work doesn’t come with the license. Buying the platform without naming who builds the connections is like buying a new phone system and assuming the circuits will install themselves. We wrote a whole post on connecting generative AI to your DMS without exposing customer data, and the short version is read-only first, only the fields the job needs, and no exports sitting on somebody’s desktop.
+
+Ownership sounds like a formality. It isn’t. An initiative with no named owner is one that nobody will ever turn off, even after it quietly stops being useful, and a store with dozens of those is paying for a lot of seats nobody uses.
+
+Unplanned Enterprise AI Is the Bigger Risk
+
+Most of the AI security talk at dealerships is about shadow AI, the personal chat accounts people use without asking anyone. That’s real, and our guide to AI governance for dealerships covers how it shows up in stores. But our team’s view is that it’s the smaller risk. A dealer group that buys enterprise AI and hands it to staff with no rollout plan has a bigger one, because nobody has set the access controls, built the workflows, or secured the data connections, and the store now owns the result. Trying to block people from using AI doesn’t fix either problem. Giving them an approved path does, which is why the approved platform is row six of the plan and not an afterthought.
+
+Access is the part that bites. An AI tool connected through a person’s account generally sees what that person can see, so a store where everyday users still have broad rights will hand the AI those same rights on day one. Our post on least-privilege access for AI tools walks through how to scope it. If the plan’s access row says “everyone, everything,” the plan isn’t finished.
+
+The FTC Safeguards Rule already asks dealers to limit who can reach customer information. Section 314.4(c)(1) of the rule requires access controls that let authorized users reach only the customer information they need for their job. An AI platform doesn’t get an exemption from that. It’s one more user. Usually a very busy one.
+
+Same rule, new user.
+
+Run a Pilot, Then Make the Call
+
+Run the first pilot at one store, in one department, on the problem from row one, with the starting number written down and the end date set before anything goes live. At the end of the window, somebody reads the numbers and makes a call. Go means it rolls to the next store or department, with its own owner there and the same access rules. No-go means you turn it off, take back the seats, and write down why, which is worth more than people think, because the next initiative usually trips over the same thing. “Keep watching it” isn’t one of the options. That’s how dozens of initiatives end up running at once with no results.
+
+Who makes that call depends on the size of the store. A dealer group usually hands it to an executive committee, and nothing rolls out until the committee says yes. In a smaller store it’s the dealer principal or the CFO. Their signature, or it waits. Either way, it’s a name on the plan, and the dealership AI use policy template is a good place to write down which tools staff may use while the pilots run.
+
+When I’m stuck on something that isn’t going the way I want, I ask myself what I’m not doing. For a stalled AI rollout, the answer is almost always the pilot. Nobody ran one.
+
+Where Helion’s Managed AI Fits
+
+Every AI vendor says they’ll help you implement. What does that mean once the contract is signed? For us, it means the plan comes first and the platform second.
+
+Our Managed AI service sets up one governed AI platform for the dealership and connects it across departments, instead of a separate AI tool for each one tied to a single data source. It runs as a managed service, not a one-time setup, so the same team that set it up keeps connecting data sources, adjusting access, and building on it as your goals change. The chat workspace your staff actually open is Secure AI Chat for dealerships, with role-based access managed by our team and an audit trail of prompts and responses.
+
+We work only with automotive and heavy truck dealerships, more than 2,000 of them over nearly 30 years, and 98% of our clients stay with us. That matters here for one reason. The people writing your AI plan are the same people who already manage your network, your security, and your DMS connections, so the data and access rows of the plan don’t get handed to someone who has never seen your store. If you’d like a separate look at AI before anything else, our AI readiness assessment checks what the tools your staff already use can reach.
+
+One team. One plan. Then the license.
+
+What Dealers Ask Before They Buy Seats
+We already bought the licenses. Is it too late to write a plan?
+How many AI projects should a single store run at once?
+Realistically, who writes the plan, us or the vendor?
+Does a single-point store really need an AI committee?
+Should we just block AI until the plan is done?
+Write the Plan Before the Purchase Order
+
+The dealers who get something out of AI this year won’t be the ones who bought the most seats. They’ll be the ones who wrote one page per project first: the problem, the number, the owner, the data, who connects it, who can use it, and the pilot that decides. That page costs nothing. The seats don’t.
+
+If you’d like help writing it, start with our complimentary IT and cybersecurity assessment. We’ll look at how your systems, access, and data connections are set up today, which is most of what the plan needs to know, and we’ll tell you plainly what’s ready for AI and what isn’t. Then you buy the license, if you still need it.
+
+ABOUT THE AUTHOR
+
+Scot McConnor
+
+VP of Technology Advisory, Helion Technologies
+
+Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.
+
+Scot McConnor on LinkedIn
+
+Search articles
+
+IN THIS ARTICLE
+
+What an AI Implementation Plan Actually Is
+Why Buying the License Feels Like Progress
+What Goes in a Dealership AI Implementation Plan
+Unplanned Enterprise AI Is the Bigger Risk
+Run a Pilot, Then Make the Call
+Where Helion’s Managed AI Fits
+What Dealers Ask Before They Buy Seats
+Write the Plan Before the Purchase Order
+
+Get Your Complimentary IT & Cybersecurity Assessment
+
+Speak to an IT Expert →
+★★★★★
+4.9 · 244 Google Reviews
+
+RECENT ARTICLES
+
+AI Phishing Lures Aimed at Dealership Ad Accounts
+October 23, 2026
+Help Desk Identity Verification: Why We Verify Every Dealership Caller
+October 23, 2026
+Is Your IT Provider Fixing Problems or Just Closing Tickets? Signs to Look For at a Dealership
+October 22, 2026
+AI Agents for Car Dealerships: What They Can Do, Who Controls Them and Three First Projects
+October 22, 2026
+
+Confidence in your current setup and actual protection aren't always the same thing. The only way to know which one you have is to look.
+
+Get Your Complimentary IT & Cybersecurity Assessment →
+
+Every Dealership IT Expert You Need, Under One Roof.
+
+★★★★★
+4.9 · 244 Google Reviews
+
+in
+SERVICES
+Managed IT
+Cybersecurity
+Compliance
+Co-Managed IT
+Tekion Enablement
+Managed AI
+DMS Transition
+INDUSTRIES
+Automotive
+Heavy Truck
+Dealer Groups
+Locations
+ABOUT
+About Helion
+Leadership
+Speaking
+Client Testimonials
+Working at Helion
+Contact Us
+RESOURCES
+Blog
+Case Studies
+FAQs
+© 2026 Helion Technologies. All rights reserved.
+support@heliontechnologies.com
+Support Request
+Privacy Policy
+Terms of Service
+×
+Privacy & Cookie Policy Summary
+We respect your privacy and use cookies to improve your experience. Our website uses essential cookies for core functionality, functional cookies to enhance your experience, analytics cookies to understand site usage, and targeting cookies to deliver relevant ads. By consenting to cookies, you agree to their use and data sharing with third-party providers. You can decline targeting cookies, but essential, functional, and analytics cookies will still be used to ensure the site operates smoothly.
+
+By using this site, you agree to our Privacy Policy. For more details, please review our full policy here. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="/" id=""
+  - input type=search name="s" id="single-search-s" label="Search articles" placeholder="Search articles…" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="Search" required=false
+
+--- json-ld ---
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/#article","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/"},"author":{"name":"Scot McConnor","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101"},"headline":"Why Dealership AI Projects Stall: Licenses Bought Before the Plan","datePublished":"2026-10-23T14:39:38+00:00","dateModified":"2026-10-23T14:39:39+00:00","mainEntityOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/"},"wordCount":2306,"publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-implementation-plan-featured.webp","articleSection":["Blog"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/","url":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/","name":"AI Implementation Plan for Dealerships: Plan Before You Buy","isPartOf":{"@id":"https:\/\/heliontechnologies.com\/#website"},"primaryImageOfPage":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/#primaryimage"},"image":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/#primaryimage"},"thumbnailUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-implementation-plan-featured.webp","datePublished":"2026-10-23T14:39:38+00:00","dateModified":"2026-10-23T14:39:39+00:00","description":"An AI implementation plan for your dealership names the problem, the measure, the owner, the data, the access, and a pilot. Write it before buying AI licenses.","breadcrumb":{"@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/#primaryimage","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-implementation-plan-featured.webp","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/dealership-ai-implementation-plan-featured.webp","width":1200,"height":500,"caption":"One page per AI project, written before the licenses are bought."},{"@type":"BreadcrumbList","@id":"https:\/\/heliontechnologies.com\/dealership-ai-implementation-plan\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heliontechnologies.com\/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https:\/\/heliontechnologies.com\/blog\/"},{"@type":"ListItem","position":3,"name":"Why Dealership AI Projects Stall: Licenses Bought Before the Plan"}]},{"@type":"WebSite","@id":"https:\/\/heliontechnologies.com\/#website","url":"https:\/\/heliontechnologies.com\/","name":"Helion Technologies","description":"Every Dealership IT Expert You Need, Under One Roof.","publisher":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heliontechnologies.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":["Organization","ProfessionalService"],"@id":"https:\/\/heliontechnologies.com\/#organization","name":"Helion Technologies","url":"https:\/\/heliontechnologies.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/09\/helion-mark-512-on-white.png","width":512,"height":512,"caption":"Helion Technologies"},"image":{"@id":"https:\/\/heliontechnologies.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.linkedin.com\/company\/helion-technologies\/","https:\/\/www.facebook.com\/heliontech","https:\/\/x.com\/heliontech","https:\/\/www.youtube.com\/channel\/UC41tBC4_IQCw0ZOUqerR1Xw"],"foundingDate":"1997","areaServed":[{"@type":"Country","name":"United States"}],"knowsAbout":["Dealership IT managed services","Dealership cybersecurity","FTC Safeguards Rule compliance","DMS transition services","Tekion enablement","Microsoft 365 security","Heavy truck dealership IT","Automotive dealership IT support","Managed AI for dealerships"],"address":{"@type":"PostalAddress","streetAddress":"3000 Falls Road, Suite 300","addressLocality":"Baltimore","addressRegion":"MD","postalCode":"21211","addressCountry":"US"},"contactPoint":[{"@type":"ContactPoint","contactType":"customer service","telephone":"+1-443-541-1500","areaServed":["US"],"availableLanguage":["English"]}],"telephone":"+1-443-541-1500","alternateName":["Helion Automotive Technologies","Helion Trucking Technologies"]},{"@type":"Person","@id":"https:\/\/heliontechnologies.com\/#\/schema\/person\/17d54fad11c197dca04f1cb8d7157101","name":"Scot McConnor","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","url":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","contentUrl":"https:\/\/heliontechnologies.com\/wp-content\/uploads\/2026\/10\/scot-mcconnor-headshot-96x96.jpg","caption":"Scot McConnor"},"description":"Scot McConnor is VP of Technology Advisory at Helion Technologies. He started on the dealership sales floor in the late '90s, spent five years selling CRM solutions to dealers, and has spent the past 20 years helping dealerships treat IT as a competitive advantage instead of a cost center.","sameAs":["https:\/\/www.linkedin.com\/in\/scot-mcconnor-a58b043\/"],"url":"https:\/\/heliontechnologies.com\/author\/scot-mcconnor\/","worksFor":{"@id":"https:\/\/heliontechnologies.com\/#organization"},"jobTitle":"VP of Technology Advisory"}]}
+{"@context":"https://schema.org","@type":"Article","@id":"https://heliontechnologies.com/dealership-ai-implementation-plan/#article","headline":"Why Dealership AI Projects Stall: Licenses Bought Before the Plan","description":"An AI implementation plan for your dealership names the problem, the measure, the owner, the data, the access, and a pilot. Write it before buying AI licenses.","image":"https://heliontechnologies.com/wp-content/uploads/2026/10/dealership-ai-implementation-plan-featured.webp","datePublished":"2026-10-23T10:39:38-04:00","dateModified":"2026-10-23T10:39:39-04:00","author":{"@id":"https://heliontechnologies.com/#/schema/person/17d54fad11c197dca04f1cb8d7157101"},"publisher":{"@id":"https://heliontechnologies.com/#organization"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://heliontechnologies.com/dealership-ai-implementation-plan/"},"articleSection":"Managed AI","inLanguage":"en-US","keywords":["AI implementation plan","AI implementation strategy","AI roadmap","dealership AI","AI pilot","enterprise AI licenses","AI governance"],"about":[{"@type":"Thing","name":"AI implementation plan","description":"A short written document that ties one AI project to one business problem and names how success is measured, the owner, the data sources, who connects them, the access it gets, and the pilot that ends in a go or no-go decision."},{"@type":"Thing","name":"Enterprise AI licenses at dealerships","description":"Organization-wide AI platform seats bought for dealership staff, which deliver little when they are bought before integrations, data connections, access controls, and goals are defined."},{"@type":"Thing","name":"AI pilot","description":"A limited trial of one AI initiative at one store and one department, with a starting number and an end date set in advance, followed by a go or no-go decision by a named approver."}],"mentions":[{"@type":"Organization","name":"Cox Automotive","url":"https://www.coxautoinc.com/"},{"@type":"CreativeWork","name":"Cox Automotive AI in Auto Retail Tracker","url":"https://www.coxautoinc.com/press-releases/new-cox-automotive-ai-in-auto-retail-tracker/","publisher":{"@type":"Organization","name":"Cox Automotive"}},{"@type":"CreativeWork","name":"NIST AI Risk Management Framework (AI RMF 1.0)","url":"https://www.nist.gov/itl/ai-risk-management-framework","publisher":{"@type":"Organization","name":"National Institute of Standards and Technology"}},{"@type":"Organization","name":"Federal Trade Commission","url":"https://www.ftc.gov/"},{"@type":"CreativeWork","name":"FTC Safeguards Rule, 16 CFR 314.4","url":"https://www.law.cornell.edu/cfr/text/16/314.4","publisher":{"@type":"Organization","name":"Federal Trade Commission"}},{"@type":"CreativeWork","name":"Microsoft 365"}]}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://heliontechnologies.com/dealership-ai-implementation-plan/#faq","mainEntity":[{"@type":"Question","name":"We already bought the licenses. Is it too late to write a plan?","acceptedAnswer":{"@type":"Answer","text":"Not at all. It just changes the first step. Pick the two or three initiatives people actually use, write the one-page plan for each, and pause the rest until they have an owner and a number. Unused seats are cheaper to give back than to keep paying for."}},{"@type":"Question","name":"How many AI projects should a single store run at once?","acceptedAnswer":{"@type":"Answer","text":"One or two. A single store has one service director, one office, and one IT contact, and each pilot needs real attention from the owner to mean anything. Run more than that and you can't tell which one moved the number."}},{"@type":"Question","name":"Realistically, who writes the plan, us or the vendor?","acceptedAnswer":{"@type":"Answer","text":"You do, with help. The vendor knows the product, but it doesn't know your pay plans, your DMS setup, or which manager will actually own the result, and its job is to sell seats. Have the department manager write the problem and the measure, have your IT provider fill in the data and access rows, and have the approver sign it."}},{"@type":"Question","name":"Does a single-point store really need an AI committee?","acceptedAnswer":{"@type":"Answer","text":"Probably not a committee. It needs one approver, usually the dealer principal or the CFO, and a rule that nothing goes live without that sign-off. The plan can be a page per project and a short list of approved tools."}},{"@type":"Question","name":"Should we just block AI until the plan is done?","acceptedAnswer":{"@type":"Answer","text":"Blocking usually backfires. People switch to their phones and personal accounts, and then the store has even less visibility than before. A better move is to name one approved tool for everyday use while the plans for bigger projects get written."}}],"speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-faq-answer"]}}
+{"@context":"https://schema.org","@type":"WebPage","@id":"https://heliontechnologies.com/dealership-ai-implementation-plan/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".fk-lead",".fk-faq-answer"]}}
+

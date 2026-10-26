@@ -1,0 +1,130 @@
+URL: https://www.promptadvisers.com/personal-ai-benchmark
+Fetched: 2026-10-26T03:45:24Z
+HTTP status: 200
+Final URL: https://www.promptadvisers.com/personal-ai-benchmark
+Content-Type: text/html
+Via: chrome-headless
+Title: Personal AI Benchmark: Test New Models on Your Own Work
+Meta description: A personal AI benchmark tests new models on your real chat history, not a public leaderboard. Get the free Claude Code skill Mark built to prove it.
+Canonical: https://www.promptadvisers.com/personal-ai-benchmark
+Robots: 
+H1: Personal AI Benchmark: Test New Models on Your Own Work
+
+Skip to content
+PROMPT ADVISERS
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+FREE 15-MINUTE CALL
+
+FIELD NOTES · CLAUDE CODE
+
+Personal AI Benchmark: Test New Models on Your Own Work
+
+A personal AI benchmark tests new models on your real chat history, not a public leaderboard. Get the free Claude Code skill Mark built to prove it.
+
+MARK KASHEF
+JULY 27, 2026
+6 MIN READ
+WATCH THE VIDEO
+
+A personal AI benchmark is a private test you build from your own chat history, so a brand new model gets graded on your actual emails, briefs, and reports instead of a public leaderboard. You have Claude or Codex read your past conversations, pull out the tasks you run every week, and replay those same tasks against whatever just launched. Mark Kashef built this as one Claude Code skill, so a new model release stops meaning another tutorial and starts meaning one command.
+
+TL;DR
+
+Mark's /benchmark skill scans your own chat history, in his case over 1,000 conversations and nearly two gigabytes of text, and mines out the tasks you actually run.
+One slash command runs a new model against an old one on those exact tasks side by side, for 30 to 40 minutes per trial.
+You write your own rubric first, covering quality, instruction fidelity, token efficiency, and speed, so the AI grading itself never gets to set its own bar.
+In Mark's own trial, Opus 5 versus Fable 5 came back dead even on email triage, meaning no reason to switch models outside of raw cost.
+How a Personal AI Benchmark Replaces the Weekly Tutorial
+
+A personal AI benchmark works by testing a new model against the work you actually do, not a demo somebody else built for a video. Every time a model drops, you get 100 tutorials that all watch the same website, game, or app get built, then a scroll through benchmarks that mean nothing for a normal workday.
+
+WATCH ON YOUTUBE
+
+Public benchmarks score models on tasks like WebDev Arena and math Olympiad problems, numbers that rarely map to a client email, a repo audit, or a lead list. Mark skips the leaderboard entirely. He has Claude or Codex read his own chat history, isolate his recurring tasks, and run those same tasks against the new model on his own terms.
+
+Mark shares tools like the personal AI benchmark skill inside Early AI-dopters, 1,000+ people mastering Claude Code and Codex together.
+
+JOIN EARLY AI-DOPTERS
+Why Don't Public AI Benchmarks Predict Your Results?
+
+Public AI benchmarks don't predict your results because they measure a different set of tasks than the work sitting in your inbox. Researchers who studied the information value of AI benchmarks for practitioners found scores routinely drop once you move from a public test set to a real task distribution, and a public benchmark score is a weak stand in for how a model handles your specific workload.
+
+Mark calls the missing piece a vibe check. How verbose is the model. How judgmental. How sassy when it disagrees with your brief. None of that shows up on a public arena leaderboard, and all of it changes whether you enjoy using a model five days a week, not just whether it can pass a test.
+
+How Mark's /benchmark Skill Actually Works
+
+Mark's skill works in three steps: scan your chat history for recurring tasks, run those tasks across two models or two AI reasoning effort levels, then grade the results against a rubric you wrote before you ever saw an output. Type a slash command like compare Opus 5 to Fable 5 on low effort for copywriting, and it opens a tracking page in your browser and runs each trial live.
+
+MATCHUP	TASK TESTED	VERDICT
+Opus 5 (low) vs Claude Fable 5 (low)	Executive email triage	Dead even, not worth switching outside of cost
+Claude Opus (high) vs Fable 5 (low)	Copywriting brief	Fable 5 on low quietly wins
+Opus 5 vs Fable 5	General work task	Opus 5 talks like a person and works faster, but missed the brief
+
+Once a trial finishes, the report pulls from a JSON file with the full metadata: the prompt tested, the before and after, how many turns it took, how many words, how many checks it passed. You get a postmortem for every matchup, not just a final score.
+
+What Do You Need to Build Your Own Rubric?
+
+You need three kinds of scores in your rubric: quality out of 10 against a definition you write yourself, instruction fidelity for how closely the model followed your exact ask, and token efficiency covering speed and the number of turns a model needs to finish.
+
+Turns matter more than people think. The more turns a model takes, the more tools it calls, and the more context and tokens it burns along the way. Letting an AI grade itself without this rubric in place first just hands it the answer key. Set your bar before the run starts, and the result tells you something real.
+
+Mark's Final Thoughts
+
+I'm done letting someone else's benchmark decide my stack for me. The personal AI benchmark skill is free, and it works on whatever ships next, Kimi, GPT, a new Opus point release, it doesn't matter. Grab it, point it at your own chat history, and let your actual work cast the vote instead of a headline built for clicks.
+
+Personal AI Benchmark FAQs
+
+What is a personal AI benchmark?
+
+A personal AI benchmark is a private test built from your own chat history instead of a public leaderboard. You mine your past conversations for the tasks you actually run, then replay those same tasks against a new model. The score that matters is how it does on your work, not on a coding arena or a math test.
+
+How do I build my own AI model benchmark in Claude Code?
+
+Grab Mark's free skill, drop it into Claude Code, and run the slash command against two models or two effort levels at once. The skill scans your conversation history for recurring tasks, runs each one side by side for 30 to 40 minutes, then grades the output against a rubric you wrote yourself before the run started.
+
+Why is a personal AI benchmark better than public leaderboards?
+
+Public leaderboards score models on tasks like coding arenas and math Olympiad problems, which rarely match a client email, a repo audit, or a lead list. A personal AI benchmark tests the exact work sitting in your inbox, so a high leaderboard score stops mattering if the model does not move the needle on what you actually do.
+
+How long does one benchmark trial take to run?
+
+Mark's trials run 30 to 40 minutes each, since the skill executes the real task twice, once per model or effort level, then writes a full postmortem report. You can queue up several trials at once. A live tracking page opens in your browser so you can watch each row move from in progress to complete.
+
+Where can I get Mark's personal AI benchmark skill for free?
+
+Mark gives the skill away free through the link in his video description, and he walks through customizing the rubric inside Early AI-dopters, his community of 1,000+ people mastering Claude Code and Codex. You tailor the rubric and the task list to your own work once you have it installed.
+
+BY MARK KASHEF
+
+ALL FIELD NOTES
+CONSULTING
+SECURITY
+COMMUNITY
+WORKSHOPS
+ABOUT
+MEDIA
+BLOG
+CONTACT
+EMAIL
+YOUTUBE
+LINKEDIN
+X
+
+PROMPT ADVISERS · MMXXVI
+
+PRIVACY
+TERMS
+
+PROMPT ADVISERS
+
+--- json-ld ---
+[{"@context":"https://schema.org","@type":"Organization","@id":"https://www.promptadvisers.com/#organization","name":"Prompt Advisers","url":"https://www.promptadvisers.com","description":"The AI consultancy that teaches. Enterprise consulting, workshops, and team bootcamps on Claude Code and Codex, from the founder who teaches them at O'Reilly.","logo":{"@type":"ImageObject","url":"https://www.promptadvisers.com/icon-192.png","width":192,"height":192},"email":"mark@promptadvisers.com","founder":[{"@id":"https://www.promptadvisers.com/#founder"},{"@id":"https://www.promptadvisers.com/#cofounder"}],"sameAs":["https://www.youtube.com/@mark_kashef","https://www.linkedin.com/in/mkashef","https://x.com/MarkKashef","https://www.facebook.com/PromptAdvisers"]},{"@context":"https://schema.org","@type":"WebSite","@id":"https://www.promptadvisers.com/#website","url":"https://www.promptadvisers.com","name":"Prompt Advisers","publisher":{"@id":"https://www.promptadvisers.com/#organization"}}]
+[{"@context":"https://schema.org","@type":"Article","@id":"https://www.promptadvisers.com/personal-ai-benchmark#article","headline":"Personal AI Benchmark: Test New Models on Your Own Work","description":"A personal AI benchmark tests new models on your real chat history, not a public leaderboard. Get the free Claude Code skill Mark built to prove it.","image":["https://www.promptadvisers.com/blog/personal-ai-benchmark/personal-ai-benchmark-hero.webp"],"datePublished":"2026-07-27T00:00:00-05:00","dateModified":"2026-07-27T00:00:00-05:00","author":{"@type":"Person","@id":"https://www.promptadvisers.com/#founder","name":"Mark Kashef","url":"https://www.promptadvisers.com/about"},"publisher":{"@id":"https://www.promptadvisers.com/#organization"},"mainEntityOfPage":"https://www.promptadvisers.com/personal-ai-benchmark","keywords":"personal AI benchmark, AI model benchmark, Claude Code benchmark skill, compare AI models, AI model comparison test","articleSection":"Field Notes"},{"@context":"https://schema.org","@type":"VideoObject","name":"Personal AI Benchmark: Test New Models on Your Own Work","description":"A personal AI benchmark tests new models on your real chat history, not a public leaderboard. Get the free Claude Code skill Mark built to prove it.","thumbnailUrl":["https://i.ytimg.com/vi/3ICM9ZdflZA/maxresdefault.jpg"],"uploadDate":"2026-07-26T00:00:00-05:00","duration":"PT8M23S","contentUrl":"https://www.youtube.com/watch?v=3ICM9ZdflZA","embedUrl":"https://www.youtube-nocookie.com/embed/3ICM9ZdflZA","publisher":{"@id":"https://www.promptadvisers.com/#organization"}},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a personal AI benchmark?","acceptedAnswer":{"@type":"Answer","text":"A personal AI benchmark is a private test built from your own chat history instead of a public leaderboard. You mine your past conversations for the tasks you actually run, then replay those same tasks against a new model. The score that matters is how it does on your work, not on a coding arena or a math test."}},{"@type":"Question","name":"How do I build my own AI model benchmark in Claude Code?","acceptedAnswer":{"@type":"Answer","text":"Grab Mark's free skill, drop it into Claude Code, and run the slash command against two models or two effort levels at once. The skill scans your conversation history for recurring tasks, runs each one side by side for 30 to 40 minutes, then grades the output against a rubric you wrote yourself before the run started."}},{"@type":"Question","name":"Why is a personal AI benchmark better than public leaderboards?","acceptedAnswer":{"@type":"Answer","text":"Public leaderboards score models on tasks like coding arenas and math Olympiad problems, which rarely match a client email, a repo audit, or a lead list. A personal AI benchmark tests the exact work sitting in your inbox, so a high leaderboard score stops mattering if the model does not move the needle on what you actually do."}},{"@type":"Question","name":"How long does one benchmark trial take to run?","acceptedAnswer":{"@type":"Answer","text":"Mark's trials run 30 to 40 minutes each, since the skill executes the real task twice, once per model or effort level, then writes a full postmortem report. You can queue up several trials at once. A live tracking page opens in your browser so you can watch each row move from in progress to complete."}},{"@type":"Question","name":"Where can I get Mark's personal AI benchmark skill for free?","acceptedAnswer":{"@type":"Answer","text":"Mark gives the skill away free through the link in his video description, and he walks through customizing the rubric inside Early AI-dopters, his community of 1,000+ people mastering Claude Code and Codex. You tailor the rubric and the task list to your own work once you have it installed."}}]},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Prompt Advisers","item":"https://www.promptadvisers.com"},{"@type":"ListItem","position":2,"name":"Field Notes","item":"https://www.promptadvisers.com/blog"},{"@type":"ListItem","position":3,"name":"Personal AI Benchmark: Test New Models on Your Own Work","item":"https://www.promptadvisers.com/personal-ai-benchmark"}]}]
+

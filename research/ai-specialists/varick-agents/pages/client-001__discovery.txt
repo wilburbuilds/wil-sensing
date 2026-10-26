@@ -1,0 +1,147 @@
+URL: https://demo.varickagents.com/client-001/discovery
+Fetched: 2026-10-26T03:35:47Z
+HTTP status: 200
+Final URL: https://demo.varickagents.com/client-001/discovery
+Content-Type: text/html
+Via: chrome-headless
+Title: Varick Agents | Finance Transformation Case Study
+Meta description: Finance department transformation case study for a $4B industrial manufacturer.
+Canonical: 
+Robots: 
+H1: How the team learned this operation
+
+V
+VARICK
+FINANCE ENGINE
+CASE STUDY
+01
+Discovery
+02
+Setup
+03
+Team Views
+04
+Under the Hood
+05
+Outcomes
+Confidential
+Industrial Manufacturing Corp
+|
+Finance Department
+|
+4-Month Implementation
+CHAPTER 01
+How the team learned this operation
+
+The Diagnosis Agent scans Industrial Manufacturing Corp's finance operations across 6 connected systems. In 2-4 weeks, it surfaces exactly where time is being wasted and what to automate first.
+
+SYSTEMS DETECTED & MAPPED
+N
+Connected
+NetSuite
+ERP (Primary)
+API
+O
+Connected
+Oracle
+ERP (Legacy)
+API
+R
+Connected
+Ramp
+Corporate Cards
+API
+C
+Connected
+Concur
+Expense (Phasing Out)
+API
+Connected
+Snowflake
+Data Warehouse
+API
+X
+Connected
+Excel
+Spreadsheets / Treasury
+File Ingestion
+6
+Systems mapped
+23
+Workflows analyzed
+12
+Recurring exception types
+2,000+
+Hours of manual work identified
+Where time is being wasted
+
+Exception heatmap across Industrial Manufacturing Corp's finance operations. Hover for detail.
+
+AP Exceptions
+32%
+Intercompany Reconciliation
+24%
+Close Cycle
+20%
+Cash Position / Treasury
+14%
+FP&A Reporting
+10%
+Opportunity Map
+Prioritized by ROI
+
+The deliverable: a clear picture of what to automate first and why. Click any row for detail.
+
+ANNUAL VALUE CREATED
+$11.6M
+Cost reduction
+$6.4M · 55%
+Revenue growth
+$2.3M · 20%
+Risk mitigation
+$2.9M · 25%
+
+Modeled from the diagnosis baseline. Value is captured across cost reduction, revenue growth, and risk mitigation — not cost alone.
+
+#
+WORKFLOW
+AUTOMATION
+ANNUAL VALUE
+TIMELINE
+P1
+AP Exception Processing
+88%
+$3.2M
+4w
+P2
+Intercompany Reconciliation
+82%
+$1.8M
+8w
+P3
+Close Management
+75%
+$2.4M
+12w
+P4
+Treasury & Cash Position
+90%
+$1.1M
+12w
+P5
+AR Collections & Cash Application
+78%
+$1.6M
+8w
+P6
+FP&A Variance Analysis
+72%
+$0.9M
+16w
+P7
+Expense Management (Ramp Sync)
+85%
+$0.6M
+4w
+Next: Setup
+

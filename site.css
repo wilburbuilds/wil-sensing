@@ -22,10 +22,13 @@ nav ul a:hover,nav ul a[aria-current]{color:var(--ink)}
 nav ul a[aria-current]{text-decoration:underline;text-decoration-color:var(--accent);text-decoration-thickness:2px}
 
 .btn{display:inline-block;padding:15px 22px;border-radius:10px;font:500 16px/1 var(--sans);text-decoration:none;border:1px solid var(--rule)}
-.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
-.btn.primary:hover{background:var(--accent-ink)}
-.band .btn.primary{color:#121316}
-.band .btn.primary:hover{background:#ff7a43}
+.btn.primary{background:#c44712;border-color:#c44712;color:#fff}
+.btn.primary:hover{background:#b23f0f;border-color:#b23f0f}
+.band .btn.primary{background:var(--accent);border-color:var(--accent);color:#121316}
+.band .btn.primary:hover{background:#ff7a43;border-color:#ff7a43}
+.split p+p{margin-top:16px}
+.from-work{margin-bottom:0}
+.from-work+.rows{margin-top:20px}
 .btn.ghost:hover{border-color:var(--ink-3)}
 .actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:36px}
 

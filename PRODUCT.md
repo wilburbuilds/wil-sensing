@@ -37,15 +37,15 @@ Fit call (free, 30 minutes, no commitment; can end in a no) → Job map (free, s
 Our Work shows four peer examples of real work Wil has done. The shop is not framed as the main example. Every business stays unnamed (source: `site-content-v1.md`).
 
 A local auto repair shop, where Wil was hired full-time for business development and marketing:
-- $217K in vendor credits found by matching 11,139 purchase-order lines against billing; the leak stopped going forward. Do not claim past money was recovered. Homepage phrasing of this figure: "Stopped over $200K in leakage."
+- $217K found by matching 11,139 purchase-order lines against billing; the leak stopped going forward. Do not claim past money was recovered. Public label: "Leakage stopped." Homepage: "Over $200K. Leakage stopped." Do not say "vendor credits" on the pages.
 - ~48% more profit on eligible parts. Wil confirmed this is realized. Do not label it modeled, a 90-day model, or gross.
 - One trusted record of customers, cars, orders, and calls; caller screen; morning shop brief; customer follow-up list; newsletter in the owner's voice.
 - Knowledge kept, with no outcome figures: front-office chat sessions summarized into repeatable skills, and a technician research tool that returns step-by-step answers with sources.
 - $300+/month from replacing scheduling software is real and stays off the site, by Wil's choice.
-- Trust built in: people approve pricing changes, AI claims link to sources, AI notes labeled and deletable, customer data checked across about 100,000 records.
+- Trust, worded for all the work: people approve, every claim shows its source, AI notes are labeled, AI only where it fits. The check across about 100,000 linked records is real and is not on the page.
 
 Sales pipeline, research, and marketing run by AI agents are the same kind of example. Keep the current wording. No names, and no numbers or results.
-The homepage does not tell the shop story. Its stats are only "Stopped over $200K in leakage." and "~48% more profit on eligible parts."
+The homepage does not tell the shop story. Its stats are only "Over $200K. Leakage stopped." and "~48% more profit on eligible parts." The measure template is not on the homepage.
 Absent, never fabricate: testimonials, client logos, outcome numbers for work outside the shop, growth figures (pending), photos of the shop.
 
 ## Design Standard: less is more

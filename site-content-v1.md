@@ -6,13 +6,13 @@ Status: this is the copy served from the repo root. GitHub Pages publishes `main
 
 - Positioning: "Hand off the busywork. Keep the decisions." A third line on speed is still open. It is not on the site. No "in weeks" or other timeline promise.
 - Flow: free 30-minute fit call (no commitment; can end in a no) → free short Job map of every applicable job, not one job and not a set number → build, the first paid step, cheap-first, AI only where it helps → monthly run-and-govern, with a living job list. The first list is never the final one. Wil decided the Job map is free on 2026-10-26.
-- Measure test, shown as a template, not a result: Improve [measure] from [baseline] to [target] by [date].
+- Measure test, shown as a template on How we work, not on the homepage: Improve [measure] from [baseline] to [target] by [date].
 - Lightweight and fast: no six-month study, no slide deck.
 - Who we serve is still open. No industry, size, or geography targeting on the page.
 - Plain language, a product for trades, and "one loop" are judgment calls. They are not stated as rules.
 - "Audit" is not used. "We" for the business. About stays personal. No team size. "Streamline" stays out.
 - No prices on the page. The fit call and the Job map are free. The build is the first paid step, and its price is sized to the jobs on the map. No amounts. There is no fee credit, because the map is free.
-- Homepage stats are two lines only: "Stopped over $200K in leakage." and "~48% more profit on eligible parts." "Over $200K" is the homepage phrasing of the existing $217K. Do not say owed, vendor credits, or not recovered on the homepage. Do not say modeled, 90-day, gross, or not yet realized. The profit is realized. Do not claim past money was recovered. Our Work keeps $217K and says the leak stopped going forward. The $300+/mo scheduling figure stays off. No invented results.
+- Homepage stats are two lines only: "Over $200K. Leakage stopped." and "~48% more profit on eligible parts." "Over $200K" is the homepage phrasing of the existing $217K. Do not say owed, vendor credits, or not recovered. Do not say modeled, 90-day, gross, or not yet realized. The profit is realized. Do not claim past money was recovered. Our Work keeps $217K, labeled "Leakage stopped," and says the leak was stopped going forward. The $300+/mo scheduling figure stays off. No invented results.
 - Design: B v3, light, dark bands. Less is more. Hero is the headline, the call button, and the draft card. Contact only in the close.
 
 ## Page 1: Home
@@ -38,10 +38,8 @@ What gets sold instead is another tool, or months of study and a thick deck.
 
 Short work. No six-month study, and no slide deck. AI only where it helps. The first list is a start, not the last.
 
-Improve [measure] from [baseline] to [target] by [date].
-
-Stats, not a shop story. Specific examples live on Our Work.
-- **Over $200K.** Stopped in leakage.
+Stats, not a shop story. Specific examples live on Our Work. The measure template is not on this page.
+- **Over $200K.** Leakage stopped.
 - **~48%.** More profit on eligible parts.
 
 [See our work →] · [See how we work →]
@@ -49,9 +47,7 @@ Stats, not a shop story. Specific examples live on Our Work.
 ### About
 **Meet Wil.**
 
-Wil has built this for several businesses. They stay unnamed.
-
-The shop sentence ("hired full-time… dramatically for the better") stays on Our Work, inside that example. It is not on the homepage.
+Wil builds these tools for local businesses.
 
 The person who maps the work is the person who builds it and runs it. Ten years in brand and content is why what we build is easy to use.
 
@@ -96,34 +92,50 @@ We find the jobs worth handing off, however many apply. Each one gets a measure 
 
 The four examples below are peers. The shop is not the main example, and the others are not secondary.
 
+Four peer examples. Same shape: a title, one short paragraph, and a short list. The shop also keeps its two figures.
+
 ### A local auto repair shop
-Wil was hired full-time there for business development and marketing. Here's what he found and built there.
+Wil was hired full-time at a local auto repair shop for business development and marketing. The leak was stopped going forward, and each part is priced instead of a blanket markup.
 
-### Vendor credits
-Wil matched 11,139 purchase-order lines against billing and found vendor credits that weren't coming back. The leak stopped going forward. A person still checks the exceptions. **$217K. Stopped going forward.** Do not claim past money was recovered.
+- **$217K.** Leakage stopped.
+- **~48%.** More profit on eligible parts.
 
-### Parts pricing
-Pricing each part instead of a blanket markup. The tool only flags. A person approves before anything changes. **~48% more profit on eligible parts.** Realized. Not labeled modeled.
-
-### What was built
+What was built, trimmed to four items:
 - One trusted record of customers, cars, orders, calls, and history.
-- Caller screen before anyone picks up.
-- Morning shop brief every weekday.
-- Customer follow-up list.
-- Newsletter in the owner's voice.
-- Knowledge kept, with no outcome figures: front-office chat sessions summarized into repeatable skills, and a technician research tool that returns step-by-step answers with sources.
+- Caller screen. Who's calling, their history, and why, before anyone picks up.
+- Morning shop brief every weekday: appointments, parts on hold, estimates waiting, and overdue declined work.
+- Customer follow-up for customers who've gone quiet or are due for service.
 
-### How it was built to be trusted
-People approve. Every AI claim shows its source. AI notes are labeled and can be deleted in one click. Customer data stayed separate across about 100,000 linked records. Some work moved from AI back to plain code where it had to be exact.
+Still true, and not on this short block: 11,139 purchase-order lines matched, a person still checks the exceptions, the newsletter in the owner's voice, and knowledge kept (front-office skills and the technician research tool). No "vendor credits" on the page. Do not claim past money was recovered.
 
 ### Sales pipeline
-A pipeline that researches each prospect, drafts outreach in the salesperson's voice, tracks every lead's stage, and flags who's due for a follow-up each morning. A person reads and sends every message.
+A pipeline. A person reads and sends every message.
+- Researches each prospect.
+- Drafts outreach in the salesperson's voice.
+- Tracks every lead's stage.
+- Flags who's due for a follow-up each morning.
 
 ### Research
-A research helper that gathers the sources, pulls out the facts that matter, and writes a short brief where every claim links back to where it came from.
+A research helper that writes a short brief.
+- Gathers the sources.
+- Pulls out the facts that matter.
+- Every claim links back to where it came from.
 
 ### Marketing run by AI agents
-Agents plan the calendar, draft posts and emails in the brand's voice, learn from the owner's edits, and report what performed. Nothing goes out without a person's OK.
+Nothing goes out without a person's OK.
+- Plan the calendar.
+- Draft posts and emails in the brand's voice.
+- Learn from the owner's edits.
+- Report what performed.
+
+### How it was built to be trusted
+Page-wide, after the four examples. Applies to all the work.
+- People approve. Nothing changes without a person reviewing it.
+- Every claim shows its source. Each fact links back to where it came from.
+- AI notes are labeled. They are marked as AI generated and can be deleted.
+- AI only where it fits. Some work moved from AI back to plain code where it had to be exact.
+
+The about-100,000 linked-records check is real and is not on the page.
 
 No names, no numbers, and no results on these three. The "Beyond the shop" heading is gone.
 

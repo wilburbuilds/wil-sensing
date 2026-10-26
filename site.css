@@ -62,6 +62,7 @@ section h2{font-size:clamp(32px,3.4vw,46px);line-height:1.05}
 .rows.two>li{grid-template-columns:4fr 8fr}
 .rows.stats>li{grid-template-columns:minmax(240px,5fr) 7fr;align-items:center}
 .rows.stats .fig{text-align:left}
+.rows.lines>li{grid-template-columns:1fr;color:var(--ink-2)}
 .rows h3{font-size:26px;line-height:1.1}
 .rows .what{color:var(--ink-3);margin-top:8px;font-size:16px}
 .rows p,.rows li li{color:var(--ink-2)}
@@ -71,7 +72,6 @@ section h2{font-size:clamp(32px,3.4vw,46px);line-height:1.05}
 .fig small{display:block;margin-top:8px;font:400 13px/1.3 var(--sans);color:var(--ink-3);letter-spacing:0}
 .n{font:400 14px/1 var(--mono);color:var(--accent-ink);display:block;margin-bottom:12px}
 .work-example + .work-example{margin-top:88px;padding-top:88px;border-top:1px solid var(--rule)}
-#trust{font-size:clamp(28px,2.6vw,36px);line-height:1.1;margin-top:72px}
 .stakes{font:700 clamp(20px,1.8vw,24px)/1.4 var(--display);letter-spacing:-.015em;max-width:44ch}
 .links{display:flex;gap:24px;margin-top:24px;font-weight:500;color:var(--accent-ink)}
 

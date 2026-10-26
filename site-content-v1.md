@@ -12,7 +12,7 @@ Status: this is the copy served from the repo root. GitHub Pages publishes `main
 - Plain language, a product for trades, and "one loop" are judgment calls. They are not stated as rules.
 - "Audit" is not used. "We" for the business. About stays personal. No team size. "Streamline" stays out.
 - No prices on the page. The fit call and the Job map are free. The build is the first paid step, and its price is sized to the jobs on the map. No amounts. There is no fee credit, because the map is free.
-- Proof: one shop, unnamed. $217K found and stopped, not recovered. ~48% labeled modeled. The $300+/mo scheduling figure stays off. No invented results.
+- Proof with numbers is the unnamed shop only: $217K found and stopped, not recovered; ~48% labeled modeled. Sales pipeline, research, and marketing run by AI agents are the same kind of example, with no names and no numbers. The $300+/mo scheduling figure stays off. No invented results.
 - Design: B v3, light, dark bands. Less is more. Hero is the headline, the call button, and the draft card. Contact only in the close.
 
 ## Page 1: Home
@@ -40,7 +40,7 @@ Short work. No six-month study, and no slide deck. AI only where it helps. The f
 
 Improve [measure] from [baseline] to [target] by [date].
 
-At one local auto repair shop:
+At one local auto repair shop: (still the only proof on the homepage; left as written and flagged, not rewritten)
 - **$217K** in vendor credits found by matching 11,139 purchase-order lines against billing. The leak stopped going forward. Found, not recovered.
 - **About 48%** higher gross profit on eligible parts from pricing each part, in a 90-day model. Modeled, not yet realized.
 
@@ -88,7 +88,12 @@ We find the jobs worth handing off, however many apply. Each one gets a measure 
 ## Page 3: Our Work
 
 ### Intro
-**A local auto repair shop.** Wil was hired full-time there for business development and marketing. Here's what he found and built there.
+**Real work Wil has built.** The businesses stay unnamed.
+
+The four examples below are peers. The shop is not the main example, and the others are not secondary.
+
+### A local auto repair shop
+Wil was hired full-time there for business development and marketing. Here's what he found and built there.
 
 ### Vendor credits
 Wil matched 11,139 purchase-order lines against billing and found vendor credits that weren't coming back. The leak stopped going forward. A person still checks the exceptions. **$217K. Found, not recovered.**
@@ -107,11 +112,16 @@ Pricing each part instead of a blanket markup, in a 90-day model. The tool only 
 ### How it was built to be trusted
 People approve. Every AI claim shows its source. AI notes are labeled and can be deleted in one click. Customer data stayed separate across about 100,000 linked records. Some work moved from AI back to plain code where it had to be exact.
 
-### Beyond the shop
-Still on the page, for Wil to review. Each example is tagged Synthetic placeholder. Not clients and not results.
-1. Sales pipeline
-2. Research
-3. Marketing run by AI agents
+### Sales pipeline
+A pipeline that researches each prospect, drafts outreach in the salesperson's voice, tracks every lead's stage, and flags who's due for a follow-up each morning. A person reads and sends every message.
+
+### Research
+A research helper that gathers the sources, pulls out the facts that matter, and writes a short brief where every claim links back to where it came from.
+
+### Marketing run by AI agents
+Agents plan the calendar, draft posts and emails in the brand's voice, learn from the owner's edits, and report what performed. Nothing goes out without a person's OK.
+
+No names, no numbers, and no results on these three. The "Beyond the shop" heading is gone.
 
 ## Removed before launch
 
@@ -139,5 +149,4 @@ Still on the page, for Wil to review. Each example is tagged Synthetic placehold
 6. Growth figures. "Build for growth" was removed rather than waiting on them.
 7. Shop story fact check, and the $217K time period (not stated).
 8. Photo of Wil. The empty box was removed rather than shipping a placeholder.
-9. Beyond the shop: Wil is reviewing the three synthetic examples. They stay on Our Work, tagged as synthetic, until he says to keep or remove them.
-10. IP ownership of the shop tools (lawyer) before more detail goes public.
+9. IP ownership of the shop tools (lawyer) before more detail goes public.

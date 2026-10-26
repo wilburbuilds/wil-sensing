@@ -34,14 +34,18 @@ Fit call (free, 30 minutes, no commitment; can end in a no) → Job map (free, s
 - Fresh visual direction. The previous live page and the r12 design are not references.
 
 ## Evidence on Hand
-From one local auto repair shop, where Wil was hired full-time for business development and marketing (source: `site-content-v1.md`):
+Our Work shows four peer examples of real work Wil has done. The shop is not framed as the main example. Every business stays unnamed (source: `site-content-v1.md`).
+
+A local auto repair shop, where Wil was hired full-time for business development and marketing:
 - $217K in vendor credits found by matching 11,139 purchase-order lines against billing; the leak stopped going forward. Never "saved" or "recovered."
 - About 48% higher gross profit on eligible parts in a 90-day model. Always labeled modeled, not realized.
 - One trusted record of customers, cars, orders, and calls; caller screen; morning shop brief; customer follow-up list; newsletter in the owner's voice.
 - Knowledge kept, with no outcome figures: front-office chat sessions summarized into repeatable skills, and a technician research tool that returns step-by-step answers with sources.
 - $300+/month from replacing scheduling software is real and stays off the site, by Wil's choice.
 - Trust built in: people approve pricing changes, AI claims link to sources, AI notes labeled and deletable, customer data checked across about 100,000 records.
-Absent, never fabricate: testimonials, client logos, other client results, growth figures (pending), photos of the shop. The three "Beyond the shop" examples are still on Our Work, tagged synthetic, while Wil reviews them.
+
+Sales pipeline, research, and marketing run by AI agents are the same kind of example. Keep the current wording. No names, and no numbers or results.
+Absent, never fabricate: testimonials, client logos, outcome numbers for work outside the shop, growth figures (pending), photos of the shop.
 
 ## Design Standard: less is more
 Source: Jakub Krehel, "Less is more, more or less" (https://jakub.kr/writing/less-is-more). Wil adopted it 2026-10-24.

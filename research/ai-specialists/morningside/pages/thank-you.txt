@@ -1,0 +1,15 @@
+URL: https://www.morningside.ai/thank-you
+Fetched: 2026-10-26T03:52:39Z
+HTTP status: 200
+Final URL: https://www.morningside.ai/thank-you
+Content-Type: text/html
+Via: chrome-headless
+Title: Welcome — Morningside AI
+Meta description: 
+Canonical: https://www.morningside.ai/thank-you
+Robots: 
+H1: There, Welcome To Morningside AI! Please book in a discovery call below to discuss your project.
+
+There, Welcome To Morningside AI!
+Please book in a discovery call below to discuss your project.
+

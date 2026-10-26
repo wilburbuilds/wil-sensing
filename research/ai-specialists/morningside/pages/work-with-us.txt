@@ -1,0 +1,66 @@
+URL: https://www.morningside.ai/work-with-us
+Fetched: 2026-10-26T03:52:39Z
+HTTP status: 200
+Final URL: https://www.morningside.ai/work-with-us
+Content-Type: text/html
+Via: chrome-headless
+Title: Work With Us
+Meta description: 
+Canonical: https://www.morningside.ai/work-with-us
+Robots: 
+H1: Ready to transform your business with AI?
+
+WORK WITH US
+Ready to transform your business with AI?
+
+We help companies unlock real operational efficiency by identifying where AI and software can drive measurable impact and then building and implementing those solutions end-to-end. If you're looking for a partner who can cut through the noise and deliver AI that actually moves the needle, let's talk.
+
+Based in
+Auckland, New Zealand
+Email
+tara@morningside.ai
+Working globally
+Clients across AU, US, UK & EU
+First Name
+Last Name
+Work Email
+Company
+Company Website
+Your Role
+Select your role
+CEO / Founder
+COO / Head of Operations
+CFO / Finance Lead
+CIO / CTO / Head of Data
+VP / Director
+Other
+Company Size
+Number of employees
+1 - 50
+50 - 100
+100 - 500
+500+
+Budget Range
+$15K - $50K
+$50K - $150K
+$150K - $500K
+Not Sure Yet
+Tell Us About Your Project
+SUBMIT INQUIRY
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=text name="firstName" id="firstName" label="First Name" placeholder="First Name" aria="" required=true
+  - input type=text name="lastName" id="lastName" label="Last Name" placeholder="Last Name" aria="" required=true
+  - input type=email name="email" id="email" label="Work Email" placeholder="you@company.com" aria="" required=true
+  - input type=text name="company" id="company" label="Company" placeholder="Your company" aria="" required=true
+  - input type=text name="website" id="website" label="Company Website" placeholder="https://yourcompany.com" aria="" required=true
+  - select type= name="role" id="role" label="Your Role" placeholder="" aria="" required=true options=Select your role | CEO / Founder | COO / Head of Operations | CFO / Finance Lead | CIO / CTO / Head of Data | VP / Director | Other
+  - select type= name="size" id="size" label="Company Size" placeholder="" aria="" required=true options=Number of employees | 1 - 50 | 50 - 100 | 100 - 500 | 500+
+  - input type=radio name="budget" id="budget1" label="$15K - $50K" placeholder="" aria="" required=false
+  - input type=radio name="budget" id="budget2" label="$50K - $150K" placeholder="" aria="" required=false
+  - input type=radio name="budget" id="budget3" label="$150K - $500K" placeholder="" aria="" required=false
+  - input type=radio name="budget" id="budget4" label="Not Sure Yet" placeholder="" aria="" required=false
+  - textarea type= name="message" id="message" label="Tell Us About Your Project" placeholder="What challenges are you facing? What does success look like for your business?" aria="" required=true
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

@@ -1,0 +1,215 @@
+URL: https://leftclick.ai/
+Fetched: 2026-10-26T03:45:09Z
+HTTP status: 200
+Final URL: https://leftclick.ai/
+Content-Type: text/html
+Via: chrome-headless
+Title: LeftClick AI — AI Growth Systems by Nick Saraev
+Meta description: LeftClick builds AI-driven growth systems for agencies and service businesses. Founded by Nick Saraev (400K YouTube subscribers, #1 Skool community). Tens of millions generated across SMB and enterprise clients.
+Canonical: https://leftclick.ai/
+Robots: index, follow
+H1: The definitive AI growth partner for fast-moving B2B companies.
+
+Services
+About
+Let's talk
+Let's talk
+Services
+About
+Let's talk
+The definitive AI growth partner for fast-moving B2B companies.
+
+AI systems that generate leads, close deals, and scale operations. Built by a team that has done it across 20+ industries.
+
+$10M+
+revenue generated
+20+
+industries served
+1M+
+followers worldwide
+7 yrs
+production AI
+Let's talk
+Let's talk
+NICK & HIS TEAM HAVE WORKED WITH
+Anthropic
+MrBeast
+Notion
+Wix
+HeyGen
+VEED
+Lightricks
+Durable
+Anthropic
+MrBeast
+Notion
+Wix
+HeyGen
+VEED
+Lightricks
+Durable
+Anthropic
+MrBeast
+Notion
+Wix
+HeyGen
+VEED
+Lightricks
+Durable
+Anthropic
+MrBeast
+Notion
+Wix
+HeyGen
+VEED
+Lightricks
+Durable
+$10M+ in revenue generated for clients.
+
+Nick & his team scaled Dental Media Corp from a regional shop to $2M/yr, built 1SecondCopy to $90K/mo with just 2 operators, and grew Maker School to $250K/mo using the same automations we sell to clients. We dive deep into the heart of your business to fix real, practical problems; actual ways to drive revenue & grow.
+
+Let's talk
+Let's talk
+Some of our work.
+
+Real results from real engagements. Every project below was built, deployed, and managed by our team. See all services & industries →
+
+1SecondCopy
+$90,000/m, 2 operators.
+Dental Media Corp
+Regional PPC shop to $2M/yr revenue.
+XWECAN
+Featured in Forbes, WSJ, Fortune, BBC & more.
+Building with AI since 2019.
+
+Nick was early to spot the business utility of generative AI. In 2019, well before ChatGPT, he started building with early image and language models to create one of the largest content agencies in Canada.
+
+Nick Saraev
+CEO / Talent
+
+Nick runs a 400K-subscriber YouTube channel and Maker School, the #1 AI community on Skool ($250K/mo, 10,000+ graduates). He has generated over $10M in revenue for clients across 20+ industries using proprietary AI systems.
+
+His public track record and exposure to top-tier talent lets him source exceptional, senior-level development in days, not months.
+
+Cody McLean
+Head of AI Solutions
+
+Cody spent 8 years leading Hill&Foster, designing and shipping software for 200+ clients, including the Government of California, Lululemon, and QubeIoT. His work is relied on by millions daily.
+
+At LeftClick, he applies that full-stack expertise to architecting AI-driven automations, intelligent workflows, and end-to-end systems that cut overhead and accelerate growth for every client we take on.
+
+George Dinu
+Head of Delivery
+
+George owns the end-to-end technical execution of every client engagement. He architects backend systems, automation pipelines, and AI infrastructure, turning strategic roadmaps into production-grade solutions that run reliably at scale.
+
+With deep expertise across cloud architecture, data engineering, and systems integration, George ensures that what we promise in the boardroom actually ships. Tested, documented, and built to last.
+
+We don't just advise. We build.
+Building with AI since 2019
+
+We were building with early image and language models (like GPT-2) before ChatGPT existed, and have seven years of production AI systems under our belts.
+
+Fixed price, no surprises
+
+Every engagement gets a clear scope, timeline, and fixed price. No hourly billing, no scope creep, no mystery invoices.
+
+Public track record
+
+Nick has built in public since 2024, and teaches AI to over 1M followers worldwide. Every system we sell has been demonstrated, explained, and stress-tested in public, hundreds of thousands of times.
+
+We use our own systems
+
+All of our companies and products (LeftClick, Maker School, DMC, Clairvo) use the same automations we help you install. Our systems work because we depend on them, too.
+
+And we teach, too.
+
+Nick's Claude Code course has over 1.5M views on YouTube and 20M+ views across X and other platforms. His content shows teams how to implement AI into deliverables for more scale at less cost, and we run workshops all over the world educating midmarket and enterprise organizations on leveraging AI.
+
+20M+
+views across platforms
+1.5M+
+YouTube views
+400K+
+subscribers
+Book a workshop
+Book a workshop
+From first call to launch.
+STEP 01
+Funnel map audit
+
+A free 30-minute session where we audit your funnel, identify bottlenecks, and map out exactly where AI can move the needle.
+
+STEP 02
+Proposal
+
+We deliver a clear scope, timeline, and fixed price. No surprises, no hourly billing. You know exactly what you're getting.
+
+STEP 03
+Project
+
+Our team builds, tests, and deploys your systems. You get weekly updates and a working product, not a deck full of promises.
+
+STEP 04
+Ongoing management
+
+Optional retainer for monitoring, optimization, and iteration. Most clients see compounding returns over time.
+
+Ready to scale with AI?
+
+Book a free 30-minute growth mapping call. We'll audit your funnel, find the bottlenecks, and show you exactly where AI moves the needle.
+
+Engagements typically start at $5K. Most projects range $10K-$50K.
+
+Book a free growth call
+Book a free growth call
+
+Work with us
+
+Start with a free, thirty-minute growth mapping call.
+
+Let's talk
+Let's talk
+
+SERVICES
+
+AI Automation
+AI Lead Generation
+Custom AI Agents
+CRM & Sales Automation
+AI Workshops
+All Services
+
+COMPANY
+
+About
+Nick Saraev
+Case Studies
+Industries
+Careers
+Press
+
+RESOURCES
+
+What is LeftClick?
+Pricing
+Our Process
+FAQ
+Results & Reviews
+Contact
+
+CONNECT
+
+YouTube
+LinkedIn
+Instagram
+X / Twitter
+Maker School
+Free Courses
+Privacy Policy
+Terms of Service
+© 2026 Nick Saraev Media LLC. All rights reserved.
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://leftclick.ai/#website","name":"LeftClick AI","alternateName":["LeftClick","LeftClick AI"],"url":"https://leftclick.ai","inLanguage":"en","publisher":{"@id":"https://leftclick.ai/#organization"},"about":{"@id":"https://leftclick.ai/#organization"}},{"@type":"Organization","@id":"https://leftclick.ai/#organization","name":"LeftClick AI","alternateName":"LeftClick","url":"https://leftclick.ai","logo":"https://leftclick.ai/scraped/images/68a618d396a36e0b2d5602a5_Vector.svg","description":"AI-driven consulting and growth systems for agencies and service businesses. Tens of millions in revenue generated across SMB and enterprise clients using proprietary AI systems.","foundingDate":"2022-03","telephone":"+1-604-723-1522","areaServed":["CA","US","GB","AU"],"founder":{"@type":"Person","@id":"https://nicksaraev.com/#person"},"sameAs":["https://www.youtube.com/@nicksaraev","https://www.instagram.com/nicksaraev/","https://www.linkedin.com/in/nicksaraev/","https://x.com/nicksaraev","https://www.skool.com/makerschool","https://www.linkedin.com/company/leftclickhq","https://maps.google.com/?cid=6973619772095785148","https://www.capterra.com/p/10045497/LeftClick/","https://clutch.co/profile/leftclick","https://www.f6s.com/company/leftclick"],"contactPoint":{"@type":"ContactPoint","contactType":"sales","url":"https://leftclick.ai/#book","telephone":"+1-604-723-1522"}},{"@type":"Person","@id":"https://nicksaraev.com/#person","name":"Nick Saraev","jobTitle":"CEO & Founder","url":"https://leftclick.ai","description":"AI entrepreneur with 400K YouTube subscribers. Founder of LeftClick AI and Maker School (#1 no-code community on Skool, 10,000+ graduates). Has generated tens of millions in revenue across SMB and enterprise clients with proprietary AI systems.","sameAs":["https://www.youtube.com/@nicksaraev","https://www.instagram.com/nick_saraev/","https://x.com/nicksaraev","https://www.linkedin.com/in/nick-saraev","https://www.skool.com/@nick-saraev","https://leftclicker.gumroad.com/","https://nicksaraev.medium.com/","https://scholar.google.com/citations?user=k4hYWcMAAAAJ"],"worksFor":{"@id":"https://leftclick.ai/#organization"},"knowsAbout":["AI automation","cold email optimization","YouTube growth","AI agents","n8n","Claude Code","lead generation","no-code AI workflows"]},{"@type":"OfferCatalog","name":"AI Growth Services","provider":{"@type":"Organization","name":"LeftClick AI"},"itemListElement":[{"@type":"Service","name":"AI Lead Generation","description":"AI-powered cold email, outbound automation, and content systems that generate qualified leads at scale."},{"@type":"Service","name":"Revenue Operations","description":"CRM automation, pipeline optimization, and AI nurture sequences to maximize close rates."},{"@type":"Service","name":"Frontend Experiences","description":"Custom web apps, landing pages, and interactive demos built for conversion."},{"@type":"Service","name":"Hiring Systems","description":"AI-scored intake funnels and trial automation for hiring at scale."},{"@type":"Service","name":"Backend Infrastructure","description":"Scalable backend systems, API integrations, and data pipelines."}]}]}
+

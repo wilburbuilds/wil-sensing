@@ -1,0 +1,121 @@
+URL: https://www.morningside.ai/team
+Fetched: 2026-10-26T03:52:38Z
+HTTP status: 200
+Final URL: https://www.morningside.ai/team
+Content-Type: text/html
+Via: chrome-headless
+Title: Who we are | Morningside AI
+Meta description: We help the world's leading organisations move beyond AI experimentation and embed it at the core of how they operate.
+Canonical: https://www.morningside.ai/team
+Robots: 
+H1: Your AI Transformation Partner
+
+Skip to main content
+Services
+Team
+GET IN TOUCH
+Your AI Transformation Partner
+
+Morningside AI was founded by two friends who saw, early on, the profound impact artificial intelligence would have on organisations over the coming decade. What began in late 2022 as a small, focused studio has grown into a team of over 55 people across the Morningside Group.
+
+Today, we operate as the AI transformation partner to some of the world’s leading organisations helping them move beyond experimentation and embed AI at the core of how they operate.
+
+13.4m
+
+views on YouTube
+
+90k
+
+in our online community
+
+2,700+
+
+empowered through
+our programs
+
+48+
+
+successful client
+engagements
+
+11+
+
+industries served
+
+13.4m
+
+views on YouTube
+
+90k
+
+in our online community
+
+2,700+
+
+empowered through
+our programs
+
+48+
+
+successful client
+engagements
+
+11+
+
+industries served
+
+Josh Brown
+
+Co-CEO
+
+Josh Brown is the Co-CEO and Co-Founder of Morningside AI, where he leads operations and drives the firm’s AI transformation work globally. He has partnered with leading organisations — from professional sports teams to enterprise companies — to implement AI at scale and help them become truly AI-first. Josh is passionate about building teams of exceptional operators and bringing sharp minds together to solve complex, high-impact problems through practical AI deployment.
+
+Liam Ottley
+
+Co-CEO
+
+Liam Ottley is Co-CEO and Co-Founder of Morningside AI and one of the leading educators in the global AI space. He has built a worldwide audience of over one million followers and is widely regarded as an influential voice shaping how businesses think about and adopt artificial intelligence. As the visionary behind many of Morningside’s core ideas and frameworks, Liam plays a central role in defining the concepts and strategies that the team implements for organisations around the world.
+
+Tara Zver
+
+Lead Engineer
+
+Nick Roco
+
+Managing Director of Consulting
+
+Lana Lisichkina
+
+Chief Financial Officer
+
+AI is here. Most will react. The few with a plan will lead.
+We build for those few.
+GET IN TOUCH
+© 2026 MORNINGSIDE AI
+|
+TERMS & CONDITIONS
+|
+PRIVACY POLICY
+|
+LINKEDIN
+|
+CONTACT
+
+--- json-ld ---
+
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "@id": "https://www.morningside.ai/team",
+  "url": "https://www.morningside.ai/team",
+  "name": "Who We Are | Morningside AI",
+  "description": "We operate as the AI transformation partner to some of the world's leading organisations helping them move beyond experimentation and embed AI at the core of how they operate.",
+  "isPartOf": {
+    "@id": "https://www.morningside.ai/#website"
+  },
+  "about": {
+    "@id": "https://www.morningside.ai/#organization"
+  }
+}
+
+

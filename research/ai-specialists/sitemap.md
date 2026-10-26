@@ -4,7 +4,7 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 516. Other companies are added when their teardown is committed.
+Saved pages in this index: 588. Helion Technologies is added when its teardown is committed. The leftclick, nate-herk, and morningside sections are funnel-only.
 
 ## agencyva (16 saved pages)
 
@@ -217,6 +217,53 @@ Saved pages in this index: 516. Other companies are added when their teardown is
 | https://aiagents-helloparalegal.onhercules.app/work | 200 | https://aiagents-helloparalegal.onhercules.app/work | `research/ai-specialists/hello-paralegal/pages/work.txt` | 50 AI Agents Every Solo Law Firm Needs in 2026 / Hello Paralegal |
 | https://helloparalegal.com/www.resolveoncord.com | 200 | https://helloparalegal.com/www.resolveoncord.com | `research/ai-specialists/hello-paralegal/pages/www.resolveoncord.com.txt` |  |
 
+## leftclick (42 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://leftclick.ai/about-nick-saraev.html | 200 | https://leftclick.ai/about-nick-saraev.html | `research/ai-specialists/leftclick/pages/about-nick-saraev.html.txt` | Nick Saraev — Founder of LeftClick AI |
+| https://leftclick.ai/about-nick-saraev | 200 | https://leftclick.ai/about-nick-saraev | `research/ai-specialists/leftclick/pages/about-nick-saraev.txt` | Nick Saraev — Founder of LeftClick AI |
+| https://leftclick.ai/about.html | 200 | https://leftclick.ai/about.html | `research/ai-specialists/leftclick/pages/about.html.txt` | About — LeftClick AI |
+| https://leftclick.ai/ai-agents.html | 200 | https://leftclick.ai/ai-agents.html | `research/ai-specialists/leftclick/pages/ai-agents.html.txt` | Custom AI Agent Development / LeftClick AI |
+| https://leftclick.ai/ai-agents | 200 | https://leftclick.ai/ai-agents | `research/ai-specialists/leftclick/pages/ai-agents.txt` | Custom AI Agent Development / LeftClick AI |
+| https://leftclick.ai/ai-automation.html | 200 | https://leftclick.ai/ai-automation.html | `research/ai-specialists/leftclick/pages/ai-automation.html.txt` | AI Automation Services / LeftClick AI |
+| https://leftclick.ai/ai-automation | 200 | https://leftclick.ai/ai-automation | `research/ai-specialists/leftclick/pages/ai-automation.txt` | AI Automation Services / LeftClick AI |
+| https://leftclick.ai/ai-lead-generation.html | 200 | https://leftclick.ai/ai-lead-generation.html | `research/ai-specialists/leftclick/pages/ai-lead-generation.html.txt` | AI Lead Generation Services / LeftClick AI |
+| https://leftclick.ai/ai-lead-generation | 200 | https://leftclick.ai/ai-lead-generation | `research/ai-specialists/leftclick/pages/ai-lead-generation.txt` | AI Lead Generation Services / LeftClick AI |
+| https://leftclick.ai/careers.html | 200 | https://leftclick.ai/careers.html | `research/ai-specialists/leftclick/pages/careers.html.txt` | Careers at LeftClick AI |
+| https://leftclick.ai/case-studies.html | 200 | https://leftclick.ai/case-studies.html | `research/ai-specialists/leftclick/pages/case-studies.html.txt` | Case Studies — Our Work / LeftClick AI |
+| https://leftclick.ai/case-studies/1secondcopy.html | 200 | https://leftclick.ai/case-studies/1secondcopy.html | `research/ai-specialists/leftclick/pages/case-studies__1secondcopy.html.txt` | 1SecondCopy Case Study — LeftClick AI |
+| https://leftclick.ai/case-studies/1secondcopy | 200 | https://leftclick.ai/case-studies/1secondcopy | `research/ai-specialists/leftclick/pages/case-studies__1secondcopy.txt` | 1SecondCopy Case Study — LeftClick AI |
+| https://leftclick.ai/case-studies/altercall | 200 | https://leftclick.ai/case-studies/altercall | `research/ai-specialists/leftclick/pages/case-studies__altercall.txt` | AlterCall Case Study — LeftClick AI |
+| https://leftclick.ai/case-studies/dads-printing | 200 | https://leftclick.ai/case-studies/dads-printing | `research/ai-specialists/leftclick/pages/case-studies__dads-printing.txt` | Dad's Printing Case Study — LeftClick AI |
+| https://leftclick.ai/case-studies/dental-media-corp | 200 | https://leftclick.ai/case-studies/dental-media-corp | `research/ai-specialists/leftclick/pages/case-studies__dental-media-corp.txt` | Dental Media Corp Case Study — LeftClick AI |
+| https://leftclick.ai/case-studies/xwecan | 200 | https://leftclick.ai/case-studies/xwecan | `research/ai-specialists/leftclick/pages/case-studies__xwecan.txt` | XWECAN Case Study — LeftClick AI |
+| https://cal.com/codymclean/30min?source=website | 200 | https://cal.com/codymclean/30min?source=website | `research/ai-specialists/leftclick/pages/codymclean__30min__source-website.txt` | Growth Mapping Call / Nick's Strategy Team / Cal.com |
+| https://leftclick.ai/contact.html | 200 | https://leftclick.ai/contact.html | `research/ai-specialists/leftclick/pages/contact.html.txt` | Contact LeftClick AI |
+| https://leftclick.ai/crm-sales-automation.html | 200 | https://leftclick.ai/crm-sales-automation.html | `research/ai-specialists/leftclick/pages/crm-sales-automation.html.txt` | CRM & Sales Automation / LeftClick AI |
+| https://leftclick.ai/crm-sales-automation | 200 | https://leftclick.ai/crm-sales-automation | `research/ai-specialists/leftclick/pages/crm-sales-automation.txt` | CRM & Sales Automation / LeftClick AI |
+| https://leftclick.ai/faq.html | 200 | https://leftclick.ai/faq.html | `research/ai-specialists/leftclick/pages/faq.html.txt` | FAQ — Frequently Asked Questions / LeftClick AI |
+| https://leftclick.ai/faq | 200 | https://leftclick.ai/faq | `research/ai-specialists/leftclick/pages/faq.txt` | FAQ — Frequently Asked Questions / LeftClick AI |
+| https://leftclick.ai/ | 200 | https://leftclick.ai/ | `research/ai-specialists/leftclick/pages/index.txt` | LeftClick AI — AI Growth Systems by Nick Saraev |
+| https://leftclick.ai/industries.html | 200 | https://leftclick.ai/industries.html | `research/ai-specialists/leftclick/pages/industries.html.txt` | Industries We Serve / LeftClick AI |
+| https://leftclick.ai/industries | 200 | https://leftclick.ai/industries | `research/ai-specialists/leftclick/pages/industries.txt` | Industries We Serve / LeftClick AI |
+| https://www.skool.com/makerschool | 200 | https://www.skool.com/makerschool/about | `research/ai-specialists/leftclick/pages/makerschool__about.txt` | Maker School: AI Automation |
+| https://leftclick.ai/press.html | 200 | https://leftclick.ai/press.html | `research/ai-specialists/leftclick/pages/press.html.txt` | Press & Media / LeftClick AI |
+| https://leftclick.ai/press | 200 | https://leftclick.ai/press | `research/ai-specialists/leftclick/pages/press.txt` | Press & Media / LeftClick AI |
+| https://leftclick.ai/pricing.html | 200 | https://leftclick.ai/pricing.html | `research/ai-specialists/leftclick/pages/pricing.html.txt` | Pricing — Fixed-Price AI Engagements / LeftClick AI |
+| https://leftclick.ai/privacy.html | 200 | https://leftclick.ai/privacy.html | `research/ai-specialists/leftclick/pages/privacy.html.txt` | Privacy Policy — LeftClick AI |
+| https://leftclick.ai/process.html | 200 | https://leftclick.ai/process.html | `research/ai-specialists/leftclick/pages/process.html.txt` | Our Process — From First Call to Launch / LeftClick AI |
+| https://leftclick.ai/process | 200 | https://leftclick.ai/process | `research/ai-specialists/leftclick/pages/process.txt` | Our Process — From First Call to Launch / LeftClick AI |
+| https://leftclick.ai/reviews.html | 200 | https://leftclick.ai/reviews.html | `research/ai-specialists/leftclick/pages/reviews.html.txt` | Results & Reviews / LeftClick AI |
+| https://leftclick.ai/reviews | 200 | https://leftclick.ai/reviews | `research/ai-specialists/leftclick/pages/reviews.txt` | Results & Reviews / LeftClick AI |
+| https://leftclick.ai/services.html | 200 | https://leftclick.ai/services.html | `research/ai-specialists/leftclick/pages/services.html.txt` | Services — LeftClick AI |
+| https://leftclick.ai/terms.html | 200 | https://leftclick.ai/terms.html | `research/ai-specialists/leftclick/pages/terms.html.txt` | Terms of Service — LeftClick AI |
+| https://leftclick.ai/terms | 200 | https://leftclick.ai/terms | `research/ai-specialists/leftclick/pages/terms.txt` | Terms of Service — LeftClick AI |
+| https://leftclick.ai/what-is-leftclick.html | 200 | https://leftclick.ai/what-is-leftclick.html | `research/ai-specialists/leftclick/pages/what-is-leftclick.html.txt` | What Is LeftClick? / LeftClick AI |
+| https://leftclick.ai/what-is-leftclick | 200 | https://leftclick.ai/what-is-leftclick | `research/ai-specialists/leftclick/pages/what-is-leftclick.txt` | What Is LeftClick? / LeftClick AI |
+| https://leftclick.ai/workshops.html | 200 | https://leftclick.ai/workshops.html | `research/ai-specialists/leftclick/pages/workshops.html.txt` | AI Workshops & Training for Teams / LeftClick AI |
+| https://leftclick.ai/workshops | 200 | https://leftclick.ai/workshops | `research/ai-specialists/leftclick/pages/workshops.txt` | AI Workshops & Training for Teams / LeftClick AI |
+
 ## mad-city-integrations (20 saved pages)
 
 | URL | Status | Final URL | File | Title |
@@ -241,6 +288,46 @@ Saved pages in this index: 516. Other companies are added when their teardown is
 | https://www.madcityintegrations.com/services/online-presence | 200 | https://www.madcityintegrations.com/services/online-presence | `research/ai-specialists/mad-city-integrations/pages/services__online-presence.txt` | Online presence optimization / Mad City Integrations |
 | https://www.madcityintegrations.com/terms-and-conditions | 200 | https://www.madcityintegrations.com/terms-and-conditions | `research/ai-specialists/mad-city-integrations/pages/terms-and-conditions.txt` | Terms and Conditions / Mad City Integrations |
 | https://www.madcityintegrations.com/work | 200 | https://www.madcityintegrations.com/work | `research/ai-specialists/mad-city-integrations/pages/work.txt` | Page not found / Mad City Integrations |
+
+## morningside (12 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://www.morningside.ai/case-study/building-new-zealands-first-ai-enabled-industrial-distributor | 200 | https://www.morningside.ai/case-study/building-new-zealands-first-ai-enabled-industrial-distributor | `research/ai-specialists/morningside/pages/case-study__building-new-zealands-first-ai-enabled-industrial-distributor.txt` | Building New Zealand's First AI-Enabled Industrial Distributor / Morningside AI |
+| https://www.morningside.ai/case-study/transforming-aged-care-with-ai-driven-efficiency | 200 | https://www.morningside.ai/case-study/transforming-aged-care-with-ai-driven-efficiency | `research/ai-specialists/morningside/pages/case-study__transforming-aged-care-with-ai-driven-efficiency.txt` | Transforming At-Home Care with AI-Driven Efficiency / Morningside AI |
+| https://www.morningside.ai/case-study/transforming-basketball-operations-with-ai-powered-intelligence | 200 | https://www.morningside.ai/case-study/transforming-basketball-operations-with-ai-powered-intelligence | `research/ai-specialists/morningside/pages/case-study__transforming-basketball-operations-with-ai-powered-intelligence.txt` | Transforming Basketball Operations with AI-Powered Intelligence / Morningside AI |
+| https://www.morningside.ai/ | 200 | https://www.morningside.ai/ | `research/ai-specialists/morningside/pages/index.txt` | Morningside AI / AI Strategy, Upskilling & Custom Development |
+| https://calendly.com/morningside-ai/morningside-ai-discovery-meeting | 200 | https://calendly.com/morningside-ai/morningside-ai-discovery-meeting | `research/ai-specialists/morningside/pages/morningside-ai__morningside-ai-discovery-meeting.txt` | Select a Date & Time - Calendly |
+| https://www.morningside.ai/privacy-policy | 200 | https://www.morningside.ai/privacy-policy | `research/ai-specialists/morningside/pages/privacy-policy.txt` | Privacy Policy |
+| https://www.morningside.ai/services | 200 | https://www.morningside.ai/services | `research/ai-specialists/morningside/pages/services-tab-panels.txt` | AI Strategy, Development & Upskilling Services / Morningside AI |
+| https://www.morningside.ai/services | 200 | https://www.morningside.ai/services | `research/ai-specialists/morningside/pages/services.txt` | AI Strategy, Development & Upskilling Services / Morningside AI |
+| https://www.morningside.ai/team | 200 | https://www.morningside.ai/team | `research/ai-specialists/morningside/pages/team.txt` | Who we are / Morningside AI |
+| https://www.morningside.ai/terms-conditions | 200 | https://www.morningside.ai/terms-conditions | `research/ai-specialists/morningside/pages/terms-conditions.txt` | Terms & Conditions |
+| https://www.morningside.ai/thank-you | 200 | https://www.morningside.ai/thank-you | `research/ai-specialists/morningside/pages/thank-you.txt` | Welcome — Morningside AI |
+| https://www.morningside.ai/work-with-us | 200 | https://www.morningside.ai/work-with-us | `research/ai-specialists/morningside/pages/work-with-us.txt` | Work With Us |
+
+## nate-herk (18 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://www.skool.com/ai-automation-society-plus/about | 200 | https://www.skool.com/ai-automation-society-plus/about | `research/ai-specialists/nate-herk/pages/ai-automation-society-plus__about.txt` | AI Automation Society Plus |
+| https://www.skool.com/ai-automation-society | 200 | https://www.skool.com/ai-automation-society | `research/ai-specialists/nate-herk/pages/ai-automation-society.txt` | AI Automation Society |
+| https://www.skool.com/ai-automation-society/-/leaderboards | 200 | https://www.skool.com/ai-automation-society/-/leaderboards | `research/ai-specialists/nate-herk/pages/ai-automation-society__-__leaderboards.txt` | Leaderboards · AI Automation Society |
+| https://www.skool.com/ai-automation-society/-/map?is=1 | 200 | https://www.skool.com/ai-automation-society/-/map?is=1 | `research/ai-specialists/nate-herk/pages/ai-automation-society__-__map__is-1.txt` | Map · AI Automation Society |
+| https://www.skool.com/ai-automation-society/-/members | 200 | https://www.skool.com/ai-automation-society/-/members | `research/ai-specialists/nate-herk/pages/ai-automation-society__-__members.txt` | Members · AI Automation Society |
+| https://www.skool.com/ai-automation-society/about | 200 | https://www.skool.com/ai-automation-society/about | `research/ai-specialists/nate-herk/pages/ai-automation-society__about.txt` | AI Automation Society |
+| https://www.skool.com/ai-automation-society/announcing-a-certification-for-ai-builders-who-want-bigger-clients | 200 | https://www.skool.com/ai-automation-society/announcing-a-certification-for-ai-builders-who-want-bigger-clients | `research/ai-specialists/nate-herk/pages/ai-automation-society__announcing-a-certification-for-ai-builders-who-want-bigger-clients.txt` | ANNOUNCING: A certification for AI builders who want bigger clients · AI Automation Society |
+| https://www.skool.com/ai-automation-society/announcing-a-certification-for-ai-builders-who-want-bigger-clients?p=504a58cf | 200 | https://www.skool.com/ai-automation-society/announcing-a-certification-for-ai-builders-who-want-bigger-clients?p=504a58cf | `research/ai-specialists/nate-herk/pages/ai-automation-society__announcing-a-certification-for-ai-builders-who-want-bigger-clients__p-504a58cf.txt` | ANNOUNCING: A certification for AI builders who want bigger clients · AI Automation Society |
+| https://www.skool.com/ai-automation-society?c=c491f892c2aa48798959c3e01174e14f | 200 | https://www.skool.com/ai-automation-society?c=c491f892c2aa48798959c3e01174e14f | `research/ai-specialists/nate-herk/pages/ai-automation-society__c-c491f892c2aa48798959c3e01174e14f.txt` | AI Automation Society · Announcements📢 |
+| https://www.skool.com/ai-automation-society?c=fe7a8b086f9e4103b8e62138e7444bb6 | 200 | https://www.skool.com/ai-automation-society?c=fe7a8b086f9e4103b8e62138e7444bb6 | `research/ai-specialists/nate-herk/pages/ai-automation-society__c-fe7a8b086f9e4103b8e62138e7444bb6.txt` | AI Automation Society · Wins 🌟 |
+| https://www.skool.com/ai-automation-society/calendar | 200 | https://www.skool.com/ai-automation-society/calendar | `research/ai-specialists/nate-herk/pages/ai-automation-society__calendar.txt` | Calendar · AI Automation Society |
+| https://www.skool.com/ai-automation-society/calendar?eid=8c9c538406fb40358185a5c2aa3c8f47&eoid=1793023200 | 200 | https://www.skool.com/ai-automation-society/calendar?eid=8c9c538406fb40358185a5c2aa3c8f47&eoid=1793023200 | `research/ai-specialists/nate-herk/pages/ai-automation-society__calendar__eid-8c9c538406fb40358185a5c2aa3c8f47-eoid-1793023200.txt` | Calendar · AI Automation Society |
+| https://www.skool.com/ai-automation-society/classroom | 200 | https://www.skool.com/ai-automation-society/classroom | `research/ai-specialists/nate-herk/pages/ai-automation-society__classroom.txt` | Classroom · AI Automation Society |
+| https://www.skool.com/ai-automation-society/weekly-wins-recap-october-17-october-23 | 200 | https://www.skool.com/ai-automation-society/weekly-wins-recap-october-17-october-23 | `research/ai-specialists/nate-herk/pages/ai-automation-society__weekly-wins-recap-october-17-october-23.txt` | 🏆 Weekly Wins Recap / October 17 – October 23 · AI Automation Society |
+| https://www.skool.com/ai-automation-society/what-do-you-get-if-you-upgrade-to-ais | 200 | https://www.skool.com/ai-automation-society/what-do-you-get-if-you-upgrade-to-ais | `research/ai-specialists/nate-herk/pages/ai-automation-society__what-do-you-get-if-you-upgrade-to-ais.txt` | What do you get if you upgrade to AIS+? · AI Automation Society |
+| https://app.aiautomationsociety.ai/certification-c2-v2 | 200 | https://app.aiautomationsociety.ai/certification-c2-v2 | `research/ai-specialists/nate-herk/pages/certification-c2-v2.txt` | Certified AI Consultant: Cohort 2 / AI Automation Society |
+| https://www.skool.com/@nateherk?g=ai-automation-society | 200 | https://www.skool.com/@nateherk?g=ai-automation-society | `research/ai-specialists/nate-herk/pages/nateherk__g-ai-automation-society.txt` | Nate Herk |
+| https://www.skool.com/@yashchauhan?g=ai-automation-society | 200 | https://www.skool.com/@yashchauhan?g=ai-automation-society | `research/ai-specialists/nate-herk/pages/yashchauhan__g-ai-automation-society.txt` | Yash Chauhan |
 
 ## pixel-narratives (46 saved pages)
 

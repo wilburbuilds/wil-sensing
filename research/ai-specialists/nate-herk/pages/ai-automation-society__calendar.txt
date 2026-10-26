@@ -1,0 +1,81 @@
+URL: https://www.skool.com/ai-automation-society/calendar
+Fetched: 2026-10-26T03:49:25Z
+HTTP status: 200
+Final URL: https://www.skool.com/ai-automation-society/calendar
+Content-Type: text/html
+Via: chrome-headless
+Title: Calendar · AI Automation Society
+Meta description: View upcoming events for {{groupName}}
+Canonical: 
+Robots: 
+H1: 
+
+AI Automation Society
+LOG IN
+Community
+Classroom
+Calendar
+Members
+Map
+Leaderboards
+About
+LOG IN
+Today
+October 2026
+8:49pm Los Angeles time
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+28
+7am - 🔒 Q&A w/ Nate
+29
+30
+1
+2
+3
+4
+5
+3pm - 🔒 Q&A w/ Nate
+6
+7
+8
+9
+10
+11
+12
+7am - 🔒 Q&A w/ Nate
+13
+14
+15
+16
+17
+6am - AIS Live - Oct 17 & 18
+18
+6am - AIS Live - Oct 17 & 18
+19
+3pm - 🔒 Q&A w/ Nate
+20
+21
+22
+23
+24
+25
+26
+7am - 🔒 Q&A w/ Nate
+27
+28
+29
+30
+31
+1
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+Form 2: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+

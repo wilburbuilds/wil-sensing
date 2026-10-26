@@ -1,0 +1,378 @@
+URL: https://www.skool.com/ai-automation-society
+Fetched: 2026-10-26T03:49:23Z
+HTTP status: 200
+Final URL: https://www.skool.com/ai-automation-society
+Content-Type: text/html
+Via: chrome-headless
+Title: AI Automation Society
+Meta description: Learn to get paid for AI solutions, regardless of your background.
+Canonical: 
+Robots: 
+H1: 
+
+AI Automation Society
+LOG IN
+Community
+Classroom
+Calendar
+Members
+Map
+Leaderboards
+About
+LOG IN
+Write something
+🔒 Q&A w/ Nate is happening in 11 hours
+All
+General Discussion 💬
+YouTube Resources 📚
+Support Needed 💻
+Hire Me / Looking For Hire 💰
+Wins 🌟
+Announcements📢
+MVPs🏆
+More...
+Pinned
+9
+Nate Herk
+💎
+2d • 
+Announcements📢
+ANNOUNCING: A certification for AI builders who want bigger clients
+Building with AI gets easier every month. Landing the bigger clients doesn't. Because the moment you pitch a growing company, the questions change. - Legal asks how you're handling data governance. - Finance asks what it costs to run at scale. - Procurement asks how they know it'll work reliably. Most builders don't have those answers. And that's where the deal dies. So we built a program to fix it. -> ANNOUNCING: A certification for AI builders who want bigger clients It's called the Certified AI Consultant program. Over 10 weeks, it teaches the 7 skills bigger companies actually pay for: scoping, pricing, governance, evals, AI economics, and more. Then you earn the credential through a graded portfolio and a live interview with my team. It's already working. Reidar, from our first cohort, closed a $75,000 contract with a global engineering company using what he learned. Cohort 2 starts November 2nd, and it's capped at 50 seats. Let me know if you have any questions. Talk soon, Nate
+263
+161
+New comment 7h ago
+Pinned
+8
+Yash Chauhan
+🔥
+2d • 
+Wins 🌟
+🏆 Weekly Wins Recap | October 17 – October 23
+From multi-month consulting contracts and back-to-back UpWork clients to #1 AEO rankings, hackathon wins, and 50 paid signups in 24 hours - the week after AIS Live kept the momentum going. 🚀 Standout Wins of the Week inside AIS+ 👉 @Gerard Vazquez closed a multi-month AI consulting + implementation contract with his first Australian client, working 4 days a week with a 20-person company. 👉 @Dean Razic landed two UpWork clients back-to-back — first a $2K project, then another $3K website build. 👉 @Nicole Jolie took a client from zero visibility to #1 in AEO, with no remaining AEO issues across the site. 👉 @Ronald Addico launched his Skool community and brought in 50 paid members plus 1,084 waitlist signups in under 24 hours — with zero paid ads. 👉 @Jeffery Gyamerah and his teammate won HackIAton, beating 350 teams across Panama, Ecuador, and Argentina. ⸻ 🎥 Super Win Spotlight | @Dennis Hettema Dennis had already spent months building Hello Revenue when he joined AIS+. He didn’t need more AI hype. He needed other serious builders who could challenge how he was thinking. Through live calls and conversations inside the community, he found the kind of human input AI couldn’t give him - different perspectives, context, and people willing to push back. That helped him break through technical roadblocks and improve the system he was building. Today, Hello Revenue is producing results across multiple industries and bringing in new clients. His biggest takeaway? AI is powerful. But if you’re serious about building, you still need great people around you. 🎥 Watch Dennis’s story 👇 ✨ Sometimes the breakthrough isn’t another model, prompt, or tool. It’s one conversation that helps you see the problem differently.
+87
+41
+New comment 8h ago
+Pinned
+9
+Nate Herk
+💎
+Jun 3 • 
+General Discussion 💬
+What do you get if you upgrade to AIS+?
+Some of you have never heard of the AIS+ community. Others have but the part that trips you up is the actual difference between the two. Either way, this post will give you clarity. This free group is a bundle of quick resources pulled from my YouTube videos, plus a massive open community that anyone can join. It's a great place to get your bearings and see what's possible. But it's open to everyone, it can be noisy and overwhelming, and there's no path through it. You can get help from other members, but I rarely answer questions here. AIS+ is the opposite: - A step by step roadmap with a clear order, so you're never guessing what to do next - A much smaller community of people who are seriously committed to building and selling AI agents - I answer questions every day and run a weekly Q&A call where you can get direct access to me For the course material: The roadmap takes you from zero to building and selling AI agents, and the whole thing is built on the latest tech like Claude Code and Codex. We update it constantly. The old n8n material has been archived. It's still there if you want it, but it's no longer the focus, because the way you build today has moved on and the courses moved with it. Here's the actual roadmap inside, in order, with when each piece opens up: 1. Start Here (opens the moment you join). Gets you oriented. How the community works, the path ahead, and how to get help when you need it. 2. Build Your Portfolio (opens the moment you join). Why a portfolio matters, beginner level tutorials, and what types of projects to focus on. You end up with real work you can show a client. 3. Claude Code (opens the moment you join). This is now its own dedicated course. Build faster, turn ideas into working automations, and go deep on the tool serious builders are using right now. This takes you from beginner to advanced, step-by-step. 4. Get Your First Clients (opens after 30 days). Getting your first clients is hard, because you don’t have any case studies yet. So, we analyzed all of the success stories from our members and found they get their initial clients with two different techniques: warm outreach and Upwork. So, we teach both techniques in detail with exactly what to say, exactly how to position yourself when you have no proof.
+1.7k
+983
+New comment 40m ago
+9
+Nate Herk
+💎
+Oct '24 • 
+General Discussion 💬
+Welcome! Introduce yourself + share a career goal you have 🎉
+Let's get to know each other! Comment below sharing where you are in the world, a career goal you have, and something you like to do for fun. 😊
+5.8k
+108.5k
+New comment 2m ago
+8
+Nigel Vargas
+13m • 
+General Discussion 💬
+What If AI Should Choose the Decision Before Choosing the Action?
+An agent receives a task and immediately reaches for a tool. But what if the tool call is already the wrong decision? Before acting, an agent should determine: → Outcome: What actually needs to change? → Options: Act, gather more information, ask a human, or do nothing? → Trade-offs: Which option best balances risk, cost, and reliability? → Commit: Execute only when the choice meets defined constraints. This separates the decision layer from the execution layer. The agent doesn't just ask, “What can I do next?” It asks, “Which decision is worth executing, and what evidence would justify it?” In your workflows, should the decision layer belong to the LLM, deterministic rules, or a combination of both?
+2
+1
+New comment 6m ago
+5
+Koushik Bar
+11m • 
+General Discussion 💬
+AI is changing how businesses get chosen.
+AI is changing how businesses get chosen. And most companies are still optimizing for the old internet. For years, the playbook was simple: Build a website. Run ads. Rank on Google. Collect leads. But AI is creating another layer between your business and the buyer. A prospect can now ask: “What's the best CRM for a small agency?” “Which tool can automate lead follow-up?” “What’s a good alternative to HubSpot?” And they may never visit your website. They’ll ask AI. That changes the question from: “How do I get more traffic?” to: “Does AI have enough evidence to recommend me?” Because AI doesn't just look at what you say about yourself. It can look at: → Reviews → LinkedIn posts → Reddit discussions → Industry publications → Comparisons → Expert opinions → Customer experiences → Third-party mentions Your website is your pitch. The rest of the internet is your reputation. And there’s an important distinction: Being visible isn't the same as being recommended. You can have a beautiful website nobody talks about. You can have thousands of followers who never mention your expertise. You can publish 5 posts a week without ever becoming a recognizable answer to a specific problem. The companies that win the AI discovery layer will make their expertise easy to find, understand and verify. So start here: 1. Pick 3 questions your ideal customers ask repeatedly. 2. Create content that gives a genuinely useful answer. 3. Publish your perspective consistently under your real name and brand. 4. Get mentioned outside your own website. 5. Build proof around the problems you actually solve. 6. Make your positioning consistent everywhere. Don't just tell the internet: “We're good at this.” Give it enough evidence to understand why. SEO isn't disappearing. Social isn't replacing search. And AI isn't replacing your website. They're becoming connected. The next generation of brands won't just optimize for clicks. They'll optimize for being understood, trusted and recommended.
+0
+0
+4
+Jo Chen
+4h • 
+General Discussion 💬
+Which calendar tool?
+It seems that many people in here are using calendly to have people book their calendar, and it's a good tool. But on the free plan you can only get one type and duration of meeting. So just wanted to share what I am using, and if like me you love FREE stuff, you can check out cal.com (I have no affiliation with them), you can set up many different meeting types and/or durations even on their free plan (see my example screenshot), so just wanted to share that.
+9
+3
+New comment 14m ago
+4
+Sameen Rajurkar
+14h • 
+General Discussion 💬
+How Do You Build Trust With Your First Client Without Case Studies or Testimonials?
+I'm starting to build my AI Automation Agency, but I'm facing a challenge: how do you convince your first client to trust you with their business when you have no case studies, testimonials, or previous client results to show? I'm curious to hear from people who've been in this position: - What did you do to build credibility and convince your first client to give you a chance? - Would building a working demo, offering a small paid pilot, or doing a free automation audit help reduce the client's risk? - Are there any other ways to establish trust and win the first project without undercharging or doing everything for free? I'd especially appreciate advice from people who have actually landed their first few clients this way. What worked for you, and what would you do differently today?
+9
+6
+New comment 17m ago
+5
+Mitul Patel
+1d • 
+General Discussion 💬
+5 things the trades taught me about building with AI
+Right, I spent most of my working life as a plasterer, carpenter, decorator, electrician and plumber. When I started learning AI after my stroke, I thought none of it would be useful. I was wrong. Here are five lessons I still use every day. Measure twice, cut once. Before I ask Claude to build anything, I write down exactly what I want. Ten minutes of planning saves an hour of fixing. Agree the drawings before you build the walls. Get the plan signed off first. Changing your mind halfway is where the mess comes from, on site and in code. Keep your tools in the same place in the van. I use the same template every time for my notes. Boring, but I never waste time looking for anything. Always do a snagging list. No job gets handed over without a walk round. Same with AI. It sounds confident even when it’s wrong, so I check before anything goes out. Test the smoke alarm. A silent alarm and a broken one look the same. If you’ve never seen your system fail, you don’t know it works. I’ll be honest, I still get plenty wrong. But a lot of good building habits work just as well with AI. If you’ve come from a trade too, I’d love to hear which habits you’ve brought with you. If not, no worries at all. Thanks for reading.
+35
+30
+New comment 18m ago
+4
+Paul Cassin
+1d • 
+Wins 🌟
+day 4 build
+For my day 4 build I deployed my newsletter automation to send to my email once a month. Each month on the 14th I will receive my newsletter with new restaurants opening up in the area. I like the graphic it creates at the top as well, it's a nice touch. Not really any issues of note that had to be fixed with this one.
+10
+4
+New comment 19m ago
+4
+Stijn Heymans
+11d • 
+Support Needed 💻
+Skill builder skill => 404?
+Hi I'm looking for the skill builder kill, that's been referenced at in the AI OS course. And the 7 day AI OS classroom: Build: Install Skill Builder & Create First Skill -> https://www.skool.com/ai-automation-society/classroom/dda699b7?md=97788f535d06400c8064ac6a7a6b1109 It can't find it (anymore?)= https://www.skool.com/ai-automation-society/classroom/2f7c4aea?md=42aa5f3c51eb47b08b25a7fcb53b8b13&utm_campaign=skool_link_classroom&utm_content=b51c57150c70495899bf4bc8aaee8166 Can someone point me to the new location? Thanks!
+7
+6
+New comment 21m ago
+3
+Lucie Gattepaille
+3d • 
+Wins 🌟
+Day 1 challenge ✅ … times three 🌈☠️🤯
+🌈 **It's a Wonderful World**: Sick of bad news? this newsletter is for you. Science wins, nature comebacks, and selfless humans. ☠️ **We Are Completely Doomed**: You like it dark... and even darker. What's going the wrong way, across climate, war, cybersecurity, AI risk, democracy and debt. Darkly funny, but every number is checked against its primary source. 🤯 **WTF**: regular people doing baffling things. This week: the world-record pumpkin that held the title for 7 days, men jousting on rental e-bikes, and in the Hall of Fame, the Frenchman who ate an entire Cessna 150 (it's a freaking PLANE). Each newsletter has its own design system: palette, typography, masthead, callout styles, even its own rating widget (the WTF-O-METER™). The footer of each one cross-promotes the other two. **How it works (one prompt in Claude Code: "send this week's WTF")** • Research: Claude Code's built-in web search plus a page fetcher. Every candidate story goes into a research.json audit trail with its source URL, so I can always trace where a number came from. • Writing: issue.json is the single source of truth. Every claim carries a footnote, and a validator checks every link is alive before anything ships. • Visuals in two layers: – Nano Banana Pro (via Kie.ai) for hero infographics and photo-style illustrations, all captioned "AI illustration". – Exact data charts drawn by a deterministic SVG tool, not by AI. I learned that AI-drawn bar heights are only roughly proportional, and for a data-heavy newsletter that isn't good enough. • Email: Jinja templates produce bulletproof table-based HTML. It goes out from my personal Gmail over SMTP with an App Password, images inline as CID attachments, under Gmail's 102 KB clipping limit. **Lessons** 1. Separate the AI from the arithmetic. Let Nano Banana make it beautiful; let code make it correct. 2. The Gmail API strips images from drafts. Real SMTP with inline attachments doesn't. 3. "Bot wall" ≠ dead link: IMF and UPI return 403 to scripts. Verify in a browser and don't drop a good source.
+18
+9
+New comment 21m ago
+2
+V K
+1d • 
+Wins 🌟
+Day 2 complete! ✅
+Update: Got the MCP server working! 🎉 What a battle... Kaspersky was blocking Node.js, and my config file had a broken API key with a missing hyphen. Took me a while to figure out, but adding NODE_OPTIONS=--use-system-ca and fixing the typo did the trick. Now firecrawl_scrape works exactly as intended. So worth it in the end! 🚀
+8
+3
+New comment 22m ago
+7
+Duy Bui
+1d • 
+General Discussion 💬
+A warning becomes a suggestion
+When evaluating Hermes Agent, a fictional instruction says 'must disconnect power'; a draft translation says 'should'. The decision I would test: review obligation and prohibition words before judging fluency. Which wording change could make a fluent translation unsafe?
+8
+11
+New comment 23m ago
+9
+Muskan Ahlawat
+🔥
+2d • 
+General Discussion 💬
+ using AI the most right
+Where are you using AI the most right now? A) Studying or learning B) Work or business C) Writing and content D) Coding E) Something else Drop your letter below, and if you picked E, tell me what! I’m curious because I’m learning AI and automation myself, and I want to know where it’s actually useful for people, not just where it sounds cool.
+36
+44
+New comment 29m ago
+5
+Harrison Zhang
+6h • 
+Hire Me / Looking For Hire 💰
+PhD ML & embedded engineer (Tokyo) looking for a US/EU business partner
+Hi everyone, I'm Ze Zhang, a Junior Researcher (Assistant Professor) at Waseda University in Tokyo. What I build - Machine learning on sensor and time-series data. I collected a 118-participant clinical dataset and built models that reached AUC 0.93, against 0.86 for the standard baseline. - Edge AI. I compressed a model to 48 kB and ran it on a BLE microcontroller for 7 nights per charge, with less than 1 point of accuracy loss. - Embedded firmware and hardware prototyping. C, STM32, nRF52, KiCad, printed flexible sensors, 3D printing. - Medical-device development. Clinical study design and ISO 13485 documentation. - Tools: Python, PyTorch, scikit-learn, XGBoost, MATLAB. I've also published 4 journal papers, have 1 patent application, and I'm in an industry collaboration where a sensor patch is in user testing. Who I'm looking for: A partner based in the US or EU who is good at finding and managing clients, such as health-tech startups, wearable or IoT companies, or any team that needs ML on sensor data or AI running on small devices. You handle sales and the client relationship, and I handle the technical work. We agree the revenue split in writing, and clients know who is doing the work. Languages: Mandarin (native), Japanese (JLPT N1), English. Time zone: JST. Available for about 40 hours a week. If this sounds interesting, comment below or send me a DM. If you want to book a call happy to have a video call -> https://calendly.com/harrisonhan0122/new-meeting
+5
+1
+New comment 31m ago
+5
+Ali Abdullah
+7h • 
+General Discussion 💬
+Before an agent goes live, I check these 3 things
+A run that finishes is not proof it worked. Check the result where it was meant to land, not only the run log. If a step can act twice, check what stops the second run from repeating it. If a step ends in an unknown state, check that it parks for a human look instead of guessing. Those three checks catch most of the quiet failures. Which one do you check first?
+10
+3
+New comment 41m ago
+7
+Theresa Elliott
+🔥
+17h • 
+Wins 🌟
+My 10 Month Transformation from Zero to AI Full Stack Developer. Thanks Nate!
+When I joined here on December 25, 2025, I knew exactly ZERO about building with AI. If you're new here: I was you ten months ago today. I had zero knowledge of AI. I am a mom over 50 with a big family. I had 13 years in the Navy, 20 years in federal service, a personal transformation system I’d run since 2010, and a big dream. I’m posting today to say thank you to @Nate Herk and to share what happens when you show up and keep learning and invest in yourself. I joined Nate's AIS+ community recently, and attended last weekend's AIS Live Summit. It was time well spent. I am continuing to learn more from him over in AIS+, it's truly unbelievable how much knowledge Nate is capable of putting out! My goal is to use AI for the greatest human good. It's the most powerful technology humankind has ever had, and want to I build with it thoughtfully to help people achieve their highest good and make incredible personal transformations. AIS+ is where I an leveling up. Here’s what I can do now, 10 months after joining AIS, thanks to Nate and all his teaching: 🛠️ I build and ship real apps. On June 1st, I shipped my 28 Day Action Plan™ app, six months after joining here. It is live with paying members, runs in 50 languages, and has an AI coach built in. I build with Next.js, TypeScript, Supabase, and Vercel, and AI coding agents Claude Code and Codex are my build team. I learned how to do all this myself, thanks to being here. 🍎 In July 2026, I was accepted into the Apple independent developer program. That's just SEVEN MONTHS after joining here. I'm learning Swift, XCode, and how to develop apps for the newest foldable iPhone. 🤖 I build AI into real products in full stack development. Use MCP and API's to connect apps to AI models, set up backup models in case one goes down, and design safety rules for AI agents: spending limits, logs of everything they do, and an off switch. I even built my own AI operating system that remembers my whole business. I learned by trial and error, going back to Nate's videos when something didn't quite click.
+24
+25
+New comment 1h ago
+9
+Nate Herk
+💎
+14d • 
+Announcements📢
+What do you think of our new logo?
+AIS started as a community about automation. It’s now 450,000+ people all over the world learning AI together, and the old logo didn’t fit that anymore. The globe stands for what we’re building: the largest network of AI professionals, and a place where anyone can find where they fit in AI, whatever their background. Watch the reveal below and tell me what you think in the comments. Welcome to the new era of AIS.
+357
+244
+New comment 1h ago
+4
+David He
+2h • 
+General Discussion 💬
+The October Railway breach hit my Google and Anthropic AI keys this week: the 4-step recovery checklist I ran
+This week my Google and Anthropic AI keys got hit in the wake of the October Railway security incident, even though our own repositories had zero public leaks. On October 23, Google Cloud deactivated the Gemini API key for my photo app (pFrame) after a sudden spike of 13,740 requests ($47.81 in usage before rate limits and automatic suspension cut it off). Two days earlier on October 21, our Anthropic account was hit with a roughly $90 single-day spike ($88.14 across 12 rapid auto-recharge invoices in a few hours) before we disabled the exposed keys, which we are currently appealing with Anthropic. I immediately ran a full exposure audit across 290 local Git histories, 17 Netlify sites, 10 Vercel projects, and all 34 public JavaScript bundles on pFrame. Our code was clean. Then I saw the security alert from Railway, where several of our back-end services run. Between October 20 and October 22, attackers breached Railway's internal systems and decrypted stored environment variables across a subset of workspaces. Railway reported that the attackers used uncensored AI models in a targeted campaign to harvest AI provider keys ("LLMjacking") and crypto wallets. Because our Google key sat inside Railway before the breach, and Railway warned us that our project names matched the attacker's AI-key search pattern, I treated all 79 distinct secrets across our 13 Railway projects (102 variable bindings) as compromised and started rotating them right away. Even if your own repo security is tight, a host or supply-chain breach (like the TeamPCP attacks on LiteLLM and Axios this year) can still expose your keys. Here is the 4-step disaster recovery checklist I now run across every AI project: 1. Put a hard dollar cap on every AI provider account Git hooks do not help if a cloud host gets breached at 2 AM. Set a hard monthly spend limit and disable uncapped auto-recharge inside Google, OpenAI, and Anthropic so a stolen key shuts off before it turns into a four-figure invoice.
+2
+1
+New comment 2h ago
+5
+Simon Knudsen
+16h • 
+General Discussion 💬
+Do You Explain Your Pricing Calculations in Your Scope of Work?
+When creating a Scope of Work and proposal for an automation project, do you include a breakdown of how you arrived at your price? For example, do you state the assumed hourly rate of the employees involved and the estimated time savings per week or year to demonstrate the potential ROI? I would prefer to avoid going back and forth with clients on calls discussing the numbers, so I'm wondering whether it makes sense to document the assumptions and calculations directly in the Scope of Work and simply refer clients to it if questions arise. How do you handle this in your own projects?
+13
+9
+New comment 2h ago
+4
+David He
+9h • 
+General Discussion 💬
+Can't come up with enough work to keep your AI agent busy? How I fixed the 90-second prompt bottleneck
+Models have gotten so good at understanding problems and executing that work that used to take hours now finishes in 10 to 15 minutes. Lately I kept hitting the same wall: as soon as I stepped away from my desk, my coding agent was already done and waiting on me. The AI was no longer the bottleneck—I was. When I audited 1,402 of my interactive Claude Code sessions (4,367 prompts) over a two-week window, the numbers showed why: - 74% of my regular chat runs finished in under 5 minutes, and 92% finished in under 15 minutes. - The median active run from a standard prompt was just 90 seconds before the agent stopped and waited for me. - 82% of my prompts had no automated pass/fail verifier, and 99.8% did not include a finished reference example. On Friday I used my autonomous task loop (goal-loop) to break that bottleneck. I pointed it at my project memory (OpenBrain) to scan my projects in flight, pick the 5 highest-impact tasks, build and verify them, and repeat for 12 hours. It finished 14 waves (70 verified loops across 20 repos) while I worked on other things, plus a 4-hour continuous improvement run on my home-repair app (moHelp). Across my logs, goal-loop runs lasted 17x longer than regular chat prompts. Even then, my old goal-loop had a flaw: it started coding right away from a one-sentence prompt with an 8-pass cap. Whenever my intent was fuzzy, 42% of those runs still parked early to ask me clarifying questions. Yesterday I upgraded the workflow by combining an upfront interview skill (grill-me) with "role engineering" patterns from Nick Saraev and Anthropic's engineering team: 1. Have the agent interview you before it touches a file. Instead of guessing from a one-line prompt, my upgraded loop runs a 5-question upfront interview (grill-me) in two minutes at my desk. It locks the exact finish line, what is out of bounds, and what happens when a step is ambiguous so the agent can run for hours without checking in. 2. Lock a deterministic pass/fail verifier and one gold-standard example.
+12
+8
+New comment 2h ago
+5
+Howard Lothrop
+11h • 
+General Discussion 💬
+Day 5: Website Building
+My live url: https://handoff-site-iota.vercel.app One hack I used: I used the first 3... - Hack #1: The CLAUDE.md file as a system prompt for your website project - Hack #2: The front-end design skill that makes Claude Code dramatically better at building UIs - Hack #3: The screenshot loop - Claude Code uses Puppeteer to screenshot its own work and self-improve I also added CLI for GH and Vercel, and added a clear safeguard: Instruction, so I'm covered two ways: the instruction tells Claude to ask, and the settings rules make Claude Code ask regardless. Then with both belt and suspenders in place it triggers autodeploy on pushes. Finally, I added favicon, link preview, privacy line and analytics script. Before and After: Didn't really capture much along the way. It was a fairly continuous process
+6
+5
+New comment 2h ago
+9
+Nate Herk
+💎
+Sep 18 • 
+YouTube Resources 📚
+🚀New Video: Anthropic’s CEO: How to Build a 1 Person Business with Claude
+Dario says the first 1-person billion-dollar company will be built this year. I started as an AI freelancer and passed $10K a month by myself, so today I'm building a $1 million company with 0 employees. That's why I'm breaking down Anthropic’s CEO vision on how to build a 1 person business with Claude. So what does Claude actually build? Watch and see.
+266
+166
+New comment 3h ago
+7
+Chetan Mishra
+Jul 6 • 
+Hire Me / Looking For Hire 💰
+Zero Editors. 5.2 Million Views. One Client.
+A few months back I started building AI content systems for clients, fully automated, no editors, no script writers, no managers, nothing manual. The numbers still surprise me every time I look at them. One reel hit 5,251,777 views. 93.9% came from people who had never seen the account before, meaning 2.8 million completely new accounts discovered the brand through content alone. No paid ads. No cold outreach. Just consistent content the algorithm kept pushing because it never stopped running. That same system generated 42 inbound leads and helped close $25,800 in business across four different clients. Here's the actual lesson in this. Most businesses don't have a content problem, they have a consistency problem. Remove the human bottleneck and the algorithm rewards you for showing up every single day without fail. AI doesn't get tired. Doesn't take a sick day. Doesn't forget to post because life got busy. That's the whole system. If you want to see exactly how this works, drop a comment or send me a DM. YO GUYS YOU CAN DIRACT DM ME :) - If you have the level to DM, just message me directly. Skool limits how many people I can message, so if you can’t DM yet, drop a comment and I’ll reach out when I can.
+189
+350
+New comment 4h ago
+5
+Grant G
+Apr 22 • 
+Wins 🌟
+Day 1 Newsletter build.
+Hi everyone! 👋 I’m excited to share my Day 1 win: building my first newsletter using Claude Code. I learned a ton through the process—how Claude Code works, what goes into creating a newsletter from scratch, and where there’s room for improvement. Since this was my first time building something like this, it was a great hands-on experience. Honestly, I’m pretty impressed with how capable the AI is. The result turned out better than I expected—but as a beginner, I’m sure I’ve missed things I could improve. I’d really appreciate any feedback or suggestions on how I can make the newsletter better. Thanks in advance! 🙌
+314
+225
+New comment 4h ago
+3
+Mike Corbean
+9h • 
+General Discussion 💬
+Day 1 Build (my version): Newsletter
+Hey everyone - Happy Sunday! - What you built - screenshot of your newsletter email or your Claude Code project setup: For my business use case, a LinkeIn post was more practical than a newsletter so that's what I built. Also, I've been operating within the AIOS executive assistant taught by Nate for the past 8 months or so, so I built this in that existing project instead of a new dedicated one. Here's the prompt I started with: "I want to build a LinkedIn post generator automation. you research a topic for [my business name], write the content, generate infographics, format it in HTML or whatever format is best, and send it to me via Gmail for me to preview. Each piece of this automation will require my approval before being handing off to the next. You should decide the best tool to use for each of these steps." The "you decide" part is my take on the recent recommendation to get out of the agents way and let it figure things out (ie, Andrej suggesting we delete all skills 🫤...) - One thing you learned This project reinforced something I'm learning... that the early months of investing time in "OSkar" (My AIOS) have been worth it. 2 of the topics he chose for the post were pulled from issues we had that were only recorded deep within our companies project management tool. - One thing you'd improve - what would you change about your newsletter on the next iteration? Next iteration, I will point OSkar to our companies marketing campaign calendar and have him leverage the strategy. This example I'm sharing was sort of intentionally not practical (there's kinda no story here) but I just wanted to test the mechanics. Here she is: POST: 4 vans. That's how many Sprinters one of last fall's frame recalls covered. Another covered about 366. Here's the 1-minute check that tells you if yours is one of them. Last fall, Mercedes-Benz recalled 2 groups of Sprinters over the frame. One covered 4 vans built over 2 days in September 2023. Frame reinforcements may be missing, which can affect how the body holds up in a frontal crash.
+10
+3
+New comment 4h ago
+6
+Victor Lausas
+3d • 
+Wins 🌟
+I’ll let you in on a little secret…
+You can create AI illustrations, posters and video avatars on your own computer - without monthly AI subscriptions. That’s how I generated this video, with a mere 8Gb of VRAM. If you run an agency, this isn’t just about saving a few euros on software. It’s about how much of every project fee you actually keep. Local AI isn’t flawless today. Some results need refining. Others go straight in the bin. The value is in that you can try again. Change direction. Explore another idea. Without watching a paid credit balance disappear. Today, the value isn’t in flawless execution. It’s in the freedom to keep iterating. Tomorrow? Both. Learn the technology today. Master it tomorrow. Want to learn how to put local AI to practical use? Comment below and follow me for more.
+12
+4
+New comment 4h ago
+3
+Matteo Bianchi
+1d • 
+General Discussion 💬
+Preventing Silent Failures in AI Automation: What’s Your Most Effective Safeguard?
+One thing I'm trying to understand better about AI automation is reliability. A workflow can look great in a demo, but what happens when an API fails, a token expires, or the AI produces an unexpected response? I'm interested in learning about simple safeguards such as: - Error alerts and retries - Logging successful and failed runs - Validating outputs before taking action - Testing workflows regularly For those who've built production automations: what's the single most useful safeguard you've added to prevent silent failures?
+15
+7
+New comment 5h ago
+3
+Brad Taylor
+12h • 
+Support Needed 💻
+Claude Agent Skills for YouTube
+Where can I find open source Claude Agent Skills for YouTube
+9
+2
+New comment 5h ago
+3
+Swastik M
+1d • 
+Hire Me / Looking For Hire 💰
+I am launching my AI Automation Agency, what should I name it?
+Suggest me some unique names that I can use for my agency
+22
+20
+New comment 6h ago
+3
+Rob Olson
+10d • 
+General Discussion 💬
+The Big Idea
+We are entering a period where people are being told that AI can do everything for them. Build the app. Find the idea. Validate the market. Write the copy. Run the ads. Make the decisions. Manage the product. Grow the company. That sounds attractive because it removes effort. But there is a problem. If AI understands your customers, your market, your product, your pricing, your evidence, and your decisions better than you do, what exactly are you running? You may have software. You may even have automation. But you have not necessarily built a durable business that you understand and know how to operate.
+9
+3
+New comment 6h ago
+Previous
+1
+2
+3
+4
+5
+...
+881
+Next
+1-30 of 26,414
+AI Automation Society
+skool.com/ai-automation-society
+Learn to get paid for AI solutions, regardless of your background.
+475.3k
+Members
+1k
+Online
+16
+Admins
+JOIN GROUP
+Leaderboard (30-day)
+1
+Muskan Ahlawat
+🔥
++4331
+2
+Nigel Vargas
++3941
+3
+Christian Rivadeneira
+🔥
++3048
+4
+Julius Waggoner
++2204
+5
+Ameeth B.
++1706
+See all leaderboards
+Powered by
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+Form 2: method=get action="#" id=""
+  - input type=text name="" id="" label="" placeholder="Search" aria="" required=false
+

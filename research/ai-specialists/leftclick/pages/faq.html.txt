@@ -1,0 +1,113 @@
+URL: https://leftclick.ai/faq.html
+Fetched: 2026-10-26T03:45:35Z
+HTTP status: 200
+Final URL: https://leftclick.ai/faq.html
+Content-Type: text/html
+Via: chrome-headless
+Title: FAQ — Frequently Asked Questions | LeftClick AI
+Meta description: Frequently asked questions about LeftClick AI: what we do, pricing, process, who we work with, and how to get started.
+Canonical: https://leftclick.ai/faq.html
+Robots: index, follow
+H1: Frequently asked questions
+
+Services
+About
+Let's talk
+Let's talk
+Services
+About
+Let's talk
+Frequently asked questions
+
+Everything you need to know about LeftClick — what we do, how we work, and how to get started.
+
+What is LeftClick?
+
+LeftClick (also known as LeftClick AI) is an AI automation and growth consultancy for B2B companies, founded by Nick Saraev in 2022. We build custom AI systems for lead generation, sales, and operations, and have generated over $10M in revenue for clients across 20+ industries.
+
+Is LeftClick a legitimate company?
+
+Yes. LeftClick AI is founded by Nick Saraev, who teaches AI to over 1M people across YouTube and Maker School. The team has 7+ years of production AI experience and has generated over $10M in client revenue, with case studies published publicly on this site.
+
+What services does LeftClick offer?
+
+AI automation, AI lead generation, custom AI agents, CRM & sales automation, workflow & business-process automation, and AI workshops for teams. See our Services pages for detail.
+
+How much does LeftClick cost?
+
+We work on fixed-price projects. Engagements typically start at $5,000, and most projects range from $10,000 to $50,000, with an optional ongoing management retainer. Every engagement starts with a free 30-minute growth mapping call.
+
+How does LeftClick work?
+
+Four steps: a free funnel-map audit, a fixed-price proposal, the build (we design, test, and deploy your systems with weekly updates), and optional ongoing management. See Our Process for the full breakdown.
+
+Who is Nick Saraev?
+
+Nick Saraev is the founder of LeftClick and Maker School, the #1 AI community on Skool with 10,000+ graduates. He runs one of the largest AI channels on YouTube (400K+ subscribers) and has generated tens of millions in revenue for clients.
+
+Where is LeftClick located and who do you work with?
+
+LeftClick is a remote-first team serving B2B clients in Canada, the United States, the United Kingdom, and Australia. We've delivered work across 20+ industries.
+
+How do I contact LeftClick?
+
+Book a free 30-minute growth mapping call from any page on this site, or reach the team by phone at (604) 723-1522. See our Contact page for all the details.
+
+Ready to scale with AI?
+
+Book a free 30-minute growth mapping call. We'll audit your funnel, find the bottlenecks, and show you exactly where AI moves the needle.
+
+Engagements typically start at $5K. Most projects range $10K-$50K.
+
+Book a free growth call
+Book a free growth call
+
+Work with us
+
+Start with a free, thirty-minute growth mapping call.
+
+Let's talk
+Let's talk
+
+SERVICES
+
+AI Automation
+AI Lead Generation
+Custom AI Agents
+CRM & Sales Automation
+AI Workshops
+All Services
+
+COMPANY
+
+About
+Nick Saraev
+Case Studies
+Industries
+Careers
+Press
+
+RESOURCES
+
+What is LeftClick?
+Pricing
+Our Process
+FAQ
+Results & Reviews
+Contact
+
+CONNECT
+
+YouTube
+LinkedIn
+Instagram
+X / Twitter
+Maker School
+Free Courses
+Privacy Policy
+Terms of Service
+© 2026 Nick Saraev Media LLC. All rights reserved.
+
+--- json-ld ---
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is LeftClick?","acceptedAnswer":{"@type":"Answer","text":"LeftClick (also known as LeftClick AI) is an AI automation and growth consultancy for B2B companies, founded by Nick Saraev in 2022. We build custom AI systems for lead generation, sales, and operations, and have generated over $10M in revenue for clients across 20+ industries."}},{"@type":"Question","name":"Is LeftClick a legitimate company?","acceptedAnswer":{"@type":"Answer","text":"Yes. LeftClick AI is founded by Nick Saraev, who teaches AI to over 1M people across YouTube and Maker School. The team has 7+ years of production AI experience and has generated over $10M in client revenue, with case studies published publicly on this site."}},{"@type":"Question","name":"What services does LeftClick offer?","acceptedAnswer":{"@type":"Answer","text":"AI automation, AI lead generation, custom AI agents, CRM & sales automation, workflow & business-process automation, and AI workshops for teams. See our Services pages for detail."}},{"@type":"Question","name":"How much does LeftClick cost?","acceptedAnswer":{"@type":"Answer","text":"We work on fixed-price projects. Engagements typically start at $5,000, and most projects range from $10,000 to $50,000, with an optional ongoing management retainer. Every engagement starts with a free 30-minute growth mapping call."}},{"@type":"Question","name":"How does LeftClick work?","acceptedAnswer":{"@type":"Answer","text":"Four steps: a free funnel-map audit, a fixed-price proposal, the build (we design, test, and deploy your systems with weekly updates), and optional ongoing management. See Our Process for the full breakdown."}},{"@type":"Question","name":"Who is Nick Saraev?","acceptedAnswer":{"@type":"Answer","text":"Nick Saraev is the founder of LeftClick and Maker School, the #1 AI community on Skool with 10,000+ graduates. He runs one of the largest AI channels on YouTube (400K+ subscribers) and has generated tens of millions in revenue for clients."}},{"@type":"Question","name":"Where is LeftClick located and who do you work with?","acceptedAnswer":{"@type":"Answer","text":"LeftClick is a remote-first team serving B2B clients in Canada, the United States, the United Kingdom, and Australia. We've delivered work across 20+ industries."}},{"@type":"Question","name":"How do I contact LeftClick?","acceptedAnswer":{"@type":"Answer","text":"Book a free 30-minute growth mapping call from any page on this site, or reach the team by phone at (604) 723-1522. See our Contact page for all the details."}}]}
+

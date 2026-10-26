@@ -1,0 +1,94 @@
+URL: https://leftclick.ai/case-studies/altercall
+Fetched: 2026-10-26T03:45:31Z
+HTTP status: 200
+Final URL: https://leftclick.ai/case-studies/altercall
+Content-Type: text/html
+Via: chrome-headless
+Title: AlterCall Case Study — LeftClick AI
+Meta description: How LeftClick built AI coaching infrastructure for AlterCall's enterprise platform.
+Canonical: https://leftclick.ai/case-studies/altercall.html
+Robots: 
+H1: 
+
+Case studies
+About
+Services
+Reviews
+Let's talk
+Let's talk
+Home
+Case studies
+About
+Services
+Reviews
+Go Back
+Go Back
+
+By marrying granular engagement tracking with multi-channel automation and live sales analytics, we turned Alter Call's pricey leads into consistently high value clients—unlocking predictable growth in a hyper-competitive market.
+
+Multi-Channel Nurture Systems
+Engagement Scoring Systems
+Sales-Ops Automation
+AlterCall
+High-ticket personal-development programs by influencer Ryan Blair
+Challenge
+
+Facebook ads brought leads at a premium CPL; every contact had to be nurtured with just right pressure to maximize conversions without alienating prospects.
+
+Solution
+Built behavior-driven nurture engine spanning SMS, email, Facebook DM/group invites and scheduled calls.
+Engagement signals (course-progress %, email opens, asset downloads, group joins) fed a lead-score that dictated cadence and channel.
+Sales-ops layer: setter/closer scoreboard, tiered-commission logic, and call-outcome forms auto-enforced via SMS nudges to managers.
+Unified dashboard tracked dials, show-ups, close-rate, cash-collected and product split in real time.
+Impact
+Call-booking rate up ~30%.
+Close-rate per booked call up ~25%.
+ROAS improved by ~40% as high-ticket sales offset ad costs.
+Transparent performance data fostered healthy competition and accelerated promotion of top setters to closers.
+
+Work with us
+
+Start with a free, thirty-minute growth mapping call.
+
+Let's talk
+Let's talk
+
+SERVICES
+
+AI Automation
+AI Lead Generation
+Custom AI Agents
+CRM & Sales Automation
+AI Workshops
+All Services
+
+COMPANY
+
+About
+Nick Saraev
+Case Studies
+Industries
+Careers
+Press
+
+RESOURCES
+
+What is LeftClick?
+Pricing
+Our Process
+FAQ
+Results & Reviews
+Contact
+
+CONNECT
+
+YouTube
+LinkedIn
+Instagram
+X / Twitter
+Maker School
+Free Courses
+Privacy Policy
+Terms of Service
+© 2026 Nick Saraev Media LLC. All rights reserved.
+

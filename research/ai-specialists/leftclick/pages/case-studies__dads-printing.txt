@@ -1,0 +1,96 @@
+URL: https://leftclick.ai/case-studies/dads-printing
+Fetched: 2026-10-26T03:45:32Z
+HTTP status: 200
+Final URL: https://leftclick.ai/case-studies/dads-printing
+Content-Type: text/html
+Via: chrome-headless
+Title: Dad's Printing Case Study — LeftClick AI
+Meta description: How LeftClick transformed Dad's Printing from manual operations to automated workflows with AI systems.
+Canonical: https://leftclick.ai/case-studies/dads-printing.html
+Robots: 
+H1: 
+
+Case studies
+About
+Services
+Reviews
+Let's talk
+Let's talk
+Home
+Case studies
+About
+Services
+Reviews
+Go Back
+Go Back
+
+By fusing storefront strategy with barcode-driven production automation, we turned a commodity print shop into a top-ranked, high-margin DTC engine — showcasing how AI-enabled ops win even in physical manufacturing.
+
+E-Commerce Launch Systems
+Automated SKU Generation Systems
+Barcode Fulfillment Systems
+Dad's Printing
+Custom-merch producer pivoting from wholesale to direct-to-consumer
+Challenge
+
+Low-margin B2B orders; production not built for high-mix, high-volume personalization.
+
+Solution
+Launched three Etsy stores aimed at high-demand niches (custom pet socks, face masks, etc.).
+Photoshop scripting auto-generated thousands of product mock-ups.
+Pipeline: Etsy → PM board → offshore design team → API-driven print-sheet nesting with embedded order # & barcode.
+Barcode scan triggered one-touch print of label, manifest (box-size logic), and invoice; final scan closed order and pushed tracking to customer.
+Production floor split by printer role for flow-through efficiency.
+Impact
+#1 ranking in every targeted Etsy Canada category during peak Christmas season; dominated first-page results across all three stores.
+Margin per unit up 2–3× versus wholesale jobs.
+Hundreds of unique orders/day with <5% error rate.
+Pick-pack time cut ~70%; shipping cost optimized by auto-box selection.
+DTC now delivers the majority of gross profit while wholesale continues uninterrupted.
+
+Work with us
+
+Start with a free, thirty-minute growth mapping call.
+
+Let's talk
+Let's talk
+
+SERVICES
+
+AI Automation
+AI Lead Generation
+Custom AI Agents
+CRM & Sales Automation
+AI Workshops
+All Services
+
+COMPANY
+
+About
+Nick Saraev
+Case Studies
+Industries
+Careers
+Press
+
+RESOURCES
+
+What is LeftClick?
+Pricing
+Our Process
+FAQ
+Results & Reviews
+Contact
+
+CONNECT
+
+YouTube
+LinkedIn
+Instagram
+X / Twitter
+Maker School
+Free Courses
+Privacy Policy
+Terms of Service
+© 2026 Nick Saraev Media LLC. All rights reserved.
+

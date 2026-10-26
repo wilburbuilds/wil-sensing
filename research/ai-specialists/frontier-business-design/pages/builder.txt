@@ -1,0 +1,30 @@
+URL: https://builder.frontierbusinessdesign.com/builder
+Fetched: 2026-10-26T03:41:39Z
+HTTP status: 200
+Final URL: https://builder.frontierbusinessdesign.com/builder
+Content-Type: text/html
+Via: chrome-headless
+Title: Your Business Builder | Frontier Business Design
+Meta description: A personalized operating framework for founder-led service businesses, from Frontier Business Design.
+Canonical: 
+Robots: 
+H1: What is the name of your business?
+
+Skip to content
+Frontier
+BUSINESS DESIGN
+BUSINESS BUILDER
+1 OF ABOUT 25
+
+ABOUT THE BUSINESS
+
+What is the name of your business?
+Website
+CONTINUE
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id=""
+  - input type=text name="" id="input-Q1" label="" placeholder="" aria="" required=false
+  - input type= name="" id="website" label="Website" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

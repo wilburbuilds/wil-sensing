@@ -1,0 +1,57 @@
+URL: https://frontierbusinessdesign.com/
+Fetched: 2026-10-26T03:36:36Z
+HTTP status: 200
+Final URL: https://frontierbusinessdesign.com/
+Content-Type: text/html
+Via: chrome-headless
+Title: Fractional COO for Trades & Service Businesses | Frontier
+Meta description: Fractional COO for founder-led trades and home-service companies ($500K–$10M). Clarity, Alignment, Execution, Scale, so the business runs without you.
+Canonical: https://frontierbusinessdesign.com/
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: THE BUSINESS YOU BUILT SHOULDN'T DEPEND ON YOU.
+
+Skip to content
+Home
+About Us
+Work With Us
+Contact Us
+Contact Us
+OPERATIONS PARTNER FOR TRADES AND HOME-SERVICE OWNERS
+THE BUSINESS YOU BUILT SHOULDN'T DEPEND ON YOU.
+
+You built the business. Now too many decisions, problems and approvals still run through you. Frontier helps founder-led service companies doing $500K–$10M install the structure, accountability and operating systems needed to run without the owner at the center.
+
+Built for the trades: HVAC · Plumbing · Electrical · Landscaping
+
+Designing businesses worth leading.
+
+Frontier Business Design
+Lubbock, TX · Serving owners nationwide
+(806) 790-7951
+johnc@frontierbusinessdesign.com
+
+Facebook
+ 
+X-twitter
+ 
+Linkedin
+Quick Links
+Home
+About Us
+Work With Us
+Contact
+Privacy Policy
+Terms of Service
+
+© 2026 Frontier Business Design™. All Rights Reserved.
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="" id=""
+  - input type=text name="form_fields[name]" id="form-field-name" label="" placeholder="Your name" aria="" required=true
+  - input type=email name="form_fields[email]" id="form-field-email" label="" placeholder="you@company.com" aria="" required=true
+  - input type=text name="form_fields[field_c80d252]" id="form-field-field_c80d252" label="" placeholder="Your company name" aria="" required=false
+  - textarea type= name="form_fields[message]" id="form-field-message" label="" placeholder="Tell us a bit about your business and what you're facing..." aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://frontierbusinessdesign.com/#place","address":{"@type":"PostalAddress"}},{"@type":["LocalBusiness","Organization"],"@id":"https://frontierbusinessdesign.com/#organization","name":"Fractional COO for $1M\u2013$10M Service Businesses","url":"https://frontierbusinessdesign.com","email":"johnc@frontierbusinessdesign.com","address":{"@type":"PostalAddress"},"logo":{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/#logo","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","contentUrl":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","caption":"Fractional COO for $1M\u2013$10M Service Businesses","inLanguage":"en-US","width":"1200","height":"1200"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"description":"We are an Operations Partner for founder-led service-based companies doing $500K to $10M. We bring the clarity, alignment and execution needed to build a business that isn't completely dependent on you.","location":{"@id":"https://frontierbusinessdesign.com/#place"},"image":{"@id":"https://frontierbusinessdesign.com/#logo"},"telephone":"18067907951"},{"@type":"WebSite","@id":"https://frontierbusinessdesign.com/#website","url":"https://frontierbusinessdesign.com","name":"Fractional COO for $1M\u2013$10M Service Businesses","alternateName":"Frontier Business Design","publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://frontierbusinessdesign.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/wp-content/uploads/2025/12/Services-6.png","url":"https://frontierbusinessdesign.com/wp-content/uploads/2025/12/Services-6.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frontierbusinessdesign.com/#webpage","url":"https://frontierbusinessdesign.com/","name":"Fractional COO for Trades &amp; Service Businesses | Frontier","datePublished":"2025-12-21T04:12:34+00:00","dateModified":"2026-10-14T19:07:24+00:00","about":{"@id":"https://frontierbusinessdesign.com/#organization"},"isPartOf":{"@id":"https://frontierbusinessdesign.com/#website"},"primaryImageOfPage":{"@id":"https://frontierbusinessdesign.com/wp-content/uploads/2025/12/Services-6.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign","url":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","caption":"frontierbusinessdesign","inLanguage":"en-US"},"sameAs":["http://frontierbusinessdesign-iqyks.wordpress.com"],"worksFor":{"@id":"https://frontierbusinessdesign.com/#organization"}},{"@type":"Article","headline":"Fractional COO for Trades &amp; Service Businesses | Frontier","keywords":"fractional COO","datePublished":"2025-12-21T04:12:34+00:00","dateModified":"2026-10-14T19:07:24+00:00","author":{"@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign"},"publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"description":"Fractional COO for founder-led trades and home-service companies ($500K\u2013$10M). Clarity, Alignment, Execution, Scale, so the business runs without you.","name":"Fractional COO for Trades &amp; Service Businesses | Frontier","@id":"https://frontierbusinessdesign.com/#richSnippet","isPartOf":{"@id":"https://frontierbusinessdesign.com/#webpage"},"image":{"@id":"https://frontierbusinessdesign.com/wp-content/uploads/2025/12/Services-6.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://frontierbusinessdesign.com/#webpage"}}]}

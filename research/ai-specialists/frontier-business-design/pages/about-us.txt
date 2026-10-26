@@ -1,0 +1,69 @@
+URL: https://frontierbusinessdesign.com/about-us/
+Fetched: 2026-10-26T03:34:38Z
+HTTP status: 200
+Final URL: https://frontierbusinessdesign.com/about-us/
+Content-Type: text/html
+Via: chrome-headless
+Title: About John Claborn, Fractional COO | Frontier
+Meta description: John Claborn has sat in the COO and Integrator seat at service businesses. How Frontier installs Clarity, Alignment, Execution and Scale for owners.
+Canonical: https://frontierbusinessdesign.com/about-us/
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: About Frontier Business Design
+
+Skip to content
+Home
+About Us
+Work With Us
+Contact Us
+Contact Us
+ABOUT US
+About Frontier Business Design
+
+Frontier helps founder-led service businesses between $500K and $10M move from survival to structure — installing the systems, team, and operating rhythm to scale.
+
+OUR STORY
+Who Am I?
+
+My name is John, and I’ve been a COO/Integrator for more than 10 years. I got my start in a financial services firm focused primarily in insurance then shifted my focus to my real estate company before landing in the home services industry. 
+
+I have successfully installed an operating system in 5 different companies resulting in 3x revenue twice, clear accountability, ownership of outcomes and decreased chaos and stress of each business’s leaders and executives. 
+
+After years of working inside multiple small businesses, one pattern showed up again and again:
+
+Growth Came. But So Did the Messiness.
+
+Everyone was working really hard. The leaders at the top carried more than they were supposed to. Systems were outgrown.
+
+Frontier exists to help small businesses between $500K and $10M discover their greatest pain points, create a system built around a vision and implement actionable practices to create a business that runs the way you always meant for it to. 
+
+From consulting and landscaping to insurance and real estate, I have seen so many businesses start out with passion and vision only to be consumed by the demands of a growing business.
+
+My philosophy is centered around putting the right people in the places they work best while building a business system that supports the vision of the leaders.
+
+Frontier Business Design is the culmination of over 15 years of service-minded business experience from start-up to scale. 
+
+Designing businesses worth leading.
+
+Frontier Business Design
+Lubbock, TX · Serving owners nationwide
+(806) 790-7951
+johnc@frontierbusinessdesign.com
+
+Facebook
+ 
+X-twitter
+ 
+Linkedin
+Quick Links
+Home
+About Us
+Work With Us
+Contact
+Privacy Policy
+Terms of Service
+
+© 2026 Frontier Business Design™. All Rights Reserved.
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://frontierbusinessdesign.com/#place","address":{"@type":"PostalAddress"}},{"@type":["LocalBusiness","Organization"],"@id":"https://frontierbusinessdesign.com/#organization","name":"Fractional COO for $1M\u2013$10M Service Businesses","url":"https://frontierbusinessdesign.com","email":"johnc@frontierbusinessdesign.com","address":{"@type":"PostalAddress"},"logo":{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/#logo","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","contentUrl":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","caption":"Fractional COO for $1M\u2013$10M Service Businesses","inLanguage":"en-US","width":"1200","height":"1200"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"description":"We are an Operations Partner for founder-led service-based companies doing $500K to $10M. We bring the clarity, alignment and execution needed to build a business that isn't completely dependent on you.","location":{"@id":"https://frontierbusinessdesign.com/#place"},"image":{"@id":"https://frontierbusinessdesign.com/#logo"},"telephone":"18067907951"},{"@type":"WebSite","@id":"https://frontierbusinessdesign.com/#website","url":"https://frontierbusinessdesign.com","name":"Fractional COO for $1M\u2013$10M Service Businesses","alternateName":"Frontier Business Design","publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/john-claborn.webp","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/john-claborn.webp","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frontierbusinessdesign.com/about-us/#webpage","url":"https://frontierbusinessdesign.com/about-us/","name":"About John Claborn, Fractional COO | Frontier","datePublished":"2025-12-17T09:46:24+00:00","dateModified":"2026-10-14T19:07:26+00:00","isPartOf":{"@id":"https://frontierbusinessdesign.com/#website"},"primaryImageOfPage":{"@id":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/john-claborn.webp"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://frontierbusinessdesign.com/author/theruggedface/","name":"theruggedface","url":"https://frontierbusinessdesign.com/author/theruggedface/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/50e5eafee3502edb97b37349d1bc0ef64c2be0e0dceee5848c76c713faf79aa8?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/50e5eafee3502edb97b37349d1bc0ef64c2be0e0dceee5848c76c713faf79aa8?s=96&amp;d=mm&amp;r=g","caption":"theruggedface","inLanguage":"en-US"},"sameAs":["https://frontierbusinessdesign-iqyks.wpcomstaging.com"],"worksFor":{"@id":"https://frontierbusinessdesign.com/#organization"}},{"@type":"Article","headline":"About John Claborn, Fractional COO | Frontier","keywords":"fractional COO Lubbock","datePublished":"2025-12-17T09:46:24+00:00","dateModified":"2026-10-14T19:07:26+00:00","author":{"@id":"https://frontierbusinessdesign.com/author/theruggedface/","name":"theruggedface"},"publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"description":"John Claborn has sat in the COO and Integrator seat at service businesses. How Frontier installs Clarity, Alignment, Execution and Scale for owners.","name":"About John Claborn, Fractional COO | Frontier","@id":"https://frontierbusinessdesign.com/about-us/#richSnippet","isPartOf":{"@id":"https://frontierbusinessdesign.com/about-us/#webpage"},"image":{"@id":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/john-claborn.webp"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://frontierbusinessdesign.com/about-us/#webpage"}}]}
+

@@ -1,0 +1,104 @@
+URL: https://schemaoperations.com/contact
+Fetched: 2026-10-26T03:33:59Z
+HTTP status: 200
+Final URL: https://schemaoperations.com/contact
+Content-Type: text/html
+Via: chrome-headless
+Title: Contact — Schema Ops
+Meta description: Tell me which of the three is in the way: design, margin or inputs.
+Canonical: https://schemaoperations.com/contact/
+Robots: 
+H1: Send me one word
+
+Skip to content
+
+Live webinar, Nov 15 at 9 AM ETStop being the system: a 30-minute working session.
+
+Reserve a seat
+S
+SchemaOps
+Services
+Webinars
+Writing
+About
+Get in touch
+
+CONTACT
+
+Send me one word
+
+Design, margin or inputs. Pick the one that sounds most like your company and tell me a little about what's going on. That's enough to start.
+
+Design
+
+The company still needs you in every deal. Nothing important moves unless you touch it.
+
+Margin
+
+The team is slammed, invoices are out, and the profit at the end of the quarter is embarrassing.
+
+Inputs
+
+You know what would change the next ninety days. The week never gets round to doing enough of it.
+
+Not sure which? Pick "Not sure" and describe the thing you keep circling back to. If I'm not the right person, I'll say so.
+
+Name
+Email
+Company optional
+Which one is in the way?
+Design
+Margin
+Inputs
+Not sure
+What's going on?
+Website
+Send
+
+EMAIL
+
+hello@schemaoperations.com
+
+ON X
+
+@Toomey1313
+
+S
+SchemaOps
+
+Operating design for founder-led companies that have stopped growing
+
+SITE
+
+Services
+Webinars
+Writing
+About
+Contact
+
+ELSEWHERE
+
+@Toomey1313 on X
+hello@schemaoperations.com
+
+START A CONVERSATION
+
+Design, margin or inputs. Tell me which one is in the way.
+
+© 2026 Schema Ops. All rights reserved.
+
+New essays go out on X first
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/api/contact" id=""
+  - input type=text name="name" id="cf-name" label="Name" placeholder="" aria="" required=true
+  - input type=email name="email" id="cf-email" label="Email" placeholder="" aria="" required=true
+  - input type=text name="company" id="cf-company" label="Company optional" placeholder="" aria="" required=false
+  - input type=radio name="topic" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="topic" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="topic" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="topic" id="" label="" placeholder="" aria="" required=false
+  - textarea type= name="message" id="cf-message" label="What's going on?" placeholder="" aria="" required=true
+  - input type=text name="website" id="cf-website" label="Website" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

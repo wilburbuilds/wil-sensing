@@ -1,0 +1,62 @@
+URL: https://pages.frontierbusinessdesign.com/assessment
+Fetched: 2026-10-26T03:39:54Z
+HTTP status: 200
+Final URL: https://pages.frontierbusinessdesign.com/assessment
+Content-Type: text/html
+Via: chrome-headless
+Title: Owner Dependency Assessment | Frontier Business Design
+Meta description: An honest 25-minute diagnostic for owners of $1M-$10M trades and home service businesses to discover where the leaks are occurring. 
+Canonical: 
+Robots: 
+H1: 
+
+Full Name *
+Email *
+Business Name
+Industry
+Revenue Range
+Employee Count
+
+Privacy Policy
+
+Continue →
+
+--- forms (extracted, not submitted) ---
+Form 1: method=get action="" id="_builder-form"
+  - input type=text name="full_name" id="full_name" label="Full Name *" placeholder="Enter your full name" aria="" required=false
+  - input type=email name="email" id="email" label="Email *" placeholder="your@email.com" aria="" required=false
+  - input type=text name="organization" id="organization" label="Business Name" placeholder="Enter your business name" aria="" required=false
+  - input type=text name="2EvKSSxs3Ow2zIygSWxt" id="2EvKSSxs3Ow2zIygSWxt" label="" placeholder="" aria="2EvKSSxs3Ow2zIygSWxt-searchbox" required=false
+  - input type=text name="RugKRQbOk4rXJG91i3EZ" id="RugKRQbOk4rXJG91i3EZ" label="" placeholder="" aria="RugKRQbOk4rXJG91i3EZ-searchbox" required=false
+  - input type=text name="6fJyEH3eO9dvrB9upJnK" id="6fJyEH3eO9dvrB9upJnK" label="" placeholder="" aria="" required=false
+  - input type=text name="08RY6suY9sJppl5LAlqy" id="08RY6suY9sJppl5LAlqy" label="What is your revenue goal for the next 12 months, and do you have a specific plan to get there?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="1tRLoCSceGTXsUjgWKHp" id="1tRLoCSceGTXsUjgWKHp" label="Beyond revenue, what does your organization look like 3 years from now — size, structure, and your role in it?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="0ubkw5W0pZu01QtsK2aC" id="0ubkw5W0pZu01QtsK2aC" label="What is the single biggest thing currently preventing your business from growing?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="yqBwVPSkuQ7ZaQUfmCV5" id="yqBwVPSkuQ7ZaQUfmCV5" label="When you make major decisions about the organization, what are you basing them on?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="btU5cy8y9gGkL7BoA2je" id="btU5cy8y9gGkL7BoA2je" label="Can your team describe what success looks like for your organization this year without asking you?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="VjgLXO6nmnCuIHZjA3w9" id="VjgLXO6nmnCuIHZjA3w9" label="How do you currently spend the majority of your working hours, and how does that compare to where you think your time should be spent?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="kUtq3cJagMAEhljdeZq1" id="kUtq3cJagMAEhljdeZq1" label="What is the one problem in your organization that keeps coming back no matter how many times you address it?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="pOKxBBwsb1kZbEtP818G" id="pOKxBBwsb1kZbEtP818G" label="If you were unavailable for two weeks, what would break down in your organization and why?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="5t3JOQB5kMRGl14iUOrs" id="5t3JOQB5kMRGl14iUOrs" label="How do you currently communicate priorities to your team — and how do you know they understand them?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="DSkDAhz7Z8cyoAMxYRDN" id="DSkDAhz7Z8cyoAMxYRDN" label="When something doesn't get done or goes wrong, what typically happens next?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="cVkHdY8kQhUX33SS0z5w" id="cVkHdY8kQhUX33SS0z5w" label="Do your employees know specifically what they are responsible for and how their performance is measured?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="gS6bEVFYRKp1wprP2Hs5" id="gS6bEVFYRKp1wprP2Hs5" label="Who on your team can make decisions without coming to you first, and what kinds of decisions are those?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="ItdbeIMhWNQh0iFtokSL" id="ItdbeIMhWNQh0iFtokSL" label="How do you currently handle an employee who is underperforming?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="UVqFsyBSDRfHLe8OpcVv" id="UVqFsyBSDRfHLe8OpcVv" label="Describe your current meeting structure — how often does your team meet, and what do those meetings accomplish?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="xsFVGisTLkYjUKhsH2ZH" id="xsFVGisTLkYjUKhsH2ZH" label="When you look at your team honestly, who is driving results independently and who requires your involvement to get things done?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="qy2N7K2HPC0m5t1gluJo" id="qy2N7K2HPC0m5t1gluJo" label="How does a new client go from saying yes to fully onboarded — walk me through what that process looks like today?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="jCRf5c1XhtTwYWl3MZco" id="jCRf5c1XhtTwYWl3MZco" label="Are your core business processes written down anywhere, or do they live in your head and your team's heads?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="S7EKDTKXp7CrSd6s47JS" id="S7EKDTKXp7CrSd6s47JS" label="When a client has a problem or complaint, what happens — and who handles it?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="h9lbrmHoTA11hqog5YQz" id="h9lbrmHoTA11hqog5YQz" label="What part of your service delivery are you most personally involved in, and what would happen if you stepped away from it?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="abN1VKCLV1kQXGPQB4P8" id="abN1VKCLV1kQXGPQB4P8" label="How do you currently ensure the quality of your work before it reaches the client?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="Lx7Te1P0nI7ZGIabcUj8" id="Lx7Te1P0nI7ZGIabcUj8" label="What does your client experience look like between the time they sign and the time the engagement ends — is it consistent every time?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="zpU5qIs9JLefqKeuAI74" id="zpU5qIs9JLefqKeuAI74" label="What is the most repetitive task in your organization that you or your team does manually that you haven't been able to systemize yet?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="0TS5RrIv5SrycRFxP7j6" id="0TS5RrIv5SrycRFxP7j6" label="When you bring on a new employee, how do you train them and how long before they're operating independently?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="LFwcGNmYD64NFM99UVtS" id="LFwcGNmYD64NFM99UVtS" label="Do you know your revenue, expenses, and profit margin off the top of your head right now — and how often are you looking at those numbers?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="mOQuh7z2XxS2lK2t5TbM" id="mOQuh7z2XxS2lK2t5TbM" label="How do you currently price your services, and when did you last evaluate whether your pricing reflects the value you deliver?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="UQ3Ff1G36DSJF0rxcPqG" id="UQ3Ff1G36DSJF0rxcPqG" label="Do you know which of your services or clients are the most profitable, and does that information influence how you sell?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="8BoreM87ggHZ53VW0Uh2" id="8BoreM87ggHZ53VW0Uh2" label="What does your cash flow look like month to month — are you usually confident about what's coming in and going out, or does it feel unpredictable?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="exGByykHJVPGXnZ9OF2h" id="exGByykHJVPGXnZ9OF2h" label="When you need to make a financial decision — hiring, investing in tools, taking on overhead — what does that decision-making process look like?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="ucDUhBh7doBL3GIoKnp5" id="ucDUhBh7doBL3GIoKnp5" label="Do you have a budget or financial target you're actively managing against, or are you primarily reacting to your bank balance?" placeholder="Enter your text" aria="" required=false
+  - input type=text name="dZ4ezT2v0T4lXhfXkSRZ" id="dZ4ezT2v0T4lXhfXkSRZ" label="What is one financial problem in your organization that you know exists but haven't had the time or clarity to fully address?" placeholder="Enter your text" aria="" required=false
+

@@ -1,0 +1,58 @@
+URL: https://frontierbusinessdesign.com/frontier-business-blueprint/
+Fetched: 2026-10-26T03:34:44Z
+HTTP status: 200
+Final URL: https://frontierbusinessdesign.com/frontier-business-blueprint/
+Content-Type: text/html
+Via: chrome-headless
+Title: Frontier Business Blueprint Assessment | Frontier
+Meta description: A 24-question diagnostic for service business owners. See where owner dependency is costing you and what to fix first.
+Canonical: https://frontierbusinessdesign.com/frontier-business-blueprint/
+Robots: follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large
+H1: FRONTIER BUSINESS BLUEPRINT ASSESSMENT
+
+Skip to content
+Home
+About Us
+Work With Us
+Contact Us
+Contact Us
+FRONTIER BUSINESS BLUEPRINT ASSESSMENT
+What You’ll Get From This Snapshot
+
+A clear picture of what’s actually breaking in your business
+
+24 diagnostic questions to see where chaos is costing you time, money, and energy
+
+A breakdown of the 4 core operating areas every service business must get right
+
+A simple way to identify what to fix first (and what can wait)
+
+A Scoring system with recommendations on how to correct the issues that exist
+
+Take the Assessment
+
+Designing businesses worth leading.
+
+Frontier Business Design
+Lubbock, TX · Serving owners nationwide
+(806) 790-7951
+johnc@frontierbusinessdesign.com
+
+Facebook
+ 
+X-twitter
+ 
+Linkedin
+Quick Links
+Home
+About Us
+Work With Us
+Contact
+Privacy Policy
+Terms of Service
+
+© 2026 Frontier Business Design™. All Rights Reserved.
+
+--- json-ld ---
+{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://frontierbusinessdesign.com/#place","address":{"@type":"PostalAddress"}},{"@type":["LocalBusiness","Organization"],"@id":"https://frontierbusinessdesign.com/#organization","name":"Fractional COO for $1M\u2013$10M Service Businesses","url":"https://frontierbusinessdesign.com","email":"johnc@frontierbusinessdesign.com","address":{"@type":"PostalAddress"},"logo":{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/#logo","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","contentUrl":"https://frontierbusinessdesign.com/wp-content/uploads/2026/10/FBD-Logo-Navy-1200.jpg","caption":"Fractional COO for $1M\u2013$10M Service Businesses","inLanguage":"en-US","width":"1200","height":"1200"},"openingHours":["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],"description":"We are an Operations Partner for founder-led service-based companies doing $500K to $10M. We bring the clarity, alignment and execution needed to build a business that isn't completely dependent on you.","location":{"@id":"https://frontierbusinessdesign.com/#place"},"image":{"@id":"https://frontierbusinessdesign.com/#logo"},"telephone":"18067907951"},{"@type":"WebSite","@id":"https://frontierbusinessdesign.com/#website","url":"https://frontierbusinessdesign.com","name":"Fractional COO for $1M\u2013$10M Service Businesses","alternateName":"Frontier Business Design","publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://frontierbusinessdesign.com/wp-content/uploads/2026/01/Black-and-White-Simple-Digital-Product-Mockup-Instagram-Post-768x768.png","url":"https://frontierbusinessdesign.com/wp-content/uploads/2026/01/Black-and-White-Simple-Digital-Product-Mockup-Instagram-Post-768x768.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frontierbusinessdesign.com/frontier-business-blueprint/#webpage","url":"https://frontierbusinessdesign.com/frontier-business-blueprint/","name":"Frontier Business Blueprint Assessment | Frontier","datePublished":"2026-01-27T17:29:01+00:00","dateModified":"2026-10-14T19:07:46+00:00","isPartOf":{"@id":"https://frontierbusinessdesign.com/#website"},"primaryImageOfPage":{"@id":"https://frontierbusinessdesign.com/wp-content/uploads/2026/01/Black-and-White-Simple-Digital-Product-Mockup-Instagram-Post-768x768.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign","url":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/becdf07b0002df239ff420961b6b20d637ee215a68ac98c1afb7f3fc315ff57c?s=96&amp;d=mm&amp;r=g","caption":"frontierbusinessdesign","inLanguage":"en-US"},"sameAs":["http://frontierbusinessdesign-iqyks.wordpress.com"],"worksFor":{"@id":"https://frontierbusinessdesign.com/#organization"}},{"@type":"Article","headline":"Frontier Business Blueprint Assessment | Frontier","datePublished":"2026-01-27T17:29:01+00:00","dateModified":"2026-10-14T19:07:46+00:00","author":{"@id":"https://frontierbusinessdesign.com/author/frontierbusinessdesign/","name":"frontierbusinessdesign"},"publisher":{"@id":"https://frontierbusinessdesign.com/#organization"},"description":"A 24-question diagnostic for service business owners. See where owner dependency is costing you and what to fix first.","name":"Frontier Business Blueprint Assessment | Frontier","@id":"https://frontierbusinessdesign.com/frontier-business-blueprint/#richSnippet","isPartOf":{"@id":"https://frontierbusinessdesign.com/frontier-business-blueprint/#webpage"},"image":{"@id":"https://frontierbusinessdesign.com/wp-content/uploads/2026/01/Black-and-White-Simple-Digital-Product-Mockup-Instagram-Post-768x768.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://frontierbusinessdesign.com/frontier-business-blueprint/#webpage"}}]}
+

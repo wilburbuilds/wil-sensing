@@ -1,0 +1,174 @@
+URL: https://schemaoperations.com/services
+Fetched: 2026-10-26T03:33:57Z
+HTTP status: 200
+Final URL: https://schemaoperations.com/services
+Content-Type: text/html
+Via: chrome-headless
+Title: Services — Schema Ops
+Meta description: Three ways to work with Martin Toomey: the Rebuild Kit, the Design Install and Fractional COO. Not one product at three prices.
+Canonical: https://schemaoperations.com/services/
+Robots: 
+H1: Not one product at three prices.
+
+Skip to content
+
+Live webinar, Nov 15 at 9 AM ETStop being the system: a 30-minute working session.
+
+Reserve a seat
+S
+SchemaOps
+Services
+Webinars
+Writing
+About
+Get in touch
+
+SERVICES
+
+Not one product at three prices.
+
+They are three different jobs. Pick the wrong one and you waste a month. Read who each one is for before you read the price.
+
+Rebuild Kit
+
+You do the work.
+
+$397
+one payment
+
+Who it's for
+You. Usually under $2M. No one else can give the yes. You will do the work.
+What happens
+30 days, one function. Engine, KEEP / GIVE / KILL, owner, scorecard. A file and a walkthrough. No call.
+Not this if
+If you want me on Zoom this week, this isn't it.
+See the Rebuild Kit
+Design Install
+
+We build it on your company.
+
+$6,000
+once
+
+Who it's for
+You. Under $5M. Someone on the payroll could own a function if they had a cap and a picture of done. The company still stalls when you leave the thread.
+What happens
+Four half-days in 30 days. The scorecard meeting runs. Hire or fire if the seat is wrong. Then I leave.
+See the Design Install
+Fractional COO
+
+Built with you and the team.
+
+$12,000
+a month, 6-month minimum
+
+Who it's for
+You. $3–5M and up. The team already exists. You want the system built with you and the team.
+What happens
+About a day a week in the company. More can be negotiated. We do not start this from zero.
+See the Fractional COO
+
+SIDE BY SIDE
+
+How the three differ
+
+The difference is how much of the work you do, and how much of me you need in the room while it gets done.
+
+	Rebuild Kit	Design Install	Fractional COO
+Price	$397	$6,000 once	$12,000 a month
+Usually for	Under $2M, small team or about to hire	Under $5M, someone could own a function	$3–5M and up, team already in place
+Who does the work	You	We build it on your company	Built with you and the team
+My time	None. A file and a walkthrough	Four half-days in 30 days	About a day a week
+Calls	No calls	Four working sessions	Weekly, in the company
+Length	30 days, one function	30 days, up to 90 if needed	6 months minimum
+Next step	Get the kit	Start it, or send DESIGN	Send SEAT
+
+THE COST OF WAITING
+
+Broken systems cost more than the hire
+
+A bad hire is not just the paycheck. But the bigger number hides in the week: rework, delays, invisible founder hours, and under-billing.
+
+Your annual revenue
+$2,000,000
+$500k
+$10M
+Leaking at 20%
+$400,000
+Leaking at 30%
+$600,000
+
+On a $2M company that is $400k to $600k a year hiding.
+
+Rework, delays, invisible founder hours and under-billing. A bad hire comes on top: once you add recruiting, the work they break and the next person, that seat often costs half to two times the salary.
+
+This isn't motivation. Not headcount. Not a PDF you shelve.
+
+Not ready to pick? Join the live session, Nov 15
+
+BEFORE YOU BUY
+
+Send me the product and one sentence
+
+Pick the product and tell me what breaks when you step out. I'll tell you if it's a fit, or if you picked the cheap product because it felt safer.
+
+Which product are you looking at?
+Rebuild Kit
+Design Install
+Fractional COO
+Not sure
+What breaks when you step out?
+Annual revenue
+Choose one
+Under $1M
+$1M–$2M
+$2M–$5M
+$5M–$10M
+$10M+
+Headcount
+Name
+Email
+Company optional
+Website
+Send to Martin
+S
+SchemaOps
+
+Operating design for founder-led companies that have stopped growing
+
+SITE
+
+Services
+Webinars
+Writing
+About
+Contact
+
+ELSEWHERE
+
+@Toomey1313 on X
+hello@schemaoperations.com
+
+START A CONVERSATION
+
+Design, margin or inputs. Tell me which one is in the way.
+
+© 2026 Schema Ops. All rights reserved.
+
+New essays go out on X first
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/api/fit-check" id=""
+  - input type=radio name="door" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="door" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="door" id="" label="" placeholder="" aria="" required=false
+  - input type=radio name="door" id="" label="" placeholder="" aria="" required=false
+  - textarea type= name="breaks" id="fc-breaks" label="What breaks when you step out?" placeholder="One sentence is enough." aria="" required=true
+  - select type= name="revenue" id="fc-revenue" label="Annual revenue" placeholder="" aria="" required=false options=Choose one | Under $1M | $1M–$2M | $2M–$5M | $5M–$10M | $10M+
+  - input type=number name="headcount" id="fc-headcount" label="Headcount" placeholder="" aria="" required=false
+  - input type=text name="name" id="fc-name" label="Name" placeholder="" aria="" required=true
+  - input type=email name="email" id="fc-email" label="Email" placeholder="" aria="" required=true
+  - input type=text name="company" id="fc-company" label="Company optional" placeholder="" aria="" required=false
+  - input type=text name="website" id="fc-website" label="Website" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

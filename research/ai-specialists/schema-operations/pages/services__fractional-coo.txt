@@ -1,0 +1,135 @@
+URL: https://schemaoperations.com/services/fractional-coo/
+Fetched: 2026-10-26T03:33:41Z
+HTTP status: 200
+Final URL: https://schemaoperations.com/services/fractional-coo/
+Content-Type: text/html
+Via: chrome-headless
+Title: Fractional COO — Schema Ops
+Meta description: About a day a week inside the company, building the system with you and the team. $12,000 a month, 6-month minimum. For founders at $3–5M and up.
+Canonical: https://schemaoperations.com/services/fractional-coo/
+Robots: 
+H1: The system, built with you and the team.
+
+Skip to content
+
+Live webinar, Nov 15 at 9 AM ETStop being the system: a 30-minute working session.
+
+Reserve a seat
+S
+SchemaOps
+Services
+Webinars
+Writing
+About
+Get in touch
+
+FRACTIONAL COO
+
+The system, built with you and the team.
+
+About a day a week in the company. More can be negotiated.
+
+For founders at $3–5M and up whose team already exists. Not a file to work through and not a 30-day sprint: I'm in the company, building it with the people who will run it.
+
+Send SEAT
+Compare the three products
+Fractional COO
+6-month minimum
+About a day a week in the company
+Seats and owners, built with the team
+A weekly scorecard the team runs
+Quarterly goals and the weekly meeting
+The growth engine, mapped and worked
+
+We do not start this from zero.
+
+Price
+$12,000a month
+
+WHO IT'S FOR
+
+The team exists. The system doesn't yet.
+You're at $3–5M or more.
+The team already exists.
+You want the system built with you and the team, not handed over in a file.
+The company still stalls when you leave the thread.
+
+HOW IT WORKS
+
+Inside the company, every week
+
+Send SEAT with your revenue and headcount. If it's a fit, I start working in the company with you and the team.
+
+About a day a week
+In the company, with the team. More can be negotiated.
+$12,000 a month
+6 months minimum. Long enough for the system to run without me.
+Built with the people who run it
+Seats, the weekly scorecard, quarterly goals, the weekly meeting and the growth engine, owned by your team.
+We do not start this from zero
+The team has to exist. If it doesn't yet, the Design Install is the better fit.
+A fit if
+You're at $3–5M or more, with a team already in place.
+You want the system built with you and the team.
+You can commit to 6 months.
+Not a fit if
+You're under $3M and someone on the payroll could own a function. The Design Install does it in 30 days for $6,000 once.
+You're usually under $2M and will do the work yourself. Look at the Rebuild Kit.
+
+BEFORE YOU BUY
+
+Send SEAT
+
+Revenue and headcount, and what breaks when you step out. We do not start this from zero, so I'll tell you straight if it's a fit.
+
+What breaks when you step out?
+Annual revenue
+Choose one
+Under $1M
+$1M–$2M
+$2M–$5M
+$5M–$10M
+$10M+
+Headcount
+Name
+Email
+Company optional
+Website
+Send SEAT
+S
+SchemaOps
+
+Operating design for founder-led companies that have stopped growing
+
+SITE
+
+Services
+Webinars
+Writing
+About
+Contact
+
+ELSEWHERE
+
+@Toomey1313 on X
+hello@schemaoperations.com
+
+START A CONVERSATION
+
+Design, margin or inputs. Tell me which one is in the way.
+
+© 2026 Schema Ops. All rights reserved.
+
+New essays go out on X first
+
+--- forms (extracted, not submitted) ---
+Form 1: method=post action="/api/fit-check" id=""
+  - textarea type= name="breaks" id="fc-breaks" label="What breaks when you step out?" placeholder="One sentence is enough." aria="" required=true
+  - select type= name="revenue" id="fc-revenue" label="Annual revenue" placeholder="" aria="" required=false options=Choose one | Under $1M | $1M–$2M | $2M–$5M | $5M–$10M | $10M+
+  - input type=number name="headcount" id="fc-headcount" label="Headcount" placeholder="" aria="" required=false
+  - input type=text name="name" id="fc-name" label="Name" placeholder="" aria="" required=true
+  - input type=email name="email" id="fc-email" label="Email" placeholder="" aria="" required=true
+  - input type=text name="company" id="fc-company" label="Company optional" placeholder="" aria="" required=false
+  - input type=text name="website" id="fc-website" label="Website" placeholder="" aria="" required=false
+  - button type=submit name="" id="" label="" placeholder="" aria="" required=false
+

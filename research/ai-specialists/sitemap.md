@@ -4,7 +4,7 @@ Fetched: 2026-10-26 (in progress).
 
 Read-only. No forms submitted, no calls booked, no newsletter signup, no portal login.
 
-Saved pages in this index: 295. Other companies are added when their teardown is committed.
+Saved pages in this index: 348. Other companies are added when their teardown is committed.
 
 ## agencyva (17 saved pages)
 
@@ -27,6 +27,32 @@ Saved pages in this index: 295. Other companies are added when their teardown is
 | http://agencyva.com/testimonials | 200 | https://agencyva.com/testimonials | `research/ai-specialists/agencyva/pages/testimonials.txt` | Client Testimonials & Success Stories / Agency VA |
 | https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO-definition.txt` |  |
 | https://agencyva.typeform.com/to/gCd27ssO | 200 | https://agencyva.typeform.com/to/gCd27ssO | `research/ai-specialists/agencyva/pages/to__gCd27ssO.txt` | Find Your Perfect Virtual Assistant Match |
+
+## frontier-business-design (21 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://frontierbusinessdesign.com/about-us/ | 200 | https://frontierbusinessdesign.com/about-us/ | `research/ai-specialists/frontier-business-design/pages/about-us.txt` | About John Claborn, Fractional COO / Frontier |
+| https://pages.frontierbusinessdesign.com/assessment | 200 | https://pages.frontierbusinessdesign.com/assessment | `research/ai-specialists/frontier-business-design/pages/assessment.txt` | Owner Dependency Assessment / Frontier Business Design |
+| https://builder.frontierbusinessdesign.com/ | 200 | https://builder.frontierbusinessdesign.com/ | `research/ai-specialists/frontier-business-design/pages/builder-home.txt` | Frontier Business Builder |
+| https://builder.frontierbusinessdesign.com/builder | 200 | https://builder.frontierbusinessdesign.com/builder | `research/ai-specialists/frontier-business-design/pages/builder.txt` | Your Business Builder / Frontier Business Design |
+| https://frontierbusinessdesign.com/checklist/ | 200 | https://frontierbusinessdesign.com/checklist/ | `research/ai-specialists/frontier-business-design/pages/checklist.txt` | Owner Dependency Checklist for Service Owners / Frontier |
+| https://frontierbusinessdesign.com/contact-us/ | 200 | https://frontierbusinessdesign.com/contact-us/ | `research/ai-specialists/frontier-business-design/pages/contact-us.txt` | Book a Discovery Call / Frontier Business Design |
+| https://frontierbusinessdesign.com/electrical/ | 200 | https://frontierbusinessdesign.com/electrical/ | `research/ai-specialists/frontier-business-design/pages/electrical.txt` | Fractional COO for Electrical Contractors / Frontier |
+| https://frontierbusinessdesign.com/faq/ | 200 | https://frontierbusinessdesign.com/faq/ | `research/ai-specialists/frontier-business-design/pages/faq.txt` | Fractional COO FAQ: Cost, Fit, Timeline / Frontier |
+| https://frontierbusinessdesign.com/fractional-coo/ | 200 | https://frontierbusinessdesign.com/fractional-coo/ | `research/ai-specialists/frontier-business-design/pages/fractional-coo.txt` | What Is a Fractional COO? / Frontier Business Design |
+| https://frontierbusinessdesign.com/frontier-business-blueprint/ | 200 | https://frontierbusinessdesign.com/frontier-business-blueprint/ | `research/ai-specialists/frontier-business-design/pages/frontier-business-blueprint.txt` | Frontier Business Blueprint Assessment / Frontier |
+| https://frontierbusinessdesign.com/frontier-method/ | 200 | https://frontierbusinessdesign.com/frontier-method/ | `research/ai-specialists/frontier-business-design/pages/frontier-method.txt` | The Frontier Method: Clarity, Alignment, Execution, Scale |
+| https://frontierbusinessdesign.com/hvac/ | 200 | https://frontierbusinessdesign.com/hvac/ | `research/ai-specialists/frontier-business-design/pages/hvac.txt` | Fractional COO for HVAC Companies / Frontier |
+| https://frontierbusinessdesign.com/about-ideal-fit-bg/ | 200 | https://frontierbusinessdesign.com/ | `research/ai-specialists/frontier-business-design/pages/index.txt` | Fractional COO for Trades & Service Businesses / Frontier |
+| https://builder.frontierbusinessdesign.com/ | 200 | https://builder.frontierbusinessdesign.com/ | `research/ai-specialists/frontier-business-design/pages/index.txt` | Frontier Business Builder |
+| https://frontierbusinessdesign.com/landscaping/ | 200 | https://frontierbusinessdesign.com/landscaping/ | `research/ai-specialists/frontier-business-design/pages/landscaping.txt` | Fractional COO for Landscaping Companies / Frontier |
+|  |  |  | `research/ai-specialists/frontier-business-design/pages/not-fetched.txt` |  |
+| https://frontierbusinessdesign.com/packages/ | 200 | https://frontierbusinessdesign.com/packages/ | `research/ai-specialists/frontier-business-design/pages/packages.txt` | Work With Us: Fractional COO Engagements / Frontier |
+| https://frontierbusinessdesign.com/plumbing/ | 200 | https://frontierbusinessdesign.com/plumbing/ | `research/ai-specialists/frontier-business-design/pages/plumbing.txt` | Fractional COO for Plumbing Companies / Frontier |
+| https://frontierbusinessdesign.com/privacy-policy/ | 200 | https://frontierbusinessdesign.com/privacy-policy/ | `research/ai-specialists/frontier-business-design/pages/privacy-policy.txt` | Privacy Policy - Fractional COO for $1M–$10M Service Businesses |
+| https://frontierbusinessdesign.com/terms-of-service/ | 200 | https://frontierbusinessdesign.com/terms-of-service/ | `research/ai-specialists/frontier-business-design/pages/terms-of-service.txt` | Terms of Service - Fractional COO for $1M–$10M Service Businesses |
+| https://link.frontierbusinessdesign.com/widget/booking/VsbIEYu2VYgQdRnV8GxN | 200 | https://link.frontierbusinessdesign.com/widget/booking/VsbIEYu2VYgQdRnV8GxN | `research/ai-specialists/frontier-business-design/pages/widget__booking__VsbIEYu2VYgQdRnV8GxN.txt` |  |
 
 ## hello-paralegal (64 saved pages)
 
@@ -172,6 +198,43 @@ Saved pages in this index: 295. Other companies are added when their teardown is
 | https://pixelnarratives.studio/websites | 200 | https://pixelnarratives.studio/websites | `research/ai-specialists/pixel-narratives/pages/websites.txt` | Visibility / Pixel Narratives |
 | https://pixelnarratives.studio/work-with-us | 200 | https://pixelnarratives.studio/work-with-us | `research/ai-specialists/pixel-narratives/pages/work-with-us.txt` | Work With Us / Pixel Narratives |
 | https://pixelnarratives.studio/work | 200 | https://pixelnarratives.studio/work | `research/ai-specialists/pixel-narratives/pages/work.txt` | Our Work / Pixel Narratives |
+
+## schema-operations (32 saved pages)
+
+| URL | Status | Final URL | File | Title |
+| --- | --- | --- | --- | --- |
+| https://schemaoperations.com/about/ | 200 | https://schemaoperations.com/about/ | `research/ai-specialists/schema-operations/pages/about.txt` | About — Schema Ops |
+| https://schemaoperations.com/about | 200 | https://schemaoperations.com/about | `research/ai-specialists/schema-operations/pages/about.txt` | About — Schema Ops |
+| https://schemaoperations.com/contact/ | 200 | https://schemaoperations.com/contact/ | `research/ai-specialists/schema-operations/pages/contact.txt` | Contact — Schema Ops |
+| https://schemaoperations.com/contact | 200 | https://schemaoperations.com/contact | `research/ai-specialists/schema-operations/pages/contact.txt` | Contact — Schema Ops |
+| https://schemaoperations.com/ | 200 | https://schemaoperations.com/ | `research/ai-specialists/schema-operations/pages/index.txt` | Schema Ops — Operating design for founder-led companies that have stopped growing |
+| https://schemaoperations.com/services/ | 200 | https://schemaoperations.com/services/ | `research/ai-specialists/schema-operations/pages/services.txt` | Services — Schema Ops |
+| https://schemaoperations.com/services | 200 | https://schemaoperations.com/services | `research/ai-specialists/schema-operations/pages/services.txt` | Services — Schema Ops |
+| https://schemaoperations.com/services/design-install/ | 200 | https://schemaoperations.com/services/design-install/ | `research/ai-specialists/schema-operations/pages/services__design-install.txt` | Design Install — Schema Ops |
+| https://schemaoperations.com/services/fractional-coo/ | 200 | https://schemaoperations.com/services/fractional-coo/ | `research/ai-specialists/schema-operations/pages/services__fractional-coo.txt` | Fractional COO — Schema Ops |
+| https://schemaoperations.com/services/rebuild-kit/ | 200 | https://schemaoperations.com/services/rebuild-kit/ | `research/ai-specialists/schema-operations/pages/services__rebuild-kit.txt` | Rebuild Kit — Schema Ops |
+| https://schemaoperations.com/webinars/ | 200 | https://schemaoperations.com/webinars/ | `research/ai-specialists/schema-operations/pages/webinars.txt` | Stop being the system: live webinar — Schema Ops |
+| https://schemaoperations.com/writing/ | 200 | https://schemaoperations.com/writing/ | `research/ai-specialists/schema-operations/pages/writing.txt` | Writing — Schema Ops |
+| https://schemaoperations.com/writing/busy-is-not-the-same-as-keeping-money/ | 200 | https://schemaoperations.com/writing/busy-is-not-the-same-as-keeping-money/ | `research/ai-specialists/schema-operations/pages/writing__busy-is-not-the-same-as-keeping-money.txt` | Busy is not the same as keeping money — Schema Ops |
+| https://schemaoperations.com/writing/i-spent-years-treating-anything-that-was-not-productive-as-a-waste/ | 200 | https://schemaoperations.com/writing/i-spent-years-treating-anything-that-was-not-productive-as-a-waste/ | `research/ai-specialists/schema-operations/pages/writing__i-spent-years-treating-anything-that-was-not-productive-as-a-waste.txt` | I spent years treating anything that was not productive as a waste — Schema Ops |
+| https://schemaoperations.com/writing/lean-teams-survive-and-thrive/ | 200 | https://schemaoperations.com/writing/lean-teams-survive-and-thrive/ | `research/ai-specialists/schema-operations/pages/writing__lean-teams-survive-and-thrive.txt` | Lean teams survive and thrive — Schema Ops |
+| https://schemaoperations.com/writing/levels-to-this-game/ | 200 | https://schemaoperations.com/writing/levels-to-this-game/ | `research/ai-specialists/schema-operations/pages/writing__levels-to-this-game.txt` | Levels to this game — Schema Ops |
+| https://schemaoperations.com/writing/owner-os/ | 200 | https://schemaoperations.com/writing/owner-os/ | `research/ai-specialists/schema-operations/pages/writing__owner-os.txt` | Owner OS — Schema Ops |
+| https://schemaoperations.com/writing/scorecards/ | 200 | https://schemaoperations.com/writing/scorecards/ | `research/ai-specialists/schema-operations/pages/writing__scorecards.txt` | Scorecards — Schema Ops |
+| https://schemaoperations.com/writing/systems-that-let-you-focus-on-the-work-that-actually-matters/ | 200 | https://schemaoperations.com/writing/systems-that-let-you-focus-on-the-work-that-actually-matters/ | `research/ai-specialists/schema-operations/pages/writing__systems-that-let-you-focus-on-the-work-that-actually-matters.txt` | Systems that let you focus on the work that actually matters — Schema Ops |
+| https://schemaoperations.com/writing/the-business-stopped-when-he-almost-died/ | 200 | https://schemaoperations.com/writing/the-business-stopped-when-he-almost-died/ | `research/ai-specialists/schema-operations/pages/writing__the-business-stopped-when-he-almost-died.txt` | The business stopped when he almost died — Schema Ops |
+| https://schemaoperations.com/writing/the-company-still-needs-you-in-the-room/ | 200 | https://schemaoperations.com/writing/the-company-still-needs-you-in-the-room/ | `research/ai-specialists/schema-operations/pages/writing__the-company-still-needs-you-in-the-room.txt` | The company still needs you in the room — Schema Ops |
+| https://schemaoperations.com/writing/the-company-that-still-needs-you-is-billing-your-family/ | 200 | https://schemaoperations.com/writing/the-company-that-still-needs-you-is-billing-your-family/ | `research/ai-specialists/schema-operations/pages/writing__the-company-that-still-needs-you-is-billing-your-family.txt` | The company that still needs you is billing your family — Schema Ops |
+| https://schemaoperations.com/writing/the-four-pillars-of-a-life-that-actually-matters/ | 200 | https://schemaoperations.com/writing/the-four-pillars-of-a-life-that-actually-matters/ | `research/ai-specialists/schema-operations/pages/writing__the-four-pillars-of-a-life-that-actually-matters.txt` | The four pillars of a life that actually matters — Schema Ops |
+| https://schemaoperations.com/writing/the-offline-test/ | 200 | https://schemaoperations.com/writing/the-offline-test/ | `research/ai-specialists/schema-operations/pages/writing__the-offline-test.txt` | The offline test — Schema Ops |
+| https://schemaoperations.com/writing/the-second-stage-doesnt-start-until-you-fix-these-three-things/ | 200 | https://schemaoperations.com/writing/the-second-stage-doesnt-start-until-you-fix-these-three-things/ | `research/ai-specialists/schema-operations/pages/writing__the-second-stage-doesnt-start-until-you-fix-these-three-things.txt` | The second stage doesn't start until you fix these three things — Schema Ops |
+| https://schemaoperations.com/writing/twice-the-profit-three-times-the-value/ | 200 | https://schemaoperations.com/writing/twice-the-profit-three-times-the-value/ | `research/ai-specialists/schema-operations/pages/writing__twice-the-profit-three-times-the-value.txt` | Twice the profit, three times the value — Schema Ops |
+| https://schemaoperations.com/writing/you-already-know-what-to-do/ | 200 | https://schemaoperations.com/writing/you-already-know-what-to-do/ | `research/ai-specialists/schema-operations/pages/writing__you-already-know-what-to-do.txt` | You already know what to do — Schema Ops |
+| https://schemaoperations.com/writing/you-are-the-reason-the-growth-has-stopped/ | 200 | https://schemaoperations.com/writing/you-are-the-reason-the-growth-has-stopped/ | `research/ai-specialists/schema-operations/pages/writing__you-are-the-reason-the-growth-has-stopped.txt` | You are the reason the growth has stopped — Schema Ops |
+| https://schemaoperations.com/writing/you-built-the-company-for-a-reason-you-no-longer-remember/ | 200 | https://schemaoperations.com/writing/you-built-the-company-for-a-reason-you-no-longer-remember/ | `research/ai-specialists/schema-operations/pages/writing__you-built-the-company-for-a-reason-you-no-longer-remember.txt` | You built the company for a reason you no longer remember — Schema Ops |
+| https://schemaoperations.com/writing/you-dont-need-ai/ | 200 | https://schemaoperations.com/writing/you-dont-need-ai/ | `research/ai-specialists/schema-operations/pages/writing__you-dont-need-ai.txt` | You don't need AI. You need competent people running a clear system. — Schema Ops |
+| https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | 200 | https://schemaoperations.com/writing/you-trained-the-new-hire-on-the-software/ | `research/ai-specialists/schema-operations/pages/writing__you-trained-the-new-hire-on-the-software.txt` | You trained the new hire on the software. You never trained them on the decisions. — Schema Ops |
+| https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | 200 | https://schemaoperations.com/writing/your-best-customers-will-leave-if-you-get-hit-by-a-bus/ | `research/ai-specialists/schema-operations/pages/writing__your-best-customers-will-leave-if-you-get-hit-by-a-bus.txt` | Your best customers will leave if you get hit by a bus — Schema Ops |
 
 ## tenex (82 saved pages)
 

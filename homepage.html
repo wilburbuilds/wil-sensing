@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>[Company] | Make the AI you already pay for actually work</title>
+<meta name="description" content="We pull your scattered business information into one reliable foundation, then build automations on top that save hours, catch lost money, and stay under your control.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --umber-black: #140d07;
+    --bistre: #22170d;
+    --umber: #3a2414;
+    --burnt-umber: #5a3519;
+    --sienna: #8c4a22;
+    --ochre: #b98238;
+    --gold: #d6a656;
+    --gold-pale: #e8c98c;
+    --lead-white: #f1e6cc;
+    --parchment: #e7d6b2;
+    --parchment-deep: #d6bf92;
+    --ink: #24170d;
+    --ink-soft: #4b3523;
+    --vermilion: #9b3a20;
+
+    --display: "Cormorant Garamond", "Garamond", "Times New Roman", serif;
+    --body: "EB Garamond", "Garamond", Georgia, serif;
+    --fell: "IM Fell English", "Garamond", Georgia, serif;
+
+    --measure: 38rem;
+    --wide: 72rem;
+    --pad: clamp(1.25rem, 5vw, 3rem);
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+  body {
+    margin: 0;
+    background: var(--umber-black);
+    color: var(--lead-white);
+    font-family: var(--body);
+    font-size: clamp(1.08rem, 0.4vw + 1rem, 1.25rem);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Canvas grain over everything, like paint on linen */
+  body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 100;
+    opacity: .22;
+    background-image:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .16 0 0 0 0 .11 0 0 0 0 .06 0 0 0 .9 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cfilter id='w'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.012 .9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .3 0 0 0 0 .22 0 0 0 0 .12 0 0 0 .35 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23w)'/%3E%3C/svg%3E");
+  }
+
+  a { color: inherit; }
+  img, svg { display: block; max-width: 100%; }
+
+  .skip {
+    position: absolute; left: -999px; top: 0;
+    background: var(--gold); color: var(--ink); padding: .6rem 1rem; z-index: 200;
+  }
+  .skip:focus { left: 1rem; top: 1rem; }
+
+  :focus-visible { outline: 2px solid var(--gold-pale); outline-offset: 3px; }
+
+  .wrap { width: 100%; max-width: var(--wide); margin: 0 auto; padding: 0 var(--pad); }
+
+  h1, h2, h3 { font-family: var(--display); font-weight: 600; line-height: 1.08; margin: 0; letter-spacing: -.005em; }
+  h2 { font-size: clamp(2.1rem, 4.2vw + .6rem, 3.6rem); }
+  h3 { font-size: clamp(1.4rem, 1.2vw + 1rem, 1.75rem); }
+  p { margin: 0 0 1.1em; }
+  p:last-child { margin-bottom: 0; }
+  strong { font-weight: 600; }
+
+  .eyebrow {
+    font-family: var(--fell);
+    font-style: italic;
+    font-size: 1.05rem;
+    letter-spacing: .04em;
+    color: var(--ochre);
+    margin: 0 0 1rem;
+    display: flex; align-items: center; gap: .75rem;
+  }
+  .eyebrow::before {
+    content: ""; width: 2.25rem; height: 2px;
+    background: currentColor; opacity: .7;
+    border-radius: 2px;
+  }
+
+  /* Hand-painted underline under headings */
+  .stroke { width: min(14rem, 60%); height: 18px; margin: 1.1rem 0 0; color: var(--sienna); }
+  .center .stroke { margin-left: auto; margin-right: auto; }
+
+  /* ---------- Buttons ---------- */
+  .btn {
+    display: inline-flex; align-items: center; justify-content: center;
+    font-family: var(--body); font-weight: 600; font-size: 1.08rem;
+    text-decoration: none; letter-spacing: .01em;
+    padding: 1rem 1.6rem;
+    border-radius: 3px 6px 4px 7px / 6px 3px 7px 4px;
+    transition: transform .2s ease, box-shadow .2s ease, background-color .2s ease;
+  }
+  .btn-primary {
+    color: var(--ink);
+    background:
+      radial-gradient(120% 140% at 20% 10%, #f0cf87 0%, var(--gold) 45%, var(--ochre) 100%);
+    box-shadow: 0 1px 0 rgba(255,240,200,.5) inset, 0 -2px 0 rgba(90,53,25,.35) inset, 0 10px 28px -10px rgba(214,166,86,.55);
+  }
+  .btn-primary:hover { transform: translateY(-1px); box-shadow: 0 1px 0 rgba(255,240,200,.5) inset, 0 -2px 0 rgba(90,53,25,.35) inset, 0 14px 34px -10px rgba(214,166,86,.7); }
+  .btn-ghost {
+    color: var(--gold-pale);
+    padding-left: .25rem; padding-right: .25rem;
+    border-bottom: 1px solid rgba(214,166,86,.45);
+    border-radius: 0;
+  }
+  .btn-ghost:hover { color: var(--lead-white); border-color: var(--gold-pale); }
+
+  /* ---------- Header ---------- */
+  .site-header {
+    position: absolute; top: 0; left: 0; right: 0; z-index: 10;
+    padding: 1.25rem 0;
+  }
+  .site-header .wrap { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .brand {
+    font-family: var(--display); font-weight: 700; font-size: 1.5rem;
+    color: var(--lead-white); text-decoration: none; letter-spacing: .02em;
+  }
+  .nav { display: flex; align-items: center; gap: 1.75rem; }
+  .nav a { text-decoration: none; font-size: 1rem; color: rgba(241,230,204,.78); }
+  .nav a:hover { color: var(--gold-pale); }
+  .nav .btn { padding: .6rem 1.1rem; font-size: .98rem; color: var(--ink); }
+  @media (max-width: 760px) {
+    .nav a:not(.btn) { display: none; }
+    .nav .btn { padding: .55rem .9rem; font-size: .92rem; }
+  }
+  @media (max-width: 380px) {
+    .brand { font-size: 1.25rem; }
+    .nav .btn { padding: .5rem .7rem; font-size: .82rem; }
+  }
+
+  /* ---------- Hero: chiaroscuro, light from upper left ---------- */
+  .hero {
+    position: relative;
+    min-height: 100svh;
+    display: flex; align-items: center;
+    padding: 7.5rem 0 4.5rem;
+    overflow: hidden;
+    background:
+      radial-gradient(60% 70% at 22% 30%, rgba(214,166,86,.30) 0%, rgba(140,74,34,.18) 30%, rgba(34,23,13,0) 65%),
+      radial-gradient(90% 60% at 85% 110%, rgba(90,53,25,.45) 0%, rgba(20,13,7,0) 60%),
+      linear-gradient(180deg, var(--bistre) 0%, var(--umber-black) 100%);
+  }
+  .hero::before {
+    /* soft vignette at the edges, as in a varnished canvas */
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    box-shadow: inset 0 0 18vmax 4vmax rgba(8,5,2,.85);
+  }
+  .hero-paint {
+    position: absolute; pointer-events: none; opacity: .55;
+    left: -8%; top: 4%; width: 75%; max-width: 900px;
+  }
+  .hero .wrap { position: relative; z-index: 1; }
+  .hero h1 {
+    font-size: clamp(2.8rem, 7vw + .5rem, 6.4rem);
+    font-weight: 600;
+    max-width: 16ch;
+    color: var(--lead-white);
+    text-shadow: 0 2px 30px rgba(214,166,86,.15);
+  }
+  .hero h1 em { font-style: italic; color: var(--gold-pale); font-weight: 500; }
+  .hero .sub {
+    max-width: 36rem;
+    font-size: clamp(1.15rem, .6vw + 1rem, 1.4rem);
+    color: rgba(241,230,204,.86);
+    margin: 1.75rem 0 2.25rem;
+  }
+  .hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.75rem; }
+
+  .proof-strip {
+    margin-top: clamp(3rem, 7vw, 5rem);
+    padding-top: 1.25rem;
+    border-top: 1px solid rgba(214,166,86,.25);
+    font-family: var(--fell);
+    font-size: clamp(1rem, .5vw + .9rem, 1.2rem);
+    color: var(--gold-pale);
+    display: flex; flex-wrap: wrap; gap: .35rem 0;
+    max-width: 52rem;
+  }
+  .proof-strip span { white-space: nowrap; }
+  .proof-strip .dot { color: var(--sienna); padding: 0 .7rem; }
+  @media (max-width: 640px) {
+    .proof-strip { flex-direction: column; }
+    .proof-strip .dot { display: none; }
+    .proof-strip span { white-space: normal; padding-left: 1rem; position: relative; }
+    .proof-strip span::before { content: ""; position: absolute; left: 0; top: .7em; width: .4rem; height: .4rem; border-radius: 50%; background: var(--sienna); }
+  }
+
+  /* ---------- Section grounds ---------- */
+  section { position: relative; padding: clamp(4.5rem, 10vw, 8rem) 0; }
+
+  .ground-light {
+    color: var(--ink);
+    background:
+      radial-gradient(70% 60% at 15% 0%, rgba(255,246,222,.75) 0%, rgba(255,246,222,0) 60%),
+      radial-gradient(80% 80% at 100% 100%, rgba(185,130,56,.28) 0%, rgba(185,130,56,0) 60%),
+      var(--parchment);
+  }
+  .ground-light .eyebrow { color: var(--sienna); }
+  .ground-light .stroke { color: var(--ochre); }
+
+  .ground-dark {
+    background:
+      radial-gradient(55% 55% at 18% 12%, rgba(185,130,56,.20) 0%, rgba(185,130,56,0) 70%),
+      linear-gradient(180deg, var(--bistre), var(--umber-black));
+  }
+
+  .ground-umber {
+    background:
+      radial-gradient(60% 70% at 80% 10%, rgba(214,166,86,.18) 0%, rgba(214,166,86,0) 65%),
+      linear-gradient(160deg, var(--umber) 0%, var(--bistre) 70%);
+  }
+
+  /* torn / brushed edge between sections */
+  .edge {
+    position: absolute; left: 0; right: 0; height: 40px; width: 100%;
+    pointer-events: none;
+  }
+  .edge.top { top: -1px; }
+  .edge.bottom { bottom: -1px; transform: scaleY(-1); }
+
+  .lede { font-size: clamp(1.2rem, .7vw + 1rem, 1.45rem); line-height: 1.5; }
+  .ground-light .muted { color: var(--ink-soft); }
+  .ground-dark .muted, .ground-umber .muted { color: rgba(241,230,204,.75); }
+
+  /* ---------- 2. Problem ---------- */
+  .problem-grid {
+    display: grid; gap: clamp(2.5rem, 6vw, 5rem);
+    grid-template-columns: 1fr;
+    margin-top: 2.5rem;
+  }
+  @media (min-width: 900px) { .problem-grid { grid-template-columns: 1.15fr .85fr; align-items: start; } }
+  .problem-copy p { max-width: var(--measure); }
+  .pains {
+    list-style: none; margin: 0; padding: 1.75rem 1.75rem 1.5rem;
+    background: rgba(255,248,230,.55);
+    border: 1px solid rgba(90,53,25,.22);
+    box-shadow: 0 18px 40px -26px rgba(58,36,20,.6);
+    transform: rotate(-.6deg);
+  }
+  .pains li {
+    position: relative; padding: .8rem 0 .8rem 2rem;
+    border-top: 1px dashed rgba(90,53,25,.28);
+  }
+  .pains li:first-of-type { border-top: 0; }
+  .pains li::before {
+    content: ""; position: absolute; left: 0; top: 1.25rem;
+    width: 1rem; height: .5rem;
+    background: var(--vermilion);
+    border-radius: 60% 40% 55% 45% / 50% 60% 40% 50%;
+    transform: rotate(-8deg);
+    opacity: .85;
+  }
+
+  /* ---------- 3. What we do ---------- */
+  .offer-grid {
+    display: grid; gap: 1.5rem; margin-top: 3rem;
+    grid-template-columns: 1fr;
+  }
+  @media (min-width: 720px) { .offer-grid { grid-template-columns: 1fr 1fr; } }
+  .offer {
+    position: relative;
+    padding: 2rem 1.6rem 1.8rem;
+    background: linear-gradient(170deg, rgba(90,53,25,.45), rgba(34,23,13,.6));
+    border: 1px solid rgba(214,166,86,.18);
+    border-radius: 2px;
+  }
+  .offer .num {
+    font-family: var(--fell); font-size: 3rem; line-height: 1;
+    color: var(--ochre); opacity: .9; display: block; margin-bottom: 1rem;
+  }
+  .offer h3 { color: var(--gold-pale); margin-bottom: .75rem; }
+  .offer p { color: rgba(241,230,204,.82); font-size: 1.06rem; }
+
+  /* ---------- 4. Results: framed like paintings on a gallery wall ---------- */
+  .results { text-align: left; }
+  .results-grid {
+    display: grid; gap: clamp(1.5rem, 3vw, 2.25rem);
+    margin-top: 3rem;
+    grid-template-columns: repeat(6, 1fr);
+  }
+  .frame {
+    grid-column: span 2;
+    position: relative;
+    padding: 12px;
+    background:
+      linear-gradient(135deg, #e3b867 0%, #8a5a22 22%, #d9a95b 45%, #6d4417 70%, #c99748 100%);
+    box-shadow:
+      0 1px 0 rgba(255,235,190,.4) inset,
+      0 30px 50px -28px rgba(0,0,0,.9),
+      0 8px 18px -8px rgba(0,0,0,.6);
+    border-radius: 2px;
+  }
+  .frame:nth-child(4), .frame:nth-child(5) { grid-column: span 3; }
+  .frame-inner {
+    height: 100%;
+    padding: clamp(1.5rem, 2.5vw, 2rem);
+    color: var(--lead-white);
+    border: 2px solid rgba(40,24,10,.85);
+    outline: 1px solid rgba(255,225,160,.35);
+    outline-offset: -6px;
+    background:
+      radial-gradient(90% 80% at 25% 15%, rgba(185,130,56,.30) 0%, rgba(185,130,56,0) 60%),
+      linear-gradient(170deg, #2e1d10, #160e07);
+  }
+  .frame-inner p { font-size: 1.05rem; color: rgba(241,230,204,.85); }
+  .frame-inner strong {
+    display: block;
+    font-family: var(--display); font-weight: 700;
+    font-size: clamp(1.55rem, 1.4vw + 1.05rem, 2.05rem);
+    line-height: 1.1;
+    color: var(--gold-pale);
+    margin-bottom: .7rem;
+  }
+  @media (max-width: 960px) {
+    .results-grid { grid-template-columns: 1fr 1fr; }
+    .frame, .frame:nth-child(4), .frame:nth-child(5) { grid-column: span 1; }
+    .frame:nth-child(5) { grid-column: span 2; }
+  }
+  @media (max-width: 600px) {
+    .results-grid { grid-template-columns: 1fr; }
+    .frame, .frame:nth-child(4), .frame:nth-child(5) { grid-column: span 1; }
+  }
+  .results-note {
+    margin: 3rem auto 0; max-width: 40rem; text-align: center;
+    font-family: var(--fell); font-style: italic;
+    font-size: clamp(1.15rem, .6vw + 1rem, 1.35rem);
+    color: var(--gold-pale);
+  }
+
+  /* ---------- 5. How it works ---------- */
+  .steps { list-style: none; margin: 3.5rem 0 0; padding: 0; counter-reset: step; }
+  .step {
+    display: grid; gap: .5rem 2.5rem;
+    grid-template-columns: 1fr;
+    padding: 2.25rem 0;
+    border-top: 1px solid rgba(90,53,25,.25);
+  }
+  .step:last-child { border-bottom: 1px solid rgba(90,53,25,.25); }
+  @media (min-width: 820px) { .step { grid-template-columns: 15rem 1fr; } }
+  .step-label .n {
+    font-family: var(--fell); color: var(--sienna); font-size: 1.05rem; font-style: italic; display: block; margin-bottom: .3rem;
+  }
+  .step-label h3 { font-size: clamp(1.5rem, 1.2vw + 1.1rem, 1.95rem); }
+  .step-body { max-width: var(--measure); }
+  .step-body ul { margin: .75rem 0 0; padding-left: 1.2rem; }
+  .step-body li { margin: .45rem 0; }
+  .step-body li::marker { color: var(--sienna); }
+  .keep {
+    display: inline-block; margin-top: .4rem;
+    padding: .55rem 1rem;
+    background: rgba(155,58,32,.1);
+    border-left: 3px solid var(--vermilion);
+  }
+
+  /* ---------- 6. Job Map ---------- */
+  .jobmap-grid { display: grid; gap: clamp(2.5rem, 5vw, 4.5rem); grid-template-columns: 1fr; margin-top: 2.5rem; }
+  @media (min-width: 940px) { .jobmap-grid { grid-template-columns: .9fr 1.1fr; align-items: start; } }
+  .placard {
+    position: relative;
+    padding: 2rem 1.75rem;
+    color: var(--ink);
+    background:
+      radial-gradient(80% 90% at 30% 20%, #f6ecd2 0%, var(--parchment) 55%, var(--parchment-deep) 100%);
+    box-shadow: 0 30px 50px -30px rgba(0,0,0,.95), 0 0 0 1px rgba(90,53,25,.35);
+    transform: rotate(.8deg);
+    margin-top: 1.75rem;
+  }
+  .placard .measure {
+    font-family: var(--fell); font-size: clamp(1.3rem, 1vw + 1.05rem, 1.65rem); line-height: 1.4;
+    margin: .5rem 0 0; color: var(--ink);
+  }
+  .placard .measure .blank { color: var(--vermilion); }
+  .placard .pin {
+    position: absolute; top: -9px; left: 50%; width: 18px; height: 18px; margin-left: -9px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 30%, #d77a52, var(--vermilion) 55%, #4d1a0c);
+    box-shadow: 0 3px 5px rgba(0,0,0,.5);
+  }
+  .getlist { list-style: none; margin: 0; padding: 0; }
+  .getlist li {
+    padding: 1rem 0 1rem 2.4rem; position: relative;
+    border-top: 1px solid rgba(214,166,86,.16);
+    color: rgba(241,230,204,.85);
+  }
+  .getlist li:first-child { border-top: 0; padding-top: 0; }
+  .getlist li:first-child::before { top: .4rem; }
+  .getlist li::before {
+    content: ""; position: absolute; left: 0; top: 1.4rem;
+    width: 1.1rem; height: .7rem;
+    border-left: 2px solid var(--gold); border-bottom: 2px solid var(--gold);
+    transform: rotate(-45deg);
+    border-radius: 0 0 0 2px;
+  }
+  .getlist strong { color: var(--gold-pale); }
+
+  /* ---------- 7. Control: four rungs from shadow into light ---------- */
+  .ladder {
+    list-style: none; margin: 3rem 0 0; padding: 0;
+    display: grid; gap: 1rem;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: end;
+  }
+  .rung {
+    padding: 1.6rem 1.35rem;
+    border-radius: 2px;
+    border: 1px solid rgba(90,53,25,.3);
+    color: var(--ink);
+    display: flex; flex-direction: column; gap: .5rem;
+  }
+  .rung .n { font-family: var(--fell); font-size: 2.4rem; line-height: 1; color: var(--sienna); }
+  .rung h3 { font-size: 1.45rem; }
+  .rung p { font-size: 1.02rem; color: var(--ink-soft); }
+  .rung:nth-child(1) { min-height: 13rem; background: linear-gradient(180deg, #cdb185, #bd9d6c); }
+  .rung:nth-child(2) { min-height: 15rem; background: linear-gradient(180deg, #dcc297, #c9a873); }
+  .rung:nth-child(3) { min-height: 17rem; background: linear-gradient(180deg, #ead3a6, #d7b57a); }
+  .rung:nth-child(4) { min-height: 19rem; background: radial-gradient(120% 90% at 30% 10%, #fbefd0, #e6c98b 70%); box-shadow: 0 0 60px -10px rgba(214,166,86,.6); }
+  @media (max-width: 860px) {
+    .ladder { grid-template-columns: 1fr 1fr; }
+    .rung:nth-child(n) { min-height: 0; }
+  }
+  @media (max-width: 520px) { .ladder { grid-template-columns: 1fr; } }
+  .ladder-note { margin-top: 2rem; max-width: var(--measure); font-size: 1.15rem; }
+
+  .trust {
+    margin-top: 4rem; padding: 2rem clamp(1.25rem, 3vw, 2.25rem);
+    background: rgba(255,248,230,.5);
+    border: 1px solid rgba(90,53,25,.22);
+  }
+  .trust h3 { margin-bottom: 1.25rem; }
+  .trust ul {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; gap: .25rem 2.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
+  }
+  .trust li { padding: .7rem 0 .7rem 1.6rem; position: relative; border-top: 1px dashed rgba(90,53,25,.25); }
+  .trust li::before {
+    content: ""; position: absolute; left: 0; top: 1.3rem; width: .55rem; height: .55rem;
+    background: var(--ochre); border-radius: 45% 55% 50% 50%;
+  }
+
+  /* ---------- 8. Wil ---------- */
+  .about-grid { display: grid; gap: clamp(2.5rem, 6vw, 5rem); grid-template-columns: 1fr; align-items: center; }
+  @media (min-width: 880px) { .about-grid { grid-template-columns: .8fr 1.2fr; } }
+  .portrait {
+    position: relative; max-width: 22rem; margin: 0 auto; width: 100%;
+    padding: 14px;
+    background: linear-gradient(135deg, #e3b867 0%, #8a5a22 22%, #d9a95b 45%, #6d4417 70%, #c99748 100%);
+    box-shadow: 0 40px 60px -30px rgba(0,0,0,.95);
+  }
+  .portrait-inner {
+    aspect-ratio: 4 / 5;
+    border: 2px solid rgba(40,24,10,.85);
+    background:
+      radial-gradient(38% 30% at 42% 38%, rgba(232,201,140,.55) 0%, rgba(140,74,34,.25) 45%, rgba(20,13,7,0) 75%),
+      radial-gradient(60% 50% at 50% 100%, rgba(90,53,25,.65), rgba(20,13,7,0) 70%),
+      #1a110a;
+    display: flex; align-items: flex-end; justify-content: center;
+    padding: 1rem;
+  }
+  .portrait-inner span {
+    font-family: var(--fell); font-style: italic; font-size: .95rem; color: rgba(232,201,140,.7);
+  }
+  .about-copy p { max-width: var(--measure); color: rgba(241,230,204,.86); }
+  .about-copy .closer {
+    font-family: var(--display); font-size: clamp(1.4rem, 1vw + 1.1rem, 1.75rem); font-weight: 600;
+    color: var(--gold-pale); line-height: 1.3; margin-top: 1.5rem;
+  }
+
+  /* ---------- 9. FAQ ---------- */
+  .faq { margin-top: 2.5rem; max-width: 50rem; }
+  .faq details { border-top: 1px solid rgba(90,53,25,.28); }
+  .faq details:last-child { border-bottom: 1px solid rgba(90,53,25,.28); }
+  .faq summary {
+    list-style: none; cursor: pointer;
+    display: flex; justify-content: space-between; align-items: center; gap: 1rem;
+    padding: 1.35rem 0;
+    font-family: var(--display); font-weight: 600;
+    font-size: clamp(1.3rem, .8vw + 1.05rem, 1.6rem);
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary::after {
+    content: "+"; font-family: var(--fell); font-size: 1.8rem; line-height: 1; color: var(--sienna);
+    transition: transform .25s ease; flex: none;
+  }
+  .faq details[open] summary::after { transform: rotate(45deg); }
+  .faq details p { padding: 0 0 1.5rem; max-width: var(--measure); color: var(--ink-soft); margin: 0; }
+
+  /* ---------- 10. Final CTA ---------- */
+  .final {
+    text-align: center;
+    padding: clamp(6rem, 13vw, 10rem) 0;
+    background:
+      radial-gradient(45% 60% at 50% 45%, rgba(214,166,86,.32) 0%, rgba(140,74,34,.16) 40%, rgba(20,13,7,0) 75%),
+      var(--umber-black);
+    overflow: hidden;
+  }
+  .final::before { content: ""; position: absolute; inset: 0; box-shadow: inset 0 0 20vmax 3vmax rgba(8,5,2,.9); pointer-events: none; }
+  .final .wrap { position: relative; }
+  .final h2 { max-width: 17ch; margin: 0 auto; }
+  .final p { max-width: 34rem; margin: 1.5rem auto 2.25rem; color: rgba(241,230,204,.85); font-size: clamp(1.15rem, .5vw + 1rem, 1.35rem); }
+
+  footer {
+    background: var(--umber-black);
+    border-top: 1px solid rgba(214,166,86,.15);
+    padding: 2rem 0;
+    font-size: .95rem; color: rgba(241,230,204,.55);
+  }
+  footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; }
+  footer a { text-decoration: none; color: var(--gold-pale); }
+
+  .section-head { max-width: 46rem; }
+  .section-head.center { max-width: 56rem; }
+  .nw { white-space: nowrap; }
+  .center { text-align: center; margin-left: auto; margin-right: auto; }
+  .center .eyebrow { justify-content: center; }
+  .center .eyebrow::after { content: ""; width: 2.25rem; height: 2px; background: currentColor; opacity: .7; border-radius: 2px; }
+</style>
+</head>
+<body>
+
+<!-- Shared painterly filters: rough edges for brushstrokes -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <filter id="brush" x="-5%" y="-40%" width="110%" height="180%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035 0.6" numOctaves="3" seed="4" result="t"/>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="7" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="wash" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="4" seed="9" result="t"/>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="90"/>
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="torn" x="0" y="-50%" width="100%" height="200%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02 0.25" numOctaves="3" seed="2" result="t"/>
+      <feDisplacementMap in="SourceGraphic" in2="t" scale="16"/>
+    </filter>
+    <symbol id="stroke" viewBox="0 0 240 18">
+      <path d="M4 11 C 50 5, 110 4, 160 7 S 225 12, 236 8" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" filter="url(#brush)"/>
+      <path d="M18 14 C 70 10, 130 10, 200 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".5" filter="url(#brush)"/>
+    </symbol>
+  </defs>
+</svg>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="#top">[Company]</a>
+    <nav class="nav" aria-label="Primary">
+      <a href="#how">How it works</a>
+      <a href="#results">Results</a>
+      <a href="#about">About Wil</a>
+      <a class="btn btn-primary" href="#book">Book a free 30-minute call</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- 1. Hero -->
+  <section class="hero" id="top" aria-labelledby="hero-title">
+    <svg class="hero-paint" viewBox="0 0 900 700" aria-hidden="true">
+      <ellipse cx="380" cy="300" rx="330" ry="240" fill="#b98238" opacity=".35" filter="url(#wash)"/>
+      <ellipse cx="300" cy="250" rx="200" ry="150" fill="#e8c98c" opacity=".22" filter="url(#wash)"/>
+      <ellipse cx="560" cy="460" rx="260" ry="140" fill="#8c4a22" opacity=".35" filter="url(#wash)"/>
+    </svg>
+    <div class="wrap">
+      <h1 id="hero-title">Make the AI you already pay for <em>actually work.</em></h1>
+      <p class="sub">Your AI tools guess because your business information is scattered across a dozen places. We pull it into one reliable foundation, then build automations on top that save hours, catch lost money, and stay under your control.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#book">Book a free 30-minute call</a>
+        <a class="btn btn-ghost" href="#results">See what we've delivered ↓</a>
+      </div>
+      <p class="proof-strip" aria-label="Results">
+        <span>$200K in lost revenue stopped</span><span class="dot" aria-hidden="true">·</span><span>48% more profit on parts pricing</span><span class="dot" aria-hidden="true">·</span><span>$300/month cut from software bills</span>
+      </p>
+    </div>
+  </section>
+
+  <!-- 2. The problem -->
+  <section class="ground-light" aria-labelledby="problem-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V14 C1300 30 1180 6 1040 20 S 760 34 620 16 S 300 30 160 14 S 40 26 0 18 Z" fill="#140d07" filter="url(#torn)"/></svg>
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">The problem</p>
+        <h2 id="problem-title">You don't need another AI tool.</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+      </div>
+      <div class="problem-grid">
+        <div class="problem-copy">
+          <p class="lede">You need the ones you have to know your business.</p>
+          <p>Right now your customer details live in one system, your pricing in another, your schedule in a third, and the rest lives in your best people's heads. Any AI you point at that mess can only guess. So it writes generic answers, makes mistakes no one catches, and quietly becomes one more subscription.</p>
+          <p>Meanwhile your team stays stuck reacting: chasing missing information, re-keying the same data, fixing problems after they cost you money.</p>
+        </div>
+        <ul class="pains">
+          <li>Hours lost every week to copy-paste work and double entry</li>
+          <li>Money slipping through the cracks: unbilled work, underpriced jobs, missed follow-ups</li>
+          <li>Paying for outside tools you could own</li>
+          <li>Work that stops when one key person is out</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. What we do -->
+  <section class="ground-dark" aria-labelledby="do-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V20 C1320 8 1200 30 1060 16 S 800 6 640 22 S 340 8 200 24 S 60 10 0 20 Z" fill="#e7d6b2" filter="url(#torn)"/></svg>
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">What we do</p>
+        <h2 id="do-title">We fix the foundation, then build what runs on it.</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+      </div>
+      <div class="offer-grid">
+        <article class="offer">
+          <span class="num" aria-hidden="true">i.</span>
+          <h3>One reliable foundation.</h3>
+          <p>We connect your tools, your data, and your customer records so there's one trusted source of truth, with clear privacy and consent rules on who and what can see it.</p>
+        </article>
+        <article class="offer">
+          <span class="num" aria-hidden="true">ii.</span>
+          <h3>Systems that do the work.</h3>
+          <p>On top of that foundation, we build the automations your business actually needs, so your team stops reacting and starts getting ahead of problems.</p>
+        </article>
+        <article class="offer">
+          <span class="num" aria-hidden="true">iii.</span>
+          <h3>Bring outside services in-house.</h3>
+          <p>Paying monthly for a booking engine or similar tool? We can build one you own, fitted to how you work.</p>
+        </article>
+        <article class="offer">
+          <span class="num" aria-hidden="true">iv.</span>
+          <h3>Keep what your experts know.</h3>
+          <p>When your best person goes on vacation, does their work stop? We capture how they do the job and turn it into a reliable, shared system, so specialist knowledge becomes company knowledge.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. Results -->
+  <section class="ground-umber results" id="results" aria-labelledby="results-title">
+    <div class="wrap">
+      <div class="section-head center">
+        <p class="eyebrow">Results</p>
+        <h2 id="results-title">Real businesses. Measured results.</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+      </div>
+      <div class="results-grid">
+        <article class="frame"><div class="frame-inner">
+          <p><strong>$200K in leakage stopped.</strong> We found where money was slipping out of one business and closed the gaps.</p>
+        </div></article>
+        <article class="frame"><div class="frame-inner">
+          <p><strong>48% more profit on per-part pricing.</strong> One business discovered it was leaving money on the table on every part it sold, and fixed it.</p>
+        </div></article>
+        <article class="frame"><div class="frame-inner">
+          <p><strong>$300 a month saved.</strong> One business replaced a paid scheduling tool with one it owns.</p>
+        </div></article>
+        <article class="frame"><div class="frame-inner">
+          <p><strong>Marketing that runs itself.</strong> One business automated its marketing strategy end to end.</p>
+        </div></article>
+        <article class="frame"><div class="frame-inner">
+          <p><strong>Sales reps focused on leads, not busywork.</strong> One business automated its sales pipeline so reps spend their time selling.</p>
+        </div></article>
+      </div>
+      <p class="results-note">Every result starts the same way: a measured baseline, a clear target, and a date to check it.</p>
+    </div>
+  </section>
+
+  <!-- 5. How it works -->
+  <section class="ground-light" id="how" aria-labelledby="how-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V16 C1280 30 1140 8 980 20 S 700 32 540 14 S 260 28 120 16 S 30 24 0 14 Z" fill="#22170d" filter="url(#torn)"/></svg>
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="how-title">Light and fast. No <span class="nw">6-month</span> program. No <span class="nw">200-page</span> deck.</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+      </div>
+      <ol class="steps">
+        <li class="step">
+          <div class="step-label"><span class="n">Step one</span><h3>Free discovery call (30 minutes)</h3></div>
+          <div class="step-body">
+            <p>We learn your business: your goals, how work gets done today, where it gets stuck, and what tools you use. No pitch deck, no obligation.</p>
+          </div>
+        </li>
+        <li class="step">
+          <div class="step-label"><span class="n">Step two</span><h3>Your Job Map</h3></div>
+          <div class="step-body">
+            <p>We walk through your work step by step: How many hours a week does this take? Who else touches it? What breaks? Then we hand you a written plan of every job worth fixing: what we'll build, the measurable improvement, and when you'll see it.</p>
+            <p class="keep"><strong>You keep the Job Map whether or not you hire us.</strong></p>
+          </div>
+        </li>
+        <li class="step">
+          <div class="step-label"><span class="n">Step three</span><h3>The build</h3></div>
+          <div class="step-body">
+            <p>Priced and timed to the jobs in your map. We work in the order that pays off fastest, and run several jobs at once where it makes sense. Along the way we:</p>
+            <ul>
+              <li>Retire tools and steps you no longer need</li>
+              <li>Use simple, exact automation for anything that has to be right every time: matching, math, checks, records</li>
+              <li>Use AI only where it earns its place: messy input like emails, call notes, and photos</li>
+            </ul>
+          </div>
+        </li>
+        <li class="step">
+          <div class="step-label"><span class="n">Step four</span><h3>A living list</h3></div>
+          <div class="step-body">
+            <p>Some opportunities only show up once the work starts. New ones go on your list, ranked and ready when you are.</p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- 6. Job Map -->
+  <section class="ground-dark" aria-labelledby="map-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V22 C1300 10 1160 28 1000 18 S 740 6 580 22 S 300 10 160 22 S 50 12 0 22 Z" fill="#e7d6b2" filter="url(#torn)"/></svg>
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">What's in your Job Map</p>
+        <h2 id="map-title">A plan you can hold us to.</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+      </div>
+      <div class="jobmap-grid">
+        <div>
+          <p class="lede muted">&ldquo;AI will make us more efficient&rdquo; isn't a goal. Every job in your map gets a sentence like this:</p>
+          <div class="placard">
+            <span class="pin" aria-hidden="true"></span>
+            <p class="measure">&ldquo;Improve <span class="blank">[what we measure]</span> from <span class="blank">[where it is today]</span> to <span class="blank">[target]</span> by <span class="blank">[date]</span>.&rdquo;</p>
+          </div>
+        </div>
+        <div>
+          <h3 style="color:var(--gold-pale);margin-bottom:1.5rem">What you get:</h3>
+          <ul class="getlist">
+            <li><strong>Every job we found,</strong> mapped: the steps, the exceptions, where the data comes from, and who owns it</li>
+            <li><strong>Today's numbers,</strong> recorded so you can check our results against them</li>
+            <li><strong>Where the freed-up time goes,</strong> so saved hours turn into real value, not idle time</li>
+            <li><strong>Who does what:</strong> what the system handles, what a person still handles, and where approval sits</li>
+            <li><strong>How much independence each job gets,</strong> and how far it can safely go</li>
+            <li><strong>The order:</strong> ranked by value, effort, and what depends on what</li>
+            <li><strong>Scope, price, and timeline,</strong> with the dates each result gets checked</li>
+            <li><strong>Honest labels:</strong> if a job can't be measured yet, we say so. And this is a starting list, not a final one.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. You stay in control -->
+  <section class="ground-light" aria-labelledby="control-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V14 C1320 28 1180 10 1020 22 S 760 30 600 14 S 320 26 180 12 S 50 22 0 16 Z" fill="#140d07" filter="url(#torn)"/></svg>
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">You stay in control</p>
+        <h2 id="control-title">Nothing runs on its own until it's earned it.</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+        <p class="lede" style="margin-top:1.75rem">Every automation starts small and earns more responsibility as it proves itself on real work:</p>
+      </div>
+      <ol class="ladder">
+        <li class="rung"><span class="n" aria-hidden="true">1</span><h3>It drafts.</h3><p>A person reviews and sends.</p></li>
+        <li class="rung"><span class="n" aria-hidden="true">2</span><h3>It acts with your approval.</h3><p>Nothing happens without a yes.</p></li>
+        <li class="rung"><span class="n" aria-hidden="true">3</span><h3>It acts and reports back.</h3><p>You see everything it did.</p></li>
+        <li class="rung"><span class="n" aria-hidden="true">4</span><h3>It runs on its own.</h3><p>Anything unusual goes to a person.</p></li>
+      </ol>
+      <p class="ladder-note">Most jobs start at step one or two. Your Job Map says how far each one can safely go.</p>
+
+      <div class="trust">
+        <h3>Built to be trusted</h3>
+        <ul>
+          <li>Tested on real work before it's trusted</li>
+          <li>Runs on its own schedule, not on someone's laptop</li>
+          <li>Has its own account with only the access the job needs. It never pretends to be a person.</li>
+          <li>Keeps a log of everything it does</li>
+          <li>Has one named owner at your business</li>
+          <li>Follows your privacy and consent rules</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 8. Who you'll work with -->
+  <section class="ground-dark" id="about" aria-labelledby="about-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V20 C1300 8 1160 30 1000 16 S 740 6 580 20 S 300 8 160 22 S 50 10 0 18 Z" fill="#e7d6b2" filter="url(#torn)"/></svg>
+    <div class="wrap about-grid">
+      <figure class="portrait" style="margin:0">
+        <div class="portrait-inner" role="img" aria-label="Portrait of Wil (placeholder)"><span>Portrait of Wil</span></div>
+      </figure>
+      <div class="about-copy">
+        <p class="eyebrow">Who you'll work with</p>
+        <h2 id="about-title">The person who maps it builds it.</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+        <div style="margin-top:2rem">
+          <p>Wil comes from the operations side of business, not IT.</p>
+          <p>He was hired full-time by a local auto repair shop to grow the business and run its marketing. Once inside, he saw what AI and custom software could do for the shop, built it, and changed how the business ran, for the better.</p>
+          <p>He has since applied the same approach to a sales pipeline, a research assistant, and a marketing operation run by AI.</p>
+          <p>Ten years in marketing, content, product, and operations means two things for you: he understands how a business makes money, and what he builds is easy for your team to use.</p>
+          <p class="closer">No handoffs. The person who learns your business is the person who builds and runs the system.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. FAQ -->
+  <section class="ground-light" aria-labelledby="faq-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V16 C1300 30 1160 8 1000 20 S 740 32 580 14 S 300 28 160 14 S 40 24 0 16 Z" fill="#140d07" filter="url(#torn)"/></svg>
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">FAQ</p>
+        <h2 id="faq-title">Questions owners ask</h2>
+        <svg class="stroke" aria-hidden="true"><use href="#stroke"/></svg>
+      </div>
+      <div class="faq">
+        <details>
+          <summary>Do we have to replace our current tools?</summary>
+          <p>No. We make the tools you already have work better. We only retire what you no longer need, and only bring a service in-house when owning it is cheaper or better.</p>
+        </details>
+        <details>
+          <summary>Is our data safe?</summary>
+          <p>Every automation gets the least access its job needs, its own account, a full log, and a named owner on your team. Privacy and consent rules are built into the foundation, not added later.</p>
+        </details>
+        <details>
+          <summary>What if the AI makes a mistake?</summary>
+          <p>Anything that needs to be exact runs on plain, predictable automation, not AI. AI handles messy input only, and new automations start by drafting or asking for approval.</p>
+        </details>
+        <details>
+          <summary>How long does it take?</summary>
+          <p>We work light and fast. Your Job Map gives a timeline for each job, and several jobs can run at once.</p>
+        </details>
+        <details>
+          <summary>What does it cost?</summary>
+          <!-- TBD: pricing model -->
+          <p>The discovery call and Job Map conversation are free. The build is priced to the specific jobs in your map, so you see the price before you commit.</p>
+        </details>
+        <details>
+          <summary>What if we don't move forward after the Job Map?</summary>
+          <p>You keep it. It's yours either way.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10. Final CTA -->
+  <section class="final" id="book" aria-labelledby="final-title">
+    <svg class="edge top" viewBox="0 0 1440 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1440 V20 C1300 8 1160 30 1000 16 S 740 6 580 20 S 300 8 160 22 S 50 10 0 18 Z" fill="#e7d6b2" filter="url(#torn)"/></svg>
+    <div class="wrap">
+      <h2 id="final-title">Find out what your business is leaving on the table.</h2>
+      <p>In 30 minutes, we'll learn how your business runs and where it's losing time and money. No cost, no obligation.</p>
+      <!-- TODO: replace with the real booking link -->
+      <a class="btn btn-primary" href="#book">Book a free 30-minute call</a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© [Company]</span>
+    <a href="#book">Book a free 30-minute call</a>
+  </div>
+</footer>
+
+</body>
+</html>

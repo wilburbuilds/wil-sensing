@@ -143,27 +143,7 @@
   .hero .wrap { position: relative; z-index: 1; width: 100%; }
   .hero h1 { max-width: 14ch; }
   .hero .lede { max-width: 36rem; margin: 1.35rem 0 2rem; }
-  .hero-actions { display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; gap: .75rem 1.5rem; }
-
-  .proof {
-    list-style: none; margin: 3rem 0 0; padding: 1.35rem 0 0;
-    display: grid; grid-template-columns: repeat(3, minmax(0, 15rem));
-    max-width: 46rem;
-    border-top: 1px solid var(--line);
-    font-size: .9375rem; color: var(--muted); font-weight: 300;
-  }
-  .proof li { padding-right: 1.25rem; }
-  .proof li + li { padding-left: 1.25rem; border-left: 1px solid var(--line); }
-  .proof strong {
-    display: block;
-    font-family: var(--display); font-weight: 500; font-size: clamp(1.7rem, 2.2vw, 2.15rem);
-    letter-spacing: -0.03em; line-height: 1.05; color: var(--accent);
-    margin-bottom: .35rem;
-  }
-  @media (max-width: 720px) {
-    .proof { grid-template-columns: 1fr; gap: 1rem; }
-    .proof li, .proof li + li { padding: 0; border: 0; }
-  }
+  .hero-actions { display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; gap: .75rem 1.5rem; margin-top: .25rem; }
 
   /* Cards */
   .card {
@@ -512,11 +492,6 @@
         <a class="btn btn-primary" href="https://calendly.com/wilsensing">Book a free 30-minute call <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
         <a class="btn btn-ghost" href="#results">See what we've delivered ↓</a>
       </div>
-      <ul class="proof" aria-label="Results">
-        <li><strong>$200K</strong> in lost revenue stopped</li>
-        <li><strong>48%</strong> more profit on parts pricing</li>
-        <li><strong>$300/month</strong> cut from software bills</li>
-      </ul>
     </div>
   </section>
 

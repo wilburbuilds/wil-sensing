@@ -141,17 +141,15 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 ### 6. You stay in control
 
 **Heading:**
-> ## Nothing runs on its own until it's earned it.
+> ## The Ladder
 
 **Copy:**
-> Every automation starts small and earns more responsibility as it proves itself on real work:
->
 > 1. **It drafts.** A person reviews and sends.
-> 2. **It acts with your approval.** Nothing happens without a yes.
+> 2. **It asks first.** Nothing happens without your yes.
 > 3. **It acts and reports back.** You see everything it did.
 > 4. **It runs on its own.** Anything unusual goes to a person.
 >
-> Most jobs start at step one or two. Your Job Map says how far each one can safely go.
+> Most jobs start at step one or two. Your Job Map shows how far each one can safely go.
 
 **Built to be trusted (short list):**
 - Tested on real work before it's trusted

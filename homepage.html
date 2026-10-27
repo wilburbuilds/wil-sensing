@@ -302,7 +302,10 @@
   .progress a.active .pip { background: var(--accent); border-color: var(--accent); box-shadow: 0 0 0 4px rgba(228,160,74,.16); }
   @media (max-width: 900px) { .progress { display: none; } }
 
-  /* 05 Control */
+  /* 05 Control. Full-bleed slate. The homepage has no slate token; #14202e is the site's deep slate. */
+  main > section:has(#control-title) { background: #14202e; }
+  main > section:has(#control-title) #control-title { color: #f3f6fa; }
+  main > section:has(#control-title) .ladder-note { color: rgba(243, 246, 250, .82); }
   .ladder { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
   @media (max-width: 980px) { .ladder { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 560px) { .ladder { grid-template-columns: 1fr; } }

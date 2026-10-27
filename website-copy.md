@@ -81,18 +81,17 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 ### 3. What we do
 
 **Heading:**
-> ## We fix the foundation, then build what runs on it.
+> ## Your tools, finally working together.
 
 **Copy:**
-> **1. One reliable foundation.** We connect your tools, your data, and your customer records so there's one trusted source of truth, with clear privacy and consent rules on who and what can see it.
+> **1. Connect what you have.** Your tools, data, and customer records become one trusted source, with clear rules on who can see what.
 >
-> **2. Systems that do the work.** On top of that foundation, we build the automations your business actually needs, so your team stops reacting and starts getting ahead of problems.
+> **2. Automate the busywork.** The copy-paste, double entry, and follow-ups get handled for you, so money stops slipping through the cracks.
 >
-> **3. Bring outside services in-house.** Paying monthly for a booking engine or similar tool? We can build one you own, fitted to how you work.
->
-> **4. Keep what your experts know.** When your best person goes on vacation, does their work stop? We capture how they do the job and turn it into a reliable, shared system, so specialist knowledge becomes company knowledge.
+> **3. Keep what your best people know.** We capture how your experts do the job, so work doesn't stop when one of them is out.
 
-*Note: item 4 is listed in the plan as an "other idea." It's a strong, relatable hook for owners. Keep it here or promote it to its own section if it tests well.*
+**Below the cards:**
+> Paying monthly for a booking engine or similar tool? We can build one you own.
 
 ---
 

@@ -163,9 +163,13 @@
   .card p { font-weight: 300; color: var(--muted); font-size: .9688rem; line-height: 1.6; }
 
   .grid-2 { display: grid; gap: 1rem; grid-template-columns: repeat(2, 1fr); }
+  .grid-3 { display: grid; gap: 1rem; grid-template-columns: repeat(3, 1fr); }
+  .grid-3 .card p { text-wrap: pretty; }
   .grid-4 { display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
   @media (max-width: 1280px) { .grid-4 { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 860px) { .grid-3 { grid-template-columns: 1fr; } }
   @media (max-width: 640px) { .grid-2, .grid-4 { grid-template-columns: 1fr; } }
+  .do-note { margin: 1.75rem 0 0; max-width: 40rem; color: var(--muted); font-weight: 300; font-size: .9688rem; }
 
   /* 01 Problem */
   .problem { display: grid; gap: clamp(2.5rem, 6vw, 5rem); grid-template-columns: 1fr 1fr; align-items: start; }
@@ -503,14 +507,14 @@
     <div class="wrap">
       <div class="head center narrow reveal">
         <div class="eyebrow"><span class="n">02</span><span class="rule"></span>What we do</div>
-        <h2 id="do-title">We fix the foundation, then build what runs on it.</h2>
+        <h2 id="do-title">Your tools, finally working together.</h2>
       </div>
-      <div class="grid-4 reveal">
-        <article class="card"><span class="chip">01</span><h3>One reliable foundation.</h3><p>We connect your tools, your data, and your customer records so there's one trusted source of truth, with clear privacy and consent rules on who and what can see it.</p></article>
-        <article class="card"><span class="chip">02</span><h3>Systems that do the work.</h3><p>On top of that foundation, we build the automations your business actually needs, so your team stops reacting and starts getting ahead of problems.</p></article>
-        <article class="card"><span class="chip">03</span><h3>Bring outside services in-house.</h3><p>Paying monthly for a booking engine or similar tool? We can build one you own, fitted to how you work.</p></article>
-        <article class="card"><span class="chip">04</span><h3>Keep what your experts know.</h3><p>When your best person goes on vacation, does their work stop? We capture how they do the job and turn it into a reliable, shared system, so specialist knowledge becomes company knowledge.</p></article>
+      <div class="grid-3 reveal">
+        <article class="card"><span class="chip">01</span><h3>Connect what you have.</h3><p>Your tools, data, and customer records become one trusted source, with clear rules on who can see what.</p></article>
+        <article class="card"><span class="chip">02</span><h3>Automate the busywork.</h3><p>The copy-paste, double entry, and follow-ups get handled for you, so money stops slipping through the cracks.</p></article>
+        <article class="card"><span class="chip">03</span><h3>Keep what your best people know.</h3><p>We capture how your experts do the job, so work doesn't stop when one of them is out.</p></article>
       </div>
+      <p class="do-note">Paying monthly for a booking engine or similar tool? We can build one you own.</p>
     </div>
   </section>
 

@@ -126,19 +126,14 @@
     .mobile-nav .btn { margin-top: 1rem; justify-content: center; color: var(--accent-ink); border: 0; }
   }
 
-  /* Hero */
+  /* Hero. The warm glow lives on .stage so it crosses the column boundary
+     instead of ending in a hard edge where the hero section stops. */
   .hero {
-    position: relative; overflow: hidden;
+    position: relative;
     min-height: calc(100svh - 64px);
     display: flex; align-items: center;
     padding: clamp(4rem, 9vw, 6rem) 0 clamp(4rem, 8vw, 6rem);
     text-align: left;
-  }
-  .hero::before {
-    content: ""; position: absolute; inset: 0; pointer-events: none;
-    background:
-      radial-gradient(42% 55% at 8% 18%, rgba(228,160,74,.16), rgba(228,160,74,0) 70%),
-      radial-gradient(30% 40% at 90% 80%, rgba(228,160,74,.06), rgba(228,160,74,0) 70%);
   }
   .hero .wrap { position: relative; z-index: 1; width: 100%; }
   .hero h1 { max-width: 14ch; }
@@ -184,24 +179,41 @@
   .rows.pos svg { color: var(--accent); }
   .rows.pos li { color: var(--text); font-weight: 400; }
 
-  /* Diagram rail: right third, sticky from the hero through "What we do" */
-  .stage { display: block; }
+  /* Diagram rail: right third of the same container as the header,
+     sticky from the hero through "What we do" */
+  .stage { display: block; position: relative; }
+  .stage::before {
+    content: ""; position: absolute; left: 0; right: 0; top: 0; height: calc(100svh - 64px);
+    pointer-events: none; z-index: 0;
+    background: radial-gradient(48% 65% at 8% 32%, rgba(228,160,74,.15), rgba(228,160,74,0) 58%);
+  }
+  .stage-main, .stage-rail { position: relative; z-index: 1; }
+  .stage-main > section:not(.hero) { padding: clamp(1.75rem, 3vw, 2.6rem) 0; }
   @media (min-width: 1000px) {
-    .stage { display: grid; grid-template-columns: minmax(0, 2fr) minmax(280px, 1fr); align-items: start; }
+    .stage {
+      display: grid;
+      grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
+      align-items: start;
+      max-width: var(--wide);
+      margin: 0 auto;
+      padding: 0 var(--pad);
+    }
+    .stage .problem { grid-template-columns: 1fr; gap: 1.5rem; }
+    .stage-main .grid-4 { grid-template-columns: repeat(2, 1fr); }
     .stage-rail { align-self: stretch; }
     .rail-sticky {
-      position: sticky; top: 72px;
-      height: calc(100svh - 88px);
-      padding: 8px 1.15rem 12px .35rem;
-      display: flex;
+      position: sticky; top: 64px;
+      height: calc(100svh - 64px);
+      padding: 0 0 0 .75rem;
+      display: flex; align-items: center; justify-content: center;
     }
-    .flow { flex: 1; height: 100%; min-height: 0; }
+    .flow { width: 100%; height: min(47.5rem, calc(100svh - 100px)); }
     .stage-main .wrap {
       max-width: none;
       width: auto;
       margin: 0;
-      padding-left: max(var(--pad), calc((100vw - var(--wide)) / 2 + var(--pad)));
-      padding-right: var(--pad);
+      padding-left: 0;
+      padding-right: clamp(1rem, 2vw, 1.75rem);
     }
   }
   @media (max-width: 999px) {
@@ -227,25 +239,26 @@
   .node { position: absolute; z-index: 2; width: 0; height: 0; }
   .node .ico {
     position: absolute; left: 0; top: 0;
-    width: 46px; height: 46px; transform: translate(-50%, -50%);
+    width: 54px; height: 54px; transform: translate(-50%, -50%);
     display: grid; place-items: center;
-    border-radius: 12px;
+    border-radius: 13px;
     background: #161412;
     border: 1px solid var(--line-strong);
     color: rgba(246,241,231,.9);
   }
-  .node .ico svg { width: 20px; height: 20px; }
+  .node .ico svg { width: 22px; height: 22px; }
   .node .label {
-    position: absolute; left: 0; top: 30px; transform: translateX(-50%);
-    font-size: .72rem; color: var(--muted); white-space: nowrap; text-align: center; line-height: 1.3;
+    position: absolute; left: 0; top: 34px; transform: translateX(-50%);
+    font-size: .8rem; color: var(--muted); white-space: nowrap; text-align: center; line-height: 1.3;
+    background: var(--bg); padding: 0 .2rem;
   }
-  .node.team .ico { width: 52px; height: 52px; border-radius: 50%; }
-  .node.team .label { top: 34px; }
-  .node .label b { display: block; color: var(--text); font-weight: 600; font-size: .78rem; }
+  .node.team .ico { width: 60px; height: 60px; border-radius: 50%; }
+  .node.team .label { top: 38px; }
+  .node .label b { display: block; color: var(--text); font-weight: 600; font-size: .86rem; }
 
   .node.core .core-box {
     position: absolute; left: 0; top: 0;
-    width: 96px; height: 96px;
+    width: 108px; height: 108px;
     transform: translate(-50%, -50%) scale(.6);
     opacity: 0;
     border-radius: 16px;
@@ -253,19 +266,19 @@
     display: grid; place-items: center;
     box-shadow: 0 0 0 8px rgba(228,160,74,.14), 0 0 48px rgba(228,160,74,.28);
   }
-  .node.core .core-box svg { width: 34px; height: 34px; }
-  .node.core .label { top: 58px; opacity: 0; white-space: normal; width: 9.5rem; }
+  .node.core .core-box svg { width: 38px; height: 38px; }
+  .node.core .label { top: 64px; opacity: 0; white-space: normal; width: 11rem; }
 
   .col {
     position: absolute; z-index: 2; transform: translate(-50%, -50%);
-    font-size: .68rem; letter-spacing: .14em; text-transform: uppercase;
+    font-size: .72rem; letter-spacing: .14em; text-transform: uppercase;
     color: var(--faint); white-space: nowrap; pointer-events: none; opacity: 0;
     background: var(--bg); padding: .12rem .4rem; z-index: 3;
   }
   .caption {
     position: absolute; left: 1rem; right: 1rem; bottom: .85rem; z-index: 3;
     height: 3.6em; text-align: center;
-    font-size: .78rem; line-height: 1.35; color: var(--muted);
+    font-size: .84rem; line-height: 1.35; color: var(--muted);
   }
   .caption span { position: absolute; left: 0; right: 0; top: 0; }
   .caption .after { opacity: 0; }
@@ -757,17 +770,21 @@
     team: flow.querySelector('[data-col="team"]')
   };
   var capBefore = flow.querySelector('.caption .before'), capAfter = flow.querySelector('.caption .after');
+  var caption = flow.querySelector('.caption');
   var NS = 'http://www.w3.org/2000/svg';
+  /* Start already reads top to bottom: loose tools, foundation, team.
+     Scroll only gathers the tools and draws the lines. */
   var BEFORE = {
-    team: [.42, .15],
-    tools: [[.24, .28], [.76, .24], [.46, .40], [.80, .48], [.24, .56], [.62, .64]]
+    team: [.5, .80],
+    tools: [[.22, .10], [.78, .13], [.34, .22], [.66, .24], [.24, .33], [.74, .32]]
   };
   var AFTER = {
-    team: [.5, .78],
-    core: [.5, .50],
-    tools: [[.30, .11], [.70, .11], [.30, .215], [.70, .215], [.30, .32], [.70, .32]],
-    cols: { tools: [.5, .042], core: [.5, .415], team: [.5, .70] }
+    team: [.5, .80],
+    core: [.5, .55],
+    tools: [[.30, .10], [.70, .10], [.30, .22], [.70, .22], [.30, .34], [.70, .34]],
+    cols: { tools: [.5, .035], core: [.5, .445], team: [.5, .70] }
   };
+  var TANGLE = [[0, 1], [0, 2], [1, 3], [2, 4], [3, 5], [4, 5], [1, 4], [0, 5], [2, 3], [1, 5]];
   var tangleEls = [], linkBase = [], linkDraw = [], outBase, outDraw, dots = [];
 
   function svgEl(name, attrs, parent) {
@@ -828,13 +845,13 @@
     if (W < 20 || H < 20) return;
     svg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
     var move = ease(ramp(p, .05, .58));
-    var coreT = ease(ramp(p, .30, .6));
-    var toolsDraw = ease(ramp(p, .42, .78));
-    var outT = ease(ramp(p, .68, .96));
-    var tangleT = 1 - ease(ramp(p, .08, .42));
-    var labelT = ease(ramp(p, .32, .6));
-    var capOut = ease(ramp(p, .62, .72));
-    var capIn = ease(ramp(p, .70, .82));
+    var coreT = 1;
+    var toolsDraw = ease(ramp(p, .28, .7));
+    var outT = ease(ramp(p, .58, .9));
+    var tangleT = 1 - ease(ramp(p, .06, .4));
+    var labelT = 1;
+    var capOut = ease(ramp(p, .5, .64));
+    var capIn = ease(ramp(p, .6, .76));
     var pts = tools.map(function (node, i) {
       var a = BEFORE.tools[i], b = AFTER.tools[i];
       var x = a[0] + (b[0] - a[0]) * move, y = a[1] + (b[1] - a[1]) * move;
@@ -850,6 +867,8 @@
     var ty = BEFORE.team[1] + (AFTER.team[1] - BEFORE.team[1]) * move;
     place(team, tx, ty);
     place(core, AFTER.core[0], AFTER.core[1]);
+    caption.style.bottom = 'auto';
+    caption.style.top = 'calc(' + (ty * 100).toFixed(2) + '% + 4.85rem)';
     coreBox.style.opacity = String(coreT);
     coreBox.style.transform = 'translate(-50%, -50%) scale(' + (.6 + .4 * coreT) + ')';
     coreLabel.style.opacity = String(coreT);
@@ -865,22 +884,18 @@
     capAfter.style.opacity = String(capIn);
     gTangle.style.opacity = String(tangleT);
 
-    var teamPt = [tx * W, ty * H];
-    var wob = [34, -28, 40, -22];
-    pts.forEach(function (pt, i) {
-      tangleEls[i].setAttribute('d', bow(teamPt[0], teamPt[1], pt[0], pt[1], (i % 2 ? 1 : -1) * 36));
-    });
-    [[0, 3], [1, 4], [2, 5], [0, 5]].forEach(function (pair, i) {
+    var wob = [34, -28, 40, -22, 26, -30, 18, -24, 32, -16];
+    TANGLE.forEach(function (pair, i) {
       var a = pts[pair[0]], b = pts[pair[1]];
-      tangleEls[6 + i].setAttribute('d', bow(a[0], a[1], b[0], b[1], wob[i]));
-      tangleEls[6 + i].setAttribute('opacity', .55);
+      tangleEls[i].setAttribute('d', bow(a[0], a[1], b[0], b[1], wob[i]));
+      tangleEls[i].setAttribute('opacity', i > 5 ? .45 : 1);
     });
 
     var coreX = AFTER.core[0] * W, coreY = AFTER.core[1] * H;
-    var coreTop = coreY - 48 * (.6 + .4 * coreT);
-    var coreBot = coreY + 48 * (.6 + .4 * coreT);
+    var coreTop = coreY - 54;
+    var coreBot = coreY + 54;
     pts.forEach(function (pt, i) {
-      var d = curve(pt[0], pt[1] + 24, coreX, coreTop);
+      var d = curve(pt[0], pt[1] + 30, coreX, coreTop);
       linkBase[i].setAttribute('d', d);
       linkDraw[i].setAttribute('d', d);
       linkBase[i].style.opacity = String(toolsDraw);
@@ -891,7 +906,7 @@
         dots[i].setAttribute('opacity', toolsDraw > .03 && toolsDraw < .98 ? .95 : 0);
       }
     });
-    var out = curve(coreX, coreBot, teamPt[0], teamPt[1] - 26);
+    var out = curve(coreX, coreBot, tx * W, ty * H - 34);
     outBase.setAttribute('d', out); outDraw.setAttribute('d', out);
     outBase.style.opacity = String(outT);
     var outLen = setDraw(outDraw, outT);

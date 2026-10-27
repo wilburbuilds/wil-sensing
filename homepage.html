@@ -285,17 +285,15 @@
   .results-cta { display: flex; margin-top: 1.75rem; }
 
   /* 04 How it works: sticky intro + step cards */
+  #how-title { text-wrap: balance; }
   .split { display: grid; gap: clamp(2.5rem, 6vw, 5rem); grid-template-columns: .9fr 1.1fr; align-items: start; }
   .split .sticky { position: sticky; top: 104px; }
   @media (max-width: 900px) { .split { grid-template-columns: 1fr; } .split .sticky { position: static; } }
   .steps { display: grid; gap: 1rem; }
-  .step ul { margin: .9rem 0 0; padding: 0; list-style: none; display: grid; gap: .55rem; }
-  .step li { display: flex; gap: .7rem; font-weight: 300; color: var(--muted); font-size: .9688rem; }
-  .step li svg { width: 15px; height: 15px; color: var(--accent); flex: none; margin-top: .35rem; }
-  .keep {
-    margin-top: 1rem !important; padding: .8rem 1rem; border-radius: 10px;
-    background: rgba(228,160,74,.1); border: 1px solid rgba(228,160,74,.32);
-    color: var(--text) !important; font-weight: 500 !important;
+  .step .step-example {
+    margin-top: .95rem; padding-left: .85rem;
+    border-left: 2px solid rgba(228,160,74,.4);
+    font-style: italic; font-size: .9rem;
   }
   .progress { display: grid; gap: .25rem; margin-top: 2rem; }
   .progress a { display: flex; align-items: center; gap: .85rem; color: var(--faint); font-size: .9375rem; padding: .35rem 0; transition: color .25s; }
@@ -304,29 +302,7 @@
   .progress a.active .pip { background: var(--accent); border-color: var(--accent); box-shadow: 0 0 0 4px rgba(228,160,74,.16); }
   @media (max-width: 900px) { .progress { display: none; } }
 
-  /* 05 Job Map */
-  .measure-card { margin-top: 2rem; padding: 1.75rem 1.5rem; }
-  .measure-card .k { font-size: .75rem; color: var(--faint); margin-bottom: .75rem; letter-spacing: .02em; }
-  .card .measure {
-    color: var(--text); font-family: var(--display);
-    font-size: clamp(1.3rem, 2vw, 1.65rem); line-height: 1.35; font-weight: 500; letter-spacing: -0.02em; margin: 0;
-  }
-  .measure .slot {
-    color: var(--accent);
-    background: rgba(228,160,74,.1);
-    border: 1px dashed rgba(228,160,74,.4);
-    border-radius: 6px; padding: 0 .3rem;
-    -webkit-box-decoration-break: clone; box-decoration-break: clone;
-  }
-  .get-title { font-size: 1.0625rem; margin-bottom: 1rem; }
-  .get { display: grid; gap: .75rem; grid-template-columns: 1fr 1fr; }
-  @media (max-width: 640px) { .get { grid-template-columns: 1fr; } }
-  .get .card { padding: 1.25rem 1.2rem; display: flex; gap: .85rem; align-items: flex-start; }
-  .get .card svg { width: 17px; height: 17px; color: var(--accent); flex: none; margin-top: .25rem; }
-  .get .card p { color: var(--muted); font-size: .9375rem; }
-  .get .card p strong { color: var(--text); font-weight: 500; }
-
-  /* 06 Control */
+  /* 05 Control */
   .ladder { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
   @media (max-width: 980px) { .ladder { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 560px) { .ladder { grid-template-columns: 1fr; } }
@@ -345,7 +321,7 @@
     .trust .rows li:nth-child(2) { border-top: 0; }
   }
 
-  /* 07 About */
+  /* 06 About */
   .about { display: grid; gap: clamp(2.5rem, 6vw, 5rem); grid-template-columns: 1.15fr .85fr; align-items: center; }
   @media (max-width: 900px) { .about { grid-template-columns: 1fr; } }
   .about .body-copy p { max-width: 36rem; }
@@ -366,7 +342,7 @@
   }
   .portrait .tag { position: absolute; left: 1rem; bottom: 1rem; font-size: .75rem; color: var(--faint); }
 
-  /* 08 FAQ */
+  /* 07 FAQ */
   .faq { max-width: 46rem; margin: 0 auto; border-top: 1px solid var(--line); }
   .faq details { border-bottom: 1px solid var(--line); }
   .faq summary {
@@ -543,61 +519,28 @@
     <div class="wrap split">
       <div class="sticky reveal">
         <div class="eyebrow"><span class="n">04</span><span class="rule"></span>How it works</div>
-        <h2 id="how-title">Light and fast. No 6-month program. No 200-page deck.</h2>
+        <h2 id="how-title">Thirty minutes to a clear path.</h2>
         <nav class="progress" aria-label="Steps">
-          <a href="#step-1" class="active"><span class="pip"></span>Free discovery call (30 minutes)</a>
-          <a href="#step-2"><span class="pip"></span>Your Job Map</a>
-          <a href="#step-3"><span class="pip"></span>The build</a>
-          <a href="#step-4"><span class="pip"></span>A living list</a>
+          <a href="#step-1" class="active"><span class="pip"></span>Free discovery call (30 minutes).</a>
+          <a href="#step-2"><span class="pip"></span>Your Job Map.</a>
+          <a href="#step-3"><span class="pip"></span>The build.</a>
+          <a href="#step-4"><span class="pip"></span>A living list.</a>
         </nav>
       </div>
       <ol class="steps" style="list-style:none;margin:0;padding:0">
-        <li class="card step reveal" id="step-1"><span class="chip">01</span><h3>Free discovery call (30 minutes)</h3><p>We learn your business: your goals, how work gets done today, where it gets stuck, and what tools you use. No pitch deck, no obligation.</p></li>
-        <li class="card step reveal" id="step-2"><span class="chip">02</span><h3>Your Job Map</h3><p>We walk through your work step by step: How many hours a week does this take? Who else touches it? What breaks? Then we hand you a written plan of every job worth fixing: what we'll build, the measurable improvement, and when you'll see it.</p><p class="keep">You keep the Job Map whether or not you hire us.</p></li>
-        <li class="card step reveal" id="step-3"><span class="chip">03</span><h3>The build</h3><p>Priced and timed to the jobs in your map. We work in the order that pays off fastest, and run several jobs at once where it makes sense. Along the way we:</p>
-          <ul>
-            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Retire tools and steps you no longer need</li>
-            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Use simple, exact automation for anything that has to be right every time: matching, math, checks, records</li>
-            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Use AI only where it earns its place: messy input like emails, call notes, and photos</li>
-          </ul>
-        </li>
-        <li class="card step reveal" id="step-4"><span class="chip">04</span><h3>A living list</h3><p>Some opportunities only show up once the work starts. New ones go on your list, ranked and ready when you are.</p></li>
+        <li class="card step reveal" id="step-1"><span class="chip">01</span><h3>Free discovery call (30 minutes).</h3><p>We learn how your business runs today, where work gets stuck, and what tools you use. No pitch, no obligation.</p></li>
+        <li class="card step reveal" id="step-2"><span class="chip">02</span><h3>Your Job Map.</h3><p>We walk through each job with you: how long it takes, who touches it, and what breaks. You get a written map of every job worth fixing, what we'll build, and the improvement you'll see. It's yours to keep whether or not you hire us.</p><p class="step-example">Every job gets a goal like: "Improve [what we measure] from [where it is today] to [target] by [date]."</p></li>
+        <li class="card step reveal" id="step-3"><span class="chip">03</span><h3>The build.</h3><p>We start with what pays off fastest. Simple, exact automation handles anything that has to be right every time, and AI goes only where it earns its place, like messy emails and call notes. Tools you no longer need get retired.</p></li>
+        <li class="card step reveal" id="step-4"><span class="chip">04</span><h3>A living list.</h3><p>New opportunities show up once the work starts. They go on your list, ranked and ready when you are.</p></li>
       </ol>
     </div>
   </section>
 
-  <!-- 05 Job Map -->
-  <section aria-labelledby="map-title">
-    <div class="wrap split">
-      <div class="sticky reveal">
-        <div class="eyebrow"><span class="n">05</span><span class="rule"></span>What's in your Job Map</div>
-        <h2 id="map-title">A plan you can hold us to.</h2>
-        <p class="lede" style="margin-top:1.25rem">&ldquo;AI will make us more efficient&rdquo; isn't a goal. Every job in your map gets a sentence like this:</p>
-        <div class="card measure-card">
-          <p class="measure">&ldquo;Improve <span class="slot">[what we measure]</span> from <span class="slot">[where it is today]</span> to <span class="slot">[target]</span> by <span class="slot">[date]</span>.&rdquo;</p>
-        </div>
-      </div>
-      <div class="reveal">
-        <h3 class="get-title">What you get:</h3>
-        <div class="get">
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>Every job we found,</strong> mapped: the steps, the exceptions, where the data comes from, and who owns it</p></div>
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>Today's numbers,</strong> recorded so you can check our results against them</p></div>
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>Where the freed-up time goes,</strong> so saved hours turn into real value, not idle time</p></div>
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>Who does what:</strong> what the system handles, what a person still handles, and where approval sits</p></div>
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>How much independence each job gets,</strong> and how far it can safely go</p></div>
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>The order:</strong> ranked by value, effort, and what depends on what</p></div>
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>Scope, price, and timeline,</strong> with the dates each result gets checked</p></div>
-          <div class="card"><svg aria-hidden="true"><use href="#i-check"/></svg><p><strong>Honest labels:</strong> if a job can't be measured yet, we say so. And this is a starting list, not a final one.</p></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 06 Control -->
+  <!-- 05 Control -->
   <section aria-labelledby="control-title">
     <div class="wrap">
       <div class="head narrow reveal">
-        <div class="eyebrow"><span class="n">06</span><span class="rule"></span>You stay in control</div>
+        <div class="eyebrow"><span class="n">05</span><span class="rule"></span>You stay in control</div>
         <h2 id="control-title">Nothing runs on its own until it's earned it.</h2>
         <p class="lede">Every automation starts small and earns more responsibility as it proves itself on real work:</p>
       </div>
@@ -623,11 +566,11 @@
     </div>
   </section>
 
-  <!-- 07 About -->
+  <!-- 06 About -->
   <section id="about" aria-labelledby="about-title">
     <div class="wrap about">
       <div class="reveal">
-        <div class="eyebrow"><span class="n">07</span><span class="rule"></span>Who you'll work with</div>
+        <div class="eyebrow"><span class="n">06</span><span class="rule"></span>Who you'll work with</div>
         <h2 id="about-title">The person who maps it builds it.</h2>
         <div class="body-copy" style="margin-top:1.5rem">
           <p>Wil comes from the operations side of business, not IT.</p>
@@ -644,11 +587,11 @@
     </div>
   </section>
 
-  <!-- 08 FAQ -->
+  <!-- 07 FAQ -->
   <section id="faq" aria-labelledby="faq-title">
     <div class="wrap">
       <div class="head center narrow reveal">
-        <div class="eyebrow"><span class="n">08</span><span class="rule"></span>FAQ</div>
+        <div class="eyebrow"><span class="n">07</span><span class="rule"></span>FAQ</div>
         <h2 id="faq-title">Questions owners ask</h2>
       </div>
       <div class="faq reveal">

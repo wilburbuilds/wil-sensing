@@ -119,50 +119,26 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 ### 5. How it works
 
 **Heading:**
-> ## Light and fast. No 6-month program. No 200-page deck.
+> ## Thirty minutes to a clear path.
 
-**Step 1. Free discovery call (30 minutes)**
-> We learn your business: your goals, how work gets done today, where it gets stuck, and what tools you use. No pitch deck, no obligation.
+**Step 1. Free discovery call (30 minutes).**
+> We learn how your business runs today, where work gets stuck, and what tools you use. No pitch, no obligation.
 
-**Step 2. Your Job Map**
-> We walk through your work step by step: How many hours a week does this take? Who else touches it? What breaks? Then we hand you a written plan of every job worth fixing: what we'll build, the measurable improvement, and when you'll see it.
->
-> **You keep the Job Map whether or not you hire us.**
+**Step 2. Your Job Map.**
+> We walk through each job with you: how long it takes, who touches it, and what breaks. You get a written map of every job worth fixing, what we'll build, and the improvement you'll see. It's yours to keep whether or not you hire us.
 
-**Step 3. The build**
-> Priced and timed to the jobs in your map. We work in the order that pays off fastest, and run several jobs at once where it makes sense. Along the way we:
-> - Retire tools and steps you no longer need
-> - Use simple, exact automation for anything that has to be right every time: matching, math, checks, records
-> - Use AI only where it earns its place: messy input like emails, call notes, and photos
+**Example under step 2:**
+> Every job gets a goal like: "Improve [what we measure] from [where it is today] to [target] by [date]."
 
-**Step 4. A living list**
-> Some opportunities only show up once the work starts. New ones go on your list, ranked and ready when you are.
+**Step 3. The build.**
+> We start with what pays off fastest. Simple, exact automation handles anything that has to be right every time, and AI goes only where it earns its place, like messy emails and call notes. Tools you no longer need get retired.
+
+**Step 4. A living list.**
+> New opportunities show up once the work starts. They go on your list, ranked and ready when you are.
 
 ---
 
-### 6. What's in your Job Map
-
-**Heading:**
-> ## A plan you can hold us to.
-
-**Intro:**
-> "AI will make us more efficient" isn't a goal. Every job in your map gets a sentence like this:
->
-> **"Improve [what we measure] from [where it is today] to [target] by [date]."**
-
-**What you get:**
-- **Every job we found,** mapped: the steps, the exceptions, where the data comes from, and who owns it
-- **Today's numbers,** recorded so you can check our results against them
-- **Where the freed-up time goes,** so saved hours turn into real value, not idle time
-- **Who does what:** what the system handles, what a person still handles, and where approval sits
-- **How much independence each job gets,** and how far it can safely go
-- **The order:** ranked by value, effort, and what depends on what
-- **Scope, price, and timeline,** with the dates each result gets checked
-- **Honest labels:** if a job can't be measured yet, we say so. And this is a starting list, not a final one.
-
----
-
-### 7. You stay in control
+### 6. You stay in control
 
 **Heading:**
 > ## Nothing runs on its own until it's earned it.
@@ -187,7 +163,7 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 
 ---
 
-### 8. Who you'll work with
+### 7. Who you'll work with
 
 **Heading:**
 > ## The person who maps it builds it.
@@ -205,7 +181,7 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 
 ---
 
-### 9. Questions owners ask (FAQ)
+### 8. Questions owners ask (FAQ)
 
 **Do we have to replace our current tools?**
 > No. We make the tools you already have work better. We only retire what you no longer need, and only bring a service in-house when owning it is cheaper or better.
@@ -227,7 +203,7 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 
 ---
 
-### 10. Final call to action
+### 9. Final call to action
 
 **Heading:**
 > ## Find out what your business is leaving on the table.

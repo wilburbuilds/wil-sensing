@@ -306,7 +306,10 @@
   main > section:has(#control-title) { background: #0b111a; }
   main > section:has(#control-title) #control-title { color: #f3f6fa; }
   main > section:has(#control-title) .ladder-note { color: rgba(243, 246, 250, .82); }
-  main > section:has(#control-title) .ladder .card { border-color: rgba(232, 206, 168, .32); }
+  main > section:has(#control-title) .ladder .card {
+    background: #141d2b;
+    border-color: rgba(160, 180, 205, .18);
+  }
   .ladder { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
   @media (max-width: 980px) { .ladder { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 560px) { .ladder { grid-template-columns: 1fr; } }

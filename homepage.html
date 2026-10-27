@@ -97,8 +97,7 @@
   /* Header */
   .site-header {
     position: sticky; top: 0; z-index: 50;
-    background: rgba(12,11,10,.82);
-    -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+    background: var(--bg);
     border-bottom: 1px solid transparent;
     transition: border-color .3s ease;
   }
@@ -129,16 +128,20 @@
   /* Hero. The warm glow lives on .stage so it crosses the column boundary
      instead of ending in a hard edge where the hero section stops. */
   .hero {
-    position: relative;
-    min-height: calc(100svh - 64px);
+    position: relative; overflow: hidden;
+    min-height: 0;
     display: flex; align-items: center;
-    padding: clamp(4rem, 9vw, 6rem) 0 clamp(4rem, 8vw, 6rem);
-    text-align: left;
+    padding: clamp(3.25rem, 6vw, 4.75rem) 0 1.25rem;
+    text-align: center;
+  }
+  .hero::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none;
+    background: radial-gradient(58% 46% at 50% 58%, rgba(228,160,74,.14), rgba(228,160,74,0) 70%);
   }
   .hero .wrap { position: relative; z-index: 1; width: 100%; }
-  .hero h1 { max-width: 14ch; }
-  .hero .lede { max-width: 36rem; margin: 1.35rem 0 2rem; }
-  .hero-actions { display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; gap: .75rem 1.5rem; margin-top: .25rem; }
+  .hero h1 { max-width: 22ch; margin-left: auto; margin-right: auto; }
+  .hero .lede { max-width: 36rem; margin: 1.35rem auto 2rem; }
+  .hero-actions { display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: .75rem 1.5rem; margin-top: .25rem; }
 
   /* Cards */
   .card {
@@ -179,46 +182,13 @@
   .rows.pos svg { color: var(--accent); }
   .rows.pos li { color: var(--text); font-weight: 400; }
 
-  /* Diagram rail: right third of the same container as the header,
-     sticky from the hero through "What we do" */
-  .stage { display: block; position: relative; }
-  .stage::before {
-    content: ""; position: absolute; left: 0; right: 0; top: 0; height: calc(100svh - 64px);
-    pointer-events: none; z-index: 0;
-    background: radial-gradient(48% 65% at 8% 32%, rgba(228,160,74,.15), rgba(228,160,74,0) 58%);
-  }
-  .stage-main, .stage-rail { position: relative; z-index: 1; }
-  .stage-main > section:not(.hero) { padding: clamp(1.75rem, 3vw, 2.6rem) 0; }
-  @media (min-width: 1000px) {
-    .stage {
-      display: grid;
-      grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
-      align-items: start;
-      max-width: var(--wide);
-      margin: 0 auto;
-      padding: 0 var(--pad);
-    }
-    .stage .problem { grid-template-columns: 1fr; gap: 1.5rem; }
-    .stage-main .grid-4 { grid-template-columns: repeat(2, 1fr); }
-    .stage-rail { align-self: stretch; }
-    .rail-sticky {
-      position: sticky; top: 64px;
-      height: calc(100svh - 64px);
-      padding: 0 0 0 .75rem;
-      display: flex; align-items: center; justify-content: center;
-    }
-    .flow { width: 100%; height: min(47.5rem, calc(100svh - 100px)); }
-    .stage-main .wrap {
-      max-width: none;
-      width: auto;
-      margin: 0;
-      padding-left: 0;
-      padding-right: clamp(1rem, 2vw, 1.75rem);
-    }
-  }
+  /* Diagram sits full width under the hero. Desktop is horizontal; narrow screens stack it. */
+  .flow-band { padding: 0 0 1rem; }
+  .flow-band .flow { height: 24.75rem; }
   @media (max-width: 999px) {
-    .rail-sticky { padding: 0 var(--pad) clamp(3rem, 8vw, 4.5rem); }
-    .flow { aspect-ratio: 2 / 4.7; max-width: 22rem; margin: 0 auto; }
+    .flow-band { padding: 0 var(--pad) 2.5rem; }
+    .flow-band .wrap { padding: 0; }
+    .flow-band .flow { height: auto; aspect-ratio: 2 / 4.6; max-width: 22rem; margin: 0 auto; }
   }
 
   .flow {
@@ -250,7 +220,6 @@
   .node .label {
     position: absolute; left: 0; top: 34px; transform: translateX(-50%);
     font-size: .8rem; color: var(--muted); white-space: nowrap; text-align: center; line-height: 1.3;
-    background: var(--bg); padding: 0 .2rem;
   }
   .node.team .ico { width: 60px; height: 60px; border-radius: 50%; }
   .node.team .label { top: 38px; }
@@ -273,7 +242,6 @@
     position: absolute; z-index: 2; transform: translate(-50%, -50%);
     font-size: .72rem; letter-spacing: .14em; text-transform: uppercase;
     color: var(--faint); white-space: nowrap; pointer-events: none; opacity: 0;
-    background: var(--bg); padding: .12rem .4rem; z-index: 3;
   }
   .caption {
     position: absolute; left: 1rem; right: 1rem; bottom: .85rem; z-index: 3;
@@ -471,8 +439,6 @@
 </header>
 
 <main>
-<div class="stage" id="stage">
-<div class="stage-main">
 
   <!-- Hero -->
   <section class="hero" id="top" aria-labelledby="hero-title">
@@ -485,6 +451,33 @@
       </div>
     </div>
   </section>
+
+  <div class="flow-band">
+    <div class="wrap">
+      <div class="flow" id="flow" role="img" aria-label="Animation: your scattered tools, each wired by hand to your team, reorganize so they all feed one reliable foundation, which then feeds your team.">
+      <svg class="lines" aria-hidden="true"><g class="tangle"></g><g class="links"></g><g class="pulses"></g></svg>
+      <div class="col" data-col="tools" aria-hidden="true">Your tools</div>
+      <div class="col" data-col="core" aria-hidden="true">Wil Sensing</div>
+      <div class="col" data-col="team" aria-hidden="true">Your team</div>
+
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="12" cy="10" r="3"/><path d="M7 19c1-2.4 2.9-3.6 5-3.6s4 1.2 5 3.6"/></svg></div><span class="label">Customer records</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12V4h8l10 10-8 8L3 12z"/><circle cx="7.5" cy="7.5" r="1.4"/></svg></div><span class="label">Pricing</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></div><span class="label">Schedule</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/></svg></div><span class="label">Emails</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h3.5l2 5L8 10.5a11 11 0 0 0 5.5 5.5L15 13.5l5 2V19a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg></div><span class="label">Call notes</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-10 9"/></svg></div><span class="label">Photos</span></div>
+
+      <div class="node core" aria-hidden="true">
+        <div class="core-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 9 4.8-9 4.8-9-4.8L12 3z"/><path d="m3 12.2 9 4.8 9-4.8"/><path d="m3 16.4 9 4.8 9-4.8"/></svg></div>
+        <span class="label"><b>One reliable foundation</b>One trusted source of truth</span>
+      </div>
+
+      <div class="node team" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.6"/><path d="M5 20c1.3-3.6 3.9-5.4 7-5.4s5.7 1.8 7 5.4"/></svg></div><span class="label"><b>Your team</b>You stay in control</span></div>
+
+      <p class="caption"><span class="before">Hours lost every week to copy-paste work and double entry</span><span class="after">So your team stops reacting and starts getting ahead of problems.</span></p>
+</div>
+    </div>
+  </div>
 
   <!-- 01 The problem -->
   <section aria-labelledby="problem-title">
@@ -523,34 +516,6 @@
     </div>
   </section>
 
-</div>
-<aside class="stage-rail">
-  <div class="rail-sticky">
-    <div class="flow" id="flow" role="img" aria-label="Animation: your scattered tools, each wired by hand to your team, reorganize so they all feed one reliable foundation, which then feeds your team.">
-      <svg class="lines" aria-hidden="true"><g class="tangle"></g><g class="links"></g><g class="pulses"></g></svg>
-      <div class="col" data-col="tools" aria-hidden="true">Your tools</div>
-      <div class="col" data-col="core" aria-hidden="true">Wil Sensing</div>
-      <div class="col" data-col="team" aria-hidden="true">Your team</div>
-
-      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="12" cy="10" r="3"/><path d="M7 19c1-2.4 2.9-3.6 5-3.6s4 1.2 5 3.6"/></svg></div><span class="label">Customer records</span></div>
-      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12V4h8l10 10-8 8L3 12z"/><circle cx="7.5" cy="7.5" r="1.4"/></svg></div><span class="label">Pricing</span></div>
-      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></div><span class="label">Schedule</span></div>
-      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/></svg></div><span class="label">Emails</span></div>
-      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h3.5l2 5L8 10.5a11 11 0 0 0 5.5 5.5L15 13.5l5 2V19a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg></div><span class="label">Call notes</span></div>
-      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-10 9"/></svg></div><span class="label">Photos</span></div>
-
-      <div class="node core" aria-hidden="true">
-        <div class="core-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 9 4.8-9 4.8-9-4.8L12 3z"/><path d="m3 12.2 9 4.8 9-4.8"/><path d="m3 16.4 9 4.8 9-4.8"/></svg></div>
-        <span class="label"><b>One reliable foundation</b>One trusted source of truth</span>
-      </div>
-
-      <div class="node team" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.6"/><path d="M5 20c1.3-3.6 3.9-5.4 7-5.4s5.7 1.8 7 5.4"/></svg></div><span class="label"><b>Your team</b>You stay in control</span></div>
-
-      <p class="caption"><span class="before">Hours lost every week to copy-paste work and double entry</span><span class="after">So your team stops reacting and starts getting ahead of problems.</span></p>
-    </div>
-  </div>
-</aside>
-</div>
 
   <!-- 03 Results -->
   <section id="results" aria-labelledby="results-title">
@@ -753,11 +718,9 @@
   }, { rootMargin: '-45% 0px -45% 0px' });
   document.querySelectorAll('.step').forEach(function (s) { stepIo.observe(s); });
 
-  /* Scroll-driven diagram. Desktop: progress follows the sticky rail's travel
-     through the hero, the problem, and "What we do", and releases before Results.
-     Mobile: the same diagram sits inline after "What we do" and plays as it
-     crosses the viewport. Scroll up runs it backwards. */
-  var stage = document.getElementById('stage');
+  /* Scroll-driven diagram under the hero. It is not sticky.
+     Desktop runs left to right; a narrow screen stacks top to bottom.
+     Nothing moves until the diagram scrolls into view. Scroll up reverses it. */
   var flow = document.getElementById('flow');
   var svg = flow.querySelector('svg.lines');
   var gTangle = svg.querySelector('.tangle'), gLinks = svg.querySelector('.links'), gPulses = svg.querySelector('.pulses');
@@ -772,18 +735,33 @@
   var capBefore = flow.querySelector('.caption .before'), capAfter = flow.querySelector('.caption .after');
   var caption = flow.querySelector('.caption');
   var NS = 'http://www.w3.org/2000/svg';
-  /* Start already reads top to bottom: loose tools, foundation, team.
-     Scroll only gathers the tools and draws the lines. */
-  var BEFORE = {
-    team: [.5, .80],
-    tools: [[.22, .10], [.78, .13], [.34, .22], [.66, .24], [.24, .33], [.74, .32]]
+  /* Order is readable before anything moves. Scroll gathers the tools and draws the lines. */
+  var VERT = {
+    before: {
+      team: [.5, .80],
+      tools: [[.22, .10], [.78, .13], [.34, .22], [.66, .24], [.24, .33], [.74, .32]]
+    },
+    after: {
+      team: [.5, .80],
+      core: [.5, .55],
+      tools: [[.30, .10], [.70, .10], [.30, .22], [.70, .22], [.30, .34], [.70, .34]],
+      cols: { tools: [.5, .035], core: [.5, .445], team: [.5, .70] }
+    }
   };
-  var AFTER = {
-    team: [.5, .80],
-    core: [.5, .55],
-    tools: [[.30, .10], [.70, .10], [.30, .22], [.70, .22], [.30, .34], [.70, .34]],
-    cols: { tools: [.5, .035], core: [.5, .445], team: [.5, .70] }
+  var HORZ = {
+    before: {
+      team: [.86, .52],
+      tools: [[.05, .38], [.19, .34], [.34, .40], [.06, .68], [.20, .64], [.34, .70]]
+    },
+    after: {
+      team: [.86, .52],
+      core: [.58, .52],
+      tools: [[.07, .38], [.20, .38], [.33, .38], [.07, .68], [.20, .68], [.33, .68]],
+      cols: { tools: [.20, .11], core: [.58, .11], team: [.86, .11] }
+    }
   };
+  function wide() { return window.innerWidth >= 1000; }
+  function layout() { return wide() ? HORZ : VERT; }
   var TANGLE = [[0, 1], [0, 2], [1, 3], [2, 4], [3, 5], [4, 5], [1, 4], [0, 5], [2, 3], [1, 5]];
   var tangleEls = [], linkBase = [], linkDraw = [], outBase, outDraw, dots = [];
 
@@ -797,7 +775,11 @@
   function ramp(p, a, b) { return clamp((p - a) / (b - a), 0, 1); }
   function ease(t) { return t < .5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2; }
   function place(el, x, y) { el.style.left = (x * 100) + '%'; el.style.top = (y * 100) + '%'; }
-  function curve(x1, y1, x2, y2) {
+  function curve(x1, y1, x2, y2, across) {
+    if (across) {
+      var mx = (x1 + x2) / 2;
+      return 'M' + x1.toFixed(1) + ',' + y1.toFixed(1) + ' C' + mx.toFixed(1) + ',' + y1.toFixed(1) + ' ' + mx.toFixed(1) + ',' + y2.toFixed(1) + ' ' + x2.toFixed(1) + ',' + y2.toFixed(1);
+    }
     var my = (y1 + y2) / 2;
     return 'M' + x1.toFixed(1) + ',' + y1.toFixed(1) + ' C' + x1.toFixed(1) + ',' + my.toFixed(1) + ' ' + x2.toFixed(1) + ',' + my.toFixed(1) + ' ' + x2.toFixed(1) + ',' + y2.toFixed(1);
   }
@@ -827,22 +809,20 @@
     dots.push(svgEl('circle', { r: 2.8 }, gPulses));
   }
 
+  var originTop = null;
   function progress() {
     if (reduce) return 1;
-    if (window.innerWidth < 1000) {
-      var r = flow.getBoundingClientRect();
-      var start = window.innerHeight * .9, end = window.innerHeight * .28;
-      return clamp((start - r.top) / (start - end), 0, 1);
-    }
-    var rect = stage.getBoundingClientRect();
-    var travel = stage.offsetHeight - window.innerHeight;
-    if (travel <= 0) return 0;
-    return clamp(-rect.top / travel, 0, 1);
+    var top = flow.getBoundingClientRect().top;
+    if (originTop === null || window.scrollY < 1) originTop = top + window.scrollY;
+    return clamp((originTop - top) / (window.innerHeight * .62), 0, 1);
   }
 
   function render(p) {
     var W = flow.clientWidth, H = flow.clientHeight;
     if (W < 20 || H < 20) return;
+    var across = wide();
+    var lay = layout();
+    var BEFORE = lay.before, AFTER = lay.after;
     svg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
     var move = ease(ramp(p, .05, .58));
     var coreT = 1;
@@ -867,8 +847,13 @@
     var ty = BEFORE.team[1] + (AFTER.team[1] - BEFORE.team[1]) * move;
     place(team, tx, ty);
     place(core, AFTER.core[0], AFTER.core[1]);
-    caption.style.bottom = 'auto';
-    caption.style.top = 'calc(' + (ty * 100).toFixed(2) + '% + 4.85rem)';
+    if (across) {
+      caption.style.top = 'auto';
+      caption.style.bottom = '.4rem';
+    } else {
+      caption.style.bottom = 'auto';
+      caption.style.top = 'calc(' + (ty * 100).toFixed(2) + '% + 4.85rem)';
+    }
     coreBox.style.opacity = String(coreT);
     coreBox.style.transform = 'translate(-50%, -50%) scale(' + (.6 + .4 * coreT) + ')';
     coreLabel.style.opacity = String(coreT);
@@ -895,7 +880,9 @@
     var coreTop = coreY - 54;
     var coreBot = coreY + 54;
     pts.forEach(function (pt, i) {
-      var d = curve(pt[0], pt[1] + 30, coreX, coreTop);
+      var d = across
+        ? curve(pt[0] + 28, pt[1], coreX - 54, coreY, true)
+        : curve(pt[0], pt[1] + 30, coreX, coreTop, false);
       linkBase[i].setAttribute('d', d);
       linkDraw[i].setAttribute('d', d);
       linkBase[i].style.opacity = String(toolsDraw);
@@ -906,7 +893,9 @@
         dots[i].setAttribute('opacity', toolsDraw > .03 && toolsDraw < .98 ? .95 : 0);
       }
     });
-    var out = curve(coreX, coreBot, tx * W, ty * H - 34);
+    var out = across
+      ? curve(coreX + 54, coreY, tx * W - 32, ty * H, true)
+      : curve(coreX, coreBot, tx * W, ty * H - 34, false);
     outBase.setAttribute('d', out); outDraw.setAttribute('d', out);
     outBase.style.opacity = String(outT);
     var outLen = setDraw(outDraw, outT);

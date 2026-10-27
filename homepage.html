@@ -169,6 +169,7 @@
 
   /* 01 Problem */
   .problem { display: grid; gap: clamp(2.5rem, 6vw, 5rem); grid-template-columns: 1fr 1fr; align-items: start; }
+  .problem h2 { text-wrap: balance; }
   @media (max-width: 1100px) { .problem { grid-template-columns: 1fr; } }
   .problem .lede-strong { font-size: clamp(1.15rem, 1.6vw, 1.35rem); font-weight: 500; letter-spacing: -0.02em; margin-bottom: 1.25rem; }
   .rows { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
@@ -484,17 +485,14 @@
     <div class="wrap problem">
       <div>
         <div class="eyebrow"><span class="n">01</span><span class="rule"></span>The problem</div>
-        <h2 id="problem-title">You don't need another AI tool.</h2>
+        <h2 id="problem-title">You don't need another tool. You need the ones you have to talk to each other.</h2>
         <div class="body-copy" style="margin-top:1.5rem">
-          <p class="lede-strong" style="color:var(--text)">You need the ones you have to know your business.</p>
-          <p>Right now your customer details live in one system, your pricing in another, your schedule in a third, and the rest lives in your best people's heads. Any AI you point at that mess can only guess. So it writes generic answers, makes mistakes no one catches, and quietly becomes one more subscription.</p>
-          <p>Meanwhile your team stays stuck reacting: chasing missing information, re-keying the same data, fixing problems after they cost you money.</p>
+          <p>Half of how your business runs lives in your best employees' heads. The rest is spread across one system for customers, another for pricing, and a third for the schedule. So your team re-keys the same data, chases missing info, and fixes problems after they've already cost you. And any AI you point at that mess can only guess.</p>
         </div>
       </div>
       <ul class="rows neg">
-        <li><svg aria-hidden="true"><use href="#i-x"/></svg>Hours lost every week to copy-paste work and double entry</li>
+        <li><svg aria-hidden="true"><use href="#i-x"/></svg>Hours lost every week to copy-paste and double entry</li>
         <li><svg aria-hidden="true"><use href="#i-x"/></svg>Money slipping through the cracks: unbilled work, underpriced jobs, missed follow-ups</li>
-        <li><svg aria-hidden="true"><use href="#i-x"/></svg>Paying for outside tools you could own</li>
         <li><svg aria-hidden="true"><use href="#i-x"/></svg>Work that stops when one key person is out</li>
       </ul>
     </div>

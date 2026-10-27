@@ -16,7 +16,7 @@ Everything on the page supports that idea or proves it.
 
 ### How the page persuades, in order
 1. **Open on the promise.** "Your whole business, finally in one place." Readers should recognize it in the first screen.
-2. **Reframe the cause.** The problem is scattered information, not the tool. That makes the reader feel smart instead of sold to.
+2. **Reframe the cause.** "You don't need another tool. You need the ones you have to talk to each other." Half of how the business runs still lives in people's heads, and the rest is spread across systems. That makes the reader feel smart instead of sold to.
 3. **Show proof early.** Execs skim for numbers. Put the results second, not at the bottom.
 4. **Make the first step safe.** A free 30-minute call, and a Job Map they keep whether or not they buy. Low risk, real value.
 5. **Remove the fear of losing control.** The "it starts by drafting, and earns its way up" model is the biggest trust builder. Give it its own section.
@@ -66,19 +66,14 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 ### 2. The problem
 
 **Heading:**
-> ## You don't need another AI tool.
+> ## You don't need another tool. You need the ones you have to talk to each other.
 
 **Copy:**
-> You need the ones you have to know your business.
->
-> Right now your customer details live in one system, your pricing in another, your schedule in a third, and the rest lives in your best people's heads. Any AI you point at that mess can only guess. So it writes generic answers, makes mistakes no one catches, and quietly becomes one more subscription.
->
-> Meanwhile your team stays stuck reacting: chasing missing information, re-keying the same data, fixing problems after they cost you money.
+> Half of how your business runs lives in your best employees' heads. The rest is spread across one system for customers, another for pricing, and a third for the schedule. So your team re-keys the same data, chases missing info, and fixes problems after they've already cost you. And any AI you point at that mess can only guess.
 
 **Short list of pains (scannable):**
-- Hours lost every week to copy-paste work and double entry
+- Hours lost every week to copy-paste and double entry
 - Money slipping through the cracks: unbilled work, underpriced jobs, missed follow-ups
-- Paying for outside tools you could own
 - Work that stops when one key person is out
 
 ---

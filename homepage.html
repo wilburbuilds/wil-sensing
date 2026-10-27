@@ -65,7 +65,6 @@
 
   section { padding: clamp(4rem, 7.5vw, 6.25rem) 0; position: relative; }
   main > section:nth-child(even) { background: #12100e; }
-  .stage-main > section:nth-child(even) { background: #12100e; }
 
   .eyebrow {
     display: inline-flex; align-items: center; gap: .7rem;
@@ -197,6 +196,13 @@
       display: flex;
     }
     .flow { flex: 1; height: 100%; min-height: 0; }
+    .stage-main .wrap {
+      max-width: none;
+      width: auto;
+      margin: 0;
+      padding-left: max(var(--pad), calc((100vw - var(--wide)) / 2 + var(--pad)));
+      padding-right: var(--pad);
+    }
   }
   @media (max-width: 999px) {
     .rail-sticky { padding: 0 var(--pad) clamp(3rem, 8vw, 4.5rem); }
@@ -205,15 +211,11 @@
 
   .flow {
     position: relative;
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 18px;
-    overflow: hidden;
+    background: none;
+    border: 0;
+    border-radius: 0;
+    overflow: visible;
     user-select: none;
-  }
-  .flow::before {
-    content: ""; position: absolute; inset: 0; pointer-events: none;
-    background: radial-gradient(50% 40% at 50% 58%, rgba(228,160,74,.08), rgba(228,160,74,0) 70%);
   }
   .flow svg.lines { position: absolute; inset: 0; width: 100%; height: 100%; }
   .lines path { fill: none; vector-effect: non-scaling-stroke; }
@@ -258,7 +260,7 @@
     position: absolute; z-index: 2; transform: translate(-50%, -50%);
     font-size: .68rem; letter-spacing: .14em; text-transform: uppercase;
     color: var(--faint); white-space: nowrap; pointer-events: none; opacity: 0;
-    background: var(--surface); padding: .12rem .4rem; z-index: 3;
+    background: var(--bg); padding: .12rem .4rem; z-index: 3;
   }
   .caption {
     position: absolute; left: 1rem; right: 1rem; bottom: .85rem; z-index: 3;
@@ -474,7 +476,7 @@
   <!-- 01 The problem -->
   <section aria-labelledby="problem-title">
     <div class="wrap problem">
-      <div class="reveal">
+      <div>
         <div class="eyebrow"><span class="n">01</span><span class="rule"></span>The problem</div>
         <h2 id="problem-title">You don't need another AI tool.</h2>
         <div class="body-copy" style="margin-top:1.5rem">
@@ -483,7 +485,7 @@
           <p>Meanwhile your team stays stuck reacting: chasing missing information, re-keying the same data, fixing problems after they cost you money.</p>
         </div>
       </div>
-      <ul class="rows neg reveal">
+      <ul class="rows neg">
         <li><svg aria-hidden="true"><use href="#i-x"/></svg>Hours lost every week to copy-paste work and double entry</li>
         <li><svg aria-hidden="true"><use href="#i-x"/></svg>Money slipping through the cracks: unbilled work, underpriced jobs, missed follow-ups</li>
         <li><svg aria-hidden="true"><use href="#i-x"/></svg>Paying for outside tools you could own</li>

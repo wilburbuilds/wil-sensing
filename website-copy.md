@@ -15,7 +15,7 @@ Owners and executives of small and mid-sized businesses. They have tried AI, or 
 Everything on the page supports that idea or proves it.
 
 ### How the page persuades, in order
-1. **Name the frustration.** "We bought AI and nothing changed." Readers should recognize themselves in the first screen.
+1. **Open on the promise.** "Your whole business, finally in one place." Readers should recognize it in the first screen.
 2. **Reframe the cause.** The problem is scattered information, not the tool. That makes the reader feel smart instead of sold to.
 3. **Show proof early.** Execs skim for numbers. Put the results second, not at the bottom.
 4. **Make the first step safe.** A free 30-minute call, and a Job Map they keep whether or not they buy. Low risk, real value.
@@ -43,10 +43,10 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 ### 1. Hero
 
 **Headline (recommended):**
-> # Make the AI you already pay for actually work.
+> # Your whole business, finally in one place.
 
 **Subheadline:**
-> Your AI tools guess because your business information is scattered across a dozen places. We pull it into one reliable foundation, then build automations on top that save hours, catch lost money, and stay under your control.
+> We connect your tools, data, and know-how into one reliable foundation, then build automations on top that save hours and catch lost money. It's how a business runs AI-native.
 
 **Primary button:** Book a free 30-minute call
 **Secondary link:** See what we've delivered ↓
@@ -59,7 +59,7 @@ Plain, direct, specific. Short sentences. Numbers over adjectives. Never promise
 - Your AI isn't the problem. What it knows about your business is.
 - Stop paying for AI that guesses.
 
-*Why this hero:* it speaks to someone who already spent money on AI (most execs have), names a cause they haven't heard, and promises outcomes they care about. The numbers underneath do the convincing.
+*Why this hero:* "Your whole business, finally in one place" names what owners want. The subhead says how: one reliable foundation, automations that save hours and catch lost money, and a business that runs AI-native.
 
 ---
 

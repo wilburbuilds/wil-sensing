@@ -65,6 +65,7 @@
 
   section { padding: clamp(4rem, 7.5vw, 6.25rem) 0; position: relative; }
   main > section:nth-child(even) { background: #12100e; }
+  .stage-main > section:nth-child(even) { background: #12100e; }
 
   .eyebrow {
     display: inline-flex; align-items: center; gap: .7rem;
@@ -166,12 +167,12 @@
 
   .grid-2 { display: grid; gap: 1rem; grid-template-columns: repeat(2, 1fr); }
   .grid-4 { display: grid; gap: 1rem; grid-template-columns: repeat(4, 1fr); }
-  @media (max-width: 980px) { .grid-4 { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 1280px) { .grid-4 { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 640px) { .grid-2, .grid-4 { grid-template-columns: 1fr; } }
 
   /* 01 Problem */
   .problem { display: grid; gap: clamp(2.5rem, 6vw, 5rem); grid-template-columns: 1fr 1fr; align-items: start; }
-  @media (max-width: 860px) { .problem { grid-template-columns: 1fr; } }
+  @media (max-width: 1100px) { .problem { grid-template-columns: 1fr; } }
   .problem .lede-strong { font-size: clamp(1.15rem, 1.6vw, 1.35rem); font-weight: 500; letter-spacing: -0.02em; margin-bottom: 1.25rem; }
   .rows { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
   .rows li {
@@ -184,113 +185,88 @@
   .rows.pos svg { color: var(--accent); }
   .rows.pos li { color: var(--text); font-weight: 400; }
 
-  /* 02 What we do + flow diagram */
-  .flow-wrap { margin-top: 1.25rem; }
+  /* Diagram rail: right third, sticky from the hero through "What we do" */
+  .stage { display: block; }
+  @media (min-width: 1000px) {
+    .stage { display: grid; grid-template-columns: minmax(0, 2fr) minmax(280px, 1fr); align-items: start; }
+    .stage-rail { align-self: stretch; }
+    .rail-sticky {
+      position: sticky; top: 72px;
+      height: calc(100svh - 88px);
+      padding: 8px 1.15rem 12px .35rem;
+      display: flex;
+    }
+    .flow { flex: 1; height: 100%; min-height: 0; }
+  }
+  @media (max-width: 999px) {
+    .rail-sticky { padding: 0 var(--pad) clamp(3rem, 8vw, 4.5rem); }
+    .flow { aspect-ratio: 2 / 4.7; max-width: 22rem; margin: 0 auto; }
+  }
+
   .flow {
     position: relative;
     background: var(--surface);
     border: 1px solid var(--line);
-    border-radius: 20px;
-    aspect-ratio: 1000 / 540;
+    border-radius: 18px;
     overflow: hidden;
     user-select: none;
   }
-  @media (max-width: 640px) { .flow { aspect-ratio: 360 / 660; } }
   .flow::before {
     content: ""; position: absolute; inset: 0; pointer-events: none;
-    background: radial-gradient(40% 50% at 50% 50%, rgba(255,255,255,.045), rgba(255,255,255,0) 70%);
+    background: radial-gradient(50% 40% at 50% 58%, rgba(228,160,74,.08), rgba(228,160,74,0) 70%);
   }
-  .flow svg.lines { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+  .flow svg.lines { position: absolute; inset: 0; width: 100%; height: 100%; }
   .lines path { fill: none; vector-effect: non-scaling-stroke; }
-  .tangle path { stroke: rgba(255,255,255,.2); stroke-width: 1; transition: opacity .6s ease; }
-  .links path { stroke: rgba(228,160,74,.7); stroke-width: 1; stroke-dasharray: 5 7; opacity: 0; transition: opacity .6s ease; }
-  .links path.base { stroke: rgba(228,160,74,.2); stroke-dasharray: none; }
-  .pulses { opacity: 0; transition: opacity .6s ease; }
+  .tangle path { stroke: rgba(246,241,231,.28); stroke-width: 1; }
+  .links path.base { stroke: rgba(228,160,74,.22); stroke-width: 1; }
+  .links path.draw { stroke: #e4a04a; stroke-width: 1.5; }
   .pulses circle { fill: #e4a04a; }
-  .flow.is-after .tangle path { opacity: 0; }
-  .flow.is-after .links path { opacity: 1; transition-delay: .9s; }
-  .flow.is-after .pulses { opacity: 1; transition-delay: 1.3s; }
-  .flow.is-after .links path:not(.base) { animation: march 1.1s linear infinite; }
-  @keyframes march { to { stroke-dashoffset: -12; } }
 
-  .node {
-    position: absolute; z-index: 2;
-    width: 0; height: 0;
-    transition: left 1.15s cubic-bezier(.65,0,.25,1), top 1.15s cubic-bezier(.65,0,.25,1), opacity .5s ease;
-  }
-  .flow.no-anim .node, .flow.no-anim path, .flow.no-anim .pulses, .flow.no-anim .col, .flow.no-anim .core-box, .flow.no-anim .caption span { transition: none !important; }
+  .node { position: absolute; z-index: 2; width: 0; height: 0; }
   .node .ico {
     position: absolute; left: 0; top: 0;
-    width: 50px; height: 50px; transform: translate(-50%, -50%);
+    width: 46px; height: 46px; transform: translate(-50%, -50%);
     display: grid; place-items: center;
     border-radius: 12px;
-    background: #161616;
+    background: #161412;
     border: 1px solid var(--line-strong);
-    color: rgba(255,255,255,.88);
-    box-shadow: 0 6px 20px -8px rgba(0,0,0,.8);
+    color: rgba(246,241,231,.9);
   }
-  .node .ico svg { width: 22px; height: 22px; }
+  .node .ico svg { width: 20px; height: 20px; }
   .node .label {
-    position: absolute; left: 0; top: 34px; transform: translateX(-50%);
-    font-size: .75rem; color: var(--muted); white-space: nowrap; text-align: center; line-height: 1.35;
+    position: absolute; left: 0; top: 30px; transform: translateX(-50%);
+    font-size: .72rem; color: var(--muted); white-space: nowrap; text-align: center; line-height: 1.3;
   }
-  .node.team .ico { width: 58px; height: 58px; border-radius: 50%; }
-  .node.team .label { top: 40px; }
-  .node .label b { display: block; color: var(--text); font-weight: 600; font-size: .8125rem; }
+  .node.team .ico { width: 52px; height: 52px; border-radius: 50%; }
+  .node.team .label { top: 34px; }
+  .node .label b { display: block; color: var(--text); font-weight: 600; font-size: .78rem; }
 
   .node.core .core-box {
     position: absolute; left: 0; top: 0;
-    width: 112px; height: 112px;
+    width: 96px; height: 96px;
     transform: translate(-50%, -50%) scale(.6);
     opacity: 0;
-    border-radius: 18px;
+    border-radius: 16px;
     background: #f4efe6; color: var(--accent-ink);
     display: grid; place-items: center;
-    box-shadow: 0 0 0 8px rgba(228,160,74,.14), 0 0 56px rgba(228,160,74,.32);
-    transition: transform .7s cubic-bezier(.3,1.4,.5,1) .55s, opacity .5s ease .55s;
+    box-shadow: 0 0 0 8px rgba(228,160,74,.14), 0 0 48px rgba(228,160,74,.28);
   }
-  .node.core .core-box svg { width: 40px; height: 40px; }
-  .node.core .label { top: 72px; opacity: 0; transition: opacity .5s ease .8s; }
-  .flow.is-after .node.core .core-box { transform: translate(-50%, -50%) scale(1); opacity: 1; }
-  .flow.is-after .node.core .label { opacity: 1; }
-  @media (max-width: 640px) {
-    .node .ico { width: 44px; height: 44px; border-radius: 11px; }
-    .node .ico svg { width: 19px; height: 19px; }
-    .node .label { top: 30px; font-size: .6875rem; }
-    .node.core .core-box { width: 88px; height: 88px; border-radius: 16px; }
-    .node.core .core-box svg { width: 32px; height: 32px; }
-    .node.core .label { top: 58px; }
-  }
+  .node.core .core-box svg { width: 34px; height: 34px; }
+  .node.core .label { top: 58px; opacity: 0; white-space: normal; width: 9.5rem; }
 
   .col {
-    position: absolute; top: 9%; transform: translateX(-50%);
-    font-size: .8125rem; color: var(--muted); white-space: nowrap;
-    opacity: 0; transition: opacity .5s ease;
+    position: absolute; z-index: 2; transform: translate(-50%, -50%);
+    font-size: .68rem; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--faint); white-space: nowrap; pointer-events: none; opacity: 0;
+    background: var(--surface); padding: .12rem .4rem; z-index: 3;
   }
-  .flow.is-after .col { opacity: 1; transition-delay: 1s; }
-  @media (max-width: 640px) { .col { display: none; } }
-
   .caption {
-    position: absolute; left: 50%; bottom: 6%; transform: translateX(-50%);
-    width: min(90%, 34rem); text-align: center;
-    font-size: .8125rem; color: var(--muted);
-    display: grid;
+    position: absolute; left: 1rem; right: 1rem; bottom: .85rem; z-index: 3;
+    height: 3.6em; text-align: center;
+    font-size: .78rem; line-height: 1.35; color: var(--muted);
   }
-  .caption span { grid-area: 1 / 1; transition: opacity .5s ease; }
+  .caption span { position: absolute; left: 0; right: 0; top: 0; }
   .caption .after { opacity: 0; }
-  .flow.is-after .caption .before { opacity: 0; }
-  .flow.is-after .caption .after { opacity: 1; transition-delay: 1.1s; }
-  .replay {
-    position: absolute; right: 1rem; bottom: 1rem; z-index: 3;
-    width: 34px; height: 34px; border-radius: 50%;
-    display: grid; place-items: center;
-    background: var(--surface-2); color: var(--muted);
-    border: 1px solid var(--line-strong); cursor: pointer;
-    transition: color .2s, border-color .2s;
-  }
-  .replay:hover { color: var(--text); border-color: rgba(255,255,255,.3); }
-  .replay svg { width: 15px; height: 15px; }
-  @media (max-width: 640px) { .caption { bottom: 4%; width: 70%; } .replay { right: .75rem; bottom: .75rem; } }
 
   /* 03 Results */
   .results { display: grid; gap: 1rem; grid-template-columns: repeat(6, 1fr); }
@@ -439,8 +415,6 @@
   .js .reveal.in { opacity: 1; transform: none; }
   @media (prefers-reduced-motion: reduce) {
     .js .reveal { opacity: 1; transform: none; transition: none; }
-    .flow.is-after .links path:not(.base) { animation: none; }
-    .pulses { display: none; }
   }
 </style>
 </head>
@@ -482,6 +456,8 @@
 </header>
 
 <main>
+<div class="stage" id="stage">
+<div class="stage-main">
 
   <!-- Hero -->
   <section class="hero" id="top" aria-labelledby="hero-title">
@@ -529,34 +505,37 @@
         <article class="card"><span class="chip">03</span><h3>Bring outside services in-house.</h3><p>Paying monthly for a booking engine or similar tool? We can build one you own, fitted to how you work.</p></article>
         <article class="card"><span class="chip">04</span><h3>Keep what your experts know.</h3><p>When your best person goes on vacation, does their work stop? We capture how they do the job and turn it into a reliable, shared system, so specialist knowledge becomes company knowledge.</p></article>
       </div>
-
-      <div class="flow-wrap reveal" style="margin-top:1rem">
-        <div class="flow" id="flow" role="img" aria-label="Animation: your scattered tools, each wired by hand to your team, reorganize so they all feed one reliable foundation, which then feeds your team.">
-          <svg class="lines" aria-hidden="true"><g class="tangle"></g><g class="links"></g><g class="pulses"></g></svg>
-          <div class="col" data-col="tools" aria-hidden="true">Your tools</div>
-          <div class="col" data-col="core" aria-hidden="true">Wil Sensing</div>
-          <div class="col" data-col="team" aria-hidden="true">Your team</div>
-
-          <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="12" cy="10" r="3"/><path d="M7 19c1-2.4 2.9-3.6 5-3.6s4 1.2 5 3.6"/></svg></div><span class="label">Customer records</span></div>
-          <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12V4h8l10 10-8 8L3 12z"/><circle cx="7.5" cy="7.5" r="1.4"/></svg></div><span class="label">Pricing</span></div>
-          <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></div><span class="label">Schedule</span></div>
-          <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/></svg></div><span class="label">Emails</span></div>
-          <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h3.5l2 5L8 10.5a11 11 0 0 0 5.5 5.5L15 13.5l5 2V19a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg></div><span class="label">Call notes</span></div>
-          <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-10 9"/></svg></div><span class="label">Photos</span></div>
-
-          <div class="node core" aria-hidden="true">
-            <div class="core-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 9 4.8-9 4.8-9-4.8L12 3z"/><path d="m3 12.2 9 4.8 9-4.8"/><path d="m3 16.4 9 4.8 9-4.8"/></svg></div>
-            <span class="label"><b>One reliable foundation</b>One trusted source of truth</span>
-          </div>
-
-          <div class="node team" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.6"/><path d="M5 20c1.3-3.6 3.9-5.4 7-5.4s5.7 1.8 7 5.4"/></svg></div><span class="label"><b>Your team</b>You stay in control</span></div>
-
-          <p class="caption" aria-hidden="true"><span class="before">Hours lost every week to copy-paste work and double entry</span><span class="after">So your team stops reacting and starts getting ahead of problems.</span></p>
-          <button class="replay" type="button" aria-label="Replay animation"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v5h-5"/></svg></button>
-        </div>
-      </div>
     </div>
   </section>
+
+</div>
+<aside class="stage-rail">
+  <div class="rail-sticky">
+    <div class="flow" id="flow" role="img" aria-label="Animation: your scattered tools, each wired by hand to your team, reorganize so they all feed one reliable foundation, which then feeds your team.">
+      <svg class="lines" aria-hidden="true"><g class="tangle"></g><g class="links"></g><g class="pulses"></g></svg>
+      <div class="col" data-col="tools" aria-hidden="true">Your tools</div>
+      <div class="col" data-col="core" aria-hidden="true">Wil Sensing</div>
+      <div class="col" data-col="team" aria-hidden="true">Your team</div>
+
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="12" cy="10" r="3"/><path d="M7 19c1-2.4 2.9-3.6 5-3.6s4 1.2 5 3.6"/></svg></div><span class="label">Customer records</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12V4h8l10 10-8 8L3 12z"/><circle cx="7.5" cy="7.5" r="1.4"/></svg></div><span class="label">Pricing</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></div><span class="label">Schedule</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/></svg></div><span class="label">Emails</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h3.5l2 5L8 10.5a11 11 0 0 0 5.5 5.5L15 13.5l5 2V19a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg></div><span class="label">Call notes</span></div>
+      <div class="node tool" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="3"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-10 9"/></svg></div><span class="label">Photos</span></div>
+
+      <div class="node core" aria-hidden="true">
+        <div class="core-box"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 9 4.8-9 4.8-9-4.8L12 3z"/><path d="m3 12.2 9 4.8 9-4.8"/><path d="m3 16.4 9 4.8 9-4.8"/></svg></div>
+        <span class="label"><b>One reliable foundation</b>One trusted source of truth</span>
+      </div>
+
+      <div class="node team" aria-hidden="true"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.6"/><path d="M5 20c1.3-3.6 3.9-5.4 7-5.4s5.7 1.8 7 5.4"/></svg></div><span class="label"><b>Your team</b>You stay in control</span></div>
+
+      <p class="caption"><span class="before">Hours lost every week to copy-paste work and double entry</span><span class="after">So your team stops reacting and starts getting ahead of problems.</span></p>
+    </div>
+  </div>
+</aside>
+</div>
 
   <!-- 03 Results -->
   <section id="results" aria-labelledby="results-title">
@@ -759,115 +738,180 @@
   }, { rootMargin: '-45% 0px -45% 0px' });
   document.querySelectorAll('.step').forEach(function (s) { stepIo.observe(s); });
 
-  /* Flow diagram: tangled tools -> one reliable foundation -> your team */
+  /* Scroll-driven diagram. Desktop: progress follows the sticky rail's travel
+     through the hero, the problem, and "What we do", and releases before Results.
+     Mobile: the same diagram sits inline after "What we do" and plays as it
+     crosses the viewport. Scroll up runs it backwards. */
+  var stage = document.getElementById('stage');
   var flow = document.getElementById('flow');
   var svg = flow.querySelector('svg.lines');
   var gTangle = svg.querySelector('.tangle'), gLinks = svg.querySelector('.links'), gPulses = svg.querySelector('.pulses');
   var tools = Array.prototype.slice.call(flow.querySelectorAll('.node.tool'));
   var core = flow.querySelector('.node.core'), team = flow.querySelector('.node.team');
-  var cols = { tools: flow.querySelector('[data-col="tools"]'), core: flow.querySelector('[data-col="core"]'), team: flow.querySelector('[data-col="team"]') };
-  var NS = 'http://www.w3.org/2000/svg';
-  var phase = 'before', timer = null;
-
-  var LAYOUTS = {
-    wide: {
-      before: { team: [.13, .5], core: [.5, .5], tools: [[.58, .2], [.8, .27], [.54, .49], [.83, .55], [.61, .77], [.78, .8]] },
-      after:  { team: [.84, .47], core: [.5, .47], tools: [[.16, .27], [.27, .27], [.16, .47], [.27, .47], [.16, .67], [.27, .67]] },
-      cols: { tools: .215, core: .5, team: .84 }
-    },
-    narrow: {
-      before: { team: [.5, .1], core: [.5, .5], tools: [[.2, .34], [.76, .3], [.44, .47], [.82, .57], [.2, .65], [.62, .74]] },
-      after:  { team: [.5, .73], core: [.5, .48], tools: [[.2, .09], [.5, .09], [.8, .09], [.2, .25], [.5, .25], [.8, .25]] }
-    }
+  var coreBox = core.querySelector('.core-box'), coreLabel = core.querySelector('.label');
+  var cols = {
+    tools: flow.querySelector('[data-col="tools"]'),
+    core: flow.querySelector('[data-col="core"]'),
+    team: flow.querySelector('[data-col="team"]')
   };
+  var capBefore = flow.querySelector('.caption .before'), capAfter = flow.querySelector('.caption .after');
+  var NS = 'http://www.w3.org/2000/svg';
+  var BEFORE = {
+    team: [.42, .15],
+    tools: [[.24, .28], [.76, .24], [.46, .40], [.80, .48], [.24, .56], [.62, .64]]
+  };
+  var AFTER = {
+    team: [.5, .78],
+    core: [.5, .50],
+    tools: [[.30, .11], [.70, .11], [.30, .215], [.70, .215], [.30, .32], [.70, .32]],
+    cols: { tools: [.5, .042], core: [.5, .415], team: [.5, .70] }
+  };
+  var tangleEls = [], linkBase = [], linkDraw = [], outBase, outDraw, dots = [];
 
-  function layout() { return flow.clientWidth < 600 ? LAYOUTS.narrow : LAYOUTS.wide; }
-  function place(el, p) { el.style.left = (p[0] * 100) + '%'; el.style.top = (p[1] * 100) + '%'; }
-  function el(name, attrs, parent) { var e = document.createElementNS(NS, name); for (var k in attrs) e.setAttribute(k, attrs[k]); parent.appendChild(e); return e; }
+  function svgEl(name, attrs, parent) {
+    var e = document.createElementNS(NS, name);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    parent.appendChild(e);
+    return e;
+  }
+  function clamp(v, a, b) { return Math.max(a, Math.min(b, v)); }
+  function ramp(p, a, b) { return clamp((p - a) / (b - a), 0, 1); }
+  function ease(t) { return t < .5 ? 2 * t * t : 1 - Math.pow(-2 * t + 2, 2) / 2; }
+  function place(el, x, y) { el.style.left = (x * 100) + '%'; el.style.top = (y * 100) + '%'; }
+  function curve(x1, y1, x2, y2) {
+    var my = (y1 + y2) / 2;
+    return 'M' + x1.toFixed(1) + ',' + y1.toFixed(1) + ' C' + x1.toFixed(1) + ',' + my.toFixed(1) + ' ' + x2.toFixed(1) + ',' + my.toFixed(1) + ' ' + x2.toFixed(1) + ',' + y2.toFixed(1);
+  }
+  function bow(x1, y1, x2, y2, k) {
+    return 'M' + x1.toFixed(1) + ',' + y1.toFixed(1) + ' Q' + ((x1 + x2) / 2 + k).toFixed(1) + ',' + ((y1 + y2) / 2).toFixed(1) + ' ' + x2.toFixed(1) + ',' + y2.toFixed(1);
+  }
+  function setDraw(path, t) {
+    var len = path.getTotalLength();
+    if (!len) { path.style.opacity = 0; return 0; }
+    path.style.opacity = 1;
+    path.style.strokeDasharray = len;
+    path.style.strokeDashoffset = String(len * (1 - t));
+    return len;
+  }
 
   function build() {
-    var L = layout(), W = flow.clientWidth, H = flow.clientHeight, narrow = L === LAYOUTS.narrow;
-    svg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
     gTangle.innerHTML = ''; gLinks.innerHTML = ''; gPulses.innerHTML = '';
-    var P = function (p) { return [p[0] * W, p[1] * H]; };
+    tangleEls = []; linkBase = []; linkDraw = []; dots = [];
+    for (var i = 0; i < 10; i++) tangleEls.push(svgEl('path', {}, gTangle));
+    for (var j = 0; j < 6; j++) {
+      linkBase.push(svgEl('path', { class: 'base' }, gLinks));
+      linkDraw.push(svgEl('path', { class: 'draw' }, gLinks));
+      dots.push(svgEl('circle', { r: 2.4 }, gPulses));
+    }
+    outBase = svgEl('path', { class: 'base' }, gLinks);
+    outDraw = svgEl('path', { class: 'draw' }, gLinks);
+    dots.push(svgEl('circle', { r: 2.8 }, gPulses));
+  }
 
-    /* before: the team is the glue, wired to every tool by hand */
-    var t0 = P(L.before.team);
-    L.before.tools.forEach(function (tp, i) {
-      var t = P(tp), dx = t[0] - t0[0], dy = t[1] - t0[1], wob = (i % 2 ? 1 : -1) * (narrow ? 40 : 60);
-      el('path', { d: 'M' + t0 + ' C' + (t0[0] + dx * .3 + wob) + ',' + (t0[1] + dy * .9) + ' ' + (t[0] - dx * .35) + ',' + (t[1] - dy * .1 - wob) + ' ' + t }, gTangle);
+  function progress() {
+    if (reduce) return 1;
+    if (window.innerWidth < 1000) {
+      var r = flow.getBoundingClientRect();
+      var start = window.innerHeight * .9, end = window.innerHeight * .28;
+      return clamp((start - r.top) / (start - end), 0, 1);
+    }
+    var rect = stage.getBoundingClientRect();
+    var travel = stage.offsetHeight - window.innerHeight;
+    if (travel <= 0) return 0;
+    return clamp(-rect.top / travel, 0, 1);
+  }
+
+  function render(p) {
+    var W = flow.clientWidth, H = flow.clientHeight;
+    if (W < 20 || H < 20) return;
+    svg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
+    var move = ease(ramp(p, .05, .58));
+    var coreT = ease(ramp(p, .30, .6));
+    var toolsDraw = ease(ramp(p, .42, .78));
+    var outT = ease(ramp(p, .68, .96));
+    var tangleT = 1 - ease(ramp(p, .08, .42));
+    var labelT = ease(ramp(p, .32, .6));
+    var capOut = ease(ramp(p, .62, .72));
+    var capIn = ease(ramp(p, .70, .82));
+    var pts = tools.map(function (node, i) {
+      var a = BEFORE.tools[i], b = AFTER.tools[i];
+      var x = a[0] + (b[0] - a[0]) * move, y = a[1] + (b[1] - a[1]) * move;
+      place(node, x, y);
+      var lit = ease(ramp(p, .05 + i * .035, .4 + i * .03));
+      var ico = node.querySelector('.ico');
+      ico.style.opacity = String(.45 + .55 * lit);
+      ico.style.borderColor = 'rgba(228,160,74,' + (.15 + .6 * lit) + ')';
+      ico.style.boxShadow = '0 0 ' + (6 + 16 * lit) + 'px rgba(228,160,74,' + (.04 + .32 * lit) + ')';
+      return [x * W, y * H];
+    });
+    var tx = BEFORE.team[0] + (AFTER.team[0] - BEFORE.team[0]) * move;
+    var ty = BEFORE.team[1] + (AFTER.team[1] - BEFORE.team[1]) * move;
+    place(team, tx, ty);
+    place(core, AFTER.core[0], AFTER.core[1]);
+    coreBox.style.opacity = String(coreT);
+    coreBox.style.transform = 'translate(-50%, -50%) scale(' + (.6 + .4 * coreT) + ')';
+    coreLabel.style.opacity = String(coreT);
+    var teamIco = team.querySelector('.ico');
+    teamIco.style.borderColor = 'rgba(228,160,74,' + (.2 + .6 * outT) + ')';
+    teamIco.style.boxShadow = '0 0 ' + (6 + 18 * outT) + 'px rgba(228,160,74,' + (.05 + .3 * outT) + ')';
+
+    ['tools', 'core', 'team'].forEach(function (key) {
+      place(cols[key], AFTER.cols[key][0], AFTER.cols[key][1]);
+      cols[key].style.opacity = String(labelT);
+    });
+    capBefore.style.opacity = String(1 - capOut);
+    capAfter.style.opacity = String(capIn);
+    gTangle.style.opacity = String(tangleT);
+
+    var teamPt = [tx * W, ty * H];
+    var wob = [34, -28, 40, -22];
+    pts.forEach(function (pt, i) {
+      tangleEls[i].setAttribute('d', bow(teamPt[0], teamPt[1], pt[0], pt[1], (i % 2 ? 1 : -1) * 36));
     });
     [[0, 3], [1, 4], [2, 5], [0, 5]].forEach(function (pair, i) {
-      var a = P(L.before.tools[pair[0]]), b = P(L.before.tools[pair[1]]);
-      el('path', { d: 'M' + a + ' Q' + ((a[0] + b[0]) / 2 + (i % 2 ? 50 : -50)) + ',' + ((a[1] + b[1]) / 2) + ' ' + b, opacity: .6 }, gTangle);
+      var a = pts[pair[0]], b = pts[pair[1]];
+      tangleEls[6 + i].setAttribute('d', bow(a[0], a[1], b[0], b[1], wob[i]));
+      tangleEls[6 + i].setAttribute('opacity', .55);
     });
 
-    /* after: every tool feeds the foundation, the foundation feeds the team */
-    var c = P(L.after.core), tm = P(L.after.team);
-    var paths = [];
-    L.after.tools.forEach(function (tp, i) {
-      var t = P(tp), d, off = (i - 2.5) * (narrow ? 4 : 5);
-      if (narrow) {
-        var my = (t[1] + c[1]) / 2 + 20;
-        d = 'M' + t + ' C' + t[0] + ',' + my + ' ' + (c[0] + off) + ',' + (my - 10) + ' ' + (c[0] + off) + ',' + c[1];
-      } else {
-        var mx = (t[0] + c[0]) / 2 + 30;
-        d = 'M' + t + ' C' + mx + ',' + t[1] + ' ' + (mx + 20) + ',' + (c[1] + off) + ' ' + c[0] + ',' + (c[1] + off);
+    var coreX = AFTER.core[0] * W, coreY = AFTER.core[1] * H;
+    var coreTop = coreY - 48 * (.6 + .4 * coreT);
+    var coreBot = coreY + 48 * (.6 + .4 * coreT);
+    pts.forEach(function (pt, i) {
+      var d = curve(pt[0], pt[1] + 24, coreX, coreTop);
+      linkBase[i].setAttribute('d', d);
+      linkDraw[i].setAttribute('d', d);
+      linkBase[i].style.opacity = String(toolsDraw);
+      var len = setDraw(linkDraw[i], toolsDraw);
+      if (len) {
+        var at = linkDraw[i].getPointAtLength(len * toolsDraw);
+        dots[i].setAttribute('cx', at.x); dots[i].setAttribute('cy', at.y);
+        dots[i].setAttribute('opacity', toolsDraw > .03 && toolsDraw < .98 ? .95 : 0);
       }
-      el('path', { d: d, class: 'base' }, gLinks); el('path', { d: d }, gLinks); paths.push(d);
     });
-    var out = 'M' + c + ' L' + tm;
-    el('path', { d: out, class: 'base' }, gLinks); el('path', { d: out }, gLinks);
-
-    if (!reduce) {
-      paths.forEach(function (d, i) {
-        var dot = el('circle', { r: 2.2, opacity: .9 }, gPulses);
-        el('animateMotion', { dur: '2.6s', repeatCount: 'indefinite', begin: (i * .43) + 's', path: d, keyPoints: '0;1', keyTimes: '0;1', calcMode: 'linear' }, dot);
-        el('animate', { attributeName: 'opacity', values: '0;.95;.95;0', keyTimes: '0;.1;.85;1', dur: '2.6s', repeatCount: 'indefinite', begin: (i * .43) + 's' }, dot);
-      });
-      [0, 1.3].forEach(function (b) {
-        var dot = el('circle', { r: 2.6 }, gPulses);
-        el('animateMotion', { dur: '2.6s', repeatCount: 'indefinite', begin: (b + .6) + 's', path: out }, dot);
-        el('animate', { attributeName: 'opacity', values: '0;1;1;0', keyTimes: '0;.1;.85;1', dur: '2.6s', repeatCount: 'indefinite', begin: (b + .6) + 's' }, dot);
-      });
+    var out = curve(coreX, coreBot, teamPt[0], teamPt[1] - 26);
+    outBase.setAttribute('d', out); outDraw.setAttribute('d', out);
+    outBase.style.opacity = String(outT);
+    var outLen = setDraw(outDraw, outT);
+    if (outLen) {
+      var tip = outDraw.getPointAtLength(outLen * outT);
+      dots[6].setAttribute('cx', tip.x); dots[6].setAttribute('cy', tip.y);
+      dots[6].setAttribute('opacity', outT > .03 && outT < .98 ? 1 : 0);
     }
-
-    if (L.cols) {
-      cols.tools.style.left = (L.cols.tools * 100) + '%';
-      cols.core.style.left = (L.cols.core * 100) + '%';
-      cols.team.style.left = (L.cols.team * 100) + '%';
-    }
-    apply(phase, true);
-  }
-
-  function apply(next, instant) {
-    var L = layout();
-    phase = next;
-    if (instant) flow.classList.add('no-anim');
-    var state = L[next];
-    place(team, state.team); place(core, state.core);
-    tools.forEach(function (t, i) { place(t, state.tools[i]); });
-    flow.classList.toggle('is-after', next === 'after');
-    if (instant) { void flow.offsetWidth; flow.classList.remove('no-anim'); }
-  }
-
-  function play() {
-    clearTimeout(timer);
-    apply('before', true);
-    timer = setTimeout(function () { apply('after'); }, 1900);
   }
 
   build();
-  if (reduce) { apply('after', true); }
-  else {
-    var played = false;
-    new IntersectionObserver(function (entries) {
-      entries.forEach(function (en) { if (en.isIntersecting && !played) { played = true; play(); } });
-    }, { threshold: .45 }).observe(flow);
+  var ticking = false;
+  function onFlowScroll() {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(function () { ticking = false; render(progress()); });
   }
-  flow.querySelector('.replay').addEventListener('click', function () { reduce ? apply('after', true) : play(); });
-  var lastW = flow.clientWidth;
-  new ResizeObserver(function () { if (flow.clientWidth !== lastW) { lastW = flow.clientWidth; build(); } }).observe(flow);
+  render(progress());
+  if (!reduce) {
+    window.addEventListener('scroll', onFlowScroll, { passive: true });
+    window.addEventListener('resize', onFlowScroll);
+  }
 })();
 </script>
 </body>
